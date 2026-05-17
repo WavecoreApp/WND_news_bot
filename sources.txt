@@ -1,0 +1,35 @@
+# One RSS URL per line. Lines starting with # are ignored.
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://www.theguardian.com/world/rss
+https://www.aljazeera.com/xml/rss/all.xml
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://feeds.npr.org/1004/rss.xml
+https://www.reutersagency.com/feed/?best-topics=political-general-news
+# AP News World
+https://apnews.com/world-news/rss
+
+# Deutsche Welle Russian
+https://rss.dw.com/rdf/rss-ru-all
+
+# Радио Свобода
+https://www.svoboda.org/api/zrqiteuuoirq
+
+# Meduza
+https://meduza.io/rss2/all
+
+# Настоящее время
+https://www.currenttime.tv/api/epiqq
+
+# Euronews Russian
+https://ru.euronews.com/rss?format=mrss
+# Bloomberg Technology
+https://feeds.bloomberg.com/technology/news.rss
+
+# Ars Technica
+http://feeds.arstechnica.com/arstechnica/index
+
+# TechCrunch
+https://techcrunch.com/feed/
+
+# CNBC World
+https://www.cnbc.com/id/100727362/device/rss/rss.html
