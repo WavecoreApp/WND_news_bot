@@ -1,6 +1,7 @@
 import hashlib
 import json
 import os
+import random
 import re
 import time
 from typing import Any, Dict, List, Optional, Set
@@ -17,18 +18,24 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "").strip()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 
-# Stable model, good for summarization/translation.
-# You can override it in GitHub: Settings -> Secrets and variables -> Actions -> Variables.
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip() or "gemini-2.5-flash"
 
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "3") or "3")
+# Now the bot is quality-based, not "only 3 best".
+# It checks many candidates and posts every strong one, up to this safety cap.
+MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "20") or "20")
 MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "8") or "8")
+MAX_ITEMS_PER_SOURCE = int(os.getenv("MAX_ITEMS_PER_SOURCE", "8") or "8")
+MAX_CANDIDATES_TO_CHECK = int(os.getenv("MAX_CANDIDATES_TO_CHECK", "60") or "60")
+
+# Caption under photo has a Telegram limit. Keep the AI post compact.
+MAX_CAPTION_LENGTH = 1024
+MAX_AI_POST_LENGTH = 760
 
 DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
 REQUEST_TIMEOUT = 15
-POST_DELAY_SECONDS = 4
+POST_DELAY_SECONDS = 3
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
@@ -49,24 +56,19 @@ def load_sources() -> List[str]:
     if not os.path.exists(SOURCES_FILE):
         raise FileNotFoundError(f"{SOURCES_FILE} not found")
     with open(SOURCES_FILE, "r", encoding="utf-8") as file:
-        return [
-            line.strip()
-            for line in file
-            if line.strip() and not line.strip().startswith("#")
-        ]
+        return [line.strip() for line in file if line.strip() and not line.strip().startswith("#")]
 
 
 def clean_html(text: str) -> str:
     if not text:
         return ""
-    soup = BeautifulSoup(text, "html.parser")
+    soup = BeautifulSoup(str(text), "html.parser")
     return re.sub(r"\s+", " ", soup.get_text(" ", strip=True)).strip()
 
 
 def normalize_url(url: str) -> str:
     if not url:
         return ""
-    # Keep it simple: remove tracking query parameters that often create duplicate URLs.
     return url.split("?", 1)[0].strip()
 
 
@@ -75,20 +77,20 @@ def make_news_id(url: str) -> str:
 
 
 def get_entry_image(entry: Any) -> Optional[str]:
-    # RSS media extensions
     media_content = entry.get("media_content")
     if media_content and isinstance(media_content, list):
-        url = media_content[0].get("url")
-        if url:
-            return url
+        for item in media_content:
+            url = item.get("url")
+            if url:
+                return url
 
     media_thumbnail = entry.get("media_thumbnail")
     if media_thumbnail and isinstance(media_thumbnail, list):
-        url = media_thumbnail[0].get("url")
-        if url:
-            return url
+        for item in media_thumbnail:
+            url = item.get("url")
+            if url:
+                return url
 
-    # Enclosure links
     links = entry.get("links", [])
     for link in links:
         href = link.get("href")
@@ -127,17 +129,21 @@ def get_best_image(entry: Any, url: str) -> Optional[str]:
 
 def collect_candidates(published_ids: Set[str]) -> List[Dict[str, Any]]:
     sources = load_sources()
-    candidates: List[Dict[str, Any]] = []
+    by_source: List[List[Dict[str, Any]]] = []
     seen_this_run: Set[str] = set()
 
     for rss_url in sources:
         print(f"Reading source: {rss_url}")
+        source_items: List[Dict[str, Any]] = []
+
         try:
             feed = feedparser.parse(rss_url)
             if getattr(feed, "bozo", 0):
                 print(f"RSS warning for {rss_url}: {getattr(feed, 'bozo_exception', '')}")
 
-            for entry in feed.entries[:12]:
+            source_name = clean_html(feed.feed.get("title", rss_url))
+
+            for entry in feed.entries[:MAX_ITEMS_PER_SOURCE]:
                 url = normalize_url(entry.get("link", ""))
                 if not url:
                     continue
@@ -154,47 +160,73 @@ def collect_candidates(published_ids: Set[str]) -> List[Dict[str, Any]]:
                     continue
 
                 seen_this_run.add(news_id)
-                candidates.append(
+                source_items.append(
                     {
                         "id": news_id,
                         "url": url,
                         "title": title,
                         "summary": summary,
                         "published": published,
+                        "source_name": source_name,
                         "entry": entry,
                     }
                 )
         except Exception as exc:
             print(f"Source error {rss_url}: {exc}")
 
+        if source_items:
+            by_source.append(source_items)
+
+    # Round-robin mixing: BBC cannot consume the whole run before other sources are checked.
+    candidates: List[Dict[str, Any]] = []
+    index = 0
+    while len(candidates) < MAX_CANDIDATES_TO_CHECK:
+        added = False
+        for source_items in by_source:
+            if index < len(source_items):
+                candidates.append(source_items[index])
+                added = True
+                if len(candidates) >= MAX_CANDIDATES_TO_CHECK:
+                    break
+        if not added:
+            break
+        index += 1
+
     return candidates
 
 
-def ask_gemini(title: str, summary: str, published: str, url: str) -> Dict[str, Any]:
+def ask_gemini(title: str, summary: str, published: str, source_name: str, url: str) -> Dict[str, Any]:
     prompt = f"""
-Ты редактор Telegram-канала с главными мировыми новостями на русском языке.
+Ты редактор Telegram-канала «WND | Мировой дайджест». Канал публикует главные мировые новости на русском.
 
-Нужно оценить новость и подготовить короткий красивый Telegram-пост.
+Твоя задача: оценить новость и сделать компактный Telegram-пост ПОД ФОТО.
 
-Правила:
+Правила оценки:
+- 9-10: очень важная международная новость, война, дипломатия, крупная экономика, санкции, кризис, катастрофа, AI/Big Tech с мировым эффектом, важные события СНГ/Европы/США/Ближнего Востока.
+- 8: хорошая важная новость для широкой аудитории.
+- 6-7: нормальная, но не обязательная.
+- 1-5: локальная, мелкая, повторяющаяся, celebrity, спорт без мирового эффекта, слабый инфоповод.
+
+Правила текста:
 - Используй только факты из входных данных. Ничего не додумывай.
 - Пиши на русском.
-- Сжимай новость: не длиннее 900 символов.
-- Стиль: ясно, живо, без канцелярита и без кликбейта.
-- Можно использовать 2–4 уместных эмодзи.
-- Можно использовать короткий список, если это помогает.
-- Не используй Markdown-разметку: никаких **, __, ###.
-- Если новость не очень важная для международной аудитории, поставь низкий score.
-- Важные темы: войны, дипломатия, политика, крупная экономика, технологии, общественные кризисы, катастрофы, международные решения.
+- Сжимай: максимум {MAX_AI_POST_LENGTH} символов.
+- Стиль Telegram: живо, ясно, без кликбейта и без канцелярита.
+- Можно использовать 2-4 уместных эмодзи.
+- Можно использовать короткие пункты через •, если это реально помогает.
+- Не используй Markdown: никаких **, __, ###.
+- Не добавляй ссылку на источник внутри post_ru — бот добавит её сам.
+- Не добавляй «подписывайтесь» внутри post_ru — бот добавит это сам.
 
 Верни строго JSON без текста вокруг:
 {{
   "score": 1-10,
   "headline_ru": "короткий заголовок на русском",
-  "post_ru": "готовый текст поста для Telegram"
+  "post_ru": "готовый текст поста"
 }}
 
 Входные данные:
+Source: {source_name}
 Title: {title}
 Summary: {summary}
 Published: {published}
@@ -206,7 +238,7 @@ URL: {url}
         contents=prompt,
         config={
             "response_mime_type": "application/json",
-            "temperature": 0.4,
+            "temperature": 0.35,
         },
     )
 
@@ -215,22 +247,17 @@ URL: {url}
 
     try:
         data = json.loads(raw)
-        return {
-            "score": int(data.get("score", 0)),
-            "headline_ru": str(data.get("headline_ru", "")).strip(),
-            "post_ru": str(data.get("post_ru", "")).strip(),
-        }
     except Exception:
-        # Fallback if model returns imperfect JSON.
         match = re.search(r"\{.*\}", raw, flags=re.DOTALL)
-        if match:
-            data = json.loads(match.group(0))
-            return {
-                "score": int(data.get("score", 0)),
-                "headline_ru": str(data.get("headline_ru", "")).strip(),
-                "post_ru": str(data.get("post_ru", "")).strip(),
-            }
-        raise ValueError(f"Could not parse Gemini JSON: {raw}")
+        if not match:
+            raise ValueError(f"Could not parse Gemini JSON: {raw}")
+        data = json.loads(match.group(0))
+
+    return {
+        "score": int(data.get("score", 0)),
+        "headline_ru": str(data.get("headline_ru", "")).strip(),
+        "post_ru": str(data.get("post_ru", "")).strip(),
+    }
 
 
 def telegram_request(method: str, payload: Dict[str, Any]) -> bool:
@@ -246,38 +273,50 @@ def telegram_request(method: str, payload: Dict[str, Any]) -> bool:
         return False
 
 
-def send_photo(image_url: str) -> bool:
+def build_caption(post_ru: str, source_url: str) -> str:
+    footer = f"\n\nИсточник: {source_url}\n\nПодписаться: {TELEGRAM_CHANNEL_ID}"
+    available = MAX_CAPTION_LENGTH - len(footer)
+
+    post_ru = post_ru.strip()
+    if len(post_ru) > available:
+        post_ru = post_ru[: max(0, available - 1)].rstrip() + "…"
+
+    return post_ru + footer
+
+
+def send_photo_with_caption(image_url: str, caption: str) -> bool:
     return telegram_request(
         "sendPhoto",
         {
             "chat_id": TELEGRAM_CHANNEL_ID,
             "photo": image_url,
+            "caption": caption,
         },
     )
 
 
-def send_message(text: str) -> bool:
+def send_message_no_preview(text: str) -> bool:
+    # If there is no photo, we disable link preview so Telegram does not add a random duplicate picture below.
     return telegram_request(
         "sendMessage",
         {
             "chat_id": TELEGRAM_CHANNEL_ID,
             "text": text,
-            "disable_web_page_preview": False,
+            "disable_web_page_preview": True,
         },
     )
 
 
 def publish(post_ru: str, source_url: str, image_url: Optional[str]) -> bool:
-    text = f"{post_ru}\n\nИсточник: {source_url}"
+    caption = build_caption(post_ru, source_url)
 
-    # Best visual result: image first, then full text.
-    # If Telegram cannot fetch the image, we still publish the text with link preview.
     if image_url:
-        photo_ok = send_photo(image_url)
-        print(f"Photo sent: {photo_ok}")
-        time.sleep(1)
+        ok = send_photo_with_caption(image_url, caption)
+        if ok:
+            return True
+        print("Photo with caption failed. Sending text without preview instead.")
 
-    return send_message(text)
+    return send_message_no_preview(caption)
 
 
 def validate_settings() -> bool:
@@ -303,11 +342,14 @@ def main() -> None:
     print(f"New candidates found: {len(candidates)}")
 
     posted_count = 0
+    checked_count = 0
 
     for item in candidates:
         if posted_count >= MAX_NEWS_PER_RUN:
+            print(f"Safety cap reached: MAX_NEWS_PER_RUN={MAX_NEWS_PER_RUN}")
             break
 
+        checked_count += 1
         print(f"Processing: {item['title']}")
 
         try:
@@ -315,6 +357,7 @@ def main() -> None:
                 title=item["title"],
                 summary=item["summary"],
                 published=item["published"],
+                source_name=item["source_name"],
                 url=item["url"],
             )
 
@@ -322,7 +365,7 @@ def main() -> None:
             post_ru = result["post_ru"]
             print(f"Score: {score}")
 
-            # Mark low-quality/low-importance items as seen so the bot does not evaluate them forever.
+            # Mark checked low-quality items as seen so the bot does not waste future runs on them.
             if score < MIN_SCORE_TO_POST:
                 print("Skipped: low score")
                 save_published_id(item["id"])
@@ -347,7 +390,7 @@ def main() -> None:
         except Exception as exc:
             print(f"Processing error: {exc}")
 
-    print(f"Done. Published: {posted_count}")
+    print(f"Done. Checked: {checked_count}. Published: {posted_count}")
 
 
 if __name__ == "__main__":
