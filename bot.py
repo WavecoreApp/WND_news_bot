@@ -544,12 +544,11 @@ def make_post_html(headline, body, source_url):
     safe_about_text = html.escape(ABOUT_LINK_TEXT.strip())
 
     return (
-        f"<b>{safe_headline}</b>\n\n"
-        f"{safe_body}\n\n"
-        f'<a href="{safe_source_url}">Источник</a>\n\n'
-        f"—\n"
-        f'<a href="{safe_about_url}">{safe_about_text}</a>'
-    )
+    f"<b>{safe_headline}</b>\n\n"
+    f"{safe_body}\n\n"
+    f'<a href="{safe_source_url}">Источник</a> | '
+    f'<a href="{safe_about_url}">Information</a>'
+)
 
 
 def send_photo_with_caption(image_url, caption_html):
