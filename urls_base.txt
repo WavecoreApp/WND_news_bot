@@ -71,3 +71,7 @@ seen_titlehash:f2adfafe31a5b1624b42ef19128f5c9ce8f9b5140ea77635d7fabf7ea4798f85
 seen_reason:low_score_2
 url:https://bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss
 title:man drives car into pedestrians in italy injuring eight
+urlhash:610e4e7f251e0f05f692f8da37fbdd333d0d7ad73ed117dad623ed55f1e74e6d
+titlehash:71b3c0a8c1b793b92986dfd00424ecef638a9d349463f0ec414893436997fc46
+published_url:https://bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss
+title:who declares ebola outbreak in dr congo an international emergency
