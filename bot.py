@@ -549,7 +549,7 @@ def make_post_html(headline, body, source_url, score):
     f"<b>{safe_headline}</b>\n\n"
     f"{safe_body}\n\n"
     f'<a href="{safe_source_url}">Источник</a> | '
-    f'<a href="{safe_about_url}">Information</a>'
+    f'<a href="https://t.me/wnd_digest/22">Information</a>'
 )
 
 
