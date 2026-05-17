@@ -1,10 +1,12 @@
 import hashlib
+import html
 import json
 import os
 import random
 import re
 import time
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Dict, List, Optional, Set, Tuple
+from urllib.parse import urljoin
 
 import feedparser
 import requests
@@ -20,22 +22,32 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip() or "gemini-2.5-flash"
 
-# Now the bot is quality-based, not "only 3 best".
-# It checks many candidates and posts every strong one, up to this safety cap.
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "20") or "20")
-MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "8") or "8")
+# Main posting logic:
+# - evaluate candidates from all RSS sources
+# - keep only news with score >= MIN_SCORE_TO_POST
+# - sort by score from highest to lowest
+# - publish up to MAX_NEWS_PER_RUN
+MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "10") or "10")
+MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "7") or "7")
 MAX_ITEMS_PER_SOURCE = int(os.getenv("MAX_ITEMS_PER_SOURCE", "8") or "8")
 MAX_CANDIDATES_TO_CHECK = int(os.getenv("MAX_CANDIDATES_TO_CHECK", "60") or "60")
 
+# Random delay between posts, so the channel does not look like spam.
+# Default: 1-3 minutes.
+POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60") or "60")
+POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180") or "180")
+
 # Caption under photo has a Telegram limit. Keep the AI post compact.
 MAX_CAPTION_LENGTH = 1024
-MAX_AI_POST_LENGTH = 760
+MAX_AI_POST_LENGTH = 660
+MIN_IMAGE_WIDTH = int(os.getenv("MIN_IMAGE_WIDTH", "700") or "700")
+MIN_IMAGE_HEIGHT = int(os.getenv("MIN_IMAGE_HEIGHT", "350") or "350")
+MIN_IMAGE_CONTENT_LENGTH = int(os.getenv("MIN_IMAGE_CONTENT_LENGTH", "90000") or "90000")
 
 DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
 REQUEST_TIMEOUT = 15
-POST_DELAY_SECONDS = 3
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
@@ -76,20 +88,70 @@ def make_news_id(url: str) -> str:
     return hashlib.sha256(url.encode("utf-8")).hexdigest()
 
 
-def get_entry_image(entry: Any) -> Optional[str]:
+def parse_int(value: Any) -> Optional[int]:
+    try:
+        if value is None:
+            return None
+        return int(str(value).strip())
+    except Exception:
+        return None
+
+
+def image_url_looks_small(url: str) -> bool:
+    lowered = url.lower()
+    bad_markers = [
+        "thumbnail", "thumb", "small", "60x", "80x", "100x", "120x",
+        "150x", "180x", "200x", "240x", "300x", "320x"
+    ]
+    return any(marker in lowered for marker in bad_markers)
+
+
+def image_has_enough_size(url: str, width: Optional[int] = None, height: Optional[int] = None) -> bool:
+    # If the page gives real OpenGraph dimensions, use them.
+    if width and height:
+        return width >= MIN_IMAGE_WIDTH and height >= MIN_IMAGE_HEIGHT
+
+    # Obvious thumbnails are rejected.
+    if image_url_looks_small(url):
+        return False
+
+    # If dimensions are missing, use content-length as a rough quality check.
+    # This avoids many tiny RSS thumbnails without downloading the whole image.
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 TelegramNewsBot/1.0"}
+        response = requests.head(url, allow_redirects=True, headers=headers, timeout=REQUEST_TIMEOUT)
+        content_type = response.headers.get("content-type", "").lower()
+        content_length = parse_int(response.headers.get("content-length"))
+
+        if content_type and "image" not in content_type:
+            return False
+
+        if content_length is not None:
+            return content_length >= MIN_IMAGE_CONTENT_LENGTH
+
+        # If server does not provide content-length, allow it unless URL looks like a thumbnail.
+        return True
+    except Exception as exc:
+        print(f"Image HEAD check failed for {url}: {exc}")
+        return False
+
+
+def get_entry_images(entry: Any) -> List[Tuple[str, Optional[int], Optional[int]]]:
+    images: List[Tuple[str, Optional[int], Optional[int]]] = []
+
     media_content = entry.get("media_content")
     if media_content and isinstance(media_content, list):
         for item in media_content:
             url = item.get("url")
             if url:
-                return url
+                images.append((url.strip(), parse_int(item.get("width")), parse_int(item.get("height"))))
 
     media_thumbnail = entry.get("media_thumbnail")
     if media_thumbnail and isinstance(media_thumbnail, list):
         for item in media_thumbnail:
             url = item.get("url")
             if url:
-                return url
+                images.append((url.strip(), parse_int(item.get("width")), parse_int(item.get("height"))))
 
     links = entry.get("links", [])
     for link in links:
@@ -97,34 +159,67 @@ def get_entry_image(entry: Any) -> Optional[str]:
         link_type = link.get("type", "")
         rel = link.get("rel", "")
         if href and ("image" in link_type or rel == "enclosure"):
-            return href
+            images.append((href.strip(), parse_int(link.get("width")), parse_int(link.get("height"))))
 
-    return None
+    return images
 
 
-def get_opengraph_image(url: str) -> Optional[str]:
+def get_opengraph_image(url: str) -> Optional[Tuple[str, Optional[int], Optional[int]]]:
     try:
         headers = {"User-Agent": "Mozilla/5.0 TelegramNewsBot/1.0"}
         response = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
-        selectors = [
+        image_url = None
+        for tag_name, attrs in [
+            ("meta", {"property": "og:image:secure_url"}),
             ("meta", {"property": "og:image"}),
             ("meta", {"name": "twitter:image"}),
             ("meta", {"property": "twitter:image"}),
-        ]
-        for tag_name, attrs in selectors:
+        ]:
             tag = soup.find(tag_name, attrs=attrs)
             if tag and tag.get("content"):
-                return tag["content"].strip()
+                image_url = urljoin(url, tag["content"].strip())
+                break
+
+        if not image_url:
+            return None
+
+        width = None
+        height = None
+        width_tag = soup.find("meta", property="og:image:width")
+        height_tag = soup.find("meta", property="og:image:height")
+        if width_tag and width_tag.get("content"):
+            width = parse_int(width_tag["content"])
+        if height_tag and height_tag.get("content"):
+            height = parse_int(height_tag["content"])
+
+        return image_url, width, height
     except Exception as exc:
         print(f"OpenGraph image error for {url}: {exc}")
     return None
 
 
 def get_best_image(entry: Any, url: str) -> Optional[str]:
-    return get_entry_image(entry) or get_opengraph_image(url)
+    # Prefer the article page OpenGraph image. RSS images are often small thumbnails.
+    og_image = get_opengraph_image(url)
+    if og_image:
+        image_url, width, height = og_image
+        if image_has_enough_size(image_url, width, height):
+            print(f"Using OpenGraph image: {image_url}")
+            return image_url
+        print(f"Rejected low-quality OpenGraph image: {image_url} ({width}x{height})")
+
+    # Fallback to RSS images only if they look good enough.
+    for image_url, width, height in get_entry_images(entry):
+        image_url = urljoin(url, image_url)
+        if image_has_enough_size(image_url, width, height):
+            print(f"Using RSS image: {image_url}")
+            return image_url
+        print(f"Rejected low-quality RSS image: {image_url} ({width}x{height})")
+
+    return None
 
 
 def collect_candidates(published_ids: Set[str]) -> List[Dict[str, Any]]:
@@ -177,7 +272,7 @@ def collect_candidates(published_ids: Set[str]) -> List[Dict[str, Any]]:
         if source_items:
             by_source.append(source_items)
 
-    # Round-robin mixing: BBC cannot consume the whole run before other sources are checked.
+    # Round-robin mixing: one source cannot consume the whole evaluation list.
     candidates: List[Dict[str, Any]] = []
     index = 0
     while len(candidates) < MAX_CANDIDATES_TO_CHECK:
@@ -199,13 +294,14 @@ def ask_gemini(title: str, summary: str, published: str, source_name: str, url: 
     prompt = f"""
 Ты редактор Telegram-канала «WND | Мировой дайджест». Канал публикует главные мировые новости на русском.
 
-Твоя задача: оценить новость и сделать компактный Telegram-пост ПОД ФОТО.
+Твоя задача: оценить новость, придумать сильный русский заголовок и сделать компактный Telegram-пост ПОД ФОТО.
 
 Правила оценки:
-- 9-10: очень важная международная новость, война, дипломатия, крупная экономика, санкции, кризис, катастрофа, AI/Big Tech с мировым эффектом, важные события СНГ/Европы/США/Ближнего Востока.
-- 8: хорошая важная новость для широкой аудитории.
-- 6-7: нормальная, но не обязательная.
-- 1-5: локальная, мелкая, повторяющаяся, celebrity, спорт без мирового эффекта, слабый инфоповод.
+- 10: топовая мировая новость дня. Очень важное событие с международными последствиями.
+- 9: очень важная международная новость: война, дипломатия, крупная экономика, санкции, кризис, катастрофа, AI/Big Tech с мировым эффектом, важные события СНГ/Европы/США/Ближнего Востока.
+- 8: важная новость для широкой аудитории.
+- 7: интересная и полезная новость, которую можно публиковать, если она не локальная мелочь.
+- 1-6: локальная, мелкая, повторяющаяся, celebrity, спорт без мирового эффекта, слабый инфоповод.
 
 Правила текста:
 - Используй только факты из входных данных. Ничего не додумывай.
@@ -214,6 +310,7 @@ def ask_gemini(title: str, summary: str, published: str, source_name: str, url: 
 - Стиль Telegram: живо, ясно, без кликбейта и без канцелярита.
 - Можно использовать 2-4 уместных эмодзи.
 - Можно использовать короткие пункты через •, если это реально помогает.
+- Заголовок headline_ru должен быть цепляющим, но без кликбейта. Опирайся на оригинальный заголовок статьи.
 - Не используй Markdown: никаких **, __, ###.
 - Не добавляй ссылку на источник внутри post_ru — бот добавит её сам.
 - Не добавляй «подписывайтесь» внутри post_ru — бот добавит это сам.
@@ -221,7 +318,7 @@ def ask_gemini(title: str, summary: str, published: str, source_name: str, url: 
 Верни строго JSON без текста вокруг:
 {{
   "score": 1-10,
-  "headline_ru": "короткий заголовок на русском",
+  "headline_ru": "короткий цепляющий заголовок на русском",
   "post_ru": "готовый текст поста"
 }}
 
@@ -253,8 +350,11 @@ URL: {url}
             raise ValueError(f"Could not parse Gemini JSON: {raw}")
         data = json.loads(match.group(0))
 
+    score = int(data.get("score", 0))
+    score = max(0, min(10, score))
+
     return {
-        "score": int(data.get("score", 0)),
+        "score": score,
         "headline_ru": str(data.get("headline_ru", "")).strip(),
         "post_ru": str(data.get("post_ru", "")).strip(),
     }
@@ -273,50 +373,75 @@ def telegram_request(method: str, payload: Dict[str, Any]) -> bool:
         return False
 
 
-def build_caption(post_ru: str, source_url: str) -> str:
-    footer = f"\n\nИсточник: {source_url}\n\nПодписаться: {TELEGRAM_CHANNEL_ID}"
-    available = MAX_CAPTION_LENGTH - len(footer)
+def build_post_html(headline_ru: str, post_ru: str, source_url: str, for_caption: bool) -> str:
+    safe_headline = html.escape((headline_ru or "Главное к этому часу").strip())
+    safe_post = html.escape((post_ru or "").strip())
 
-    post_ru = post_ru.strip()
-    if len(post_ru) > available:
-        post_ru = post_ru[: max(0, available - 1)].rstrip() + "…"
+    # Raw source URL is intentionally visible.
+    # In text-only mode Telegram can use it for the link preview.
+    footer = f"\n\nИсточник: {source_url}\nПодписаться: {TELEGRAM_CHANNEL_ID}"
 
-    return post_ru + footer
+    if safe_post:
+        body = f"<b>{safe_headline}</b>\n\n{safe_post}"
+    else:
+        body = f"<b>{safe_headline}</b>"
+
+    if for_caption:
+        available = MAX_CAPTION_LENGTH - len(footer)
+        if len(body) > available:
+            body = body[: max(0, available - 1)].rstrip() + "…"
+
+    return body + footer
 
 
-def send_photo_with_caption(image_url: str, caption: str) -> bool:
+def send_photo_with_caption(image_url: str, caption_html: str) -> bool:
     return telegram_request(
         "sendPhoto",
         {
             "chat_id": TELEGRAM_CHANNEL_ID,
             "photo": image_url,
-            "caption": caption,
+            "caption": caption_html,
+            "parse_mode": "HTML",
         },
     )
 
 
-def send_message_no_preview(text: str) -> bool:
-    # If there is no photo, we disable link preview so Telegram does not add a random duplicate picture below.
+def send_message_with_preview(text_html: str) -> bool:
     return telegram_request(
         "sendMessage",
         {
             "chat_id": TELEGRAM_CHANNEL_ID,
-            "text": text,
-            "disable_web_page_preview": True,
+            "text": text_html,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
         },
     )
 
 
-def publish(post_ru: str, source_url: str, image_url: Optional[str]) -> bool:
-    caption = build_caption(post_ru, source_url)
-
+def publish(headline_ru: str, post_ru: str, source_url: str, image_url: Optional[str]) -> bool:
     if image_url:
+        caption = build_post_html(headline_ru, post_ru, source_url, for_caption=True)
         ok = send_photo_with_caption(image_url, caption)
         if ok:
             return True
-        print("Photo with caption failed. Sending text without preview instead.")
+        print("Photo with caption failed. Sending text message with source preview instead.")
 
-    return send_message_no_preview(caption)
+    # No good-quality image, or Telegram rejected the image.
+    # Send text with preview enabled so Telegram can pull the original article preview.
+    message = build_post_html(headline_ru, post_ru, source_url, for_caption=False)
+    return send_message_with_preview(message)
+
+
+def random_delay_after_post(current_index: int, total_to_publish: int) -> None:
+    # No need to wait after the final post.
+    if current_index >= total_to_publish:
+        return
+
+    low = min(POST_DELAY_MIN_SECONDS, POST_DELAY_MAX_SECONDS)
+    high = max(POST_DELAY_MIN_SECONDS, POST_DELAY_MAX_SECONDS)
+    delay = random.randint(low, high)
+    print(f"Waiting {delay} seconds before next post...")
+    time.sleep(delay)
 
 
 def validate_settings() -> bool:
@@ -341,16 +466,14 @@ def main() -> None:
     candidates = collect_candidates(published_ids)
     print(f"New candidates found: {len(candidates)}")
 
-    posted_count = 0
+    evaluated: List[Dict[str, Any]] = []
     checked_count = 0
 
+    # First pass: evaluate all candidates, do NOT publish yet.
+    # This lets the bot publish the strongest stories first.
     for item in candidates:
-        if posted_count >= MAX_NEWS_PER_RUN:
-            print(f"Safety cap reached: MAX_NEWS_PER_RUN={MAX_NEWS_PER_RUN}")
-            break
-
         checked_count += 1
-        print(f"Processing: {item['title']}")
+        print(f"Evaluating: {item['title']}")
 
         try:
             result = ask_gemini(
@@ -365,9 +488,9 @@ def main() -> None:
             post_ru = result["post_ru"]
             print(f"Score: {score}")
 
-            # Mark checked low-quality items as seen so the bot does not waste future runs on them.
             if score < MIN_SCORE_TO_POST:
                 print("Skipped: low score")
+                # Mark low-quality checked items as seen, so future runs don't waste time on them.
                 save_published_id(item["id"])
                 continue
 
@@ -376,21 +499,48 @@ def main() -> None:
                 save_published_id(item["id"])
                 continue
 
+            item["score"] = score
+            item["post_ru"] = post_ru
+            item["headline_ru"] = result["headline_ru"]
+            evaluated.append(item)
+
+        except Exception as exc:
+            print(f"Evaluation error: {exc}")
+
+    print(f"Strong news found: {len(evaluated)}")
+
+    # Sort by quality: 10 first, then 9, then 8, then 7.
+    # If scores are equal, keep the earlier round-robin order.
+    evaluated.sort(key=lambda x: x.get("score", 0), reverse=True)
+    to_publish = evaluated[:MAX_NEWS_PER_RUN]
+
+    if len(evaluated) > MAX_NEWS_PER_RUN:
+        print(
+            f"Publish cap: found {len(evaluated)} strong news, "
+            f"publishing top {MAX_NEWS_PER_RUN} by score."
+        )
+
+    posted_count = 0
+
+    for index, item in enumerate(to_publish, start=1):
+        print(f"Publishing #{index}/{len(to_publish)} | Score {item['score']} | {item['title']}")
+
+        try:
             image_url = get_best_image(item["entry"], item["url"])
-            success = publish(post_ru=post_ru, source_url=item["url"], image_url=image_url)
+            success = publish(headline_ru=item.get("headline_ru", ""), post_ru=item["post_ru"], source_url=item["url"], image_url=image_url)
 
             if success:
                 save_published_id(item["id"])
                 posted_count += 1
                 print("Published successfully")
-                time.sleep(POST_DELAY_SECONDS)
+                random_delay_after_post(index, len(to_publish))
             else:
                 print("Publish failed; item was not marked as published")
 
         except Exception as exc:
-            print(f"Processing error: {exc}")
+            print(f"Publish error: {exc}")
 
-    print(f"Done. Checked: {checked_count}. Published: {posted_count}")
+    print(f"Done. Checked: {checked_count}. Strong: {len(evaluated)}. Published: {posted_count}")
 
 
 if __name__ == "__main__":
