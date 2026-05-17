@@ -87,3 +87,8 @@ urlhash:0946e5c969737c5f1bc561fb035e846c29b5738eb476cbf81ed59415bd29d3ca
 titlehash:f727e6b0ce80b9415072ddecc280844300ef258527a4f8bfe962fed90513e3b5
 published_url:https://bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss
 title:taiwan insists it is independent after trump warning
+seen_urlhash:6a33f61f1a1f6f45abef0269e282637995c6171fa3ef143f0e35fc43d79f583d
+seen_titlehash:57b06ee32763959be8212c28ae165e55ff1232cddd8acbd52d906d84ce4ff55c
+seen_reason:low_score_4
+url:https://bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss
+title:trump backed challenger defeats republican senator who voted to convict president
