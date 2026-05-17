@@ -26,8 +26,12 @@ Settings -> Secrets and variables -> Actions -> Variables -> New repository vari
 
 Можно добавить:
 
-- `MAX_NEWS_PER_RUN` = `3`
-- `MIN_SCORE_TO_POST` = `8`
-- `GEMINI_MODEL` = `gemini-2.5-flash`
+- ABOUT_POST_URL — link to your channel info/about post, e.g. https://t.me/wnd_digest/15
+- ABOUT_LINK_TEXT — default: ℹ️ О проекте WND
+- MIN_SCORE_TO_POST — default: 7
+- MAX_NEWS_PER_RUN — default: 10
+- POST_DELAY_MIN_SECONDS — default: 60
+- POST_DELAY_MAX_SECONDS — default: 180
+- MAX_CANDIDATES_TO_ANALYZE — default: 60
+- ENTRIES_PER_SOURCE — default: 10
 
-Если не добавлять, эти значения уже стоят по умолчанию в коде.
