@@ -32,21 +32,78 @@ MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "10"))
 POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
 POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
 
-# Вставь сюда ссылку на твой info/about пост в канале.
-# Пример: https://t.me/wnd_digest/15
 ABOUT_POST_URL = os.getenv("ABOUT_POST_URL", "https://t.me/wnd_digest")
-
-# Текст ссылки внизу каждого поста
 ABOUT_LINK_TEXT = os.getenv("ABOUT_LINK_TEXT", "ℹ️ О проекте WND")
 
-# Сколько новостей брать максимум из каждого RSS за один запуск
-ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "10"))
+ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "12"))
+MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "80"))
 
-# Чтобы не гонять Gemini по сотням новостей за один запуск
-MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "60"))
-
+# Важно: чтобы BBC/один сайт не забивал весь выпуск
+MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "2"))
 
 client = genai.Client()
+
+
+# =========================
+# UTILS
+# =========================
+
+def hash_text(text):
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
+def clean_text(text):
+    if not text:
+        return ""
+    soup = BeautifulSoup(str(text), "html.parser")
+    return soup.get_text(" ", strip=True)
+
+
+def normalize_url(url):
+    if not url:
+        return ""
+
+    url = url.strip()
+    parsed = urlparse(url)
+
+    blocked_prefixes = ("utm_",)
+    blocked_keys = {
+        "fbclid", "gclid", "mc_cid", "mc_eid", "cmpid",
+        "ocid", "smid", "ref", "ref_src", "ito"
+    }
+
+    query = []
+    for key, value in parse_qsl(parsed.query, keep_blank_values=True):
+        key_l = key.lower()
+        if key_l in blocked_keys:
+            continue
+        if any(key_l.startswith(prefix) for prefix in blocked_prefixes):
+            continue
+        query.append((key, value))
+
+    clean = parsed._replace(
+        scheme=parsed.scheme.lower() or "https",
+        netloc=parsed.netloc.lower().replace("www.", ""),
+        path=parsed.path.rstrip("/"),
+        query=urlencode(query, doseq=True),
+        fragment=""
+    )
+
+    return urlunparse(clean)
+
+
+def normalize_title(title):
+    title = clean_text(title).lower()
+    title = re.sub(r"[^\wа-яёіїєґ\s]", " ", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s+", " ", title).strip()
+    return title
+
+
+def get_domain(url):
+    try:
+        return urlparse(url).netloc.lower().replace("www.", "")
+    except Exception:
+        return "unknown"
 
 
 # =========================
@@ -54,12 +111,6 @@ client = genai.Client()
 # =========================
 
 def load_db():
-    """
-    Поддерживает старые и новые записи:
-    - старые голые URL
-    - новые строки urlhash:...
-    - titlehash:...
-    """
     url_hashes = set()
     title_hashes = set()
     raw_lines = set()
@@ -79,75 +130,38 @@ def load_db():
                 url_hashes.add(item.replace("urlhash:", "", 1))
             elif item.startswith("titlehash:"):
                 title_hashes.add(item.replace("titlehash:", "", 1))
-            else:
-                # старый формат: URL или random строка
-                raw_lines.add(item)
-                if item.startswith("http"):
-                    url_hashes.add(hash_text(normalize_url(item)))
+            elif item.startswith("seen_urlhash:"):
+                url_hashes.add(item.replace("seen_urlhash:", "", 1))
+            elif item.startswith("seen_titlehash:"):
+                title_hashes.add(item.replace("seen_titlehash:", "", 1))
+            elif item.startswith("http"):
+                url_hashes.add(hash_text(normalize_url(item)))
 
     return url_hashes, title_hashes, raw_lines
 
 
-def append_db(url_hash, title_hash, normalized_url, normalized_title):
+def append_seen(item, reason):
+    """
+    Сохраняем не только опубликованные, но и обработанные/пропущенные.
+    Так при ручных перезапусках бот не будет снова крутить те же BBC/Ebola новости.
+    """
     with open(DB_FILE, "a", encoding="utf-8") as f:
-        f.write(f"urlhash:{url_hash}\n")
-        f.write(f"titlehash:{title_hash}\n")
-        f.write(f"url:{normalized_url}\n")
-        f.write(f"title:{normalized_title}\n")
+        f.write(f"seen_urlhash:{item['url_hash']}\n")
+        f.write(f"seen_titlehash:{item['title_hash']}\n")
+        f.write(f"seen_reason:{reason}\n")
+        f.write(f"url:{item['link']}\n")
+        f.write(f"title:{item['normalized_title']}\n")
 
 
-def hash_text(text):
-    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+def append_published(item):
+    with open(DB_FILE, "a", encoding="utf-8") as f:
+        f.write(f"urlhash:{item['url_hash']}\n")
+        f.write(f"titlehash:{item['title_hash']}\n")
+        f.write(f"published_url:{item['link']}\n")
+        f.write(f"title:{item['normalized_title']}\n")
 
 
-def normalize_url(url):
-    if not url:
-        return ""
-
-    url = url.strip()
-    parsed = urlparse(url)
-
-    # Убираем tracking-параметры
-    blocked_prefixes = ("utm_",)
-    blocked_keys = {
-        "fbclid", "gclid", "mc_cid", "mc_eid", "cmpid",
-        "ocid", "smid", "ref", "ref_src", "ito"
-    }
-
-    query = []
-    for key, value in parse_qsl(parsed.query, keep_blank_values=True):
-        key_l = key.lower()
-        if key_l in blocked_keys:
-            continue
-        if any(key_l.startswith(prefix) for prefix in blocked_prefixes):
-            continue
-        query.append((key, value))
-
-    path = parsed.path.rstrip("/")
-    clean = parsed._replace(
-        scheme=parsed.scheme.lower() or "https",
-        netloc=parsed.netloc.lower(),
-        path=path,
-        query=urlencode(query, doseq=True),
-        fragment=""
-    )
-
-    return urlunparse(clean)
-
-
-def normalize_title(title):
-    title = clean_text(title).lower()
-    title = re.sub(r"[^\wа-яёіїєґ\s]", " ", title, flags=re.IGNORECASE)
-    title = re.sub(r"\s+", " ", title).strip()
-    return title
-
-
-def is_similar_to_published_title(title, published_title_hashes, raw_lines):
-    """
-    Быстрая проверка:
-    1. title hash
-    2. fuzzy similarity against old saved title:... lines
-    """
+def is_similar_to_published_title(title, published_title_hashes, raw_db_lines):
     normalized = normalize_title(title)
     title_hash = hash_text(normalized)
 
@@ -156,11 +170,11 @@ def is_similar_to_published_title(title, published_title_hashes, raw_lines):
 
     old_titles = [
         line.replace("title:", "", 1)
-        for line in raw_lines
+        for line in raw_db_lines
         if line.startswith("title:")
     ]
 
-    for old in old_titles[-500:]:
+    for old in old_titles[-800:]:
         ratio = difflib.SequenceMatcher(None, normalized, old).ratio()
         if ratio >= 0.86:
             return True
@@ -184,14 +198,6 @@ def load_sources():
         ]
 
 
-def clean_text(text):
-    if not text:
-        return ""
-
-    soup = BeautifulSoup(str(text), "html.parser")
-    return soup.get_text(" ", strip=True)
-
-
 def collect_candidates(sources, published_url_hashes, published_title_hashes, raw_db_lines):
     all_by_source = []
 
@@ -204,14 +210,15 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
 
             for entry in feed.entries[:ENTRIES_PER_SOURCE]:
                 link = normalize_url(entry.get("link", ""))
+
                 title = clean_text(entry.get("title", ""))
                 summary = clean_text(entry.get("summary", entry.get("description", "")))
 
                 if not link or not title:
                     continue
 
-                url_hash = hash_text(link)
                 normalized_title = normalize_title(title)
+                url_hash = hash_text(link)
                 title_hash = hash_text(normalized_title)
 
                 if url_hash in published_url_hashes:
@@ -225,6 +232,7 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
 
                 source_items.append({
                     "source_rss": rss_url,
+                    "domain": get_domain(link),
                     "entry": entry,
                     "link": link,
                     "url_hash": url_hash,
@@ -234,12 +242,13 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
                     "title_hash": title_hash,
                 })
 
+            print(f"New candidates from source: {len(source_items)}")
             all_by_source.append(source_items)
 
         except Exception as e:
             print(f"Source error {rss_url}: {e}")
 
-    # Балансировка: берём по одной новости из каждого источника по кругу
+    # Round-robin по источникам, чтобы нижние источники тоже попадали в анализ
     balanced = []
     index = 0
 
@@ -302,7 +311,6 @@ def extract_rss_image(entry):
             if href and ("image" in link_type or rel == "enclosure"):
                 candidates.append((href, 0, 0))
 
-    # Сначала выбираем по размеру, если он есть
     good = []
     for url, width, height in candidates:
         if not is_probably_good_image_url(url):
@@ -351,7 +359,6 @@ def extract_og_image(article_url):
 
 
 def get_best_image(entry, article_url):
-    # Сначала страница статьи: чаще всего там image лучше, чем RSS thumbnail
     og = extract_og_image(article_url)
     if og:
         return og
@@ -370,19 +377,28 @@ def ask_gemini(title, description, source_link):
 Задача:
 1. Оцени важность новости от 1 до 10.
 2. Публиковать стоит только новости, интересные русскоязычной международной аудитории.
-3. Приоритет: мировая политика, войны, дипломатия, экономика, технологии, AI, крупные катастрофы, СНГ, Европа, США, Ближний Восток, Китай.
-4. Не публикуй мелкие локальные новости, celebrity gossip, спорт без большого мирового значения, мелкую партийную рутину.
-5. Сделай цепляющий русский заголовок. Не кликбейт, но живой и сильный.
-6. Сделай короткую выжимку на русском.
-7. Не выдумывай факты. Используй только исходные данные.
-8. Стиль Telegram: коротко, ясно, можно использовать 1–3 уместных эмодзи.
-9. Можно использовать списки с символом •.
-10. Не используй Markdown.
-11. Не вставляй ссылки в текст.
+3. Приоритеты канала:
+   • мировая политика
+   • войны и безопасность
+   • дипломатия
+   • экономика и рынки
+   • технологии, AI, Big Tech
+   • крупные катастрофы
+   • СНГ, Европа, США, Ближний Восток, Китай
+4. Не завышай однотипные новости, если они уже звучат как рядовое обновление.
+5. Не публикуй мелкие локальные новости, celebrity gossip, спорт без большого мирового значения.
+6. Сделай цепляющий русский заголовок. Не кликбейт, но живой и сильный.
+7. Сделай короткую выжимку на русском.
+8. Не выдумывай факты. Используй только исходные данные.
+9. Стиль Telegram: коротко, ясно, можно использовать 1–3 уместных эмодзи.
+10. Можно использовать списки с символом •.
+11. Не используй Markdown.
+12. Не вставляй ссылки в текст.
 
 Верни строго в таком формате:
 
 SCORE: число от 1 до 10
+CATEGORY: politics/economy/tech/war/cis/world/disaster/other
 HEADLINE: русский заголовок
 POST:
 короткий текст новости без заголовка
@@ -403,15 +419,20 @@ Link: {source_link}
 
 def parse_gemini_response(text):
     score = 0
+    category = "other"
     headline = ""
     post = text.strip()
 
     try:
         score_match = re.search(r"SCORE:\s*(\d+)", text, re.IGNORECASE)
+        category_match = re.search(r"CATEGORY:\s*([a-zA-Z_/-]+)", text, re.IGNORECASE)
         headline_match = re.search(r"HEADLINE:\s*(.+)", text, re.IGNORECASE)
 
         if score_match:
             score = int(score_match.group(1))
+
+        if category_match:
+            category = category_match.group(1).strip().lower()
 
         if headline_match:
             headline = headline_match.group(1).strip()
@@ -419,14 +440,14 @@ def parse_gemini_response(text):
         if "POST:" in text:
             post = text.split("POST:", 1)[1].strip()
 
-        # Убираем случайно оставшиеся служебные строки
         post = re.sub(r"^HEADLINE:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
+        post = re.sub(r"^CATEGORY:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
         post = re.sub(r"^SCORE:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
 
     except Exception:
         pass
 
-    return score, headline, post
+    return score, category, headline, post
 
 
 def analyze_candidates(candidates):
@@ -442,28 +463,57 @@ def analyze_candidates(candidates):
                 item["link"]
             )
 
-            score, headline, post_text = parse_gemini_response(gemini_text)
+            score, category, headline, post_text = parse_gemini_response(gemini_text)
 
-            print(f"Score: {score} | {headline}")
-
-            if score < MIN_SCORE_TO_POST:
-                continue
-
-            if not headline:
-                headline = item["title"]
+            print(f"Score: {score} | Category: {category} | Domain: {item['domain']} | {headline}")
 
             item["score"] = score
-            item["headline"] = headline
+            item["category"] = category
+            item["headline"] = headline or item["title"]
             item["post_text"] = post_text
+
+            # ВАЖНО: даже если score низкий, помечаем как seen,
+            # чтобы оно не крутилось снова при каждом ручном запуске.
+            if score < MIN_SCORE_TO_POST:
+                append_seen(item, f"low_score_{score}")
+                continue
+
             analyzed.append(item)
 
         except Exception as e:
             print(f"Gemini error: {e}")
 
-    # Самые важные — первыми. При равном score сохраняем исходный balanced order.
     analyzed.sort(key=lambda x: x["score"], reverse=True)
+    return analyzed
 
-    return analyzed[:MAX_NEWS_PER_RUN]
+
+def select_diverse_news(analyzed):
+    selected = []
+    domain_counts = {}
+
+    # 1 проход: берём лучшие, но не больше MAX_POSTS_PER_DOMAIN с одного домена
+    for item in analyzed:
+        domain = item["domain"]
+        count = domain_counts.get(domain, 0)
+
+        if count >= MAX_POSTS_PER_DOMAIN:
+            append_seen(item, f"domain_cap_{domain}")
+            continue
+
+        selected.append(item)
+        domain_counts[domain] = count + 1
+
+        if len(selected) >= MAX_NEWS_PER_RUN:
+            break
+
+    # Всё, что хорошее, но не попало из-за лимитов, тоже marked seen,
+    # чтобы следующие ручные перезапуски не гоняли один и тот же верх RSS.
+    selected_ids = {item["url_hash"] for item in selected}
+    for item in analyzed:
+        if item["url_hash"] not in selected_ids:
+            append_seen(item, "not_selected_this_run")
+
+    return selected
 
 
 # =========================
@@ -544,8 +594,6 @@ def publish_item(item):
 
     image_url = get_best_image(item["entry"], item["link"])
 
-    # Telegram caption limit is 1024 chars.
-    # Если текст длинный — отправляем текст без фото, но с preview ссылки.
     if image_url and len(text_html) <= 1000:
         ok = send_photo_with_caption(image_url, text_html)
         if ok:
@@ -553,12 +601,10 @@ def publish_item(item):
 
         print("Photo failed, fallback to text with link preview.")
 
-    # Если фото плохое/не отправилось/текст слишком длинный — пусть Telegram подтянет preview из ссылки "Источник".
     ok = send_text_with_preview(text_html)
     if ok:
         return True
 
-    # Последний fallback — без preview.
     return send_text_without_preview(text_html)
 
 
@@ -610,30 +656,31 @@ def main():
         print("No new candidates.")
         return
 
-    selected = analyze_candidates(candidates)
+    analyzed = analyze_candidates(candidates)
+    selected = select_diverse_news(analyzed)
 
     print(f"Selected for publishing: {len(selected)}")
 
     if not selected:
-        print("No high-score news found.")
+        print("No high-score diverse news found.")
         return
 
     for index, item in enumerate(selected):
-        print(f"Publishing {index + 1}/{len(selected)}: score {item['score']} | {item['headline']}")
+        print(
+            f"Publishing {index + 1}/{len(selected)}: "
+            f"score {item['score']} | {item['category']} | {item['domain']} | {item['headline']}"
+        )
 
         try:
             if publish_item(item):
-                append_db(
-                    item["url_hash"],
-                    item["title_hash"],
-                    item["link"],
-                    item["normalized_title"]
-                )
+                append_published(item)
                 print("Published.")
             else:
+                append_seen(item, "publish_failed")
                 print("Publish failed.")
 
         except Exception as e:
+            append_seen(item, f"publish_exception")
             print(f"Publish item error: {e}")
 
         sleep_between_posts(index, len(selected))
