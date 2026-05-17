@@ -536,7 +536,7 @@ def telegram_api(method, payload):
         return False
 
 
-def make_post_html(headline, body, source_url):
+def make_post_html(headline, body, source_url, score):
     safe_headline = html.escape(headline.strip())
     safe_body = html.escape(body.strip())
     if score >= 10:
@@ -588,10 +588,11 @@ def send_text_without_preview(text_html):
 
 def publish_item(item):
     text_html = make_post_html(
-        item["headline"],
-        item["post_text"],
-        item["link"]
-    )
+    item["headline"],
+    item["post_text"],
+    item["link"],
+    item["score"]
+)
 
     image_url = get_best_image(item["entry"], item["link"])
 
