@@ -30,6 +30,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          MAX_CANDIDATES_TO_ANALYZE: ${{ vars.MAX_CANDIDATES_TO_ANALYZE }}
+          MAX_NEWS_PER_RUN: ${{ vars.MAX_NEWS_PER_RUN }}
+          MIN_SCORE_TO_POST: ${{ vars.MIN_SCORE_TO_POST }}
         run: python bot.py
 
       - name: Save published URLs database
