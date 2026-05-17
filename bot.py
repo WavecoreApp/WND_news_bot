@@ -539,6 +539,8 @@ def telegram_api(method, payload):
 def make_post_html(headline, body, source_url):
     safe_headline = html.escape(headline.strip())
     safe_body = html.escape(body.strip())
+    if score >= 10:
+    safe_headline = f"⚡ {safe_headline}"
     safe_source_url = html.escape(source_url.strip(), quote=True)
     safe_about_url = html.escape(ABOUT_POST_URL.strip(), quote=True)
     safe_about_text = html.escape(ABOUT_LINK_TEXT.strip())
