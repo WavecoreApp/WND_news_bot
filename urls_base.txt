@@ -1219,3 +1219,113 @@ seen_titlehash:f4c713a797fdbb6c57441f399118f8e36a4b0e50ae85d32674cc7372e3cf666c
 seen_reason:processed_not_published
 url:https://cnbc.com/2026/05/18/nextera-nee-dominion-energy-d-data-center-ai.html
 title:nextera energy to buy dominion in deal that unites two key players in race to power ai data centers
+seen_urlhash:6830d341c983775549c1c9c3239ceb020442b2c6bf0ef960a04397d903bf93ba
+seen_titlehash:d3d673337c807c0988a3ff0915196e68ea0ed55f791cde3fe9cdf1b6fd39d964
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss
+title:trump v massie could president s republican nemesis survive 20m attack to oust him
+seen_urlhash:b9dce5508891efc1f5bd2fa1401f2517a15c851eb23bd63ca3fb4e4e628ff9bf
+seen_titlehash:1d03b8e6a5e50b096d7e3c70c8c1dfe0c808e7351ad9700a7fca1e4eedfd006a
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss
+title:trump administration unveils 1 7bn fund to compensate his allies as he drops tax lawsuit
+seen_urlhash:b0f6a608953f6739187de9a08cc3b7e3c627c2cbcc0a0a30fa2b3fff287b2880
+seen_titlehash:67de5af2d98ccd3f6534385de718da9714c9d9d87ccc5139c0b097f58bf496f9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb
+title:australia news live liberal senator says we cannot continue to blame migrants for economic issues in direct attack on angus taylor s rhetoric
+seen_urlhash:f8914bbdce451302a07b7d27a32d378a014b3dfd26e167410f0791be77443ed1
+seen_titlehash:81b59e1be09fb76d0941bf9ccb9cd60e3ee9c9bb9a4566e6754014ae548e8cbc
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss
+title:brazil call up neymar to world cup 2026 squad
+seen_urlhash:a56f2775160cfb47ede9fd0b8fcdd4175a09cb09e0df8ca180ce5c9b179ebeff
+seen_titlehash:ce1766d16ae9d6c657188950b0e5a298c31704c2dfb1c67390826468213fc8ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss
+title:a redistricting re do what to know about alabama s primary elections
+seen_urlhash:08508e6811eb9c72db9783cec419ac7f05d37189e093de677cf3449af39c7714
+seen_titlehash:c48d3dde2de82f7038d6075ba9ecae616aeeb20943cf900a1eba3ae9ebd295e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss
+title:is the us trying to force regime change in cuba
+seen_urlhash:1048994cfd5dfbaf3b196924aef4ce8f28df285cd41c6327aaa89fb0eba7de6e
+seen_titlehash:ebba97d31e47412a3906de4ff950669e72dc72419c3383c499867f80ef3d4813
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season?traffic_source=rss
+title:guardiola on verge of manchester city exit at end of premier league season
+seen_urlhash:d440fa6e13fc3bf5bdcf15bca817088415a6597c1a83aa59b3389857afd97e82
+seen_titlehash:fa183ef1e1faa7d29409a316dbfdf3b47e077846b80229c5fb047b1501a47369
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/18/venezuelan-protesters-clash-with-police-at-rally-for-political-prisoners?traffic_source=rss
+title:venezuelan protesters clash with police at rally for political prisoners
+seen_urlhash:7394c808149d0a21287dab367c7c6c92477275d7781679e858ab7169216306f9
+seen_titlehash:cdb6abd2ca4fdde9e9aa6af3b1140ede378a5284f82c9eed07124f076bb75245
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss
+title:clashes as morales allied protesters march on bolivian capital
+seen_urlhash:dd4d7f649a12ea7f44d5c70ac8b2ce06aed2dcd3ca74ee9b872624002866fd2d
+seen_titlehash:644fa5853e83dd1f2cfdf7cc1d507518ad8b0270186cf7825a3d5a512f75d8c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss
+title:protest in greece after israeli forces storm gaza aid flotilla
+seen_urlhash:0b36c179ad3f66d9eb37103c3566d49e91c73da45754f38c5d454186ccf63028
+seen_titlehash:cb4ade24c29c21b647e56232a0f6089638f7b61dcc90a8fd3780c26290dc75ba
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss
+title:trump pauses possible iran strike after gulf intervention
+seen_urlhash:879c085162659f97f15e6bddb92299d9573ae2d628b38f46397213b83c5c908e
+seen_titlehash:b9df4e071f3c4559343d2b73c9753594e6811d39c8a5d9edbd39dfd1b234d6e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss
+title:arsenal have one hand on premier league title after beating burnley
+seen_urlhash:dc77fc25405c610a00d8d769835a3642228dec9dea25747cf01c48b6e1d07cc2
+seen_titlehash:64662697441816bf55385ec5bdc8ecc6fbec341bcb78128ea293895c4811d12b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/18/not-for-sale-greenland-premier-tells-us-envoy?traffic_source=rss
+title:not for sale greenland premier tells us envoy
+seen_urlhash:cf581c1ac3052fa755a1a19d96d56c09953ddac9010ec758ddbb39155efcb985
+seen_titlehash:a8704a9fd662905a031930bcbe12afd6b6b6dbbe102dc1156658a7ef317ff8bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss
+title:iraq launches desert sweep after reports of secret israeli bases
+seen_urlhash:d842f5684415856377570908c6695d0ddf0ad328cc48a5603e466625ae754e78
+seen_titlehash:153cb562ac7aa44c67cecb7ef5a4a4e2729747998f8110ec13f4554df7a5a213
+seen_reason:processed_not_published
+url:https://dw.com/ru/g7-глава-минфина-украины-настаивает-на-новых-санкциях-против-рф/a-77205537?maca=rus-rss-ru-all-1126-rdf
+title:g7 глава минфина украины настаивает на новых санкциях против рф
+seen_urlhash:9e7d41fb44c4c2654c79d40159a35b4d344f7e9a63b36d66258f2981560ff0de
+seen_titlehash:d1cc92a55515a51ab938db5e6d8e4f686d8ac9af10e420db1867d1499dd4207c
+seen_reason:processed_not_published
+url:https://dw.com/ru/стрельба-в-мечети-сан-диего-пять-погибших/a-77205493?maca=rus-rss-ru-all-1126-rdf
+title:стрельба в мечети сан диего пять погибших
+seen_urlhash:d75575a3f6869dcbaacee8670ffd5a61a01caecdc2074810795c1a55e74abacb
+seen_titlehash:92969e6d5c67a67fd6a2a22ed58fd6e315142155435e9e7f77250b400d35d9a2
+seen_reason:processed_not_published
+url:https://bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm
+title:ai chip startup tenstorrent draws takeover interest from intel qualcomm
+seen_urlhash:6e774f87eb379b0c59ec1db349df834b4cb50e7d4f2fe9e46d87ab84c4573301
+seen_titlehash:04e71aa0d7c7899585e0f6c19dedae4f860c7fa0591af0b47fa9ac577316fcf8
+seen_reason:processed_not_published
+url:https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected
+title:ebola outbreak who declares emergency us restricts travel american infected
+seen_urlhash:aafeba06cf6210a7ab2a64a0c977d71c12f9798f9ee594caf905609067afac9c
+seen_titlehash:5b3936610d322d7d25d0083ecbfd78a0812f0fa20b04c138641df2056a132744
+seen_reason:processed_not_published
+url:https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date
+title:legal fail don t use ai to sue facebook users for calling you a bad date
+seen_urlhash:5fe968e74721e840209be38970fb363866545074044be366b572c93bed2265b6
+seen_titlehash:922905ef76a7377171804e5adffe413244f94d4e6904fc28e7eb37ae21e1e92e
+seen_reason:processed_not_published
+url:https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site
+title:osha probing worker death at spacex s starbase site
+seen_urlhash:59ff43ca09c38144179aa08253d0a95b04d501c2168922acfa5c560f4996718f
+seen_titlehash:64abce6be7688c442f368aaa9f578f88dc390b46c2c4fe50e3e7d036edf3ce09
+seen_reason:processed_not_published
+url:https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required
+title:sandboxaq brings its drug discovery models to claude no phd in computing required
+seen_urlhash:f55d9f3550accddab7dc7750730954f874bc16bd7291c43ddf470dd0bdfdc074
+seen_titlehash:fd97128a6fcedc234e51a877bf64a2d3f288f9798501dd6afebb5263953db687
+seen_reason:processed_not_published
+url:https://cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html
+title:google i o primer alphabet s ai showcase is its chance to wow wall street
