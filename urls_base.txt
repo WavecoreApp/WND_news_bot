@@ -171,3 +171,28 @@ seen_titlehash:5caf88cf61dd058bd463f5552f0b78b2cf25a81197b635e1f16d136a2b8475f9
 seen_reason:rewrite_failed_no_russian_output
 url:https://currenttime.tv/a/33759321.html
 title:axios cnn дональд трамп на днях обсудит со своей командой варианты новых военных действий сша против ирана
+seen_urlhash:836917d2b10ba2886c520b9becc4d553883cf95920fca0bb9ff5bb6c9b42d20e
+seen_titlehash:cea8b9168ba618077c5073eda94b7aaf6d2c52d864d3e65150ed383509784c97
+seen_reason:rewrite_failed_no_russian_output
+url:https://nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html
+title:trump warns iran the clock is ticking as tensions surge again in middle east
+seen_urlhash:e0e1add91989176e91c7b31de17a3b2fc668e90b8f4b9239eba6cd7eb5112cec
+seen_titlehash:8b1e17d87c21b6f82f01057e3e7cdb7e77c603d5cbee4a571ffe446f1be87d88
+seen_reason:rewrite_failed_no_russian_output
+url:https://npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant
+title:drone strikes uae nuclear plant highlighting risk of renewed war
+seen_urlhash:caf15222a1abc59ac9fa27532b0bfddccc86cedd2321b1a4341bf4cf8a5a408b
+seen_titlehash:884b616cc86a690f62a0576a19b81969a148bfd95fe4e6d2ec5cf1bf1926150f
+seen_reason:rewrite_failed_no_russian_output
+url:https://nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html
+title:trump s taiwan gambit is already a gift to china
+seen_urlhash:40dcabacba1790eafaa359a6482dd1448925412605cdd69d16526edecd0ee7c2
+seen_titlehash:8c4554dc811caed36eee8549be5dfe0a74019822b618b354713404df068f20cb
+seen_reason:rewrite_failed_no_russian_output
+url:https://bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss
+title:death toll from israeli strikes on lebanon passes 3 000 officials say
+seen_urlhash:9fd48414f82b4bb5f353756690c61aa69225cabf38bbd620bfbfffac8c5fb4c4
+seen_titlehash:0e658dfc922680c4495257e8e986d515c089ed552e59cd83aebb98f7d783a152
+seen_reason:rewrite_failed_no_russian_output
+url:https://cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html
+title:nvidia earnings call drama will jensen huang talk trump and china chips after xi summit
