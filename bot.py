@@ -387,162 +387,108 @@ def get_best_image(entry, article_url):
 
 
 # =========================
-# GEMINI
+# GROQ + GEMINI PIPELINE
 # =========================
 
-def local_pre_score(item):
-    """
-    Cheap local ranking before Gemini.
-    Gemini still makes the final score, but this prevents wasting quota on weak RSS items.
-    """
-    text_blob = f"{item.get('title', '')} {item.get('summary', '')} {item.get('domain', '')}".lower()
+from openai import OpenAI
 
-    high = [
-        "war", "attack", "strike", "nuclear", "missile", "drone", "iran", "israel",
-        "ukraine", "russia", "china", "taiwan", "trump", "xi", "putin", "g7",
-        "sanction", "ceasefire", "opec", "oil", "gas", "market", "crisis",
-        "ai", "artificial intelligence", "openai", "chatgpt", "google", "apple",
-        "microsoft", "nvidia", "anthropic", "meta", "chip", "semiconductor",
-        "cyber", "hack", "breach", "ransomware", "backdoor", "exploit",
-        "ebola", "pandemic", "earthquake", "flood", "wildfire", "crash",
-    ]
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
 
-    medium = [
-        "economy", "inflation", "election", "court", "president", "minister",
-        "eu", "nato", "un ", "who ", "central bank", "rate", "deal",
-        "сша", "иран", "израил", "украин", "росси", "китай", "тайван", "нато",
-        "войн", "удар", "дрон", "ракета", "санкц", "эконом", "рын", "нефт",
-        "ии", "нейросет", "apple", "google", "microsoft", "openai", "nvidia",
-    ]
+client = genai.Client(api_key=GEMINI_API_KEY)
 
-    low = [
-        "review:", "what to watch", "what to read", "sport", "football", "celebrity",
-        "recipe", "horoscope", "travel guide", "weekend", "movie review",
-    ]
-
-    score = 0
-    for word in high:
-        if word in text_blob:
-            score += 4
-    for word in medium:
-        if word in text_blob:
-            score += 2
-    for word in low:
-        if word in text_blob:
-            score -= 5
-
-    # Prefer real news domains a bit for Main Digest
-    domain = item.get("domain", "")
-    if any(d in domain for d in ["bbc", "guardian", "aljazeera", "nytimes", "npr", "dw.com", "meduza", "currenttime", "bloomberg", "cnbc", "arstechnica", "techcrunch"]):
-        score += 1
-
-    return score
+groq_client = OpenAI(
+    api_key=GROQ_API_KEY,
+    base_url="https://api.groq.com/openai/v1"
+)
 
 
-def prepare_candidates_for_gemini(candidates):
-    ranked = sorted(candidates, key=local_pre_score, reverse=True)
-    selected = ranked[:MAX_CANDIDATES_TO_ANALYZE]
+def prepare_candidates_for_scoring(candidates):
+    selected = candidates[:MAX_CANDIDATES_TO_ANALYZE]
 
     for idx, item in enumerate(selected, start=1):
         item["batch_id"] = idx
-        item["pre_score"] = local_pre_score(item)
 
-    print(f"Using Gemini model: {GEMINI_MODEL}")
-    print(f"Sending {len(selected)} candidates to Gemini in ONE batch request.")
+    print(f"Using Groq model: {GROQ_MODEL}")
+    print(f"Sending {len(selected)} candidates to Groq in ONE batch request.")
+
     return selected
 
 
-def ask_gemini_batch(candidates):
-    news_lines = []
+def ask_groq_batch(candidates):
+    payload = []
 
     for item in candidates:
-        news_lines.append(
-            {
-                "id": item["batch_id"],
-                "title": item["title"],
-                "description": item["summary"],
-                "link": item["link"],
-                "domain": item["domain"],
-                "pre_score": item.get("pre_score", 0),
-            }
-        )
+        payload.append({
+            "id": item["batch_id"],
+            "title": item["title"],
+            "description": item["summary"],
+            "domain": item["domain"]
+        })
 
     prompt = f"""
-Ты редактор Telegram-канала WND | Мировой дайджест.
+You are a professional international news editor.
 
-Задача:
-Оцени список новостей и подготовь публикации на русском только для достойных новостей.
+Score every news item from 1-10.
 
-Формат канала:
-• главные мировые события
-• политика
-• войны и безопасность
-• дипломатия
-• экономика и рынки
-• технологии и AI, если событие реально значимое
-• СНГ, Европа, США, Ближний Восток, Китай
-• крупные катастрофы и глобальные риски
+Prioritize:
+- wars
+- geopolitics
+- military
+- AI
+- cybersecurity
+- economy
+- global politics
+- global tech
+- major disasters
 
-Что НЕ публиковать:
-• мелкие локальные новости
-• celebrity gossip
-• спорт без мирового значения
-• обычные обзоры гаджетов
-• мелкие корпоративные пресс-релизы
-• повторяющиеся routine updates
+Downrank:
+- celebrity gossip
+- sports
+- fluff
+- low quality content
 
-Оценка:
-10 = крупнейшее мировое событие
-9 = очень важная международная новость
-8 = сильная новость
-7 = хорошая публикабельная новость
-6 и ниже = не публиковать
+Return STRICT JSON ONLY.
 
-Правила текста:
-1. Пиши на русском.
-2. HEADLINE должен быть сильным, коротким и цепляющим, но без дешёвого кликбейта.
-3. POST — короткая выжимка 2–5 коротких абзацев.
-4. Без эмодзи.
-5. Без Markdown.
-6. Не выдумывай факты.
-7. Не вставляй ссылки в текст.
-8. Можно использовать списки с символом •.
+Format:
+[
+  {{
+    "id": 1,
+    "score": 9,
+    "category": "war",
+    "reason": "important geopolitical escalation"
+  }}
+]
 
-Верни СТРОГО JSON-массив.
-Без пояснений до или после JSON.
-
-Формат каждого объекта:
-{{
-  "id": число,
-  "score": число от 1 до 10,
-  "category": "world/politics/war/economy/tech/ai/cis/disaster/other",
-  "headline": "русский заголовок",
-  "post": "короткий текст"
-}}
-
-Верни объекты только для новостей score >= {MIN_SCORE_TO_POST}.
-Если достойных новостей нет — верни [].
-
-Новости:
-{json.dumps(news_lines, ensure_ascii=False)}
+News:
+{json.dumps(payload, ensure_ascii=False)}
 """
 
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
+    response = groq_client.chat.completions.create(
+        model=GROQ_MODEL,
+        temperature=0.2,
+        messages=[
+            {
+                "role": "system",
+                "content": "Return ONLY valid JSON."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
     )
 
-    return response.text.strip()
+    return response.choices[0].message.content.strip()
 
 
-def parse_gemini_batch_response(text):
+def parse_groq_response(text):
     try:
         cleaned = text.strip()
 
-        # Gemini can sometimes wrap JSON into code fences
         if cleaned.startswith("```"):
-            cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE)
-            cleaned = re.sub(r"\s*```$", "", cleaned)
+            cleaned = re.sub(r"^```(?:json)?\\s*", "", cleaned, flags=re.IGNORECASE)
+            cleaned = re.sub(r"\\s*```$", "", cleaned)
 
         start = cleaned.find("[")
         end = cleaned.rfind("]")
@@ -555,87 +501,109 @@ def parse_gemini_batch_response(text):
         if not isinstance(data, list):
             return []
 
-        parsed = []
-        for item in data:
-            try:
-                parsed.append({
-                    "id": int(item.get("id")),
-                    "score": int(item.get("score", 0)),
-                    "category": str(item.get("category", "other")),
-                    "headline": str(item.get("headline", "")).strip(),
-                    "post": str(item.get("post", "")).strip(),
-                })
-            except Exception:
-                continue
-
-        return parsed
+        return data
 
     except Exception as e:
-        print(f"Gemini batch JSON parse error: {e}")
-        print("Raw Gemini response:")
+        print(f"Groq parse error: {e}")
         print(text[:2000])
         return []
 
 
+def rewrite_with_gemini(item):
+    prompt = f"""
+Rewrite this news into premium Telegram digest style.
+
+Headline:
+{item['title']}
+
+Summary:
+{item['summary']}
+
+Rules:
+- concise
+- premium journalism tone
+- mobile friendly
+- no clickbait
+- no markdown
+- no emojis
+
+Return JSON:
+{{
+  "headline": "...",
+  "post": "..."
+}}
+"""
+
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+    )
+
+    text = response.text.strip()
+
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\\s*", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\\s*```$", "", text)
+
+    data = json.loads(text)
+
+    item["headline"] = data.get("headline", item["title"])
+    item["post_text"] = data.get("post", item["summary"])
+
+    return item
+
+
 def analyze_candidates(candidates):
-    prepared = prepare_candidates_for_gemini(candidates)
+    prepared = prepare_candidates_for_scoring(candidates)
 
     if not prepared:
         return []
 
     try:
-        gemini_text = ask_gemini_batch(prepared)
-        results = parse_gemini_batch_response(gemini_text)
+        groq_text = ask_groq_batch(prepared)
+        results = parse_groq_response(groq_text)
 
     except Exception as e:
-        print(f"Gemini batch error: {e}")
+        print(f"Groq batch error: {e}")
         return []
 
     by_id = {item["batch_id"]: item for item in prepared}
+
     analyzed = []
 
     for result in results:
-        item = by_id.get(result["id"])
+        item = by_id.get(result.get("id"))
+
         if not item:
             continue
 
-        score = result["score"]
+        score = int(result.get("score", 0))
 
         if score < MIN_SCORE_TO_POST:
             continue
 
         item["score"] = score
-        item["category"] = result["category"]
-        item["headline"] = result["headline"] or item["title"]
-        item["post_text"] = result["post"]
+        item["category"] = result.get("category", "other")
 
-        print(f"Score: {score} | Category: {item['category']} | Domain: {item['domain']} | {item['headline']}")
         analyzed.append(item)
 
     analyzed.sort(key=lambda x: x["score"], reverse=True)
-    return analyzed
 
+    rewritten = []
 
-def select_diverse_news(analyzed):
-    selected = []
-    domain_counts = {}
+    for item in analyzed[:MAX_NEWS_PER_RUN]:
+        try:
+            rewritten.append(rewrite_with_gemini(item))
+            print(f"Gemini rewrite OK: {item['title'][:80]}")
 
-    for item in analyzed:
-        domain = item["domain"]
-        count = domain_counts.get(domain, 0)
+        except Exception as e:
+            print(f"Gemini rewrite failed: {e}")
+            item["headline"] = item["title"]
+            item["post_text"] = item["summary"]
+            rewritten.append(item)
 
-        if count >= MAX_POSTS_PER_DOMAIN:
-            continue
-
-        selected.append(item)
-        domain_counts[domain] = count + 1
-
-        if len(selected) >= MAX_NEWS_PER_RUN:
-            break
-
-    return selected
-
-
+    return rewritten
+    
 # =========================
 # TELEGRAM
 # =========================
