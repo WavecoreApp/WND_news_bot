@@ -3,6 +3,7 @@ import re
 import time
 import html
 import json
+import math
 import random
 import hashlib
 import difflib
@@ -11,15 +12,18 @@ from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import requests
 import feedparser
 from bs4 import BeautifulSoup
-from google import genai
 from openai import OpenAI
 
 
 # ==================================================
 # WND MAIN DIGEST
 # Architecture:
-# - Groq/Qwen: batch scoring, filtering, ranking
-# - Gemini 2.0 Flash: batch rewrite only for selected stories
+# - Groq/Qwen only
+# - Groq batch scoring per source
+# - top 25% from EACH source
+# - theme dedupe across sources
+# - Groq batch Russian rewrite
+# - no Gemini usage
 # ==================================================
 
 
@@ -29,34 +33,37 @@ from openai import OpenAI
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
 GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
 
-MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "7"))
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "5"))
-MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "20"))
+# Important:
+# 25 means: from every RSS source, keep the best 25% of NEW items from that source.
+TOP_PERCENT_PER_SOURCE = int(os.getenv("TOP_PERCENT_PER_SOURCE", "25"))
+SOURCE_MIN_TAKE = int(os.getenv("SOURCE_MIN_TAKE", "1"))
+
+# 0 means no global cap. This matches your request: publish all deduped top-25%-per-source stories.
+# If later you want a hard cap, set MAX_NEWS_PER_RUN to e.g. 10.
+MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "0"))
+
+MAX_CANDIDATES_PER_SOURCE = int(os.getenv("MAX_CANDIDATES_PER_SOURCE", "20"))
+ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "20"))
+
 GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "20"))
-GEMINI_REWRITE_BATCH_SIZE = int(os.getenv("GEMINI_REWRITE_BATCH_SIZE", "20"))
+GROQ_REWRITE_BATCH_SIZE = int(os.getenv("GROQ_REWRITE_BATCH_SIZE", "20"))
 
 POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
 POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
 
-ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "12"))
-MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "2"))
+MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "3"))
 
 DIGEST_CHANNEL_URL = os.getenv("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
-INFO_POST_URL = os.getenv("INFO_POST_URL", DIGEST_CHANNEL_URL)
 
 REQUEST_TIMEOUT = 30
 
-
-gemini_client = None
 groq_client = None
 
 
@@ -86,27 +93,6 @@ def strip_markdown(text):
     text = text.replace("**", "")
     text = text.replace("__", "")
     return text.strip()
-
-
-
-
-def looks_russian(text):
-    if not text:
-        return False
-    letters = re.findall(r"[A-Za-zА-Яа-яЁё]", text)
-    if not letters:
-        return False
-    cyrillic = re.findall(r"[А-Яа-яЁё]", text)
-    return len(cyrillic) / max(len(letters), 1) >= 0.35
-
-
-def rewrite_is_valid(headline, post):
-    combined = f"{headline} {post}".strip()
-    if len(combined) < 40:
-        return False
-    if not looks_russian(combined):
-        return False
-    return True
 
 
 def normalize_url(url):
@@ -161,9 +147,9 @@ def chunks(items, size):
         yield items[i:i + size]
 
 
-def extract_json_array(text):
+def extract_json_payload(text):
     if not text:
-        return []
+        return {}
 
     cleaned = text.strip()
 
@@ -171,13 +157,35 @@ def extract_json_array(text):
         cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE)
         cleaned = re.sub(r"\s*```$", "", cleaned)
 
-    start = cleaned.find("[")
-    end = cleaned.rfind("]")
+    # Prefer JSON object.
+    obj_start = cleaned.find("{")
+    obj_end = cleaned.rfind("}")
+    if obj_start != -1 and obj_end != -1 and obj_end > obj_start:
+        return json.loads(cleaned[obj_start:obj_end + 1])
 
-    if start != -1 and end != -1 and end > start:
-        cleaned = cleaned[start:end + 1]
+    # Fallback JSON array.
+    arr_start = cleaned.find("[")
+    arr_end = cleaned.rfind("]")
+    if arr_start != -1 and arr_end != -1 and arr_end > arr_start:
+        return {"items": json.loads(cleaned[arr_start:arr_end + 1])}
 
     return json.loads(cleaned)
+
+
+def has_cyrillic(text):
+    return bool(re.search(r"[А-Яа-яЁё]", text or ""))
+
+
+def is_valid_russian_rewrite(headline, post):
+    if not headline or not post:
+        return False
+    joined = f"{headline} {post}"
+    if not has_cyrillic(joined):
+        return False
+    # Avoid obviously untouched English fallback.
+    latin_words = re.findall(r"\b[A-Za-z]{4,}\b", joined)
+    cyr_words = re.findall(r"\b[А-Яа-яЁё]{3,}\b", joined)
+    return len(cyr_words) >= max(3, len(latin_words))
 
 
 # =========================
@@ -244,7 +252,7 @@ def is_similar_to_published_title(title, published_title_hashes, raw_db_lines):
         if line.startswith("title:")
     ]
 
-    for old in old_titles[-800:]:
+    for old in old_titles[-1000:]:
         ratio = difflib.SequenceMatcher(None, normalized, old).ratio()
         if ratio >= 0.86:
             return True
@@ -268,17 +276,18 @@ def load_sources():
         ]
 
 
-def collect_candidates(sources, published_url_hashes, published_title_hashes, raw_db_lines):
-    all_by_source = []
+def collect_candidates_by_source(sources, published_url_hashes, published_title_hashes, raw_db_lines):
+    groups = []
+    total = 0
 
-    for rss_url in sources:
+    for source_index, rss_url in enumerate(sources, start=1):
         print(f"Reading source: {rss_url}")
 
         try:
             feed = feedparser.parse(rss_url)
             source_items = []
 
-            for entry in feed.entries[:ENTRIES_PER_SOURCE]:
+            for entry_index, entry in enumerate(feed.entries[:ENTRIES_PER_SOURCE], start=1):
                 link = normalize_url(entry.get("link", ""))
                 title = clean_text(entry.get("title", ""))
                 summary = clean_text(entry.get("summary", entry.get("description", "")))
@@ -302,8 +311,10 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
                 if is_similar_to_published_title(title, published_title_hashes, raw_db_lines):
                     continue
 
-                source_items.append({
+                item = {
+                    "source_index": source_index,
                     "source_rss": rss_url,
+                    "source_position": entry_index,
                     "domain": get_domain(link),
                     "entry": entry,
                     "link": link,
@@ -312,28 +323,26 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
                     "summary": summary,
                     "normalized_title": normalized_title,
                     "title_hash": title_hash,
-                })
+                }
+
+                source_items.append(item)
+
+            if len(source_items) > MAX_CANDIDATES_PER_SOURCE:
+                source_items = source_items[:MAX_CANDIDATES_PER_SOURCE]
 
             print(f"New candidates from source: {len(source_items)}")
-            all_by_source.append(source_items)
+            total += len(source_items)
+
+            groups.append({
+                "source_url": rss_url,
+                "items": source_items,
+            })
 
         except Exception as e:
             print(f"Source error {rss_url}: {e}")
 
-    balanced = []
-    index = 0
-
-    while True:
-        added = False
-        for source_items in all_by_source:
-            if index < len(source_items):
-                balanced.append(source_items[index])
-                added = True
-        if not added:
-            break
-        index += 1
-
-    return balanced
+    print(f"Total new candidates across all sources: {total}")
+    return groups
 
 
 # =========================
@@ -438,79 +447,29 @@ def get_best_image(entry, article_url):
 
 
 # =========================
-# LOCAL PREFILTER
+# GROQ SCORING PER SOURCE
 # =========================
 
-def local_pre_score(item):
-    text_blob = f"{item.get('title', '')} {item.get('summary', '')} {item.get('domain', '')}".lower()
-
-    high = [
-        "war", "attack", "strike", "nuclear", "missile", "drone", "iran", "israel",
-        "ukraine", "russia", "china", "taiwan", "trump", "xi", "putin", "g7",
-        "sanction", "ceasefire", "opec", "oil", "gas", "market", "crisis",
-        "ai", "artificial intelligence", "openai", "chatgpt", "google", "apple",
-        "microsoft", "nvidia", "anthropic", "meta", "chip", "semiconductor",
-        "cyber", "hack", "breach", "ransomware", "backdoor", "exploit",
-        "ebola", "pandemic", "earthquake", "flood", "wildfire", "crash",
-        "сша", "иран", "израил", "украин", "росси", "китай", "тайван", "нато",
-        "войн", "удар", "дрон", "ракета", "санкц", "эконом", "рын", "нефт",
-    ]
-
-    low = [
-        "review:", "what to watch", "what to read", "sport", "football", "celebrity",
-        "recipe", "horoscope", "travel guide", "weekend", "movie review", "shopping",
-    ]
-
-    score = 0
-    for word in high:
-        if word in text_blob:
-            score += 3
-    for word in low:
-        if word in text_blob:
-            score -= 5
-
-    domain = item.get("domain", "")
-    if any(d in domain for d in [
-        "bbc", "guardian", "aljazeera", "nytimes", "npr", "dw.com",
-        "meduza", "currenttime", "bloomberg", "cnbc", "reuters", "apnews"
-    ]):
-        score += 2
-
-    return score
-
-
-def prepare_candidates_for_scoring(candidates):
-    ranked = sorted(candidates, key=local_pre_score, reverse=True)
-    selected = ranked[:MAX_CANDIDATES_TO_ANALYZE]
-
-    for idx, item in enumerate(selected, start=1):
-        item["batch_id"] = idx
-        item["pre_score"] = local_pre_score(item)
-
-    print(f"Candidates after local prefilter: {len(selected)}")
-    return selected
-
-
-# =========================
-# GROQ SCORING
-# =========================
-
-def ask_groq_score_batch(batch):
+def ask_groq_score_batch(batch, source_url):
     payload = []
 
     for item in batch:
         payload.append({
             "id": item["batch_id"],
             "title": item["title"],
-            "description": item["summary"][:600],
+            "description": item["summary"][:700],
             "domain": item["domain"],
-            "pre_score": item.get("pre_score", 0),
+            "source": source_url,
         })
 
     prompt = f"""
 You are the senior editor for WND | Main Digest, a serious international Telegram news digest.
 
-Score each item from 1 to 10 for publication value.
+You are scoring articles from ONE RSS source:
+{source_url}
+
+Task:
+Score each item from 1 to 10 and identify its theme.
 
 Channel profile:
 - world news
@@ -519,7 +478,8 @@ Channel profile:
 - international security
 - diplomacy
 - economy
-- global technology only when geopolitically/economically important
+- sanctions
+- major global technology only if politically/economically important
 - major crises and strategic events
 
 Score scale:
@@ -528,38 +488,33 @@ Score scale:
 8 = major publication-worthy story
 7 = strong publication candidate
 6 = interesting but secondary
-5 and below = do not publish
+5 and below = weak or routine
 
-Strongly prioritize:
-- wars, military conflict, missile/drone attacks
-- nuclear risks
-- NATO / USA / China / Russia / EU / Middle East
-- sanctions, diplomacy, major political decisions
-- global economy, oil, markets, central banks
-- cyber/security if globally meaningful
-- major outbreaks, disasters, coups, protests
+Important:
+Even if the source has weak news, score honestly.
+The code will take the top {TOP_PERCENT_PER_SOURCE}% from this source.
 
-Strongly downrank:
-- celebrity gossip
-- sports
-- lifestyle
-- local crime
-- entertainment
-- small product reviews
-- repetitive low-impact politics
-- filler articles
+Theme key:
+Create a short canonical English theme_key for deduplication across sources.
+Example:
+"us-russia-oil-sanctions-extension"
+"belarus-russia-nuclear-drills"
+"cuba-us-drone-claims"
 
-Return STRICT JSON array only. No markdown. No text outside JSON.
+Return STRICT JSON object only:
+{{
+  "items": [
+    {{
+      "id": 1,
+      "score": 8,
+      "category": "economy",
+      "theme_key": "short-canonical-theme",
+      "reason": "brief reason"
+    }}
+  ]
+}}
 
-Required format:
-[
-  {{
-    "id": 1,
-    "score": 8,
-    "category": "war",
-    "reason": "brief reason"
-  }}
-]
+No markdown. No text outside JSON.
 
 Items:
 {json.dumps(payload, ensure_ascii=False)}
@@ -577,27 +532,29 @@ Items:
     return response.choices[0].message.content.strip()
 
 
-def score_candidates_with_groq(candidates):
-    prepared = prepare_candidates_for_scoring(candidates)
-
-    if not prepared:
+def score_source_items(source_url, items):
+    if not items:
         return []
 
-    print(f"Using Groq model: {GROQ_MODEL}")
-    print(f"Sending {len(prepared)} candidates to Groq in batches of {GROQ_BATCH_SIZE}.")
+    for idx, item in enumerate(items, start=1):
+        item["batch_id"] = idx
 
-    by_id = {item["batch_id"]: item for item in prepared}
+    print(f"Scoring source with Groq: {source_url}")
+    print(f"Source candidates: {len(items)} | batch size: {GROQ_BATCH_SIZE}")
+
     scored = []
+    by_id = {item["batch_id"]: item for item in items}
 
-    for batch_index, batch in enumerate(chunks(prepared, GROQ_BATCH_SIZE), start=1):
+    for batch_index, batch in enumerate(chunks(items, GROQ_BATCH_SIZE), start=1):
         try:
             print(f"Groq scoring batch {batch_index}: {len(batch)} articles")
-            raw = ask_groq_score_batch(batch)
-            results = extract_json_array(raw)
+            raw = ask_groq_score_batch(batch, source_url)
+            payload = extract_json_payload(raw)
+            results = payload.get("items", [])
 
         except Exception as e:
-            print(f"Groq batch error: {e}")
-            continue
+            print(f"Groq scoring failed for source batch: {e}")
+            results = []
 
         for result in results:
             try:
@@ -612,160 +569,204 @@ def score_candidates_with_groq(candidates):
 
             item["score"] = max(1, min(10, score))
             item["category"] = str(result.get("category", "other"))
+            item["theme_key"] = normalize_title(str(result.get("theme_key", ""))) or item["normalized_title"][:80]
             item["score_reason"] = str(result.get("reason", ""))
 
+            scored.append(item)
+
             print(
-                f"Score: {item['score']} | Category: {item['category']} | "
-                f"Domain: {item['domain']} | {item['title']}"
+                f"Score: {item['score']} | {item['category']} | "
+                f"{item['domain']} | {item['title']}"
             )
 
-            if item["score"] >= MIN_SCORE_TO_POST:
-                scored.append(item)
+    # If Groq failed to return some items, keep them with low score so top 25% logic still has candidates.
+    scored_ids = {item["batch_id"] for item in scored}
+    for item in items:
+        if item["batch_id"] not in scored_ids:
+            item["score"] = 1
+            item["category"] = "other"
+            item["theme_key"] = item["normalized_title"][:80]
+            item["score_reason"] = "No Groq score returned"
+            scored.append(item)
 
     scored.sort(key=lambda x: x["score"], reverse=True)
     return scored
 
 
-# =========================
-# GEMINI BATCH REWRITE
-# =========================
+def take_top_percent_from_source(scored):
+    if not scored:
+        return []
 
-def ask_gemini_rewrite_batch(batch):
-    payload = []
+    take_count = max(SOURCE_MIN_TAKE, math.ceil(len(scored) * TOP_PERCENT_PER_SOURCE / 100))
+    take_count = min(take_count, len(scored))
 
-    for item in batch:
-        payload.append({
-            "id": item["batch_id"],
-            "score": item.get("score"),
-            "category": item.get("category"),
-            "source_title": item["title"],
-            "source_description": item["summary"][:1200],
-            "domain": item["domain"],
-            "source_url": item["link"],
-        })
+    selected = scored[:take_count]
 
-    prompt = f"""
-Ты редактор Telegram-канала WND | Мировой дайджест.
-
-Твоя задача: ОБЯЗАТЕЛЬНО перевести, сжать и переписать КАЖДУЮ новость из списка на русском языке.
-
-Это основной serious-news канал, НЕ WND Digest.
-
-Главное:
-- все headline и post должны быть на русском языке
-- не оставляй английский заголовок
-- не оставляй английский текст
-- не пропускай новости из списка
-- не добавляй факты от себя
-- не меняй смысл
-- не преувеличивай
-- не превращай в кликбейт
-- если данных мало, аккуратно перескажи только то, что есть в title/description
-
-Стиль:
-- серьезный мировой дайджест
-- коротко
-- по делу
-- премиальный Telegram digest
-- без эмодзи
-- без Markdown
-- без воды
-- без фраз вроде "это может изменить всё", "шок", "сенсация"
-- текст должен звучать как живой русский редактор, а не машинный перевод
-
-HEADLINE:
-- русский
-- короткий
-- сильный
-- новостной
-- не таблоидный
-
-POST:
-- русский
-- 2–4 коротких абзаца
-- своими словами
-- суть события + почему это важно
-- без ссылок внутри текста
-- без источника внутри текста
-
-Верни СТРОГО JSON-массив.
-Без текста до JSON.
-Без текста после JSON.
-Без markdown code fence.
-
-Верни объект для КАЖДОЙ новости из списка.
-
-Формат:
-[
-  {{
-    "id": 1,
-    "headline": "Русский заголовок",
-    "post": "Русский текст поста"
-  }}
-]
-
-Новости:
-{json.dumps(payload, ensure_ascii=False)}
-"""
-
-    response = gemini_client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
+    print(
+        f"Top {TOP_PERCENT_PER_SOURCE}% from source: "
+        f"{len(selected)}/{len(scored)} selected"
     )
 
-    return response.text.strip()
+    return selected
 
 
+def score_and_select_per_source(groups):
+    selected_all = []
+    processed_all = []
 
+    print(f"Using Groq model: {GROQ_MODEL}")
+    print(f"Top percent per source: {TOP_PERCENT_PER_SOURCE}%")
+
+    for group in groups:
+        source_url = group["source_url"]
+        items = group["items"]
+
+        if not items:
+            continue
+
+        processed_all.extend(items)
+
+        scored = score_source_items(source_url, items)
+        selected = take_top_percent_from_source(scored)
+        selected_all.extend(selected)
+
+    return selected_all, processed_all
+
+
+# =========================
+# THEME DEDUPE
+# =========================
+
+def theme_similarity(a, b):
+    return difflib.SequenceMatcher(None, a, b).ratio()
+
+
+def dedupe_themes(items):
+    if not items:
+        return []
+
+    items = sorted(items, key=lambda x: x.get("score", 0), reverse=True)
+
+    selected = []
+    theme_keys = []
+    title_keys = []
+    domain_counts = {}
+
+    for item in items:
+        domain = item.get("domain", "unknown")
+        if domain_counts.get(domain, 0) >= MAX_POSTS_PER_DOMAIN:
+            continue
+
+        theme_key = normalize_title(item.get("theme_key", "")) or item.get("normalized_title", "")
+        title_key = item.get("normalized_title", normalize_title(item.get("title", "")))
+
+        duplicate = False
+
+        for old_theme in theme_keys:
+            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.72:
+                duplicate = True
+                break
+
+        if not duplicate:
+            for old_title in title_keys:
+                if theme_similarity(title_key, old_title) >= 0.68:
+                    duplicate = True
+                    break
+
+        if duplicate:
+            print(f"Theme duplicate skipped: {item['title']}")
+            continue
+
+        selected.append(item)
+        theme_keys.append(theme_key)
+        title_keys.append(title_key)
+        domain_counts[domain] = domain_counts.get(domain, 0) + 1
+
+    if MAX_NEWS_PER_RUN > 0:
+        selected = selected[:MAX_NEWS_PER_RUN]
+
+    print(f"After theme dedupe: {len(selected)} stories")
+    return selected
+
+
+# =========================
+# GROQ RUSSIAN REWRITE
+# =========================
 
 def ask_groq_rewrite_batch(batch):
     payload = []
 
     for item in batch:
         payload.append({
-            "id": item["batch_id"],
+            "id": item["global_id"],
             "score": item.get("score"),
             "category": item.get("category"),
-            "source_title": item["title"],
-            "source_description": item["summary"][:1200],
+            "title": item["title"],
+            "description": item["summary"][:1000],
             "domain": item["domain"],
+            "theme_key": item.get("theme_key", ""),
         })
 
     prompt = f"""
-You are rewriting news for a Russian-language Telegram channel called WND | Мировой дайджест.
+Ты редактор Telegram-канала WND | Мировой дайджест.
 
-CRITICAL:
-- Return Russian text only.
-- Translate every item into Russian.
-- Rewrite in natural Russian, not literal machine translation.
-- Do not add facts.
-- Do not omit important facts from title/description.
-- No emojis.
-- No Markdown.
-- Return a JSON array only.
-- Return one object for every item.
+Твоя задача:
+Перевести и переписать выбранные новости на русском языке для основного мирового дайджеста.
 
-Style:
-serious international news digest, concise, clear, premium Telegram formatting.
+Критически важно:
+- ВСЕ headline и post должны быть на русском языке.
+- Нельзя оставлять английский оригинальный заголовок.
+- Нельзя добавлять факты от себя.
+- Нельзя терять важные факты из title/description.
+- Нельзя использовать ИИ-фразы.
+- Нельзя писать "это подчеркивает", "важный шаг", "на фоне", если этого нет в сути.
+- Нельзя раздувать.
+- Нельзя кликбейтить.
+- Нужно писать коротко, ясно, человеческим новостным языком.
 
-Output format:
-[
-  {{
-    "id": 1,
-    "headline": "Русский заголовок",
-    "post": "Русский текст поста"
-  }}
-]
+Стиль:
+- серьезный мировой дайджест
+- плотная новостная подача
+- без эмодзи
+- без Markdown
+- без воды
+- без канцелярита
+- без ссылок внутри текста
 
-Items:
+HEADLINE:
+- короткий
+- сильный
+- информативный
+- только русский язык
+
+POST:
+- 2–4 коротких абзаца
+- суть события
+- почему это важно, только если это понятно из исходного текста
+- без выдуманных деталей
+
+Верни СТРОГО JSON object:
+{{
+  "items": [
+    {{
+      "id": 1,
+      "headline": "Русский заголовок",
+      "post": "Русский текст поста"
+    }}
+  ]
+}}
+
+No markdown. No text outside JSON.
+
+Новости:
 {json.dumps(payload, ensure_ascii=False)}
 """
 
     response = groq_client.chat.completions.create(
         model=GROQ_MODEL,
-        temperature=0.1,
+        temperature=0.2,
         messages=[
-            {"role": "system", "content": "Return only valid JSON. Russian language only. No markdown."},
+            {"role": "system", "content": "Return only valid JSON. All headline/post fields must be Russian."},
             {"role": "user", "content": prompt},
         ],
     )
@@ -773,28 +774,28 @@ Items:
     return response.choices[0].message.content.strip()
 
 
-def rewrite_selected_with_gemini(items):
+def rewrite_selected_with_groq(items):
     if not items:
         return []
 
-    print(f"Using Gemini model for rewrite: {GEMINI_MODEL}")
-    print(f"Sending {len(items)} selected articles to Gemini in batches of {GEMINI_REWRITE_BATCH_SIZE}.")
+    for idx, item in enumerate(items, start=1):
+        item["global_id"] = idx
+
+    print(f"Groq Russian rewrite: {len(items)} articles in batches of {GROQ_REWRITE_BATCH_SIZE}")
 
     rewritten_by_id = {}
 
-    for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
-        results = []
-
+    for batch_index, batch in enumerate(chunks(items, GROQ_REWRITE_BATCH_SIZE), start=1):
         try:
-            print(f"Gemini rewrite batch {batch_index}: {len(batch)} articles")
-            raw = ask_gemini_rewrite_batch(batch)
-            results = extract_json_array(raw)
+            print(f"Groq rewrite batch {batch_index}: {len(batch)} articles")
+            raw = ask_groq_rewrite_batch(batch)
+            payload = extract_json_payload(raw)
+            results = payload.get("items", [])
 
         except Exception as e:
-            print(f"Gemini rewrite batch failed: {e}")
+            print(f"Groq rewrite batch failed: {e}")
+            results = []
 
-        # If Gemini failed or returned incomplete/bad English output, retry same batch once.
-        valid_ids_from_gemini = set()
         for result in results:
             try:
                 item_id = int(result.get("id"))
@@ -803,134 +804,27 @@ def rewrite_selected_with_gemini(items):
             except Exception:
                 continue
 
-            if rewrite_is_valid(headline, post):
+            if is_valid_russian_rewrite(headline, post):
                 rewritten_by_id[item_id] = {
                     "headline": headline,
                     "post_text": post,
                 }
-                valid_ids_from_gemini.add(item_id)
-            else:
-                print(f"Gemini rewrite invalid/non-Russian for id {item_id}; will retry/fallback.")
-
-        missing_batch = [item for item in batch if item["batch_id"] not in valid_ids_from_gemini]
-
-        if missing_batch:
-            try:
-                print(f"Gemini strict retry batch {batch_index}: {len(missing_batch)} missing/non-Russian articles")
-                raw_retry = ask_gemini_rewrite_batch(missing_batch)
-                retry_results = extract_json_array(raw_retry)
-
-                for result in retry_results:
-                    try:
-                        item_id = int(result.get("id"))
-                        headline = strip_markdown(str(result.get("headline", "")).strip())
-                        post = strip_markdown(str(result.get("post", "")).strip())
-                    except Exception:
-                        continue
-
-                    if rewrite_is_valid(headline, post):
-                        rewritten_by_id[item_id] = {
-                            "headline": headline,
-                            "post_text": post,
-                        }
-
-            except Exception as e:
-                print(f"Gemini strict retry failed: {e}")
-
-        still_missing = [item for item in batch if item["batch_id"] not in rewritten_by_id]
-
-        if still_missing:
-            # Last-resort batch rewrite through Groq, still in Russian, still batched.
-            try:
-                print(f"Groq Russian rewrite fallback batch {batch_index}: {len(still_missing)} articles")
-                groq_raw = ask_groq_rewrite_batch(still_missing)
-                groq_results = extract_json_array(groq_raw)
-
-                for result in groq_results:
-                    try:
-                        item_id = int(result.get("id"))
-                        headline = strip_markdown(str(result.get("headline", "")).strip())
-                        post = strip_markdown(str(result.get("post", "")).strip())
-                    except Exception:
-                        continue
-
-                    if rewrite_is_valid(headline, post):
-                        rewritten_by_id[item_id] = {
-                            "headline": headline,
-                            "post_text": post,
-                        }
-                    else:
-                        print(f"Groq fallback also invalid/non-Russian for id {item_id}.")
-
-            except Exception as e:
-                print(f"Groq rewrite fallback failed: {e}")
 
     final = []
 
     for item in items:
-        rewrite = rewritten_by_id.get(item["batch_id"])
+        rewrite = rewritten_by_id.get(item["global_id"])
 
-        if rewrite and rewrite_is_valid(rewrite["headline"], rewrite["post_text"]):
+        if rewrite:
             item["headline"] = rewrite["headline"]
             item["post_text"] = rewrite["post_text"]
             print(f"Russian rewrite OK: {item['headline'][:90]}")
             final.append(item)
         else:
-            # Never publish English/raw fallback in Main Digest.
-            append_seen(item, "rewrite_failed_no_russian_output")
-            print(f"Skipped: no valid Russian rewrite for {item['title'][:90]}")
+            # No English fallback. If Groq failed to rewrite, skip the article.
+            print(f"Skipped: no valid Russian rewrite for {item['title']}")
 
     return final
-
-
-# =========================
-# SELECTION
-# =========================
-
-def select_diverse_news(scored):
-    selected = []
-    domain_counts = {}
-    seen_themes = []
-
-    for item in scored:
-        domain = item.get("domain", "unknown")
-        count = domain_counts.get(domain, 0)
-
-        if count >= MAX_POSTS_PER_DOMAIN:
-            continue
-
-        normalized = item.get("normalized_title", normalize_title(item.get("title", "")))
-        too_similar = False
-
-        for old in seen_themes:
-            if difflib.SequenceMatcher(None, normalized, old).ratio() >= 0.72:
-                too_similar = True
-                break
-
-        if too_similar:
-            continue
-
-        selected.append(item)
-        seen_themes.append(normalized)
-        domain_counts[domain] = count + 1
-
-        if len(selected) >= MAX_NEWS_PER_RUN:
-            break
-
-    return selected
-
-
-def analyze_candidates(candidates):
-    scored = score_candidates_with_groq(candidates)
-    selected = select_diverse_news(scored)
-
-    print(f"Selected after Groq scoring: {len(selected)}")
-
-    if not selected:
-        return []
-
-    rewritten = rewrite_selected_with_gemini(selected)
-    return rewritten
 
 
 # =========================
@@ -1053,9 +947,6 @@ def validate_env():
     if not TELEGRAM_CHANNEL_ID:
         missing.append("TELEGRAM_CHANNEL_ID")
 
-    if not GEMINI_API_KEY:
-        missing.append("GEMINI_API_KEY")
-
     if not GROQ_API_KEY:
         missing.append("GROQ_API_KEY")
 
@@ -1064,15 +955,25 @@ def validate_env():
 
 
 def init_clients():
-    global gemini_client
     global groq_client
-
-    gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
     groq_client = OpenAI(
         api_key=GROQ_API_KEY,
         base_url="https://api.groq.com/openai/v1",
     )
+
+
+def mark_processed_as_seen(processed_items, published_url_hashes):
+    published_hashes = {item["url_hash"] for item in published_url_hashes}
+
+    for item in processed_items:
+        if item["url_hash"] in published_hashes:
+            continue
+
+        try:
+            append_seen(item, "processed_not_published")
+        except Exception as e:
+            print(f"append_seen failed: {e}")
 
 
 def main():
@@ -1082,36 +983,54 @@ def main():
     published_url_hashes, published_title_hashes, raw_db_lines = load_db()
     sources = load_sources()
 
-    candidates = collect_candidates(
+    groups = collect_candidates_by_source(
         sources,
         published_url_hashes,
         published_title_hashes,
         raw_db_lines,
     )
 
-    print(f"Candidates collected before prefilter: {len(candidates)}")
-
-    if not candidates:
-        print("No new candidates.")
+    if not groups:
+        print("No source groups.")
         return
 
-    analyzed = analyze_candidates(candidates)
+    selected_by_source, processed_items = score_and_select_per_source(groups)
 
-    print(f"Selected for publishing: {len(analyzed)}")
+    print(f"Selected by top {TOP_PERCENT_PER_SOURCE}% per source: {len(selected_by_source)}")
 
-    if not analyzed:
-        print("No high-score diverse news found.")
+    if not selected_by_source:
+        print("No selected news after source selection.")
+        mark_processed_as_seen(processed_items, [])
         return
 
-    for index, item in enumerate(analyzed):
+    deduped = dedupe_themes(selected_by_source)
+
+    if not deduped:
+        print("No stories after theme dedupe.")
+        mark_processed_as_seen(processed_items, [])
+        return
+
+    rewritten = rewrite_selected_with_groq(deduped)
+
+    print(f"Selected for publishing: {len(rewritten)}")
+
+    if not rewritten:
+        print("No valid Russian rewrites to publish.")
+        mark_processed_as_seen(processed_items, [])
+        return
+
+    published = []
+
+    for index, item in enumerate(rewritten):
         print(
-            f"Publishing {index + 1}/{len(analyzed)}: "
+            f"Publishing {index + 1}/{len(rewritten)}: "
             f"score {item['score']} | {item['category']} | {item['domain']} | {item['headline']}"
         )
 
         try:
             if publish_item(item):
                 append_published(item)
+                published.append(item)
                 print("Published.")
             else:
                 append_seen(item, "publish_failed")
@@ -1121,7 +1040,9 @@ def main():
             append_seen(item, "publish_exception")
             print(f"Publish item error: {e}")
 
-        sleep_between_posts(index, len(analyzed))
+        sleep_between_posts(index, len(rewritten))
+
+    mark_processed_as_seen(processed_items, published)
 
     print("Done.")
 
