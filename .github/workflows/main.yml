@@ -41,6 +41,16 @@ jobs:
           MAX_NEWS_PER_RUN: ${{ vars.MAX_NEWS_PER_RUN }}
           MIN_SCORE_TO_POST: ${{ vars.MIN_SCORE_TO_POST }}
 
+          GROQ_BATCH_SIZE: ${{ vars.GROQ_BATCH_SIZE }}
+          GEMINI_REWRITE_BATCH_SIZE: ${{ vars.GEMINI_REWRITE_BATCH_SIZE }}
+
+          POST_DELAY_MIN_SECONDS: ${{ vars.POST_DELAY_MIN_SECONDS }}
+          POST_DELAY_MAX_SECONDS: ${{ vars.POST_DELAY_MAX_SECONDS }}
+
+          MAX_POSTS_PER_DOMAIN: ${{ vars.MAX_POSTS_PER_DOMAIN }}
+
+          DIGEST_CHANNEL_URL: ${{ vars.DIGEST_CHANNEL_URL }}
+
         run: python bot.py
 
       - name: Save published URLs database
