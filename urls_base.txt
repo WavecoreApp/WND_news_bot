@@ -196,3 +196,23 @@ seen_titlehash:0e658dfc922680c4495257e8e986d515c089ed552e59cd83aebb98f7d783a152
 seen_reason:rewrite_failed_no_russian_output
 url:https://cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html
 title:nvidia earnings call drama will jensen huang talk trump and china chips after xi summit
+urlhash:0699731ca416d5cdfdfb3cb56262da76af1aee27ef36cd72960b08ffcddad5b9
+titlehash:22e6c58e51c635b82316974a33e3d2b3f1ebcf9b4863a020947763bc6ff08771
+published_url:https://aljazeera.com/news/2026/5/18/belarus-dismisses-concerns-as-it-launches-joint-nuclear-drills-with-russia?traffic_source=rss
+title:belarus dismisses concerns as it launches joint nuclear drills with russia
+urlhash:8537b5d92f0eaec5bff0765918b60b94f091551fd8812858e59f20c8a024a510
+titlehash:745e6469407df76bbba9df2eacc3bca534a73ae263dfb5bcbca9b8e794d62e6d
+published_url:https://currenttime.tv/a/ssha-snova-prodlili-razreshenie-na-pokupku-rossiyskoy-nefti-na-30-dney/33759612.html
+title:сша снова продлили разрешение на покупку российской нефти на 30 дней
+urlhash:332afce9d9e820f101049a7abdd4c2e274a8f10393bc76e42bdc6fdcee1931ed
+titlehash:12db803d0681406f72cb29ed9e7d9fec59154fdf83d41d6d3d51240d2a8ec31e
+published_url:https://dw.com/ru/сша-снова-ослабили-санкции-против-нефти-из-россии/a-77202617?maca=rus-rss-ru-all-1126-rdf
+title:сша снова ослабили санкции против нефти из россии
+urlhash:e4238b849f40ac1185933f2c273205517a0fc6533aaa7e78c675e764fddcb9ca
+titlehash:e92e4d90c8dd70707eea8dacbcd05930ae0e9ac4b6b1557250972d7562e7d277
+published_url:https://theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim
+title:cuba warns us of bloodbath if military action follows drone claims
+urlhash:c66ea03d5923572d9484dcda6ccae11be987e37aca74409567a6b17c2addf1d8
+titlehash:025d379fb34547998620f3b4c4dbbc49fce5b338c1bb1b0d539fd561cf68cb47
+published_url:https://meduza.io/news/2026/05/18/ssha-snova-oslabyat-sanktsii-protiv-rossiyskoy-nefti-esche-na-mesyats
+title:сша снова ослабят санкции против российской нефти еще на месяц
