@@ -14,6 +14,18 @@ import feedparser
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
+def env_int(name, default):
+    value = os.getenv(name)
+    if value is None or str(value).strip() == "":
+        return default
+    try:
+        return int(str(value).strip())
+    except ValueError:
+        print(f"Invalid integer env {name}={value!r}. Using default {default}.")
+        return default
+
+
+
 
 # ==================================================
 # WND MAIN DIGEST
@@ -42,23 +54,23 @@ GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
 
 # Important:
 # 25 means: from every RSS source, keep the best 25% of NEW items from that source.
-TOP_PERCENT_PER_SOURCE = int(os.getenv("TOP_PERCENT_PER_SOURCE", "25"))
-SOURCE_MIN_TAKE = int(os.getenv("SOURCE_MIN_TAKE", "1"))
+TOP_PERCENT_PER_SOURCE = env_int("TOP_PERCENT_PER_SOURCE", 25)
+SOURCE_MIN_TAKE = env_int("SOURCE_MIN_TAKE", 1)
 
 # 0 means no global cap. This matches your request: publish all deduped top-25%-per-source stories.
 # If later you want a hard cap, set MAX_NEWS_PER_RUN to e.g. 10.
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "0"))
+MAX_NEWS_PER_RUN = env_int("MAX_NEWS_PER_RUN", 0)
 
-MAX_CANDIDATES_PER_SOURCE = int(os.getenv("MAX_CANDIDATES_PER_SOURCE", "20"))
-ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "20"))
+MAX_CANDIDATES_PER_SOURCE = env_int("MAX_CANDIDATES_PER_SOURCE", 20)
+ENTRIES_PER_SOURCE = env_int("ENTRIES_PER_SOURCE", 20)
 
-GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "20"))
-GROQ_REWRITE_BATCH_SIZE = int(os.getenv("GROQ_REWRITE_BATCH_SIZE", "20"))
+GROQ_BATCH_SIZE = env_int("GROQ_BATCH_SIZE", 20)
+GROQ_REWRITE_BATCH_SIZE = env_int("GROQ_REWRITE_BATCH_SIZE", 5)
 
-POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
-POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
+POST_DELAY_MIN_SECONDS = env_int("POST_DELAY_MIN_SECONDS", 60)
+POST_DELAY_MAX_SECONDS = env_int("POST_DELAY_MAX_SECONDS", 180)
 
-MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "3"))
+MAX_POSTS_PER_DOMAIN = env_int("MAX_POSTS_PER_DOMAIN", 3)
 
 DIGEST_CHANNEL_URL = os.getenv("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
 
@@ -774,6 +786,83 @@ No markdown. No text outside JSON.
     return response.choices[0].message.content.strip()
 
 
+def parse_rewrite_results(raw):
+    payload = extract_json_payload(raw)
+
+    if isinstance(payload, dict):
+        results = payload.get("items", [])
+    elif isinstance(payload, list):
+        results = payload
+    else:
+        results = []
+
+    if not isinstance(results, list):
+        return []
+
+    return results
+
+
+def apply_rewrite_results(results, rewritten_by_id):
+    accepted = 0
+
+    for result in results:
+        try:
+            item_id = int(result.get("id"))
+            headline = strip_markdown(str(result.get("headline", "")).strip())
+            post = strip_markdown(str(result.get("post", "")).strip())
+        except Exception:
+            continue
+
+        if is_valid_russian_rewrite(headline, post):
+            rewritten_by_id[item_id] = {
+                "headline": headline,
+                "post_text": post,
+            }
+            accepted += 1
+
+    return accepted
+
+
+def rewrite_batch_with_fallback(batch, rewritten_by_id, label):
+    """
+    Groq sometimes returns broken JSON when the rewrite batch is too large.
+    Do not lose the whole run. Retry as:
+    original batch -> chunks of 5 -> single articles.
+    """
+    if not batch:
+        return
+
+    try:
+        print(f"Groq rewrite {label}: {len(batch)} articles")
+        raw = ask_groq_rewrite_batch(batch)
+        results = parse_rewrite_results(raw)
+        accepted = apply_rewrite_results(results, rewritten_by_id)
+
+        if accepted > 0:
+            print(f"Groq rewrite {label} accepted: {accepted}/{len(batch)}")
+            return
+
+        raise ValueError("No valid Russian rewrites returned")
+
+    except Exception as e:
+        print(f"Groq rewrite {label} failed: {e}")
+
+    if len(batch) > 5:
+        print(f"Retrying failed rewrite batch as chunks of 5: {len(batch)} articles")
+        for idx, small_batch in enumerate(chunks(batch, 5), start=1):
+            rewrite_batch_with_fallback(small_batch, rewritten_by_id, f"{label}.{idx}/small")
+        return
+
+    if len(batch) > 1:
+        print(f"Retrying failed rewrite batch one by one: {len(batch)} articles")
+        for item in batch:
+            rewrite_batch_with_fallback([item], rewritten_by_id, f"{label}/single-{item.get('global_id')}")
+        return
+
+    # Single article failed. Leave it skipped.
+    print(f"Single rewrite failed permanently: {batch[0].get('title', '')}")
+
+
 def rewrite_selected_with_groq(items):
     if not items:
         return []
@@ -786,29 +875,7 @@ def rewrite_selected_with_groq(items):
     rewritten_by_id = {}
 
     for batch_index, batch in enumerate(chunks(items, GROQ_REWRITE_BATCH_SIZE), start=1):
-        try:
-            print(f"Groq rewrite batch {batch_index}: {len(batch)} articles")
-            raw = ask_groq_rewrite_batch(batch)
-            payload = extract_json_payload(raw)
-            results = payload.get("items", [])
-
-        except Exception as e:
-            print(f"Groq rewrite batch failed: {e}")
-            results = []
-
-        for result in results:
-            try:
-                item_id = int(result.get("id"))
-                headline = strip_markdown(str(result.get("headline", "")).strip())
-                post = strip_markdown(str(result.get("post", "")).strip())
-            except Exception:
-                continue
-
-            if is_valid_russian_rewrite(headline, post):
-                rewritten_by_id[item_id] = {
-                    "headline": headline,
-                    "post_text": post,
-                }
+        rewrite_batch_with_fallback(batch, rewritten_by_id, f"batch {batch_index}")
 
     final = []
 
