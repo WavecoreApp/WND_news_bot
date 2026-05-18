@@ -1,3 +1,22 @@
+
+# ==================================================
+# WND MAIN DIGEST — REFACTORED VERSION
+# Architecture:
+# - Groq Qwen3-32B for batch scoring
+# - Gemini 2.5 Flash-Lite for rewrites
+# - Optimized for hourly GitHub Actions runs
+# ==================================================
+
+import os
+
+GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+
+MAIN_DIGEST_MIN_SCORE = 8
+TARGET_POSTS_MIN = 3
+TARGET_POSTS_MAX = 10
+
+
 import os
 import re
 import time
@@ -793,3 +812,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Required GitHub Secrets:
+# GROQ_API_KEY
+# GEMINI_API_KEY
+# TELEGRAM_BOT_TOKEN
+
+# Required GitHub Variables:
+# GROQ_MODEL=qwen/qwen3-32b
+# GEMINI_MODEL=gemini-2.5-flash-lite
+# TELEGRAM_CHANNEL_ID=@wnd_main_digest
