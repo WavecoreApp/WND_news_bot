@@ -2,6 +2,7 @@ import os
 import re
 import time
 import html
+import json
 import random
 import hashlib
 import difflib
@@ -11,6 +12,15 @@ import requests
 import feedparser
 from bs4 import BeautifulSoup
 from google import genai
+from openai import OpenAI
+
+
+# ==================================================
+# WND MAIN DIGEST
+# Architecture:
+# - Groq/Qwen: batch scoring, filtering, ranking
+# - Gemini 2.0 Flash: batch rewrite only for selected stories
+# ==================================================
 
 
 # =========================
@@ -20,28 +30,34 @@ from google import genai
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
 
 MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "7"))
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "10"))
+MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "5"))
+MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "20"))
+GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "20"))
+GEMINI_REWRITE_BATCH_SIZE = int(os.getenv("GEMINI_REWRITE_BATCH_SIZE", "5"))
 
 POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
 POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
 
-ABOUT_POST_URL = os.getenv("ABOUT_POST_URL", "https://t.me/wnd_digest")
-ABOUT_LINK_TEXT = os.getenv("ABOUT_LINK_TEXT", "ℹ️ О проекте WND")
-
 ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "12"))
-MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "20"))
-
-# Важно: чтобы BBC/один сайт не забивал весь выпуск
 MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "2"))
 
-client = genai.Client()
+DIGEST_CHANNEL_URL = os.getenv("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
+INFO_POST_URL = os.getenv("INFO_POST_URL", DIGEST_CHANNEL_URL)
+
+REQUEST_TIMEOUT = 30
+
+
+gemini_client = None
+groq_client = None
 
 
 # =========================
@@ -56,7 +72,20 @@ def clean_text(text):
     if not text:
         return ""
     soup = BeautifulSoup(str(text), "html.parser")
-    return soup.get_text(" ", strip=True)
+    value = soup.get_text(" ", strip=True)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def strip_markdown(text):
+    if not text:
+        return ""
+    text = re.sub(r"```(?:json)?", "", text, flags=re.IGNORECASE)
+    text = text.replace("```", "")
+    text = re.sub(r"^\s*#{1,6}\s*", "", text, flags=re.MULTILINE)
+    text = text.replace("**", "")
+    text = text.replace("__", "")
+    return text.strip()
 
 
 def normalize_url(url):
@@ -106,6 +135,30 @@ def get_domain(url):
         return "unknown"
 
 
+def chunks(items, size):
+    for i in range(0, len(items), size):
+        yield items[i:i + size]
+
+
+def extract_json_array(text):
+    if not text:
+        return []
+
+    cleaned = text.strip()
+
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r"\s*```$", "", cleaned)
+
+    start = cleaned.find("[")
+    end = cleaned.rfind("]")
+
+    if start != -1 and end != -1 and end > start:
+        cleaned = cleaned[start:end + 1]
+
+    return json.loads(cleaned)
+
+
 # =========================
 # DATABASE / DUPLICATES
 # =========================
@@ -141,10 +194,6 @@ def load_db():
 
 
 def append_seen(item, reason):
-    """
-    Сохраняем не только опубликованные, но и обработанные/пропущенные.
-    Так при ручных перезапусках бот не будет снова крутить те же BBC/Ebola новости.
-    """
     with open(DB_FILE, "a", encoding="utf-8") as f:
         f.write(f"seen_urlhash:{item['url_hash']}\n")
         f.write(f"seen_titlehash:{item['title_hash']}\n")
@@ -210,7 +259,6 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
 
             for entry in feed.entries[:ENTRIES_PER_SOURCE]:
                 link = normalize_url(entry.get("link", ""))
-
                 title = clean_text(entry.get("title", ""))
                 summary = clean_text(entry.get("summary", entry.get("description", "")))
 
@@ -218,6 +266,9 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
                     continue
 
                 normalized_title = normalize_title(title)
+                if len(normalized_title) < 12:
+                    continue
+
                 url_hash = hash_text(link)
                 title_hash = hash_text(normalized_title)
 
@@ -248,7 +299,6 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
         except Exception as e:
             print(f"Source error {rss_url}: {e}")
 
-    # Round-robin по источникам, чтобы нижние источники тоже попадали в анализ
     balanced = []
     index = 0
 
@@ -262,7 +312,7 @@ def collect_candidates(sources, published_url_hashes, published_title_hashes, ra
             break
         index += 1
 
-    return balanced[:MAX_CANDIDATES_TO_ANALYZE]
+    return balanced
 
 
 # =========================
@@ -367,191 +417,362 @@ def get_best_image(entry, article_url):
 
 
 # =========================
-# GEMINI
+# LOCAL PREFILTER
 # =========================
 
-def ask_gemini(title, description, source_link):
+def local_pre_score(item):
+    text_blob = f"{item.get('title', '')} {item.get('summary', '')} {item.get('domain', '')}".lower()
+
+    high = [
+        "war", "attack", "strike", "nuclear", "missile", "drone", "iran", "israel",
+        "ukraine", "russia", "china", "taiwan", "trump", "xi", "putin", "g7",
+        "sanction", "ceasefire", "opec", "oil", "gas", "market", "crisis",
+        "ai", "artificial intelligence", "openai", "chatgpt", "google", "apple",
+        "microsoft", "nvidia", "anthropic", "meta", "chip", "semiconductor",
+        "cyber", "hack", "breach", "ransomware", "backdoor", "exploit",
+        "ebola", "pandemic", "earthquake", "flood", "wildfire", "crash",
+        "сша", "иран", "израил", "украин", "росси", "китай", "тайван", "нато",
+        "войн", "удар", "дрон", "ракета", "санкц", "эконом", "рын", "нефт",
+    ]
+
+    low = [
+        "review:", "what to watch", "what to read", "sport", "football", "celebrity",
+        "recipe", "horoscope", "travel guide", "weekend", "movie review", "shopping",
+    ]
+
+    score = 0
+    for word in high:
+        if word in text_blob:
+            score += 3
+    for word in low:
+        if word in text_blob:
+            score -= 5
+
+    domain = item.get("domain", "")
+    if any(d in domain for d in [
+        "bbc", "guardian", "aljazeera", "nytimes", "npr", "dw.com",
+        "meduza", "currenttime", "bloomberg", "cnbc", "reuters", "apnews"
+    ]):
+        score += 2
+
+    return score
+
+
+def prepare_candidates_for_scoring(candidates):
+    ranked = sorted(candidates, key=local_pre_score, reverse=True)
+    selected = ranked[:MAX_CANDIDATES_TO_ANALYZE]
+
+    for idx, item in enumerate(selected, start=1):
+        item["batch_id"] = idx
+        item["pre_score"] = local_pre_score(item)
+
+    print(f"Candidates after local prefilter: {len(selected)}")
+    return selected
+
+
+# =========================
+# GROQ SCORING
+# =========================
+
+def ask_groq_score_batch(batch):
+    payload = []
+
+    for item in batch:
+        payload.append({
+            "id": item["batch_id"],
+            "title": item["title"],
+            "description": item["summary"][:600],
+            "domain": item["domain"],
+            "pre_score": item.get("pre_score", 0),
+        })
+
     prompt = f"""
-Ты редактор Telegram-канала WND Pulse.
+You are the senior editor for WND | Main Digest, a serious international Telegram news digest.
 
-Формат канала:
-AI, технологии, Big Tech, крипта, интернет-культура, вирусные события, странные мировые новости, мемы, громкие дискуссии и тренды.
+Score each item from 1 to 10 for publication value.
 
-Это НЕ официальный новостной канал.
-Это быстрый modern feed о том, что обсуждают в мире и интернете.
+Channel profile:
+- world news
+- geopolitics
+- wars
+- international security
+- diplomacy
+- economy
+- global technology only when geopolitically/economically important
+- major crises and strategic events
 
-Что считать важным:
-• OpenAI, ChatGPT, Google, Apple, Microsoft, NVIDIA, Meta, X/Twitter
-• AI и новые технологии
-• крипта, блокчейн, биржи, громкие движения рынка
-• вирусные события и мемы
-• необычные новости из мира
-• громкие заявления и конфликты в tech-среде
-• кибербезопасность, утечки, взломы
-• научные открытия
-• culture moments, которые активно обсуждают онлайн
-• странные, смешные или абсурдные события, если они могут стать вирусными
+Score scale:
+10 = historic/global breaking news
+9 = extremely important international story
+8 = major publication-worthy story
+7 = strong publication candidate
+6 = interesting but secondary
+5 and below = do not publish
 
-Что НЕ брать:
-• скучная локальная политика
-• мелкая бюрократия
-• обычная криминальная хроника
-• слабые корпоративные пресс-релизы
-• новости без интересного угла
+Strongly prioritize:
+- wars, military conflict, missile/drone attacks
+- nuclear risks
+- NATO / USA / China / Russia / EU / Middle East
+- sanctions, diplomacy, major political decisions
+- global economy, oil, markets, central banks
+- cyber/security if globally meaningful
+- major outbreaks, disasters, coups, protests
 
-Оценка:
-10 = huge viral/global event
-9 = очень сильная новость
-8 = точно стоит публиковать
-7 = хорошая публикабельная новость
-6 и ниже = не публиковать
+Strongly downrank:
+- celebrity gossip
+- sports
+- lifestyle
+- local crime
+- entertainment
+- small product reviews
+- repetitive low-impact politics
+- filler articles
 
-Стиль:
-1. Заголовок — цепляющий, короткий, современный.
-2. Не кликбейт, но должен хотеться открыть и прочитать.
-3. Текст короткий, плотный, 2–4 абзаца.
-4. Можно использовать списки с символом •.
-5. Без эмодзи.
-6. Без Markdown.
-7. Не выдумывай факты.
-8. Не вставляй ссылки в текст.
-9. Пиши на живом русском, не как официальный перевод Reuters.
-10. Если новость выглядит мемной/вирусной/обсуждаемой — score должен быть выше.
+Return STRICT JSON array only. No markdown. No text outside JSON.
 
-Верни строго в таком формате:
+Required format:
+[
+  {{
+    "id": 1,
+    "score": 8,
+    "category": "war",
+    "reason": "brief reason"
+  }}
+]
 
-SCORE: число
-CATEGORY: ai/tech/crypto/viral/weird/business/science/internet/world
-HEADLINE: русский заголовок
-POST:
-короткий текст
-
-Исходная новость:
-Title: {title}
-Description: {description}
-Link: {source_link}
+Items:
+{json.dumps(payload, ensure_ascii=False)}
 """
 
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
+    response = groq_client.chat.completions.create(
+        model=GROQ_MODEL,
+        temperature=0.1,
+        messages=[
+            {"role": "system", "content": "Return only valid JSON. No markdown. No explanations."},
+            {"role": "user", "content": prompt},
+        ],
     )
 
-    return response.text.strip()
-
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-    )
-
-    return response.text.strip()
+    return response.choices[0].message.content.strip()
 
 
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-    )
+def score_candidates_with_groq(candidates):
+    prepared = prepare_candidates_for_scoring(candidates)
 
-    return response.text.strip()
+    if not prepared:
+        return []
 
+    print(f"Using Groq model: {GROQ_MODEL}")
+    print(f"Sending {len(prepared)} candidates to Groq in batches of {GROQ_BATCH_SIZE}.")
 
-def parse_gemini_response(text):
-    score = 0
-    category = "other"
-    headline = ""
-    post = text.strip()
+    by_id = {item["batch_id"]: item for item in prepared}
+    scored = []
 
-    try:
-        score_match = re.search(r"SCORE:\s*(\d+)", text, re.IGNORECASE)
-        category_match = re.search(r"CATEGORY:\s*([a-zA-Z_/-]+)", text, re.IGNORECASE)
-        headline_match = re.search(r"HEADLINE:\s*(.+)", text, re.IGNORECASE)
-
-        if score_match:
-            score = int(score_match.group(1))
-
-        if category_match:
-            category = category_match.group(1).strip().lower()
-
-        if headline_match:
-            headline = headline_match.group(1).strip()
-
-        if "POST:" in text:
-            post = text.split("POST:", 1)[1].strip()
-
-        post = re.sub(r"^HEADLINE:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
-        post = re.sub(r"^CATEGORY:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
-        post = re.sub(r"^SCORE:.*$", "", post, flags=re.MULTILINE | re.IGNORECASE).strip()
-
-    except Exception:
-        pass
-
-    return score, category, headline, post
-
-
-def analyze_candidates(candidates):
-    analyzed = []
-
-    for item in candidates:
-        print(f"Analyzing: {item['title']}")
-
+    for batch_index, batch in enumerate(chunks(prepared, GROQ_BATCH_SIZE), start=1):
         try:
-            gemini_text = ask_gemini(
-                item["title"],
-                item["summary"],
-                item["link"]
-            )
-
-            score, category, headline, post_text = parse_gemini_response(gemini_text)
-
-            print(f"Score: {score} | Category: {category} | Domain: {item['domain']} | {headline}")
-
-            item["score"] = score
-            item["category"] = category
-            item["headline"] = headline or item["title"]
-            item["post_text"] = post_text
-
-            # ВАЖНО: даже если score низкий, помечаем как seen,
-            # чтобы оно не крутилось снова при каждом ручном запуске.
-            if score < MIN_SCORE_TO_POST:
-                append_seen(item, f"low_score_{score}")
-                continue
-
-            analyzed.append(item)
+            print(f"Groq scoring batch {batch_index}: {len(batch)} articles")
+            raw = ask_groq_score_batch(batch)
+            results = extract_json_array(raw)
 
         except Exception as e:
-            print(f"Gemini error: {e}")
+            print(f"Groq batch error: {e}")
+            continue
 
-    analyzed.sort(key=lambda x: x["score"], reverse=True)
-    return analyzed
+        for result in results:
+            try:
+                item_id = int(result.get("id"))
+                score = int(result.get("score", 0))
+            except Exception:
+                continue
+
+            item = by_id.get(item_id)
+            if not item:
+                continue
+
+            item["score"] = max(1, min(10, score))
+            item["category"] = str(result.get("category", "other"))
+            item["score_reason"] = str(result.get("reason", ""))
+
+            print(
+                f"Score: {item['score']} | Category: {item['category']} | "
+                f"Domain: {item['domain']} | {item['title']}"
+            )
+
+            if item["score"] >= MIN_SCORE_TO_POST:
+                scored.append(item)
+
+    scored.sort(key=lambda x: x["score"], reverse=True)
+    return scored
 
 
-def select_diverse_news(analyzed):
+# =========================
+# GEMINI BATCH REWRITE
+# =========================
+
+def ask_gemini_rewrite_batch(batch):
+    payload = []
+
+    for item in batch:
+        payload.append({
+            "id": item["batch_id"],
+            "score": item.get("score"),
+            "category": item.get("category"),
+            "title": item["title"],
+            "description": item["summary"][:900],
+            "domain": item["domain"],
+        })
+
+    prompt = f"""
+Ты редактор Telegram-канала WND | Мировой дайджест.
+
+Перепиши выбранные новости на русском для основного мирового дайджеста.
+
+Стиль:
+- серьезный
+- коротко
+- по делу
+- премиальный Telegram digest
+- без дешевого кликбейта
+- без эмодзи
+- без Markdown
+- без воды
+- не выдумывать факты
+
+HEADLINE:
+- короткий сильный заголовок
+- не таблоидный
+- должен цеплять, но оставаться новостным
+
+POST:
+- 2–4 коротких абзаца
+- простым русским языком
+- только суть и значение события
+- без ссылок внутри текста
+
+Верни СТРОГО JSON-массив.
+Без текста до или после JSON.
+
+Формат:
+[
+  {{
+    "id": 1,
+    "headline": "Заголовок",
+    "post": "Текст поста"
+  }}
+]
+
+Новости:
+{json.dumps(payload, ensure_ascii=False)}
+"""
+
+    response = gemini_client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+    )
+
+    return response.text.strip()
+
+
+def rewrite_selected_with_gemini(items):
+    if not items:
+        return []
+
+    print(f"Using Gemini model for rewrite: {GEMINI_MODEL}")
+    print(f"Sending {len(items)} selected articles to Gemini in batches of {GEMINI_REWRITE_BATCH_SIZE}.")
+
+    rewritten_by_id = {}
+
+    for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
+        try:
+            print(f"Gemini rewrite batch {batch_index}: {len(batch)} articles")
+            raw = ask_gemini_rewrite_batch(batch)
+            results = extract_json_array(raw)
+
+        except Exception as e:
+            print(f"Gemini rewrite batch failed: {e}")
+            results = []
+
+        for result in results:
+            try:
+                item_id = int(result.get("id"))
+                headline = strip_markdown(str(result.get("headline", "")).strip())
+                post = strip_markdown(str(result.get("post", "")).strip())
+            except Exception:
+                continue
+
+            if headline or post:
+                rewritten_by_id[item_id] = {
+                    "headline": headline,
+                    "post_text": post,
+                }
+
+    final = []
+
+    for item in items:
+        rewrite = rewritten_by_id.get(item["batch_id"])
+
+        if rewrite:
+            item["headline"] = rewrite["headline"] or item["title"]
+            item["post_text"] = rewrite["post_text"] or item["summary"]
+            print(f"Gemini rewrite OK: {item['headline'][:90]}")
+        else:
+            item["headline"] = item["title"]
+            item["post_text"] = item["summary"] or item["title"]
+            print(f"Gemini fallback used: {item['headline'][:90]}")
+
+        final.append(item)
+
+    return final
+
+
+# =========================
+# SELECTION
+# =========================
+
+def select_diverse_news(scored):
     selected = []
     domain_counts = {}
+    seen_themes = []
 
-    # 1 проход: берём лучшие, но не больше MAX_POSTS_PER_DOMAIN с одного домена
-    for item in analyzed:
-        domain = item["domain"]
+    for item in scored:
+        domain = item.get("domain", "unknown")
         count = domain_counts.get(domain, 0)
 
         if count >= MAX_POSTS_PER_DOMAIN:
-            append_seen(item, f"domain_cap_{domain}")
+            continue
+
+        normalized = item.get("normalized_title", normalize_title(item.get("title", "")))
+        too_similar = False
+
+        for old in seen_themes:
+            if difflib.SequenceMatcher(None, normalized, old).ratio() >= 0.72:
+                too_similar = True
+                break
+
+        if too_similar:
             continue
 
         selected.append(item)
+        seen_themes.append(normalized)
         domain_counts[domain] = count + 1
 
         if len(selected) >= MAX_NEWS_PER_RUN:
             break
 
-    # Всё, что хорошее, но не попало из-за лимитов, тоже marked seen,
-    # чтобы следующие ручные перезапуски не гоняли один и тот же верх RSS.
-    selected_ids = {item["url_hash"] for item in selected}
-    for item in analyzed:
-        if item["url_hash"] not in selected_ids:
-            append_seen(item, "not_selected_this_run")
-
     return selected
+
+
+def analyze_candidates(candidates):
+    scored = score_candidates_with_groq(candidates)
+    selected = select_diverse_news(scored)
+
+    print(f"Selected after Groq scoring: {len(selected)}")
+
+    if not selected:
+        return []
+
+    rewritten = rewrite_selected_with_gemini(selected)
+    return rewritten
 
 
 # =========================
@@ -562,7 +783,7 @@ def telegram_api(method, payload):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/{method}"
 
     try:
-        response = requests.post(url, json=payload, timeout=30)
+        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
 
         if response.status_code != 200:
             print(f"Telegram {method} error:", response.status_code, response.text)
@@ -575,19 +796,24 @@ def telegram_api(method, payload):
 
 
 def make_post_html(headline, body, source_url, score):
-    safe_headline = html.escape(headline.strip())
-    safe_body = html.escape(body.strip())
+    clean_headline = strip_markdown(headline.strip())
+    clean_body = strip_markdown(body.strip())
+
+    safe_headline = html.escape(clean_headline)
+    safe_body = html.escape(clean_body)
+
     if score >= 10:
         safe_headline = f"⚡ {safe_headline}"
+
     safe_source_url = html.escape(source_url.strip(), quote=True)
-    safe_about_url = html.escape(ABOUT_POST_URL.strip(), quote=True)
-    safe_about_text = html.escape(ABOUT_LINK_TEXT.strip())
+    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
 
     return (
-    f"<b>{safe_headline}</b>\n\n"
-    f"{safe_body}\n\n"
-    f'<a href="https://t.me/wnd_pulse">WND Pulse</a>'
-)
+        f"<b>{safe_headline}</b>\n\n"
+        f"{safe_body}\n\n"
+        f'<a href="{safe_source_url}">Источник</a> | '
+        f'<a href="{safe_digest_url}">WND Digest</a>'
+    )
 
 
 def send_photo_with_caption(image_url, caption_html):
@@ -625,11 +851,11 @@ def send_text_without_preview(text_html):
 
 def publish_item(item):
     text_html = make_post_html(
-    item["headline"],
-    item["post_text"],
-    item["link"],
-    item["score"]
-)
+        item["headline"],
+        item["post_text"],
+        item["link"],
+        item["score"],
+    )
 
     image_url = get_best_image(item["entry"], item["link"])
 
@@ -656,28 +882,6 @@ def sleep_between_posts(current_index, total_count):
     time.sleep(delay)
 
 
-
-
-def select_diverse_news(analyzed):
-    selected = []
-    domain_counts = {}
-
-    for item in analyzed:
-        domain = item.get("domain", "unknown")
-        count = domain_counts.get(domain, 0)
-
-        if count >= MAX_POSTS_PER_DOMAIN:
-            continue
-
-        selected.append(item)
-        domain_counts[domain] = count + 1
-
-        if len(selected) >= MAX_NEWS_PER_RUN:
-            break
-
-    return selected
-
-
 # =========================
 # MAIN
 # =========================
@@ -694,12 +898,28 @@ def validate_env():
     if not GEMINI_API_KEY:
         missing.append("GEMINI_API_KEY")
 
+    if not GROQ_API_KEY:
+        missing.append("GROQ_API_KEY")
+
     if missing:
-        raise RuntimeError("Missing secrets: " + ", ".join(missing))
+        raise RuntimeError("Missing env variables: " + ", ".join(missing))
+
+
+def init_clients():
+    global gemini_client
+    global groq_client
+
+    gemini_client = genai.Client(api_key=GEMINI_API_KEY)
+
+    groq_client = OpenAI(
+        api_key=GROQ_API_KEY,
+        base_url="https://api.groq.com/openai/v1",
+    )
 
 
 def main():
     validate_env()
+    init_clients()
 
     published_url_hashes, published_title_hashes, raw_db_lines = load_db()
     sources = load_sources()
@@ -708,27 +928,26 @@ def main():
         sources,
         published_url_hashes,
         published_title_hashes,
-        raw_db_lines
+        raw_db_lines,
     )
 
-    print(f"Candidates collected: {len(candidates)}")
+    print(f"Candidates collected before prefilter: {len(candidates)}")
 
     if not candidates:
         print("No new candidates.")
         return
 
     analyzed = analyze_candidates(candidates)
-    selected = select_diverse_news(analyzed)
 
-    print(f"Selected for publishing: {len(selected)}")
+    print(f"Selected for publishing: {len(analyzed)}")
 
-    if not selected:
+    if not analyzed:
         print("No high-score diverse news found.")
         return
 
-    for index, item in enumerate(selected):
+    for index, item in enumerate(analyzed):
         print(
-            f"Publishing {index + 1}/{len(selected)}: "
+            f"Publishing {index + 1}/{len(analyzed)}: "
             f"score {item['score']} | {item['category']} | {item['domain']} | {item['headline']}"
         )
 
@@ -741,10 +960,10 @@ def main():
                 print("Publish failed.")
 
         except Exception as e:
-            append_seen(item, f"publish_exception")
+            append_seen(item, "publish_exception")
             print(f"Publish item error: {e}")
 
-        sleep_between_posts(index, len(selected))
+        sleep_between_posts(index, len(analyzed))
 
     print("Done.")
 
