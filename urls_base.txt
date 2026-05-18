@@ -146,3 +146,28 @@ seen_titlehash:3c43697c10e504553e89bec3a50069af982c93281c3ea654a80dc977a40da564
 seen_reason:low_score_5
 url:https://nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html
 title:blocked strait of hormuz leads to new opportunities for syria
+seen_urlhash:eaa0acedb264ae5aa7f6c1fa0257e5229b91fd8ad5c47f91820135ad6737c446
+seen_titlehash:198fe1ef274acaba1eba73b1e5661de0a93ed331be2ec4e8cfd894ca3998affe
+seen_reason:rewrite_failed_no_russian_output
+url:https://currenttime.tv/a/kak-drony-vsu-17-maya-prorvali-neskolko-kolets-pvo-i-reb-vokrug-moskvy-i-pochemu-eto-popytka-moralnogo-davleniya-na-rossiyskie-elity/33759267.html
+title:как дроны всу 17 мая прорвали несколько колец пво и рэб вокруг москвы и почему это попытка давления на российские элиты
+seen_urlhash:ea8c7275925aa00667152e99effb4edaf750e8708c07c94afabaab303dcb7d63
+seen_titlehash:529550a004070ec1177836e5207a885f15842a045d7a7113286f7c35d206f12f
+seen_reason:rewrite_failed_no_russian_output
+url:https://theguardian.com/world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit
+title:xi prepares to welcome putin to china four days after hosting trump
+seen_urlhash:fd81c8de0dd53eaade542171a2769092a70aa1a533932dfc98c2c062870351ad
+seen_titlehash:42996d393034e7aca922d19f306f26e195acc6c4b96496287384f651e2385877
+seen_reason:rewrite_failed_no_russian_output
+url:https://npr.org/2026/05/18/nx-s1-5824988/ukraine-launches-large-scale-drone-strikes-on-russia
+title:ukraine launches large scale drone strikes on russia
+seen_urlhash:47cab68c42dc94c0d48476d50d849587fe3978f0947d7986260bdf2020e51e37
+seen_titlehash:56fc9b7f031241cfd74a155b9e36fa0be15613ac2e08f428af9874364398c7ce
+seen_reason:rewrite_failed_no_russian_output
+url:https://npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow
+title:ukraine conducts large scale drone strikes on russia killing 4 and wounding 12 others
+seen_urlhash:5ec47f7d547665789bb175d7927370f29caf1fd5a142ff7de5c00b92fa70a8ab
+seen_titlehash:5caf88cf61dd058bd463f5552f0b78b2cf25a81197b635e1f16d136a2b8475f9
+seen_reason:rewrite_failed_no_russian_output
+url:https://currenttime.tv/a/33759321.html
+title:axios cnn дональд трамп на днях обсудит со своей командой варианты новых военных действий сша против ирана
