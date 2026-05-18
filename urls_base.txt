@@ -1783,3 +1783,35 @@ urlhash:9189ca5430a04aa79c3e0687d2aee0cadb30d2eb53b26bd9648540bb94653ee9
 titlehash:359acb9b5b5044630294e5346c0e842507e78eb6ee9ea1dc88db6a706117f89a
 published_url:https://ft.com/content/4850e61e-df5b-4219-85cc-f039af545110
 title:project astra the 420bn merger powering the us ai revolution
+urlhash:1be7896de555a2f140efed5e6c8597d00f220bfbe718ae92238e06ff75090ff8
+titlehash:daff2aa11e74529d14c7a3e7f84b1cc0d6b4fa89c472c1f580343db8450310bf
+published_url:https://nytimes.com/2026/05/18/world/americas/cuba-sanctions-us.html
+title:u s hits top cuban officials with sanctions
+urlhash:76c1155102b725edb11a17fb69b04bce35915c27e8cc43e513e742068664c7b8
+titlehash:f7b071b9fc25849408e18e2f851ebe9497db4634e6a2927587f74892a4d7ed59
+published_url:https://aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss
+title:us suspends joint defence effort with canada dating back to world war ii
+urlhash:958bf3b4e6bde12e94972a7eba8ec5ae070cf056c3059ad831cf00a6ff8b9dc6
+titlehash:b38d275eee4962baf2c9d3dce7b2f9aef5f7cf448b4196baeb6d410e98ab84b3
+published_url:https://france24.com/en/cuba-warns-of-bloodbath-if-us-attacks-washington-adds-sanctions
+title:cuba warns of bloodbath if us attacks washington adds sanctions
+seen_urlhash:bb16c04133d3a983b1358e6c565f7bda8c640dc3f2652410ebb3ef60d5bfbbf2
+seen_titlehash:42493537fb390a20856d887154cab2c41ba251cfbdcdee233577e1cfa8a1add3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss
+title:a packed race for governor what to know about oregon s primary elections
+seen_urlhash:f47f7da2825edb4ca6c701a19712eeed76623e0862af4ebf68021c3c7fc8866a
+seen_titlehash:5ad7eab608ea0870626a1b80baa60fc007431a9ac94abe1c84bdd5373ef31de6
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260518-us-tightens-ebola-precautions-as-outbreak-declared-international-emergency
+title:us tightens ebola precautions as outbreak declared international emergency
+seen_urlhash:2e40bd7bb18a07169945dfdf4e49eb77d9e5b613a923f0ed82d5b861cf754346
+seen_titlehash:9981dfde55259087c76e7c4ec909efe02c4c7029e8ee76cba5c64f92bcf2c441
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260518-three-killed-in-attack-at-san-diego-islamic-centre-in-suspected-hate-crime
+title:three killed in attack at san diego islamic centre in suspected hate crime
+seen_urlhash:2023240269fd6681ec9c11f83528c610bbc89839cf6a3432e829e2ae64cafa0a
+seen_titlehash:398f188a4bb182f91ee149323d8e39d7a5c6beb4c26db1836d683597fd71bbdc
+seen_reason:processed_not_published
+url:https://france24.com/en/five-dead-including-two-suspects-after-shooting-at-san-diego-mosque
+title:five dead including two suspects after shooting at san diego mosque
