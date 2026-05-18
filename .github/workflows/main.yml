@@ -28,18 +28,28 @@ jobs:
       - name: Run news bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+          TELEGRAM_CHANNEL_ID: ${{ vars.TELEGRAM_CHANNEL_ID }}
+
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+
           MAX_CANDIDATES_TO_ANALYZE: ${{ vars.MAX_CANDIDATES_TO_ANALYZE }}
           MAX_NEWS_PER_RUN: ${{ vars.MAX_NEWS_PER_RUN }}
           MIN_SCORE_TO_POST: ${{ vars.MIN_SCORE_TO_POST }}
+
         run: python bot.py
 
       - name: Save published URLs database
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
+
           git add urls_base.txt
+
           git commit -m "Update news database [skip ci]" || echo "No changes to commit"
+
           git push
