@@ -92,3 +92,42 @@ seen_titlehash:57b06ee32763959be8212c28ae165e55ff1232cddd8acbd52d906d84ce4ff55c
 seen_reason:low_score_4
 url:https://bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss
 title:trump backed challenger defeats republican senator who voted to convict president
+seen_urlhash:32dfc2e1c79193ded8b48bfefba7268ba6450666ee1018fc0ccdfcabd7d48714
+seen_titlehash:da72fae6c64bfca51cd17cba1276b2f16af8b4477626f6faaee990dc40a736c7
+seen_reason:low_score_3
+url:https://bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss
+title:at least six americans exposed to ebola during dr congo outbreak
+seen_urlhash:08004e20f12efcadb622748fbe693e857382861f14d62ef106691357a25aa89e
+seen_titlehash:1497d9de5b830a2786245c2d81c1c9a3725ab2aa9a807c81a09d5fcfcf0fdaac
+seen_reason:low_score_6
+url:https://aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss
+title:ebola hantavirus is the world prepared for the next pandemic
+seen_urlhash:6fbc3c5fbaa2569edd6ae22049dd0c5afeb41921a5a2e6e98cccf6a4a031a3ec
+seen_titlehash:1f3b11771ebcda948db3f6cf2f9660c1bb40becd2abed9d8c108eb8ffbc14ce3
+seen_reason:low_score_3
+url:https://nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html
+title:in closed door talks u s demands a major role in greenland
+seen_urlhash:ea3b7d57c2d371dd9e5d89d41d5a6e7a2bc524a2f98b4c461e661a9eafe10741
+seen_titlehash:76aede59809c85f3a39f8910c7ed624f827653cec02509639e94dbe3fc81032c
+seen_reason:low_score_5
+url:https://npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision
+title:sen bill cassidy loses primary and who declares ebola outbreak a global emergency
+seen_urlhash:4c755ca2bff0b577c9923faaaf5d91e75d2ad9cfb22a9c047b61211f0ae2858a
+seen_titlehash:5425374055fb9b6184db420c93496b771ddb48b8d411ae3c5c64f87170936b5a
+seen_reason:low_score_3
+url:https://meduza.io/news/2026/05/18/letom-rossiyanam-budut-dostupny-pryamye-perelety-primerno-v-30-stran-v-sssr-pri-zheleznom-zanavese-bylo-v-tri-raza-bolshe-takih-napravleniy
+title:летом россиянам будут доступны прямые перелеты примерно в 30 стран в ссср при железном занавесе было в три раза больше таких направлений
+seen_urlhash:5215e80930c9c24fe30761c79cf50c328042edc53d8d8567ffe20d0b5bd87bf3
+seen_titlehash:56a04fa3214628e1645fe5421889f2809fba3219d28712b2a17ebbdd1ccc88ad
+seen_reason:low_score_2
+url:https://currenttime.tv/a/33759457.html
+title:андрей ермак вышел из сизо под залог
+seen_urlhash:0ef6368891e7a63766806005da9c20ca341268fca7a5a77427c02a19ee60436d
+seen_titlehash:45628c3494bcba3d3160253701fed519db8760f5e03eb40907aa544ca90c7e4b
+seen_reason:low_score_4
+url:https://bloomberg.com/news/videos/2026-05-18/nextera-to-acquire-dominion-energy-in-67-billion-deal-video
+title:nextera energy to acquire dominion energy in 67 billion deal
+urlhash:f6ff9f9459a3e1d46a4a9ca6e8fa6f09bedf27d3adff715bb9fc6ea5dd2ed970
+titlehash:796a31f5b78f8b7824b0a88037d7473f3d99fbecffc36337d59216168988bef2
+published_url:https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver
+title:the us space enterprise is desperately waiting for starship will it finally deliver
