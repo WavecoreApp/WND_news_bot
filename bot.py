@@ -42,7 +42,7 @@ MIN_SCORE_TO_POST = int(os.getenv("MIN_SCORE_TO_POST", "7"))
 MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "5"))
 MAX_CANDIDATES_TO_ANALYZE = int(os.getenv("MAX_CANDIDATES_TO_ANALYZE", "20"))
 GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "20"))
-GEMINI_REWRITE_BATCH_SIZE = int(os.getenv("GEMINI_REWRITE_BATCH_SIZE", "5"))
+GEMINI_REWRITE_BATCH_SIZE = int(os.getenv("GEMINI_REWRITE_BATCH_SIZE", "20"))
 
 POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
 POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
@@ -86,6 +86,27 @@ def strip_markdown(text):
     text = text.replace("**", "")
     text = text.replace("__", "")
     return text.strip()
+
+
+
+
+def looks_russian(text):
+    if not text:
+        return False
+    letters = re.findall(r"[A-Za-zА-Яа-яЁё]", text)
+    if not letters:
+        return False
+    cyrillic = re.findall(r"[А-Яа-яЁё]", text)
+    return len(cyrillic) / max(len(letters), 1) >= 0.35
+
+
+def rewrite_is_valid(headline, post):
+    combined = f"{headline} {post}".strip()
+    if len(combined) < 40:
+        return False
+    if not looks_russian(combined):
+        return False
+    return True
 
 
 def normalize_url(url):
@@ -617,47 +638,69 @@ def ask_gemini_rewrite_batch(batch):
             "id": item["batch_id"],
             "score": item.get("score"),
             "category": item.get("category"),
-            "title": item["title"],
-            "description": item["summary"][:900],
+            "source_title": item["title"],
+            "source_description": item["summary"][:1200],
             "domain": item["domain"],
+            "source_url": item["link"],
         })
 
     prompt = f"""
 Ты редактор Telegram-канала WND | Мировой дайджест.
 
-Перепиши выбранные новости на русском для основного мирового дайджеста.
+Твоя задача: ОБЯЗАТЕЛЬНО перевести, сжать и переписать КАЖДУЮ новость из списка на русском языке.
+
+Это основной serious-news канал, НЕ WND Digest.
+
+Главное:
+- все headline и post должны быть на русском языке
+- не оставляй английский заголовок
+- не оставляй английский текст
+- не пропускай новости из списка
+- не добавляй факты от себя
+- не меняй смысл
+- не преувеличивай
+- не превращай в кликбейт
+- если данных мало, аккуратно перескажи только то, что есть в title/description
 
 Стиль:
-- серьезный
+- серьезный мировой дайджест
 - коротко
 - по делу
 - премиальный Telegram digest
-- без дешевого кликбейта
 - без эмодзи
 - без Markdown
 - без воды
-- не выдумывать факты
+- без фраз вроде "это может изменить всё", "шок", "сенсация"
+- текст должен звучать как живой русский редактор, а не машинный перевод
 
 HEADLINE:
-- короткий сильный заголовок
+- русский
+- короткий
+- сильный
+- новостной
 - не таблоидный
-- должен цеплять, но оставаться новостным
 
 POST:
+- русский
 - 2–4 коротких абзаца
-- простым русским языком
-- только суть и значение события
+- своими словами
+- суть события + почему это важно
 - без ссылок внутри текста
+- без источника внутри текста
 
 Верни СТРОГО JSON-массив.
-Без текста до или после JSON.
+Без текста до JSON.
+Без текста после JSON.
+Без markdown code fence.
+
+Верни объект для КАЖДОЙ новости из списка.
 
 Формат:
 [
   {{
     "id": 1,
-    "headline": "Заголовок",
-    "post": "Текст поста"
+    "headline": "Русский заголовок",
+    "post": "Русский текст поста"
   }}
 ]
 
@@ -673,6 +716,63 @@ POST:
     return response.text.strip()
 
 
+
+
+def ask_groq_rewrite_batch(batch):
+    payload = []
+
+    for item in batch:
+        payload.append({
+            "id": item["batch_id"],
+            "score": item.get("score"),
+            "category": item.get("category"),
+            "source_title": item["title"],
+            "source_description": item["summary"][:1200],
+            "domain": item["domain"],
+        })
+
+    prompt = f"""
+You are rewriting news for a Russian-language Telegram channel called WND | Мировой дайджест.
+
+CRITICAL:
+- Return Russian text only.
+- Translate every item into Russian.
+- Rewrite in natural Russian, not literal machine translation.
+- Do not add facts.
+- Do not omit important facts from title/description.
+- No emojis.
+- No Markdown.
+- Return a JSON array only.
+- Return one object for every item.
+
+Style:
+serious international news digest, concise, clear, premium Telegram formatting.
+
+Output format:
+[
+  {{
+    "id": 1,
+    "headline": "Русский заголовок",
+    "post": "Русский текст поста"
+  }}
+]
+
+Items:
+{json.dumps(payload, ensure_ascii=False)}
+"""
+
+    response = groq_client.chat.completions.create(
+        model=GROQ_MODEL,
+        temperature=0.1,
+        messages=[
+            {"role": "system", "content": "Return only valid JSON. Russian language only. No markdown."},
+            {"role": "user", "content": prompt},
+        ],
+    )
+
+    return response.choices[0].message.content.strip()
+
+
 def rewrite_selected_with_gemini(items):
     if not items:
         return []
@@ -683,6 +783,8 @@ def rewrite_selected_with_gemini(items):
     rewritten_by_id = {}
 
     for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
+        results = []
+
         try:
             print(f"Gemini rewrite batch {batch_index}: {len(batch)} articles")
             raw = ask_gemini_rewrite_batch(batch)
@@ -690,8 +792,9 @@ def rewrite_selected_with_gemini(items):
 
         except Exception as e:
             print(f"Gemini rewrite batch failed: {e}")
-            results = []
 
+        # If Gemini failed or returned incomplete/bad English output, retry same batch once.
+        valid_ids_from_gemini = set()
         for result in results:
             try:
                 item_id = int(result.get("id"))
@@ -700,27 +803,82 @@ def rewrite_selected_with_gemini(items):
             except Exception:
                 continue
 
-            if headline or post:
+            if rewrite_is_valid(headline, post):
                 rewritten_by_id[item_id] = {
                     "headline": headline,
                     "post_text": post,
                 }
+                valid_ids_from_gemini.add(item_id)
+            else:
+                print(f"Gemini rewrite invalid/non-Russian for id {item_id}; will retry/fallback.")
+
+        missing_batch = [item for item in batch if item["batch_id"] not in valid_ids_from_gemini]
+
+        if missing_batch:
+            try:
+                print(f"Gemini strict retry batch {batch_index}: {len(missing_batch)} missing/non-Russian articles")
+                raw_retry = ask_gemini_rewrite_batch(missing_batch)
+                retry_results = extract_json_array(raw_retry)
+
+                for result in retry_results:
+                    try:
+                        item_id = int(result.get("id"))
+                        headline = strip_markdown(str(result.get("headline", "")).strip())
+                        post = strip_markdown(str(result.get("post", "")).strip())
+                    except Exception:
+                        continue
+
+                    if rewrite_is_valid(headline, post):
+                        rewritten_by_id[item_id] = {
+                            "headline": headline,
+                            "post_text": post,
+                        }
+
+            except Exception as e:
+                print(f"Gemini strict retry failed: {e}")
+
+        still_missing = [item for item in batch if item["batch_id"] not in rewritten_by_id]
+
+        if still_missing:
+            # Last-resort batch rewrite through Groq, still in Russian, still batched.
+            try:
+                print(f"Groq Russian rewrite fallback batch {batch_index}: {len(still_missing)} articles")
+                groq_raw = ask_groq_rewrite_batch(still_missing)
+                groq_results = extract_json_array(groq_raw)
+
+                for result in groq_results:
+                    try:
+                        item_id = int(result.get("id"))
+                        headline = strip_markdown(str(result.get("headline", "")).strip())
+                        post = strip_markdown(str(result.get("post", "")).strip())
+                    except Exception:
+                        continue
+
+                    if rewrite_is_valid(headline, post):
+                        rewritten_by_id[item_id] = {
+                            "headline": headline,
+                            "post_text": post,
+                        }
+                    else:
+                        print(f"Groq fallback also invalid/non-Russian for id {item_id}.")
+
+            except Exception as e:
+                print(f"Groq rewrite fallback failed: {e}")
 
     final = []
 
     for item in items:
         rewrite = rewritten_by_id.get(item["batch_id"])
 
-        if rewrite:
-            item["headline"] = rewrite["headline"] or item["title"]
-            item["post_text"] = rewrite["post_text"] or item["summary"]
-            print(f"Gemini rewrite OK: {item['headline'][:90]}")
+        if rewrite and rewrite_is_valid(rewrite["headline"], rewrite["post_text"]):
+            item["headline"] = rewrite["headline"]
+            item["post_text"] = rewrite["post_text"]
+            print(f"Russian rewrite OK: {item['headline'][:90]}")
+            final.append(item)
         else:
-            item["headline"] = item["title"]
-            item["post_text"] = item["summary"] or item["title"]
-            print(f"Gemini fallback used: {item['headline'][:90]}")
-
-        final.append(item)
+            # Never publish English/raw fallback in Main Digest.
+            append_seen(item, "rewrite_failed_no_russian_output")
+            print(f"Skipped: no valid Russian rewrite for {item['title'][:90]}")
 
     return final
 
