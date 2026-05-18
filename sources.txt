@@ -1,35 +1,31 @@
 # One RSS URL per line. Lines starting with # are ignored.
+
+# CORE WORLD NEWS / FACTUAL BASE
+
+https://apnews.com/world-news/rss
 https://feeds.bbci.co.uk/news/world/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 https://www.theguardian.com/world/rss
 https://www.aljazeera.com/xml/rss/all.xml
-https://rss.nytimes.com/services/xml/rss/nyt/World.xml
-https://feeds.npr.org/1004/rss.xml
-https://www.reutersagency.com/feed/?best-topics=political-general-news
-# AP News World
-https://apnews.com/world-news/rss
+https://feeds.skynews.com/feeds/rss/world.xml
 
-# Deutsche Welle Russian
+# GLOBAL PERSPECTIVES
+
+https://www.france24.com/en/rss
+https://www.scmp.com/rss/91/feed.xml
+https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+
+# EUROPE / INTERNATIONAL
+
+https://www.politico.eu/rss/all/
 https://rss.dw.com/rdf/rss-ru-all
+https://ru.euronews.com/rss?format=mrss
 
-# Радио Свобода
-https://www.svoboda.org/api/zrqiteuuoirq
+# RUSSIA / UKRAINE — USE CAREFULLY
 
-# Meduza
 https://meduza.io/rss2/all
 
-# Настоящее время
-https://www.currenttime.tv/api/epiqq
+# OPTIONAL ANALYSIS / PAYWALL TEST
 
-# Euronews Russian
-https://ru.euronews.com/rss?format=mrss
-# Bloomberg Technology
-https://feeds.bloomberg.com/technology/news.rss
-
-# Ars Technica
-http://feeds.arstechnica.com/arstechnica/index
-
-# TechCrunch
-https://techcrunch.com/feed/
-
-# CNBC World
-https://www.cnbc.com/id/100727362/device/rss/rss.html
+https://www.ft.com/world?format=rss
+https://www.economist.com/international/rss.xml
