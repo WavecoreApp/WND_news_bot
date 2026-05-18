@@ -28,27 +28,25 @@ jobs:
       - name: Run news bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
           TELEGRAM_CHANNEL_ID: ${{ vars.TELEGRAM_CHANNEL_ID }}
-
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
 
-          MAX_CANDIDATES_TO_ANALYZE: ${{ vars.MAX_CANDIDATES_TO_ANALYZE }}
+          TOP_PERCENT_PER_SOURCE: ${{ vars.TOP_PERCENT_PER_SOURCE }}
+          SOURCE_MIN_TAKE: ${{ vars.SOURCE_MIN_TAKE }}
+
           MAX_NEWS_PER_RUN: ${{ vars.MAX_NEWS_PER_RUN }}
-          MIN_SCORE_TO_POST: ${{ vars.MIN_SCORE_TO_POST }}
+          MAX_CANDIDATES_PER_SOURCE: ${{ vars.MAX_CANDIDATES_PER_SOURCE }}
+          ENTRIES_PER_SOURCE: ${{ vars.ENTRIES_PER_SOURCE }}
 
           GROQ_BATCH_SIZE: ${{ vars.GROQ_BATCH_SIZE }}
-          GEMINI_REWRITE_BATCH_SIZE: ${{ vars.GEMINI_REWRITE_BATCH_SIZE }}
+          GROQ_REWRITE_BATCH_SIZE: ${{ vars.GROQ_REWRITE_BATCH_SIZE }}
 
           POST_DELAY_MIN_SECONDS: ${{ vars.POST_DELAY_MIN_SECONDS }}
           POST_DELAY_MAX_SECONDS: ${{ vars.POST_DELAY_MAX_SECONDS }}
 
           MAX_POSTS_PER_DOMAIN: ${{ vars.MAX_POSTS_PER_DOMAIN }}
-
           DIGEST_CHANNEL_URL: ${{ vars.DIGEST_CHANNEL_URL }}
 
         run: python bot.py
