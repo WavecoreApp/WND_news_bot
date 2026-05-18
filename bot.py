@@ -722,6 +722,9 @@ def validate_env():
 
     if not GEMINI_API_KEY:
         missing.append("GEMINI_API_KEY")
+        
+    if not GROQ_API_KEY:
+        missing.append("GROQ_API_KEY")
 
     if missing:
         raise RuntimeError("Missing secrets: " + ", ".join(missing))
