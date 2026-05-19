@@ -865,7 +865,7 @@ No markdown. No text outside JSON.
 """
 
     response = groq_client.chat.completions.create(
-        model=GROQ_MODEL,
+        model=GROQ_REWRITE_MODEL,
         temperature=0.2,
         messages=[
             {"role": "system", "content": "Return only valid JSON. All headline/post fields must be Russian."},
