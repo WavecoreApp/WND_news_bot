@@ -3140,3 +3140,133 @@ seen_titlehash:f33e2c755211238fbb847cd328994c9853a5210d5a8f194e50b8a37fc3419fbe
 seen_reason:processed_not_published
 url:https://ft.com/content/6414307b-eff4-4dc6-9093-9368ce6c7f37
 title:eu explores fertiliser stockpiling as food crisis looms
+urlhash:28120483f55f072370f768875078afcb92e581348b31f5de65521643e99c628a
+titlehash:258586cb319d5a3819197ec3810e13580d5a085cc8b64245ee1662f2a9a667fc
+published_url:https://bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss
+title:ebola has tortured us fear grips eastern dr congo as deadly virus spreads
+urlhash:9422cfdf564014d856682e05dc662e8e5c45be95ad465a40a2d78a22e70a2bef
+titlehash:75075d5bd67aa288a79693ceb1cdb083a87c4ccf04996f8639f1ebd8dab02cc8
+published_url:https://nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html
+title:israeli minister threatens to evict palestinians from west bank hamlet
+urlhash:f3a3a6491e40b165c6be66385388b9103cea0a7595e21f8976dc5ef960dc5645
+titlehash:736408c11fd15a1c7ac7b31b475182d9ca10f8252f823f21b66a8babdd486eca
+published_url:https://aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss
+title:putin arrives in china for talks with chinese leader xi jinping
+urlhash:c6ddabe05978770013ef80f26ab7362d81f6f93369967ab8572fc35cfe6ca64a
+titlehash:6ea6c33004e60f034d56827ec0a071dc625fece7a436933ee7f6c090af9bb99c
+published_url:https://france24.com/en/tv-shows/the-debate/20260519-putin-on-the-back-foot-russian-president-in-china-as-ukraine-campaign-stalls
+title:putin on the back foot russian president in china as ukraine campaign stalls
+urlhash:8d4d9687d2c71a648f26045480d72e07cf709094e0580d717fcfd67fa37abed9
+titlehash:92ebbb9c86c2aed65926c1d94a9cea96116a92b0be18c38ac1e671bea5548c55
+published_url:https://dw.com/ru/главком-нато-в-европе-вывод-войск-сша-не-меняет-планы-альянса-в-регионе/a-77221091?maca=rus-rss-ru-all-1126-rdf
+title:главком нато в европе вывод войск сша не меняет планы альянса в регионе
+urlhash:4c4c33e3ed31d3beeae3ffd20118c3be138f1cecfb2c84ccd5a9be6bab8f3792
+titlehash:7c2f804e130cd30f4c99a9a90dae338b0ed1ea5e372a79cf6d3a14d350e37cb8
+published_url:https://meduza.io/news/2026/05/19/v-2025-godu-konsortsium-medtehniki-sotrudnichal-so-strukturami-docheri-putina-a-teper-v-ofis-firmy-prishli-lyudi-s-kuvaldami
+title:в 2025 году консорциум медтехники сотрудничал со структурами дочери путина а теперь в офис фирмы пришли люди с кувалдами
+urlhash:14a16f9d3b4507c9803b254ed36aacf29ed1b697f8db3dff1d84d2f564174923
+titlehash:c64d62b38d9bc41b03abeff5105119bc95a2655df87366d83d6874e7115753bd
+published_url:https://ft.com/content/b600dbba-e881-4d20-b55f-94b313b8d5d5
+title:america needs to put the renminbi back on the international agenda
+urlhash:138d49f06656583b93806ffe3762ca541d140d281cc00c2cbe171c0640bd0180
+titlehash:a7dc5bf090ca6e9249dd1bbbc177ee0d7183e3f7e1c78400c0c1d49c26a2d029
+published_url:https://ft.com/content/57e7facc-1f4f-4364-ae2b-a5944faf01c2
+title:israeli ultranationalist minister claims icc is seeking his arrest
+urlhash:31ec081c9ae141c85d00fa0f83576a88056934afb18186cf1943c6dedadca800
+titlehash:b016aaba8a81096f3bfa3871fc31df263b0d250df1251f98ed61bccd2b02406f
+published_url:https://theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola
+title:rubio criticizes who s ebola response as us continues sweeping public health cuts
+urlhash:7666d966bb5cf83f54170d373fb775e2290d229aeb33c26e0c52e2d159e9be0f
+titlehash:376cb92c964a1ed77a4edc6f219efd51e499ae65f1b102b259faa95a996585b8
+published_url:https://aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss
+title:somaliland to open embassy in jerusalem israel in hargeisa envoy
+seen_urlhash:d2eb847164ef3952310ecf2698e108458e657555157f07326ed67220df53f402
+seen_titlehash:2cb7644b949ee745f173aa55a27ea99676f9ffd0d5eeed6a04a1d940201f5b01
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss
+title:key people smuggler arrested after bbc uncovered identity
+seen_urlhash:267522e496ffc11bc092eba60602edd7db370f7f9fc516ace75838e2aff4bb69
+seen_titlehash:b4bb8a7660f37b186fd673cf095b7f0109bb002cceb6167a018b1b6d1164fbef
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/19/world/europe/spain-zapatero-indicted-corruption.html
+title:zapatero spain s former leader investigated for graft
+seen_urlhash:4c1f9d581fa2e8331f69f9bad4c9ee188dea57f1f8f6e1bd5e59b7f2bcbf1bca
+seen_titlehash:34a630485713eb07fc81128edc0cbf455d80df1d1d572ec87c5e931da0549b4b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/19/world/europe/mango-son-arrest-andic.html
+title:son of mango fashion chain s founder is arrested as suspect in his death
+seen_urlhash:63a38ad8d6d675c844624f189dd244052e43cb77b45a33429e9cbbedc7b88754
+seen_titlehash:5280e9be3a538d8edb858dfb5878e4737700af3dce58fe5c5451e0016f80e0d2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/19/world/europe/married-at-first-sight-uk-rape-investigation.html
+title:married at first sight rape allegations lead to call for u k investigation
+seen_urlhash:d0e56c88067baac27e84736f75ec1bc35a1be1ae4143ef5225360d4f34f79b90
+seen_titlehash:b41ce60c4729b622529f6c2cef96c8b413e69b2544b563f170d52f806067ddaf
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona
+title:three toronto police officers arrested over sexual assault in barcelona
+seen_urlhash:a40bccb62825e630bec641c45daffa8cef2e2a4c2dc254bc9ec3ea241c051d5f
+seen_titlehash:3ce2a635384a1ec9642787b355f150c7aca174eb3f3266c910d0a1813b09a311
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest
+title:woman shot dead by police in jamaica at protest over previous police shooting
+seen_urlhash:ff886bf29238cc3844df93f135bf0c4c045ffa3e9967a51e8f7311f33b65733d
+seen_titlehash:18fcad4e27c4b803e6808bfe0f8cf170789a5dbe49df8d98932da180fd9d2d5d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss
+title:us imposes sanctions on gaza flotilla organisers amid israeli crackdown
+seen_urlhash:ba8f131843e427b665a2629ad91591f597012a6e5f0a43de1a59a176485169c1
+seen_titlehash:7e470742f64e2f267dce639fab37a0c9682115781a3579acf1413a439ce35bfa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/19/tributes-pour-in-for-hero-guard-killed-in-san-diego-mosque-shooting?traffic_source=rss
+title:tributes pour in for hero guard killed in san diego mosque shooting
+seen_urlhash:31c5181436bbccc2a32bb306116c69ecd0d604050a52b1918090c6e1d8c802b7
+seen_titlehash:181b58519a271a3a293431f361b13f4df6678f626c643fd3a2756311a97e1c26
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss
+title:trump says xi assured him china would not send weapons to iran
+seen_urlhash:4e8866634ae34f316508e6b20b6217f5b7a26d7dcc0e2169a089efac4e45e2ff
+seen_titlehash:ea503c4687bb3f2fe8de63dc632b2f8c26e2299ef3cdbd09f3daf0e1d66e410d
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260519-france-return-bodies-of-indigenous-people-exhibited-colonial-human-zoos
+title:france to return bodies of indigenous people exhibited in colonial human zoos
+seen_urlhash:6de70b0f4cee9a5e23f03a5b651f456e5c5cd064c6c2fa2898c7302fe01f9823
+seen_titlehash:aa87d701b645f4f15499cbccea81fc6cf1a914ac024a07d22e6f4fd573ede244
+seen_reason:processed_not_published
+url:https://dw.com/ru/поправки-в-конституцию-кндр-углубляют-раскол-с-сеулом/a-77220402?maca=rus-rss-ru-all-1126-rdf
+title:поправки в конституцию кндр углубляют раскол с сеулом
+seen_urlhash:110e826649a41ab4719539c0cad49c061b32479b5ce0093a1f2e2d07e0adb44c
+seen_titlehash:c58e89d03a14915032912ac86a83b5c56129ab44733e1ac6b28b620a55aa622e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/syna-osnovatelya-seti-magazinov-mango-otpustili-pod-zalog-v-odin-million-evro-ego-podozrevayut-v-ubiystve-ottsa
+title:сына основателя сети магазинов mango отпустили под залог в один миллион евро его подозревают в убийстве отца
+seen_urlhash:142ab861502b579cb8fb30861e1bb985cafb1a6d131efebbc51de1a6de8c11bf
+seen_titlehash:bc84a6b714792893214b42654815e9ae2f78aaf7eb28f1afaebe88b4d19e966d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/my-schastlivy-chto-vernulis-k-vozmozhnosti-delat-svoyu-rabotu-v-kannah-sostoyalas-premiera-minotavra-andreya-zvyagintseva
+title:мы счастливы что вернулись к возможности делать свою работу в каннах состоялась премьера минотавра андрея звягинцева
+seen_urlhash:6a6601cd00a1b727e7e9827dbc703227768c1368c342bbd0d2105699b1b68e34
+seen_titlehash:27b79695ef3cc244c0aff297ff888f63cea8e696170c360549dedc44600ee15f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/s-praymeriz-edinoy-rossii-v-smolenske-snyalis-podryad-dva-kandidata-odin-iz-nih-byvshiy-vitse-spiker-sergey-neverov-kotoryy-zasedaet-v-gosdume-bolshe-20-let
+title:с праймериз единой россии в смоленске снялись подряд два кандидата один из них бывший вице спикер сергей неверов который заседает в госдуме больше 20 лет
+seen_urlhash:9b52d2af157632363971a5f5ac9a48c94bd96c02ead7d1a0638d869f2fa7d4be
+seen_titlehash:a80170b1f9337a521e506eaff1828782299ea984b5004812283f499e29eb9a02
+seen_reason:processed_not_published
+url:https://ft.com/content/e593544b-a6c6-4062-a1b5-2930ee5b01a0
+title:married at first sight allegations shock uk tv industry
+seen_urlhash:d250830a4c45e77c25eb6b150055363102e98c88d5ddc4eb70598f2683238f5c
+seen_titlehash:ca357967efe7fec6cef4c669f5ca0876a880a3f86e04a44ec0fad6321add7a88
+seen_reason:processed_not_published
+url:https://ft.com/content/cd5d3094-c490-4866-b0de-cc5917fed18c
+title:trump endorses maga warrior ken paxton in texas senate run off
+seen_urlhash:e21e4fbfe255ec080261d4cf6e73d323c177fd352bfa67b9d5e180a4aecf21d4
+seen_titlehash:9f1bccfe9e808cd49529a2cea9dc5b303f40af91dcd3096923ee46c970bdefd1
+seen_reason:processed_not_published
+url:https://ft.com/content/074f9b1f-8fdc-45c1-b44b-625a6494660f
+title:how will andy burnham pay for his plans for the uk
+seen_urlhash:d68a55020f6286473fcedc760855e8168f487869f7b341dda1b79de579d15172
+seen_titlehash:99cec54421ea981e3a79e826773c5266e277948f422c0f55a344c8c5500eb771
+seen_reason:processed_not_published
+url:https://ft.com/content/32ca4f36-a913-4aa2-8f38-1b7fe8bde187
+title:uk police probe child sexual abuse claims after epstein revelations
