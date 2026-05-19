@@ -1815,3 +1815,61 @@ seen_titlehash:398f188a4bb182f91ee149323d8e39d7a5c6beb4c26db1836d683597fd71bbdc
 seen_reason:processed_not_published
 url:https://france24.com/en/five-dead-including-two-suspects-after-shooting-at-san-diego-mosque
 title:five dead including two suspects after shooting at san diego mosque
+urlhash:5af2e82249b73cfe64f99c45fe48231344092e816fcf9145f67a8b9ae0575bf4
+titlehash:ae9b60c4fff78f1d44977c701d7115e3562f05000f531defba7a3901dba959b3
+published_url:https://aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss
+title:iran war live trump says iran attack postponed at request of gulf allies
+urlhash:ffbb76a58170ae4f062c2ee5799d4845ca638dbfe49ba41def6cc75488f3e52b
+titlehash:21157ad8b463d52b0cd21c716be053ca707c791f62aec895501166de394b2dff
+published_url:https://nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html
+title:here s how iran could respond to renewed u s israeli strikes
+urlhash:2c9823ffabf8df4aa842d6e0da290dae4674d60efe1d37a13a7f1a329f6c26b9
+titlehash:dedfdde22af4038e57acb9b4551e2184d94bd526baa809864a1d0ae3529e7522
+published_url:https://theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis
+title:trump s shifting remarks on taiwan are perfect for china to exploit
+urlhash:e88738c8dfec9351a5da305d41b6bca632d449cbf834a5d26d11325c002592df
+titlehash:18a8febff431934343109812beb61759cde3944afc793e89a4dbbc72b8356742
+published_url:https://france24.com/en/americas/20260519-cuba-warns-of-bloodbath-as-us-imposes-new-sanctions-amid-rising-tensions
+title:cuba warns of bloodbath as us imposes new sanctions amid rising tensions
+urlhash:63dd1116a4dfd90cc798212e5bfcfe1dbf87cf2b3d279ea969e1b3e5513bc940
+titlehash:a9f40aab47329833d828091cb5b7123097f9a4e9ff3fdf7f6085d3ef97ec4dea
+published_url:https://ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580
+title:google and blackstone to create ai cloud group
+urlhash:a78005aea895a891d7fccbbb7ce8b44ebb986af33d515ecb6708818fc0d1addb
+titlehash:09fa522c2de2f8b743867646d45546dc06434abb7964194908f8e70e14d67c36
+published_url:https://dw.com/ru/маск-против-альтмана-суд-отклонил-громкий-иск-против-openai/a-77205790?maca=rus-rss-ru-all-1126-rdf
+title:маск против альтмана суд отклонил громкий иск против openai
+urlhash:0e05bcb82aee293f3abae41584296ffc73096fcb4ddde3ce47a253738d917f58
+titlehash:9f9e47850f21255145a9f1205eb47c0d9ab9d78756b580f24f60bb8e862ab1e3
+published_url:https://bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss
+title:three killed in suspected hate crime at san diego mosque
+seen_urlhash:db36ffa809020f148cfda5629797fd099ca3d4d9e0ddda5d4630135b2f35b7dd
+seen_titlehash:2dfd0a941b2096162e347b6dd931f84539d4ead83c2740e385972498685c9b0e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/18/world/nauru-naoero-country-name-change.html
+title:nauru hopes you will call it by a new name
+seen_urlhash:193373aa967a0ab6cca81955dfe1e903923a35bb4b4929e8c76831debebdbd23
+seen_titlehash:53b83fc220a294e20978642f30de8ab5aacd294a48bff20214b8a3842a5f4af7
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration
+title:liberal senator breaks ranks to take aim at angus taylor s negative rhetoric on immigration
+seen_urlhash:f23fb01592ad300a2d673587b2c9bdd69a0e9b345b62fe51dff243dc7e541ee3
+seen_titlehash:3ae91476d04a1b8f3f6af596fff98e991df7e014c2a14b78611e296992316400
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss
+title:two teen gunmen kill three at san diego mosque in suspected hate crime
+seen_urlhash:b4fdd78fe190e472dbfbeb488b600ce91e83f289848caeb8d0b1d440989e0675
+seen_titlehash:582f0241b07674ee73dd1257363e9bee5bb3fbc37d1d7ac59dec822d98c10deb
+seen_reason:processed_not_published
+url:https://dw.com/ru/господин-никто-против-путина-удостоился-престижной-премии-civis/a-77206529?maca=rus-rss-ru-all-1126-rdf
+title:господин никто против путина удостоился престижной премии civis
+seen_urlhash:e931d1572b7d03351c5952b7405ab913296a747d996bc2644fa6a636484ab2ba
+seen_titlehash:8e81a9125f18602f736a51b297dffb21f6957080aefd100f6df372fe90c37913
+seen_reason:processed_not_published
+url:https://ft.com/content/e2fb0537-eb5c-4080-af58-42d6c009c455
+title:electric ships and trucks to buoy battery boom says china lithium boss
+seen_urlhash:a8c1c6cbc3e30889244250761936b0ff2a82817d256b41471f3e694fc978a4b3
+seen_titlehash:f09433497a8ba1b74433cef5c4c9da6c8c1d3237f0f0246216b7c510a75771f0
+seen_reason:processed_not_published
+url:https://ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038
+title:spacex ipo set to hand 20bn stake to one hedge fund
