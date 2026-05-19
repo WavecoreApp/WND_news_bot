@@ -1873,3 +1873,296 @@ seen_titlehash:f09433497a8ba1b74433cef5c4c9da6c8c1d3237f0f0246216b7c510a75771f0
 seen_reason:processed_not_published
 url:https://ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038
 title:spacex ipo set to hand 20bn stake to one hedge fund
+urlhash:e7e85d9fca38e35b6d54f7cb70e5ec56cdfcda0e180ba05a8dcf508c1b42d785
+titlehash:b011082a7608350d2f2cc86680d24fa659c8629b883ecc713a5304d541d8c271
+published_url:https://france24.com/en/europe/20260519-russia-to-conduct-three-day-nuclear-drills-on-may-19-21
+title:russia to conduct three day nuclear drills on may 19 21
+urlhash:5b9a0412a8ad9845ea23515832a5c82902724542e3987a717c5786c808c9e069
+titlehash:180c7aae414f109bd66fb5c1f16c832618a14e489a95ed23772f7befa833b381
+published_url:https://france24.com/en/middle-east/20260519-middle-east-war-live-trump-says-very-good-chance-of-reaching-a-deal-with-iran
+title:middle east war live trump says very good chance of reaching a deal with iran
+urlhash:d59d25e1c8c21cdb963c4da4c620cd0d30113ffd80df32dfed56924c26ab80cd
+titlehash:09731fd9327c5461b3292cbe79dd00d743efab836f3f8eed9f8102bd498e0f53
+published_url:https://timesofindia.indiatimes.com/world/middle-east/iran-plans-50-million-bounty-on-gambler-donald-trump-child-killer-netanyahu-for-whoever-sends-them-to-hell-report/articleshow/131190414.cms
+title:iran plans 50mn bounty on gambler trump child killer netanyahu report
+urlhash:6d351f4fb98b8eb0fcc1e552bb4d8dbc54660f197ffc8cc9ce217fd8525f77e0
+titlehash:4eb1cffd9bee6e2c83cfc7aebd45e3e36a1f68da2e63993ca0bd272e6775aaec
+published_url:https://dw.com/ru/рф-нанесла-удары-по-измаилу-днепропетровской-области-и-харькову/a-77206858?maca=rus-rss-ru-all-1126-rdf
+title:рф нанесла удары по измаилу днепропетровской области и харькову
+urlhash:164b38e252fdd47726ea5d5a68512bbde0e4560053284a20bd5b860aceed48f4
+titlehash:9d944b6257614a41f8f6771a22d6965e098ed92bd6c0454a3809c0a594c38dc0
+published_url:https://meduza.io/news/2026/05/19/minoborony-rf-ob-yavilo-o-nachale-yadernyh-ucheniy-s-puskami-ballisticheskih-i-krylatyh-raket
+title:минобороны рф объявило о начале ядерных учений с пусками баллистических и крылатых ракет
+urlhash:eb9361fe65d2176bc1ff507fbb4c31735cb959d17da8244f28f25f2eaf306c7d
+titlehash:52571ef9e7151db3fe885078d1a34f309ce35bda7ba85b6e46f140b6a26890ee
+published_url:https://timesofindia.indiatimes.com/world/pak-sends-new-iranian-peace-proposal-to-us/articleshow/131189040.cms
+title:pak sends new iranian peace proposal to us
+urlhash:512ae5fb8ff3ff67ada68af2b569a528eca27d5ea24c0cd67c7703816b8e9997
+titlehash:bcd64c9994c183b51a0d4d031870c295b0f534ae4e1552414e4ed6385b5ee8c3
+published_url:https://nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html
+title:oil slick reaches a pristine persian gulf island in iran
+urlhash:bc80e51becc948e77ad1b263403fbe1087f6de5cb45006166e51a9cf312cc4d3
+titlehash:4843163129c506c8f24568214204ce49b8f3e56b95e409d8626ec038f23fa2e8
+published_url:https://aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss
+title:trump s repeated ultimatums betray his lack of leverage over iran
+urlhash:8c012464c99ec20a211130cf12ae7d24cc8a56971d5a0a54d0a65ca9200045f2
+titlehash:e24da2eb9a2ca605a756acbb70672994548d304bd8a7e940cdd0b7e89305bc11
+published_url:https://bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss
+title:starbucks korea sacks ceo over controversial tank day promotion
+urlhash:db41982cbb8332fb7c6b23aa512a836b7e24fc274535569b8f344c90c23879b8
+titlehash:df955b2f9320e663a656551ddf59bd295e002583c27f7b3c4d34f42c9a2098c7
+published_url:https://ft.com/content/75399348-b288-4be9-a621-fb69f9c4d885
+title:uk job vacancies tumble to five year low as middle east conflict hits hiring
+urlhash:2f2367531f80862b0df1738aa6f9140bf77cc3d47d2ff63ec39109b3de1925b9
+titlehash:00d03de42b58b4e136e375a97fc57e75fc3bc5d3c367b9fceaeeb69baf7931c2
+published_url:https://ft.com/content/de2abbba-704a-4bd8-871a-2b5e9889d5cd
+title:uk labour market march data bolsters the case to hold for now
+urlhash:d565c6408fc8667a69f060f1775f25010e4f0cd9b68aaa2a94853511b6ea831d
+titlehash:3b663f3539edf31d14f5440ce96ea493b8ac5e186466e21bac1c216c37b0d738
+published_url:https://ft.com/content/891dace0-775e-40a0-9ad3-c3120c89928d
+title:the us is still being paid to borrow but only just
+seen_urlhash:e89b75356bc0542fd9fd39da36ebb7e74f89a1d5a6daaf9cbaac955127873e35
+seen_titlehash:36aa4da36f6b44f22b26912ee3aec2a67ff2848c7eca7bb3255946169c9d1948
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss
+title:tasmanian government apologises over stolen body parts scandal
+seen_urlhash:3ad235b22f87b2171a9a0ec05241aef99125f52b1fd2f8b81caf1e561c19900c
+seen_titlehash:9caf0971b0ee22635599e9ef679b0b2be0cf1bf8642cd9baf30c043bca9f1a79
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/19/world/asia/india-trump-auto-rickshaws.html
+title:trump s portrait pops up on rickshaws in india to mark america s 250th
+seen_urlhash:402847371dc319b75c50d05c0df0355166e4130c09619a553c22cf250cce53ee
+seen_titlehash:71956e83c948ddb16cad4a2eada9dcebaa033f8dd0bd53058955e964602544f2
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court
+title:huge milestone as libyan militia commander accused of torture to appear at icc
+seen_urlhash:94bdc44ca69590221994d57fce32e66add6714b1d80ece335209ed524fdcdbf9
+seen_titlehash:833ceaf662a68b0f9005b639e3481a7f911d035f43ca5f00b0cb8fa23a5b52ce
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports
+title:fears of new china shock as eu industry s reliance on imports grows
+seen_urlhash:39f3c2f0085b81c2126e75cf35a124f7b33cb757c339c53d11d8be95ec04a404
+seen_titlehash:f3fd4c2ec3f464aca5b957379f023985b83bbce30ec1ce6bb9ea91fd476d4df7
+seen_reason:processed_not_published
+url:https://theguardian.com/society/2026/may/19/royal-australasian-college-of-physicians-leader-suspended-sharmila-chandran-ntwnfb
+title:australian medical college leader suspended from position over alleged health and safety breach
+seen_urlhash:db8f25d4244da1477b58adb17236436dd73bbcbd62ace5df55837492501f7f1a
+seen_titlehash:df80f448f6f8d0a07f1dbe7704dae53418a67e7179c75439e54823ebba91ed10
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/19/richard-males-11bn-collins-class-submarines-aukus-delay
+title:australian taxpayers to pay 11bn to extend lifespan of ageing collins class submarines amid aukus delay
+seen_urlhash:ae8a397bfd956906e7adf8f4b5691f14b072c3005c8576aeb2cfdb6fd4c97ac0
+seen_titlehash:92ef49e8dffbea0c90bebc60e8b9761788256903fbe0fed6b944936527ec3fd7
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/19/government-urgently-seeking-status-of-11-australian-gaza-flotilla-activists-detained-by-israel-ntwnfb
+title:dfat officials urgently seeking status of 11 australian gaza flotilla activists detained by israel
+seen_urlhash:6b7268cd912cc94cc451326be9ba40e8b27ea86c390fc9968124b8b608ea2495
+seen_titlehash:0b0517b8167809ce01e634a156983d68ffc47ee29fae7e58e0043b90de2ce8fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/19/wembanyama-scores-41-as-spurs-upset-thunder-in-game-1-thriller?traffic_source=rss
+title:wembanyama scores 41 as spurs upset thunder in game 1 thriller
+seen_urlhash:1d98737bc1068a9adc1c553d4fb40b84cc6fe83d423d1215dc4fbb27fa111787
+seen_titlehash:6761acb752ae145055f13d4249dd563a1f779b19f542b5af018216fdd63c0692
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/19/bolivian-miners-clash-with-police-demanding-president-resign?traffic_source=rss
+title:bolivian miners clash with police demanding president resign
+seen_urlhash:4e5691cbc51d9b5d65bcb87e031cf2838ccd365b61c39a4047ac1b8af02ee21e
+seen_titlehash:32fef78fd1c548dcec839d0d31cd450e044d059900d823b2ecd9ddbebafb8391
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_helicopters-douse-flames-in-california-190526?traffic_source=rss
+title:helicopters douse flames threatening hillside homes in california
+seen_urlhash:2390045493c84f61b525ec72123fedd0e5b20dbc6ad3dcb734fc174b70a1ad88
+seen_titlehash:3dd91df0c2eebebe261e8d1c571794dedd1da88b8b8b849e50edb004ed78e97c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/19/how-philadelphias-democratic-primary-tests-the-bounds-of-us-progressivism?traffic_source=rss
+title:how philadelphia s democratic primary tests the bounds of us progressivism
+seen_urlhash:18ee816ad4a613990ba9e01c853362add70ab49fdcd57ad47a78e7c60fabeacb
+seen_titlehash:14b13224553f4d0c7b5b1eda5a3f68bac79c25caadd7bdc096bd19f6541e2a1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_clip-who-responds-to-ebola-outbreak-in-drc-180526?traffic_source=rss
+title:who responding to complex difficult ebola outbreak in dr congo
+seen_urlhash:2921c00c7424fed65112c0b8d297885209781c683c913f3f255aefcf49f50ec7
+seen_titlehash:35565b53da96b89d8662ebc86279e1b44b6ed49e1370b1ae6c289ce3c6f78485
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/19/russia-china-ties-stabilising-force-in-world-putin-says-before-xi-talks?traffic_source=rss
+title:russia china ties stabilising force in world putin says before xi talks
+seen_urlhash:73c075197ded3de8b5c9a1ee36418584a5dea26160197db6a3ac917d9bf1ab8c
+seen_titlehash:ab00bd86a69d92618220709d1f3cd636af9d28c6e91bf8e508b6bb83e4305cad
+seen_reason:processed_not_published
+url:https://news.sky.com/story/will-us-release-report-on-iranian-school-bombing-13545733
+title:will us release report on iranian school bombing
+seen_urlhash:9f74cd6789523c4606b2b4491168d02a611d66820bac72eea7967c4bc68df359
+seen_titlehash:da65fafc32f53567e00ce78ed292082bcf5baf9de1d8e139485986901c22fbdd
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260519-arsenal-close-in-on-premier-league-title-with-win-over-burnley
+title:arsenal close in on premier league title with win over burnley
+seen_urlhash:88f5527848975883e73cbe3050b29ea9a9343e8791b9edb944e10050a299acf1
+seen_titlehash:eb0bf9513813484502f402338e5a7dcabd4138114dca82b3f1f154e1b11d56a9
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260519-putin-seeks-to-reinforce-china-ties-after-trump-pageantry
+title:putin seeks to reinforce china ties after trump xi summit
+seen_urlhash:46d46fe99bbbee8eaa736f442c89db87115a0835e215abb41fe366652fd0a671
+seen_titlehash:a63d30eca0269c77ac9c5d160b5c963a55c7f73385bf3ef2a79331b54538cc21
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260519-bolivia-protests-escalate-with-violent-clashes-and-looting-in-la-paz
+title:bolivia protests against president paz widen with violent clashes looting in la paz
+seen_urlhash:30c04c19a295e629f85d88e98b9db32c0a28208399daa4f9de08f0967cf8f835
+seen_titlehash:5c89c3ef2ae3fe5975d64ef12bc77e1eef08757702b20fe795f5d810c2570676
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260518-world-cup-2026-brazilian-star-neymar-makes-his-big-return-to-the-sele%C3%A7%C3%A3o
+title:superstar neymar returns in dramatic recall to brazil s world cup 2026 squad
+seen_urlhash:a04a0db3734fd47ae3d0b737782f0ef8c6b7b0bd8534d613c66e17f78f2c9293
+seen_titlehash:603ecec11a5897422f64056233938d0bab021fc01de38c9e4acd71d478710ca8
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/this-ancient-bullet-carried-a-secret-2100-year-old-greek-word-that-shocked-experts-worldwide-revealing-sarcastic-war-message/articleshow/131192380.cms
+title:this ancient bullet carried a secret 2 100 year old greek word that shocked experts worldwide revealing sarcastic war message
+seen_urlhash:b39c1884cfdeef4298940e8750acebe0e518fab1ca04410df563089369ff9fc3
+seen_titlehash:3515d72ebbcbaa1bc8b95da7138665796ed15db84926dfcbe4b6286188be7d14
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/worlds-longest-hiccup-case-ever-recorded-the-man-who-hiccupped-more-than-430-million-times-over-68-years/articleshow/131192220.cms
+title:world s longest hiccup case ever recorded the man who hiccupped more than 430 million times over 68 years
+seen_urlhash:94e96ec924f0fd710021d2d7ecab0722f753f140decddeb1fa87e7ada63326b7
+seen_titlehash:6b5e0b08538485d82dcf700bd1e68abfc2d127be4f89a91f0e6c2d9e733b9d17
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/experts-stunned-by-a-forgotten-medieval-book-in-rome-hiding-oldest-english-poem/articleshow/131191545.cms
+title:experts stunned by a forgotten medieval book in rome hiding oldest english poem
+seen_urlhash:e6c7c9755295b283d85767a18c8b7dd136536247d4135be2839c9d170826b0f7
+seen_titlehash:1f73e5660f82126f7c3170e291661744d46131ddf9af16bc9db9bf86be53a631
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/buried-for-3000-years-egypts-lost-golden-city-of-luxor-reveals-an-ancient-world-frozen-in-time/articleshow/131190918.cms
+title:buried for 3 000 years egypt s lost golden city of luxor reveals an ancient world frozen in time
+seen_urlhash:a59f026ae01f448faf07cf5298dfd70576d3dbdcdc90c09da4ce4475c91956f5
+seen_titlehash:fa367331282af197d20f8ec72048f001ae08003f3d8e71da8ae9c5b30cea9a35
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/cuba-us-military-action-would-lead-to-a-bloodbath/articleshow/131190657.cms
+title:cuba us military action would lead to a bloodbath
+seen_urlhash:1199ce545d4b081b24be4cff633b5c82b6a642988518ea1c5a6ad1c484ae55d7
+seen_titlehash:039817440e19e66ac7addd9fe1042f24bc339ae1bd6634c0d033f0ebc6bf67c3
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/growing-furniture-this-uk-couple-is-growing-actual-chairs-from-living-trees/articleshow/131190436.cms
+title:growing furniture this uk couple is growing actual chairs from living trees
+seen_urlhash:8f1e356d499151b4fb226e77854c7b63ba5ae3c4ba5e8252728c164d6dbad7cc
+seen_titlehash:fd31122a192bf0e70ffcc6653c53c84215e8899def09b45ac24edcee1aa51200
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/doj-announces-1-8bn-fund-to-compensate-trump-allies/articleshow/131190540.cms
+title:doj announces 1 8bn fund to compensate trump allies
+seen_urlhash:11af2f256eceb8cc3d4d76fea07bfc7cf89f5d8e9e05e29d597288c5ac55810e
+seen_titlehash:e23bf4b3b2dfdfcb760e8bd90bb6d2408e97cfa53778c8a7f54ff118f62573e2
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/vax-crisis-inherited-had-no-measles-shots-in-stock-when-we-took-office-bnp-govt/articleshow/131189808.cms
+title:vax crisis inherited had no measles shots in stock when we took office bnp govt
+seen_urlhash:d5bc4bfa299fc2cc865b02bb1105053a25d1df8e8a5df8da203352535b65f9ba
+seen_titlehash:26351e0f97ba5da0e87f1133a4ae174702913153d10f4653b1db072aa25dfede
+seen_reason:processed_not_published
+url:https://dw.com/ru/посол-военная-помощь-германии-украине-достигла-рекордного-уровня/a-77207560?maca=rus-rss-ru-all-1126-rdf
+title:посол военная помощь германии украине достигла рекордного уровня
+seen_urlhash:bcb0357841f5a514ac5442a4bdf376a64f673cb2a51cfec247cc53bcc154ea3b
+seen_titlehash:2d596a4843839d855e8c3a9bb4b21476f4c6d0fc3938d1ab7e69ee3881ab060b
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-москва-выдала-агреман-для-нового-посла-фрг/a-77206868?maca=rus-rss-ru-all-1126-rdf
+title:сми москва выдала агреман для нового посла фрг
+seen_urlhash:3346e209663648dcea937f21ff32ac6ab17517a4cd9f8c27d60c875f4a5db172
+seen_titlehash:c64d2fc5aad4a51346f6ad53c79d35eea733d07eb1cdd55d4ef576d9bba00cac
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-заявил-что-отложил-запланированную-атаку-на-иран/a-77206593?maca=rus-rss-ru-all-1126-rdf
+title:трамп заявил что отложил запланированную атаку на иран
+seen_urlhash:b17cac2522d3e3114375373576695a4aa3ed170b1179af41e60f8e3f1d169277
+seen_titlehash:445561f6516aeae6fad56ebbe1f81b429c404f8e56ff09049e6fe5c3a4d61fb4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/si-tszinpin-skazal-trampu-chto-putin-pozhaleet-o-voyne-s-ukrainoy
+title:си цзиньпин сказал трампу что путин пожалеет о войне с украиной
+seen_urlhash:7ece1d534d40920f8b99ba3b96bd20696c376e4701fe76ee2919d49ce5d3b6e5
+seen_titlehash:21f4abfdccbccb8aa3c5e5fa2af8e558d186c15b4da404e9eeb9f9b058809f7d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/podrostki-otkryli-strelbu-v-krupneyshey-mecheti-v-san-diego-tri-cheloveka-pogibli
+title:подростки открыли стрельбу в крупнейшей мечети в сан диего три человека погибли
+seen_urlhash:c36bfd1feba19a74a3a40d03d046c8955448a413459916e0bf7756cba870ed19
+seen_titlehash:29b38283facdf97ca423298144ce1d5599000e6b534036c45f013459d555c59e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/19/ukrainskie-drony-atakovali-yaroslavl-vyezd-iz-goroda-v-storonu-moskvy-zakryvali-na-neskolko-chasov
+title:украинские дроны атаковали ярославль выезд из города в сторону москвы закрывали на несколько часов
+seen_urlhash:2387bcc747e05e9c66fe166b9b3e8dc44867bea23d63bd0244290f2d5c1f49b2
+seen_titlehash:9c9e3f5324b12c4cd9d54a5d9308149f0122419afc3ceaa7fb7a754bde2ed0d1
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/05/19/svyazatsya-s-blizkimi-v-rossii-iz-za-granitsy-vse-slozhnee-no-odin-nadezhnyy-sposob-vse-taki-est
+title:связаться с близкими в россии из за границы все сложнее но один надежный способ все таки есть да это самые простые звонки на телефон причем звонить можно в том числе по интернету
+seen_urlhash:bdcaaf1a8472f3dd539bc0de860eb389cf0a150a4181dfe405465073eb20acc0
+seen_titlehash:52e1785a3299ddff33500d1fa8bb29451da7a9725a13ff6531821c1b69d40236
+seen_reason:processed_not_published
+url:https://ft.com/content/3030491b-3ade-4c8a-9efb-a0d6cc3f88f7
+title:eu braces for fertiliser squeeze triggered by iran war
+seen_urlhash:fb05d1cc6d6d57d15edde1670ab9f7b4cf43061b0a88b5d50b50a82ac5dfedd5
+seen_titlehash:45c4250ac6da4e5b830f6241a00584c1eb80d9ac6757e62eef40cad5ab8cf795
+seen_reason:processed_not_published
+url:https://ft.com/content/005e2867-813e-4424-9fff-35be865d3862
+title:firstft big investors warn of market correction risk
+seen_urlhash:d547679f2955bf64e3ed21d9a43ac9d3f95ed590d013fbef84051e59548a8737
+seen_titlehash:5b0935a407dfe3aefaf6777c00d2457608799f037d0796a3ff7e618c85155ff1
+seen_reason:processed_not_published
+url:https://ft.com/content/344b72a5-9c47-4460-aa10-a37b8ca12eab
+title:us interest rates most likely on a prolonged hold
+seen_urlhash:b5da7f366b3d1e76ab8e7313d5c8fc7f422d9f2bdf86422db69e2a4e24e2877e
+seen_titlehash:aee763974cbd8abd80f039f69671249744a5d5321497b913ec42205906ddc214
+seen_reason:processed_not_published
+url:https://ft.com/content/85c3f0de-9593-44a9-bb99-9f78e3dd4732
+title:why politicians struggle to read the public on immigration
+seen_urlhash:6569ba6a6e40b3756d64c57dddbd971aa8cc8c415b1367ac6aa7e99e369cc3fa
+seen_titlehash:900af1e772969a93ad48ec847c55c057e3c68a1697979041ebb05b0931c292fb
+seen_reason:processed_not_published
+url:https://ft.com/content/195835d4-304d-4287-b081-58be79a19b75
+title:labour s lack of intellectual rigour has returned to bite it
+seen_urlhash:f79612e79f0188763ff80123b8b905bd6a70a5c7910dcb294197f24f0bbb4e8c
+seen_titlehash:cc2cd5542893910625406a4a9a0a95e2803da5755349c3c06453fe45f66a66c7
+seen_reason:processed_not_published
+url:https://ft.com/content/dddbd30c-ac30-4a6e-a452-467d5b3b7b23
+title:a 420bn mega merger for ai s next era dominion
+seen_urlhash:b6114d4b9e6577ed792f64a7a10bf3b81c01e0dbfe6dfdd59ef878035e3a62bd
+seen_titlehash:af120f518c99ad6c7470645360d9d821157562d9ea6298ba380336937834ac4f
+seen_reason:processed_not_published
+url:https://ft.com/content/8e3c9477-82a2-4b97-aabb-8b5aacf5ea63
+title:drone start up helsing set to mount joint bid for military satellite project
+seen_urlhash:a1f421e277283b844e5c9ffedf6c07d6aaf95da606c502bbf5da5cb869e83ada
+seen_titlehash:b5d62d60b1964fef3d740a54b837c836787df6fdff93e8455773e7acd454cde0
+seen_reason:processed_not_published
+url:https://ft.com/content/8558f480-f85c-491f-9d36-b045a1a7e974
+title:millions of britons are not saving enough for retirement warns pension commission
+seen_urlhash:e853cfa2b584c8d02aa865476c87ac2becd81f536f2d2138c4d8810b9a73cb06
+seen_titlehash:e4863095f648a3eb4bcaeed372e9eb215d073b7ded81d17e498389218e8da675
+seen_reason:processed_not_published
+url:https://ft.com/content/9e147d75-f15d-48a9-9455-47bc0c73f288
+title:worries on gilts point to wider bond market vulnerabilities
+seen_urlhash:5fc34a3968e0ffbd69ddea416efed7f7bbb9b2ffd0763e343609e6b215832ce5
+seen_titlehash:21143c31d7c0e67a8760a88d9f41a5f77be8a824a777b44861799706d80932f9
+seen_reason:processed_not_published
+url:https://ft.com/content/652a8512-504e-4005-84bd-dae5917e5d04
+title:jd vance stakes his claim
+seen_urlhash:04fcd666960a809a6ee2a917548f52501cf4ee387aa6dbc4f3f23220435629cc
+seen_titlehash:151e806027b1b176fd1c64f2fc2746b9d219362970c28b2c3b23efafa9ee9053
+seen_reason:processed_not_published
+url:https://ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5
+title:google deepmind s demis hassabis emerges as early anthropic investor
+seen_urlhash:9585d5362a49e77197fef2f612de6bc9db803d2f089625a878e01c3fc20b9bc9
+seen_titlehash:491b44635e4c86657d43e16b17ade83f7c7fc32d6eaa90e73ecfc65205f6412b
+seen_reason:processed_not_published
+url:https://ft.com/content/5d79f7a3-8b54-4c15-a3a4-40881147f66f
+title:the us and china crave hegemony without responsibility
+seen_urlhash:884da4ece7d81a2ebc0b84365e47f21a3d9446a89de684ca5fcbc908fa0a8062
+seen_titlehash:303ebadb1480ff3f768a81f9adf811cbd7c4abeca7bec9fe39d39ac75641cb0e
+seen_reason:processed_not_published
+url:https://ft.com/content/9aef0cce-6699-4a05-964e-b78152bc7d9f
+title:spacex ipo adds air to the silicon valley genius bubble
+seen_urlhash:a91e33e292962ed3188718db83b0ce66f02dcb4e87b8bb165f5c7e06c53269f7
+seen_titlehash:f8366f082910c96d288cde01a05b90ce647e50a31860d41eb1ef2c9070b0a042
+seen_reason:processed_not_published
+url:https://ft.com/content/0f556bb8-3370-4405-8969-bae8b20d816e
+title:iran stockpiles oil on ageing tankers anchored in the gulf
+seen_urlhash:d2179129a3a6e664f5898cf8632b970ef6cc49af9ba3bc3cc3704e45b9d17f09
+seen_titlehash:e02c4d3ee87cd6518ca69d9c5e9a3b8ab9807004c2d8fdd22cdce30d6d514f22
+seen_reason:processed_not_published
+url:https://ft.com/content/f86859fe-694d-4182-86bc-ce9e840f4252
+title:belfast harbour unveils 1 3bn growth plan in bid to rival dublin
+seen_urlhash:527b1a6f8de08dadaf73aa598ad6d5cb3b85b766fa100ebcc62d442f9c2adfc5
+seen_titlehash:268765ae1331a4ca46658d5b40728d3f9e4e49574bf43a595fc7097c23b30bbe
+seen_reason:processed_not_published
+url:https://ft.com/content/2b68e3f9-5ba9-4dd6-9338-50c01ce2e3d6
+title:why gen z is packing out paris jazz clubs
