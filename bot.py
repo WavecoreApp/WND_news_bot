@@ -39,6 +39,7 @@ DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
 GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
+GROQ_REWRITE_MODEL = os.getenv("GROQ_REWRITE_MODEL", "openai/gpt-oss-120b")
 
 # Important:
 # 25 means: from every RSS source, keep the best 25% of NEW items from that source.
