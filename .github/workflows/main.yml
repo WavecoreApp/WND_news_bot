@@ -32,6 +32,7 @@ jobs:
 
           TELEGRAM_CHANNEL_ID: ${{ vars.TELEGRAM_CHANNEL_ID }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          GROQ_REWRITE_MODEL: ${{ vars.GROQ_REWRITE_MODEL }}
 
           TOP_PERCENT_PER_SOURCE: ${{ vars.TOP_PERCENT_PER_SOURCE }}
           SOURCE_MIN_TAKE: ${{ vars.SOURCE_MIN_TAKE }}
