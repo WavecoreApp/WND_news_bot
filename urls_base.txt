@@ -5361,3 +5361,48 @@ seen_titlehash:66eb53753bea24531311b8a69ff8ed99860ed6ad4ae56077966de55a5663922f
 seen_reason:processed_not_published
 url:https://ft.com/content/a3658698-2381-4e8c-94d2-f71dabb836ba
 title:ben gvir condemned in israel after video of european activists provokes outrage
+urlhash:5e5ed05f8d6bc65110fb611b0ada310448030db56c613a726aa3a5db24008cc1
+titlehash:44c34112b41bdc0d99f3d9482a17c2dd9a0a6bbdbaafdcc262d4fc796a7a0bcb
+published_url:https://aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss
+title:us condemns israel s ben gvir while sanctioning gaza flotilla organisers
+urlhash:2c4e35b2716906c7c6d87c504a324e4a72c5851f9a359669e86f4ef8d68e85ef
+titlehash:fbfce242851bfdc6f442c336674588490f02b3a1c1892233d31f3e8d4a8824ab
+published_url:https://france24.com/en/americas/20260520-us-lifts-sanctions-francesca-albanese-un-rapporteur-on-palestinians
+title:us lifts sanctions against francesca albanese un rapporteur on palestinians
+urlhash:c7db794d5b27ee5ee5597e875ccc3e75ddacaa0854f1d182369f6acecbd1239b
+titlehash:48c7cd55db6443877dcef3615415666e2d0928936085967ac732672a48890ed1
+published_url:https://theguardian.com/australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb
+title:australia news live penny wong rebukes israel over shocking and unacceptable treatment of flotilla activists
+urlhash:9b1903d8560625a7f98802a8c7ee4c8899b59f5cf63715f799563edb7cd08fb2
+titlehash:87e2eea08bee13eedaf26511c4738d68e9e45867c0a1af34764f0c4e0a989f72
+published_url:https://ft.com/content/3694c56b-3f79-4a06-bdfb-09220e2083bb
+title:reeves cuts food tariffs and children s bus fares in cost of living plan
+urlhash:4320c8cf5be9fa5e3ec884c429d8723411e6b68110d57d54d6444e055fb2d218
+titlehash:b56c1ced4d785ca1b84f9aed40fdd90339c9c8bb9b1651ac5ebdbd417d56f084
+published_url:https://dw.com/ru/астон-вилла-разгромила-фрайбург-в-финале-лиги-европы/a-77235234?maca=rus-rss-ru-all-1126-rdf
+title:астон вилла разгромила фрайбург в финале лиги европы
+seen_urlhash:98aac03b73fefb077bd10222e6ac4523614ab6aae3971adffbb70ebfe1eedb1d
+seen_titlehash:68c2733910672777a50478a8ca85a43cb204abf47409f445b18f63927660374d
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss
+title:elon musk s spacex unveils filing for blockbuster ipo
+seen_urlhash:291b8f07809f8e5b1819e2cc329b5d696e3ce0ff4995d2fd5fa539cdd4684ef6
+seen_titlehash:ca14da8a13692cf878b25e9f7ca558d9329c90cd3ffd76a4c68c3e7da66cfb7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs?traffic_source=rss
+title:us lawyers say man on death row could be executed with expired lethal drugs
+seen_urlhash:9515e319543625ab602d77d1f2718bdd4badb55d5c407e96e8408ca694bb436f
+seen_titlehash:40c9cf7ae825065b9d1e8f7fde8f4e21a53e8f626e0345393c900553cc467122
+seen_reason:processed_not_published
+url:https://france24.com/en/environment/20260520-un-general-assembly-backs-world-court-climate-ruling-us-opposes
+title:un general assembly backs world court climate ruling us among nations opposing
+seen_urlhash:744d23a9599d8584142cb93dc9cc90510333b505ee64396bd21c13270060e749
+seen_titlehash:35c78c9df154858b38981645ee662eae9b4900ef146193d51b54c02e87ff628d
+seen_reason:processed_not_published
+url:https://france24.com/en/congo-s-ebola-responders-decry-lack-of-supplies
+title:congo s ebola responders decry lack of supplies
+seen_urlhash:7a566d2111051c8b8199ed59320a86ba90e924a4f59c924fa02b8c40cc3bbf0b
+seen_titlehash:90e44c01b69139a2ad3016683a1f13d1eb7c8de6da427e610f24ec8b4103ddf2
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20260520-stellantis-dongfeng-joint-venture-will-see-chinese-maker-s-evs-built-in-france
+title:stellantis dongfeng joint venture will see chinese maker s evs built in france
