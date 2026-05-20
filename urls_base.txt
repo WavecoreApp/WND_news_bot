@@ -3606,3 +3606,47 @@ seen_titlehash:499d0c81454aa24f451ef655922471a748d6460ae55167d9f4a73a02d9df4d83
 seen_reason:processed_not_published
 url:https://ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4
 title:trump and sons granted forever immunity from existing tax audits
+urlhash:ab79338ce733239f2045ce820f9705662742bb7b8606ebd8de4545ecb3f41252
+titlehash:27e2510ef303e7455a362c672571034a683b630cb89aecf903b8a4b89f652c35
+published_url:https://aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss
+title:vance us locked and loaded for military action if iran talks fail
+urlhash:6002929558df19d78cc0b857325eac725195d3e813b0d7299fc156fa7c65de28
+titlehash:4c6f8cbe9786d93e89f828eb0cd68c8922ff6456a821d0a8c1745eae91f39001
+published_url:https://ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece
+title:putin to meet xi for key china summit
+urlhash:5368187056345ae3f0beb141e5af41e3102a3f03527b18fd43bbfa9c69ba2a42
+titlehash:e90502ac4137d67e6301beadce446a195a1cdb2a500505c4cf016e6413fa52a9
+published_url:https://theguardian.com/world/2026/may/20/thailand-cuts-visa-free-stays-tourists
+title:thailand tightens visa rules for tourists citing crime by foreigners
+urlhash:743832725d78166d8fee9801ec27dc17cf1fcff1aafa903baf68579e1f1d060c
+titlehash:eaeeb052204a9673e953154af770279d1a7ac01168c4e7a6e5eff43d157cbfbd
+published_url:https://france24.com/en/americas/20260520-thomas-massie-primary-defeat-trump-republican
+title:trump tightens grip on republican party after thomas massie primary defeat
+urlhash:3b72666b7a8d6f0d78c4cc38757546d4dd1e352c94fdbc8e46c1588791f74f1e
+titlehash:4aa8de5d7989e558b4a1f833c2d6b9dc688befa7495b8c5457e4311279aee5e8
+published_url:https://dw.com/ru/лондонский-арсенал-впервые-за-22-года-стал-чемпионом-англии-по-футболу/a-77222614?maca=rus-rss-ru-all-1126-rdf
+title:лондонский арсенал впервые за 22 года стал чемпионом англии по футболу
+urlhash:52e492e1e79355c254c73474a208a326390834f56adf93c2846cf278ce1c749b
+titlehash:522431da68b548f52088cd73a917d0edb55eefb1d97c530c37378b924b53d907
+published_url:https://timesofindia.indiatimes.com/world/us-streamers/why-was-jack-doherty-placed-under-house-arrest-controversial-streamer-sparks-backlash-with-ankle-monitor-video/articleshow/131213461.cms
+title:why was jack doherty placed under house arrest controversial streamer sparks backlash with ankle monitor video
+seen_urlhash:e098fd3e191082c9884b010c1c16a0d51383e65dab743a6ef8f8af42dc011c1b
+seen_titlehash:67ed02f813e54d18e9e134b02c54cf086fdcb66f54e58083211b8660f40d19a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss
+title:us senate advances resolution to curb trump s power to wage war on iran
+seen_urlhash:b584c96a9a71a5d3893b3b7f07d8e5db9b93539dbc30ae35e6f0d087296f60c1
+seen_titlehash:0f89ee966e0309a6d21932910886147c529505b218cf9c84d473bd5cd650c27c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss
+title:iran war live tehran warns of many more surprises if conflict resumes
+seen_urlhash:4a1133edd0642b583a1dacd4101be7bf9e5263b11f4ad426bdf3d809a5fc8a0c
+seen_titlehash:b494eb9c53556f03395a96c0ba4695ab20b5f681218f2d34566e764c3e7dd174
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260520-new-york-woman-dies-falling-open-manhole-car
+title:new york woman dies after falling into open manhole after exiting car
+seen_urlhash:ee8e609c58290ca7c4efd923e54913d77498f1568242a92780a71173aebe56fe
+seen_titlehash:5bdf1350140d10ac3d8127b07c1c87fb062a304c1f528a39be794d5e6dfca522
+seen_reason:processed_not_published
+url:https://ft.com/content/d9b05d2b-7d61-4787-ba3e-f7e3c56fa2f4
+title:us to cut troops in europe to lowest level since before ukraine invasion
