@@ -7284,3 +7284,107 @@ seen_titlehash:0c4f250d52ae3303da77a38adc077bc0bc252ce3cfbf074cfecd3dce97849e18
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/05/21/advokata-igorya-popovskogo-kotoryy-zaschischal-figurantov-bolotnogo-dela-zaderzhali-po-delu-o-moshennichestve
 title:адвоката игоря поповского который защищал фигурантов болотного дела задержали по делу о мошенничестве
+urlhash:08e9b18224c337bc0dcdd09669bdeb447c4ad9e25070afa5e61304355245a648
+titlehash:68cee5a92548df4cd8abb8cca75afb1a4a51c5bbb00df9e16ab8d78c583e7660
+published_url:https://aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss
+title:board of peace envoy warns permanent gaza divide under current status quo
+urlhash:c6842f86fe43e5f01c4598ad0289dc643ef352aa17fc5f161717595af366a68d
+titlehash:7227cf41cf326292d9ead3e1f2e09b84eb10eeda82d2c0bfa31c77559de69867
+published_url:https://bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss
+title:rubio says cuba is threat to us as havana accuses him of lies
+urlhash:706fa3ffee8c7b5d2908749b47cf22ef84af65a97ce196c24fce57bab91ca3a8
+titlehash:0287efead9c7b64560d6625c7e20b3df67927fe578872a92b88e8320d46473a0
+published_url:https://theguardian.com/australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb
+title:news live australian flotilla activists released by israel arrive in istanbul and claim they were denied food and water
+urlhash:d8a5b86f4580a85a1414b9d26ba0e830d94457a5ddd3dcdf63e2a1c46afc22f0
+titlehash:a8d9e9132c81252c3c2f8836a9aa6fe6821b244df30e4aaf243a6e203639eba7
+published_url:https://france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled
+title:trump to deploy 5 000 us troops to poland after earlier plan was canceled
+urlhash:495080d7941c2faed9f2d47175701eaa5f1505ac31ffafaeaf832cca054adbf1
+titlehash:f71578898a1f038dc995000878800f904e97705986970533a8e2cfcddd9ab148
+published_url:https://timesofindia.indiatimes.com/science/chinas-moon-base-plans-are-pushing-ahead-faster-than-nasas-lunar-ambitions/articleshow/131251150.cms
+title:china s moon base plans are pushing ahead faster than nasa s lunar ambitions
+urlhash:493256df1ee39af6c9a405419e253b944273bf0556aaceacb8c7ab5247ad4352
+titlehash:e44f9f93e8533289b22c9374eaa3103103eb132a4e5a6c17fc99e7814f458a8d
+published_url:https://dw.com/ru/сми-разведка-нато-заподозрила-россию-в-разработке-подводных-ядерных-ракет/a-77255122?maca=rus-rss-ru-all-1126-rdf
+title:сми разведка нато заподозрила россию в разработке подводных ядерных ракет
+urlhash:da4e985f26db935d5ed8c18c247ce07477a209764ee20d4dcced13ea4cd94a7e
+titlehash:58def12c2c11e3a1155d47369b06f0731c3094c2d99ab00eda4d212312fae435
+published_url:https://meduza.io/news/2026/05/21/tramp-zayavil-chto-ssha-napravyat-dopolnitelnye-pyat-tysyach-voennyh-v-polshu
+title:трамп заявил что сша направят дополнительные пять тысяч военных в польшу
+urlhash:c8484229cfa174ffaa2948ae3fedc83ea018d01d3543f421c3d0599638a9d93d
+titlehash:70ca5787bda5df66c87a55ad1759bd1f41b23132fb45386a3ec13250b81fc05c
+published_url:https://nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html
+title:in greenland protesters denounce opening of bigger u s consulate
+urlhash:2241de7364cfb80d3ad92a259b03963fb5d859c588006f2859ecd4b37e3312e0
+titlehash:4b073de2b36eede40e982fab24eb10c0757130841ab99eaac3f445f89d5326b4
+published_url:https://aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss
+title:flotilla activists recount israeli violence as they arrive in turkiye
+urlhash:94349cb44dac0b047647228781d282c0d3ed3ae990850dcf22c835e502891d1b
+titlehash:2a80c3fe98e75fb996748375b6fdcbee8ae5d9edc95bfcaa25a0e8b8805d9007
+published_url:https://ft.com/content/c9c35cc3-6f74-4b28-a403-a1199f7f36a6
+title:dnc autopsy says biden white house to blame for harris loss
+urlhash:0aa7c9112664145339e9df594b1b3604ba0390c902a9b903d9aee911be672430
+titlehash:81995182a360bca1b17c5e7aa4cd49ec1a9a65c52ea054388fca5909967abf27
+published_url:https://news.sky.com/story/at-least-16-killed-in-two-separate-shootings-in-honduras-13546813
+title:at least 16 killed in two separate shootings in honduras
+seen_urlhash:e899ed002936b460854d99f6a2df86d43dbf35df8ba6a0394e4d7ddc783d1784
+seen_titlehash:1248ac33b71f342b17b8e922b8a798fc848f15bfc7a5b12f0d07d12af52e32b9
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss
+title:angry crowd sets ebola hospital tents on fire in dr congo
+seen_urlhash:978435a6870537453697917c7863c67580ffbaadc28acb0addd0c59eb66b1d28
+seen_titlehash:cab4d7be4b5ba4656450c1ca8cc80577e82055f266963f1a696a5fb28a96dffa
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cdrp2lyx75mo?at_medium=RSS&at_campaign=rss
+title:jailed vietnamese tycoon s birkin bags sells for more than 550k
+seen_urlhash:2fbc58688bab57dddb7009d41aadeba8cf3a94b5f5800c0e764b9ceec9a52a48
+seen_titlehash:9995c3ed3e9921cb1e56468830b0bae5a5af144a4fa868daa4d90cfb500cdc16
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/21/world/britain-bonds-cuba-timmy-whale.html
+title:britain vs bonds
+seen_urlhash:d69e202e09eb52c3add55735f08b16520580724f89e854057a1fee341d58262c
+seen_titlehash:8219d0c5da229de29547b0efdbcc2b2ee48930ee268c8870bc81c1e0a3b6f015
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss
+title:ronaldo scores twice to seal saudi pro league at last with al nassr
+seen_urlhash:d900536ff1dd19934d984c8175855bbd0bd71ee2a6a5eaac5c64b6b8e7bb20cc
+seen_titlehash:e7bec033cc43303f1c60d5c87665449876807ed534999d07f0e0343026a525f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss
+title:ebola treatment hospital burned down in drc as outbreak spreads
+seen_urlhash:7de47cc4a3945c14269036b28bbb2a6b3cb29f39ab9a6124840bf4bac554997a
+seen_titlehash:261f4a4e45a9c2b420521c87450c78a80e2bbf5acc622eed722e4203fda24002
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss
+title:nyc launches lottery for 50 world cup football tickets
+seen_urlhash:a04d664d17fbd31737d48dfde626e95e34ac9d875cd0904800967dd2b5533f4f
+seen_titlehash:c551d8dede2f943565bd70a94647f84934477b4d3125266a22584c4d60fb6b02
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260521-macron-backs-symbolic-repeal-france-slavery-laws-warns-against-false-promises-reparations
+title:macron backs symbolic repeal of france s slavery laws warns against false promises on reparations
+seen_urlhash:5b873f4ae11ba812e9b81d725179b1ef4156aa853aebd8df0ebdcee9a9c081a1
+seen_titlehash:ca3411e81111a49cda7d9abed4f2f9241e4be07bddf69ff1a50de31f6ef99ccc
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/eye-on-africa/20260521-ebola-treatment-centre-in-dr-congo-burnt-down-as-anger-grows
+title:ebola treatment centre in dr congo burnt down as anger grows
+seen_urlhash:c3d0622cef851854241ddec1f38d2792aac56e721decce758560c9e7beb3e122
+seen_titlehash:a64549b3764765776b3aa16f1e391d7524cf74205770bbf7d50c7dc2d1eef394
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20260521-france-annouonces-%E2%82%AC710-million-in-new-energy-aid
+title:france annouonces 710 million in new energy aid
+seen_urlhash:35b274e54fd4c4fcfb49906a22fe8807e9f0136005da1b5b2c084bd5bdf4ffa6
+seen_titlehash:21daf93acb41258d47415d2411a2a6eb803fddb7177d3860104adcc073686875
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us-streamers/who-is-maurice-shelmon-aka-ant-jefe-no-jumper-youtuber-and-podcaster-faces-felony-murder-charge-after-lapd-arrest/articleshow/131251971.cms
+title:who is maurice shelmon aka ant jefe no jumper youtuber and podcaster faces felony murder charge after lapd arrest
+seen_urlhash:81b5685f4e548fdfbdd878a59b9ba8a69917de3e766ea3642481fc1a8237b2bc
+seen_titlehash:47454c87d38e19f7d04f4fe9a0b9f9643f86fa8dbc34981354574333b1e17012
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us-streamers/judge-orders-chudthebuilder-to-wear-gps-monitor-and-restrict-social-media-use-if-released-on-bond/articleshow/131251913.cms
+title:judge orders chudthebuilder to wear gps monitor and restrict social media use if released on bond
+seen_urlhash:590918fe6662414b59661e13f8313fa60771e3011b26e7189ce784be10285b0c
+seen_titlehash:10e580fbfde0275c62e77a530fd6ff31a8e58c8ac240e15dc96a5380d7f354b5
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/at-least-3-fewer-indians-womans-post-on-meta-layoff-affecting-h-1b-visa-holder-with-wife-and-kid-in-seattle-draws-flak/articleshow/131251877.cms
+title:at least 3 fewer indians woman s post on meta layoff affecting h 1b visa holder with wife and kid in seattle draws flak
