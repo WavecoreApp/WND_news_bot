@@ -9457,3 +9457,17 @@ seen_titlehash:c87e6daf4d5b19062d5db04adaee3cb303116d76642460e15f1cb9ef2877fc05
 seen_reason:processed_not_published
 url:https://ft.com/content/2bfed8a4-8ea0-4627-b7a8-e9ca46945239
 title:indian youth cockroach protest goes viral
+urlhash:7739d95063cc61e5d1d716398c987a9b94f6305444c2420ae0752c4fd364a750
+titlehash:b0195588af4068c779c1bc2b5c734ce7de7b30c10e3ef7f0779290c6ab9410ec
+published_url:https://aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss
+title:israeli blockade traps would be hajj pilgrim in gaza
+seen_urlhash:f12153831b10e27aa4b510f95eb134b4cf54d66e7d87433d57023b20d6155448
+seen_titlehash:2b9135921ad88285a82273c09602313f67078f6061d150ec742dfb21e1ffd431
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/22/premier-league-finale-arsenal-relegation-champions-league-salah-and-pep?traffic_source=rss
+title:premier league finale arsenal relegation champions league salah and pep
+seen_urlhash:d0c27d1a4cba73b86984feacdac8f622db43044664a18c40174bcd49c68c5a41
+seen_titlehash:843405fd5858e0a757c0e57ff88217c91be9c7ba2f1e81c4f283b35fe54337b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/22/everest-man-breaks-his-own-record-after-historic-32nd-climb?traffic_source=rss
+title:everest man breaks his own record after historic 32nd climb
