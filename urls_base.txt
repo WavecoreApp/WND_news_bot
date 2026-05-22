@@ -9471,3 +9471,7 @@ seen_titlehash:843405fd5858e0a757c0e57ff88217c91be9c7ba2f1e81c4f283b35fe54337b7
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/5/22/everest-man-breaks-his-own-record-after-historic-32nd-climb?traffic_source=rss
 title:everest man breaks his own record after historic 32nd climb
+urlhash:f8fbc2591ebf276abd7647eb7fed0181a1543d5f2e43437ce2b3032db821c55f
+titlehash:ec549ebd90eb3e7f08527f871dfcb15f27374cec38aa77437e75460baa99abfa
+published_url:https://dw.com/ru/партнеры-киева-обсудили-с-зеленским-пути-прекращения-войны-рф-против-украины/a-77270445?maca=rus-rss-ru-all-1126-rdf
+title:партнеры киева обсудили с зеленским пути прекращения войны рф против украины
