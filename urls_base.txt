@@ -7424,3 +7424,91 @@ seen_titlehash:c7bf620e2c88b2ebca888b1d6ee66213c617d9073a06f4b615d5bf4703dfaadb
 seen_reason:processed_not_published
 url:https://ft.com/content/e7224c3f-3eef-47af-9f5d-fe8b3616a685
 title:firstft a golden window for china s renminbi
+urlhash:5312a8e7029ef7a791e9a9bb8a2e64b0112e9206bce5b272a485d7262e1bdc35
+titlehash:9fbf3852f6c40d5902b703129993c62b0812aad3f7fc287ac2026fd69d628ef6
+published_url:https://nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html
+title:iran and oman in talks over strait of hormuz ship payment system
+urlhash:0309f2d7f6c86c63efdcebd5a008eb1115b4c537215b8eef3bf5384b23215258
+titlehash:f195141f44de434363d45ae6d7b75c692769ceec8c80e56375144c892854df90
+published_url:https://theguardian.com/australia-news/2026/may/22/last-australian-women-children-is-linked-islamic-state-leave-syria-ntwnfb
+title:last australian women and children linked to is leave syrian camp before expected return home report
+urlhash:57082724f23dda0c43b9b3f42a8c7282fc9a6cc773039e42282e1a86c207f096
+titlehash:10e9be73d91027d7b8386037bebaeb061091a2ada094a0af7119610c8ebd8615
+published_url:https://aljazeera.com/news/2026/5/22/turkish-court-ousts-leader-of-main-opposition-party?traffic_source=rss
+title:turkish court ousts leader of main opposition party
+urlhash:442750e28cdf1c34ec708061edbeb0581f0e173284219d0a510ca8c23fcec087
+titlehash:fc0fca66455948eea60f5bf1752f914eae05158301fcf208772bc866b12a8113
+published_url:https://dw.com/ru/крупнейший-завод-лукойла-остановил-половину-мощностей-после-атаки-всу/a-77255898?maca=rus-rss-ru-all-1126-rdf
+title:крупнейший завод лукойла остановил половину мощностей после атаки всу
+urlhash:7a79d2242571dd3d2393127f85db437bbaa730504f1c7e63c905424f6adb841b
+titlehash:808ce523152da99afd42758f6341f247b4fcf9bf6c19094282dd3f0614cbc8d1
+published_url:https://ft.com/content/e27771b2-100c-4363-8799-553d482af90f
+title:alberta to poll province on independence referendum
+urlhash:17daedb953d264158221c5ee25a7390a0ebaf17dbcacf145101589560bc2edb8
+titlehash:047d7edfab6362b9a0990236d59acb03971ab4d5d7e7f5aa32e6da54a5fd0528
+published_url:https://timesofindia.indiatimes.com/world/us-streamers/she-is-going-to-end-up-in-jail-again-asmongold-fires-back-after-nina-lin-blames-him-for-spending-night-in-jail-over-4-scissors/articleshow/131254289.cms
+title:she is going to end up in jail again asmongold fires back after nina lin blames him for spending night in jail over 4 scissors
+urlhash:ccdd1655f7892ed36b439cea48cb0f340ce8b89c437c5f543d9f90e80b57d619
+titlehash:c11e16b625fd84b7cc6091b315c01bbe985ef3fd81d41b5257f98878791bdc30
+published_url:https://news.sky.com/story/south-africas-julius-malema-the-opposition-leader-who-has-thrown-africas-oldest-surviving-political-party-into-disarray-again-13545092
+title:the opposition leader who has thrown africa s oldest surviving political party into disarray again
+seen_urlhash:1b66d95f2f3982d995d163ae40c4e1c16c08dbbc16f0bac028d1b97bc1973c8b
+seen_titlehash:28e618c624813200858743f5e22afa5854112e8ac9a53b121b0ea766722fd669
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html
+title:cuba celebrates raúl castro after the u s accuses him of murder
+seen_urlhash:23659a469f70edd4b96944f60a88899e57541ee9e57310aaf50e45ea365029c0
+seen_titlehash:ae2cd95d70874ce9b764ff1166c16f52685ee7037e9cb9eb27c07401628d6f1f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/21/world/canada/alberta-separation-referendum-vote.html
+title:alberta separation what to know ahead of oct 19 vote on staying in canada
+seen_urlhash:159a0ec98a8de74c5c0bcfd5a9a7eadacdfec008fb3a0d192fc5bfc4644ef9c4
+seen_titlehash:3425475b6d066707c37e1debca1c2da2b46e70a5b9d93d64d95fa9f9068f931d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/may/22/labor-mps-expect-eventual-concessions-for-startups-after-backlash-to-cgt-changes
+title:labor mps expect eventual concessions for startups after backlash to cgt changes
+seen_urlhash:5ad02ed97a259802c6045e0d296876b7c0d412c2741d27b5d7a87ad20949a7cf
+seen_titlehash:96c6a6038458d877aa28c3d532a3f90de10d17f2993f1b26290620ca3aee7b43
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/22/us-senate-pushes-back-against-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss
+title:us senate pushes back against trump s 1 8bn anti weaponisation fund
+seen_urlhash:beb070ba053b635380bd1a670bbd961facaa5c1e867f68ea137eea4826351508
+seen_titlehash:d01ef2faabcd22dc43c5fa1f1405b62b08ea4d5e9d5427f66ad59f21263f050d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss
+title:iran war live signs of progress amid efforts to reach us iran peace deal
+seen_urlhash:c06562fe5f9ba97bc867f0ffb54570adff6a6142386f3945f8a766ecb09f516e
+seen_titlehash:a417c15050da7462ec1225a96c3deef4a2488839a64b7cc43cf539ed69f0358c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss
+title:us says it has not changed its stance on sanctioning francesca albanese
+seen_urlhash:ae0d02020e2573660d912f8b5fc4bcbc4e40d7e9436df1e2939703f103ecf505
+seen_titlehash:672ce6c06ae6088acb98f8b64a8c18df557692ae64f8ddf82b48550d63c40407
+seen_reason:processed_not_published
+url:https://news.sky.com/story/two-time-nascar-champion-kyle-busch-dies-aged-41-after-being-taken-to-hospital-with-severe-illness-13546848
+title:two time nascar champion dies aged 41
+seen_urlhash:10705e99a80e821d9264607bf38a66550dbb1de5db24b78df7bd3262bb746116
+seen_titlehash:864a8bdbb0343b5fb8c33ddb33b3f8681e40efb00866723bf31fe646b632c34f
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-сша-направляют-5000-дополнительных-военнослужащих-в-польшу/a-77255306?maca=rus-rss-ru-all-1126-rdf
+title:трамп сша направляют 5000 дополнительных военнослужащих в польшу
+seen_urlhash:f5b5f85fee84a1d5df1ea7d881ac74c62fa9336cb18a6329496a296c57e48f08
+seen_titlehash:0351bca5048e792d3c2efb37ff7748d028f93d5f8e4985ff6384772f8d6850a8
+seen_reason:processed_not_published
+url:https://dw.com/ru/театр-немецкого-бохольта-потерял-более-600-кресел/a-77238672?maca=rus-rss-ru-all-1126-rdf
+title:театр немецкого бохольта потерял более 600 кресел
+seen_urlhash:f789086c5ad3f2f5459d71b302c56de741aa8682baeef864a6ad044fc4ac0f1f
+seen_titlehash:b135656f40ecbf83c95e33c3328a5794ed82a490f77bbe3de378997d445bab7b
+seen_reason:processed_not_published
+url:https://ft.com/content/08973238-30c7-49b4-a5bb-a8619a0a9156
+title:has telecoms group vi turned a corner
+seen_urlhash:8656226f51c33a01820878ad8e6b7e3b8d0dffa11977df605c04c731b9b84fe6
+seen_titlehash:b8fae221d24ab456edb4c61fe8dfb4f1903f76e3d5917b5ce01b2af20bc48fa2
+seen_reason:processed_not_published
+url:https://ft.com/content/c6ded5c6-6343-4e9b-a170-7232ab28f63e
+title:global buyout funds to exit china s data centres with final 1bn deal
+seen_urlhash:e67f645444b95160d962eec67787572724b173ed5da4c635e34e46901db4acaf
+seen_titlehash:dea01f32bd57ed2fbca0b20b625f66d67b82f793747ad007c29c579053d25e3d
+seen_reason:processed_not_published
+url:https://ft.com/content/f7ea61b2-74fa-4524-9c00-2bee85242b97
+title:uk consumer confidence rises despite political turmoil
