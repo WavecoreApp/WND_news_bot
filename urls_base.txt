@@ -10573,3 +10573,31 @@ seen_titlehash:5130589c4c3668a7cafbff36bbc30458703ecbe7ad35b4571b66ccb7f10febfd
 seen_reason:processed_not_published
 url:https://france24.com/en/israeli-minister-ben-gvir-banned-from-entering-france
 title:israeli minister ben gvir banned from entering france
+urlhash:86ff786a2eca34ae33923d0c36f8a79bf989672e586b0790b2533e7a27ffd834
+titlehash:35808786bad610cc17cd2a84581c0005ef12befa47027c2721761c9af20ac75f
+published_url:https://france24.com/en/middle-east/20260523-iran-us-and-pakistan-report-progress-in-talks-on-ending-war
+title:iran us and pakistan report progress in talks on ending war
+urlhash:bd9d1fa4f990615a14f034f5f1efdeb57d894bb577d9762e7c609a3fbc9ff556
+titlehash:3e7f23c38cce37e1d71e01bf81080da8b801125f3c22a4c221cf8d204426e422
+published_url:https://dw.com/ru/ft-сша-и-иран-близки-к-соглашению-о-продлении-перемирия-на-60-дней/a-77274617?maca=rus-rss-ru-all-1126-rdf
+title:ft сша и иран близки к соглашению о продлении перемирия на 60 дней
+seen_urlhash:9538b945956308860c7d001231b5dbc138f1f35957fa4b36888341f2a62d7dcd
+seen_titlehash:3d093276314ccc47b254b5aee4a505892b854846dc4a9e7a4d3dc16248f57f63
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html
+title:a lull in fighting gave time to bury their dead
+seen_urlhash:60ef7b02b9f8580ac7ab6e41a4e67c62af2f9a50549f6af94e20937871b07d69
+seen_titlehash:b72d9f6c34738a2e8414ad9951de03b7dde99f35db50333b432b0451f5d82a46
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss
+title:thousands march in madrid demanding spanish pm quit over graft allegations
+seen_urlhash:0c411e4a02daf7b71ba31064246d9e6adee0fe50152d5551a69c89af15fb414c
+seen_titlehash:e3adbc83c88b32f65fb0f842ec9f3c0eff91e1de8aadf76e568301f9d1f9a8d5
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260523-ai-palantir-the-pushback-sadiq-khan-s-much-discussed-decision-over-met-police-contract
+title:ai palantir the pushback sadiq khan s much discussed decision over met police contract
+seen_urlhash:399d1420aff96e2f1b3a6680b7eddfd23d90e02042eb76084888734aa4df40aa
+seen_titlehash:fedf1c8f417f51e3fe82f7076c731d3dd53dfb61b218cf4a20e7868a413f6b88
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/canadas-new-immigration-policy-could-let-foreign-criminals-delay-deportation-what-we-know/articleshow/131284030.cms
+title:canada s new immigration policy could let foreign criminals delay deportation what we know
