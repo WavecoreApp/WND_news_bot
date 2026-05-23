@@ -10131,3 +10131,26 @@ seen_titlehash:11cd10bf9d944b3814da776c9b82e9ed47d0e99cf99a1dfe749fe3fc25fd3791
 seen_reason:processed_not_published
 url:https://ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12
 title:spacex openai and anthropic ipos set to test limits of ai boom
+urlhash:e5c13f312a18103907610a544b76d6fae5a511a10d807ca36640b30dac9fa4b7
+titlehash:a7eb7b06ef3cd89821185ea1731ba33bc396c8294b766dbd0cd072e16f7d2953
+published_url:https://aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss
+title:china coal mine blast kills at least 90 leaves nine missing
+urlhash:5e472ebbe73fe50040e89b1c6d55f5df6b212d2ee8fb3240546f924c0e5baa48
+titlehash:cee12331f0d1d2a98acff9d27dfc6d53a769050bc1c5e672a0ba4ab96f4885bb
+published_url:http://ru.euronews.com/culture/2026/05/23/discrimination-canal-taken-to-court-after-its-response-to-the-zapper-bollore-collective
+title:дискриминация canal подают в суд после ответа коллективу zapper bolloré
+seen_urlhash:84bdbb1e369c2ee0a81198e22364bcdbc4be1f6dee4111b626e6c1d03b8f6fe7
+seen_titlehash:3639acfcc6c648e308c4a12c4212110a5396cfc1f50c8535237c3cb075c105c5
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss
+title:man utd s fernandes trumps arsenal to premier league player of season award
+seen_urlhash:bafbc3d41b5919d8166cf2a3d10c32cb33f27e421839951a82cb4b20db826436
+seen_titlehash:a9259e4c762eee94fde2d25b50c46f64492e029f18b9104afc65ddc6f579d523
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government?traffic_source=rss
+title:senegal s president faye sacks pm sonko and dissolves government
+seen_urlhash:b084e5bb500c2fd7edbf1006af364e3f777e39fe204946b6784fbe2c9f81d5fc
+seen_titlehash:76571029bc2a7393f0b7b95198df650785bf4f8546ce7880f1ccab00722e5e0c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/05/23/novosti-dnya-23-maya-2026-g-dnevnoj-vypusk
+title:новости дня 23 мая 2026 г дневной выпуск
