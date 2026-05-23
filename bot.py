@@ -1136,7 +1136,26 @@ def make_post_html(headline, body, source_url, score):
     return (
         f"<b>{safe_headline}</b>\n\n"
         f"{safe_body}\n\n"
-        f"Источник • WND Digest"
+        f'<a href="{safe_source_url}">Источник</a> | '
+        f'<a href="{safe_digest_url}">WND Digest</a>'
+    )
+
+
+def make_media_caption_html(headline, source_url, score):
+    clean_headline = strip_markdown(headline.strip())
+
+    safe_headline = html.escape(clean_headline)
+
+    if score >= 10:
+        safe_headline = f"⚡ {safe_headline}"
+
+    safe_source_url = html.escape(source_url.strip(), quote=True)
+    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
+
+    return (
+        f"<b>{safe_headline}</b>\n\n"
+        f'<a href="{safe_source_url}">Источник</a> | '
+        f'<a href="{safe_digest_url}">WND Digest</a>'
     )
 
 
@@ -1195,29 +1214,39 @@ def publish_item(item):
         item["score"],
     )
 
-    video_url = get_best_video(item["entry"], item["link"])
+    media_caption_html = make_media_caption_html(
+        item["headline"],
+        item["link"],
+        item["score"],
+    )
 
-    if video_url and len(text_html) <= 950:
+    video_url = get_best_video(item["entry"], item["link"]) if "get_best_video" in globals() else None
+
+    if video_url:
         print(f"Trying video: {video_url}")
 
-        ok = send_video_with_caption(video_url, text_html)
+        ok = send_video_with_caption(video_url, media_caption_html)
 
         if ok:
-            return True
+            # If the full article is too long for a Telegram caption, send it as a separate message.
+            return send_text_without_preview(text_html)
 
         print("Video failed, fallback to photo.")
 
     image_url = get_best_image(item["entry"], item["link"])
 
-    if image_url and len(text_html) <= 950:
-        ok = send_photo_with_caption(image_url, text_html)
+    if image_url:
+        print(f"Trying photo: {image_url}")
+
+        ok = send_photo_with_caption(image_url, media_caption_html)
 
         if ok:
-            return True
+            # Send the long digest text separately so photos are still used even for long articles.
+            return send_text_without_preview(text_html)
 
-        print("Photo failed, fallback to text with link preview.")
+        print("Photo failed, fallback to text.")
 
-    ok = send_text_with_preview(text_html)
+    ok = send_text_without_preview(text_html)
 
     if ok:
         return True
