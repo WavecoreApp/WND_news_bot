@@ -1253,7 +1253,7 @@ def publish_item(item):
 
     # If the digest is long, do NOT send a separate media preview.
     # Separate media + separate text looks like duplicate posts.
-    if len(text_html) > 950:
+    if len(text_html) > 3500:
         print("Long post: sending text only, no separate media duplicate.")
         return send_text_without_preview(text_html)
 
