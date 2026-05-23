@@ -5,6 +5,10 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: news-auto-parsing
+  cancel-in-progress: false
+
 jobs:
   run-news-bot:
     runs-on: ubuntu-latest
@@ -29,10 +33,12 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
 
           TELEGRAM_CHANNEL_ID: ${{ vars.TELEGRAM_CHANNEL_ID }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           GROQ_REWRITE_MODEL: ${{ vars.GROQ_REWRITE_MODEL }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
 
           TOP_PERCENT_PER_SOURCE: ${{ vars.TOP_PERCENT_PER_SOURCE }}
           SOURCE_MIN_TAKE: ${{ vars.SOURCE_MIN_TAKE }}
@@ -43,6 +49,8 @@ jobs:
 
           GROQ_BATCH_SIZE: ${{ vars.GROQ_BATCH_SIZE }}
           GROQ_REWRITE_BATCH_SIZE: ${{ vars.GROQ_REWRITE_BATCH_SIZE }}
+          GEMINI_REWRITE_BATCH_SIZE: ${{ vars.GEMINI_REWRITE_BATCH_SIZE }}
+          GEMINI_BATCH_DELAY_SECONDS: ${{ vars.GEMINI_BATCH_DELAY_SECONDS }}
 
           POST_DELAY_MIN_SECONDS: ${{ vars.POST_DELAY_MIN_SECONDS }}
           POST_DELAY_MAX_SECONDS: ${{ vars.POST_DELAY_MAX_SECONDS }}
@@ -60,5 +68,7 @@ jobs:
           git add urls_base.txt
 
           git commit -m "Update news database [skip ci]" || echo "No changes to commit"
+
+          git pull --rebase origin main
 
           git push
