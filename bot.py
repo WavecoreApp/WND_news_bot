@@ -13,6 +13,7 @@ import requests
 import feedparser
 from bs4 import BeautifulSoup
 from openai import OpenAI
+from google import genai
 
 
 # ==================================================
@@ -22,9 +23,21 @@ from openai import OpenAI
 # - Groq batch scoring per source
 # - top 25% from EACH source
 # - theme dedupe across sources
-# - Groq batch Russian rewrite
-# - no Gemini usage
+# - Gemini 3.1 Flash-Lite batch Russian rewrite with API key rotation
+# - Gemini is used only for final Russian rewrite
 # ==================================================
+
+
+
+def env_int(name, default):
+    value = os.getenv(name)
+    if value is None or str(value).strip() == "":
+        return default
+    try:
+        return int(value)
+    except ValueError:
+        print(f"Invalid integer env {name}={value!r}; using default {default}")
+        return default
 
 
 # =========================
@@ -35,37 +48,61 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
+GEMINI_API_KEYS = [
+    key.strip()
+    for key in os.getenv("GEMINI_API_KEYS", "").split(",")
+    if key.strip()
+]
+
 DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
 GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
 GROQ_REWRITE_MODEL = os.getenv("GROQ_REWRITE_MODEL", "openai/gpt-oss-120b")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 
 # Important:
 # 25 means: from every RSS source, keep the best 25% of NEW items from that source.
-TOP_PERCENT_PER_SOURCE = int(os.getenv("TOP_PERCENT_PER_SOURCE", "25"))
-SOURCE_MIN_TAKE = int(os.getenv("SOURCE_MIN_TAKE", "1"))
+TOP_PERCENT_PER_SOURCE = env_int("TOP_PERCENT_PER_SOURCE", 25)
+SOURCE_MIN_TAKE = env_int("SOURCE_MIN_TAKE", 1)
 
 # 0 means no global cap. This matches your request: publish all deduped top-25%-per-source stories.
 # If later you want a hard cap, set MAX_NEWS_PER_RUN to e.g. 10.
-MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "0"))
+MAX_NEWS_PER_RUN = env_int("MAX_NEWS_PER_RUN", 0)
 
-MAX_CANDIDATES_PER_SOURCE = int(os.getenv("MAX_CANDIDATES_PER_SOURCE", "20"))
-ENTRIES_PER_SOURCE = int(os.getenv("ENTRIES_PER_SOURCE", "20"))
+MAX_CANDIDATES_PER_SOURCE = env_int("MAX_CANDIDATES_PER_SOURCE", 20)
+ENTRIES_PER_SOURCE = env_int("ENTRIES_PER_SOURCE", 20)
 
-GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "20"))
-GROQ_REWRITE_BATCH_SIZE = int(os.getenv("GROQ_REWRITE_BATCH_SIZE", "20"))
+GROQ_BATCH_SIZE = env_int("GROQ_BATCH_SIZE", 20)
+GROQ_REWRITE_BATCH_SIZE = env_int("GROQ_REWRITE_BATCH_SIZE", 5)
+GEMINI_REWRITE_BATCH_SIZE = env_int("GEMINI_REWRITE_BATCH_SIZE", 5)
+GEMINI_BATCH_DELAY_SECONDS = env_int("GEMINI_BATCH_DELAY_SECONDS", 7)
 
-POST_DELAY_MIN_SECONDS = int(os.getenv("POST_DELAY_MIN_SECONDS", "60"))
-POST_DELAY_MAX_SECONDS = int(os.getenv("POST_DELAY_MAX_SECONDS", "180"))
+POST_DELAY_MIN_SECONDS = env_int("POST_DELAY_MIN_SECONDS", 60)
+POST_DELAY_MAX_SECONDS = env_int("POST_DELAY_MAX_SECONDS", 180)
 
-MAX_POSTS_PER_DOMAIN = int(os.getenv("MAX_POSTS_PER_DOMAIN", "3"))
+MAX_POSTS_PER_DOMAIN = env_int("MAX_POSTS_PER_DOMAIN", 3)
 
 DIGEST_CHANNEL_URL = os.getenv("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
 
 REQUEST_TIMEOUT = 30
 
 groq_client = None
+gemini_key_index = 0
+
+
+
+def get_next_gemini_client():
+    global gemini_key_index
+
+    if not GEMINI_API_KEYS:
+        raise RuntimeError("No Gemini API keys configured")
+
+    key = GEMINI_API_KEYS[gemini_key_index % len(GEMINI_API_KEYS)]
+    gemini_key_index += 1
+
+    print(f"Using Gemini key #{((gemini_key_index - 1) % len(GEMINI_API_KEYS)) + 1}/{len(GEMINI_API_KEYS)}")
+    return genai.Client(api_key=key)
 
 
 # =========================
@@ -794,7 +831,7 @@ def fetch_article_text(article_url):
 # GROQ RUSSIAN REWRITE
 # =========================
 
-def ask_groq_rewrite_batch(batch):
+def ask_gemini_rewrite_batch(batch):
     payload = []
 
     for item in batch:
@@ -817,9 +854,14 @@ def ask_groq_rewrite_batch(batch):
 
 Критически важно:
 - ВСЕ headline и post должны быть на русском языке.
+- Используй full_article_text как главный источник фактов.
+- title и description нужны только как подсказка.
+- Сжимай ВСЮ статью, а не только первый RSS-абзац.
+- Сохраняй ключевые факты: кто, что, где, когда, почему важно.
+- Сохраняй числа, даты, суммы, проценты, страны, города, организации и должности.
 - Нельзя оставлять английский оригинальный заголовок.
 - Нельзя добавлять факты от себя.
-- Нельзя терять важные факты из title/description.
+- Нельзя терять важные факты из статьи.
 - Нельзя использовать ИИ-фразы.
 - Нельзя писать "это подчеркивает", "важный шаг", "на фоне", если этого нет в сути.
 - Нельзя раздувать.
@@ -864,16 +906,14 @@ No markdown. No text outside JSON.
 {json.dumps(payload, ensure_ascii=False)}
 """
 
-    response = groq_client.chat.completions.create(
-        model=GROQ_REWRITE_MODEL,
-        temperature=0.2,
-        messages=[
-            {"role": "system", "content": "Return only valid JSON. All headline/post fields must be Russian."},
-            {"role": "user", "content": prompt},
-        ],
+    client = get_next_gemini_client()
+
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
     )
 
-    return response.choices[0].message.content.strip()
+    return response.text.strip()
 
 
 def rewrite_selected_with_groq(items):
@@ -883,7 +923,7 @@ def rewrite_selected_with_groq(items):
     for idx, item in enumerate(items, start=1):
         item["global_id"] = idx
 
-    print(f"Groq Russian rewrite: {len(items)} articles in batches of {GROQ_REWRITE_BATCH_SIZE}")
+    print(f"Gemini Russian rewrite: {len(items)} articles in batches of {GEMINI_REWRITE_BATCH_SIZE} | model: {GEMINI_MODEL}")
 
     for item in items:
         item["article_text"] = fetch_article_text(item.get("link", ""))
@@ -894,16 +934,20 @@ def rewrite_selected_with_groq(items):
 
     rewritten_by_id = {}
 
-    for batch_index, batch in enumerate(chunks(items, GROQ_REWRITE_BATCH_SIZE), start=1):
+    for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
         try:
-            print(f"Groq rewrite batch {batch_index}: {len(batch)} articles")
-            raw = ask_groq_rewrite_batch(batch)
+            print(f"Gemini rewrite batch {batch_index}: {len(batch)} articles")
+            raw = ask_gemini_rewrite_batch(batch)
             payload = extract_json_payload(raw)
             results = payload.get("items", [])
 
         except Exception as e:
-            print(f"Groq rewrite batch failed: {e}")
+            print(f"Gemini rewrite batch failed: {e}")
             results = []
+
+        if batch_index > 1 and GEMINI_BATCH_DELAY_SECONDS > 0:
+            print(f"Sleeping {GEMINI_BATCH_DELAY_SECONDS} seconds before next Gemini batch...")
+            time.sleep(GEMINI_BATCH_DELAY_SECONDS)
 
         for result in results:
             try:
