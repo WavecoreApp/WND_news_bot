@@ -10675,3 +10675,26 @@ seen_titlehash:34cbf1a7c80c4308fa915cfb8ab5b2d54da87fb4e2519161e560a827ad57a459
 seen_reason:processed_not_published
 url:https://ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70
 title:us warns japan of severe delays in tomahawk deliveries due to iran war
+urlhash:87a4aa49a890c6130fa07c9364d853bf57088d9593dd6421fe1c6b7a4b3b365b
+titlehash:d46ba41ab5feba76958cc7bc801bc37be4e53832a18dd15e923da5e7f0e865bd
+published_url:https://aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon
+title:funerals for medics killed in israeli air strikes in southern lebanon
+urlhash:5131932cf8cacf6f700747289512295bc5055693df2fca865da4cabd461ce15e
+titlehash:67768017d1dcabafd500fb49f6194a79ca5d8e18a121b2ebbb898994e70243cf
+published_url:http://ru.euronews.com/video/2026/05/23/spacex-starship-explodes-in-the-indian-ocean-after-splashdown
+title:starship spacex взорвался в индийском океане после приводнения
+seen_urlhash:2e41a31c0052c61e73aabd91923e47d315994ab90fcdad0330cb22e125c0e002
+seen_titlehash:99c8fffb827e04b82a1116dfe51604c281203ebc12d359e3a7cea000809dd158
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/23/violence-and-overcrowding-hampers-ebola-response-in-drc
+title:violence and overcrowding hampers ebola response in drc
+seen_urlhash:2365ffd11de30689498b1f4a2d1a62b4a1aa3028beaeebb6d662cf7c63a494b0
+seen_titlehash:f9de3e88f039d8fa7f8fc692852f06531a62cb0c23739a4b8bda7a6d4c1087ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/23/indias-gen-z-cockroach-party-is-going-viral
+title:india s gen z cockroach party is going viral
+seen_urlhash:8aca882a54d3ebf93eedc02ca734559d68718cf3d6b403050cb551139e96bc19
+seen_titlehash:236d267bd0dc732eee90375c0f4e7d10cdcb346eba4ecf9c4e3c7344672495df
+seen_reason:processed_not_published
+url:https://news.sky.com/story/serbian-riot-police-clash-with-protesters-in-belgrade-after-anti-government-rally-13547397
+title:riot police clash with protesters in serbia after anti government rally
