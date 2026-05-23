@@ -10154,3 +10154,30 @@ seen_titlehash:76571029bc2a7393f0b7b95198df650785bf4f8546ce7880f1ccab00722e5e0c
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/05/23/novosti-dnya-23-maya-2026-g-dnevnoj-vypusk
 title:новости дня 23 мая 2026 г дневной выпуск
+urlhash:5d354fd2c12aac30f148b6ffbb225f4f4057cdab33e044b586e60a68ba4ba7b6
+titlehash:3dc633e1cba827d4b853b82f55d2288c442c2173313c4371800011d4f603ed40
+published_url:https://dw.com/ru/зеленский-отверг-идею-мерца-об-ассоциированном-членстве-украины-в-ес/a-77272853?maca=rus-rss-ru-all-1126-rdf
+title:зеленский отверг идею мерца об ассоциированном членстве украины в ес
+urlhash:7798d4f50837267b6e6ecacb3e704229559fa116857d2019efc3390d2e30557c
+titlehash:ab13e249fe7d0daa1668d2fbfa7ef8db873e726e8eedd3157e27cb43fcf28427
+published_url:https://theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention
+title:canada is handing people over to ice refugees rejected at border face us detention
+urlhash:ad55d05357164bc75b39388be4ec783ca7ba1e1c04bd51e44e738c75b7f014d9
+titlehash:dbdc0a9fbe6e3c080c183655be30765455e1ffbc191f2721824a7de04dfecf49
+published_url:https://meduza.io/news/2026/05/23/rossiyskiy-dron-udaril-po-traurnoy-protsessii-v-sumah
+title:российский дрон ударил по траурной процессии в сумах
+seen_urlhash:6e5751daed4a5e9ed3bb14a710bd6cc1eefd08b7325b7effbec2f5ea5d4d2dae
+seen_titlehash:abf06e3ad983c1e37545b3c906deaeafd0409eab3669984e891f2ef7677c6649
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/fast-developing-emergency-1-killed-several-injured-after-fire-explosions-at-new-york-city-shipyard/articleshow/131278170.cms
+title:fast developing emergency 1 killed several injured after fire explosions at new york city shipyard
+seen_urlhash:dbfabfd1bb1aded4712f8cef92e6c47333216be02641c258ed369dcba80f9323
+seen_titlehash:2c43d5fbb7bb43940837b5b3479e41d5532fbd9348babc1727eb2b69a441156c
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-запретила-продажу-вин-и-коньяков-трех-армянских-производителей/a-77273155?maca=rus-rss-ru-all-1126-rdf
+title:россия запретила продажу вин и коньяков трех армянских производителей
+seen_urlhash:e285e4bbd857b6c62d7c94b98afc1477b6436820a3c653e1c9e231be7ffe9037
+seen_titlehash:f9fcc256d8bb957d0d994b03ea070e20f0b34ada935ecf78989a52757de5468f
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/05/23/arsenal-chempion-anglii-komanda-ne-vyigryvala-turnir-22-goda-i-postoyanno-finishirovala-vtoroy
+title:арсенал чемпион англии команда не выигрывала турнир 22 года и постоянно финишировала второй все изменил тренер микель артета воспитанник гвардиолы побивший рекорд арсена венгера
