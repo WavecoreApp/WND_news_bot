@@ -10181,3 +10181,84 @@ seen_titlehash:f9fcc256d8bb957d0d994b03ea070e20f0b34ada935ecf78989a52757de5468f
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/05/23/arsenal-chempion-anglii-komanda-ne-vyigryvala-turnir-22-goda-i-postoyanno-finishirovala-vtoroy
 title:арсенал чемпион англии команда не выигрывала турнир 22 года и постоянно финишировала второй все изменил тренер микель артета воспитанник гвардиолы побивший рекорд арсена венгера
+urlhash:047378647a2438bf9d550e4afe0dab8aef52dc25452be0980b39bbf3de03b404
+titlehash:d733b47390d5e37c4a41d0873f6720a6e05ca45dfd7d4fdbeba6ed3a30617f86
+published_url:https://aljazeera.com/news/2026/5/23/uganda-confirms-three-new-ebola-cases-bringing-total-to-five?traffic_source=rss
+title:uganda confirms three new ebola cases bringing total to five
+urlhash:3360150a4cebd905011b0dfc418924abedcab13880e47f3e9f3c6a2de18ea00c
+titlehash:7dac784374dea42576f2f5f378e0595e6ccce55030527e290f539b07b4dbfede
+published_url:https://timesofindia.indiatimes.com/world/china/china-mine-blast-death-toll-rises-to-90-beijing-orders-crackdown-as-rescue-ops-continue-top-developments/articleshow/131279386.cms
+title:china mine blast death toll rises to 90 beijing orders crackdown as rescue ops continue top developments
+urlhash:5fd2620297b0018d5343c49e0ec51c3901fb39851b7197e8ef3e580ad6fbfa43
+titlehash:d5bf6f774f2251a95b718d98da8d9448015a6da18d81127e9a948df858039d59
+published_url:https://dw.com/ru/польша-получила-первые-из-заказанных-в-сша-истребителей-f-35/a-77273228?maca=rus-rss-ru-all-1126-rdf
+title:польша получила первые из заказанных в сша истребителей f 35
+urlhash:bcdc44d0042d863f16c911b43a682db77032963fb1df883eb25c89d983b56ed3
+titlehash:47fd68f1adf20952d42d5f312a655d5ad3f745e168d4230a37c42ba5f9480886
+published_url:https://aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss
+title:dr congo will not change world cup preparations despite us ebola warning
+seen_urlhash:4f4c69a6b171626596daf24400ae9138c304a81121aa1eb94b7221f911196c4a
+seen_titlehash:97d39555d7c2d9ef1df07bf29e7ca25d4974cfc4a749f733fa4adde438dfeb5c
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss
+title:french pair held until trial after boys abandoned by road in portugal
+seen_urlhash:3c7771dc550c4745d2e1ad96b16abca6fba18676cccf524c4ea995044d082d5a
+seen_titlehash:748380e2ca1a347b96a884828001a5c237c321b2b43b297aa827720bb2fd99e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/23/f1-legend-prost-suffers-head-injury-in-alleged-robbery-at-swiss-home?traffic_source=rss
+title:f1 legend prost suffers head injury in alleged robbery at swiss home
+seen_urlhash:342fb52686b6c29835c8141318d9cdbd613d089bd4b7a4dd8748172aba9610f4
+seen_titlehash:e8034dd61c7c5772e68b803afb564f5d3b557e36ed36230e0005e6daca2229d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/23/massive-fire-engulfs-residential-area-in-the-philippine-capital?traffic_source=rss
+title:massive fire engulfs residential area in the philippine capital
+seen_urlhash:c77bfb85cfc407902a1d286c09b671c127312b5bd0e1474c07df8e785d3b21f7
+seen_titlehash:3e74a506eafeea18a3b39c2bef67cf4dac66fc2dcb43a3183566f3906938025a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/cockroach-janta-partys-founder-says-indian-government-took-website-down?traffic_source=rss
+title:cockroach janta party s founder says indian government took website down
+seen_urlhash:6ce1fd5f18c1541e0da2250f72b2fcb60002590ef4eb3caa17daa68e9c784e1e
+seen_titlehash:9bea5caf4f484c56bdbb5fb926f43f160dad59cfc7269e97729bbbaf531317e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/23/world-cup-2026-haiti-fans-feel-excluded-from-first-tournament-since-1974?traffic_source=rss
+title:world cup 2026 haiti fans feel excluded from first tournament since 1974
+seen_urlhash:d8cd99d9565e06f19cb44e34380d91d0e493a5d72e7848743a20aacc78c6eefa
+seen_titlehash:d23233987585a8424e38dea4d1f6d6b5486948f970671519918df5c9bd19984c
+seen_reason:processed_not_published
+url:https://news.sky.com/story/three-new-ebola-cases-declared-in-uganda-13547271
+title:three new ebola cases declared in uganda
+seen_urlhash:6d3b6bb2a77f56a7a4a526f1d5c046b434f12a3b14ab4a7ec9320a07a963661c
+seen_titlehash:8368c1b163ebc1632074bb029bf52bb87effa11844045d221e5e4f3c4dfaf090
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260523-far-right-israeli-minister-ben-gvir-banned-from-french-territory-fm-says
+title:far right israeli security minister ben gvir banned from french territory fm
+seen_urlhash:6d3b6bb2a77f56a7a4a526f1d5c046b434f12a3b14ab4a7ec9320a07a963661c
+seen_titlehash:cddf006f35b0a864f7092dd9d303edf999383eab180a8977c11383005fe9e6aa
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260523-far-right-israeli-minister-ben-gvir-banned-from-french-territory-fm-says
+title:far right israeli minister ben gvir banned from french territory fm says
+seen_urlhash:2332c1ac678e4bdf00ccb23df0e6b6c4ff5baba21d704a450959f5ef87676206
+seen_titlehash:2908822b97d0ed521a5eeef1c986cbd0249e8d36ed276b12c02c0b32343d8926
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/new-green-card-rule-sridhar-vembu-slammed-for-asking-indian-visa-holders-to-come-back-home-to-choose-self-respect/articleshow/131279417.cms
+title:new green card rule sridhar vembu slammed for asking indian visa holders to come back home to choose self respect
+seen_urlhash:01fb7c02a0007e95a5e5ca1054c8a13250ebe9e769adf2ef09db27f5096d8c53
+seen_titlehash:6e0eef5d6dfb8c8dc10104b3668134e317e41fc793359d73e2bcb92eca5166e0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/05/23/us-says-people-seeking-green-cards-must-leave-the-country-to-apply
+title:трамп ужесточает правила обладатели временных виз должны оформлять грин карту за пределами сша
+seen_urlhash:1970f22d5b518e641a0e6f6e154505119b05b37d47873431bac51724b0202630
+seen_titlehash:9bb98d849a26ab3112fdbb34ca6f0000d25aa5bda174101d1872f91acc05c9e2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/23/inostrantsam-zapretili-podavatsya-na-grin-kartu-na-territorii-ssha
+title:иностранцам запретили подаваться на грин карту на территории сша
+seen_urlhash:cbf07831ecf1c589b55cf748e93882ad6d18a8726f7acc592cee3d140362a560
+seen_titlehash:9b28f0386174058d645c43de9f8dabed7839d2963f553c4ac7a157b5669b782e
+seen_reason:processed_not_published
+url:https://ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24
+title:us oil producers increase output to capture price surge from iran war
+seen_urlhash:5edc6074673d1b1f31374c30ac3d5e965768a7a9668c0a1f1b6e753d23242232
+seen_titlehash:187b9ed74722c12e7df5a9bb814cb13326339955269d04a6326ff06c6418eaae
+seen_reason:processed_not_published
+url:https://ft.com/content/b3eff5d9-10e9-407c-ab6b-1daeeed63a3c
+title:marco rubio combats cuban american backlash as he seeks havana deal
