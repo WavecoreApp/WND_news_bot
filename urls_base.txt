@@ -10262,3 +10262,50 @@ seen_titlehash:187b9ed74722c12e7df5a9bb814cb13326339955269d04a6326ff06c6418eaae
 seen_reason:processed_not_published
 url:https://ft.com/content/b3eff5d9-10e9-407c-ab6b-1daeeed63a3c
 title:marco rubio combats cuban american backlash as he seeks havana deal
+urlhash:ee9a0a0a858746119d4a4a0c447f3c6e241086a5002370458cfc5caa45f5cffa
+titlehash:368ed9e326bd74212a439ca14a1fab4772fe6d97ffaef596e1461bd809b9f179
+published_url:https://theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack
+title:côte d ivoire wary of jihadist threat in north 10 years on from major attack
+urlhash:09d8ba457709c46d874d7b72dad7480ad61c876dbf3c3d98b325443f7286fb3c
+titlehash:388766cb7b81b72a7dff146d3c0ce857fe2ee9d023f00b24dd524fb6dd7b2b78
+published_url:https://aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss
+title:israeli air strike pounds southern lebanon leaving many injured
+urlhash:02d326b75a5249517fecd8cfe9a96f2b4fdd34c06970138694aa79141296b0b5
+titlehash:a15684dbbea7fdc9ab2b1ffeee3b095bd8ee9d13fee8fa94d266a8e37860499e
+published_url:https://dw.com/ru/рф-готовит-продажу-почти-четверти-акций-аэрофлота/a-77273512?maca=rus-rss-ru-all-1126-rdf
+title:рф готовит продажу почти четверти акций аэрофлота
+seen_urlhash:fb28c37da6615822a0a276c38fd673286d800322680ef5dc87847c2c5517d912
+seen_titlehash:527c799a08d3cea03bf0060ebabb920f4ae8ecb41e32fedaf60bcb8c87b47201
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html
+title:iran meets mediators for talks as cease fire hangs in balance
+seen_urlhash:76098ed0b1cc411c5e8f1192a7e79852d2c2aefbe1f05dfe628ffb650fe3d174
+seen_titlehash:39f3d4fcae788b8534da5fa8a3006ed4ca40ff8c005008513db7ca28914476a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss
+title:france bans far right israeli minister ben gvir over abuse of activists
+seen_urlhash:2070b37be5043690322a72a74598e846f65ef950a9bc4877cbe7c2664db27c03
+seen_titlehash:9eb7c7f55d2fb395067a0cf5b1e9b1dc32040187afc5e618bde3edba1d312f27
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss
+title:the pollution that outlives war
+seen_urlhash:d44d52342d040ab54417f00b1ce44bf0c42aa92353d02af5066ecff776613b9a
+seen_titlehash:48d9fdbe483292a1a91e1cb28bd41fa585dc5cd8fc9bf784af37a782037dc610
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260523-lens-clinch-first-ever-coupe-de-france-triumph-after-seeing-off-nice
+title:lens clinch first ever coupe de france triumph after seeing off nice
+seen_urlhash:d6025ecca88adc36620a53ebce4d021240617f8b54024fde026e739d215a693a
+seen_titlehash:876fe3d851aac383bb865a7ebd43aab292f8848a8c6543dbaabc9fbfe31944db
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/indian-national-arrested-after-5-6-million-meth-making-chemical-found-hidden-in-food-consignment-at-sydney-port/articleshow/131278593.cms
+title:indian national charged after alleged 5 6m pseudoephedrine import bust at sydney port
+seen_urlhash:8670b815b130370d51466c7dad44f4da189a7b3a2ecb6344068825d83e4d298b
+seen_titlehash:b8ccbd563239b8e8e4f17e4e614aa627a4049114eea5527518b964f4e333d7a0
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/china/pakistan-pm-shehbaz-sharif-begins-4-day-china-visit-amid-fragile-us-iran-truce/articleshow/131279700.cms
+title:pakistan pm shehbaz sharif begins 4 day china visit amid fragile us iran truce
+seen_urlhash:fe966783015e8ce06198f3f4dd3a8875c19771cbeda20a7d0cfc99245ea44677
+seen_titlehash:659affab23d40a7b2259c5bf94ae80497e70853161f03d34a9676b092da4eca7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/23/apple-za-god-udalila-1213-prilozheniy-po-trebovaniyu-roskomnadzora
+title:apple за год удалила 1213 приложений по требованию роскомнадзора
