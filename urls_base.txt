@@ -10523,3 +10523,30 @@ seen_titlehash:0822eeb25ec696bca0f857ab150911f88bc85886bd6ba05839b258659e8f54dc
 seen_reason:processed_not_published
 url:https://timesofindia.indiatimes.com/world/us/dont-mind-being-called-tyrant-dictator-but-dont-want-to-be-called-dumb-donald-trump/articleshow/131282090.cms
 title:don t mind being called tyrant dictator but don t want to be called dumb donald trump
+urlhash:1ea11658c5eabce6d0439d4423f5753806bea15a3ffb7ebcc1acc38c4a64ac08
+titlehash:72b23bfad2b14922dd86b8d1603a9b9db1fa07cfd6bf97c8a1d25503bf82ed40
+published_url:https://aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss
+title:overnight israeli strikes on gaza leave behind heavy destruction
+urlhash:ac29b327a6bd9849fd492b8de3951a0d9034d109089c4d2ce24476ec38a6ab00
+titlehash:9671c7e466579028da307e041a33e057c1b40ad34411d5f7d9a76d6d677dc3e2
+published_url:https://dw.com/ru/зеленский-вс-рф-готовят-удар-по-украине-с-применением-орешника/a-77274473?maca=rus-rss-ru-all-1126-rdf
+title:зеленский вс рф готовят удар по украине с применением орешника
+urlhash:542051977f12a20f7d9b8d70c3465e5edc5d142859c7b780f5806878c459e64f
+titlehash:81dfc1f223636dd115063b35273ae4e9b637ef19f465756e206f600da4f5666f
+published_url:https://meduza.io/news/2026/05/23/v-peterburge-otmenili-festival-sinie-nochi-maski-shou-poyasnili-organizatory
+title:в петербурге отменили фестиваль синие ночи маски шоу пояснили организаторы
+seen_urlhash:f4192e7829328eee67b2da8d0c55f2cde903b75c9d886d1f800f3abaccaa4393
+seen_titlehash:dd93536a735d344e3062494b27bf0e6320dfd38ee5021935d052343b420d5047
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss
+title:us secretary of state kicks off india visit invites modi to white house
+seen_urlhash:0fe7bb9a6d81843eb880b8b9026b62ed4bc2a80ec4d3de14dbd11817b4b1185a
+seen_titlehash:c7d15ec48f642670b78b480f6427afe5988a181f107a984f51bcb5f854d6871b
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/just-a-normal-friday-for-an-iranian-us-founder-says-her-wedding-in-turkiye-got-called-off/articleshow/131282791.cms
+title:just a normal friday for an iranian us founder says her wedding in turkiye got called off
+seen_urlhash:0d89b3510fca7eee129058b2851992e78121a4258af379eb442835a038cd498f
+seen_titlehash:cdaf866b3a90315b9bc44dc5ebbb35d9a6e4dc49b17ded520a565e2bd72df6e0
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/you-are-worthless-jpmorgans-lorna-hajdini-faces-abusive-messages-amid-legal-battle-over-chirayu-ranas-sex-slave-allegations/articleshow/131282559.cms
+title:you are worthless lorna hajdini faces abuse amid legal battle with chirayu rana
