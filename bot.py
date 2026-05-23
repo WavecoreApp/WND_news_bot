@@ -1125,7 +1125,7 @@ def make_post_html(headline, body, source_url, score):
     clean_body = strip_markdown(body.strip())
 
     safe_headline = html.escape(clean_headline)
-    safe_body = html.escape(clean_body)
+    safe_body = html.escape(clean_body).replace("\n\n", "\n\u00A0\n")
 
     if score >= 10:
         safe_headline = f"⚡ {safe_headline}"
@@ -1136,8 +1136,7 @@ def make_post_html(headline, body, source_url, score):
     return (
         f"<b>{safe_headline}</b>\n\n"
         f"{safe_body}\n\n"
-        f'<a href="{safe_source_url}">Источник</a> | '
-        f'<a href="{safe_digest_url}">WND Digest</a>'
+        f"Источник • WND Digest"
     )
 
 
@@ -1171,7 +1170,7 @@ def send_text_with_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": False,
+        "disable_web_page_preview": True,
     }
 
     return telegram_api("sendMessage", payload)
@@ -1198,7 +1197,7 @@ def publish_item(item):
 
     video_url = get_best_video(item["entry"], item["link"])
 
-    if video_url and len(text_html) <= 1000:
+    if video_url and len(text_html) <= 950:
         print(f"Trying video: {video_url}")
 
         ok = send_video_with_caption(video_url, text_html)
@@ -1210,7 +1209,7 @@ def publish_item(item):
 
     image_url = get_best_image(item["entry"], item["link"])
 
-    if image_url and len(text_html) <= 1000:
+    if image_url and len(text_html) <= 950:
         ok = send_photo_with_caption(image_url, text_html)
 
         if ok:
