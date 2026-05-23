@@ -10698,3 +10698,11 @@ seen_titlehash:236d267bd0dc732eee90375c0f4e7d10cdcb346eba4ecf9c4e3c7344672495df
 seen_reason:processed_not_published
 url:https://news.sky.com/story/serbian-riot-police-clash-with-protesters-in-belgrade-after-anti-government-rally-13547397
 title:riot police clash with protesters in serbia after anti government rally
+urlhash:fbe749d23b819a19eba7bf5f3e338a65ede264fae6b1ef0af33ff28aa53fa283
+titlehash:b3908cbb8079ee78ee246f5b70389c98dc8eb6c027fd2e1e9ab511dbe932bad2
+published_url:https://france24.com/en/video/20260523-ebola-epidemic-ten-african-countries-at-risk
+title:ebola epidemic ten african countries at risk
+urlhash:9eca75b7e1438eb405f8ccd20605dae24b0aea855d75a7b2acd1b0e757e55922
+titlehash:5e7f39349b3e733ee62b912f5dd3b69064f1dc37da829a15508b00b7f939ac89
+published_url:https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417
+title:death of british national confirmed in ukraine
