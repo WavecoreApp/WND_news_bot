@@ -484,6 +484,103 @@ def get_best_image(entry, article_url):
     return extract_rss_image(entry)
 
 
+
+
+def is_probably_good_video_url(url):
+    if not url:
+        return False
+
+    lower = url.lower()
+
+    blocked = [
+        "youtube.com",
+        "youtu.be",
+        "twitter.com",
+        "x.com",
+        "tiktok.com",
+        ".m3u8",
+    ]
+
+    if any(x in lower for x in blocked):
+        return False
+
+    return any(ext in lower for ext in [".mp4", ".mov", ".webm"])
+
+
+def extract_rss_video(entry):
+    candidates = []
+
+    if "media_content" in entry:
+        for media in entry.media_content:
+            url = media.get("url", "")
+            media_type = str(media.get("type", "")).lower()
+
+            if "video" in media_type or is_probably_good_video_url(url):
+                candidates.append(url)
+
+    if "links" in entry:
+        for link in entry.links:
+            href = link.get("href", "")
+            link_type = str(link.get("type", "")).lower()
+
+            if "video" in link_type or is_probably_good_video_url(href):
+                candidates.append(href)
+
+    for url in candidates:
+        if is_probably_good_video_url(url):
+            return url
+
+    return None
+
+
+def extract_og_video(article_url):
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; WNDNewsBot/1.0)"
+        }
+
+        response = requests.get(
+            article_url,
+            headers=headers,
+            timeout=15,
+            allow_redirects=True,
+        )
+
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        selectors = [
+            ("meta", {"property": "og:video"}),
+            ("meta", {"property": "og:video:url"}),
+            ("meta", {"property": "og:video:secure_url"}),
+            ("meta", {"name": "twitter:player:stream"}),
+        ]
+
+        for tag_name, attrs in selectors:
+            tag = soup.find(tag_name, attrs=attrs)
+
+            if tag and tag.get("content"):
+                url = tag.get("content")
+
+                if is_probably_good_video_url(url):
+                    return url
+
+    except Exception as e:
+        print(f"OpenGraph video error: {e}")
+
+    return None
+
+
+def get_best_video(entry, article_url):
+    og = extract_og_video(article_url)
+
+    if og:
+        return og
+
+    return extract_rss_video(entry)
+
+
 # =========================
 # GROQ SCORING PER SOURCE
 # =========================
@@ -1021,7 +1118,21 @@ def make_post_html(headline, body, source_url, score):
     )
 
 
+
+
+def send_video_with_caption(video_url, caption_html):
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL_ID,
+        "video": video_url,
+        "caption": caption_html,
+        "parse_mode": "HTML",
+    }
+
+    return telegram_api("sendVideo", payload)
+
+
 def send_photo_with_caption(image_url, caption_html):
+
     payload = {
         "chat_id": TELEGRAM_CHANNEL_ID,
         "photo": image_url,
@@ -1062,16 +1173,30 @@ def publish_item(item):
         item["score"],
     )
 
+    video_url = get_best_video(item["entry"], item["link"])
+
+    if video_url and len(text_html) <= 1000:
+        print(f"Trying video: {video_url}")
+
+        ok = send_video_with_caption(video_url, text_html)
+
+        if ok:
+            return True
+
+        print("Video failed, fallback to photo.")
+
     image_url = get_best_image(item["entry"], item["link"])
 
     if image_url and len(text_html) <= 1000:
         ok = send_photo_with_caption(image_url, text_html)
+
         if ok:
             return True
 
         print("Photo failed, fallback to text with link preview.")
 
     ok = send_text_with_preview(text_html)
+
     if ok:
         return True
 
