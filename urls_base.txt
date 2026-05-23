@@ -10706,3 +10706,31 @@ urlhash:9eca75b7e1438eb405f8ccd20605dae24b0aea855d75a7b2acd1b0e757e55922
 titlehash:5e7f39349b3e733ee62b912f5dd3b69064f1dc37da829a15508b00b7f939ac89
 published_url:https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417
 title:death of british national confirmed in ukraine
+urlhash:c0f6aff743ae8a9db126099549e23a45932c8a5378dd67590088bfc00752515c
+titlehash:b563b3895d74026f4abb80d5057cd9ef861cda8c948278aee28877d91af86276
+published_url:https://dw.com/ru/мчс-число-жертв-удара-по-старобельску-возросло-до-21-человека/a-77274085?maca=rus-rss-ru-all-1126-rdf
+title:мчс число жертв удара по старобельску возросло до 21 человека
+urlhash:efaa5cee42fd183697c7def50d3cbec6d690487847f16597fc66b259ab2c55b5
+titlehash:b652398768456ecd13ca1322c55c6fcfce1de39e37336e87955bc787aefe04eb
+published_url:https://theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb
+title:australia news live queensland police shot dead man north of brisbane gunshots heard near white house
+seen_urlhash:31733499943c48b4d881a0a35b5bdc966df915e73a40fce438f3da61558141b7
+seen_titlehash:d1c347f9468c72d1b2777ae64807215b36e0181c791fc3728e6f4bcd397b12e0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html
+title:britain preparing for mission that could clear strait of hormuz
+seen_urlhash:aa6ec3a21703bd1a2b04356386fbdb6525b65f63b6f8badef81f5ed3e5c552b9
+seen_titlehash:7a3028110d6895f9e6a051238ff25b5c5f3294f2c03292ab3cc0d3b3f23b5b93
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house
+title:us police responding to reports of shots fired near white house
+seen_urlhash:4c67bc6579836c07a14f6ab80c12528d99544c6d3f9b96e3f425e08fb8bf5c63
+seen_titlehash:e55df546e52126baec5435de46706d9b95beeaab0fb7fa2ea958b2a211cc4848
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/white-house-gunfire-scare-footage-shows-journalists-running-for-shelter/articleshow/131287497.cms
+title:white house gunfire scare footage shows journalists running for shelter
+seen_urlhash:1ec6a32190685729980e9b2e5c792a4b9780906cdd0d12a4d59d464ad500d332
+seen_titlehash:7d0bee53248a0b62b5972a62c0a47336291d26148b5ce0abda20f37c8e726ed7
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/science/spacexs-starship-flight-hits-most-targets-in-pre-ipo-test/articleshow/131287492.cms
+title:spacex s starship flight hits most targets in pre ipo test
