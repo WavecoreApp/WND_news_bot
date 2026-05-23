@@ -10647,3 +10647,31 @@ urlhash:b0e64378852b5a998fd60e55c28345d3a29ad8868c8bf60c7e8cec7e283ba1b7
 titlehash:100e6f43026c1630f2908cd908b6ef187d8b04b81c95a766e0f002a9f2bc062b
 published_url:https://france24.com/en/video/20260523-senegal-s-president-faye-sacks-pm-sonko-after-months-of-tension
 title:senegal s president faye sacks pm sonko after months of tension
+urlhash:d85a27e05d0929091db42fb3714cb8d76dcfbba73d768bb7b32cdcee6eb3a2ae
+titlehash:b0477653134bd47ee01ebd01857af7cd7c9c05c7a8bcd3b7cc1dff7329facd79
+published_url:https://dw.com/ru/в-сербии-беспорядки-и-задержания-после-антиправительственных-протестов/a-77275262?maca=rus-rss-ru-all-1126-rdf
+title:в сербии беспорядки и задержания после антиправительственных протестов
+urlhash:3d310db933e377acfd72b9b0f0545fa5d20721928c2086e69f40fe7e62f4ebc5
+titlehash:aa58f93fa3a8fec340420370afacd70db95dd72cef06553288513b5ce55109b0
+published_url:https://aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh
+title:more than 500 children die in measles outbreak in bangladesh
+seen_urlhash:daa246e64d4acc4ffccbdcf5cfeb4de58c523c23d312217cdc497db6bf8793f5
+seen_titlehash:3c4757758899d2b3ce1dc05b41f37cbfd289469649434beea8322741c47d7a28
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html
+title:here s the latest
+seen_urlhash:fdafff8f9e4c36750b49451c32858d3f536e3d0adf960bd9617856c9086474f7
+seen_titlehash:dab6f0fb244a785de6fe51f883400f5e545bd5afe4f24cc1941a77d717a46319
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/23/more-than-1-5-million-pilgrims-brave-fierce-mecca-heat-ahead-of-hajj
+title:more than 1 5 million pilgrims brave fierce mecca heat ahead of hajj
+seen_urlhash:96d84ccf710050554d86229a0f9dca22311ea69661b57acaf8d1d333949e684a
+seen_titlehash:abe1f25e2ebe223c26e5f60f0e896807d9539e486c7b4d513ca891a92b541e8b
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/jd-vance-makes-unplanned-return-to-washington-claims-report-triggering-speculations-over-iran/articleshow/131285521.cms
+title:jd vance makes unplanned return to washington claims report triggering speculations over iran
+seen_urlhash:e8bf34cae4568abffb6f5489f08bf0e2f18357df81722b9b819f49ccaefa1e02
+seen_titlehash:34cbf1a7c80c4308fa915cfb8ab5b2d54da87fb4e2519161e560a827ad57a459
+seen_reason:processed_not_published
+url:https://ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70
+title:us warns japan of severe delays in tomahawk deliveries due to iran war
