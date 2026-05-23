@@ -10510,3 +10510,16 @@ seen_titlehash:bb21c8a2a02f906d963a0b67309dcc69f52b71a4339b37e8fde8b16a7d90b53b
 seen_reason:processed_not_published
 url:https://news.sky.com/story/alain-prost-formula-1-legend-injured-during-home-invasion-in-switzerland-13547293
 title:formula 1 legend injured during home invasion
+urlhash:66f965a312dbb8b3405c3f86f1b262f5ad6c2c5d657dc4ea1c9f590ca507f61f
+titlehash:1359de4324b53afd1cbf691412a91ebe409a5d4868626f5c10b6c7db032189bb
+published_url:https://france24.com/en/senegal-s-president-fires-prime-minister-after-months-of-tensions
+title:senegal s president fires prime minister after months of tensions
+urlhash:87a4356b04791673a66987c22442da4e2590eacaf549daf25972d9054ed5d92e
+titlehash:2258338f0794cb7b24a7df1f631e62b9664538d57d63b92fc50addba58df95f0
+published_url:https://aljazeera.com/sports/2026/5/23/mamelodi-sundowns-vs-far-rabat-caf-champions-league-final-preview?traffic_source=rss
+title:mamelodi sundowns vs as far rabat caf champions league final preview
+seen_urlhash:4e43ea51166474a34bd7f7f09dfe625e93cd8be42ef58dc710307fbf9b6425ea
+seen_titlehash:0822eeb25ec696bca0f857ab150911f88bc85886bd6ba05839b258659e8f54dc
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/dont-mind-being-called-tyrant-dictator-but-dont-want-to-be-called-dumb-donald-trump/articleshow/131282090.cms
+title:don t mind being called tyrant dictator but don t want to be called dumb donald trump
