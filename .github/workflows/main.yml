@@ -19,6 +19,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -67,8 +70,13 @@ jobs:
 
           git add urls_base.txt
 
-          git commit -m "Update news database [skip ci]" || echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update news database [skip ci]"
 
           git pull --rebase origin main
 
-          git push
+          git push origin HEAD:main
