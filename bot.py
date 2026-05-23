@@ -1243,6 +1243,57 @@ def send_text_without_preview(text_html):
     return telegram_api("sendMessage", payload)
 
 
+
+def split_text_for_media_caption(headline, body, source_url, score, caption_limit=900):
+    clean_headline = strip_markdown(headline.strip())
+    clean_body = strip_markdown(body.strip())
+
+    safe_headline = html.escape(clean_headline)
+    if score >= 10:
+        safe_headline = f"⚡ {safe_headline}"
+
+    paragraphs = [
+        p.strip()
+        for p in re.split(r"\n\s*\n", clean_body)
+        if p.strip()
+    ]
+
+    caption_parts = [f"<b>{safe_headline}</b>"]
+    remaining_parts = []
+
+    continuation = "\n\u00A0\nПродолжение ниже ↓"
+
+    for paragraph in paragraphs:
+        safe_paragraph = html.escape(paragraph)
+        candidate = "\n\u00A0\n".join(caption_parts + [safe_paragraph]) + continuation
+
+        if len(candidate) <= caption_limit:
+            caption_parts.append(safe_paragraph)
+        else:
+            remaining_parts.append(paragraph)
+
+    caption_html = "\n\u00A0\n".join(caption_parts) + continuation
+
+    safe_source_url = html.escape(source_url.strip(), quote=True)
+    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
+
+    remaining_body = "\n\n".join(remaining_parts).strip()
+    safe_remaining_body = html.escape(remaining_body).replace("\n\n", "\n\u00A0\n")
+
+    followup_html = (
+        f"Продолжение ↓\n\u00A0\n"
+        f"{safe_remaining_body}\n\n"
+        f'<a href="{safe_source_url}">Источник</a> | '
+        f'<a href="{safe_digest_url}">WND Digest</a>'
+    )
+
+    return caption_html, followup_html
+
+
+def can_send_as_media_caption(text_html, caption_limit=950):
+    return len(text_html) <= caption_limit
+
+
 def publish_item(item):
     text_html = make_post_html(
         item["headline"],
@@ -1251,29 +1302,49 @@ def publish_item(item):
         item["score"],
     )
 
-    # If the digest is long, do NOT send a separate media preview.
-    # Separate media + separate text looks like duplicate posts.
-    if len(text_html) > 3500:
-        print("Long post: sending text only, no separate media duplicate.")
-        return send_text_without_preview(text_html)
-
     video_url = get_best_video(item["entry"], item["link"]) if "get_best_video" in globals() else None
-
-    if video_url:
-        print(f"Trying video: {video_url}")
-        ok = send_video_with_caption(video_url, text_html)
-        if ok:
-            return True
-        print("Video failed, fallback to photo.")
-
     image_url = get_best_image(item["entry"], item["link"])
 
-    if image_url:
-        print(f"Trying photo: {image_url}")
-        ok = send_photo_with_caption(image_url, text_html)
-        if ok:
-            return True
-        print("Photo failed, fallback to text.")
+    # Short post: one media post with full text and footer.
+    if can_send_as_media_caption(text_html):
+        if video_url:
+            print(f"Trying video: {video_url}")
+            ok = send_video_with_caption(video_url, text_html)
+            if ok:
+                return True
+            print("Video failed, fallback to photo.")
+
+        if image_url:
+            print(f"Trying photo: {image_url}")
+            ok = send_photo_with_caption(image_url, text_html)
+            if ok:
+                return True
+            print("Photo failed, fallback to text.")
+
+        return send_text_without_preview(text_html)
+
+    # Long post: media with first part + follow-up text with the rest.
+    if video_url or image_url:
+        caption_html, followup_html = split_text_for_media_caption(
+            item["headline"],
+            item["post_text"],
+            item["link"],
+            item["score"],
+        )
+
+        if video_url:
+            print(f"Long post: trying video with first part: {video_url}")
+            ok = send_video_with_caption(video_url, caption_html)
+            if ok:
+                return send_text_without_preview(followup_html)
+            print("Video failed, fallback to photo.")
+
+        if image_url:
+            print(f"Long post: trying photo with first part: {image_url}")
+            ok = send_photo_with_caption(image_url, caption_html)
+            if ok:
+                return send_text_without_preview(followup_html)
+            print("Photo failed, fallback to full text.")
 
     return send_text_without_preview(text_html)
 
