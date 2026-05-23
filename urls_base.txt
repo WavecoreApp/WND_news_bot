@@ -10309,3 +10309,195 @@ seen_titlehash:659affab23d40a7b2259c5bf94ae80497e70853161f03d34a9676b092da4eca7
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/05/23/apple-za-god-udalila-1213-prilozheniy-po-trebovaniyu-roskomnadzora
 title:apple за год удалила 1213 приложений по требованию роскомнадзора
+urlhash:86f8d9f342e6942ac534a65e1db1712019ceb5f67bf6e526a211561739ed5853
+titlehash:d54d7df3edd6ddc66ffab355715a9a96bfb9e79396e4f5c5b8bfa96d1db864bf
+published_url:https://aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss
+title:five police officers 13 year old boy killed in israeli attack on gaza
+urlhash:de1249b1cef8fe4332f950478f892cb30b7d9997d63fc926e037c129ea062f67
+titlehash:8d5bd2a94dd17cf9d5233de9bb7beac97f45b690b2e5a9078511351f0ea5f7ff
+published_url:https://dw.com/ru/нафтогаз-сообщает-об-атаках-рф-на-свои-объекты-под-харьковом-и-полтавой/a-77274203?maca=rus-rss-ru-all-1126-rdf
+title:нафтогаз сообщает об атаках рф на свои объекты под харьковом и полтавой
+urlhash:bea55afd6b2e5ce2b4b6a0438ece332b1d547cefc5ff39c40c972c78901d2d93
+titlehash:6f3e9999fdd415fe3efd8deeafb041887da3c2f37c8a224887a49f891ce89afc
+published_url:https://meduza.io/news/2026/05/23/germaniya-predlagaet-ukraine-stat-assotsiirovannym-chlenom-es-zelenskiy-nazval-eto-nespravedlivym
+title:германия предлагает украине стать ассоциированным членом ес зеленский назвал это несправедливым
+seen_urlhash:01d2f7dccf322cb3464f61741c55a11bacfa0bd05c1ce21ed2676b2d619302a8
+seen_titlehash:de9d2f150654ffbfbc70d7f2eeee6c50109e6386c220c80272394bc510e3e914
+seen_reason:processed_not_published
+url:https://bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss
+title:dr congo players told to isolate before world cup
+seen_urlhash:62576e4e9f4f1b44d517a7404b6871795e9fbea96510396aaf435bb9a9e5cbbe
+seen_titlehash:0fa6bc4f82344af1a0b6ac879239faefbd5dd5c74440f6e3593786dc32b8d246
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html
+title:israeli strikes pummel lebanon killing medics amid fragile truce
+seen_urlhash:9a4425cd8931d0bd673c1a8c1122e98f22b5aba43ff01a79d43dead87b5c64ee
+seen_titlehash:f0cc32674a69cb65151f4c0177a1c3eecde6d5e8d2945596bab19489fd8907f4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/europe/greece-november-17-alexandros-giotopoulos.html
+title:alexandros giotopoulos of november 17 greek militant group is freed
+seen_urlhash:1c2081e88203a1cb864f348c33b306e1871b997621a4796030179a8282bd606d
+seen_titlehash:2ce29da7e381e6c2f212a6751b012c3f4a91f1fa8c8ac7491ecbd3a1f25022f5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola
+title:white house pauses removal of detainees to the drc as ebola outbreak widens
+seen_urlhash:52f60c867be9e49e09d11de3a7544bccce0462ff1cb3ec4433e3928e3752410e
+seen_titlehash:a4416e3a6affb8b8aaf2620a688170908058d4590b070a197310f6a9128ad7ce
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo
+title:every health facility said they were full alarm over rapid spread of ebola in drc
+seen_urlhash:ac943e70e62f54cbcb4c7bbbc29a1caf11752816abf3a3ef12113976d41306dc
+seen_titlehash:7783e77c9be20860aec0f4ba468c44bd9d671273fd60d37e27224ab4bbc21804
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss
+title:israeli forces arrest two children in occupied west bank village
+seen_urlhash:8c71ea573ae7b3a2a726fdd1737b0a660136add81921a2c2b0718b7fd82504d0
+seen_titlehash:43c91e352fdaea70c25c50cbc9a332fd46f0aaeafd8caef18fc145c4b18ebb9a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss
+title:more than 500 children killed in measles outbreak in bangladesh
+seen_urlhash:2e365e1a76639d503378d63d9a6974fa5227d93fada7e5408602c1d3e6279220
+seen_titlehash:9559e18b39249045819d59aa52d5a32d1e2ce54873f787637213535281c5392f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss
+title:french open has positive meeting with players over tennis dispute
+seen_urlhash:2a371bca432199aebc607929b1e9328d5c5e98f7dd6b65f79faafb52602ff5c6
+seen_titlehash:f2ae34fdc43addbfe586234591cd1a799aac831c90aabbb43c31f2f56108cc00
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability?traffic_source=rss
+title:rising global costs threaten mexico s production costs and food stability
+seen_urlhash:739cbc375c4938ed736dc7591081557f4caa25474d5a75fdb0f2d07e2eb9b9c8
+seen_titlehash:d57bc6186ab8b70b78411989026b32f0b40917c48a4680e6e70b90874887cd19
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss
+title:turkish and syrian officials detain 10 individuals with alleged isil ties
+seen_urlhash:6cbff647e6bb180c674b9a12b6db07c5f3b026388aa6a5d7d7534cc95f342e51
+seen_titlehash:c4e30fa1cf30ebb9e5809546e5ca149ba7ea689ee0074d026481e1cf81bbf745
+seen_reason:processed_not_published
+url:https://france24.com/en/ebola-epidemic-threatens-ten-african-countries-africa-cdc
+title:ebola epidemic threatens ten african countries in addition to drc and uganda
+seen_urlhash:1ede4d5976bf5dfffbc3d48c6bd4f1bdbe0c3a073150bbbbdc22bef3b1680be7
+seen_titlehash:f96254d6509576fc327e9fff1a1cc6a76bb33753a04ac72602e4eff6c025e8f4
+seen_reason:processed_not_published
+url:https://france24.com/en/uganda-health-authorities-confirms-new-ebola-cases-linked-to-dr-congo
+title:uganda health authorities confirms new ebola cases linked to dr congo
+seen_urlhash:dfdb6231bef593fab6416858b1283fec0b34bf4050a0eea04fb96f9b9e48ae10
+seen_titlehash:e0a8bda9f66a27e60cf404d2262b57d4d8fbbab4f8e44f31cfb75e8f0e34baf6
+seen_reason:processed_not_published
+url:https://france24.com/en/coal-mine-explosion-in-china-kills-90-people-state-media-say
+title:coal mine explosion in china kills 90 people state media say
+seen_urlhash:3f7b083c94e97d48f20c293ac24b31d8aea96e34ec44c3415ca39edbad8136a1
+seen_titlehash:7b65805146006bfaeda0c2b6fdcb861b7c104229905ce466645bae4a4179e8b5
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260523-ebola-who-raises-health-risk-to-very-high-in-dr-congo-and-new-cases-in-uganda
+title:ebola who raises health risk to very high in dr congo and new cases in uganda
+seen_urlhash:8e883884966ec81590d77c105d6016dadb5e1a8b5d60e9f060f1452a42e1c722
+seen_titlehash:2dc1edb19d2cc4b9e87077acfcb01fef96d20e5694495eadcbf1d3ad84fbfaa4
+seen_reason:processed_not_published
+url:https://france24.com/en/russia-says-16-killed-in-strike-on-student-dorm-that-it-blamed-on-ukraine
+title:russia says 16 killed in strike on student dorm that it blamed on ukraine
+seen_urlhash:f5f296967fc522bc19f2c56650821b24d810af3ca87014e56bb1875e6cbdce7f
+seen_titlehash:952864a49b8b592b659137b3edaee9112920b812eb20154bbf9e20fc34e08287
+seen_reason:processed_not_published
+url:https://france24.com/en/deadliest-coal-mine-explosion-in-china-in-years-kills-90-people-state-media-say
+title:deadliest coal mine explosion in china in years kills 90 people state media say
+seen_urlhash:c5c7a8d7beed766acee053ecf24d5674607ced1564dfadddcec986e76f4ddfed
+seen_titlehash:1eed9fbc9c29c7e7f9c8de6cec1f3c1393369f10e757a31e82eaf8ee29466575
+seen_reason:processed_not_published
+url:https://france24.com/en/police-protesters-clash-in-new-marches-against-bolivian-leader
+title:police protesters clash in new marches against bolivian leader
+seen_urlhash:6105df98a6fab7ec6472a53ff6adf41abb0955d6ac829b8ba66f0dcbc0103802
+seen_titlehash:5834d459d71487705857cbd1b46112a72bc2bca5705db7f757deac8b43df6ec8
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260523-uganda-confirms-three-new-ebola-cases-as-africa-cdc-warns-10-countries-at-risk
+title:uganda confirms three new ebola cases as africa cdc warns 10 countries at risk
+seen_urlhash:fb74083238796b45ab74716193ba2176f8c74782e3bcec2757cd648291d43989
+seen_titlehash:ab05ab597f5946f500224394fdae02bc552eadb05d5569614e5f312d4ede2c94
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/uk/indian-origin-cancer-specialist-banned-from-practising-in-uk-says-i-will-never-work-in-that-country-again/articleshow/131280538.cms
+title:indian origin cancer specialist banned from practising in uk says i will never work
+seen_urlhash:c4b3db32660aa577156ac485c2f84305cc5f828b6f7c520bd4d33162448f398c
+seen_titlehash:e63ba78f3371c5544eef3b7b64ac295fe625c9549003a1395c9bae85c90068b1
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/hindus-and-muslims-teaming-up-to-take-over-texas-jan-6-rioters-hate-speech-at-frisco-council-meeting/articleshow/131281621.cms
+title:hindus and muslims teaming up to take over texas jan 6 rioter s hate speech at frisco council meeting
+seen_urlhash:839108cfdadd207983e208e5dbb2223c1d0564293b3c47079b2e53c29772d364
+seen_titlehash:3efd286263dc96cc2c344c18458aa4c9d19f9c0053f32500f3b079a8afb0a0a0
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/watch-pentagon-releases-video-showing-us-jet-taking-down-mysterious-object-in-second-tranche-of-ufo-files/articleshow/131281008.cms
+title:watch pentagon releases footage of us jet shooting down mysterious ufo
+seen_urlhash:4134ead9e104958fbc92b27917e80798e9ec1e560a702a2267cd683560affade
+seen_titlehash:7b10cc8fdd8b624924e7480360413070e8dd53b7b28861ba01c64672c021a669
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/do-not-invite-why-donald-trump-offboarded-tulsi-gabbard/articleshow/131280699.cms
+title:do not invite why donald trump offboarded tulsi gabbard
+seen_urlhash:4faa17ec75b73cf2f5bbc8da9c4f61f0d1c2cbac09c2b04a99fd5f26197fab24
+seen_titlehash:9b29750a2de9e338c6926a5d09472ba39963ddf8bed2f37c110e48c25322d742
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-worker-killed-by-falling-branch-in-new-zealand-wife-left-completely-alone-without-money/articleshow/131280337.cms
+title:indian origin worker killed by falling branch in nz wife left completely alone
+seen_urlhash:22a1b34c3fced859bcd0e085f590124bc2fcf911d03e91b11e98cb4392f44b91
+seen_titlehash:9ffbf209aec69598a02ca35fd8ca99ec9e152a09756a35d704d73abd3fdc06ba
+seen_reason:processed_not_published
+url:https://dw.com/ru/мчс-число-жертв-удара-по-старобельску-возросло-до-18-человек/a-77274085?maca=rus-rss-ru-all-1126-rdf
+title:мчс число жертв удара по старобельску возросло до 18 человек
+seen_urlhash:4904782bc4e6eea18488e12fd515f055cb8509d561a18d5ad2855a14e852dc60
+seen_titlehash:e58956c690a9f7de0058e9fd535a70d7414d848e0c8257f6735f42eae625abc2
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-мадриде-прошел-антиправительственный-марш-достоинства/a-77273457?maca=rus-rss-ru-all-1126-rdf
+title:в мадриде прошел антиправительственный марш достоинства
+seen_urlhash:4783c022eae49dd51a2717cb655c23d0892b85f7e2d8faee6145176e5cf68b8e
+seen_titlehash:ac5db4bb0e56e894f09e8f92c954e616fc09b1c6a0aed4deee70a344cb6c9528
+seen_reason:processed_not_published
+url:https://dw.com/ru/франция-запретила-въезд-министру-нацбезопасности-израиля-итамару-бен-гвиру/a-77273560?maca=rus-rss-ru-all-1126-rdf
+title:франция запретила въезд министру нацбезопасности израиля итамару бен гвиру
+seen_urlhash:f8708b4692b6013d4161179e3f8938529e2527d70b7acc0bff49f3083a379724
+seen_titlehash:f758ef4052479e6b47f33b29b682a853f49f2e66494f439029d355f2c3afb449
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership
+title:зеленский отверг предложение мерца украина заслуживает полноправного членства в ес
+seen_urlhash:e08f1fe2c13ecae49275aa1222cd5c7135625d6b5ae44c6b1072a626c5093894
+seen_titlehash:beaec0648743d5923d6544744043cee99408f1b85e6ea7adc13edf818df81a48
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/23/ukraine-war-saturday-update
+title:украина нанесла удары по энергетическим и промышленным объектам в рф
+seen_urlhash:644f7e5b36d158e49ff59677bf446ea52799cf92140b9121839360b725c57604
+seen_titlehash:ac5db4bb0e56e894f09e8f92c954e616fc09b1c6a0aed4deee70a344cb6c9528
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/05/23/france-bans-israeli-minister-ben-gvir-from-entering-country
+title:франция запретила въезд министру нацбезопасности израиля итамару бен гвиру
+seen_urlhash:33b515cc72c36d546e279009c459d2a50cef9bccbf7a6fe650249920d3b6868d
+seen_titlehash:2a23daf7f77007891bb9578ffc4d782e2447c062bd7b89ef2478da75c045d531
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/23/soviet-shells-found-in-berlins-forest
+title:полторы тонны советских боеприпасов обнаружены в лесу под берлином
+seen_urlhash:f7589dc4b4e7800182350ed8f6444701b0581371a5260cc107b5f3bf3c5b101f
+seen_titlehash:af9f3058d9af049001c8fe4802e602952a804f5d2a4c54f938d47507d5c91ebd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/23/uproar-as-paris-attacks-coordinator-mohamed-bakkali-granted-prison-leave
+title:координатору парижских терактов разрешили краткосрочные выходы из бельгийской тюрьмы
+seen_urlhash:e338f0cd0d819854b56c0118962769d241f414edaea317227aa9bd95fc54d4c7
+seen_titlehash:cca7e3a3cd449c6e232ef6cf6a08f7402a6308d8c6836433d731c1ce7ee19a12
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/05/23/ya-azimov-memuary-avtobiografiya-velikogo-pisatelya-kotoraya-daet-otvet-na-vopros-kak-emu-udalos-napisat-bolshe-500-knig
+title:я азимов мемуары автобиография великого писателя которая дает ответ на вопрос как ему удалось написать больше 500 книг а еще она показывает как азимов превратил научную фантастику из бульварного чтива в целую индустрию
+seen_urlhash:dfcf189ceb606e8291db2f9e8fd0383acfe939a26010e564662e841a80207637
+seen_titlehash:d63d6b2b26bea2f5e2c13dda1133f02a160e08de55aeb63a02674abb5b5444f9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/23/zvyagintsev-predlozhil-smotret-minotavr-v-rossii-nelegalno-poskolku-drugogo-puti-u-filma-net
+title:звягинцев предложил смотреть минотавр в россии нелегально поскольку другого пути у фильма нет
+seen_urlhash:1ebd5abbafa096a460e041a599ecbf4d30209e9f81a410d1f3ad6659a4ac25a6
+seen_titlehash:611e2f3b039cfdde6398a007a3ff901ff2d3ed196526313ebbcab34102cfb30d
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/05/23/v-rossii-ya-vsegda-znal-chto-delat-a-za-granitsey-nahodishsya-v-rezhime-ozhidaniya
+title:в россии я всегда знал что делать а за границей находишься в режиме ожидания каждый год антивоенный комитет россии проводит конференцию а зачем она собственно нужна репортаж медузы
+seen_urlhash:63437a5e37fdc9c9a061a620f744feb977d14423599422b79a669217039e76b4
+seen_titlehash:0de3e74555b643df32bcdfb43063b764dc0468b5cfd5f4b0158568f08b3741bb
+seen_reason:processed_not_published
+url:https://ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85
+title:us and iran move closer to extending ceasefire by 60 days say mediators
+seen_urlhash:be49d066f31fe2b80d22c34332b93ec06f7b30cad913955064080e7fe551e765
+seen_titlehash:fba28b18685d7230e34e9d45b00e8208c4e3cbab1a4097ded32b2361db7140e9
+seen_reason:processed_not_published
+url:https://ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184
+title:uber and doordash sound out investors for delivery hero bid
