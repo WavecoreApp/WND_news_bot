@@ -226,6 +226,48 @@ def is_valid_russian_rewrite(headline, post):
     return len(cyr_words) >= max(3, len(latin_words))
 
 
+
+# =========================
+# HARD CONTENT FILTERS
+# =========================
+
+BLOCKED_CATEGORIES = {
+    "sport", "sports", "football", "soccer", "basketball", "tennis", "cricket",
+    "baseball", "hockey", "golf", "formula 1", "f1", "boxing", "mma",
+    "entertainment", "celebrity", "celebrities", "movies", "film", "music",
+    "gaming", "games", "culture", "lifestyle", "travel", "fashion", "food",
+    "recipe", "horoscope", "weather", "opinion", "review",
+}
+
+BLOCKED_KEYWORDS = [
+    "champions league", "premier league", "world cup", "football", "soccer",
+    "match", "final", "semi-final", "quarter-final", "coach", "player",
+    "club", "team", "goal", "league", "tournament", "cup final",
+    "caf", "fifa", "uefa", "nba", "nfl", "mlb", "nhl", "ipl",
+    "cannes", "film festival", "movie", "actor", "actress", "celebrity",
+    "album", "concert", "trailer", "series finale", "netflix",
+    "coupon", "coupons", "promo code", "discount", "deal", "deals", "sale",
+    "shopping", "buy now", "best price", "gift guide", "black friday",
+    "cyber monday", "save up to",
+    "футбол", "матч", "финал", "лига чемпионов", "турнир", "кубок",
+    "тренер", "игрок", "клуб", "команда", "гол",
+    "скидка", "купон", "промокод", "распродажа", "акция",
+    "кинофестиваль", "фильм", "актер", "актриса", "знаменитость",
+]
+
+def is_blocked_news_item(title, summary, category=""):
+    category_l = str(category or "").lower().strip()
+    if category_l in BLOCKED_CATEGORIES:
+        return True, f"category:{category}"
+
+    blob = f"{title} {summary}".lower()
+
+    for keyword in BLOCKED_KEYWORDS:
+        if keyword in blob:
+            return True, f"keyword:{keyword}"
+
+    return False, ""
+
 # =========================
 # DATABASE / DUPLICATES
 # =========================
@@ -331,6 +373,11 @@ def collect_candidates_by_source(sources, published_url_hashes, published_title_
                 summary = clean_text(entry.get("summary", entry.get("description", "")))
 
                 if not link or not title:
+                    continue
+
+                blocked, blocked_reason = is_blocked_news_item(title, summary)
+                if blocked:
+                    print(f"Blacklisted at collection [{blocked_reason}]: {title}")
                     continue
 
                 normalized_title = normalize_title(title)
@@ -725,6 +772,16 @@ def score_source_items(source_url, items):
 
             item["score"] = max(1, min(10, score))
             item["category"] = str(result.get("category", "other"))
+
+            blocked, blocked_reason = is_blocked_news_item(
+                item.get("title", ""),
+                item.get("summary", ""),
+                item.get("category", ""),
+            )
+            if blocked:
+                print(f"Blocked after scoring [{blocked_reason}]: {item['title']}")
+                continue
+
             item["theme_key"] = normalize_title(str(result.get("theme_key", ""))) or item["normalized_title"][:80]
             item["score_reason"] = str(result.get("reason", ""))
 
@@ -1141,26 +1198,6 @@ def make_post_html(headline, body, source_url, score):
     )
 
 
-def make_media_caption_html(headline, source_url, score):
-    clean_headline = strip_markdown(headline.strip())
-
-    safe_headline = html.escape(clean_headline)
-
-    if score >= 10:
-        safe_headline = f"⚡ {safe_headline}"
-
-    safe_source_url = html.escape(source_url.strip(), quote=True)
-    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
-
-    return (
-        f"<b>{safe_headline}</b>\n\n"
-        f'<a href="{safe_source_url}">Источник</a> | '
-        f'<a href="{safe_digest_url}">WND Digest</a>'
-    )
-
-
-
-
 def send_video_with_caption(video_url, caption_html):
     payload = {
         "chat_id": TELEGRAM_CHANNEL_ID,
@@ -1214,42 +1251,29 @@ def publish_item(item):
         item["score"],
     )
 
-    media_caption_html = make_media_caption_html(
-        item["headline"],
-        item["link"],
-        item["score"],
-    )
+    # If the digest is long, do NOT send a separate media preview.
+    # Separate media + separate text looks like duplicate posts.
+    if len(text_html) > 950:
+        print("Long post: sending text only, no separate media duplicate.")
+        return send_text_without_preview(text_html)
 
     video_url = get_best_video(item["entry"], item["link"]) if "get_best_video" in globals() else None
 
     if video_url:
         print(f"Trying video: {video_url}")
-
-        ok = send_video_with_caption(video_url, media_caption_html)
-
+        ok = send_video_with_caption(video_url, text_html)
         if ok:
-            # If the full article is too long for a Telegram caption, send it as a separate message.
-            return send_text_without_preview(text_html)
-
+            return True
         print("Video failed, fallback to photo.")
 
     image_url = get_best_image(item["entry"], item["link"])
 
     if image_url:
         print(f"Trying photo: {image_url}")
-
-        ok = send_photo_with_caption(image_url, media_caption_html)
-
+        ok = send_photo_with_caption(image_url, text_html)
         if ok:
-            # Send the long digest text separately so photos are still used even for long articles.
-            return send_text_without_preview(text_html)
-
+            return True
         print("Photo failed, fallback to text.")
-
-    ok = send_text_without_preview(text_html)
-
-    if ok:
-        return True
 
     return send_text_without_preview(text_html)
 
