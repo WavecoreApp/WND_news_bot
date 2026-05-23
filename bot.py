@@ -143,7 +143,8 @@ def normalize_url(url):
     blocked_prefixes = ("utm_",)
     blocked_keys = {
         "fbclid", "gclid", "mc_cid", "mc_eid", "cmpid",
-        "ocid", "smid", "ref", "ref_src", "ito"
+        "ocid", "smid", "ref", "ref_src", "ito",
+        "traffic_source", "output", "rss", "source"
     }
 
     query = []
@@ -846,6 +847,43 @@ def score_and_select_per_source(groups):
     return selected_all, processed_all
 
 
+
+def canonical_news_key(text):
+    value = normalize_title(text)
+
+    noise_words = [
+        "newsfeed", "video", "watch", "live", "updates", "latest",
+        "breaking", "exclusive", "analysis", "explainer",
+        "says", "said", "after", "amid", "over", "during",
+    ]
+
+    words = [
+        w for w in value.split()
+        if len(w) > 2 and w not in noise_words
+    ]
+
+    return " ".join(words)
+
+
+def item_quality_score_for_dedupe(item):
+    score = int(item.get("score", 0)) * 100
+
+    link = item.get("link", "").lower()
+    title = item.get("title", "").lower()
+    summary = item.get("summary", "")
+
+    if "/video/" in link or "newsfeed" in link or "video" in title:
+        score -= 120
+
+    score += min(len(summary), 1000) // 20
+
+    domain = item.get("domain", "")
+    if any(d in domain for d in ["bbc.com", "apnews.com", "reuters.com", "theguardian.com", "aljazeera.com"]):
+        score += 20
+
+    return score
+
+
 # =========================
 # THEME DEDUPE
 # =========================
@@ -858,11 +896,12 @@ def dedupe_themes(items):
     if not items:
         return []
 
-    items = sorted(items, key=lambda x: x.get("score", 0), reverse=True)
+    items = sorted(items, key=item_quality_score_for_dedupe, reverse=True)
 
     selected = []
     theme_keys = []
     title_keys = []
+    combined_keys = []
     domain_counts = {}
 
     for item in items:
@@ -870,19 +909,28 @@ def dedupe_themes(items):
         if domain_counts.get(domain, 0) >= MAX_POSTS_PER_DOMAIN:
             continue
 
-        theme_key = normalize_title(item.get("theme_key", "")) or item.get("normalized_title", "")
-        title_key = item.get("normalized_title", normalize_title(item.get("title", "")))
+        theme_key = canonical_news_key(item.get("theme_key", "")) or canonical_news_key(item.get("title", ""))
+        title_key = canonical_news_key(item.get("title", ""))
+        combined_key = canonical_news_key(
+            f"{item.get('title', '')} {item.get('summary', '')}"
+        )
 
         duplicate = False
 
         for old_theme in theme_keys:
-            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.72:
+            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.62:
                 duplicate = True
                 break
 
         if not duplicate:
             for old_title in title_keys:
-                if theme_similarity(title_key, old_title) >= 0.68:
+                if title_key and old_title and theme_similarity(title_key, old_title) >= 0.58:
+                    duplicate = True
+                    break
+
+        if not duplicate:
+            for old_combined in combined_keys:
+                if combined_key and old_combined and theme_similarity(combined_key, old_combined) >= 0.55:
                     duplicate = True
                     break
 
@@ -893,6 +941,7 @@ def dedupe_themes(items):
         selected.append(item)
         theme_keys.append(theme_key)
         title_keys.append(title_key)
+        combined_keys.append(combined_key)
         domain_counts[domain] = domain_counts.get(domain, 0) + 1
 
     if MAX_NEWS_PER_RUN > 0:
@@ -900,8 +949,6 @@ def dedupe_themes(items):
 
     print(f"After theme dedupe: {len(selected)} stories")
     return selected
-
-
 
 # =========================
 # ARTICLE TEXT EXTRACTION
