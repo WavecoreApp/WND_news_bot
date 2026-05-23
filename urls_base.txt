@@ -10639,3 +10639,11 @@ seen_titlehash:f84173bf0cc3ece656f384aaea3448d6de747f3ef13c845cb1d01e297721d6fb
 seen_reason:processed_not_published
 url:https://timesofindia.indiatimes.com/world/us/becoming-a-permanent-resident-in-the-us-list-of-top-10-countries-that-obtain-maximum-green-cards/articleshow/131284823.cms
 title:becoming a permanent resident in the us list of top 10 countries that obtain maximum green cards
+urlhash:c81853d42606bc4eabff2099b3f0dba8f276d34dd5b0cc190bcbc1c91c6cf641
+titlehash:7004aac04a2de0b2d06c76a7c635291a582cd4e24b03b3392ef5d8db9f99b779
+published_url:https://aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss
+title:police beat and detain gaza flotilla activists at airport
+urlhash:b0e64378852b5a998fd60e55c28345d3a29ad8868c8bf60c7e8cec7e283ba1b7
+titlehash:100e6f43026c1630f2908cd908b6ef187d8b04b81c95a766e0f002a9f2bc062b
+published_url:https://france24.com/en/video/20260523-senegal-s-president-faye-sacks-pm-sonko-after-months-of-tension
+title:senegal s president faye sacks pm sonko after months of tension
