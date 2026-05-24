@@ -234,54 +234,41 @@ def is_valid_russian_rewrite(headline, post):
 # =========================
 
 BLOCKED_CATEGORIES = {
-    "sport", "sports", "football", "soccer", "basketball", "tennis", "cricket",
-    "baseball", "hockey", "golf", "formula 1", "f1", "boxing", "mma",
-    "entertainment", "celebrity", "celebrities", "movies", "film", "music",
-    "gaming", "games", "lifestyle", "travel", "fashion", "food",
-    "recipe", "horoscope", "review",
+    "coupon", "coupons", "shopping", "deals", "promotions", "affiliate", 
+    "casino", "betting", "gambling",
 }
 
 BLOCKED_KEYWORDS = [
+
     # obvious sports
     "champions league", "premier league", "world cup", "fifa world cup",
     "women's champions league", "uefa champions league", "caf champions league",
-    "nba finals", "french open", "wimbledon", "super bowl", "grand prix",
-    "formula 1", "f1 race", "ipl match", "cricket match", "football match",
+    "nba finals", "super bowl", "grand prix",
+    "ipl match", "cricket match", "football match",
     "soccer match", "tennis match", "basketball game", "baseball game",
-    "hockey game",
+    "hockey game", "match preview", "match report", "starting lineup",
+    "transfer window", "transfer rumours", "fantasy football",
+    "live score", "league table", "playoffs", "quarter-final",
+    "semi-final", "final score", "season opener",
 
-    # obvious entertainment/culture
-    "cannes film festival", "palme d'or", "film festival", "movie review",
+    # obvious entertainment/culture spam
     "movie trailer", "box office", "celebrity gossip", "red carpet",
-    "album review", "concert tour", "netflix trailer", "series finale",
+    "album review", "concert tour", "netflix trailer",
+    "tv series", "reality show", "streaming platform",
 
     # obvious shopping/affiliate/promos
     "coupon code", "promo code", "discount code", "voucher code",
-    "best deals", "daily deals", "limited-time deal", "limited time deal",
-    "black friday", "cyber monday", "prime day", "gift guide",
-    "buying guide", "shopping guide", "save up to", "cashback", "cash back",
-    "affiliate link", "sponsored post",
+    "black friday", "cyber monday", "limited-time deal", "limited time deal",
+    "shop now", "buy now", "special offer", "flash sale",
+    "affiliate link", "sponsored post", "cashback", "trip.com", "AnimeJapan"
 
-    # gambling/betting
-    "betting odds", "sports betting", "place your bets", "casino bonus",
-    "bookmaker", "bookmakers", "oddschecker",
+    # gambling / betting
+    "betting odds", "sports betting", "online casino",
+    "jackpot", "slot machine", "poker tournament",
 
-    # Russian obvious sports
-    "лига чемпионов", "чемпионат мира по футболу", "кубок мира",
-    "футбольный матч", "баскетбольный матч", "теннисный матч",
-    "формула-1", "гран-при", "финал лиги чемпионов",
-
-    # Russian obvious entertainment/culture
-    "каннский кинофестиваль", "золотая пальмовая ветвь", "кинофестиваль",
-    "трейлер фильма", "рецензия на фильм", "красная дорожка",
-
-    # Russian shopping/promos
-    "промокод", "купон на скидку", "скидочный купон", "черная пятница",
-    "чёрная пятница", "киберпонедельник", "лучшие скидки", "подарочный гид",
-    "партнерская ссылка", "партнёрская ссылка",
-
-    # Russian gambling/betting
-    "ставки на спорт", "букмекер", "букмекеры", "коэффициенты букмекеров",
+    # low-value clickbait
+    "you won't believe", "viral video", "top 10",
+    "best moments", "must watch", "internet reacts",
 ]
 
 def is_blocked_news_item(title, summary, category=""):
