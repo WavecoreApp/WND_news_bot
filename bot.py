@@ -62,7 +62,7 @@ GROQ_REWRITE_MODEL = os.getenv("GROQ_REWRITE_MODEL", "openai/gpt-oss-120b")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 
 # Important:
-# 25 means: from every RSS source, keep the best 25% of NEW items from that source.
+# Source top-percent cutting is disabled; this variable is kept only for compatibility.
 TOP_PERCENT_PER_SOURCE = env_int("TOP_PERCENT_PER_SOURCE", 25)
 SOURCE_MIN_TAKE = env_int("SOURCE_MIN_TAKE", 1)
 
@@ -839,15 +839,12 @@ def take_top_percent_from_source(scored):
     if not scored:
         return []
 
-    take_count = max(SOURCE_MIN_TAKE, math.ceil(len(scored) * TOP_PERCENT_PER_SOURCE / 100))
-    take_count = min(take_count, len(scored))
+    # Top-percent source cutting is disabled.
+    # Keep all scored candidates; later filters still apply:
+    # blacklist, score/category, theme dedupe, rewrite validation, and MAX_NEWS_PER_RUN.
+    selected = scored
 
-    selected = scored[:take_count]
-
-    print(
-        f"Top {TOP_PERCENT_PER_SOURCE}% from source: "
-        f"{len(selected)}/{len(scored)} selected"
-    )
+    print(f"Top-percent filter disabled: {len(selected)}/{len(scored)} selected")
 
     return selected
 
@@ -1469,7 +1466,7 @@ def main():
 
     selected_by_source, processed_items = score_and_select_per_source(groups)
 
-    print(f"Selected by top {TOP_PERCENT_PER_SOURCE}% per source: {len(selected_by_source)}")
+    print(f"Selected after source scoring: {len(selected_by_source)}")
 
     if not selected_by_source:
         print("No selected news after source selection.")
