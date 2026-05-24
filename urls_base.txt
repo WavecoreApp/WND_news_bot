@@ -1,71 +1,3 @@
-seen_urlhash:c8c416606ef2506f2fcf66b5ec5b2ba24ee382417049bfd59d2df339a788f76a
-seen_titlehash:b06f25bdbc625c6327f0b144ea2200c5d7d5fb575f1bf2f091d19d1ad85253d0
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/05/21/rossiyskie-voyska-nanesli-udar-po-dnepru-povrezhdeny-dva-mnogoetazhnyh-doma-est-ranenye
-title:российские войска нанесли удар по днепру повреждены два многоэтажных дома есть раненые
-seen_urlhash:349f0960722b22e449a6a1ee1e37059aa43825ff9e1bcee51c31670a7c6a05f9
-seen_titlehash:b390b5339ef0174f9d172952eba3b3e334cb0b349fd31b54b18db4dae2d10ffd
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/05/21/v-rossii-zaderzhali-dvuh-muftiev-duhovnogo-upravleniya-musulman-odnogo-zapodozrili-vo-vzyatke-vtorogo-v-nepovinovenii-politsii
-title:еще одна очень странная история в россии задержали сразу двух муфтиев духовного управления мусульман одного подозревают во взятке второго в неповиновении полиции возможно задержанных больше что происходит непонятно
-seen_urlhash:c5b3d0dc2e4a02c588ca46e8130edce162e68f57b16976230d1d3f0867b4b8cf
-seen_titlehash:f9ba871aff16ffa65db39e585f704889a05274ca6a3b26e6f2850eae0a0d66c3
-seen_reason:processed_not_published
-url:https://ft.com/content/2911c03a-4387-4545-a0c1-ef71b07294a5
-title:five arrested over claims of electoral fraud in angela rayner s constituency
-seen_urlhash:5cdb4f77402dc854ef165b775559c923c4539014d88c137392f0129c6a33d890
-seen_titlehash:b34c0deebc9ce00a988be14f93e15b063a4a0bad368a92d7ec7d97acd6dc2f75
-seen_reason:processed_not_published
-url:https://ft.com/content/a3bd64a7-069b-4da3-9083-4bce08bb5c44
-title:euan blair s multiverse needs improvement says english education watchdog
-seen_urlhash:7388ede1e5429d9272979e73cb9415d2cf2962e57690f6d0144655ead417e88f
-seen_titlehash:cdfba323a1f0e9b3aec2852a35ecd79d7a8e5ea2d79865f8b05f0cd6f9585f0a
-seen_reason:processed_not_published
-url:https://ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb
-title:six takeaways from musk s 200 000 word planetary vision
-seen_urlhash:069a7b589219b85e682783e87eeaa5752035253a080a43ccc37159b6c31b1966
-seen_titlehash:fd04a0daf7c68cc84ab14cfe727739bc402b22c20fcd753e56d5131aaf9339f7
-seen_reason:processed_not_published
-url:https://ft.com/content/8009bb5d-b142-4bd2-b7b4-1234a06d2858
-title:turkey passes tax amnesty as war strains economy
-seen_urlhash:e94a2a15bb897722fb997a18ed814520dcafef9cf36081b1d7143e47ea6fdff5
-seen_titlehash:bb064a30be77818b10de11b9973365fd6a4a5887eab66391387e1a33e6bd7b95
-seen_reason:processed_not_published
-url:https://ft.com/content/064ce1dc-b811-4c69-b217-0250405fc030
-title:post office replaces fujitsu after horizon scandal
-seen_urlhash:b1a39926c28a5b4da9ec867b23f9e4f853a1c2675adf25e61eaa4dcb7bf85ed0
-seen_titlehash:a600f6c6fd00237abf931e7b5da81a0ae76ca4f27028a46c9011a7fd6af64a8b
-seen_reason:processed_not_published
-url:https://ft.com/content/4d914050-e61b-4bc5-adb3-9d6e6f4a6cfb
-title:liv golf offers players equity as it fights for survival
-seen_urlhash:993232dc36941ca3de98965d3317c1da9db688096405c7f9df063680c5fc269f
-seen_titlehash:4705747d5c2b683e01e92cbbacbbe390ef8d20b317e05c9a2ad83409c300a234
-seen_reason:processed_not_published
-url:https://ft.com/content/616b54fc-e750-4c90-9798-405355542eb4
-title:uk energy regulator warns traders against gaming the interconnector market
-seen_urlhash:10a54aef2aab886a99c7acdcea82b120ff7ce5fc147ffeefc89bc99cf85c6a13
-seen_titlehash:c87e159bae14718ea2d454845555dbb4ae35faba75ed883877104fa1f26299dc
-seen_reason:processed_not_published
-url:https://ft.com/content/f9d3653a-42e3-4296-be81-b7fa4f16b624
-title:london mayor blocks the met s 50mn palantir deal
-seen_urlhash:a8617d6a3e5a912bb152b1abf3bde6a7a29f377908505972ee87e4c7f349f749
-seen_titlehash:81f1e5386b8ba985ba9b6f0c975a80c8a88df6ffa92f3427987b5ab5dc467027
-seen_reason:processed_not_published
-url:https://ft.com/content/ba9dc280-6b1f-4c2f-ba5e-f7e31d36c05f
-title:the supreme court turns its back on 60 years of black enfranchisement
-urlhash:31dac168dfc762bbbccd051cbeba275ee43c8f8a8c2c377df7cfae108f5ba48f
-titlehash:fec44d1bb9c8dded76b3dec421b556ad6ec3f04e176d09e2892b04302b95d3dd
-published_url:https://aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss
-title:putin and lukashenko monitor joint russia belarus nuclear exercises
-urlhash:233d73e20e8e06bffff015f1bba2e7980c5b7b41d399f827f727653e461f33e7
-titlehash:be81c798dabf0e0f0ca00ec95102210234ef6da32fbded50df5e33636f3bf01c
-published_url:https://nytimes.com/2026/05/21/world/europe/germany-murder-plot-iran.html
-title:germany indicts two men for plotting to kill jewish leaders on iran s behalf
-urlhash:15dc506cdec162a2ec0b517e392f6692a5a35d8e7d3c8a587627711f4d872739
-titlehash:aeaa9aa29c7e3f08a631302d3c272be1833a19f1d99e4633bab83e5fd2078980
-published_url:https://aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss
-title:lingering shock from tragedy weeks after minab school bombing
-urlhash:09a7455b66ce001fdc40878893d7c25de022e093ac0b56e73764a965260c6456
 titlehash:75d3c492adb1002a0af858f45f48f30d5de5d990c8c1010ee2832eb7499df7a8
 published_url:http://ru.euronews.com/my-europe/2026/05/21/germany-iranian-agents
 title:предполагаемые агенты ирана готовили теракты против евреев в германии
@@ -4998,3 +4930,71 @@ seen_titlehash:87a08cfafdc3409e4005bd60c2162a79a1f49757de48504ee61e3b28d180e86d
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/05/24/thousands-gather-in-madrid-demanding-the-resignation-of-spanish-prime-minister-pedro-sanch
 title:в мадриде тысячи людей требуют отставки премьера педро санчеса
+urlhash:9050e317b786f7cafee564f88b72ac5ee87a2f3ab6fca96c596d530cd07a5cc1
+titlehash:0cb48cd6256877a918cf3c601fbecaa5e6e10b4da0653e4df7f69becdb77dec8
+published_url:https://aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss
+title:ebola spreads in the drc as authorities struggle to contain outbreak
+urlhash:cf8fba27657b928996bf43f7695507417c586b036d0b71c3faa8fdd260c4142d
+titlehash:6c0412e245f70f8a727ff9f75b76f7698db8bfd058281ea0e9113de1753bef65
+published_url:https://france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes
+title:we don t know what the death toll among military personnel is kyiv reels from russian strikes
+seen_urlhash:3b5597b5f2458c665868a0a855b29b6fc51488ddb73bba897953b9a408a926ea
+seen_titlehash:006ea06eddfdfc3af2e20277f4b6b11f5706c22e279fb66f10c1eebbeaea58d8
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss
+title:she was told to marry in a country which bans girls education so she got in a taxi and fled
+seen_urlhash:1199865b85a2b81aebff55d3e9b0e20c9ca9575829bf5a76f77394c9b91f970a
+seen_titlehash:6696d8ef284cd082bc73b58eded700f997d34ad63a49d514b3b8f5ef766332f4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html
+title:the oscars start at cannes
+seen_urlhash:310c753ce5ed737dc50238c3357a2f630aac7f1c17723d2c972a4559464ff76a
+seen_titlehash:d49882c02b367f0fd124d85ce1dfa184015ad5560db694081c9347a0157ee48e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html
+title:israel s president isaac herzog denounces israeli violence
+seen_urlhash:b58dd2ec1fc60178c2eea63ddc1a27818b136748d6f14e198b3edb0bb08f6d9a
+seen_titlehash:8fd09c5310aed1ad35ff776588e61b832f703796a0c9b4865d99e97021aeaf62
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html
+title:caught flat footed a city races to catch up with ebola
+seen_urlhash:470ceaa9a684809ab0f478b041fc171ba6acb82d3db60f3bfb1e73b5a3de9e98
+seen_titlehash:48ec8c0ad5b6605f46cd8f293fae0d811c721b2d4c44fe7bd2641b5f447a7763
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb
+title:australia politics live speculation teals may form new party gaza flotilla activists arrive home
+seen_urlhash:5257040f7bb7f3fb70359bbc7bc612c98e1267ffd4dfb8cec299aabad9a08250
+seen_titlehash:65abb0881ffc5edf02de2bb2594530fd72e2189c3cb54b8d089d46650be4432d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/may/25/labor-urged-to-use-anti-corruption-commission-appointment-to-restore-public-confidence-in-watchdog
+title:labor urged to use anti corruption commission appointment to restore public confidence in watchdog
+seen_urlhash:d0f4d3c4728ba5f02918093e207e43d01bc8b157ad4fde1f6f96735e30106810
+seen_titlehash:04df9f3779f7b8b70ddcc59f8148707cc45d26733c8fad1cdf978541f5bc956e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss
+title:pakistan s eid livestock traders losing as war on iran pushes up prices
+seen_urlhash:b4b823c143627bafef96bc31e93263a54c8bee484488d38472a74ac7fee5e2f0
+seen_titlehash:a999a7dbe391e313d208c63e15e5bcee8f46b7133f361b7bda390431a3df735f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss
+title:senegal parliament speaker steps down as political crisis worsens
+seen_urlhash:c1d9939563942dc951c69bafe639e98bd1df4590843faa0dc71200c6d8829ec9
+seen_titlehash:5b26d21876b8532b906623398e32c24451443f84f5f318cecebd627c25f8f3e5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss
+title:trump needs a deal no matter how bad it is
+seen_urlhash:69f9aef0e3083c498d665c528e568d5983d651e5914ed631d9c6dea49083f679
+seen_titlehash:52315ee91af32f859fbda0bfb60b59ad904f7ca0d29b2b09a9b376d23d4d50ba
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis
+title:senegal parliament speaker el malick ndiaye steps down as political crisis deepens
+seen_urlhash:cf0c9c5ead0ac8ea6f2ba4c618de8f7d9be30c4cd7320cdcf4265a9b384f2193
+seen_titlehash:4ad24c75eb42f75f361ac36982939eac6fe58a1387de36ffa053f7aa551420f7
+seen_reason:processed_not_published
+url:https://ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b
+title:uber weighs higher bid for delivery hero after 11 5bn offer rebuffed
+seen_urlhash:79a9e2cd0d667c3af97fc7660c89e84bbf9b13fa66b7ef949553125e8e85154d
+seen_titlehash:f47a0d4ebf55cefa3a979d34d4a016455153de87f2c39144b3c61c7ef1e7a3e8
+seen_reason:processed_not_published
+url:https://ft.com/content/c0d614c4-8904-40a5-baa0-787f9683cfd7
+title:republican hardliners warn trump is giving up too much in iran talks
