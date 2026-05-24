@@ -10944,3 +10944,141 @@ seen_titlehash:4fcdae40b8d950c05249632a67a0d717e22662cad270600879ba08bd747701fe
 seen_reason:processed_not_published
 url:https://nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html
 title:kyiv ukraine hit in russian missile attack
+urlhash:3885a8afcf1d304b5a06ae214e86a96e331618298ad06c40103d0bb15cb56430
+titlehash:03a3251b4852f7ebebd235a4ebba81f1982ff7350881e6fc1a8b52ec017a217d
+published_url:https://bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss
+title:large scale russian attack on ukraine leaves four dead and dozens injured
+urlhash:116cba2e63a71b8b8dd1aec489eb1109ba9d70c39f3d17cb047ba7cd04c04827
+titlehash:5c2295ccead1847c52cb9e6b51f3de5c3949234ae3789cea0a48b8e9ebccfa15
+published_url:https://timesofindia.indiatimes.com/world/pakistan/pakistan-train-blast-dozens-killed-several-injured-in-quetta-explosion-near-railway-track/articleshow/131289475.cms
+title:pakistan train blast 24 killed over 50 injured in quetta explosion near railway track
+seen_urlhash:49057c560ec8eae51ea3dc0acf49961ab4f9665fcc50d9d07ed38a111e280ce5
+seen_titlehash:ea3fcc33933e05e19c8738b3da57b4d488427e01674e6a3284ca1b36fb30d30f
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss
+title:man killed in shark attack off australia s north east coast
+seen_urlhash:943226e6f0dcaf33bd0464113b822d727f0464651e5b31eb8b161dcaa422de44
+seen_titlehash:2d3915ef72cf86eb03b286dee4c80e9185f0ce0760199bdcf20e770200222f96
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html
+title:uk institute is hunting for dangers lurking in ai
+seen_urlhash:c4ce63a32bd24011ed44bc9919badf3dd8cfc3d2f61c4d93955c681c3fd00354
+seen_titlehash:1940f6da6a40db8c60470f0b7fd291c0ca0de2b3e269b8259225475cb613e99c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html
+title:do u s automakers have a future in canada
+seen_urlhash:8ecc58ba142cbf52ef9fda3e7307c4edef4b153b23907093df2bd13907a552ea
+seen_titlehash:7d28904f4851a4677db3b48a56d1369a668d609f21c6b79c53dc8421f4f520da
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/europe/london-guardianships-rent-cost-of-living.html
+title:as rents soar londoners turn to vacant pubs offices and police stations
+seen_urlhash:bd11301e71c145b0732fa0d05bcadaf9c0b968c4453e49cee2e099aee6430eff
+seen_titlehash:1912cd039acf0f8d8299f0400941b672cc8f0231e2391a44e50d0d573223abc3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss
+title:rubio says significant progress made in us iran negotiations
+seen_urlhash:0ae3e1d5f09d5d06d6941a4cbf4ed9cccc7219b1e8152b08241d79e4798ad0c3
+seen_titlehash:676b3e5e087f64976449de833a96d6f8047e8ff02e130301790af9408647e496
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss
+title:yemen war sees scramble for scant resources between displaced and locals
+seen_urlhash:dc3e585deb41b424f87419a6032756e794d096ae061f8c4bc7755a0adfb25dba
+seen_titlehash:43c613cc4b6144f6f47a2fb31620634cdeeab51e88b3d19d99786cdd147ce820
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss
+title:russian attacks on ukraine s kyiv kill at least four people
+seen_urlhash:0497caa2e225050c87c246f0ff97f73883e34d3e99f8b94f5028a592885f828a
+seen_titlehash:4331e8f084a227bcbe54177292111a4334b0dbaf7b9a66c887799a08633b8607
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss
+title:bomb attack in pakistan s balochistan province kills more than 20 people
+seen_urlhash:694f28dafbac57f8b8b01d15d48cb6a224647659f9419078e94ba17422751a9f
+seen_titlehash:89d0bd4ffd46fb5807bee346a21c62d7adfab0da6425edbea4541b20a6cdb7a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss
+title:they don t like each other is russia and iran s alliance falling apart
+seen_urlhash:2e7b8c95357165845aecd5ebcdbba9f0126fd3371822fa85b741e1eea725b0ae
+seen_titlehash:7faa5357403b8c855bccefc073512942caf1364c441b488ac0b39724787ad329
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss
+title:attacks on ebola centres intensify in eastern drc amid outbreak fears
+seen_urlhash:73df2ee26388d2770f762fb568e13862f2da63cebfbf74efddccb9d87754d900
+seen_titlehash:bf2fbb9da11856444b3f28e6328db7f858320203295d91fcccff6f82be3ef21f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss
+title:man dies in northeast australia after shark attack
+seen_urlhash:c0f752cc1e6766dd9f61c449681fae32ec3158563032af528afe9d5a84672198
+seen_titlehash:8b238ddd9cf7eecbe141a90fefa361140a1c47d72987498b73455230b9c31cbc
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss
+title:usyk avoids shock defeat with 11th round stoppage of verhoeven
+seen_urlhash:fdd7423ff3e79ce24048def638f15e8129572e802e8afdc03aac3d7876284e7b
+seen_titlehash:70cbb80d179bc307d1e09664822a7158fa1ebeeb4a42624c3a43d8d7272ff81f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487
+title:at least 24 people killed after suicide bomb targets train carrying military personnel
+seen_urlhash:41a77bf3a955df5e1ed08ecbf89828c45fc54ec8d0e518aad5e01f7bdc883dba
+seen_titlehash:1a970bbc61929c559c94a82165b0e82728db7a608f00f6232b3db65471c856fd
+seen_reason:processed_not_published
+url:https://news.sky.com/story/at-least-four-killed-in-kyiv-airstrikes-as-zelenskyy-claims-hypersonic-missile-used-during-attacks-13547478
+title:at least four killed in kyiv airstrikes as zelenskyy claims hypersonic missile used during attacks
+seen_urlhash:8c7f057c50a01e75984c0f47c180a2c0976ed8d293f4aa0208df9222542347de
+seen_titlehash:584b6e0ba3a7955041fd4afb36f40a2dd8f2325d13637f630b8d6532a7e4da76
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260524-djokovic-headlines-opening-day-at-french-open
+title:djokovic headlines opening day at french open
+seen_urlhash:2d5c05a52f559171dbbd2cb3885c7b4938f6a1525d7303c9ae4a33b902074098
+seen_titlehash:849416f2d0341ba49150e685ce24be5c8975bf4613789e495873395e01a61434
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/uk/british-sikh-community-offers-condolences-to-henry-nowak-family-urges-no-prejudice-during-ongoing-trial/articleshow/131289998.cms
+title:british sikh community offers condolences to henry nowak family urges no prejudice during ongoing trial
+seen_urlhash:f9c1dc414eddf4a27511c518676c4e58d9a97893992d6475626a1fd97e5b8671
+seen_titlehash:6b10b2672aab559ff615ebd8c5c27a613e690433edc4ac457943e8fe7519df0d
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/no-indian-workers-billboards-in-taiwan-polls-unsettle-expats/articleshow/131289805.cms
+title:no indian workers billboards in taiwan polls unsettle expats
+seen_urlhash:9b21e75c47b26433adaf728ecb0a5675a0a02d0ba1123768bdae39ddce2bcade
+seen_titlehash:87818bb18dd6d00108cb2021e5851d3420cd6ded2035198039af8baaa83a1c52
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/middle-east/france-bans-israel-minister-ben-gvir-over-mocking-detained-gaza-flotilla-activists/articleshow/131289305.cms
+title:france bans israel minister ben gvir over mocking detained gaza flotilla activists
+seen_urlhash:4e67d25d67d959908e5b653e0035dd1271d8c4dc6c351670ad1b9e0488b74ab5
+seen_titlehash:5b199e0247e8f56638784ac9524093da222151ca8a4995287e1f33fa5961d610
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-россия-применила-ночью-ракету-орешник/a-77278547?maca=rus-rss-ru-all-1126-rdf
+title:зеленский россия применила ночью ракету орешник
+seen_urlhash:4b289e1d8b69dae2d2acc78e7d92d23da7ef5165ad08ef1bfd86d2c51c387873
+seen_titlehash:e85de512e6f5e7c42079395cf690c35bffbe1631e07f8dc86554716dc3f6e398
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-оккупированной-россией-части-запорожья-ввели-талоны-на-топливо/a-77277748?maca=rus-rss-ru-all-1126-rdf
+title:в оккупированной россией части запорожья ввели талоны на топливо
+seen_urlhash:20e828c29b4cfcef4e5b597ea132620d12c12bb35a5d67ff4f431baf48592671
+seen_titlehash:e6074a9d3a41355a41ace1a98d9e2fc4a3d061711d27047e685438aa633fb235
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/05/24/gunman-killed-after-shootout-with-secret-service-near-white-house-trump-says
+title:в перестрелке у белого дома сотрудниками секретной службы сша убит вооруженный мужчина
+seen_urlhash:aa6fdd0cdbcf6e743bcb3c8fe1456b610e3adc8bff858ecfbb4f7de096fdfff6
+seen_titlehash:843af8227ec729c0549ad69791ca44f5b02d6b299abfe407987a30fde42731da
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/05/24/three-red-ctross-volunteers-have-died-from-suspected-ebola-in-the-dr-congo-as-the-outbreak
+title:в др конго скончались от лихорадки эбола три волонтёра красного креста
+seen_urlhash:0c2e09c491d8ebb37d845cf9af144da1d95ddb2383c534eb7271aec6e2708ea4
+seen_titlehash:d4d63e7973ec8a5ce03878359a8e4ae99dc62a1b00120a10855745045f177b58
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/24/ukraine-sunday-update
+title:не менее двух человек погибли и более 50 пострадали в результате ночного удара рф по киеву
+seen_urlhash:3e32f420bb6724b115829fb5db69f8667a6820c216d333c553ec0ec7bc44294c
+seen_titlehash:60f7105342e36ee95b2e9b5fb121f7140c565f9c0c1ef43bca0ac66de6dcac63
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/24/minoborony-rossii-podtverdilo-udar-oreshnikom-po-ukraine
+title:минобороны россии подтвердило удар орешником по украине
+seen_urlhash:5399b895c0445dd67506312baccbf662a99c3f6fe06f3810f9d55b57044383e8
+seen_titlehash:3e464d48bdc18de5b3180b895936aaee703a1b7d86cc0633e1bcd8ce4c46b04e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/24/zapustil-svoy-oreshnik-protiv-beloy-tserkvi-realno-neadekvaty-zelenskiy-prokommentiroval-nochnoy-udar
+title:запустил свой орешник против белой церкви реально неадекваты зеленский прокомментировал ночной удар россии по украине
+seen_urlhash:429392f4797bd2196f461fd4470ff8653c74f2814da3d54587609af7b33e858f
+seen_titlehash:80a44bb2e3c763cc591d622a6890897d74e2384e2e36384cd23e469e67cab62e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/24/vozle-belogo-doma-vooruzhennyy-muzhchina-otkryl-strelbu-on-ubit-agentami-sekretnoy-sluzhby
+title:возле белого дома вооруженный мужчина открыл стрельбу он убит агентами секретной службы
