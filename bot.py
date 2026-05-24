@@ -143,8 +143,7 @@ def normalize_url(url):
     blocked_prefixes = ("utm_",)
     blocked_keys = {
         "fbclid", "gclid", "mc_cid", "mc_eid", "cmpid",
-        "ocid", "smid", "ref", "ref_src", "ito",
-        "traffic_source", "output", "rss", "source"
+        "ocid", "smid", "ref", "ref_src", "ito"
     }
 
     query = []
@@ -847,43 +846,6 @@ def score_and_select_per_source(groups):
     return selected_all, processed_all
 
 
-
-def canonical_news_key(text):
-    value = normalize_title(text)
-
-    noise_words = [
-        "newsfeed", "video", "watch", "live", "updates", "latest",
-        "breaking", "exclusive", "analysis", "explainer",
-        "says", "said", "after", "amid", "over", "during",
-    ]
-
-    words = [
-        w for w in value.split()
-        if len(w) > 2 and w not in noise_words
-    ]
-
-    return " ".join(words)
-
-
-def item_quality_score_for_dedupe(item):
-    score = int(item.get("score", 0)) * 100
-
-    link = item.get("link", "").lower()
-    title = item.get("title", "").lower()
-    summary = item.get("summary", "")
-
-    if "/video/" in link or "newsfeed" in link or "video" in title:
-        score -= 120
-
-    score += min(len(summary), 1000) // 20
-
-    domain = item.get("domain", "")
-    if any(d in domain for d in ["bbc.com", "apnews.com", "reuters.com", "theguardian.com", "aljazeera.com"]):
-        score += 20
-
-    return score
-
-
 # =========================
 # THEME DEDUPE
 # =========================
@@ -896,12 +858,11 @@ def dedupe_themes(items):
     if not items:
         return []
 
-    items = sorted(items, key=item_quality_score_for_dedupe, reverse=True)
+    items = sorted(items, key=lambda x: x.get("score", 0), reverse=True)
 
     selected = []
     theme_keys = []
     title_keys = []
-    combined_keys = []
     domain_counts = {}
 
     for item in items:
@@ -909,28 +870,19 @@ def dedupe_themes(items):
         if domain_counts.get(domain, 0) >= MAX_POSTS_PER_DOMAIN:
             continue
 
-        theme_key = canonical_news_key(item.get("theme_key", "")) or canonical_news_key(item.get("title", ""))
-        title_key = canonical_news_key(item.get("title", ""))
-        combined_key = canonical_news_key(
-            f"{item.get('title', '')} {item.get('summary', '')}"
-        )
+        theme_key = normalize_title(item.get("theme_key", "")) or item.get("normalized_title", "")
+        title_key = item.get("normalized_title", normalize_title(item.get("title", "")))
 
         duplicate = False
 
         for old_theme in theme_keys:
-            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.62:
+            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.72:
                 duplicate = True
                 break
 
         if not duplicate:
             for old_title in title_keys:
-                if title_key and old_title and theme_similarity(title_key, old_title) >= 0.58:
-                    duplicate = True
-                    break
-
-        if not duplicate:
-            for old_combined in combined_keys:
-                if combined_key and old_combined and theme_similarity(combined_key, old_combined) >= 0.55:
+                if theme_similarity(title_key, old_title) >= 0.68:
                     duplicate = True
                     break
 
@@ -941,7 +893,6 @@ def dedupe_themes(items):
         selected.append(item)
         theme_keys.append(theme_key)
         title_keys.append(title_key)
-        combined_keys.append(combined_key)
         domain_counts[domain] = domain_counts.get(domain, 0) + 1
 
     if MAX_NEWS_PER_RUN > 0:
@@ -949,6 +900,8 @@ def dedupe_themes(items):
 
     print(f"After theme dedupe: {len(selected)} stories")
     return selected
+
+
 
 # =========================
 # ARTICLE TEXT EXTRACTION
@@ -1273,7 +1226,22 @@ def send_text_with_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": False,
+    }
+
+    return telegram_api("sendMessage", payload)
+
+
+def send_text_with_attached_preview(text_html, source_url):
+    hidden_link = (
+        f'<a href="{html.escape(source_url.strip(), quote=True)}">&#8203;</a>'
+    )
+
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL_ID,
+        "text": hidden_link + text_html,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
     }
 
     return telegram_api("sendMessage", payload)
@@ -1284,7 +1252,7 @@ def send_text_without_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": False,
     }
 
     return telegram_api("sendMessage", payload)
@@ -1349,51 +1317,10 @@ def publish_item(item):
         item["score"],
     )
 
-    video_url = get_best_video(item["entry"], item["link"]) if "get_best_video" in globals() else None
-    image_url = get_best_image(item["entry"], item["link"])
-
-    # Short post: one media post with full text and footer.
-    if can_send_as_media_caption(text_html):
-        if video_url:
-            print(f"Trying video: {video_url}")
-            ok = send_video_with_caption(video_url, text_html)
-            if ok:
-                return True
-            print("Video failed, fallback to photo.")
-
-        if image_url:
-            print(f"Trying photo: {image_url}")
-            ok = send_photo_with_caption(image_url, text_html)
-            if ok:
-                return True
-            print("Photo failed, fallback to text.")
-
-        return send_text_without_preview(text_html)
-
-    # Long post: media with first part + follow-up text with the rest.
-    if video_url or image_url:
-        caption_html, followup_html = split_text_for_media_caption(
-            item["headline"],
-            item["post_text"],
-            item["link"],
-            item["score"],
-        )
-
-        if video_url:
-            print(f"Long post: trying video with first part: {video_url}")
-            ok = send_video_with_caption(video_url, caption_html)
-            if ok:
-                return send_text_without_preview(followup_html)
-            print("Video failed, fallback to photo.")
-
-        if image_url:
-            print(f"Long post: trying photo with first part: {image_url}")
-            ok = send_photo_with_caption(image_url, caption_html)
-            if ok:
-                return send_text_without_preview(followup_html)
-            print("Photo failed, fallback to full text.")
-
-    return send_text_without_preview(text_html)
+    return send_text_with_attached_preview(
+        text_html,
+        item["link"],
+    )
 
 
 def sleep_between_posts(current_index, total_count):
