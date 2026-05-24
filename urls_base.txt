@@ -10734,3 +10734,41 @@ seen_titlehash:7d0bee53248a0b62b5972a62c0a47336291d26148b5ce0abda20f37c8e726ed7
 seen_reason:processed_not_published
 url:https://timesofindia.indiatimes.com/science/spacexs-starship-flight-hits-most-targets-in-pre-ipo-test/articleshow/131287492.cms
 title:spacex s starship flight hits most targets in pre ipo test
+urlhash:bde287536c4789fd005396e4c8b6430b25fcaa829a1a422eb3c7060c72e3afc1
+titlehash:920bd51a1943f632c205196d3b03c333af632d3af656556ac9e7682a5f9d716e
+published_url:https://bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss
+title:rosenberg luhansk strike sparks russian accusations and vow to retaliate
+urlhash:f7fab8198c63633cbfb337d4cafd570659c51d18808fe4b372e3578da5832e6d
+titlehash:9c7aad261f81b04e5015b7d9fedcc6506461a1879b2e3ca836f56fcb7a277e87
+published_url:https://france24.com/en/americas/20260524-gunman-killed-by-secret-service-after-shooting-near-white-house
+title:gunman killed by secret service after shooting near white house
+seen_urlhash:f1596af50ce76b7eeb5fe83edd7efd09635d7db9ec13f058263d4a3a024879a5
+seen_titlehash:8aec499f85e53f361310830a8fbf9e507ec2bdc75e72570a8918e41e5d88e8d5
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss
+title:i survived a missile strike in the strait of hormuz but my friend has not been found
+seen_urlhash:52221271e5398683b591d212eb47607da903872e151390851ef9052a33efbcd2
+seen_titlehash:ef6e3026d11ec222e02657bc7b60878315a8c9c6a7bbb67096557f87cd29479d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html
+title:many questions few details in latest iran peace proposal
+seen_urlhash:352504a5df344b9106c3a62cefa6afdafb91b1017de13eb6007cd251738b5544
+seen_titlehash:c72fd6e6a1c6544fe8b724ad93f1a3d064808bc2187b058dba9e6cc245e5765d
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/mayday-sa-scientists-identified-hantavirus-outbreak-in-24-hours/articleshow/131287556.cms
+title:mayday sa scientists identified hantavirus outbreak in 24 hours
+seen_urlhash:60401fbc201a2ed103df538985696c769db06df05ef5a0254708e478d6e95d2c
+seen_titlehash:49ea095b38c528d8baa29499250cca2e1342a5575c720a3b5846d5d884e787a5
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-совершила-очередную-массированную-атаку-на-киев/a-77277230?maca=rus-rss-ru-all-1126-rdf
+title:россия совершила очередную массированную атаку на киев
+seen_urlhash:3893c284df232afde77f4552ab4b53001b8137675be325f3a62c147ae7223e3c
+seen_titlehash:b252954d8a828890f720061943ca7524dadb53f3341ce214428e4104ac48f126
+seen_reason:processed_not_published
+url:https://ft.com/content/a4b3f6e0-c0e7-4a80-b5ea-7d8dd4dd4de8
+title:man shot dead by secret service after exchanging gunfire outside white house
+seen_urlhash:1c0351571a94103d8ce803680a913fa921c0eab48fd8b4d1741c820b1e0de604
+seen_titlehash:147664bf339f4fda91953cb907151a8e2e4862227996ddddee3afb1a74572419
+seen_reason:processed_not_published
+url:https://ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413
+title:russia pounds kyiv with missiles and drones in heavy overnight assault
