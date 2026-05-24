@@ -10935,3 +10935,12 @@ seen_titlehash:09ccfeed7dfb42e29c81b7a79c783b49651be98457e286334e525b2a6b0bf8a5
 seen_reason:processed_not_published
 url:https://ig.ft.com/maritime-chokepoints
 title:the power struggle in the world s narrow seas
+urlhash:137f246120a6a16374bb2df06ac2194521fd638ce343905b4cfa732c9ac40fff
+titlehash:c4a58f601d5049a0813ec0d5c43ddee2ab27605159ed431082c514bef335984f
+published_url:https://dw.com/ru/трамп-сша-и-иран-близки-к-соглашению-об-окончании-войны/a-77277584?maca=rus-rss-ru-all-1126-rdf
+title:трамп сша и иран близки к соглашению об окончании войны
+seen_urlhash:d310166dc29c1a977bf1fff6da910db4a792396b3861cb82c2c4fcac3c6fd6b0
+seen_titlehash:4fcdae40b8d950c05249632a67a0d717e22662cad270600879ba08bd747701fe
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html
+title:kyiv ukraine hit in russian missile attack
