@@ -1,56 +1,3 @@
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss
-title:afghan women s refugee team returns to world cricket post taliban exclusion
-seen_urlhash:4b91b2aa78721e57e2efb27d081daae0c176c7baffa0fcb62e779221f6a50a87
-seen_titlehash:66eb3eb5dbf1bf5aebc34423b62f00aa544ea7563cc9df57ed9b9b8a6c719ad2
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss
-title:ecuador s disappeared
-seen_urlhash:09370407004b7fc4bb9c3a5ca24801820bee3c332ef7b7c642e9245c593aec07
-seen_titlehash:55cec8521ce51e85d00e731161658d6a16dcbd975cb016d0c799bba664434c5e
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners?traffic_source=rss
-title:arteta built a fire instead of watching arsenal s premier league crowning
-seen_urlhash:c867f3acf65690cc600cb0787181b3866a68291fef03dc23f6bb37482b5dafac
-seen_titlehash:e0b22100400ef80a37cace81fdbd01f027b00d9ef8574eb3db52584523834bc4
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/21/french-court-finds-airbus-air-france-guilty-of-manslaughter-in-2009-crash?traffic_source=rss
-title:french court finds airbus air france guilty of manslaughter in 2009 crash
-seen_urlhash:f9d38830676e381e4de3de005812d2812400384aa11d36c9e447b3780bd621d2
-seen_titlehash:ef43f91c8d090805290de6695bc5947e7762877d367b35683e2fc3609ee37331
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn?traffic_source=rss
-title:germany make neuer first choice world cup keeper to cap retirement u turn
-seen_urlhash:dc99bca275bf4e60ef4037eb562144a852a64e401ec933ada6d496a278f2bc61
-seen_titlehash:f6afa5f6953094499e61364e217707839f45ce26aeec1b648629bb81bc4229dc
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_gbr_starmercoup_av_v2-200526?traffic_source=rss
-title:the implosion of keir starmer s labour
-seen_urlhash:bdc45f0254c1fe80c12e8d7c9038a26b1137321867b354bb54e2a459e8f5a139
-seen_titlehash:32582f2e6c498479ac1026a78a44d3784e3ddf6a93cd7d49f5c983b62889c1f5
-seen_reason:processed_not_published
-url:https://news.sky.com/story/gaza-bound-flotilla-movement-all-you-need-to-know-13546557
-title:gaza bound flotilla movement all you need to know
-seen_urlhash:fa100bc0e1232b206ce778d37ebbfb46067e940ee32a98fe9039f8713dbd63bf
-seen_titlehash:ad54d954878aac4c84b6dae1ebf2bd74660249d18a662ff1627136deec52755b
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/arts24/20260521-rami-malek-compares-new-cannes-role-to-freddie-mercury-performance
-title:rami malek compares new cannes role to freddie mercury performance
-seen_urlhash:ee5ecfe7d42f71e42d7a870e8b9e4b7c13238d37d75e4d4ab33eb9650f893120
-seen_titlehash:ee5c375680e35bea554e0c2bc000e68c1c278bd38839c82e8de59cbddc14a08a
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260521-ukraine-s-bird-lovers-long-for-peaceful-skies
-title:ukraine s bird lovers long for peaceful skies
-seen_urlhash:b6d1b8526b8c6421c775e892ab50b0626cd0c90440e5076eed0ba376267bc604
-seen_titlehash:544c9aa66ffa080313555f1556021ab08faef08b76f29a7ed3557e099710e5a8
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260521-trump-s-popularity-plummets-as-inflation-soars
-title:trump s popularity plummets as inflation soars
-seen_urlhash:cd27a30c21515579ccc8dc28e65a1a28d40437ba4806f8f5386c031ca1ad129a
-seen_titlehash:96e7722c9fc4b0151abbab77f7966ee001e4870ddb8d671713dd65bc85da7187
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260521-dr-congo-ebola-outbreak-spreads-to-rebel-held-south-kivu
-title:dr congo ebola outbreak spreads to rebel held south kivu
 seen_urlhash:c4cf546b327743ee48f7b4c4ba963818624d8a103a330d383dd9197d48b8ed8e
 seen_titlehash:389bd052fd0688143ba56c9f593f768016c21f29cdc73be92e3ade0adf980360
 seen_reason:processed_not_published
@@ -4998,3 +4945,56 @@ seen_titlehash:011ed515dd3cbc746b9286dfb604442b14e9105f53bb0893c0891d2d693c2c43
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/05/24/makron-sozvonilsya-s-lukashenko-vpervye-za-chetyre-goda
 title:макрон созвонился с лукашенко впервые за четыре года
+urlhash:5ef96886baf8021dc3bbc38a3ad064604e5e1b13a2101b44874dabe2b448f03d
+titlehash:6414e671f9212e703317f24305812f11a824c7d9a370575ff46eac1d6e4cd5ca
+published_url:https://dw.com/ru/трамп-намерен-сохранить-блокаду-ирана-до-подписания-мирного-соглашения/a-77280710?maca=rus-rss-ru-all-1126-rdf
+title:трамп намерен сохранить блокаду ирана до подписания мирного соглашения
+urlhash:f762f9c4d5039825894de0487c36b1a1f970e2730b9c0631b72a5bd71372251a
+titlehash:018b019691803c56af4dcb19cc218d7e554bd475f127f106453246aed9485f27
+published_url:https://ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451
+title:trump says us will not rush into a deal with iran as talks continue
+seen_urlhash:4d28b761927f4634b0676c78d2248f58211ceb0cb31aa89ce99e9427c7093c10
+seen_titlehash:3bad07d6ec3588a6ba60a8a4a9bb331be8dba683bd94226816d39d5597885a2b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/middleeast/rubio-iran-nuclear.html
+title:rubio says details on iran nuclear program still to be negotiated
+seen_urlhash:9a7f7a2cf1db6362540cec9e163961730dcb3fed484bff288a54a15d27f9a669
+seen_titlehash:4cd223a642812016e5134b428f0c5d1bcde0adf69563242f555eeb015289cd70
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss
+title:turkish police storm main opposition chp s party headquarters
+seen_urlhash:3a7ee5f3442d76d4c4d202d3574634872e7028cc686d49a93ce40a5fece2f143
+seen_titlehash:2d8ec92b92e20fc897a7e70ff44c10d2d116c32080b0b11ee99ee1003352995b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss
+title:china s shenzhou 23 astronauts blast off on space station mission
+seen_urlhash:a89ebccb3a11e07a917376aade7caf25948e5bb6662eafff14fb777087fa8700
+seen_titlehash:3a5067ffd452d9d318cf7318121d2f6f4e117fa85d4fbde7c387dcb35f7f5253
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss
+title:iran recounts historic battles in response to trump s talk of agreement
+seen_urlhash:9e9a147fb3b4ff47740387fc1689184a7a368842ec54db8c06eb2a0b9f920dc9
+seen_titlehash:091e97ea5d8dfb63083e33b8e5b3729e47be852a57b9ba138a946f383d99935e
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260524-tearful-kostyuk-speaks-of-ukraine-missile-attack-after-most-difficult-french-open-win
+title:tearful kostyuk speaks of ukraine missile attack after most difficult french open win
+seen_urlhash:e809a8b37d553c3ebbe8bf954d178a298fae05e82947ac3e4291229265160a0e
+seen_titlehash:a27dd9ddbd4875b7823d3dd2b41ea4e059090a0ea4afeab57557817bce220fcc
+seen_reason:processed_not_published
+url:https://dw.com/ru/полиция-штурмовала-штаб-квартиру-главной-оппозиционной-партии-турции/a-77280702?maca=rus-rss-ru-all-1126-rdf
+title:полиция штурмовала штаб квартиру главной оппозиционной партии турции
+seen_urlhash:a3290099aa5d0ff1c11cdabbd2864ad9682c3e8b5d8bdd515c1aac2ee109dcdb
+seen_titlehash:f522f061eb02291056fd112b969a4c4165a8077d948b60afd333df3d6da362cd
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/24/the-guardian-peskov-i-kirienko-pytalis-ubedit-putina-ne-vvodit-zhestkie-blokirovki-interneta-no-bezuspeshno
+title:the guardian песков и кириенко пытались убедить путина не вводить жесткие блокировки интернета но безуспешно
+seen_urlhash:88e22876c59d33cea55cf8f12f3106cd2a350dfa1209df3f1ece23ea2ffdbc96
+seen_titlehash:1a779904bbb5f3b4ab9eb1edbafcd5f0fae4b13b7ec130bb0d42b842f9986c00
+seen_reason:processed_not_published
+url:https://ft.com/content/0e26a37a-ee86-4ddc-8e49-ec0589e72b41
+title:uk competition watchdog to examine childcare market
+seen_urlhash:a1f922e4be749356fcb706d7fdd8ed5cbdd643e7c202257b3cb85cfd61dbb9e2
+seen_titlehash:b2c9027eb988f03a8eebb2e188d590e4abf08dfb99294d1c819f3a93054c96a7
+seen_reason:processed_not_published
+url:https://ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b
+title:xi railed against japan s remilitarisation at trump summit
