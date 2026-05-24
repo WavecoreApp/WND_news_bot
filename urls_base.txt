@@ -10772,3 +10772,166 @@ seen_titlehash:147664bf339f4fda91953cb907151a8e2e4862227996ddddee3afb1a74572419
 seen_reason:processed_not_published
 url:https://ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413
 title:russia pounds kyiv with missiles and drones in heavy overnight assault
+urlhash:1f0840ea96bd2b9bcf043a8e1e42503469cf1352d6609d31bbfb9443fec0b9ed
+titlehash:c63ab79d57d4e9f32b993a84f00df5490c9182f00366b60a2f90e382fe2e729a
+published_url:https://timesofindia.indiatimes.com/world/europe/school-residential-buildings-hit-as-russia-pounds-ukraine-capital-kyiv-with-missiles-drones-1-dead/articleshow/131288343.cms
+title:school residential buildings hit as russia pounds ukraine capital kyiv with missiles drones 1 dead
+urlhash:37888ea72ea677015d535ee49243b4071319c6752c2b84eaed844d40b99e5a7e
+titlehash:8e1963b0897dc65f50628e3ca8bfe0264290a46defd2bd3ecff14b301872617f
+published_url:https://meduza.io/news/2026/05/24/rossiya-nanesla-udar-po-kievu-i-oblasti-predpolozhitelno-s-ispolzovaniem-oreshnika
+title:россия нанесла удар по киеву и области предположительно с использованием орешника
+seen_urlhash:1d28420944f863cdc9f745ea1c6cbcef5875cd6a8aecb94682865410ae819954
+seen_titlehash:c6f3776a30abae8190e9ab8b8d624e47104f8a3b7e491bca93e11b3276a3a9e1
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss
+title:suspect killed after opening fire on secret service near white house
+seen_urlhash:50bfb342c3cbcb44ad8b1161bc38fb83c7ca035991ae469c1c12b4ea918fb493
+seen_titlehash:e6f6687a51885d5a5bc2e9e79b2ee7bce23597fdfb20d1ffab4046be87525934
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html
+title:can concrete molds revive coral reefs ruined by bombs and climate change
+seen_urlhash:9501ce93630cc85327557170748c7144bcf454e2314512d400e59083e96eaf0f
+seen_titlehash:50b23dc2156865b2f54bb329628bed8c34625256d3aff69d723bc73e2e881c14
+seen_reason:processed_not_published
+url:https://theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges
+title:hunger increasingly used as weapon of war as food related violence surges analysis shows
+seen_urlhash:88f3f44c1da861fe5e202cbf1fe542edde17ecafb560601f4d7a6fcf494a3e04
+seen_titlehash:0a28da230f919a08452d656d023327f34942ccf3729b0ec66efcbbe8971eeb0e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/may/24/shark-attack-man-dies-great-barrier-reef-far-north-queensland
+title:shark attack man dies on great barrier reef in far north queensland
+seen_urlhash:b93c9395441d02804cef0c0d3739445613b56baf3210cd55968f0087f0bcb164
+seen_titlehash:0f17bb26bca8c12ee5d5c2b4deeb5dcbd80722f2e2c824bd61849f45454f8719
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss
+title:want equal respect pakistan s females galloping to glory in tent pegging
+seen_urlhash:81d285f0212dc2ecd989b5571ad173cb9131d1811d826e0f1a5e7c95755fa8c6
+seen_titlehash:956c7b400874d6b47dbfdfa21ede1933e3b719903e6ca0bef57df8fc84ea0377
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/24/19-feared-trapped-after-building-collapse-in-philippines?traffic_source=rss
+title:19 feared trapped after building collapse in philippines
+seen_urlhash:48cba1eb61ab46f3cff1459ee8722e084cb86e2f4dcb874f8d8e1b02c2cde3f3
+seen_titlehash:800357d6d71a611341fed8698f23c6f4c956dfa0685ba2a55dd63afa4a458078
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss
+title:us secret service fatally shoots gunman who fired at white house checkpoint
+seen_urlhash:22e469df5909b7d69bd88bea8d4888993122b2433f0e041d0a3371acc07cd883
+seen_titlehash:e6a047dd2da5b1cb1bcd2d9f5fb70c26e0c24ab1b84f749b367e239ddfdde260
+seen_reason:processed_not_published
+url:https://news.sky.com/story/gunshots-heard-near-the-white-house-reports-13547465
+title:gun suspect killed after opening fire at white house security checkpoint
+seen_urlhash:c5302dd9c81dc821a37f56053c755cb83c0342566ef7c227ff475e21c0f56aca
+seen_titlehash:00cc02d2252f626df7a254b2686ad070f87f71ec9294b0aaa125a4a493dd396f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260524-despite-middle-east-war-foreign-pilgrims-flock-to-mecca-for-hajj
+title:despite middle east war foreign pilgrims flock to mecca for hajj
+seen_urlhash:f11fcdd129903485a9c46cbcdbcc31b0f47c50588e64307b878f76e8036eba4e
+seen_titlehash:96c1f141f37cd973cc68d1571dc806a553cf926ef66ac26456d25c7c5db4ec2a
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260524-middle-east-war-live-pakistan-offers-to-host-next-iran-us-peace-talks-very-soon
+title:middle east war live pakistan offers to host next iran us peace talks very soon
+seen_urlhash:4fe35356eef40dc9cdb20009565b44ee20af422d6eca3f6960b1eed64df7577e
+seen_titlehash:7b5c02a0e255acdcc71c03927c9926c421b709b0269f5d990efe20dd70198444
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation
+title:russian ballistic missile attack hits kyiv after moscow vows retaliation
+seen_urlhash:4c626e04efa7bdc84f4d7873371714e826bed98238931578e54576cc4a8d0d9d
+seen_titlehash:73e4b2b01e7beb861934f6174b313ca31398764d0edb010219b8eeb448c61a28
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/obsession-with-our-countrys-most-cherished-structure-trump-reacts-to-white-house-shooting/articleshow/131288789.cms
+title:obsession with our country s most cherished structure trump reacts to white house shooting
+seen_urlhash:b2e4971b8f6bb6df455d2460e0bd7bab73a770336c29f4748f6b64aa49adb027
+seen_titlehash:d20c5b156b36f1082863c7672ceb0bde34dc340652a94e8349cdee323517d3a9
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/us/white-house-shooting-21-year-old-nasire-best-who-identified-himself-as-jesus-christ-shot-dead/articleshow/131287947.cms
+title:white house shooting 21 year old nasire best who identified himself as jesus christ shot dead
+seen_urlhash:349ae57e7f87d5a75584d0b7f742ca01a762ca216fce433c100e8858d3b174f7
+seen_titlehash:3f0d06d189e0c536fa4ceadac5d23e59fbbe0b2382c1a4d12ad7901d4d0eaa83
+seen_reason:processed_not_published
+url:https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-chinese-military-aircraft-naval-vessels-near-island-for-second-straight-day/articleshow/131288010.cms
+title:taiwan detects chinese military aircraft naval vessels near island for second straight day
+seen_urlhash:96ce0383d07f2ae894701f933ce075eecdcd864d73baa76cf9c862ab140cb1b1
+seen_titlehash:8b2b2d3b9f3394775be15fb976d15d885a2041c53402d28d3545b693f449d355
+seen_reason:processed_not_published
+url:https://dw.com/ru/у-европы-появились-свои-соцсети-могут-ли-они-конкурировать-с-tiktok/a-77251424?maca=rus-rss-ru-all-1126-rdf
+title:у европы появились свои соцсети могут ли они конкурировать с tiktok
+seen_urlhash:9a289df90f15eacc013486680721412360988826b2dad71e1e77050630e39f96
+seen_titlehash:d2e0061c8d6587cda0329d2922c9df12a2ea9842bf3cf5e001a7dff042b62847
+seen_reason:processed_not_published
+url:https://dw.com/ru/стрельба-у-белого-дома-в-вашингтоне-нападавший-погиб-от-ранений/a-77277348?maca=rus-rss-ru-all-1126-rdf
+title:стрельба у белого дома в вашингтоне нападавший погиб от ранений
+seen_urlhash:d2f50983aee018fbb1d85560df4d5bb660c8a1b4752f1562ae998dd7bb64f6da
+seen_titlehash:841f7933841398f581ca24b5cf5bbb7583efaa98f3a6abb0568659fc1e823815
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/05/24/fighter-jet-tracks-ufo-in-newly-released-pentagon-footage
+title:истребитель преследует нло на обнародованных пентагоном кадрах
+seen_urlhash:092b2cf0887d17fac5b3235a024ceae7856a6664e751c2b6e7e2d6e9db4307a8
+seen_titlehash:10ac50d70fc0524418218d9bae2a628f373c969d1abf30ce219329c4b5ad6369
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/05/24/heavy-police-presence-outside-the-white-house-following-a-fatal-shooting-at-a-security-che
+title:усилена охрана белого дома после смертельной стрельбы на контрольно пропускном пункте
+seen_urlhash:6d4cb41599a0d42c05cb796a46df46c88ff4da1d8cec84603b028996b8532cce
+seen_titlehash:68b55ed31cf0a04231d99b62b085d279fb2908f1ca2917a190735f245f38877b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/05/24/frequent-flyers-how-many-of-these-airline-collectibles-do-you-have
+title:часто летаете сколько у вас таких авиасувениров
+seen_urlhash:3823a003364a478cbf00e2501523fdf035c4afa3c16e0fbd7a7faff0a406e184
+seen_titlehash:45ac0bc9256784dc78801c3f1683ec96298bc381a8831ca957218a3961a4c4e4
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/05/24/adg-samaya-populyarnaya-partiya-v-germanii-i-ochen-pravaya-vot-tolko-teper-na-vyborah-pobezhdayut-esche-bolee-pravye
+title:адг самая популярная партия в германии и очень правая вот только теперь на выборах побеждают еще более правые репортаж из города ауэ бад шлема где мэром может стать сторонник монархии и отделения от фрг
+seen_urlhash:bb25bd05e508757acff7d799d569918efb06ed0c5daa57024771530b10a34c85
+seen_titlehash:96419337d501f632328a03e7523876cc97c99f2fddab2e6fbeba32f018cb3fc7
+seen_reason:processed_not_published
+url:https://ft.com/content/065b4aff-422d-4d43-a0ea-592e57fde2d1
+title:starmer s eu drive put in doubt by rejoin calls from leadership hopefuls
+seen_urlhash:60794638f9da4534baf6c847cc6eed524008ac248801df28000a28001c0fe042
+seen_titlehash:a4fb501ee509f4ce6b85c97462d3cbb17a3115f9b1b5c2ed443a1a77f499d260
+seen_reason:processed_not_published
+url:https://ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44
+title:iran s guards used uae company to buy military satellite equipment
+seen_urlhash:f0ced31a6a4e70b06a243777dc833117a9ff99143cab82c3434f994cd07e8e7e
+seen_titlehash:e42e978d9d246bacbbefbe5e4babc0d13c8c85b91f5e261303b70e9569ce3074
+seen_reason:processed_not_published
+url:https://ft.com/content/483369a6-f3e3-4252-b508-1889a3a9a473
+title:if you re in a spiral you re doing it right
+seen_urlhash:dc8be5c363dd373bc9b6ccc7cd22054570ddc0355bda6fa7fb6566850fab974e
+seen_titlehash:b5b0c60e81af2f0f062279360a7bd5a97e4bd8df82ab756d47a5e7bc3f05ed4d
+seen_reason:processed_not_published
+url:https://ft.com/content/85db8dba-fcf1-4925-9ca9-971a13321a4d
+title:biggest uk mobile groups suffer worst year of customer losses
+seen_urlhash:22e93eb674be84635e0566723fd36133381eb8717b9b427468ea48acb0bb5000
+seen_titlehash:eb83ebb660c526dfe8a2891f1120fc69f69acecf9a0ab89b487a072389ba804f
+seen_reason:processed_not_published
+url:https://ft.com/content/a1be6a28-5ee3-4edb-9494-c9add3e63f88
+title:gap between london house prices and other uk cities at narrowest since 2009
+seen_urlhash:57fd5cc76a9ba1d496365a673c7fedf6d1271e4487d332c3ad070dc99c3d1d83
+seen_titlehash:a8800161127aae6584610293475f75e1542b8c2b3f8b371b17c3f72ad1a4239d
+seen_reason:processed_not_published
+url:https://ft.com/content/7cb36760-767c-4652-a2a5-82e24d28caf9
+title:french nicotine pouch ban is attack on swedish way of life minister says
+seen_urlhash:8536d262e69206058de22f5ef5055e9e36fd78b4c43026cf465150eb45777981
+seen_titlehash:575c0ddf04641276703bec792d9c106970bcbd323aa72bfc621c2a918fcfd0e6
+seen_reason:processed_not_published
+url:https://ft.com/content/8e81a505-7aa4-4c42-a103-f89b5e095901
+title:egypt deploys jets to uae as iran war strains arab alliances
+seen_urlhash:1d5582ce75597b517402d3c1c21a6a5a646b7a4530353a843c19e422edacd258
+seen_titlehash:bfe971e94ecd2f5e4987236ce6d79e233646ec2fbf068040d08d1d15afb7ed8f
+seen_reason:processed_not_published
+url:https://ft.com/content/a133ed00-17a0-4d20-8ff6-c471d16055bc
+title:andy burnham s social media posts the political everyman
+seen_urlhash:b78f249f91979ea968c9cb4233404d85e5fd0232dfd83c6649dc3c9858a9819c
+seen_titlehash:d8e074597aad512694e8443822e5891d0e9ce39dcf0e20078b5b596eb166fae8
+seen_reason:processed_not_published
+url:https://ft.com/content/f0ab5773-2834-4eed-b3a2-19def85957e1
+title:kidults fuel japan s gacha gacha capsule toy mania
+seen_urlhash:a086d8b627dafb93d05b89397707b837d55b4d333fa59877ee4112c83fa7ba21
+seen_titlehash:3cd804b430e5e10d4f185d55dccb1d5802d2e3b356082123029d7972210c1ef4
+seen_reason:processed_not_published
+url:https://ft.com/content/c19f91a1-3e19-43bc-b436-5e6dfdf01e66
+title:the al qaeda offshoot looking to syria as a blueprint
+seen_urlhash:36ba5c31d4390cb898ff9343a39f6f8793b7f544bf21f6135f41457cdba9ec9c
+seen_titlehash:09ccfeed7dfb42e29c81b7a79c783b49651be98457e286334e525b2a6b0bf8a5
+seen_reason:processed_not_published
+url:https://ig.ft.com/maritime-chokepoints
+title:the power struggle in the world s narrow seas
