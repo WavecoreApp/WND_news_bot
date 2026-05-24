@@ -1,40 +1,3 @@
-seen_urlhash:c4cf546b327743ee48f7b4c4ba963818624d8a103a330d383dd9197d48b8ed8e
-seen_titlehash:389bd052fd0688143ba56c9f593f768016c21f29cdc73be92e3ade0adf980360
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/people-profit/20260521-powering-the-ai-inference-boom-is-it-time-to-downsize-the-data-centre
-title:powering the ai inference boom is it time to downsize the data centre
-seen_urlhash:38c95b7e99def102833fecd4f0f515d8c83c32ef39f25c37da7c7ef9a325d3da
-seen_titlehash:a33f02a5b7acbeecef0ee1c8dac753df7304c35ea0c0cba98a3a46049b89b040
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260521-paris-jr-turns-oldest-bridge-into-monumental-cavern
-title:paris jr turns oldest bridge into monumental cavern
-seen_urlhash:b75217c3d391c446a73157615e212c43d91ca4dcccc71eb17e87958525936a46
-seen_titlehash:a086333243808e0bd5b9b71f59a606e50fa2ab5b29fc1bf22efc922693544f12
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/the-observers/20260521-mexican-mother-finds-remains-son-missing-seven-years
-title:mexican mother finds remains of son missing for seven years
-seen_urlhash:08d9ec8d6c72de381792f00771026ce55e5efe28db43d9e2e422502a38703c4c
-seen_titlehash:af8bebfb82735e0411d839f216111daebf43df83c6c1fdbbb077392e837b73ae
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/entre-nous/20260521-cannes-canal-bollor%C3%A9-blacklists-is-france-s-cultural-diversity-under-threat
-title:cannes canal bolloré blacklists is france s cultural diversity under threat
-seen_urlhash:f9653ec827fa28e1ced19ee4eec16f580ccd1e368ddcbc305079555baae6cae3
-seen_titlehash:cf9646ed7663b52f0ee31ac3d6b078f00c839f3bd79a1ecf1988ecf4f5f093f6
-seen_reason:processed_not_published
-url:https://france24.com/en/middle-east/20260521-france-condemns-israel-37-french-nationals-deported-over-gaza-flotilla
-title:france condemns israel as it deports 37 french nationals over gaza flotilla
-seen_urlhash:97678abb6641c37c6462c8070b68c486c2d19fe6e8a2516e6b231d7a59b6ef6b
-seen_titlehash:3659a9574e01a83774066121565e9e64f89f9dc859066801f68f509a2eb849a2
-seen_reason:processed_not_published
-url:https://timesofindia.indiatimes.com/world/us/boo-of-jobs-real-anger-about-artificial-intelligence-at-us-convocations/articleshow/131248921.cms
-title:boo of jobs real anger about artificial intelligence at us convocations
-seen_urlhash:d73a8bfb3c6565d7bd17f299676af30ea8e60c641d1405262784c99eea524498
-seen_titlehash:b3f3ba5ed1cf1c161be7193a56f42769d43b0159f38f02de4bbd12c92cf97fcf
-seen_reason:processed_not_published
-url:https://timesofindia.indiatimes.com/world/us/i-am-from-india-but-none-of-my-firm-partners-is-indian-attorney-rahul-reddy-counters-hate-on-social-media/articleshow/131248800.cms
-title:i am from india but none of my firm partners is indian attorney rahul reddy counters hate on social media
-seen_urlhash:5c7a6191426b93dea2e5787fa77aad34b841257dac928e0b99aa5ad9e5e09b6d
-seen_titlehash:c581c59db50f121509d54d3ba452f0e677403d7350baae8c4b58e2a8f88ed8fa
 seen_reason:processed_not_published
 url:https://timesofindia.indiatimes.com/world/us/california-hit-and-run-indian-man-arrested-by-ice-after-state-releases-him-4-year-old-victim-expected-to-survive/articleshow/131247937.cms
 title:california hit and run indian man arrested by ice after state releases him 4 year old victim expected to survive
@@ -4998,3 +4961,40 @@ seen_titlehash:b2c9027eb988f03a8eebb2e188d590e4abf08dfb99294d1c819f3a93054c96a7
 seen_reason:processed_not_published
 url:https://ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b
 title:xi railed against japan s remilitarisation at trump summit
+urlhash:9ee2e493aa40cbe5c2784efdf5aeec6db36a28ecc4785df73d84face0cb14d7a
+titlehash:27528e4155f6938fe4613baf2214b207160d16aa495400e5d2573b5485bfae84
+published_url:http://ru.euronews.com/2026/05/24/soglashenie-o-zavershenii-vojny-s-iranom-v-osnovnom-soglasovano
+title:трамп заявил что соглашение о завершении войны с ираном в основном согласовано
+urlhash:fd41ff6214ceff16cfe856fa53bb1a023f17e311527e8237776160befdf0311e
+titlehash:c745a40fc934df987323a4af30ceeaa9965d0326b155c7597938ab51db376f33
+published_url:https://meduza.io/feature/2026/05/24/udar-rossii-po-kievu-24-maya-bespretsedentnyy-po-kolichestvu-postradavshih-muzeev-i-drugih-kulturnyh-uchrezhdeniy
+title:удар россии по киеву 24 мая беспрецедентный по количеству пострадавших музеев и других культурных учреждений вот что это за памятники и какое значение они имеют в истории города и страны
+urlhash:a3c3076f62d47c68656fe398951de8976550957c30301d93ad2541310361fb64
+titlehash:b55a505e80dd98e497b19b6f65a2553ffa7f0ca23446ca9c249b147cbebc36cf
+published_url:http://ru.euronews.com/my-europe/2026/05/24/cyprus-election-exitpoll
+title:парламентские выборы на кипре диси и акэл ведут борьбу за первое место
+seen_urlhash:42cae5219372be25a10dd57ed372010e500e0b867539de53db853f4da274f3e8
+seen_titlehash:5951d22624b4a03d06774bdd7a09da5c05a95b15952c536fa55a65ca7076c5e5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/24/v-rabote-kitayskogo-chat-bota-deepseek-v-rossii-nablyudayutsya-sboi-roskomnadzor-otritsaet-blokirovki
+title:в работе китайского чат бота deepseek в россии наблюдаются сбои роскомнадзор отрицает блокировки
+seen_urlhash:f91b1e9ef6e20fe21ec726d84ff45d95b1a9cdd97f91e7247ec364f727031c0b
+seen_titlehash:33ad3400f24a6621a9772cda7286ff97ceef0cc486a3e2ce7bf8bf184db755bd
+seen_reason:processed_not_published
+url:https://ft.com/content/75af4d22-03ba-4fcc-b269-0ffee042d8cc
+title:robotaxis need to be tested in real traffic
+seen_urlhash:81c2f995c4307f08762590c1bb6589c1a0e3d98a6ce9e38d4997024d57cac958
+seen_titlehash:edf5205da8bb5ddea4d647df8de0dbe6f0e45c55fa05ab98a2c64dc1da2ad38d
+seen_reason:processed_not_published
+url:https://ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd
+title:ecb summons banks to urge them to fix flaws exposed by latest ai models
+seen_urlhash:2426520f3b962f00b6263596b5a70e862c2aa093e7880bbd98d72a5234e984b5
+seen_titlehash:870231b457e9a6a30f6219d4e4752e1ff277d73f569d26ab59d1868c17a2a1f3
+seen_reason:processed_not_published
+url:https://ft.com/content/b4f47239-7e05-4002-8d48-8f6f02e81e9e
+title:just stop moaning and pay your taxes
+seen_urlhash:7bd79f712a41727f15c2acc7b2733b10effe1e8d8af69571de9e598579dcfdd8
+seen_titlehash:450bd05f2baadbfa1d2957408221cb6f58945f0ed4598bc2eeaa8b2c8a449c66
+seen_reason:processed_not_published
+url:https://ft.com/content/33e0d067-1869-4715-84b9-fa1b1b83b878
+title:financial reforms set to give 1 6bn boost to city of london
