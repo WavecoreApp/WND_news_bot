@@ -77,6 +77,8 @@ GROQ_BATCH_SIZE = env_int("GROQ_BATCH_SIZE", 20)
 GROQ_REWRITE_BATCH_SIZE = env_int("GROQ_REWRITE_BATCH_SIZE", 5)
 GEMINI_REWRITE_BATCH_SIZE = env_int("GEMINI_REWRITE_BATCH_SIZE", 5)
 GEMINI_BATCH_DELAY_SECONDS = env_int("GEMINI_BATCH_DELAY_SECONDS", 7)
+GEMINI_REWRITE_RETRIES = env_int("GEMINI_REWRITE_RETRIES", 2)
+GEMINI_RETRY_DELAY_SECONDS = env_int("GEMINI_RETRY_DELAY_SECONDS", 5)
 
 POST_DELAY_MIN_SECONDS = env_int("POST_DELAY_MIN_SECONDS", 60)
 POST_DELAY_MAX_SECONDS = env_int("POST_DELAY_MAX_SECONDS", 180)
@@ -235,24 +237,51 @@ BLOCKED_CATEGORIES = {
     "sport", "sports", "football", "soccer", "basketball", "tennis", "cricket",
     "baseball", "hockey", "golf", "formula 1", "f1", "boxing", "mma",
     "entertainment", "celebrity", "celebrities", "movies", "film", "music",
-    "gaming", "games", "culture", "lifestyle", "travel", "fashion", "food",
-    "recipe", "horoscope", "weather", "opinion", "review",
+    "gaming", "games", "lifestyle", "travel", "fashion", "food",
+    "recipe", "horoscope", "review",
 }
 
 BLOCKED_KEYWORDS = [
-    "champions league", "premier league", "world cup", "football", "soccer",
-    "match", "final", "semi-final", "quarter-final", "coach", "player",
-    "club", "team", "goal", "league", "tournament", "cup final",
-    "caf", "fifa", "uefa", "nba", "nfl", "mlb", "nhl", "ipl",
-    "cannes", "film festival", "movie", "actor", "actress", "celebrity",
-    "album", "concert", "trailer", "series finale", "netflix",
-    "coupon", "coupons", "promo code", "discount", "deal", "deals", "sale",
-    "shopping", "buy now", "best price", "gift guide", "black friday",
-    "cyber monday", "save up to",
-    "футбол", "матч", "финал", "лига чемпионов", "турнир", "кубок",
-    "тренер", "игрок", "клуб", "команда", "гол",
-    "скидка", "купон", "промокод", "распродажа", "акция",
-    "кинофестиваль", "фильм", "актер", "актриса", "знаменитость",
+    # obvious sports
+    "champions league", "premier league", "world cup", "fifa world cup",
+    "women's champions league", "uefa champions league", "caf champions league",
+    "nba finals", "french open", "wimbledon", "super bowl", "grand prix",
+    "formula 1", "f1 race", "ipl match", "cricket match", "football match",
+    "soccer match", "tennis match", "basketball game", "baseball game",
+    "hockey game",
+
+    # obvious entertainment/culture
+    "cannes film festival", "palme d'or", "film festival", "movie review",
+    "movie trailer", "box office", "celebrity gossip", "red carpet",
+    "album review", "concert tour", "netflix trailer", "series finale",
+
+    # obvious shopping/affiliate/promos
+    "coupon code", "promo code", "discount code", "voucher code",
+    "best deals", "daily deals", "limited-time deal", "limited time deal",
+    "black friday", "cyber monday", "prime day", "gift guide",
+    "buying guide", "shopping guide", "save up to", "cashback", "cash back",
+    "affiliate link", "sponsored post",
+
+    # gambling/betting
+    "betting odds", "sports betting", "place your bets", "casino bonus",
+    "bookmaker", "bookmakers", "oddschecker",
+
+    # Russian obvious sports
+    "лига чемпионов", "чемпионат мира по футболу", "кубок мира",
+    "футбольный матч", "баскетбольный матч", "теннисный матч",
+    "формула-1", "гран-при", "финал лиги чемпионов",
+
+    # Russian obvious entertainment/culture
+    "каннский кинофестиваль", "золотая пальмовая ветвь", "кинофестиваль",
+    "трейлер фильма", "рецензия на фильм", "красная дорожка",
+
+    # Russian shopping/promos
+    "промокод", "купон на скидку", "скидочный купон", "черная пятница",
+    "чёрная пятница", "киберпонедельник", "лучшие скидки", "подарочный гид",
+    "партнерская ссылка", "партнёрская ссылка",
+
+    # Russian gambling/betting
+    "ставки на спорт", "букмекер", "букмекеры", "коэффициенты букмекеров",
 ]
 
 def is_blocked_news_item(title, summary, category=""):
@@ -261,12 +290,25 @@ def is_blocked_news_item(title, summary, category=""):
         return True, f"category:{category}"
 
     blob = f"{title} {summary}".lower()
+    blob = re.sub(r"\s+", " ", blob)
 
     for keyword in BLOCKED_KEYWORDS:
-        if keyword in blob:
-            return True, f"keyword:{keyword}"
+        keyword_l = keyword.lower().strip()
+        if not keyword_l:
+            continue
+
+        # For Latin spam/sports phrases, require word boundaries.
+        if re.search(r"[a-z]", keyword_l):
+            pattern = r"(?<![a-z0-9])" + re.escape(keyword_l) + r"(?![a-z0-9])"
+            if re.search(pattern, blob):
+                return True, f"keyword:{keyword}"
+        else:
+            # For Cyrillic phrases, only match full phrase, not tiny fragments.
+            if keyword_l in blob:
+                return True, f"keyword:{keyword}"
 
     return False, ""
+
 
 # =========================
 # DATABASE / DUPLICATES
@@ -1112,15 +1154,43 @@ def rewrite_selected_with_groq(items):
     rewritten_by_id = {}
 
     for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
-        try:
-            print(f"Gemini rewrite batch {batch_index}: {len(batch)} articles")
-            raw = ask_gemini_rewrite_batch(batch)
-            payload = extract_json_payload(raw)
-            results = payload.get("items", [])
+        results = []
 
-        except Exception as e:
-            print(f"Gemini rewrite batch failed: {e}")
-            results = []
+        for attempt in range(1, GEMINI_REWRITE_RETRIES + 2):
+            try:
+                print(
+                    f"Gemini rewrite batch {batch_index}: "
+                    f"{len(batch)} articles | attempt {attempt}/{GEMINI_REWRITE_RETRIES + 1}"
+                )
+
+                # get_next_gemini_client() is called inside ask_gemini_rewrite_batch().
+                # Every retry therefore uses the next Gemini key automatically.
+                raw = ask_gemini_rewrite_batch(batch)
+                payload = extract_json_payload(raw)
+                results = payload.get("items", [])
+
+                valid_count = 0
+                for result in results:
+                    try:
+                        headline = strip_markdown(str(result.get("headline", "")).strip())
+                        post = strip_markdown(str(result.get("post", "")).strip())
+                    except Exception:
+                        continue
+
+                    if is_valid_russian_rewrite(headline, post):
+                        valid_count += 1
+
+                if valid_count > 0:
+                    break
+
+                print(f"Gemini rewrite returned no valid Russian rewrites on attempt {attempt}")
+
+            except Exception as e:
+                print(f"Gemini rewrite batch failed on attempt {attempt}: {e}")
+
+            if attempt <= GEMINI_REWRITE_RETRIES and GEMINI_RETRY_DELAY_SECONDS > 0:
+                print(f"Sleeping {GEMINI_RETRY_DELAY_SECONDS} seconds before Gemini retry...")
+                time.sleep(GEMINI_RETRY_DELAY_SECONDS)
 
         if batch_index > 1 and GEMINI_BATCH_DELAY_SECONDS > 0:
             print(f"Sleeping {GEMINI_BATCH_DELAY_SECONDS} seconds before next Gemini batch...")
@@ -1332,6 +1402,24 @@ def sleep_between_posts(current_index, total_count):
     time.sleep(delay)
 
 
+
+
+def trim_db_file(max_lines=5000):
+    if not os.path.exists(DB_FILE):
+        return
+
+    with open(DB_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    if len(lines) <= max_lines:
+        return
+
+    with open(DB_FILE, "w", encoding="utf-8") as f:
+        f.writelines(lines[-max_lines:])
+
+    print(f"Trimmed database: kept last {max_lines} lines")
+
+
 # =========================
 # MAIN
 # =========================
@@ -1442,6 +1530,7 @@ def main():
 
     mark_processed_as_seen(processed_items, published)
 
+    trim_db_file()
     print("Done.")
 
 
