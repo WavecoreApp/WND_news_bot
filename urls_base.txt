@@ -1,29 +1,3 @@
-seen_reason:processed_not_published
-url:https://timesofindia.indiatimes.com/world/us/california-hit-and-run-indian-man-arrested-by-ice-after-state-releases-him-4-year-old-victim-expected-to-survive/articleshow/131247937.cms
-title:california hit and run indian man arrested by ice after state releases him 4 year old victim expected to survive
-seen_urlhash:a517c0ea4c9276ec86fa4a15f34d13c87631dd922ad302153f5120e39c2ef860
-seen_titlehash:d63da43c4defe38b6ec20da2ffd0d5af2004ccc4a516c13ca11606806d377789
-seen_reason:processed_not_published
-url:https://dw.com/ru/ек-за-рассмотрение-идеи-канцлера-фрг-об-ассоциированном-членстве-украины/a-77251563?maca=rus-rss-ru-all-1126-rdf
-title:ек за рассмотрение идеи канцлера фрг об ассоциированном членстве украины
-seen_urlhash:b48524dc3197828befb359bebbf11df2828edd42a1fd98bd9c2f2f5733d88b70
-seen_titlehash:912f9fb423b3b9e0eb20a1d1b02ecfbd0a712f4a10008c99e18b12f93f33dd13
-seen_reason:processed_not_published
-url:https://dw.com/ru/эстония-вызвала-российского-дипломата-из-за-дезинформации-вокруг-бпла/a-77250925?maca=rus-rss-ru-all-1126-rdf
-title:эстония вызвала российского дипломата из за дезинформации вокруг бпла
-seen_urlhash:b293367e0b041a9fc51ff895fb7767ef8e20ea411a6e28cbd96cdd5aef0feeb6
-seen_titlehash:dbb2ae87ee649aeb6d43add57e8f2b37f5837f56dbc24eddf523952b78168c64
-seen_reason:processed_not_published
-url:https://dw.com/ru/ральф-шумахер-выходит-замуж-за-француза-под-прицелом-камер/a-77247449?maca=rus-rss-ru-all-1126-rdf
-title:ральф шумахер выходит замуж за француза под прицелом камер
-seen_urlhash:9aff38f0c2fdc5755202bb476a28c013ebb578cbc3923082cf28678f39840eff
-seen_titlehash:15cfbbe22fc137fb61e5777a39aa768a28e653432fc49ff34043d7490cd9bee5
-seen_reason:processed_not_published
-url:https://dw.com/ru/германия-объявила-состав-сборной-на-чм-2026/a-77249749?maca=rus-rss-ru-all-1126-rdf
-title:германия объявила состав сборной на чм 2026
-seen_urlhash:0c3068aa2fc526e5fd35664954a478f48a428602dc189823c3803765a012b718
-seen_titlehash:fb596ab054a2e763674bb315732f387b7c5e12cf5642edafbe87da2f0e406c86
-seen_reason:processed_not_published
 url:https://dw.com/ru/пародия-на-правосудие-зачем-в-беларуси-судят-мертвых/a-77232884?maca=rus-rss-ru-all-1126-rdf
 title:пародия на правосудие зачем в беларуси судят мертвых
 seen_urlhash:ce7a3eb745d4c7d60b771416365ff5cfb990b41cd69d2535c549293c8b58c505
@@ -4998,3 +4972,29 @@ seen_titlehash:450bd05f2baadbfa1d2957408221cb6f58945f0ed4598bc2eeaa8b2c8a449c66
 seen_reason:processed_not_published
 url:https://ft.com/content/33e0d067-1869-4715-84b9-fa1b1b83b878
 title:financial reforms set to give 1 6bn boost to city of london
+urlhash:f8768e0308a6c5d98ca0c84ac68c3fa19723ebf695a26b684300169d6457a46b
+titlehash:99d7bba83f431b50def0359e027bbffc71b5323303ca14957e0a4931eecbc51e
+published_url:https://aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss
+title:zelenskyy speaks to al jazeera at site of major russian attacks in kyiv
+urlhash:2a23e65bdfbef5c7670a6de2b983feed65a2d32f6b2fd6e2d8214667dfb36744
+titlehash:1be57b3476e1f4f0d3ea43c5bf56537cff1bf2f511a09483dfe14602f946b08b
+published_url:https://dw.com/ru/the-telegraph-союзники-киева-заблокировали-план-нато-о-доппомощи-украине/a-77281091?maca=rus-rss-ru-all-1126-rdf
+title:the telegraph союзники киева заблокировали план нато о доппомощи украине
+urlhash:1d5e62d34f2dc18fef888260b53e7b86500ada86e3755d713ca27044db7bf538
+titlehash:737784c35df8fb931254a64311af1269f0b5bd3716f1415bffb3fd6b14eba7e4
+published_url:http://ru.euronews.com/my-europe/2026/05/24/vozvrashenie-chasti-aktivistov-flotilii-v-ispaniyu
+title:возвращение части активистов флотилии в испанию сопровождается столкновениями и задержаниями
+urlhash:93a0d07d52ec1c025809f144897ff9b9d6c0680d19f340ed5e30e0ec35380552
+titlehash:51d063284827220d31fba3134c4f840087e8b3b9be3dec06a979d2a05e697a26
+published_url:https://aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss
+title:fatou bensouda on israeli threats against her and the icc
+seen_urlhash:fd6f895ab5c38014afa647257fd3a0c1b450e351ca058cd887a7d3faefe7ba0c
+seen_titlehash:25bd6fb4c81fe0a5816cc32183876ac1456cf3d8b8976dcac2952b3b167eced4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/24/bilbao-rally-sumud
+title:марш в бильбао в поддержку активистов флотилии global sumud
+seen_urlhash:36131b35850aa8e936fdabad31923a82c8941409416f524c0c709c1eb7909fc5
+seen_titlehash:025d2958424f4d82f5f9ab5882ab0dc3e2f5cf4139e81931a4e5f3673cc2b3f2
+seen_reason:processed_not_published
+url:https://ft.com/content/a8935e5a-a1f7-43a3-bd01-a37420beb0a8
+title:markets take a collective break but politics continues
