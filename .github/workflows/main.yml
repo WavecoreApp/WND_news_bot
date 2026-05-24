@@ -77,6 +77,4 @@ jobs:
 
           git commit -m "Update news database [skip ci]"
 
-          git pull --rebase origin main
-
           git push origin HEAD:main
