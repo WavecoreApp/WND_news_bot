@@ -1,46 +1,3 @@
-seen_titlehash:bdaaffca538ef24451ddb71a2a86a7a3618dc04f30c82751d8ee664f81ecc66b
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/21/world/europe/prince-andrew-appointment-queen-uk.html
-title:queen elizabeth pushed for ex prince andrew to get envoy position new documents show
-seen_urlhash:30f337bab4823b264c89eae983999d5c76593053d70e04f3605988c2355d5a04
-seen_titlehash:c248bd529fd97172b7911e1c82c4f5ce746ef5f47ff6600f6d37517a0b59def2
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs?traffic_source=rss
-title:uk launches great british summer savings to ease family costs
-seen_urlhash:21c1529c1c4b32ef3f84fbf3b3d6ca4013b68d35ff39024702b269a214d0c6c8
-seen_titlehash:ca79f8532d1d652895ecb427c1169b2fb17a37d91a069ff0bbe3283b67c5d433
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss
-title:iran s world cup hopes hit us visa hurdles
-seen_urlhash:0f6fd5a8640104ee057f62ff82f16a4aab46972d67f08114eab1b0ca9211d5dd
-seen_titlehash:1263cdea5f347f5e5e13aeb3dd69bf09397f432a9e1a2dc90dd43491c845d519
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time?traffic_source=rss
-title:who are the 10 best fifa world cup players of all time
-seen_urlhash:c66612e559db2cf96a8b039f0d1f38c918fee1dbe551966ff7bcef5c5fbbb2ba
-seen_titlehash:881833ec411dd0e86f6acc70be78aaac3174a7d8369cfac1a396bee582a851b1
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss
-title:poll finds nearly three quarters of democratic voters oppose aid to israel
-seen_urlhash:5b4512160b8b1d246b6b45dd18bcda28280929d744c44fbad173b0211e9eb6ed
-seen_titlehash:c8428a426fd6854b6b1455503c6e2de12c0bbf75685deccc81da94ce6ed69105
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss
-title:displaced lebanese woman bakes 3 000 loaves daily for war hit community
-seen_urlhash:1b36289628ca4682a733163adbd77c14540b35bf5877461f3dee94633a0f6370
-seen_titlehash:6b95f3d2b257a1d6cd37d70acbf537ba23d654eac315912d4225e09db04b638d
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies?traffic_source=rss
-title:net migration to the uk falls by nearly 50 percent amid tighter policies
-seen_urlhash:cc35b2f0e911ab4282ce03faddafd85be604bbc7b26222726f555243ac8cc81d
-seen_titlehash:a83714b849369adcc12fd83c7e5648a9313ce8f5e2ff07e754f621cee9914937
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/mamdani-cuts-limited-world-cup-tickets-for-new-yorkers-to-50-after-furore?traffic_source=rss
-title:mayor cuts limited world cup tickets for new yorkers to 50 after furore
-seen_urlhash:cf948e064767c780bb390bac5dfa4d4c874cd95f585c2ca38a15bfc61942c7c5
-seen_titlehash:90ee9efc0204d3124a00c516625bc0d3faaf8d5171e7518e731a0554b42fbb3e
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/21/shocked-maguire-posts-on-insta-that-he-is-not-in-englands-world-cup-squad?traffic_source=rss
 title:shocked maguire posts on insta that he is not in england s world cup squad
 seen_urlhash:511f456e9fca6787686a847a616870ee06df5d27b8484b369fff93b857520152
 seen_titlehash:a24a967fad978435891fbf6a377a241619a95b82176f0bc4ea0f508f3b98c644
@@ -4998,3 +4955,46 @@ seen_titlehash:90fe9d5291fe4a8886116f36f3dcf3ab4ce3ce56bc0f0176b2accd8fd13a0162
 seen_reason:processed_not_published
 url:https://nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html
 title:in ukraine a divisive 20th century hero comes home
+urlhash:5c2ede2aa81f1d539a51a488a73be330f94e82e6444e9e738221b52f2b897efb
+titlehash:0a8692de59bb3c6dbd140b3a9d06b4c7f43a6c2dc5ef171e8a382792880f1fba
+published_url:https://aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss
+title:oil prices fall amid mixed signals on us iran peace deal
+urlhash:73f7b67f93f192acabcbdd2de0a739ef0a6e23c59caf09f4fc27b592bee06555
+titlehash:42468543d666f43bab420fbf4a7027c3b42881666303a736e3493ff800ed9f85
+published_url:https://theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez
+title:guzman y gomez faces class action from us workers over closed stores
+seen_urlhash:e26c241cde9453e9991b9448d17a2c94939d5d25daa2ff480a7ce0045df57e82
+seen_titlehash:0cd11a1ad938970e80b87fa1ac0b881111246482a8ba42add567c4deb56e6dc2
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss
+title:ebola outbreak poses massive challenges warns nurse
+seen_urlhash:5e6296187bd605ee107165830051b73a3f8b8b0a99b55ea14fb99be00e92e88e
+seen_titlehash:8c81755914ffad3787f34bb24a7abf4c82c43d533dd804109030d7f707e78f01
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html
+title:rubio rebukes hezbollah chief over call for lebanese to take to the streets
+seen_urlhash:56e00ebcd413d76330d6f89944a36f9b3b980fcb9a5f24364a3ad4224baed83e
+seen_titlehash:d22031856c79fa91fb460820f2f944f6659d1988ed02101505fb674b8dbdb13f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss
+title:syria holds legislative elections in former kurdish controlled areas
+seen_urlhash:0b1191331eff237c41ec88b1796e8cbbcc45fb3d24d3418583394f449c1e8618
+seen_titlehash:01bfcf1fc148f91e31893934b2d203dff0f7d7eedaaf81dcb53ff9fc568041fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss
+title:live trump says iran deal not fully negotiated yet
+seen_urlhash:191c7292b6f69255b82cda20bb6eabafcc637ff430bc5d993eb28ad2f3a010ea
+seen_titlehash:851a625c457a655eb19f2480d813e4ce2410ce58c5eacadc1d75603a268d6f46
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-мадриде-более-20-000-человек-вышли-на-митинг-недовольных-арендаторов-жилья/a-77282499?maca=rus-rss-ru-all-1126-rdf
+title:в мадриде более 20 000 человек вышли на митинг недовольных арендаторов жилья
+seen_urlhash:bcd38a444ba7e0394264b9d63d8c3711b1d874ef5b5bded97e7c7568b3f3fceb
+seen_titlehash:b191cd1a400289c8ce1f410abc720269875a9a7468e96ae04e748ee974d9a59e
+seen_reason:processed_not_published
+url:https://ft.com/content/2cf9dacf-08ee-4a3b-bfbe-ba6b8f3c955b
+title:ai fever and off exchange boom grip japanese retail traders
+seen_urlhash:56d0484c442648992394c38f47a618ffaef52ee99f55ff662b783435299bbfb0
+seen_titlehash:184a8c60565523d22bb66dd4ec94c50cf17270fcc517e823ca6555299a8b5c3d
+seen_reason:processed_not_published
+url:https://ft.com/content/ded7dfbd-de0d-477d-8d0c-b2a6d8acc5c2
+title:uk universities cut jobs research and teaching amid squeeze in overseas students
