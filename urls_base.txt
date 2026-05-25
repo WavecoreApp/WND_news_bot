@@ -1,21 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/05/22/scotland-urges-the-us-to-make-haggis-legal-again-ahead-of-the-world-cup
-title:шотландия призывает сша вновь легализовать хаггис перед чемпионатом мира
-seen_urlhash:eb570cd4ee1abbeb11a39d98a0186b3754bcbceb01957b351aa0e8bcefecb13b
-seen_titlehash:e731c1abb3194311a58ffeaac99e6af961eeb5b324d826c891f3ea6c928ee8e2
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/05/22/secure-your-spot-in-hell-part-of-michigans-quirky-tourist-town-is-up-for-sale
-title:ад под ключ в мичигане продают часть городка хелл
-seen_urlhash:918a805d6ceda466e1d6e9c7d1f21ff2fa397e18251faf83fae03e2e799152d6
-seen_titlehash:c40150732edf6c73fc8d6ba7c09cf6b4d4c18a1cc7a82c66da30945175e54dcc
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/05/22/what-we-know-about-abandonned-kids
-title:португалия и франция потрясены что известно о деле брошенных детей
-seen_urlhash:9a5a74a50516185430284f7ab8e65a8b82c8919d99c7f6452e0f7b4d6a1b3044
-seen_titlehash:cb981d6e70a7a0bcb09089bd462e0039c23e44ef4295a11b5ca113947a1cc7e1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/05/22/eu-air-connectivity-flatlined-in-2025-due-to-costs-and-regulatory-burden-says-iata
-title:iata рост авиасообщения ес в 2025 году остановился из за затрат и регуляций
 seen_urlhash:0192232c8c7f69b794691e0d7fd4129838007398e42f3053db8682e621a3ffab
 seen_titlehash:308b389d4c6e07fe0f5882a1f9a237a3c0e47af780e48060ebc3cb8546e2760f
 seen_reason:processed_not_published
@@ -4998,3 +4980,21 @@ seen_titlehash:66c85da7b0f49c500289396901b58a55ff96139f6f7a3453f5317ce9aae7c300
 seen_reason:processed_not_published
 url:https://ft.com/content/54fb27af-2a07-46cd-8921-f4f66554829e
 title:firstft iran s top negotiators travel to qatar amid push to secure deal
+urlhash:3c602f5fb7bb0b56a4b5684f79dfa55747e07476d9f3c789be9df172bf7cab48
+titlehash:f2ff53f9d3a4911ff72bcc88594d24e50efad40124472b6a9df271cf0725d2dd
+published_url:https://dw.com/ru/президент-ирана-распорядился-восстановить-доступ-к-международному-интернету/a-77290404?maca=rus-rss-ru-all-1126-rdf
+title:президент ирана распорядился восстановить доступ к международному интернету
+urlhash:f79c1a8f5746cc95c45e1742443ceebc2a33b95e7b407b8a4d12a3230f507199
+titlehash:5db8e8a195375f842f39b78016236a4d5792319fb574700bf90d516154c0c87e
+published_url:https://ft.com/content/dcbb9223-044f-4363-8ab6-c3d283209872
+title:reeves urges ministers to buy british in critical sectors
+seen_urlhash:2c467ca271d74fbc499e436a87e9434032e5c097ad458eedadebd3031c978871
+seen_titlehash:c2e4d5d78b96889dc345c1add4732f015384c0ef586d6b79be393d8f77e5d86f
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260525-france-s-monfils-eliminated-in-first-round-for-final-french-open
+title:france s monfils eliminated in first round for final french open
+seen_urlhash:dd52be1b4caca392d9c7a78fadc5aaca44d9994d5c85dd042d4f322c6afc12f2
+seen_titlehash:456761173fa863a410d654ed5841c38bfab3c71cbfc514b39f348f0852a8f6f6
+seen_reason:processed_not_published
+url:https://ft.com/content/03d98695-24d6-4c30-8328-2d4426f97b87
+title:how the snp survived scandal to keep ruling scotland
