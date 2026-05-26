@@ -1,170 +1,3 @@
-seen_urlhash:40376b8be089e24c01ee4720e5072b750f8d7fb41c6c4a4936d0ad6438ad86dc
-seen_titlehash:14ae51885b25de578af66463da8408ee4627fa8648b690e2854da46744e854ad
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/05/23/coal-mine-gas-explosion-in-china-kills-90-people
-title:число погибших в результате взрыва газа в шахте в китае возросло до 90
-seen_urlhash:6fd723ab9466b02cf5bdafea514d6046a8e75c2712e8b91041d3af5a6341dd58
-seen_titlehash:0fe7b7935740bc7a9c707f6b6a89e4bd07f3275d03456becee50c215baf98ede
-seen_reason:processed_not_published
-url:http://ru.euronews.com/next/2026/05/23/what-if-ai-could-move-your-hand-students-create-a-wearable-device-using-ai-and-electric-pu
-title:ии двигает вашей рукой студенты создают носимое устройство с электроимпульсами
-seen_urlhash:2a624bb99fa6eb565e3319f50a6b51d67a270a1444cd8f7bc5513d8471ea93fa
-seen_titlehash:d50e44c497216cc1a916ffe0fcdf6072ef508e50ddc701d50636a5efe4791942
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/05/23/novosti-dnya-23-maya-2026-g-utrennij-vypusk
-title:новости дня 23 мая 2026 г утренний выпуск
-seen_urlhash:b98ec502391a61bf6cc7908bb0e642983190fd58403d10db8b8ffe1e72a5de84
-seen_titlehash:678a98c18f141a1269e76ba1c1e55a4bd4b05091cde3b5d4187b9fbbed1385b7
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/05/22/novosti-dnya-22-maya-2026-g-vechernij-vypusk
-title:новости дня 22 мая 2026 г вечерний выпуск
-seen_urlhash:f5b300cf4b8f3268bc826f820081c7ad93b79f97d2f28bd8ec431df3c9fed1ae
-seen_titlehash:6e5e5e620413130300bf231058dc95cd8023ff503efacbf5a69616b633a9e38b
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/05/23/v-kitae-na-ugolnom-shahte-proizoshel-vzryv-pogibli-90-chelovek
-title:в китае на угольной шахте произошел взрыв погибли 90 человек
-seen_urlhash:88671ca9e7d79ae0b233b0bed554dfe293dc669f7074da6f19d85697fe8e8254
-seen_titlehash:72a1d6f31630ae33fca3bfe0a3c2d3ec3bebfaf93be5fc292bb503cdf1b5fb54
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/05/23/v-rossii-zapretili-prodazhu-vina-i-konyaka-treh-armyanskih-kompaniy
-title:в россии запретили продажу вина и коньяка трех армянских компаний
-seen_urlhash:2553a4256b2d077b875c47585f12a13fc67aef2d46bf9d7a1915d9739ef36562
-seen_titlehash:62f345ccd336818c31186001fe14546c25ab400d012b126c855eca8a37b571f0
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/05/23/spacex-uspeshno-ispytala-starship-samuyu-bolshuyu-raketu-v-mire
-title:spacex успешно испытала старшип самую большую ракету в мире
-seen_urlhash:01afa7cac3f85ceedf6fde73fa8b4bc063b77970cc58bef983e2c196241663f1
-seen_titlehash:f58f335bf7fa043bd3ee61df5eb49a541ded400067625b4aed21ac6a63c699ba
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/05/23/pyat-let-nazad-v-minske-obmanom-posadili-samolet-ryanair-i-zaderzhali-romana-protasevicha-s-teh-por-iz-oppozitsionera-on-prevratilsya-v-propagandista
-title:пять лет назад в минске обманом посадили самолет ryanair и задержали романа протасевича с тех пор из оппозиционера он превратился в пропагандиста бывшие соратники жалеют и презирают его он отвечает что его совесть чиста
-seen_urlhash:e2cf4d4634b625f67ae8ad3b640567d8d0584e43f449f0c6125ca34dfb447bbf
-seen_titlehash:bb19a06c56f37c45ff2074d4b1b4eac746be27b920dcf77961ed8dd101e88a94
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss
-title:senegal s president sacks prime minister sonko after months of tensions
-seen_urlhash:2c747a939891ec4735ea1afcda7a1f5f9984187677c6417c2b38dcee64128591
-seen_titlehash:ec07fb616c77a46a43c2087f6d5f9c1dfb2e23af125c04780563774aaa6a6cd1
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html
-title:a total nightmare voices from a moscow hit by ukrainian drones
-seen_urlhash:47cb1a1c092b0b26c135c6d8ecd6592ec17961891ba571553fc9734520e2942d
-seen_titlehash:6d0a382bdcb02d309da39f52efc2d3e735f5662f380b9c40edf7d0f7f7c8606d
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html
-title:u s ebola travel ban faces criticism from congo health officials
-seen_urlhash:2b126803e2366069399aabc100cc0e0ccbdc4155305cbaa45a1d07a3cacd23fc
-seen_titlehash:83105b7d1c8aef1dc11d6650abd00acda86437ec11c2e02f8df95644b3b3b283
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html
-title:white house tells congo s soccer team to isolate citing ebola outbreak
-seen_urlhash:2d4dbb47b0c8caef1c99f42be8c7c1db45830b566a2b05dcf45111ba591eb43b
-seen_titlehash:ef7c16b9ce5aa2ad1fa12b9e76c87a42578e1e146cbf4f81235a5e2b0637be74
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html
-title:what to know about the ebola outbreak as cases and deaths rise
-seen_urlhash:709c5b349bfbe7b8e8dfe11e2b267122dacfd1b5e11fa40f4a2e254693e47f3d
-seen_titlehash:b31ba44813947824773215bd3b9ef86743d9f0c4f8abf6b9289500073569217b
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/briefing/track-changes.html
-title:track changes
-seen_urlhash:c89c23df317d8654aa5197fa843dff055595ef47f5bd68db98526573e728c0d8
-seen_titlehash:3a4953c7a3b15d13c0eabaf629fe41290b601f044022f48bc76b30ba8dae5f9a
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/world/canada/canada-arctic-olympics-yellowknife.html
-title:at the arctic games canada and greenland vs trump feels like its own sport
-seen_urlhash:18d69e40d2ceaf7cfbedb4c9e702a3fe5ec4110d4c6e35a795f908a9a724645c
-seen_titlehash:23bd7442716a5871b39de304177901937c329a4ea6785d140902760288d3085a
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html
-title:trump s pursuit of a partnership with china raises concerns in india
-seen_urlhash:c8d8c1083087c58d1d9a2f197bc6f7b350db83273af9435a5aee831eca4eb4f3
-seen_titlehash:582e28c22235c25d11ff5a1f44fa89e198fe4f48ec976903895ac707fccd4d78
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/23/us/jellyfish-facts-beach-sting-safety.html
-title:how to stay safe around jellyfish this beach season
-seen_urlhash:8743f5eb516ca18b7c72771d2390078fba42477e690258e28ad202948d16e8de
-seen_titlehash:849df133c93082b64282ed3a3f8efa42d13c24214e26bcd6a3ee565a99a5001e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/5/23/senegals-president-faye-sacks-pm-sonko-as-deepening-rift-erupts?traffic_source=rss
-title:senegal s president faye sacks pm sonko as deepening rift erupts
-seen_urlhash:9a290763c33d6428fa15711c051ac05a46064de966d78872e1e5483a68c49ee9
-seen_titlehash:77e76d99081f093e3c2ac6c314ddd011ca72ab6caa3bee5dd74e2a769ba7f226
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss
-title:zelenskyy says time is right for ukraine to start process of joining eu
-seen_urlhash:f25d4ac5f70edd49221bf3948db56f2e92b9cee442d9ef98a011e319871f807b
-seen_titlehash:0d7e8842c3842d6833bd6bec06ff4aa0dcdbd05968ce466767af8695e9d4a9f1
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/23/kohli-refuses-head-handshake-after-heated-hyderabad-bengaluru-clash-in-ipl?traffic_source=rss
-title:kohli refuses head handshake after heated hyderabad bengaluru clash in ipl
-seen_urlhash:d45e0797d8dc2289b3873e8029060560dd41de9611e6e27bf20da6400fb827a8
-seen_titlehash:6b1db99da16478242c1740a8ea5b02bf6fdc6decaf2889caf96af37f7d5af6d0
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss
-title:israel attacks southern lebanon and near syrian border despite ceasefire
-seen_urlhash:a6b5b64f6b6ce18a973aa32ea1f5d22b29d1e16093ef02b7ec9aee972a227b68
-seen_titlehash:4091690a1a2603fb55eacc84f99c40b556978146a6804f67153d230a17ea170a
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss
-title:mexico beat ghana as world cup cohosts excel despite fifa sanctions
-seen_urlhash:88c5169d39c80bf2f0d938438f5544a129ebb5142ad35afb00ff74f3a54d8d9e
-seen_titlehash:f8077fb98e51761f85a73ed6376f19a453ed7e21da02ff227e0af0933e9ac457
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss
-title:missiles to munitions does the us risk running out of key weapons
-seen_urlhash:d05a157b9773c72a4786aaaf5716ad5fd8bc2dfba761ca3bdeb7eb3c782f8d1c
-seen_titlehash:81079f71c99e1022da46ce169f8b29abc82cb57c8922cfeb2ffa8f1ef4957db8
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/23/mohamed-salah-liverpool-final-match-legacy?traffic_source=rss
-title:as salah plays final liverpool match his legacy goes far beyond the pitch
-seen_urlhash:056cbbfb17f23c3fc2eb1242ab9b6ff2a2e71c6e514bdb6c686fb13f9cb7d1a0
-seen_titlehash:f60521721543c2b81b90afa6c72a4691b6636086863b57ad0ff30947cf88fe26
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/23/failing-chemical-tank-forces-thousands-to-evacuate-in-southern-california?traffic_source=rss
-title:failing chemical tank forces thousands to evacuate in southern california
-seen_urlhash:358e619548977b2fe052e11c3dd8d0b116ed3c23c7c2aecd0568f5c965b45354
-seen_titlehash:a793ceecea621c6a9c672695009eecddc7acfb2974318217844700c00e41409e
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/5/23/north-korean-women-team-win-asian-champions-league-in-south?traffic_source=rss
-title:north korean women s team win asian champions league title in south korea
-seen_urlhash:a0ffdf9ae29f2adde4bb9780c29e0620dd47eac8e1a4f0682f6343d0a1e35403
-seen_titlehash:10f6486e187f6a53588128cf32fff283c519f58c2f616c370b2a7cf066c4b820
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss
-title:iran weighs us peace proposal despite deep and significant disagreements
-seen_urlhash:339a81cfa881ba97732930eec51a3d3afcf80a7456b92b10fab5fc35b285b87f
-seen_titlehash:fecf4bead0211bb34e04fdbcf54c95643c3315bdc34fb44ede75226920fbc565
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss
-title:not just the us india to brazil 51 nations armed israel amid gaza war
-seen_urlhash:72748fdc50a47a3bab82d63a652df3d0d9c28fbb7a69b0a2829255348adaf8cf
-seen_titlehash:a2d8ae9f4f41dd248967ea1800d8ced0565f9486933364f3998211e0420e47f0
-seen_reason:processed_not_published
-url:https://france24.com/en/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape
-title:freed gaza flotilla activists allege israeli abuse including rape
-seen_urlhash:dc16a2ed49c197c75e1988887543787c0a4de64f463f162fef88bd6f45518acd
-seen_titlehash:27b4f155bdbe932beede42a6868944a3ab02cffa3f76e59d26164002e4f00127
-seen_reason:processed_not_published
-url:https://france24.com/en/tulsi-gabbard-resigns-as-trump-s-national-intelligence-director
-title:tulsi gabbard resigns as trump s national intelligence director
-seen_urlhash:4295e1cc53f605967b88b248894265a4dcc1d843464c61b6943416ccbff9118b
-seen_titlehash:dfe7d44c777ebbd5304d9b5f8ef60bfdc57af6beb9968bfa1af23e0b808bc599
-seen_reason:processed_not_published
-url:https://france24.com/en/turkey-thousands-rally-after-court-ousts-turkish-opposition-leader
-title:turkey thousands rally after court ousts turkish opposition leader
-seen_urlhash:b85fc91a7952c24a62b3e61d2eb7fdfa608c193f76ef614ab7397e547dda8f89
-seen_titlehash:0f3978e7228eeec6f977161a14bd4c70bac174c68ffcedcc4f8dfbd49a4d2250
-seen_reason:processed_not_published
-url:https://france24.com/en/ebola-highest-risk-level-in-dr-congo-warns-world-health-organization
-title:ebola highest risk level in dr congo warns world health organization
-seen_urlhash:0525823cf0f43112256c36cdd8ff96cf3106c38e8ce4e246e57653570500e1f4
-seen_titlehash:f57f49653efe61e53cfb9a18c06cfc75af51d86caadd1111728900f77d8cf0ab
-seen_reason:processed_not_published
-url:https://france24.com/en/mexico-eu-sign-stalled-trade-deal-as-they-aim-to-diversify-from-us
-title:mexico eu sign stalled trade deal as they aim to diversify from us
-seen_urlhash:1e8a2674a7d7badaf19366fa9ab42acbe2714a17c54b026a228b3f150021bcf2
-seen_titlehash:a82ecdf2b7b7861eb7af823f20dab39dffedd8613998f64f44ea82e703d06864
 seen_reason:processed_not_published
 url:https://france24.com/en/sport/20260523-pele-third-title-baggio-penalty-miss-hand-of-god-maradona-iconic-world-cups-mexico-usa
 title:pelé s third baggio s miss and the hand of god iconic world cups in mexico and the us
@@ -4998,3 +4831,170 @@ seen_titlehash:3c7366120f2e2ff86b12f87eeb7f82f3344b965bb2e50750a530208c616131af
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/05/21/home-schooling-is-taking-off
 title:home schooling is taking off
+urlhash:28109192f481f1e7228feb12317a77c8a404f14e2e7855a0ddd198f55d03d357
+titlehash:832bdd686d19750087a24a27341bb4312cf910e71a38eec71b0b148eedbeb9a5
+published_url:https://dw.com/ru/лондон-ввел-санкции-против-криптосетей-по-финансированию-войны-рф/a-77305385?maca=rus-rss-ru-all-1126-rdf
+title:лондон ввел санкции против криптосетей по финансированию войны рф
+urlhash:f94af8af8adb5ad595082d1c8d0391804ddac1fc8ec0d1fa9b9445700ec96110
+titlehash:91e6c66d97d55fd9c8422345e17c3ddba60ada31cb23954820eaaf7b35bb96ed
+published_url:https://bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss
+title:rights group accuses uae of being transit point for mercenaries on way to sudan
+urlhash:bc55537539c5ffbe98ffd377f705e90691f99484ffe8368a10d82a7a2321491b
+titlehash:3900b6f593d13ba8e9299f848789402f6e1f3a3c5a2de1449be295dcdef7eed9
+published_url:https://theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping
+title:china mine death toll at least 82 after gas blast
+seen_urlhash:602ee4ee7523b4cea520a04d71536c81eb1375f0d580a07ac914a5c80dffeb49
+seen_titlehash:c8835c8f6fff6423c13e8ae61ec53f7c48b0f94673930d3d8e53dafcae37f261
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss
+title:why temperature records are being not only broken but smashed
+seen_urlhash:d195bb36a05790a0a4352fb4781b9ec54de5ef39feab4bf11ed441bfac30f878
+seen_titlehash:cdeb6f8bea4320ba3c26de044ac50848d834d6051d607340c2acdb90f006c4b9
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss
+title:south african president mounts legal challenge against report that could lead to impeachment
+seen_urlhash:7929233635c60b605746bb0758b1c6951d9c0b797acb9c55ddb1e3ed46808590
+seen_titlehash:a67ac6eecea0ccc12a095e67902067bd3e1c255f3495377a3e7e0a99ee519adc
+seen_reason:processed_not_published
+url:https://bbc.com/sport/tennis/articles/cr7ppkp598zo?at_medium=RSS&at_campaign=rss
+title:osaka sparkles in golden french open outfit
+seen_urlhash:680daba95565d3a1e4c26174112aaa9b90bc193256eb5c091c0373c0bf52b2f8
+seen_titlehash:a16c01329b6e4c0159646656f2d6cb6fcdf19ba8beebf10b2a3e45312100efab
+seen_reason:processed_not_published
+url:https://bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss
+title:watch bridge collapses and car swept away in china river
+seen_urlhash:b29ace1d8b1b972917dc2d336d3c9b2d19252ad700b5066534097c5d27271058
+seen_titlehash:61d0f739f7f6b97cc2a13c1cefa24439229fb2100b2cdf48aeb924b8edcd05a4
+seen_reason:processed_not_published
+url:https://bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss
+title:watch drones crash into water after sydney light show malfunction
+seen_urlhash:dccd0d55ab5966448e204993f27e1e7846d57b400b34257e1061a06c82baa7ec
+seen_titlehash:cb8b3c60c772dfce47ef5277297e28140426b51586a29177cd37283ec5c12b80
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html
+title:canada strikes landmark deal to export liquefied natural gas to germany
+seen_urlhash:c15f3f86c70b8937e172286f6aa8ed57cc8e9a65f98472d1349dd8e7b0cd775b
+seen_titlehash:eaa4475082b232a716096ee8173f9418a468511b6a2f03c46fd8b7d20b83abe0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html
+title:iran threatens to renew strikes against u s amid push for diplomatic deal
+seen_urlhash:1f559b0d8d821d1340ab85a75e6813e7004fa70910cc3b077dc531fdbe40a98f
+seen_titlehash:88ba2ad7f41ea730af8feff8be9b26155b4b16fb9c7196066da441bd0f4c9182
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/26/world/middleeast/us-iran-strikes.html
+title:u s said to have observed series of iranian threats before latest strikes
+seen_urlhash:ac1af2b9e9f930a4e7903ba7b6efed20795b5f1ab1a1ab7cdb12cfd027baad5d
+seen_titlehash:204ed1ed35735b9de9b75f20bab6283a2500d111f877c62d36edd50ee3d4041f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss
+title:russia slams us for not granting visa to diplomat for un meeting
+seen_urlhash:fab3206d2fbc0c73aa971ab2c7f27bb800ca2db5542ab0ea10feee840eb8c6df
+seen_titlehash:0c515b4c73f150317b7ae93777435845981d8db71b2a281f506034048a110ca9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss
+title:armenia signs strategic partnership deal with us as election approaches
+seen_urlhash:252b40c09e75fce7ea13577acc4a34ada3f44f295ccf7df8d46c7ea7965e6a08
+seen_titlehash:f4e86bc3f31ab7ae1825f07c17d59872558f39664994f2b28c5e5ec2a0c31dca
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260526-french-open-2026-sabalenka-shines-osaka-dazzles-as-medvedev-melts-down-in-paris-heat
+title:french open 2026 sabalenka shines osaka dazzles as medvedev melts down in paris heat
+seen_urlhash:2d0cb8093b80c3837ae41cc88108ac776b17bcd5207902a71c0fce1d6ce41fcf
+seen_titlehash:beafa16b594d8b67452882c0e4a28dabdcda63244d2bc12c29594fb6e4a1302c
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260526-sonny-rollins-passed-away-at-95
+title:sonny rollins passed away at 95
+seen_urlhash:1c6d7828d762e43575b8c3d9cc0492bec98ef3d183a81f8d1f941024b03666cc
+seen_titlehash:d49ca2fc2b3eaa3a14a0336fd45957eda7fc47dca0793a98b1f74d0fc1ecd52f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260526-iran-partially-restores-internet-access-after-88-day-blackout
+title:iran partially restores internet access after three month shutdown
+seen_urlhash:2b73cf7aba535b9816e63bf02fb79b3f0bfe1ed204dd06fbc9accb833ee66351
+seen_titlehash:250bfe0dc01cc56c74a6eb5911573736d5ab12dd765af0a7cbb9ee55887df39b
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-рф-хочет-ограничить-вывоз-дизтоплива-и-авиакеросина/a-77305966?maca=rus-rss-ru-all-1126-rdf
+title:сми рф хочет ограничить вывоз дизтоплива и авиакеросина
+seen_urlhash:463dc80ce63c17bb1030be5e04f957a3bd27becbac6702ec553387bfcf0c5721
+seen_titlehash:cbc5d8a0edc2daacc1e8e42fec2c2425ac0066904617ffef56d979762c06dc87
+seen_reason:processed_not_published
+url:https://dw.com/ru/атом-редкие-металлы-и-оружие-зачем-рубио-прилетал-в-ереван/a-77302864?maca=rus-rss-ru-all-1126-rdf
+title:атом редкие металлы и оружие зачем рубио прилетал в ереван
+seen_urlhash:ab527ffdcc894e4620d07b6693bbfe5e2112b64d1e87cfc6c2b82cd914cd06c6
+seen_titlehash:84cbfc0c23fe958bd9074bb0528ac2361c8002abfbfa77cd8a764f0ef5579f4f
+seen_reason:processed_not_published
+url:https://dw.com/ru/финляндия-оставляет-границу-с-рф-закрытой/a-77305813?maca=rus-rss-ru-all-1126-rdf
+title:финляндия оставляет границу с рф закрытой
+seen_urlhash:dc61a42b9fc394d203b6e0e388099779c5c6393fa712ab37631523d725501e97
+seen_titlehash:5eb3556314b03156dcdb9f07540bc938e5729c292cccf1a8bcd2fed74595fcdd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/26/eduar-filipp-vstretilsya-s-vladimirom-zelenskim
+title:эдуар филипп встретился с владимиром зеленским в киеве
+seen_urlhash:06d65eb54ae1da188bb64d589e034fa4c23f66075e7524f033f2410169fb8055
+seen_titlehash:8f0fd4c3df8b72aedba7fde4d8caabe715f54331662505fe0558feb4cc950988
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/05/26/six-arrested-for-speculation-in-the-sale-of-tickets-for-bad-bunny-concerts
+title:шесть человек задержаны за спекуляцию билетами на концерты bad bunny
+seen_urlhash:960f51da520361e0d33c83698a9f78818c659bc9f63ea9fcf9df756e2154ffa1
+seen_titlehash:137af7f130f8f5c0b1e47de0340cb7460ec1a7a1ec1b216bdaf2870fe440b267
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/26/gibel-teo-v-renne-sledstvie-govorit-o-ssore-izza-rybolovnyh-snastej
+title:гибель тео в ренне следствие говорит о ссоре из за рыболовных снастей
+seen_urlhash:e80a014fe10224c74f25910b2799822c4a30977856c37ef37877da0e9512fc52
+seen_titlehash:c341cd56d6a805bee757460eb3a4098370dc5c59a01654e2560b38388586da59
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/26/es-pytaetsya-uskorit-modernizaciyu-elektrosetej
+title:эксклюзив ес пытается ускорить модернизацию электросетей ценой спора о суверенитете
+seen_urlhash:446b913c38916af5211ed28d37be4ec1f5fa268c03e334b517e364a126d7ff37
+seen_titlehash:0d8949ddb9782fafa3a69624ddec0a899ad37c0860ea3612f3904d6084fc6c03
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/26/kachka-on-corruption-probes
+title:расследования коррупции в украине показывают киев делает именно то чего хочет ес вице премьер
+seen_urlhash:818f9f659bd6680a7a279879364e3aa587992b9b124b48a3a26e796ac4a30f5d
+seen_titlehash:1fea1120517096060d4cb012093abd6653a8c6d43407e64312b953311f4e955c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/26/no-alternative-to-full-eu-membership-ukraines-deputy-pm-tells-euronews
+title:полное членство в ес без альтернатив заявил зампремьера украины euronews
+seen_urlhash:133c08dceab951f9891ce96f982405e5388acf88fcbd01b88726553a0d6d99cc
+seen_titlehash:dae29ee8a52e1e6a0e6eee2e70fc04ba3110b2522cc689c4497fce1d102e061c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/26/finlyandiya-priostanovila-deportatsiyu-aktivista-romana-golikova-vystupivshego-protiv-voyny-emu-otkazali-v-ubezhische
+title:финляндия приостановила депортацию активиста романа голикова выступившего против войны ему отказали в убежище
+seen_urlhash:4627d09711bb19ac64cd0be1b2f712f0bd4948609e6578e0cd6975f5071b786e
+seen_titlehash:c51c7747c39084c17a94ae4c1b170739280eba905bad067f882ba167a9541e62
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/26/poshliny-za-oformlenie-grazhdanstva-rf-hotyat-podnyat-v-12-raz-do-50-tysyach-rubley-gosduma-odobrila-takie-popravki
+title:пошлину за оформление гражданства рф хотят поднять в 12 раз до 50 тысяч рублей госдума одобрила такие поправки
+seen_urlhash:7fb4442694964684c8aa87bafd47835076a2749723c4bdcbe9b674c0a5facb4e
+seen_titlehash:b5579db127998cdcbd0f455fb3c8959623634e76ed16077eeb7166455c31be28
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/26/na-s-ezde-psihiatrov-rossii-obsudili-zontik-transgendernosti-i-pyatuyu-kolonnu-lgbt-frendli-vrachey-doklad-ob-etom-sdelala-doch-psihiatra-po-delu-chikatilo
+title:на съезде психиатров россии обсудили зонтик трансгендерности и пятую колонну лгбт френдли врачей доклад об этом сделала дочь психиатра по делу чикатило
+seen_urlhash:53e35757d16c487fb30ec668ed79c5f87cf1fa5618a9105148ee6a514b27ddf0
+seen_titlehash:26928c301576a618ba6614f828aaf8a668c12c1f1fc835bb7789e0f265e3674a
+seen_reason:processed_not_published
+url:https://ft.com/content/a9a3a9e5-854a-4ccb-af03-d73f69ed0cd6
+title:iran starts to restore internet access after months long blackout
+seen_urlhash:a027b22a1d32d03f0c100833457b72077c40803cdac34d462c33be071fc5d3dd
+seen_titlehash:3938021ff72a2370b9aef140230b8f923da514c8130877bd508fe9fa6974f3d4
+seen_reason:processed_not_published
+url:https://ft.com/content/ff09de9d-301b-45a8-be97-5a45802c4a37
+title:iran accuses us of flagrant ceasefire violations as back channel talks continue
+seen_urlhash:7872dee7b70b89a0f470344a8b2436883dc8893eaed5f11cfd09019cc8d63c43
+seen_titlehash:00e6714d4b47b58326b6a12ff4709d9e3924821e3bb1d34a96dab3d2d224da87
+seen_reason:processed_not_published
+url:https://ft.com/content/05acac95-51c8-41d5-b280-8df4324e05f7
+title:us and iran the art of the possible
+seen_urlhash:e457ebf5eea0f8a23345d15b66166b3791f9f504312fdf3d5cf6bc2dbbee7a56
+seen_titlehash:7531430cb6e8b487267f779ab445e4bb1fff99870301ea23616398517b588764
+seen_reason:processed_not_published
+url:https://ft.com/content/95415dfc-904e-4ce5-a457-f50041c07ec9
+title:chipmaker etf rides ai excitement to quickest 10bn valuation on record
+seen_urlhash:bf5505629012cf3d62941bd1fd7a10ae14ab110e0f05ea929752187bebfeac7b
+seen_titlehash:df34c032bfbbcaad17bf92fbda0819d1d3204dcc822db1a74b0cd53132c38273
+seen_reason:processed_not_published
+url:https://ft.com/content/5eb3df17-24f6-4575-a50e-782ee97c5f52
+title:uk and europe shatter heat records in mind boggling may
+seen_urlhash:1e206a53a33ad84c6e183bd9d332e847dae1e711bb158d4196fc83d94e23b6bb
+seen_titlehash:cedb79b54422cf813b4c45478d4eef11b4580413a758491257c68a02c66af7aa
+seen_reason:processed_not_published
+url:https://ft.com/content/d372c2b2-0022-4693-b31a-a0bb998c61a7
+title:senior reform uk figures clash over immigration plans
