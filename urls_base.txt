@@ -1,165 +1,3 @@
-seen_reason:processed_not_published
-url:https://ft.com/content/b4f47239-7e05-4002-8d48-8f6f02e81e9e
-title:just stop moaning and pay your taxes
-seen_urlhash:7bd79f712a41727f15c2acc7b2733b10effe1e8d8af69571de9e598579dcfdd8
-seen_titlehash:450bd05f2baadbfa1d2957408221cb6f58945f0ed4598bc2eeaa8b2c8a449c66
-seen_reason:processed_not_published
-url:https://ft.com/content/33e0d067-1869-4715-84b9-fa1b1b83b878
-title:financial reforms set to give 1 6bn boost to city of london
-urlhash:f8768e0308a6c5d98ca0c84ac68c3fa19723ebf695a26b684300169d6457a46b
-titlehash:99d7bba83f431b50def0359e027bbffc71b5323303ca14957e0a4931eecbc51e
-published_url:https://aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss
-title:zelenskyy speaks to al jazeera at site of major russian attacks in kyiv
-urlhash:2a23e65bdfbef5c7670a6de2b983feed65a2d32f6b2fd6e2d8214667dfb36744
-titlehash:1be57b3476e1f4f0d3ea43c5bf56537cff1bf2f511a09483dfe14602f946b08b
-published_url:https://dw.com/ru/the-telegraph-союзники-киева-заблокировали-план-нато-о-доппомощи-украине/a-77281091?maca=rus-rss-ru-all-1126-rdf
-title:the telegraph союзники киева заблокировали план нато о доппомощи украине
-urlhash:1d5e62d34f2dc18fef888260b53e7b86500ada86e3755d713ca27044db7bf538
-titlehash:737784c35df8fb931254a64311af1269f0b5bd3716f1415bffb3fd6b14eba7e4
-published_url:http://ru.euronews.com/my-europe/2026/05/24/vozvrashenie-chasti-aktivistov-flotilii-v-ispaniyu
-title:возвращение части активистов флотилии в испанию сопровождается столкновениями и задержаниями
-urlhash:93a0d07d52ec1c025809f144897ff9b9d6c0680d19f340ed5e30e0ec35380552
-titlehash:51d063284827220d31fba3134c4f840087e8b3b9be3dec06a979d2a05e697a26
-published_url:https://aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss
-title:fatou bensouda on israeli threats against her and the icc
-seen_urlhash:fd6f895ab5c38014afa647257fd3a0c1b450e351ca058cd887a7d3faefe7ba0c
-seen_titlehash:25bd6fb4c81fe0a5816cc32183876ac1456cf3d8b8976dcac2952b3b167eced4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/05/24/bilbao-rally-sumud
-title:марш в бильбао в поддержку активистов флотилии global sumud
-seen_urlhash:36131b35850aa8e936fdabad31923a82c8941409416f524c0c709c1eb7909fc5
-seen_titlehash:025d2958424f4d82f5f9ab5882ab0dc3e2f5cf4139e81931a4e5f3673cc2b3f2
-seen_reason:processed_not_published
-url:https://ft.com/content/a8935e5a-a1f7-43a3-bd01-a37420beb0a8
-title:markets take a collective break but politics continues
-urlhash:20ff1b0f62187a291599c86f2850ec45e11c50460f195627f55e89393ff20dd2
-titlehash:7a968a9061ec8f2991bebeff6bf95614439215fa024efe92382119d0aa7c91b4
-published_url:https://bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss
-title:trump tells us negotiators not to rush into deal with iran
-urlhash:eab6cb6d5f25a23bacecd1da0fe8130e4bac9e407a09c30a0c5126a71065e7f8
-titlehash:1e12835722f3f7a5bedd3aa6d506b6296567ee234b0817515e07091771057672
-published_url:https://aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss
-title:israeli strikes kill six in southern lebanon amid fresh evacuation orders
-urlhash:91bb11abd333aa2e0d5aef575cf2b044e5430626ad84e61e4e58306475ae126e
-titlehash:98121c0129e1738348ef354c1cb33952af9c32fb2bc1227600fd73dbb7e7c978
-published_url:https://france24.com/en/middle-east/20260524-time-is-on-our-side-trump-tempers-expectations-of-a-peace-deal-with-iran
-title:time is on our side trump tempers expectations of a peace deal with iran
-seen_urlhash:40e7431d087e577effebaf9896e14a5cf7c2eda34ca986c29bc30891fec93956
-seen_titlehash:bc4a2a92af689f430bf70fc92b3223fb7a6f673c44c23b9aa1e0ddb262312c95
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html
-title:senate republicans cast doubt on a potential peace deal with iran
-seen_urlhash:7dfda5455af873294ddf3097927db1be67e60ac59601ed5d6a2659976ec59cc5
-seen_titlehash:8cdb82b6ccad0309510179da1328e789586e52b918eb1ba423a6b259d630c01e
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks
-title:number of suspected ebola cases in dr congo passes 900 as health workers face attacks and shortages
-seen_urlhash:c29ebca5b53e444c553f15c3e2323e925aafc4735afefd213c6765cd94c54f6c
-seen_titlehash:e5f6b4c59608e13f7001f5f17f0bf59ac5359a7924e33f893fea419168c869c9
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss
-title:how will iran war fallout impact upcoming us elections
-seen_urlhash:1e6432b08b25f9be0aa67f1e4aefc29f50a97c8c57058f3016d743b31e6122e3
-seen_titlehash:208efd67435c5786f615834980ade32a139e2470b14aa4ca74ea4fef5dcac230
-seen_reason:processed_not_published
-url:https://france24.com/en/africa/20260524-suspected-ebola-cases-in-eastern-dr-congo-pass-900-as-health-workers-struggle-with-aid-cuts
-title:suspected ebola cases in eastern dr congo pass 900 as health workers struggle with aid cuts
-seen_urlhash:6ebfca624b4b2ac8261a768c712618a11fd997aa39174bd3804545f41afc679b
-seen_titlehash:d69d1413002898cf40ee29914621d73e7658e4aff630359e52770e649de54bc6
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/spotlight/20260524-cockroaches-in-power-from-a-parody-movement-to-real-political-hopes
-title:what next for india s cockroach party
-seen_urlhash:f6378d3d846a73d5333725278dac1f7659fc5aac9de118fde667e5a9d351e33a
-seen_titlehash:f5f239c893201623b719514a9db8da093cc002be7d919e1d07bd955248f5ed5c
-seen_reason:processed_not_published
-url:https://dw.com/ru/консерваторы-побеждают-на-выборах-в-парламент-кипра/a-77281424?maca=rus-rss-ru-all-1126-rdf
-title:консерваторы побеждают на выборах в парламент кипра
-seen_urlhash:f69d975ba6262c4721651cd9946a5b2d3b462d748b2bcd2d0ff2c9fdeaaf1a27
-seen_titlehash:87a08cfafdc3409e4005bd60c2162a79a1f49757de48504ee61e3b28d180e86d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/05/24/thousands-gather-in-madrid-demanding-the-resignation-of-spanish-prime-minister-pedro-sanch
-title:в мадриде тысячи людей требуют отставки премьера педро санчеса
-urlhash:9050e317b786f7cafee564f88b72ac5ee87a2f3ab6fca96c596d530cd07a5cc1
-titlehash:0cb48cd6256877a918cf3c601fbecaa5e6e10b4da0653e4df7f69becdb77dec8
-published_url:https://aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss
-title:ebola spreads in the drc as authorities struggle to contain outbreak
-urlhash:cf8fba27657b928996bf43f7695507417c586b036d0b71c3faa8fdd260c4142d
-titlehash:6c0412e245f70f8a727ff9f75b76f7698db8bfd058281ea0e9113de1753bef65
-published_url:https://france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes
-title:we don t know what the death toll among military personnel is kyiv reels from russian strikes
-seen_urlhash:3b5597b5f2458c665868a0a855b29b6fc51488ddb73bba897953b9a408a926ea
-seen_titlehash:006ea06eddfdfc3af2e20277f4b6b11f5706c22e279fb66f10c1eebbeaea58d8
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss
-title:she was told to marry in a country which bans girls education so she got in a taxi and fled
-seen_urlhash:1199865b85a2b81aebff55d3e9b0e20c9ca9575829bf5a76f77394c9b91f970a
-seen_titlehash:6696d8ef284cd082bc73b58eded700f997d34ad63a49d514b3b8f5ef766332f4
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html
-title:the oscars start at cannes
-seen_urlhash:310c753ce5ed737dc50238c3357a2f630aac7f1c17723d2c972a4559464ff76a
-seen_titlehash:d49882c02b367f0fd124d85ce1dfa184015ad5560db694081c9347a0157ee48e
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html
-title:israel s president isaac herzog denounces israeli violence
-seen_urlhash:b58dd2ec1fc60178c2eea63ddc1a27818b136748d6f14e198b3edb0bb08f6d9a
-seen_titlehash:8fd09c5310aed1ad35ff776588e61b832f703796a0c9b4865d99e97021aeaf62
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html
-title:caught flat footed a city races to catch up with ebola
-seen_urlhash:470ceaa9a684809ab0f478b041fc171ba6acb82d3db60f3bfb1e73b5a3de9e98
-seen_titlehash:48ec8c0ad5b6605f46cd8f293fae0d811c721b2d4c44fe7bd2641b5f447a7763
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb
-title:australia politics live speculation teals may form new party gaza flotilla activists arrive home
-seen_urlhash:5257040f7bb7f3fb70359bbc7bc612c98e1267ffd4dfb8cec299aabad9a08250
-seen_titlehash:65abb0881ffc5edf02de2bb2594530fd72e2189c3cb54b8d089d46650be4432d
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/may/25/labor-urged-to-use-anti-corruption-commission-appointment-to-restore-public-confidence-in-watchdog
-title:labor urged to use anti corruption commission appointment to restore public confidence in watchdog
-seen_urlhash:d0f4d3c4728ba5f02918093e207e43d01bc8b157ad4fde1f6f96735e30106810
-seen_titlehash:04df9f3779f7b8b70ddcc59f8148707cc45d26733c8fad1cdf978541f5bc956e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss
-title:pakistan s eid livestock traders losing as war on iran pushes up prices
-seen_urlhash:b4b823c143627bafef96bc31e93263a54c8bee484488d38472a74ac7fee5e2f0
-seen_titlehash:a999a7dbe391e313d208c63e15e5bcee8f46b7133f361b7bda390431a3df735f
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss
-title:senegal parliament speaker steps down as political crisis worsens
-seen_urlhash:c1d9939563942dc951c69bafe639e98bd1df4590843faa0dc71200c6d8829ec9
-seen_titlehash:5b26d21876b8532b906623398e32c24451443f84f5f318cecebd627c25f8f3e5
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss
-title:trump needs a deal no matter how bad it is
-seen_urlhash:69f9aef0e3083c498d665c528e568d5983d651e5914ed631d9c6dea49083f679
-seen_titlehash:52315ee91af32f859fbda0bfb60b59ad904f7ca0d29b2b09a9b376d23d4d50ba
-seen_reason:processed_not_published
-url:https://france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis
-title:senegal parliament speaker el malick ndiaye steps down as political crisis deepens
-seen_urlhash:cf0c9c5ead0ac8ea6f2ba4c618de8f7d9be30c4cd7320cdcf4265a9b384f2193
-seen_titlehash:4ad24c75eb42f75f361ac36982939eac6fe58a1387de36ffa053f7aa551420f7
-seen_reason:processed_not_published
-url:https://ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b
-title:uber weighs higher bid for delivery hero after 11 5bn offer rebuffed
-seen_urlhash:79a9e2cd0d667c3af97fc7660c89e84bbf9b13fa66b7ef949553125e8e85154d
-seen_titlehash:f47a0d4ebf55cefa3a979d34d4a016455153de87f2c39144b3c61c7ef1e7a3e8
-seen_reason:processed_not_published
-url:https://ft.com/content/c0d614c4-8904-40a5-baa0-787f9683cfd7
-title:republican hardliners warn trump is giving up too much in iran talks
-urlhash:56b8326db89827b99de401938c4f435d665fc2e4b2d218bd56c87cffff258d72
-titlehash:020134b1ef92adadb091298bf12d27a9802827c0dae03ad917b4f41a04ccf346
-published_url:https://aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss
-title:cuba thanks china for rice shipment amid worsening humanitarian conditions
-urlhash:51e51c9bd0ba010797c724cd9583f27c31ffab96de82e4c5a143ee4bd4a60387
-titlehash:e70be811cb7b4c268dccb127aae36aa3a4a7a89206b9e02558c697efc2653f5f
-published_url:https://dw.com/ru/sipri-численность-миротворцев-в-мире-на-минимуме-за-25-лет/a-77267375?maca=rus-rss-ru-all-1126-rdf
-title:sipri численность миротворцев в мире на минимуме за 25 лет
-urlhash:85a39b89bfdc3d4303dfc34dbba64ca1f80cf398e61384f382a568d539f6aaed
-titlehash:d53ec65cd521014cd1e65c7ca8f721e9c7213a3cf0a3db9f63b3da107b2cce1e
-published_url:https://aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss
-title:ecuador s noboa pledges to extradite criminals in state of the union speech
-urlhash:51d50961670bd32457536ba56f6ceba4336dca482325d619d42c99a725411dae
 titlehash:495e81d13616fbcb59e978c78decaa41931bf266d5aa8e18219238b953d9960d
 published_url:https://dw.com/ru/китай-пристыковал-пилотируемый-корабль-шэньчжоу-23-к-своей-орбитальной-станции/a-77282162?maca=rus-rss-ru-all-1126-rdf
 title:китай пристыковал пилотируемый корабль шэньчжоу 23 к своей орбитальной станции
@@ -4998,3 +4836,165 @@ seen_titlehash:3f3a00c5223361e39331dc9f1ae9c96e7152daf19a8c9b8ad2538394ca81b2b0
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/03/27/the-war-room-newsletter-the-war-that-shaped-modern-iran
 title:the war room newsletter the war that shaped modern iran
+urlhash:c96e7d4708f19ecaa31ad234dbce041b4d5ee24d296eaee5ea068180df85aa2e
+titlehash:c91d80d0fbead7b87124ff1d48fd1a465a87b0d27300117b0a906ab45179b137
+published_url:https://aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss
+title:why is israel ramping up attacks in lebanon despite a ceasefire
+urlhash:2296837ebf76e42413c2d4f365898adbc05ef7277892b414777abf4d7e2780a6
+titlehash:353475356c3fd79c6c2592869e1f93d5037220679269e5548dd05663255d576c
+published_url:https://france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes
+title:more than 100 000 people live in this city israel urges tyre residents to leave homes
+urlhash:f11c25cbad5c1a58383f97ad00a09f7e0b5d46b3ac18a69c53b9b4ef69458996
+titlehash:132efc8016a39ee1dd55d79101618b96eb20e78804b0eba8eeffe2a2ec258d44
+published_url:https://aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss
+title:trump says no one will control strait of hormuz
+seen_urlhash:10d2e1fd74ea44d6d0a7ffe87357737d0b345a23f085464fb7d3aadd9450e368
+seen_titlehash:5a0778b3c74aed04c8681ac0ab76c0c30c6bd42ce40647e14f70e0b0e773c0e2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html
+title:cease fires but no peace
+seen_urlhash:2bcfa6a40f7fa834d72f3332022f84081021259ba2cd54918d34755593bec07b
+seen_titlehash:22c3993564f01f46f60dbdbe8d0466013a6012893ca9801df936e396a24c3dd4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/27/world/africa/south-africa-ghana-immigration-protests.html
+title:why ghana is evacuating hundreds of its citizens from south africa
+seen_urlhash:7a79c9e11cf1fad2f7f535576aab43c684296f80f758483d9114a7fd9db3cd51
+seen_titlehash:0d1018638942f4e6c813cf80a598404f258c2aa6d317ce68ae3027282b259e2d
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/05/27/world/iran-war-trump-deal/oman-threat
+title:trump threatens oman a u s ally over the strait then says they ll be fine
+seen_urlhash:125b930ea362132f80df628d69044c94171bcdd1df297ed83207c13246de29bd
+seen_titlehash:fa66296493869984a6366c4dda2e41360392e592b457e919b857fefc910b9427
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html
+title:trump says he feels no political pressure to make an iran deal
+seen_urlhash:670f8b7920e15789e40174fc7b1b406ad35646d788abec09dd603ae1898a149f
+seen_titlehash:7277ab5cc0629d9da9a2196ac1bc930d6990ede2caa7a39b00375000295cbed8
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb
+title:australia politics live rishworth says jobseeker changes to address varying quality of for profit job providers
+seen_urlhash:c7a6fdc21a8afe3248a716431da6bfe4a9435390979d2f99db085269ead0fd84
+seen_titlehash:e5f5a6aa52d19285c24a9b99dbf576db846b8d37d0c845849a09328475e18c1a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss
+title:former assistant to tv star matthew perry sentenced to 41 months in prison
+seen_urlhash:5b61ad2cbb82da762d68849c34b643cd9a8ce50163def238a610daf92da53113
+seen_titlehash:e49ee588132b546b73bf61e6648e64aae05c4e36ce7dabaaba53ebe44a6fba3a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss
+title:ghana welcomes first group fleeing south african anti immigration protests
+seen_urlhash:3b627c220f46d7e0bf6d08c534506aa665eed457f3ee831acf5f9ffc424c5f43
+seen_titlehash:426b783173b78ad505f65e444490effacfe7d29f3c1c8be60401a2252aa7bc78
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss
+title:alabama pushes us supreme court to approve congressional map for midterms
+seen_urlhash:c13a0ee022e54a44dcb8843962ecd6737418ae5e1793111358a8aaf9346b6b62
+seen_titlehash:6b13dc73b0b486111b678968ba416f1fc84a022e211bc0eabca8dc81da8c218f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss
+title:trump appears to threaten oman over strait of hormuz impasse
+seen_urlhash:65281f329115689a1a2ed134fc02cea9486eed10b21dd74d85def9cf397bdfa3
+seen_titlehash:f93817daad8441c897d2e3892c961e22336bf09fc2232b149b27497420fbe64b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss
+title:israel orders evacuation of the lebanese city of tyre amid bombardment
+seen_urlhash:47ba8b74cee6b2f1df6ccc9315f3c9f5eb775178eba7901e97fd47716b6795ae
+seen_titlehash:b9b4755e5bb440e2f75880506831a74229324e9f41cdaed47caec804f8be3f76
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/27/floridas-alligator-alcatraz-migrant-detention-centre-to-close?traffic_source=rss
+title:florida s alligator alcatraz migrant detention centre to close
+seen_urlhash:c3b23a89d49f3bad0f27d2cf08be75c446da30c8709c84581ef54301aa1b5080
+seen_titlehash:f486a661d1343174feadc73215504a1f7df33a569c1b4d48297d786ca040000c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss
+title:raid on indian opposition leader triggers violence in kerala
+seen_urlhash:8074796508f718e54b8717cb376fbb78740eb4168bf907bda3568e5f6558a933
+seen_titlehash:60bf5dee882742454040725be5b52609e4d0e9e1171d5d3a6340a9e526499b15
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss
+title:india orders demolition drive along border as pakistan tensions simmer
+seen_urlhash:8159c0df7cfcd0669788f9fcd6d2cc316452fc1a6e93d20eb746f70dd347051e
+seen_titlehash:a41585b0ef7e68d0e42fb962b29c984fdc3075d24fefccab6eafe790994b4f6a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/russia-to-task-bankers-with-shooting-down-ukrainian-drones?traffic_source=rss
+title:russia to task bankers with shooting down ukrainian drones
+seen_urlhash:2280ecb5bd95e966aeb3f4c478a5e54eb29b4e5a15977993dc9eb0e0942ab5fe
+seen_titlehash:40adf2054b6724da97ae8de46dbee503a1006975754afb3152cf6b9c7fd76dac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats?traffic_source=rss
+title:eu states summon russian envoys over kyiv threat
+seen_urlhash:8785fccfa1429cf0a3c4c71cf7ff2e53c2563f1038b5b22a0bd50b6bed428247
+seen_titlehash:ee5d250ffcd599f2a4b97219583ae922c2e1244324401571b21d898185be6370
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss
+title:iran government sells subsidised meat for eid al adha under blockade
+seen_urlhash:2cf4e10e9d476e39d9f355464d38afc85a25c836106a82bd4049779fd789134d
+seen_titlehash:4462879f7f9654df684a3609f0ff572b426de68fdebceb81fed9d5c425d5011f
+seen_reason:processed_not_published
+url:https://france24.com/en/ghana-begins-repatriating-citizens-from-south-africa-after-xenophobic-attacks
+title:ghana begins repatriating citizens from south africa after xenophobic attacks
+seen_urlhash:141983b6878325f997d91291085754185f3b2d21cde413d8fb9235a0c20d3011
+seen_titlehash:0d9b1d51831e769fd2e8313b7b6b31c13a4acdbc9734d6cf4a4709e5b0fc3820
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella
+title:norway becomes ninth country to come under french nuclear deterrence scheme
+seen_urlhash:8f0ef9629068a8b53ca850275ce5903bb23200590a1467aaf6e18042783d869e
+seen_titlehash:66a0d97c93b09a31ce56dfeb27f6bd55e4dcf5eb2665110f9b9b971d2886c0ac
+seen_reason:processed_not_published
+url:https://france24.com/en/where-does-europe-s-far-right-turn-populists-look-to-distance-themselves-from-trump
+title:where does europe s far right turn populists look to distance themselves from trump
+seen_urlhash:7f088a0517c870cd1441522d739bc7ff41503c2d762f2ccf8a8190caba81ebfc
+seen_titlehash:dac9e014b15569be64f37bd24ede0aef3f8aa5d3c3b2152d944bc4f910d76c79
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20260527-hotter-than-july-can-electrification-save-humanity-from-soaring-heat
+title:hotter than july can electrification save humanity from soaring heat
+seen_urlhash:0fff2b0ea6ba3d4d81cc5d3899f30ef26ee91bd06ccd1a607fda528587c7da01
+seen_titlehash:ce9a2a674cb16f6c1f34ca3794548ed012138589abc35472647ae999d582b97b
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260527-iran-war-drives-india-cockroaches-out-but-can-modi-crush-them
+title:iran war drives india s cockroaches out but can modi crush them
+seen_urlhash:784a752c478927c2240803c0b1b9507f210dba58b93a35ebe3e3e63d348640ee
+seen_titlehash:853b2b6a95a679e2994b46f9eea201eedcc3e29d1d04e385c980a8be10e2c30c
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260527-viral-stardom-saves-trump-buffalo-from-sacrifice-in-bangladesh
+title:viral stardom saves trump buffalo from sacrifice in bangladesh
+seen_urlhash:82ed7fa635f9da4d3b7d640c862d9b53f39702744b1ae5ee864b160d33ce557e
+seen_titlehash:2ec57c9e8bad7d56fc39c0dc24feab70f29293f017af42fa6e9fcd7803d12715
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-попросил-трампа-продать-украине-комплексы-patriot/a-77320815?maca=rus-rss-ru-all-1126-rdf
+title:зеленский попросил трампа продать украине комплексы patriot
+seen_urlhash:c16fd82c4956b837bf028fbc9e4c19c029c00df1774c25625e5823942e7967ff
+seen_titlehash:6d423790d1fcdb4b4f3cadb7e97e6f42ec7dab1eed3eb55b59c3808c82b05c8b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/05/27/trump-warns-iran-to-make-a-deal-or-well-finish-the-job
+title:трамп предупреждает иран заключайте сделку иначе мы доведём дело до конца
+seen_urlhash:cb5abbaaff95aa96a07c2af6521025af65c3937ccc9c09974052b2b8c705c5ab
+seen_titlehash:e521aa95be623d2d43cb755466a0bb21b5ccc853a9b16cb6951280e1d1f5081e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/27/vengriya-ostayotsya-v-mus
+title:венгрия остаётся в мус парламент отменил инциативу орбана о выходе
+seen_urlhash:bb874a9a169298a1549fbc9947fe4a3e92d653548f42e8cbe655ba01c3434ee5
+seen_titlehash:d17845932cc369aa7714035bd376d4165b44ba7a58b01c9e1b21521f8ce29971
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/27/27-may-euto-itw-2-haddad
+title:бенжамен хаддад европе стоит готовиться к диалогу с россией но приоритет поддержка украины
+seen_urlhash:7cdcad785d8cee9073750222489596cadb1a345dbae7308bbf0d20d00f523603
+seen_titlehash:104b01b3959facf75dbc2bba50f49a938221d7a415f43896dd03aecd0d2dadb6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/27/detskaya-ploschadka-v-hersone-popala-pod-obstrel-rossii-pogib-muzhchina-ego-zhena-i-dve-docheri-raneny
+title:детская площадка в херсоне попала под обстрел россии погиб мужчина его жена и две дочери ранены
+seen_urlhash:1cc6b3231382f243de600273c092be20de3b5c8782d29bb97cb0cdac0571b722
+seen_titlehash:0a4f93d628d8d4e23c3f1848252a68931cb010237f14bf460f0e141afc496e4a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/27/zamglavy-uralvagonzavoda-arestovan-po-delu-o-rastrate-pri-vypolnenii-gosoboronzakaza
+title:замглавы уралвагонзавода арестован по делу о растрате при выполнении гособоронзаказа
+seen_urlhash:c0fbaa0921b89abb241d3a623663583294096b2dd55e973a10bce05cce04577f
+seen_titlehash:d6616bcbc731e7b6b29413f948fdd9e7a54b11c92289d480c4f5d6ce2463ec57
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/05/27/sudebnye-pristavy-vzyskali-300-tysyach-rubley-s-artemiya-lebedeva-nazvavshego-ligu-bezopasnogo-interneta-figney-na-palke
+title:судебные приставы взыскали 300 тысяч рублей с артемия лебедева назвавшего лигу безопасного интернета фигней на палке
+seen_urlhash:febcb1d45abc4e98d726ce521f48ab794b1c3979391fe0581e0b47ea46498d04
+seen_titlehash:ff73a2f238a6a27962b87648da34c5fb5a21c1ef104bef451ab91b0fbbcae07c
+seen_reason:processed_not_published
+url:https://ft.com/content/177fa481-2c79-4815-97fd-f702d94aee82
+title:the world comes to xi
