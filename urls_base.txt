@@ -1,38 +1,3 @@
-titlehash:495e81d13616fbcb59e978c78decaa41931bf266d5aa8e18219238b953d9960d
-published_url:https://dw.com/ru/китай-пристыковал-пилотируемый-корабль-шэньчжоу-23-к-своей-орбитальной-станции/a-77282162?maca=rus-rss-ru-all-1126-rdf
-title:китай пристыковал пилотируемый корабль шэньчжоу 23 к своей орбитальной станции
-seen_urlhash:f443817f768df5836959c9291b9089edd75be33802f75061076dbd6ed4009ecd
-seen_titlehash:8c05949e1f63be6f9256a269f1518536375ad3e39b3acb34e2da11c259a9e1b5
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss
-title:inside a beirut barbershop shaped by war and crisis
-seen_urlhash:74129a4b0c8a889268279f8fd6fcffbbedabc7c3877736c7eccc1888a14e9db1
-seen_titlehash:09d321429ca65fbf8233178af4fd059d5021be2a135635c300c47eeab7c52a72
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/5/24/after-san-diego-shooting-muslim-americans-want-to-turn-grief-into-action?traffic_source=rss
-title:after san diego shooting muslim americans aim to turn grief into action
-seen_urlhash:f807f9d5af0f4964c6158240192e998970728240b01e568ae99dadc16ea0e787
-seen_titlehash:dfbd694f6056a5737194ad92a7482866468564d32a8de67b4ce88a2c2c3c45db
-seen_reason:processed_not_published
-url:https://ft.com/content/66776a35-908c-4242-9468-19bf7feaa474
-title:firstft xi jinping lambasted japan s remilitarisation at donald trump summit
-urlhash:2be7e803eabf3bf434417520c35ddf232d15a823562818aa502fa59c85ef041a
-titlehash:235385eea9eb6e55ce6f828147b67d9d41d2e145bb10691ea0a3525bf8304723
-published_url:https://france24.com/en/video/20260524-could-alberta-really-leave-canada
-title:could alberta really leave canada
-urlhash:9a6f7d16ca8b612593d552e7782ebd9fff86729d596e2be1f911a66df45d8627
-titlehash:e1b3c2e360855c1bb87df48559bb09fb138d6733963a5300eb02a082e31fffc1
-published_url:https://france24.com/en/americas/20260524-california-declares-state-of-emergency-toxic-leak-threatens-thousands-of-residents
-title:california declares state of emergency after toxic leak threatens thousands of residents
-seen_urlhash:d1f21427f5eb6a4cbb1bca5e44d1228ee37a257e92146193bbd1945c9a7039b0
-seen_titlehash:90fe9d5291fe4a8886116f36f3dcf3ab4ce3ce56bc0f0176b2accd8fd13a0162
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html
-title:in ukraine a divisive 20th century hero comes home
-urlhash:5c2ede2aa81f1d539a51a488a73be330f94e82e6444e9e738221b52f2b897efb
-titlehash:0a8692de59bb3c6dbd140b3a9d06b4c7f43a6c2dc5ef171e8a382792880f1fba
-published_url:https://aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss
-title:oil prices fall amid mixed signals on us iran peace deal
 urlhash:73f7b67f93f192acabcbdd2de0a739ef0a6e23c59caf09f4fc27b592bee06555
 titlehash:42468543d666f43bab420fbf4a7027c3b42881666303a736e3493ff800ed9f85
 published_url:https://theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez
@@ -4998,3 +4963,38 @@ seen_titlehash:ff73a2f238a6a27962b87648da34c5fb5a21c1ef104bef451ab91b0fbbcae07c
 seen_reason:processed_not_published
 url:https://ft.com/content/177fa481-2c79-4815-97fd-f702d94aee82
 title:the world comes to xi
+urlhash:79d4ce95d919064ac0f94ac0be1488bd6afa5a02d12e0a5422a6a059293accb8
+titlehash:0b7789f59808f3f5d48d1db384d392b7c30b04f778b93fc0db85ba83698d8f48
+published_url:https://aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss
+title:markets rally amid hopes of us iran deal
+urlhash:46e9f01a882596fc2edc0130845e456c44159399ec95ac0d4134367ea98bbb33
+titlehash:1d700b5af7c93f31d05d3ffb8b3c7c77374fd1182761fc79d4538f4c1c53d3e7
+published_url:https://france24.com/en/europe/20260527-starmer-and-tusk-sign-uk%E2%80%93poland-defence-pact-amid-warnings-over-russian-threats
+title:starmer and tusk sign uk poland defence pact amid warnings over russian threats
+urlhash:b290b2bd03e0eb845dd5d810a0e69f243291b9aaad478833e5d646a95721ddcd
+titlehash:af66c4774b089af3b818f657a98d6e72c2ad01b1283f75164cbec38e77e60fa7
+published_url:https://bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss
+title:the world s carmakers are struggling to compete with china
+urlhash:7dfda5455af873294ddf3097927db1be67e60ac59601ed5d6a2659976ec59cc5
+titlehash:01379b25bc4c973431c2e2176d383de9dc5d0441cf61f19519c57d8bab3571c7
+published_url:https://theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks
+title:suspected ebola cases in drc pass 900 as health workers face attacks and shortages
+urlhash:cb9b99cf0eedbb274d88952be44110f823bf02e87b280f84facb814a23a1ec2d
+titlehash:1b07bac930d941dc95d5cede35f938bf0f8e9ed89b7687af51125c778c5ae768
+published_url:https://france24.com/en/americas/20260527-french-banker-pigasse-emerges-as-key-figure-in-venezuela-debt-overhaul
+title:french banker pigasse emerges as key figure in venezuela debt overhaul
+seen_urlhash:36b9749637edc985c960c919c256a4302aa2e97e74cb9435374590df630d1589
+seen_titlehash:46ae80d9b3ec8a006935077f5dd94b91d6034db692076f11f503aa46d72b2734
+seen_reason:processed_not_published
+url:https://news.sky.com/story/viral-donald-trump-buffalo-spared-from-eid-sacrifice-in-bangladesh-13548587
+title:viral donald trump buffalo spared from sacrifice in bangladesh
+seen_urlhash:d9a436ba2994df97a968bc404ae72e70fe98f99eaf6b3e87139101e83d9fffe9
+seen_titlehash:306044f9b84afa2b66311fc3e878322568648ef0a5414241e09cdd15e3017764
+seen_reason:processed_not_published
+url:https://ft.com/content/4c09b20f-11df-420e-be47-ce7dfea6efac
+title:uk risks lost generation without more jobs for young people
+seen_urlhash:bc9c570933a39450f93acac30f2ad1a70c6c1b4210a709abe5984cb62a52f870
+seen_titlehash:60e242849f4499e42289added5a66ce7feff83c42ef86bd9670bc68b08fac7a8
+seen_reason:processed_not_published
+url:https://ft.com/content/00482f89-32f0-412e-9366-2e26d4e54e27
+title:firstft world leaders flock to china to see xi jinping
