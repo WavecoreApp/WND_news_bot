@@ -1,48 +1,3 @@
-url:https://bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss
-title:ebola needs swift response to prevent catastrophe says dr congo governor
-seen_urlhash:7d30ea76b1cece3da7d82914c5456261159682a992ff9b93f1b9d8a51294a655
-seen_titlehash:96d63a0969dd529e011c20faec177949c3e66432fb6b56d2061dbea7c2eb083a
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss
-title:australia confirms first diphtheria death amid worst outbreak in decades
-seen_urlhash:cc36a2341a92004e6ba94d7d447770db3af4ebeceacbacbdcdd83928b22978bb
-seen_titlehash:d25d18c456ea60db971368db97290e1ad047a56b2c4ef0b9463e33efe2645a57
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss
-title:china executes man for murdering prominent gaming tycoon
-seen_urlhash:ec3c19d6c85b2c5666df993df20d6eb22ff168c9f33710f94af118cdace33c90
-seen_titlehash:a7baeb5b1fd1f501f2884b5affdc36a7f5d16940e01454c2e6872a93b65b5423
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cg4pppq12nvo?at_medium=RSS&at_campaign=rss
-title:senegal s sacked pm sonko elected parliamentary speaker in challenge to president
-seen_urlhash:070d07c5496a93643ff88435c15808eeb5f184fb00cbe0d6b850f1c3af00739e
-seen_titlehash:93f6360e732fca6201dbe898f741e6fe7d390a3c6b7d0ab73d9ddd88b403830d
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss
-title:dozens of drones crash into sydney harbour after light show glitch
-seen_urlhash:74834a89030dafd4e5f255c0cb6ecc76bd8de61aa8641a30d259eea64f1d446b
-seen_titlehash:5cedb609cf0785cbf7bcc6bcae596bd823f8402ebeb8417dc20cad657a387413
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html
-title:evolving warfare connects the conflicts in ukraine and iran
-seen_urlhash:f2d5ba78bf726d10ea825fa8f65f6cc3757acba711874940e775f0de06d2ce60
-seen_titlehash:a8185da2e646960d066c856ab7d9797685e54c40f0d2726ba3ddfce343fc1357
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html
-title:at chelsea flower show a gnome controversy and some good british madness
-seen_urlhash:944c0a5a9dc58956dfd7c2f781e08ba60c79a92045261d3657310fbcb2089d8a
-seen_titlehash:ab34ed0fa287f3827bcaa93beacdd259a50fa12692a1bbb6937c11751cfad395
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html
-title:belgium crash kills 4 as train hits school van
-seen_urlhash:4d601a79c5e94198024ede21adf4a1571a4b3f25cdc97caf2d827cbbf0bd3bfc
-seen_titlehash:34819d1daa92714db64b5ad620ca095b4485d6de23a9d0278e026502986c3552
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html
-title:israel steps up strikes in lebanon as u s pushes for iran peace deal
-seen_urlhash:119f1fc329b96b2141d7fc415a81b1fbf1c3a11b25c22830af679b7c76e76cc6
-seen_titlehash:0cb5a587a8729b361b04b28cd271f86f133a43689e3de564f57284e29640aa33
-seen_reason:processed_not_published
 url:https://nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html
 title:a dissident escapes china by rubber boat and lands in south korea
 seen_urlhash:662bac4de58ab0d86f03e9cd0e9e759f5d54ac104686ee5e0f0507ee7d45f550
@@ -4998,3 +4953,48 @@ seen_titlehash:7cefe791359d955deb46d4f4c60b58bcb971a8e787b62860479278b06d19ab40
 seen_reason:processed_not_published
 url:https://ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6
 title:amazon scraps ai leaderboard to stop workers chasing usage scores
+urlhash:8b256b49c5d4699c33847fef1cb398804e80426db8f8e909236e97a613c419c0
+titlehash:d269247cd366f66c6818f1bfe26a6707c54cfc3b6a442769667278ddb98462a5
+published_url:https://bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss
+title:learning from ukraine war hezbollah is now using fibre optic drones to hit israel
+urlhash:663b6b9a54a6b602dc0f11a89b78d61359880cf68e8d4073973eb0c608a651be
+titlehash:2524909c7e777039efe1a71c649b17ca3ed0ecc182923e668bf9c5ec1da7d36a
+published_url:https://france24.com/en/technology/20260528-anthropic-valued-at-close-to-a-trillion-dollars-in-new-funding-round
+title:anthropic valued at close to a trillion dollars in new funding round
+urlhash:89b10293210601a71de774b6cd9b8215a736a4d991cc239ccc870c8342bb9163
+titlehash:7a682f570137061aec05737d1ba2e320702eaa67600e068168317377df911388
+published_url:https://dw.com/ru/оон-в-ближайшие-5-лет-землю-ждет-рекордная-жара/a-77338249?maca=rus-rss-ru-all-1126-rdf
+title:оон в ближайшие 5 лет землю ждет рекордная жара
+urlhash:f64a6da072ad03623ea94515ba2661ef7a51f118b8dd9a1be5b82ab5d799235f
+titlehash:307b474907935eea914ef523ca712477ec9bcb344cee88b893ecaf69bf3ab329
+published_url:https://aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss
+title:ireland and qatar halted twice by protests against upcoming israel fixtures
+urlhash:63080f3523ab417453e0d8c3d593709d97f3f22a9ac3de426e4df16d7b59efa1
+titlehash:53b7377d81759207f4a5ee6f66ef445dadcf8e64c8e03b2831e6c202b341437c
+published_url:https://france24.com/en/africa/20260528-who-chief-says-deadly-ebola-outbreak-in-dr-congo-can-be-stopped
+title:who chief says deadly ebola outbreak in dr congo can be stopped
+seen_urlhash:a240eb47188f0ac353a75f9fa3258c02f8f0ab4d8ce543484eb1d03b0d76d99d
+seen_titlehash:e3215770e623849c206073293b10be9b142885ef2c5f9ece536c447d75c9a701
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss
+title:tense protests erupt outside delaney hall immigrant detention centre in us
+seen_urlhash:6258793af10a51669b5d1f928d8f37d8745776c77d66d937ba45186bea821b00
+seen_titlehash:f94deaa0e36ee3c7849c692ef23db772c9bd0cbe2435fcb7be416881c6f79e2e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/5/28/indians-celebrate-eid-al-adha-amid-prayer-restrictions?traffic_source=rss
+title:indians celebrate eid al adha amid prayer restrictions
+seen_urlhash:8e6dc9165eec9eed85b0629edc7546a50d592191ee4ee2f670cf899c1ec93705
+seen_titlehash:73dfcad57ea1f2fddfcf618be27b4fa662d2a970dd2001be3361c61574a8bbaf
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/truth-or-fake/20260528-trump-s-face-on-a-250-bill-us-treasury-push-for-first-banknote-featuring-living-president
+title:trump s face on a 250 bill us treasury push for first banknote featuring living president
+seen_urlhash:bf3088bd2807dea7366a6c57d15a99a723335f78daea9dab49e1c413b8e34cf5
+seen_titlehash:b0ca444412d73b91fb607cad14ad46eb627c36e1a53acffe9cc8def9e61581b8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/05/28/messina-denaro-treasure
+title:мафия изъято 200 млн активов босса коза ностры мессины денаро арестованы трое
+seen_urlhash:c77ba1b8059ea2071bc8a9aef29d86f456deafe942113a3bee281b1ccda9b916
+seen_titlehash:544f1764cfc6f7e35488569d26a58d7f0777f32e5fa4405aad2b50cd2ae29ef2
+seen_reason:processed_not_published
+url:https://ft.com/content/d4b90b1e-e93a-4f19-9948-ebf92a58a255
+title:uk and european passports linked to restricted chinese investors
