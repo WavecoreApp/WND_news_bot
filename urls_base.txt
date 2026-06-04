@@ -1,127 +1,3 @@
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/01/world/middleeast/netanyahu-israel-attack-beirut-lebanon.html
-title:netanyahu orders israeli military to attack beirut suburbs
-seen_urlhash:b4ad7d2a0f7865ce9439624782afc96f2e25864770aa0adfa76623c4a50eeb1a
-seen_titlehash:8f500190d6cdb599a3f26d02b8f18ea18adcf7c50ac030bc85a5264cce0130ba
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html
-title:chinese military sought nvidia chips for years report says
-seen_urlhash:8340ee970b8f502ab125f4735a12595199d5cdc0a8c7aa2e5bdfa0b9298ee32a
-seen_titlehash:a58de344d57bbf358e83a0685ec3eb03f8b7bbbefa7e2782c69edbde61338f2f
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html
-title:china aims a i at predicting who could pose a political risk
-seen_urlhash:6ad9c9126f346fb68bdcd1411c6562034e3901ebbe94620f5f99a3477a7f0184
-seen_titlehash:698618ed20ece43853264a34558088342730012fd135fb8eac0b4134511b9e2b
-seen_reason:processed_not_published
-url:https://nytimes.com/video/world/americas/100000010902264/what-we-saw-driving-through-venezuela.html
-title:what we saw driving through venezuela
-seen_urlhash:b881b2e5236fe698d1c4bf6ee48aac4c79b3bc981d9d58d4afab8ce239734c78
-seen_titlehash:1611f4295a5d577c08b0490d37746c94d01b3815e648f8d223d546e1988efc75
-seen_reason:processed_not_published
-url:https://theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity
-title:people panicking as ghana passes sweeping law criminalising lgbtq activity
-seen_urlhash:082e8e0d07abc50c6db3119d2924caa56ba326f90b2f00eaf581d33643ebc704
-seen_titlehash:3c9ada1fffe318b522e05878f6027657b485177a826bb8cd689717a174c1f2ab
-seen_reason:processed_not_published
-url:https://theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme
-title:uk will not have to pay rwanda 100m over failed asylum scheme court rules
-seen_urlhash:ecc55de4b764ba3daa83744d5d33682730a7b1ec5efd40418daf34fc53490ec8
-seen_titlehash:062b6a1bcfaf082761e188496775f24734ac6b1d4dd57b93469ab111bb32d0f6
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study
-title:wildfires devastating richer areas but fewer hectares burned globally study
-seen_urlhash:8a7ad89431907eaff2e9c9946a1b798a9fa225575e7df012fc519db21176002b
-seen_titlehash:c416454d1fadb2651e463b82fd67d15650028eef2f87a02f50a4cc356710d903
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak
-title:who calls for community cooperation to contain ebola outbreak in drc
-seen_urlhash:be5d51f7dd756e6a342a0164b6f8ea021d2ac70ea3154845e18779917858e62e
-seen_titlehash:bc4ce34f4f015ef71cb4c69b6cb67c304437ba27f373c0495b2b32fe42f3a426
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations
-title:death of congolese man renews scrutiny of race relations in ireland
-seen_urlhash:e837572943f623993962beb0304baa724a7e58ef5f4aa57ce93c352a47b19f4a
-seen_titlehash:6e069aa97b068a360f11dc7b050a3a15e1d35c9b7187d04463c00dde10d27b40
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives
-title:trump admirer s surprise first round win is a blow to colombia s traditional conservatives
-seen_urlhash:873b475ba5a06533d88a089eb03af1be34bccca0f645f5cdd3189bbd0b6d81ad
-seen_titlehash:013d1c2d0c64d643d8731f49101ac12926fe9f274e11697cb4304f9deadac723
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff
-title:colombia s far right presidential candidate de la espriella wins first round of vote ahead of runoff
-seen_urlhash:98bb00ded25ed0139af0379981c2cbb199dce7eb5c43361cc645c9480d497226
-seen_titlehash:9e39fedcc5481c96f4c1f6f30e111cdd88851f8430844d8640296f7b163a658a
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates
-title:colombia goes to polls in election pitting outgoing leader s ally against pro trump candidates
-seen_urlhash:8ac136705a2941b97dde9109057009f4ebbcc33c3f0ec27f5718ef18720ada4f
-seen_titlehash:3a6295d3d595299fe3f9d6e30b374ff087b5ebb611e1b13afe504d81ac3bb352
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence
-title:colombia prepares to go to polls in election shadowed by resurgence of political violence
-seen_urlhash:e2526a602cefd606eac669f4b313547a52c48c9c99de8c33787202958435ddfe
-seen_titlehash:0b5094637f0c8640bc5027102cec2cc206c30753d8e5bacce1db8aa4803076d2
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment
-title:alarm at mexico bill allowing elections to be annulled for foreign interference
-seen_urlhash:5865c035d3e1acd123bb305fb4602afe63adddcfcff170c30a01ed5194d43325
-seen_titlehash:b5fb991fa6220b6557034f87c6b6994470317b01586f05eca94b851696fb3352
-seen_reason:processed_not_published
-url:https://theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia
-title:typhoon jangmi threatens japan as europe swelters
-seen_urlhash:762db31d6bedc19240f4c0656301273ec8b98633c8730f464589b017270b0c4f
-seen_titlehash:e64016e394c6880490bd572ffe44b70d630c1af19880de1ca7f4e55b52d48007
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china
-title:japan defence minister rebuffs claims of new militarism levelled by china
-seen_urlhash:af950920eb66ba7c1fb809445d3a63437302b2df92e1a5c5904497cdc3046e29
-seen_titlehash:70ac37b2b0ba9367b4cdcac7c259456d6502ccb89d753a2c8ac5a8a164bf1893
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth
-title:new aukus drone tech to protect critical undersea cables as marles warns seabed is a battlefield
-seen_urlhash:7e6f3bc9661e8b623673a126f527ec6b829a703f9c8d357fbcd23629e1f7a3ba
-seen_titlehash:da5f76909d999a8aba8f5e95183c74d7a54bd8af9bc87c44c6788bd0f7e3a7f6
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission
-title:four more men freed from flooded laos cave in hazardous rescue mission
-seen_urlhash:fab8542b6591fb126e1d400124adbebcb3dc8e578fa3331dba5627aaef902260
-seen_titlehash:7799311873a337d3f458c71f0b444a569629483234d2abfbe143edf18ca1184f
-seen_reason:processed_not_published
-url:https://theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police
-title:chinese dissident says he was berated by pro regime interpreter for uk police
-seen_urlhash:39eafb2267709a8386a7c9455fdffe1e37cbe9b58957373e6bd62cbc6d7d45ea
-seen_titlehash:893634952ad81339112038ad5c91422483bc480ed02fe0956cada78e6231b1d0
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb
-title:australia politics live james paterson says one nation needs increased scrutiny minimum wage rate set today
-seen_urlhash:bc5386cf2f7c30b831a65731d09e91dbbb8b1c258afbe0ac940e2b9b00612b32
-seen_titlehash:a0d5e19410da270f21c49a8fbcf4f24fec2ec9a507a4c94fe0ec3b77189dafcb
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/02/linda-reynolds-repays-travel-allowance-family-reunion-partner-melbourne-ntwnfb
-title:linda reynolds repays nearly 9 000 after partner billed taxpayers to visit son in melbourne
-seen_urlhash:9aca06f4ba8247dc064767ef4bbb8216d1f0401f5d036798e9ed5660e188b0c3
-seen_titlehash:582559fa13370e6ead63c8a5454585e0cd9648f6d169beb018db7c742789054d
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/02/property-prices-budget-negative-gearing-capital-gains-investors
-title:property prices may drop but it s decades of policy failure not the budget to blame
-seen_urlhash:97c401e566d883f3f485f0f3c19431b82d601f9f92a031c769a808526a81046e
-seen_titlehash:ba87e6279441189aa607dad4baf4538c264904d3dd72c128f332c2808970c947
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/02/australian-billionaires-richer-than-last-year
-title:australia s 178 billionaires are 25 7bn richer than last year as 3 7 million live in poverty
-seen_urlhash:c008858c40da3eb599498c84cf17996ca1986e239aa5671d6efe0e30e446776e
-seen_titlehash:9b251a5471317b1c796e9f9931fa36dadda8cad6cf8ffe0affef6fdd77da92fb
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/01/labor-cost-of-living-risk-one-nation-pauline-hanson-ntwnfb
-title:labor to highlight risk of one nation to cost of living in bid to dent pauline hanson s popularity
-seen_urlhash:a15256f485a2251730f03c22840909d00a63e4fc2dad7c3d67b5b1596269265f
-seen_titlehash:502e543c1d500f9c1cfc1e1fb975ca6e52081c72a3b07dbc7690c47bb02c5879
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/1/kenyans-protest-ebola-quarantine-centre-for-us-citizens?traffic_source=rss
-title:kenyans protest ebola quarantine centre for us citizens
-seen_urlhash:c89ccb9c5bf93c051d0141e3033d3a219703eeb7a8133cff82721a119e57ca66
 seen_titlehash:dde8661f7845b8ced90c6a0d289597fd694cd653f4e1c612a20c76d5d07cebe6
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss
@@ -4998,3 +4874,127 @@ seen_titlehash:c13f88573adeb0da8a817a8ad78d2b15a5dde4994d655432d61a9d48374dfa1d
 seen_reason:processed_not_published
 url:https://ft.com/content/cd812bd4-a08e-4147-a845-3ad8a932d748
 title:trump s empire of debt
+urlhash:ab16afdd0c2ac4eb4fe7a2f1c77e878995e0877893c33c4ac25a205e926c12e0
+titlehash:cd4edc4d138900e848a16d34703a2b59fff0ed9ff6698a4a3380931386804c0b
+published_url:https://meduza.io/news/2026/06/04/izrail-i-livan-dogovorilis-o-prekraschenii-ognya
+title:израиль и ливан договорились о прекращении огня
+urlhash:9757ea46d15f752bd462f9b03e51493acf044903b25342df8ff06de657c50167
+titlehash:2a2912d9b0b857b5e2e8efbda5ff9b8acf6f87026f59f67505ffcb2d3c831d88
+published_url:https://aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss
+title:iran war day 97 tehran says no progress in talks israel attacks lebanon
+urlhash:3308d7bfe9a7ae95b41d7074355aa85771284c0bd28e2c8a1ec4c8cc12140419
+titlehash:e6d18bb38aeb76361af25f7679181f56d849697bf744a5108e557818dfe70860
+published_url:https://dw.com/ru/палата-представителей-сша-проголосовала-за-помощь-украине/a-77415725?maca=rus-rss-ru-all-1126-rdf
+title:палата представителей сша проголосовала за помощь украине
+urlhash:3e058fcafc02507311d76abde3da6f444a7b63949f87cc4389c47dbf47b61483
+titlehash:c0f8052a5c01172c36ce3a4399e0726b8b5b206de56c782ad28c641c5b5b6acd
+published_url:https://aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss
+title:what the us israel war on iran will not change in the middle east
+urlhash:b268b0ae42a84bde147a867cb34582552430b4ba344f20fe435cc3721bc40266
+titlehash:d588744f2de2db686323b803c01603a0f120ce50798262b2e3be84969adca8a7
+published_url:https://meduza.io/feature/2026/06/04/pritok-migrantov-v-germaniyu-sokratilsya-vdvoe
+title:приток мигрантов в германию сократился вдвое в стране стало меньше выходцев с ближнего востока и из украины а число уехавших немцев достигло рекорда
+urlhash:d4d1e1cdd5b48bcf4a349b9e8759415e26338367e1e7fedc62bfd60d74db8f28
+titlehash:038ae8382b4609c1a80e73941743369672553e434f0295cdea57666cf71f44d2
+published_url:https://aljazeera.com/opinions/2026/6/4/gaza-is-being-offered-coercion-not-reconstruction?traffic_source=rss
+title:gaza is being offered coercion not reconstruction
+urlhash:fdebd697a3df4cbbfd7c9250eef99f90f8cfec08d68fdec5bffdd0e2c5293e24
+titlehash:4721ae3d3f9b117e34a7de34cce8e0e8b5e9330136598b0f88b6ab924494370f
+published_url:https://theguardian.com/society/2026/jun/04/victoria-child-protection-system-vulnerable-children-deemed-not-at-risk-now-dead-ntwnfb
+title:dozens of vulnerable children were deemed not at risk by victoria s child protection system they are now dead
+urlhash:eb381896718418a1ac5d4a0332a8907bf4575bc86d9a9043666fedf538b8e4d3
+titlehash:43b5e76aa74c89b764d78444d25134a4351463c5e0cd8513376d4c7656e93100
+published_url:https://theguardian.com/australia-news/2026/jun/04/nsw-police-strip-search-powers-court-appeal-using-force-to-move-body-parts
+title:police can use force to move body parts during strip searches nsw argues in appeal court
+urlhash:50b13b642a2ca96c44dc9d56624b2fb5d0ef9f59121709ade840eb764b80aa0b
+titlehash:58c6013ffc62e275f12eba4c00b5021c6c8f8eea19ab18d33a92f4042d810489
+published_url:http://ru.euronews.com/video/2026/06/04/cubas-fuel-crisis-leaves-havanas-streets-overflowing-with-rubbish
+title:топливный кризис на кубе завалил улицы гаваны мусором
+urlhash:4729b7bcf37beaf093ee3c55c2b653d670a492773a0c57cb938042492122503e
+titlehash:bbb04a74276a966cedf0a40331f276a4239806d25e05f619290b81516dcd1a25
+published_url:http://ru.euronews.com/2026/06/04/izrail-i-livan-soglasovali-uslovnoe-peremirie-posle-peregovorov-pod-egidoj-ssha
+title:израиль и ливан согласовали условное перемирие после переговоров под эгидой сша
+urlhash:a0130fe8d6348cd272bfd7f58948e08a2ccdae69790f2b406fc7fe285e8b5685
+titlehash:ef16313911d050ed44064bf3647381e3b9d21eeddb70150a347c8d1e2432fa35
+published_url:http://ru.euronews.com/culture/2026/06/04/judge-allows-kanye-west-gigs-in-the-netherlands-to-go-ahead-despite-protests-from-a-jewish
+title:суд разрешил концерты канье уэста в нидерландах несмотря на протесты еврейской общины
+seen_urlhash:282ac723ea9b58e7fcb9e1d742fdf8bb28b7c6ba9c252a265ab8ad277578c71a
+seen_titlehash:eff2bcc22ff0101be1e6e70d9ee8368c44ec18410bf89daf5a254d6107ef3bfb
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html
+title:south korea s governing democratic party sweeps local elections but faces setback in seoul mayor s race
+seen_urlhash:df45ebd89463209507bb9feea45e988edbe6ba68a69a536bb7f1ff606ebf79f2
+seen_titlehash:bf872b2d3102dba8f5045c85f09649d6d2120d2d5a8b2199b361c3c3b0b44f20
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/4/whats-behind-the-white-houses-alien-gov-website?traffic_source=rss
+title:what s behind the white house s alien gov website
+seen_urlhash:c89e62051bb35b295e18c25f372f5269fa6d2abd0316ab9ad953921991d593ef
+seen_titlehash:421fbbf56e94c593b83a4a53d18486fe39a8a8906e6d9f514e64a6f3db6076ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/4/what-are-the-ebola-vaccines-under-research-and-when-will-they-be-ready?traffic_source=rss
+title:what are the ebola vaccines under research and when will they be ready
+seen_urlhash:ace030f191baefd7eb6e9310cd434af883f2b1c5c3d965d7f402c2fa935dd20b
+seen_titlehash:3a4d4fffe940681d58cd25430daf6496c3e387a5ffa0d1e1d959cba90e4babc9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/4/how-indias-cbse-exam-scandal-set-off-student-outrage-against-pm-modi?traffic_source=rss
+title:how india s cbse exam scandal set off student outrage against pm modi
+seen_urlhash:b4b721dd16e93b119df1acc6ac776e00a6cabf6dc47c855d1137c9ebf4cdec43
+seen_titlehash:84e40775e6a865fbb42cc597c0451dc6464f1ce96a6dfe1234977fbe48139906
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire
+title:israel and lebanon renew ceasefire on condition hezbollah holds its fire
+seen_urlhash:6ed48a9a237959abb52fc40058a9969647362ef27ad45024f7f64d4f4e1f3715
+seen_titlehash:5f72096d20f5ae86cc4f9f6245bfcd275bf545961bcc3677ea18df0a34fa6a2b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/06/04/alqueva-dark-sky-reserve-wins-award-again-portugal-could-be-a-pioneer-in-many-projects
+title:лучшее место в европе для наблюдения звезд находится в португалии
+seen_urlhash:5717f632008aa206ff3c4602a1f27eb63c754fd029edb1afd8e513ea57e44333
+seen_titlehash:7a6baf9e3e6f9534d7eabee4c9b39481274eaf6d1f2692ec6dab2bded2b99b83
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/06/04/spacex-sets-ipo-price-valuing-company-at-175tn-ahead-of-record-debut
+title:spacex устанавливает цену ipo оценивая компанию в 1 75 трлн перед рекордным дебютом
+seen_urlhash:7beb0af5a8f29d19a94933610c6dea781c7bdc139d1765b71d0aa323c9592e39
+seen_titlehash:476c8b363c40800b32dc93050834984b910337b1772b29858c4e8b4bf66fb2f1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/04/albania-fourth-day-of-unrest-as-trump-linked-resort-sparks-protests
+title:албания четвёртый день протестов из за курорта связанного с трампом
+seen_urlhash:b2a1d92966dfc9aae08ce715ee6d1b7446a5f5930509d8fabd32a4f764ce7d72
+seen_titlehash:4393362a5f9bf8605452bdc21b2bae9f8eeadf2df0d65d2a121a76366511afe4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/04/us-house-pass-vote-to-halt-iran-wa
+title:палата представителей одобрила резолюцию ограничивающую военные полномочия трампа в отношении ирана
+seen_urlhash:42f501118fe251267974c9b3839aa2327376b7f4eafbc492691ee279e0f599a2
+seen_titlehash:ae07cd4ba28f83e011d84e07e099b478edb5690050416b4343d40ed7b394704e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/04/world-cup-player-statues-toppled-during-protest-in-mexico-city
+title:в мехико на протесте повалили статуи футболистов чм
+seen_urlhash:35b32735c6815cb57c8bee11a2c4745d50fe88751c506a7281b8b9ad624303a5
+seen_titlehash:e6a19db2023a79c16ae6437229bff936a8dea7ded0cc686d94240d26e6175fac
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/04/germaniya-bet-rekordy-po-naturalizacii-i-gotovitsya-k-novoj-volne-zayavok-ot-ukraincev
+title:германия бьет рекорды по натурализации и готовится к новой волне заявок от украинцев
+seen_urlhash:d5b9099ec70beded4da50d5a312138bbd7f098961c1d141c7e916b60560ffc7a
+seen_titlehash:806e2a0a2db78acb5b0d635db809f4dd40c8a83d86acc5b1aed843179a68d3ff
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/04/europe-today-eu-considers-expansion-at-a-high-stakes-eu-western-balkans-summit
+title:europe today ес обсуждает расширение на саммите с западными балканами
+seen_urlhash:768108c16c7bb897d6247f73fd02456853fdd532d00a1ca44f420b028a6848a8
+seen_titlehash:04b6dfbb11aa4ae4f1fba8c1975e6ffb4883bfe331aabbe773111480ffc2d594
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/04/maks-perestal-otpravlyat-uvedomleniya-na-ustroystva-apple-nakanune-messendzher-udalili-iz-app-store
+title:макс перестал отправлять уведомления на устройства apple накануне мессенджер удалили из app store
+seen_urlhash:7fe1211225142b5a0cb44d9ec78960055f0e76e3b888a90bc43c0eba33737db8
+seen_titlehash:1cc4e81de88965299b2d7828486de9a62b42eba811a4335744a87868c11500c2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/04/gossekretar-ssha-zayavil-chto-nichego-ne-znaet-ob-ofitsialnoy-amerikanskoy-delegatsii-na-pmef-priezdom-kotoroy-hvastalsya-pomoschnik-putina
+title:госсекретарь сша заявил что ничего не знает об официальной американской делегации на пмэф приездом которой хвастался помощник путина
+seen_urlhash:7df2eefc601a28c96a6d6647e3aefc8345921b89a5c3444c28959de7a5c75cb7
+seen_titlehash:3c4e16d39c10b6473ea9fdd78ba1a5497cdda67a38fa86c15ebd8669c8dd08d7
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/04/sotrudniki-tsentra-e-govorili-detstvo-konchilos-tebe-svetit-terrorizm
+title:сотрудники центра э говорили детство кончилось тебе светит терроризм 14 летняя школьница из ставрополя ночью написала на остановке имя навального и ее тут же задержали вот через что теперь проходит ее семья
+seen_urlhash:907623df8b123b28d8d8906e1da3a44a95aa63dfb6752687aee17f41e4bee400
+seen_titlehash:126b7f7c9319b2c7e8a48cad01b5e202658dd9ed5de41ee15e2e4e30c9847a85
+seen_reason:processed_not_published
+url:https://ft.com/content/6d67410c-0445-4d3b-abb1-42489e2b9af6
+title:japan s bonds
