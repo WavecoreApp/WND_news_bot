@@ -1,79 +1,3 @@
-url:https://aljazeera.com/video/newsfeed/2026/6/2/hailstorm-hits-denver-and-causes-widespread-disruption-2?traffic_source=rss
-title:hailstorm hits denver and causes widespread disruption
-seen_urlhash:e082e2f58c6d809c82aa2ac08b6d28635b842f6cba5481043baaf9e7be139cbf
-seen_titlehash:c4ecdf399e0a20c868b2a4f25eddb412d17f114a902d85804d9d8407c1d9de14
-seen_reason:processed_not_published
-url:https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988
-title:man accused of plotting 20 iran linked terror attacks in europe and canada appears in court
-seen_urlhash:b646873f7a5117d0d87da471612a3278992fff1f93e1b26575279b37f72c0081
-seen_titlehash:86b8cdd0a848e2e11913f468dcbeae11274b223b6e80bcb6079f893f8089528b
-seen_reason:processed_not_published
-url:https://news.sky.com/story/aukus-nations-to-develop-underwater-drones-through-defence-pact-13549241
-title:us uk and australia to develop underwater drones through defence pact
-seen_urlhash:d5355c928eecf8fbef4fb720c1ac3575cce72cc1dc18136bdfbc2a0839202963
-seen_titlehash:5b5b9a3276e60f7da6c50cbfed94671bbb38decd40dc8940b3acea2ed3efb1c0
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/arts24/20260602-peaky-blinders-star-joe-cole-and-director-clio-barnard-on-class-masculinity-and-modern-britain
-title:peaky blinders star joe cole and director clio barnard on class masculinity and modern britain
-seen_urlhash:2c58a5e7c9c3690b208705d7f7ccdaa76ced26579eacdc6e3fcbeae8a66318d7
-seen_titlehash:e5046bbc1daaeb453631c17660fa7fd8a51aff3d3b67e03557f1bc7fa1a1d9a9
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-japanese-tech-giant-pledges-massive-investment-for-french-data-centres
-title:japanese tech giant pledges massive investment for french data centres
-seen_urlhash:d7b31fb3fe794ef1db8e1be6f764c4111a4749088aee05ac22d2ada69ca8b945
-seen_titlehash:e74d5d54b52dcf12630d0b08992539018687de3678900e99fd33a17c763b2ac4
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/press-review/20260602-offshore-detention-hubs-europe-turns-to-trump-style-tactics-on-migration
-title:offshore detention hubs europe turns to trump style tactics on migration
-seen_urlhash:5274953830f4661dc6dc6f9b544debd622d26dc1a36cbb113d1b79ebf9115b91
-seen_titlehash:2560523f68c87e30f16059d3deba90bb23e95232072f36072eb5f31d837ac89d
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-ukrainian-cities-targeted-by-hundreds-of-russian-drones
-title:ukrainian cities targeted by hundreds of drones as russia intensifies attacks
-seen_urlhash:49a75ec04cf7c41da30d6f479792c89dbd39ee106e590c3de475753d92a98659
-seen_titlehash:a471e45fd6e2d10645facdedb0b28d50b9b186ee6889b342ceec89e4e7d69618
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/focus/20260602-wwii-internment-of-travellers-french-survivors-fight-for-recognition
-title:wwii internment of travellers french survivors fight for recognition
-seen_urlhash:ae5e449a2d62de7c8789fe00d0d9fd010c6c170b89c3784768eb4bf13591198d
-seen_titlehash:f13c2382ad3e9740f7d9336e39663c736e88f4546950c723cff326df474de7b8
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-armenia-prime-minister-refuses-moscow-s-pressure-for-eu-referendum
-title:armenia prime minister refuses moscow s pressure for eu referendum
-seen_urlhash:c65f4cc295c7929054089ee9693f306fd6b586b78de46e5e1fba121f5106176b
-seen_titlehash:6154bb5e9f4a577f610678e7f1582b4a5da744a6d377f4744e5efb12797bb1cf
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-protests-over-us-ebola-site-in-kenya-kill-two-court-keeps-block
-title:protests over us ebola site in kenya kill two court keeps block
-seen_urlhash:527745d7f552492cf0132f03a20117f8979514b67de16fd4c3cbc7fce9383ad4
-seen_titlehash:291b387a4a1cbb7a7cdaf228f4423f34aa16fe2ac3bc6bf3fa09fa6d14817c26
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-chile-s-hard-right-kast-renews-crime-migration-crackdown-pledge
-title:chile s hard right kast renews crime migration crackdown pledge
-seen_urlhash:a7878fb6cb52c67c599860692b486620c3083249e5e1fc4960c25baea1687c7d
-seen_titlehash:670739f2b0e287a60d2193d9342707df5da5116324b477e34d938fcf3cc6b84d
-seen_reason:processed_not_published
-url:https://france24.com/en/france/20260602-french-astronauts-set-for-2027-voyages-to-iss-and-first-commercial-space-station
-title:french astronauts set for 2027 voyages to iss and first commercial space station
-seen_urlhash:acb7514ba025a2c9f3ee363d2092d70359d49d3a7f1638367d32b61bbb5616e9
-seen_titlehash:b3e6fae8ff434a47dc20e10c2410cac33e7d05463a3463a3432c7f4c79894c54
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-israel-hezbollah-exchange-fire-despite-trump-announcement
-title:israel hezbollah exchange fire despite trump announcement
-seen_urlhash:ebcc22dbe248bc48d6afd916dd7d39b22309d08e1e38bc4628df3820ab0f599e
-seen_titlehash:7ac0ea01b2856bf8e8365cb258a1bbd20d957b825ecc51e99838ad25e1ec0f50
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-crazy-trump-netanyahu-tensions-flare-over-iran-and-hezbollah
-title:crazy trump netanyahu tensions flare over iran and hezbollah
-seen_urlhash:747fc0bd3f893fcdeba3054630f7e7a33f9f1996dc3a9674b2abcebaf2b8bad1
-seen_titlehash:b7715a91804b0be0f1e86fbb3a5efcde22941597b6a055cffa75a08642d84309
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260602-trump-says-iran-talks-moving-fast-despite-threat-to-widen-war
-title:trump says iran talks moving fast despite threat to widen war
-seen_urlhash:314ba6b0fbe27d4be939c9d08f9ccd52495a045ecc87cc0572ce508fe8207eb5
-seen_titlehash:7f835820ec54442d65f58259e6011c714aad4cd167b2b83176d24a8de03bec23
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/business/20260602-ai-startup-anthropic-files-for-ipo-after-reaching-965-billion-valuation
 title:ai startup anthropic files for ipo after reaching 965 billion valuation
 seen_urlhash:5c36810cdef7cf72fd9e1d1793f284b2ebfaed020b409cbd8447ff5a3f3bbb12
 seen_titlehash:87bfac9969db867049990960218581379eb7b7ecd85ccc979e0eeb03bb796869
@@ -4998,3 +4922,79 @@ seen_titlehash:b2476faefe2eaf5a820570aee4e9c46481af7392751d715d2cb39fb35209a153
 seen_reason:processed_not_published
 url:https://ft.com/content/d6c1b19e-f28d-404c-b9c3-62f43848b9c1
 title:tech groups find a new way to monetise ai hype selling volatility
+urlhash:e66103be9e33519d357fe78a9e4aad0d3a61766dc10274ce250162c727a0dfb3
+titlehash:be77cfb67148bd2cb3911100057d5f03da626d7544786f902a9b23ae3051742c
+published_url:https://bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss
+title:zelensky proposes face to face talks in open letter to putin
+urlhash:f791e83e78059de8d46cc3be7876f97a476e5493ee12b3775403a8becbda0500
+titlehash:d0b71291b547b8258731f984c259be9d0c5b69a9d76f2ea4fdc20ed030ab8a02
+published_url:https://aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss
+title:hezbollah rejects us brokered ceasefire deal between israel and lebanon
+urlhash:ed1b35476e5776e2b87461cec1d0fc07f451986da6f167202089be71a50fef19
+titlehash:9c48b5acd6b4ad26708b98b5e2aec118014e17e8d69007819d1c9431e7816f41
+published_url:https://aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss
+title:why is the us so invested in colombia s election
+urlhash:a0714a50215c1d31a43bd97fc59ec93e41054f7269dd5a87d95696f7a0563626
+titlehash:3de5f68793bff5c6fc962ff63dab5ad4848a07713c351292d46869ce10bd5ab1
+published_url:https://aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss
+title:lebanon latest hezbollah rejects us plan as israel continues attacks
+seen_urlhash:ad8eae79ea786f07f7d7f4b4af9dad38278d9bed16519d46ce996acd8fc98464
+seen_titlehash:cca9b15185b8fd925fa6aec9db97f694c972c63464a5be18febbbd4f20f78c3b
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss
+title:ex wife of dubai ruler s nephew in custody prosecutors say
+seen_urlhash:ef37f4d50be33d39acfed9f81708afc8bb09065b3904dce977569fb5c273f77c
+seen_titlehash:66c319971732e08ee58292a1b3aa06ce5f6945b56f6c5d7469eb40d5a31578a2
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss
+title:here s why election results in the second largest us city are so slow
+seen_urlhash:f05ed79389f64a1be82442c42127ebdcf92f41873ed1d410275d4bc07ef324ca
+seen_titlehash:4a3330d2f80ab14ca33269b4ac2650f206b75e5e1e96a266f95f9b1f1fe85a30
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss
+title:kenyan president defends us ebola facility amid deadly protests
+seen_urlhash:b6e652e3b520d8205729fb97b588530f68b80aa50d7724ee87d15d4c269f3d79
+seen_titlehash:a77b4d726761a35ddb802df291f729069fe613457e95c0536dc6384e4b2c1abe
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss
+title:us defence secretary compares bolivia protests to government overthrow
+seen_urlhash:1aac966a4fe69bcdaac1d4371184a3696ea55dcc5286f1bd25673514054c385d
+seen_titlehash:a07a226b080aabd651bc4c941e85d732baa9d620a0b230be37832afc3d69243d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate?traffic_source=rss
+title:what is the uk s two tier policing debate
+seen_urlhash:eaf83b311ec6fcade9bda14499d2ed157b0c150844da61aab0e813be2adf52c1
+seen_titlehash:5eb6c37631b1d386b0c6e6b11147fc1c7fe1b44e65427940974508db1bd45d12
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260604-us-sanctions-cuban-president-and-castro-relatives-in-latest-pressure-campaign
+title:us sanctions cuban president and castro relatives in latest pressure campaign
+seen_urlhash:0fc98973cda6c8e1ab5646200bbbb4417fd286dbd3c65d58c4e06d7ca0bcf04b
+seen_titlehash:9145aebe221f0101c213faae396dd9f4687785da21d8770dce5944e01dda271b
+seen_reason:processed_not_published
+url:https://france24.com/en/annual-jerusalem-pride-parade-marches-to-knesset-to-demand-legislative-change-equal-rights
+title:annual jerusalem pride parade marches to knesset to demand legislative change equal rights
+seen_urlhash:09152480b1bd3c40ee7600fd7175d92c130ba05fe07fe049d724bb079a92f3e2
+seen_titlehash:1b50d314e55dd5b98e7aa2b093b7a8da945abdb295539036561d7654582a21dd
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20260604-judicial-system-should-believe-victims-first-activist-says-as-body-found-in-missing-girl-case
+title:judicial system should believe victims first activist says as body found in missing girl case
+seen_urlhash:f5f7a03fd7586a758fdc14a36043d768f3735b28ff87d8773592d2ec10580138
+seen_titlehash:b9ddaca5b763e2be5d6f6993841fc238ab68e75edd487f3d67f1c5533597cab9
+seen_reason:processed_not_published
+url:https://france24.com/en/viral-videos-mislead-as-albania-erupts-against-kushner-linked-luxury-resort
+title:viral videos mislead as albania erupts against kushner linked luxury resort
+seen_urlhash:5111e2a6a52a2f88d758b0fa857ba280c6b41714677416722049e2b95be1a5d4
+seen_titlehash:564b044d0141cc20d5a4d7bbf661ce101f23ad25260da525cfe8e804d57ff557
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкого-воспитателя-убийцу-осудили-за-преступление-во-франции/a-77427329?maca=rus-rss-ru-all-1126-rdf
+title:немецкого воспитателя убийцу осудили за преступление во франции
+seen_urlhash:8028ae3a0b6526901151372214a661f4d56afb02e7542b51fc5a2e3d5948d958
+seen_titlehash:87e4c30fa06d66d74957685f5e2133e7d8290b2d17625503ba4bae24f2784fba
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+title:солнечная энергетика экономит европе 136 млн в день с начала войны с ираном
+seen_urlhash:89795c513532aed7c75baa663fa83c49e9de3dfd6909671990b62f7ac8886d7c
+seen_titlehash:290b8022dbc0e984d4548dc105d6c57324a1fee9832cc1ce1eec64d82f69b3b1
+seen_reason:processed_not_published
+url:https://ft.com/content/5869a321-e721-404f-a534-3d28066036a3
+title:firstft china s falling oil imports shield global market from higher prices
