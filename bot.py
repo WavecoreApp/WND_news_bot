@@ -1119,6 +1119,34 @@ POST:
     return response.text.strip()
 
 
+
+def ask_gemini_rewrite_single(item):
+    # Single-article rewrite prevents Gemini from mixing headline/post from one article
+    # with the source link of another article in the same batch.
+    raw = ask_gemini_rewrite_batch([item])
+    payload = extract_json_payload(raw)
+    results = payload.get("items", [])
+
+    if not results:
+        return None
+
+    result = results[0]
+
+    try:
+        headline = strip_markdown(str(result.get("headline", "")).strip())
+        post = strip_markdown(str(result.get("post", "")).strip())
+    except Exception:
+        return None
+
+    if not is_valid_russian_rewrite(headline, post):
+        return None
+
+    return {
+        "headline": headline,
+        "post_text": post,
+    }
+
+
 def rewrite_selected_with_groq(items):
     if not items:
         return []
@@ -1126,7 +1154,10 @@ def rewrite_selected_with_groq(items):
     for idx, item in enumerate(items, start=1):
         item["global_id"] = idx
 
-    print(f"Gemini Russian rewrite: {len(items)} articles in batches of {GEMINI_REWRITE_BATCH_SIZE} | model: {GEMINI_MODEL}")
+    print(
+        f"Gemini Russian rewrite: {len(items)} articles one-by-one "
+        f"| model: {GEMINI_MODEL}"
+    )
 
     for item in items:
         item["article_text"] = fetch_article_text(item.get("link", ""))
@@ -1135,69 +1166,35 @@ def rewrite_selected_with_groq(items):
         else:
             print(f"No full article text; using RSS summary only | {item['title'][:90]}")
 
-    rewritten_by_id = {}
+    final = []
 
-    for batch_index, batch in enumerate(chunks(items, GEMINI_REWRITE_BATCH_SIZE), start=1):
-        results = []
+    for index, item in enumerate(items, start=1):
+        rewrite = None
 
         for attempt in range(1, GEMINI_REWRITE_RETRIES + 2):
             try:
                 print(
-                    f"Gemini rewrite batch {batch_index}: "
-                    f"{len(batch)} articles | attempt {attempt}/{GEMINI_REWRITE_RETRIES + 1}"
+                    f"Gemini rewrite article {index}/{len(items)} "
+                    f"| attempt {attempt}/{GEMINI_REWRITE_RETRIES + 1} "
+                    f"| {item['title'][:90]}"
                 )
 
-                # get_next_gemini_client() is called inside ask_gemini_rewrite_batch().
-                # Every retry therefore uses the next Gemini key automatically.
-                raw = ask_gemini_rewrite_batch(batch)
-                payload = extract_json_payload(raw)
-                results = payload.get("items", [])
+                # ask_gemini_rewrite_single() calls ask_gemini_rewrite_batch(),
+                # and that calls get_next_gemini_client().
+                # Every attempt therefore rotates to the next Gemini key.
+                rewrite = ask_gemini_rewrite_single(item)
 
-                valid_count = 0
-                for result in results:
-                    try:
-                        headline = strip_markdown(str(result.get("headline", "")).strip())
-                        post = strip_markdown(str(result.get("post", "")).strip())
-                    except Exception:
-                        continue
-
-                    if is_valid_russian_rewrite(headline, post):
-                        valid_count += 1
-
-                if valid_count > 0:
+                if rewrite:
                     break
 
-                print(f"Gemini rewrite returned no valid Russian rewrites on attempt {attempt}")
+                print(f"Gemini returned no valid Russian rewrite on attempt {attempt}: {item['title'][:90]}")
 
             except Exception as e:
-                print(f"Gemini rewrite batch failed on attempt {attempt}: {e}")
+                print(f"Gemini rewrite article failed on attempt {attempt}: {e}")
 
             if attempt <= GEMINI_REWRITE_RETRIES and GEMINI_RETRY_DELAY_SECONDS > 0:
                 print(f"Sleeping {GEMINI_RETRY_DELAY_SECONDS} seconds before Gemini retry...")
                 time.sleep(GEMINI_RETRY_DELAY_SECONDS)
-
-        if batch_index > 1 and GEMINI_BATCH_DELAY_SECONDS > 0:
-            print(f"Sleeping {GEMINI_BATCH_DELAY_SECONDS} seconds before next Gemini batch...")
-            time.sleep(GEMINI_BATCH_DELAY_SECONDS)
-
-        for result in results:
-            try:
-                item_id = int(result.get("id"))
-                headline = strip_markdown(str(result.get("headline", "")).strip())
-                post = strip_markdown(str(result.get("post", "")).strip())
-            except Exception:
-                continue
-
-            if is_valid_russian_rewrite(headline, post):
-                rewritten_by_id[item_id] = {
-                    "headline": headline,
-                    "post_text": post,
-                }
-
-    final = []
-
-    for item in items:
-        rewrite = rewritten_by_id.get(item["global_id"])
 
         if rewrite:
             item["headline"] = rewrite["headline"]
@@ -1205,11 +1202,9 @@ def rewrite_selected_with_groq(items):
             print(f"Russian rewrite OK: {item['headline'][:90]}")
             final.append(item)
         else:
-            # No English fallback. If Groq failed to rewrite, skip the article.
             print(f"Skipped: no valid Russian rewrite for {item['title']}")
 
     return final
-
 
 # =========================
 # TELEGRAM
@@ -1280,25 +1275,15 @@ def send_text_with_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": False,
+        "disable_web_page_preview": True,
     }
 
     return telegram_api("sendMessage", payload)
 
 
 def send_text_with_attached_preview(text_html, source_url):
-    hidden_link = (
-        f'<a href="{html.escape(source_url.strip(), quote=True)}">&#8203;</a>'
-    )
-
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": hidden_link + text_html,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
-
-    return telegram_api("sendMessage", payload)
+    # Deprecated safe fallback: do not attach previews.
+    return send_text_without_preview(text_html)
 
 
 def send_text_without_preview(text_html):
@@ -1306,7 +1291,7 @@ def send_text_without_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": False,
+        "disable_web_page_preview": True,
     }
 
     return telegram_api("sendMessage", payload)
@@ -1371,10 +1356,9 @@ def publish_item(item):
         item["score"],
     )
 
-    return send_text_with_attached_preview(
-        text_html,
-        item["link"],
-    )
+    # Safe mode: text only, no Telegram web preview.
+    # This prevents Telegram from attaching the wrong article/image preview.
+    return send_text_without_preview(text_html)
 
 
 def sleep_between_posts(current_index, total_count):
