@@ -1,69 +1,3 @@
-seen_titlehash:c5c4d6a6851bb794397be1c4b512a5b22e01c3bf695e482ee55b83b6c8d00b87
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html
-title:fire at a new delhi hotel kills at least 21
-seen_urlhash:95f894e7b2c891394aecae1d7044041aa8ddc249d94eb21d8d78944b77a025b9
-seen_titlehash:43ddd7d1e9e95b9473dbb2913dcc9b7f2c55d06e48df32a60ae82f5f80dc7ef6
-seen_reason:processed_not_published
-url:https://nytimes.com/video/world/europe/100000010925753/ukraines-daily-moment-of-silence.html
-title:ukraine s daily moment of silence
-seen_urlhash:910cee022ac3171f31c007de32ac598eccc2510dfb1154e3515941e468b9aa23
-seen_titlehash:36b2f05d152db2980c885f7d5df302a389697f0190a135086064078b60b73151
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine
-title:nicotine use soars by 40 in eight years as australian black market explodes
-seen_urlhash:40ff91bb5533e3909e64fd0778e01525e542133be97537adb421793e09dfa54e
-seen_titlehash:f4627b431898d1ce81be573a53fd1c784f8dc00ed9094e03653cd7f09f753a82
-seen_reason:processed_not_published
-url:https://theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour
-title:trump could slap australia with 12 5 tariff for allegedly importing goods made by slave labour
-seen_urlhash:db43ea53bb56925ce9ee7f9be3fa7dc5c7fee8438fa06ba9d528ca8440b2ecd4
-seen_titlehash:48607901351e1b704ecb1d981b17d8fec2d6f845ced02cb3507fe86ca1434b06
-seen_reason:processed_not_published
-url:https://theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers
-title:jim chalmers is putting a positive spin on the economy but is australia s outlook grim
-seen_urlhash:2e5d4490e3e395fdc9b3381cf5f6053cb5783cbfea84b3459a3e4ab09ca66e1f
-seen_titlehash:7ab5a01e5f68be0fc2876fec1fde67a7f723c996a09518ac56a89a23a4365a90
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/03/budget-tax-changes-temu-abbot-insult-prime-minister-anthony-albanese-calls-angus-taylor
-title:albanese calls taylor temu abbott as bitter fight rages over budget tax changes
-seen_urlhash:322706215d4d480731d05abbea52227c356a57a33a8305a2ebc3a396d6299441
-seen_titlehash:9c2c93f7a64e2920fe743d909e303e6fd1bd4fbf9478373899e158945dfc398a
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/hilton-becerra-lead-california-governor-race-key-primary-election-results?traffic_source=rss
-title:hilton becerra lead california governor race key primary election results
-seen_urlhash:78a919350edc9357b0033ef4e2fa66d86e5b1087e9062825b99310f82ed34c82
-seen_titlehash:ed6bad280061aae1dad705ac1012d76ea404072171fe9b7deaa701eac959be5f
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people?traffic_source=rss
-title:fire at new delhi hotel kills at least 21 people
-seen_urlhash:64fc589a9f4b997e7fb3f0eb0aa90b5b19545c01dc0450385340d7cadce5c37d
-seen_titlehash:3aafb30f3061f0923852c0c9bf1902bde9cbae4f9b62da5717da7105f76e8b6f
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/6/3/remembering-muhammad-alis-message-of-peace?traffic_source=rss
-title:remembering muhammad ali s message of peace
-seen_urlhash:323dda1221bb5d7221655883b22a45b38fcc96857d8e4dd5241e040aa4c2e198
-seen_titlehash:d7e00bcca22d43b13951dc1be33aad2d14a7f0575640aaaaefade9c9c56551f0
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/all-hail/2026/6/3/how-social-media-changes-the-way-we-see-war?traffic_source=rss
-title:how social media changes the way we see war
-seen_urlhash:d55ae93d72d8f49662301f606d76fb41a926840244eb6cfbcd6d2264d4b84c22
-seen_titlehash:e5c4daf44312807821cc2e22d5f01ede0bed6c676061c0867cf94e0d5e912355
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss
-title:hezbollah video shows attack on israeli troops at lebanon s beaufort castle
-seen_urlhash:298b16c028c421e84ce8db22438e88c48429850f3e512cedf6ed8b8195f9a67d
-seen_titlehash:b8b426bf0ad47def1081bcf8db1f83a02d70b2ff026e7c05869c7978cde7d869
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/uk-china-ice-age-thaws-why-the-west-needs-beijing?traffic_source=rss
-title:uk china ice age thaws why the west needs beijing
-seen_urlhash:8c8658201c6adf111bbbf8997ab22ca0d02a7c428e72aa04ebad8a9b1ef1558b
-seen_titlehash:76a694bfb8ab39c765e184b85e5d918954ea4a0e8da5c5388e13045aee116224
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/democrat-and-republican-go-head-to-head-in-california-governor-race?traffic_source=rss
-title:democrat and republican go head to head in california governor race
-seen_urlhash:36fab77c96aa02e5f8f559b50a031793f4d2cacaff9ab9c2a103edcc4f157f79
-seen_titlehash:d9c3e9d997cda8b6bb227d9d3531140e7655cd5ca24b52320fb957dab413307e
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss
 title:us disables ship allegedly bound for iranian port
@@ -4998,3 +4932,69 @@ seen_titlehash:44c36974a6eb0c813ad1eadbfa04b73a4cabea9ddc24027ae6553e919a2a8dfd
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/04/01/how-africa-is-changing-catholicism
 title:how africa is changing catholicism
+urlhash:a50e3d673f7d195a4647d0b8514d9f493b7302a0afbb64b073be288f89feabc2
+titlehash:1afbbfee65cdb265fe1fe071dc5c40ed3598186b4887fb0e4601613dadefc540
+published_url:https://aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss
+title:france opens war crimes probe into israel s treatment of gaza activists
+urlhash:0b4af2c2f05e53d6139b8040ec42de5921d4af3baa2ec057b81d939e849416e5
+titlehash:9e451089d99060f06c21bf34b2ed3e2f1f84cfe3ca6809d00e9ad726f14dc07a
+published_url:https://dw.com/ru/зеленский-о-реакции-путина-на-его-письмо-россия-снова-выбирает-войну/a-77442283?maca=rus-rss-ru-all-1126-rdf
+title:зеленский о реакции путина на его письмо россия снова выбирает войну
+urlhash:52d3121b8ba0e2978dd5c8df2d993ecaa2c9427eb80a5127b43c8a4e8df4530d
+titlehash:58f97b1c49258eaa40007fb3cdd094e3f766e3d2ee2904db082d4c5617911355
+published_url:https://france24.com/en/tv-shows/the-world-this-week/20260605-ukraine-dear-putin-lebanon-a-crude-call-colombia-s-tiger
+title:ukraine dear putin lebanon a crude call colombia s tiger
+urlhash:c0eef0604f28725429d73fe9ce11b8c329749cdf295b693ded79a0bc96664dd5
+titlehash:411f31ab33185453d231feeb327f5706fbd21b70cb6b3b2a989b789de08b95ff
+published_url:https://dw.com/ru/иноагентами-в-рф-объявлены-журналисты-проекта-и-экс-сопредседатель-голоса/a-77441939?maca=rus-rss-ru-all-1126-rdf
+title:иноагентами в рф объявлены журналисты проекта и экс сопредседатель голоса
+seen_urlhash:25d9b421c115449e1a8fecdbf0146acefa002fcac9733b39844dd8d7fd7e41e8
+seen_titlehash:c66db8d5574db94ecd28831cae7fd45fcc4de0db7e5241d793faa4f33e4796e3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html
+title:france opens investigation into israeli treatment of pro palestinian flotilla activists
+seen_urlhash:497c5a00ad36870bd2ef15de5a6bce5a2b1d34ea43b18fb62bfce650d44b6e76
+seen_titlehash:b602666f4693386d7ce0fa9d6ee30948a9eb664b820c0175840149996a70507c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html
+title:a sherpa survived 6 days alone on everest his family says he was abandoned
+seen_urlhash:bd41062b0988e76c66355c7414445a8d557d2a4710773ad18be59cba7d245574
+seen_titlehash:797318781cd1a07faef7921bb1baf05024bcd937ed84f5f8321109a16169e23a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss
+title:families clear rubble after overnight israeli strikes in gaza
+seen_urlhash:796e4d7257d27281253d975c9de3a0747056ed32a2e8bf2c337a64110a45893c
+seen_titlehash:d64813401db0109402af79c3714b9490c338f299ea8fc422e5b230312274c485
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control?traffic_source=rss
+title:anthropic urges ai labs to pause warns humans risk losing control
+seen_urlhash:2c31a3694626a9740193bf401f22dd28f69d9c37d75289cf717b4a3970813d2c
+seen_titlehash:e5132cb6fb5d1cfe6ba878c9efeab7cad42e590f2b87189bfc8e568bf2319fc7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss
+title:judge strikes down trump bar on asylum visa processing for 39 countries
+seen_urlhash:75867d838710c67887a4837ffe5598f1926f78beb60ab391c8c69bc2cce078c1
+seen_titlehash:782dccec00ec3114bd0355ed7320fd7e2a475a583df31d4052ef538bb426f7a4
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260605-why-ivanka-s-albanian-dream-is-a-protestors-nightmare
+title:why ivanka s albanian dream is a protestors nightmare
+seen_urlhash:61d389bb3188700f94437607547b79697eb9d2766b60e17676ed43604db9e791
+seen_titlehash:23ff18f7ddb80d93cd26a2921ff66ea85ec7e42ca533325bac3e8e0e9a06bfe5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/05/putin-response-to-zelensky
+title:путин пока не видит смысла встречаться с зеленским
+seen_urlhash:2c30ecbb6c7c6dfe87c2fb4b0c05d57d5fdcfd529fbd8380419b5a5bf3dfc1a8
+seen_titlehash:ab6259846f10ba61db4b76399a4221fdcc77383611ff48d52a9f0c11664882bf
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/05/v-gruzii-po-zaprosu-ssha-zaderzhali-rossiyanku-ee-podozrevayut-v-obhode-sanktsiy
+title:в грузии по запросу сша задержали россиянку ее подозревают в обходе санкций
+seen_urlhash:bf072889acacf9546abd60d2dbc88d9ad305b7c7c64ea2004e1f64d1f851cd16
+seen_titlehash:a29fbf9501fe9cb131e45a695de6d8b88a52fd64f23b19583669e3318423bbd3
+seen_reason:processed_not_published
+url:https://ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400
+title:trump says us may take equity stakes in ai companies
+seen_urlhash:2548cb279741967043abc4c2a2d47bc7560c618f9c42e1d69dd82527b916dec4
+seen_titlehash:50172ba23231ee36b7b5edf55ca382a0e99f6dde3294ec9e647046ac7fb07083
+seen_reason:processed_not_published
+url:https://ft.com/content/f4e31fa8-b1fc-46ca-8d92-6d4c45e49313
+title:european airlines sit on 3 2bn in unpaid delay compensation
