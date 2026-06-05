@@ -1,49 +1,3 @@
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss
-title:us disables ship allegedly bound for iranian port
-seen_urlhash:121c6df8c6fb443951ffe8060ae70d1f24e0b94537b8452485cd3599c182e370
-seen_titlehash:85bad6a0cc22ab4d103f63b219e104639a56a8ce0de5f0eadb2b76f1dbe70268
-seen_reason:processed_not_published
-url:https://aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss
-title:foreign nationals among 21 dead in fire in indian capital
-seen_urlhash:cc3f8a1191bffef0fd2e890da01d24f7979eacfc4a16999ca80b00f2ec6d8d75
-seen_titlehash:a39ca66350f6b24367d76cb650ec37b07ab430e9ed87794af34b6031da814abb
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss
-title:iranian drone attack kills one in kuwait after us strikes qeshm island
-seen_urlhash:238de16f2037f1b662dfc244d0f22dfa29b0a72fa1a0942a416d3884eb93bc5b
-seen_titlehash:0eb7bcb24ddb1ce57ce61977edc822c3d52e6053962d7ef4f9ffdf882018c8db
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/money-works/2026/6/3/can-a-us-president-promote-stock-theyve-invested-in?traffic_source=rss
-title:can a us president promote stock they ve invested in
-seen_urlhash:beacdd5caa9b813ff2c89a1ab54717c7e98699a460e12fc5030a08e362a1daa6
-seen_titlehash:06217d79a47c170692e0c498068267aa38170f07637c0000894bcb3bbb6abc5f
-seen_reason:processed_not_published
-url:https://aljazeera.com/gallery/2026/6/3/service-is-the-rent-we-pay-muhammad-ali-remembered-10-years-on?traffic_source=rss
-title:service is the rent we pay muhammad ali remembered 10 years on
-seen_urlhash:d437935608927fb6db2591bc2eff4f34a452d3f8b6ae08dce7d7e83e8f2e551a
-seen_titlehash:59e1725314d478737647516556f431546784f9f830915435a983fe8aa26e5eb0
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/3/us-broadcaster-cbs-fires-60-minutess-scott-pelley-after-clash-with-bosses?traffic_source=rss
-title:us broadcaster cbs fires 60 minutes s scott pelley after clash with bosses
-seen_urlhash:04aa758f43e26e2c47b85f6af8ad9a4b7c3a619fc95f01b3945577e22d882384
-seen_titlehash:08acf6d995850f15eee2152a094d97d911cb10b7a15904a6d7e6c72483a36589
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/6/3/is-the-great-nicobar-island-indias-hormuz-like-chokepoint-against-china?traffic_source=rss
-title:is the great nicobar island india s hormuz like chokepoint against china
-seen_urlhash:9a4be0e24a35a29843910371df4dffe981480508fb4525d031ba2ab3267be7eb
-seen_titlehash:fa2d919002b44867bb59096dcf46a696fb55106fa18a998b0bc65bd7b58d3dcf
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/ukraine-drone-attack-kills-7-in-russian-held-territory-in-new-escalation?traffic_source=rss
-title:ukraine drone attack kills 7 in russian held territory in new escalation
-seen_urlhash:c6486dab0aac72afaf4390e14799db8bf7b928b86428911b868407091075dcc0
-seen_titlehash:af54c2bcb6fdba2442b93c2e7f6ae823f6f9da4135a91cdb6373990e48bba7e6
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/3/aje-onl-nf_sv_clashes-in-uk-over-muder-of-henry-nowak-030626?traffic_source=rss
-title:outrage over uk police arrest video of dying student
-seen_urlhash:2c97c1bb539e81d0eb20c085c9650ea84a8ded0b7872da5e12bcfdfe84c0c10d
-seen_titlehash:100bfb99761311dec129ef3052e108a52cbb34a97ba7fadf643cf5407ae25955
-seen_reason:processed_not_published
 url:https://france24.com/en/i-can-t-breathe-protesters-clash-with-police-over-handcuffed-dying-student
 title:i can t breathe protesters clash with police over handcuffed dying student
 seen_urlhash:5862cf27c496c7d88312f2ece60305d480e51633ca204c79c4a7d6e5dba72426
@@ -4998,3 +4952,49 @@ seen_titlehash:50172ba23231ee36b7b5edf55ca382a0e99f6dde3294ec9e647046ac7fb07083
 seen_reason:processed_not_published
 url:https://ft.com/content/f4e31fa8-b1fc-46ca-8d92-6d4c45e49313
 title:european airlines sit on 3 2bn in unpaid delay compensation
+urlhash:a1eebd62d4d2c75417ae7215912699de3346c5b074c3acdf683c1d943f68b03e
+titlehash:da6f44f8dfa4db73da7ae79bfe626e629243b459c3ae2353468072597fe1ea78
+published_url:https://aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss
+title:zelenskyy putin choosing war by rejecting offer for in person talks
+urlhash:caedde992ced6475b1854e00f1d302304a12a91df88a2cd5ab8609257dcda739
+titlehash:1a429ad7d157006cff70d603f71da344bd726147b3fa0d16740c5119e130677a
+published_url:https://aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss
+title:pervasive fear grips gaza as israeli attacks persist despite ceasefire
+urlhash:3b430993ea79a13d1a573c54a0c883d1523cac087e32751e4af1f5c93ca3be06
+titlehash:b7a167d54aac9f39188bdf1258d437ee6ac1fdbb5556ba27ec1be2801a94564a
+published_url:https://ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626
+title:spacex signs 30bn deal to lease computing capacity to google
+urlhash:83fdb31fb7295f47b7f4a9ffb8a7f7cea8000641af878cabec86ba48f4c88478
+titlehash:4caa0ab4e511adbad6c1ed2d0485506b5c8a68a8adb9a12da23b821939e81ad8
+published_url:https://aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss
+title:trump makes pitch to farmers hard hit by tariffs high prices in wisconsin
+urlhash:83c8945f7471512e2eacf750efe7ec42cabd66e2bdc2adebf68b640e6ca076c2
+titlehash:0437212a12fa41abb0a38b0f036fb88c5d4a63b6dc8001a3c4ddb8721e0bef5c
+published_url:https://france24.com/en/misinformation-complicates-ebola-efforts
+title:misinformation complicates ebola efforts
+urlhash:c097c765729c09506183258231d3ac25d356ddf51a0e58632e3d1a94d1ea19e2
+titlehash:051820d9090c0810cae1f6198b07eb3a4d581ecf7492709e36036d80dfbcb7a8
+published_url:https://dw.com/ru/ушаков-путин-встретился-со-шредером-в-кремле/a-77442395?maca=rus-rss-ru-all-1126-rdf
+title:ушаков путин встретился со шредером в кремле
+urlhash:bcca1c208c0a03c189ee6134a667ac3ddbc983600119f934eb057445c5880f1e
+titlehash:c86adf0325df0a4efbbb69e33365f330e07f9cc100c07a09a7bae4b8bad2f137
+published_url:https://ft.com/content/34117555-ee03-429e-96f6-909ef503cb55
+title:number 10 hits out at people stoking division after jd vance s claims about nowak case
+urlhash:9e3a472baa58a5e2851f86edf49a033c5932db0a94310d1d7eafde102210e6a0
+titlehash:04c43e1b6df44d170720e1a76e7dc43c5e794b1f62709008e3929780ab5ce066
+published_url:https://ft.com/content/4d802a0e-32c2-49c3-aa57-d50afd123938
+title:top goldman lawyer ruemmler to remain with bank despite epstein ties
+urlhash:77b9fe2f99284cd965132ff90fc312ea2fb83d7bb3016f1957b2fb6c55d6e4d5
+titlehash:dccde4e2ebf7b09506cd299d39f1b77ceb96c869bd7c6b8e89b192e6213c38f3
+published_url:https://nytimes.com/2026/06/05/world/europe/pamela-hicks-dead.html
+title:pamela hicks lady in waiting to elizabeth ii of britain dies at 97
+seen_urlhash:936cb23275166bd2f2e50b6c617dbda56c0845aa997db6c2a51d12aed1f60cb8
+seen_titlehash:f7de8bb39d32118266f243f756f3c9bce915caa09bcdda90d4f4aee501980f07
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss
+title:trump hails jobs surge says iran talks going well
+seen_urlhash:20a57959c97275d9594b09eb68105379a8f413c0e952b5529658af0c5892eced
+seen_titlehash:287c91316b22c669a077d96e773b718fa8959f2a7e00f38f82795531d42a111f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/6/5/cobolli-into-final-as-virus-struck-arnaldi-pulls-out-of-french-open?traffic_source=rss
+title:cobolli into final as virus struck arnaldi pulls out of french open
