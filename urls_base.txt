@@ -1,19 +1,3 @@
-title:israeli attacks kill nine in lebanon reach beirut outskirts
-seen_urlhash:b9331ec8f5e78bebb6b0cfddf1ce755879a9688ee409e6889c2d344d5d9567f6
-seen_titlehash:080140c3f1d95460f757044641a8a694774dd3ae50259adc28d3d93eecd370ec
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss
-title:lula says brazil cannot accept treatment after new us tariffs proposed
-seen_urlhash:7c52394ac6c753b0a3d5979834b6485abab2a335bfce56fb3ae8501ed4f52d43
-seen_titlehash:356106be4fe114a80d9b4434569d30c63056ff1d9ee974ddaf9ab0e7803d1e35
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss
-title:us cites forced labour concerns as grounds for new tariffs
-seen_urlhash:0a08e47b634f2b2afa6674bfed3a6115ae4033424e96bdcee21d17df392e9d35
-seen_titlehash:c78dc5b8669fb478179b2c834f39b63cd1f266117b2b20051f26c4a86f084590
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss
-title:netanyahu downplays us israel rift after trump confirms criticism
 seen_urlhash:a7500e81ddbe13913c581c5eb0cfa2306c2d81c54331c73a2898835f46e9f3ae
 seen_titlehash:ff59a4e3df6cc2d3bac9c69cadaac2359dfb45b260add62f10d8165a6290bc83
 seen_reason:processed_not_published
@@ -4998,3 +4982,19 @@ seen_titlehash:82ee0c81aba9a0573cbccc12ee7bdbdb0501e8817534eaee175c88eea49833fa
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss
 title:cuba s raul castro makes first public appearance since us charges
+urlhash:cdffa68cd612a8374038e10da37e189076c7b8ad4dcc9489cd0c203d9573d49d
+titlehash:b3a3cf16df63e1526a7fa444004ffb00ef0e11d622a27bf6d6126d64b0b35275
+published_url:https://nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html
+title:ukraine strikes st petersburg in long range drone attack
+urlhash:7699cb731e84ca6ff78a58335ed7a60dc25298810867523c1ad148409bbd90f7
+titlehash:01e507731f652e5d54926a7da1f051f3a6e5b27e748c1e0c4034793fd8f6b261
+published_url:https://ft.com/content/07b1eaa6-725a-406e-aa8b-020dbe53aaea
+title:abu dhabi s etihad to surpass pre iran war capacity without price cuts
+urlhash:824b40d71ca5c8c097dbe118862374e470e10fdb317c2f114910e1a0301aa2c2
+titlehash:b49f6dc0aa7540963a2250ee80ff5bc11e94d42ce8b818c24d3bc7589a7a0c2c
+published_url:https://ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00
+title:what we know about the plan to give americans an equity stake in ai
+urlhash:32c68e4cd1bac18bbfd0115c58aa52127dbe42e646f172a62c6393a20e39bdc2
+titlehash:b5fe76e0b3eca83f7123e39690653969d28fb7c88462f7badf0841920cef35d4
+published_url:https://theguardian.com/australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb
+title:australia news live tony abbott praises liberal party s new top strategist as party tries to rebuild campaign machine
