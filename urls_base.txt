@@ -1,36 +1,3 @@
-seen_urlhash:8c240e7210fd60b313e4e4eac1dde073421b69eb50e16885112db24c31746172
-seen_titlehash:af2cf4ed6c3fa8968e582dbc3079f9223f459b755df9abac42701b95f8bc6bbe
-seen_reason:processed_not_published
-url:https://france24.com/en/kuwait-airport-hit-by-iranian-drones-as-us-iran-talks-stall
-title:kuwait airport hit by iranian drones as us iran talks stall
-seen_urlhash:ae9760a233d3d13578f0c1216ab8c0c07b9f8307a80f1a58be3c5e027560a8d7
-seen_titlehash:62913cfb1895f8e467200dbf5a49f83779749489fab6750233116b151274a159
-seen_reason:processed_not_published
-url:https://france24.com/en/frederiksen-to-remain-denmark-s-pm-leading-centre-left-coalition-government
-title:frederiksen to remain denmark s pm leading centre left coalition government
-seen_urlhash:23f25b1e90fab2527921bb6b9a2377898fec8d4562aa1587ba5f6069d4a09a71
-seen_titlehash:f6b1f60c28590a91eca1e908f290a20c1ec122a43d4d27dee016320943ccf33a
-seen_reason:processed_not_published
-url:https://france24.com/en/californian-elections-test-for-divided-democrats-on-pivotal-primary-election-day
-title:californian elections test for divided democrats on pivotal primary election day
-seen_urlhash:893838e2173a31d4543ec3762e2109272009f16114f2c7ebcc7df3e316652606
-seen_titlehash:012a2fd319464e366e931d37eab6b2a8c028e898ff58cba3db38a8ca00e8a523
-seen_reason:processed_not_published
-url:https://france24.com/en/nato-chief-on-unannounced-visit-to-kyiv-after-deadly-russian-attacks
-title:nato chief on unannounced visit to kyiv after deadly russian attacks
-seen_urlhash:9a19ec15c5cc9e8dcd4f9f052be6df63cff47730cfc5b32545e9fcd5a318ad8e
-seen_titlehash:7278fd663f2d436c0eb3ba4904a456d9f8f44a82394aea4be1ea34bb14f15470
-seen_reason:processed_not_published
-url:https://france24.com/en/africa/20260603-dragged-out-of-their-houses-hundreds-forced-to-flee-violent-anti-migrant-mobs-in-south-africa
-title:chased like dogs anti migrant mobs in south africa force foreigners to flee
-seen_urlhash:9f6bcbd2b25c59518143567a2aa8f86e7860359bf7aae1260093d4642762fc6d
-seen_titlehash:f15cd9f963b97232b6137411758322e09056fc062a8ce76f92703dd74992f11c
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/spotlight/20260603-france-s-recognition-of-its-role-in-the-1994-rwanda-genocide-marks-a-historic-turning-point
-title:france s recognition of its role in 1994 rwanda genocide marks historic turning point
-seen_urlhash:d56b47ef17d35d8ac6d9b7924c3a61e09e972636d1af33024a1a25b5350fb708
-seen_titlehash:28abcc4cdca403e296198abe303f0d39def6f601b73ddfd35a62906fc3041c56
-seen_reason:processed_not_published
 url:https://france24.com/en/europe/20260603-live-ukrainian-drone-attack-st-petersburg-injures-several-damages-infrastructure
 title:live russian warship at baltic fleet base struck overnight ukraine says
 seen_urlhash:ccbbc79d850c1208fad90f22e5d3f03b745a01c988233eeb5ac0a8ed2a3f6e85
@@ -4998,3 +4965,36 @@ urlhash:769adba620bcc587f3fbb80226f26af785508dc9491273b1b3a016381a50c8ef
 titlehash:9fa4382a660720bb1852ed1ff38634936c4f183cf1bc02c26aef3163df4017b8
 published_url:https://dw.com/ru/женская-сборная-фрг-по-футболу-обеспечила-себе-путевку-на-чм-2027/a-77442466?maca=rus-rss-ru-all-1126-rdf
 title:женская сборная фрг по футболу обеспечила себе путевку на чм 2027
+urlhash:081b4b7b4396df2e0d5b1cf28123295050b1e360d84d543bcdc7fb22b9583de0
+titlehash:0907d98a72211ca7eff0f734536aaa4b3bc54bbc0a51b8d64e6ed212ea1a5268
+published_url:https://aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss
+title:iran war live iranian missiles target kuwait bahrain after us iran clash
+urlhash:22a1c22aaf3111c468faff73053489153425e97e2aa41f1e8628aa8338082c7d
+titlehash:e69e6bb6281f2656d44061011ace71b0f9bdd19400d86ac9fd90313e5e9fa3a6
+published_url:https://dw.com/ru/совбез-оон-созовет-экстренное-заседание-по-просьбе-украины/a-77442576?maca=rus-rss-ru-all-1126-rdf
+title:совбез оон созовет экстренное заседание по просьбе украины
+urlhash:b94e4a97c0b040d3a264c50c919faa923f9260ac896fb76c693a018d098a9b28
+titlehash:fef001399c311c289edd25143f9753cb7d6e483a77ec8102132825356bf67048
+published_url:https://dw.com/ru/в-сша-заявили-что-сбили-четыре-бпла-ирана/a-77442793?maca=rus-rss-ru-all-1126-rdf
+title:в сша заявили что сбили четыре бпла ирана
+urlhash:c40ce24fd49d38167929704b6c49055702d5007fbec90e3c43597776ab86febd
+titlehash:c821be5325c3ee9d2bca0525b29047fa72061c356945caef18fd46ddf00fbf52
+published_url:https://aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss
+title:arrests of critics in ghana provokes alarm over free speech under mahama
+urlhash:4beec3bfa3e172c33f5cbcce19f23301aa683a831e0618776fe5214984607581
+titlehash:c4b45c73651eb566d51b895fb07b1bd470a577c40adf6110270ab121091954c8
+published_url:https://dw.com/ru/член-спч-в-грузии-арестовали-россиянку-по-делу-об-обходе-санкций/a-77442825?maca=rus-rss-ru-all-1126-rdf
+title:член спч в грузии арестовали россиянку по делу об обходе санкций
+urlhash:c78b4af4968d37da860bbec32da734fefbe0f210ebf803d1b110e6ebf10d05d7
+titlehash:8b0ef2bcff28eca3468047bc747c8fdf4827c6c1801d5824b33b2304fc5486e3
+published_url:https://aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss
+title:gaza fishermen stay afloat with dinghies made from doorframes
+urlhash:74996a7c90b3ddc3f49ebc40ba94e83f43744cfd894e8a2428f5696e05b15291
+titlehash:013f4bbc2ad8de86f33a0e63eb6d6bfbe0c9f802e032f307ed6f1f9d07377c95
+published_url:https://theguardian.com/australia-news/2026/jun/06/jacinta-allan-leadership-spill-rumours-victorian-labor-election
+title:regrettable references and claims of rigged election laws why this week has reignited jacinta allan spill rumours
+seen_urlhash:2939719d29feda48d99a948ec76861b2977f54c10022340e6eadace472ba256e
+seen_titlehash:e2dbeca47e09d82c1b313b529f1efa7a5f490d5423d076db73d2b60ffa200d1c
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-извинилась-перед-грецией-за-морской-дрон/a-77442599?maca=rus-rss-ru-all-1126-rdf
+title:украина извинилась перед грецией за морской дрон
