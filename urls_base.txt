@@ -1,121 +1,3 @@
-seen_titlehash:c3033f527c30f4c2f401fabe41609e3b0677110526040f80babd0069cf1551af
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260603-iranian-revolutionary-guards-claim-attacks-on-bahrain-and-kuwait
-title:iranian revolutionary guards claim attacks on bahrain and kuwait
-seen_urlhash:6f225440cdaa51ee298b0e60237e19322e013d142bd84575fff915ad2f279e93
-seen_titlehash:c7a45997d04b7a071fe1fd07fde75a9304f2a09a71fb6a4a6fdcb95c8f693c34
-seen_reason:processed_not_published
-url:https://france24.com/en/africa/20260603-algeria-clears-path-for-pardon-jailed-french-journalist-christophe-gleizes
-title:algeria court clears way for pardon of jailed french journalist christophe gleizes
-seen_urlhash:aa8b4e63935a9c29015227687129622713c29371547b3c7ce9844131e4120caa
-seen_titlehash:3b39ab91f157f393b944bf7ac94f74283650e1ee51a1c2079c2300f684532235
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260603-france-arrests-russian-captain-of-moscow-linked-oil-tanker
-title:france arrests russian captain of moscow linked oil tanker
-seen_urlhash:b3b962ebeb28548d88af0d543e4019ede2e382eead821b0b2a36ecf8b797ed16
-seen_titlehash:f19f1f8f818acdf1de8ae42dc1fe0827a510c711b1786cc1ce1e97e7cc14abed
-seen_reason:processed_not_published
-url:https://france24.com/en/technology/20260603-ai-chatbot-responses-polluted-pro-russian-disinformation
-title:ai chatbot responses polluted by pro russian disinformation
-seen_urlhash:aca7ccb1aefbf9856162c8bafcff0afe4ab39948914f2783c48860be2ecdd785
-seen_titlehash:e3245f5d0206ebb76aa1b8c4a9ce97da068a67d1ef4f46ea8b1d7c5a60329628
-seen_reason:processed_not_published
-url:https://france24.com/en/ukraine-s-attack-on-saint-petersburg-brings-war-back-to-russia
-title:ukraine s attack on saint petersburg brings war back to russia
-seen_urlhash:6f576c3b3d1d165754a24e7f4d2571bbd88b7d42b15ac6dbcebe1d11fb25046a
-seen_titlehash:fb0a5c518258e0976ba57ba1d4b16a6c046bc07c09962967be244de7a27fcee5
-seen_reason:processed_not_published
-url:https://france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable
-title:a year before the french election de gaulle remains politically fashionable
-seen_urlhash:cc1fd6c9dd5d28e64387d0329493357b543dc802c9e7c21c22397991373f6379
-seen_titlehash:2e8e6171ad4c1f037b8053909b65f330db8fa6bc438ce8d60f8e3bcbfd512a6f
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/entre-nous/20260603-paris-s-saint-germain-des-pr%C3%A9s-book-fair-returns
-title:paris s saint germain des prés book fair returns
-seen_urlhash:ff40107a3db4c62e738aa9afb8418a7f5278aacfaf1776f7fb16beb42c2087b4
-seen_titlehash:23d6f6ec03d2784befc8a01c71670ab6e80d06d37b4cf2ab26add46561a7f1d8
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260603-russia-ukraine-drones-hit-saint-petersburg
-title:russia ukraine drones hit saint petersburg
-seen_urlhash:04478cf15d770cabb94120b2ba625828fde395f06ef49f1dc9e944eea7819357
-seen_titlehash:3b124f50d32395fb52fd16a55a03edf26283071e13620bf8862f75f14570366c
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260603-shnaider-beats-sabalenka-at-french-open-to-make-semi-finals
-title:shnaider beats sabalenka at french open to make semi finals
-seen_urlhash:04478cf15d770cabb94120b2ba625828fde395f06ef49f1dc9e944eea7819357
-seen_titlehash:3b124f50d32395fb52fd16a55a03edf26283071e13620bf8862f75f14570366c
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260603-shnaider-beats-sabalenka-at-french-open-to-make-semi-finals
-title:shnaider beats sabalenka at french open to make semi finals
-seen_urlhash:56bfb764f8e060280c89066e5f6e1e1ce0cf68e9e39bb5af0346658782083b7b
-seen_titlehash:bac9853509145cadd03fb67dee43a111c3c89e883673167246b14a195c41a5a5
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260603-palestinians-are-unbelievable-people-vast-majority-of-in-gaza-just-want-to-live-a-normal-life
-title:palestinians are unbelievable people vast majority of in gaza just want to live a normal life
-seen_urlhash:307a3e73ee5c2e54e62b81ccc96c4eac4398c5f11ab2a0c504c3a5e57a34050f
-seen_titlehash:d5604ae73fa76cb569770050a6884ed236db3e5453b100721d82890b5231aa84
-seen_reason:processed_not_published
-url:https://france24.com/en/israel-and-hezbollah-exchange-fire-amid-new-talks-in-washington
-title:israel and hezbollah exchange fire amid new talks in washington
-seen_urlhash:1025116a9ef313dc28d76b20cf226e98cd1682fdd8bf49571011d0eaa4666dfb
-seen_titlehash:40bdb80c95f64bdf471d1e67af8d2a2161797a164f246d049569e9ebf48385a3
-seen_reason:processed_not_published
-url:https://france24.com/en/trump-denies-impasse-in-iran-talks-after-fresh-strikes-on-gulf-countries
-title:trump denies impasse in iran talks after fresh strikes on gulf countries
-seen_urlhash:8ffd353c2ead64f07775afe3bfed3ac6e56a23e62126115e891bbf5ebf0883ac
-seen_titlehash:058dd64bba2612e658347068dac63e69cf3847ec0a9323c37d0e1e835a982cab
-seen_reason:processed_not_published
-url:https://france24.com/en/ukrainian-drones-hit-saint-petersburg-as-russian-davos-opens-in-the-city
-title:ukrainian drones hit saint petersburg as russian davos opens in the city
-seen_urlhash:80fc0bc300c52a5180ba5086ceb5e6881a62c57500140199899226976394ffcf
-seen_titlehash:1e23be324990acfbf77669d1cfde788f23ac7610511171e57a6a361b54e723be
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/arts24/20260603-film-show-dj-ahmet-charms-with-sheep-grief-and-a-rave
-title:film show dj ahmet charms with sheep grief and a rave
-seen_urlhash:a1b036fed69c6b3d4938bbe2e8815ba636e449567aebea64f0bdebd53ce3395a
-seen_titlehash:50b10776fa82e69c16581d9e7f88806bcca910da613e631b7abd181f7184313e
-seen_reason:processed_not_published
-url:https://france24.com/en/under-paris-s-notre-dame-archaeologists-are-unearthing-2-000-years-of-history
-title:under paris s notre dame archaeologists are unearthing 2 000 years of history
-seen_urlhash:c5eeaf10158d0deda9221d7d68da1e5f758f050687f3d64583b7f8368fb1a54c
-seen_titlehash:561a901038a063927eee7df1146d2646cbde0286f75f7d27081768779a38f11d
-seen_reason:processed_not_published
-url:https://france24.com/en/us-finds-huge-tunnel-under-mexican-border-used-to-smuggle-drugs
-title:us finds huge tunnel on the mexican border used to smuggle drugs
-seen_urlhash:353a5818e496f815bb7c877d3eff96ac61a09343759ec29ea46dfc1a32e96c64
-seen_titlehash:3e39de2366e347308b37521b766e6d2307cef0b8a68c0066791743da34dd38fb
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260603-ukrainian-strikes-st-petersburg-ahead-of-russian-davos-show-widening-war
-title:ukraine strikes st petersburg with drones ahead of russian davos
-seen_urlhash:1967578194f739ec28c97f67cc263fde0f435e823070ad296c576d1c9d3afb65
-seen_titlehash:c00d9cb675e3a512ceb270de3a71f8a4231f7bb21d9e588e7f37726deaf8777a
-seen_reason:processed_not_published
-url:https://dw.com/ru/потеряет-ли-президент-зеленский-польский-орден-и-симпатии-поляков/a-77406402?maca=rus-rss-ru-all-1126-rdf
-title:потеряет ли президент зеленский польский орден и симпатии поляков
-seen_urlhash:2d4b915d5dc55b77fea41d41c2f1e20dec98b0f9cd55b236174344a5da95260b
-seen_titlehash:d6de89effc7473643e73bfd644597daa0661f6ba5d081840c2c44a4677b34338
-seen_reason:processed_not_published
-url:https://dw.com/ru/литва-участвует-в-обсуждении-размещения-ядерного-оружия-сша/a-77409969?maca=rus-rss-ru-all-1126-rdf
-title:литва участвует в обсуждении размещения ядерного оружия сша
-seen_urlhash:d98807d9620a630cbc7b59b9d573af797ea940c69c8a4e3ff1c7abd94690b47f
-seen_titlehash:2b43ce7b25a2812592c238138d653a509b16b8e7b05e690c264be49f56c3e02d
-seen_reason:processed_not_published
-url:https://dw.com/ru/альфонс-нашел-свою-гэдээровскую-мастерку-через-25-лет/a-77407898?maca=rus-rss-ru-all-1126-rdf
-title:альфонс нашел свою гэдээровскую мастерку через 25 лет
-seen_urlhash:f866079e9ae1b0fb737f732c887f257d84630507d1e9a3d966bcbdcffc6b041b
-seen_titlehash:6c26c77970851cf1832a5230e7e187e022e9d9b60fa2887faa38a3b7be8cc66c
-seen_reason:processed_not_published
-url:https://dw.com/ru/интеллектуальные-заслуги-гостей-пмэф-кремлю-неважны/a-77409282?maca=rus-rss-ru-all-1126-rdf
-title:интеллектуальные заслуги гостей пмэф кремлю неважны
-seen_urlhash:84e8f6964a18262dec74a50f2c2cbe617a42b658dbab0249a2916d7c5b2edf7b
-seen_titlehash:fb2bb442c443a6a2411671f41b34f8521095a14a4c6bb16926f4af88ab0c6085
-seen_reason:processed_not_published
-url:https://dw.com/ru/бровди-дроны-всу-подожгли-в-кронштадте-корвет-бойкий/a-77407389?maca=rus-rss-ru-all-1126-rdf
-title:бровди дроны всу подожгли в кронштадте корвет бойкий
-seen_urlhash:fed1c2ac92869d75631202cf2cf49e41829f6793a4ee05ed9bccc8515c3755a8
-seen_titlehash:748e2eee438681fea3a91ff35698963f24bd7fa97a1dc0c79a9ad58cc4a42bc3
-seen_reason:processed_not_published
-url:https://dw.com/ru/директором-моссада-впервые-стал-уроженец-стран-бывшего-ссср/a-77408952?maca=rus-rss-ru-all-1126-rdf
 title:директором моссада впервые стал уроженец стран бывшего ссср
 seen_urlhash:f0cdb6d9cabb0c7706bea47810ae8ca6dfd0ed1495b6dd6ca8de22113ed0163e
 seen_titlehash:c7727171d8825f6bc3ecfd42f34ac12f8324128ff366d78ac6d870722a2a5c6b
@@ -4998,3 +4880,121 @@ seen_titlehash:f4f1a2cda4ddb558e7bc2b85c9e0b3090d1143c1f061d5c3a86b11cc57d9d3e5
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/06/06/vsu-atakovali-peterburg-v-den-okonchaniya-pmef-kak-i-v-den-ego-otkrytiya-foto-i-video
 title:всу атаковали петербург в день окончания пмэф как и в день его открытия фото и видео целями стали кадетский корпус и нефтебаза губернатор беглов посоветовал жителям не выходить из дома
+urlhash:2764ff6af681caa723d02b8c64565b0005f961a6990d8f712ff2482c520ce34b
+titlehash:918afaa4c5f28b99990927b315938b2de47eac8e2f1ac72bf069ce8b3f90322f
+published_url:https://bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss
+title:lebanon says three soldiers killed in israeli attack on car
+urlhash:ca507b0110492f8187ecfa693ded4e1ea746647cb61ee5996652f122e87f265f
+titlehash:663b9ec74da2bd97e02ed3e26ae16e1359e0248b321b068eac91f492b37b05e0
+published_url:https://aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss
+title:russia says hundreds of ukrainian drones downed as economic forum ends
+urlhash:8332c2bf5eb80d93881c58d139430f0256df3f20ba4a839aa7fc66dbea7a2321
+titlehash:8431834bd63bca8357b726ca67423aec251d5a7aec657306f9efe39a4ccf7683
+published_url:https://france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos
+title:ukraine launches fresh drone attack on st petersburg region on final day of russian davos
+urlhash:c10a9be76cf94033a52d919d2c53d07033115c4f73b9d589d86c6a53127aff5b
+titlehash:e75e717fffb4f5e409a88dd64d2aef3a0f60f196e8b3eed97b66b23a4a679d8d
+published_url:https://france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says
+title:parliamentary elections mark historical moment for armenia expert says
+urlhash:094327f9a95aae58d39c401a39b02ca4674cb6d38dfcc417b69dcf1626d3d5d9
+titlehash:7cf50ed710ecbe1211ea30c7a2d1e8f1973eec802ca5722bc1520155872ae2e4
+published_url:https://dw.com/ru/politico-нато-готовит-новый-пакет-помощи-украине-на-70-млрд-евро/a-77445419?maca=rus-rss-ru-all-1126-rdf
+title:politico нато готовит новый пакет помощи украине на 70 млрд евро
+urlhash:3874e583a5b8e62c13e1e70cd714ffd78ab608cc30024d9c64557279dfc32b6c
+titlehash:524378f679f9dc3583e40c3fd2e6e6b7b171d557b41f9ec402d8a5debb84c1f8
+published_url:https://aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss
+title:groom killed hours before his wedding in gaza
+urlhash:8dba4357a8c13322bfa9aa2f8487685cea7c7a143e3d0b4470d6d37f7d4ce365
+titlehash:af393a593b2df2e7fe05189ded1b01021723625bee6907b783038d4c76853cd4
+published_url:https://france24.com/en/radio-station-in-dr-congo-seeks-to-stop-misinformation-amid-spread-of-ebola
+title:radio station in dr congo seeks to stop misinformation amid spread of ebola
+urlhash:860a478ff58678faecb9bedd9b6e81f9967977684adf62d4ec8708939279e8fb
+titlehash:754deedbb300749a7c9600750e888f1235fd792e423bf413958a927ddfe3d0a3
+published_url:https://aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss
+title:cockroach party leader returns to india for first new delhi protest
+urlhash:328c9b09ebb4421c7e3eabdccac598b41d923433ca9c3dacbe1769bc5ba9edea
+titlehash:5182b534cc069619a545e0c105b4dcdaa6b8fb0cbbd22b5f46906748d5a99f60
+published_url:https://meduza.io/news/2026/06/06/na-npz-v-tyumeni-proizoshel-silnyy-pozhar-vlasti-podcherkivayut-eto-ne-ataka-bespilotnika
+title:на нпз в тюмени произошел пожар власти подчеркивают это не атака беспилотника
+urlhash:9ba3f5d30b75a38d89abed2608406058a24ac9b1536f1b98fb8d962338c47ecc
+titlehash:0994c46bf5e0f3ed1b0f9ecef73c22f0c2a506a998d39d9656de69cc473962e0
+published_url:https://meduza.io/news/2026/06/06/kprf-vydvinet-valeriya-rashkina-kandidatom-ot-irkutskoy-oblasti-na-vyborah-v-gosdumu-v-2022-godu-ego-lishili-mandata-posle-nezakonnoy-ohoty-na-losya
+title:кпрф выдвинет валерия рашкина кандидатом от иркутской области на выборах в госдуму в 2022 году его лишили мандата после незаконной охоты на лося
+urlhash:182aa0ef570310a95eb7cb41429f736c87ace94918cced0316d8757d73e42787
+titlehash:66df7f8e7933c72b1ae70bb33b0e48c0df908069f3ce146a6e2866303e645b10
+published_url:https://bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss
+title:man dies after bitten by shark in western australia police say
+urlhash:baad7293119cf51e2702593ada6d67dde3791282e47dc8439fc91f7703a6362a
+titlehash:6e4a9408d81346564bf9f1af238af1fb995639eb78479ee8e80597c3c8b5d63e
+published_url:http://ru.euronews.com/my-europe/2026/06/06/pit-hegset-prizyvaet-evropu-obespechit-svoyu-oboronu
+title:годовщина высадки в нормандии пит хегсет призывает европу обеспечить свою оборону
+urlhash:7cf732b1321afcb6d14a1596db41bebcce9eb5bff85cdceb30518112d86d8f32
+titlehash:004b0540c6cbbe542a4b04ebe50c57af13ee84180ac58f1368a910d699af50a9
+published_url:http://ru.euronews.com/video/2026/06/06/dua-lipa-and-callum-turner-celebrate-with-guests-at-a-wedding-party-in-sicily
+title:дуа липа и каллум тёрнер празднуют свадьбу в сицилии с гостями
+urlhash:9efa96964fb18bfe41d8e3e5d08d804e6b17db6bf5dcabaddf46a7ecbcb2228b
+titlehash:93691515e6f58985605d2e8f62bcb95ad778fcc4174e115162727f5aa55d7294
+published_url:http://ru.euronews.com/2026/06/06/the-heat-map-that-leaves-almost-all-of-spain-red-hot-how-much-will-the-thermometer-rise-wh
+title:карта жары почти вся испания раскалена насколько потеплеет у вас
+urlhash:95776ad9f9d4b1d02b918ef8e7ca53b5b18070e0c4e842cdbf15b95f87679132
+titlehash:1f94e801af96b9279f2ccf451fc3e9d1fa6aeda1fd81e961fc2ba313fec3077f
+published_url:https://ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724
+title:trump relaunches tariffs war after court struck down levies
+urlhash:8766b77c7db631d2fc0780764d7fd275f95704885407ec53093a4b7d9aa1dca3
+titlehash:714e1f224b47e44bfb9c66f8e2786e3e564aa0f045dbdeda0509e091f452a0e3
+published_url:https://ft.com/content/0b82963a-0225-484f-8b94-012c85c362d5
+title:allegations against maine senate candidate plunge democrats into turmoil
+urlhash:1d400f73434ea8e446fce15c521d7f31a425c36b6709e7cb05a843643b2238f7
+titlehash:51e778ff6ee21f9273baef1823ddecae94069261575440bbbbede9a67ed6e0df
+published_url:https://ft.com/content/f64f3904-904c-4735-a555-a08ab57572bf
+title:netherlands moves to soothe rich investors over tax on paper profits
+seen_urlhash:49ca1fc4d0414244acb1cd5f7f158a3a53364208bd13481a5c1fe00e4b924669
+seen_titlehash:ef74bd67a0ff6a734a60d76067c64042fe67aeb194597abba6fba418ad06941e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/6/rescuers-stop-search-for-last-two-men-lost-in-laos-cave?traffic_source=rss
+title:rescuers stop search for last two men lost in laos cave
+seen_urlhash:663ffc594de7405dcff69dceff365c32b5966cd7475653ad4e672d0c6883bdd5
+seen_titlehash:5890da5c3442b9f398919b2fa69955600d566b762554ec231e2e8a3132f2fa6b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss
+title:hundreds brave freezing weather in la paz to line up for affordable food
+seen_urlhash:303b37fb015226e367d91e267f4637350a575e75cf681dd612de0e12c36c689b
+seen_titlehash:d68f8aa322301b0599c54ff39d22faa3880abb0f7debedc086dcc9bd6afab45b
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss
+title:cockroach janta party rallies at new delhi for youth protests
+seen_urlhash:8589069b548fa6fb8fdcfc1b4efffa26711db79331762fc0bf4160f4362540b2
+seen_titlehash:a06bdca7057fe6bffe63ef2afb31f42450352eab0ba885d3863822857549c0aa
+seen_reason:processed_not_published
+url:https://france24.com/en/french-open-women-s-final-set-to-make-history-as-chwalinska-faces-andreeva
+title:french open women s final set to make history as chwalinska faces andreeva
+seen_urlhash:5f5675a21cec1a225b4799823bbc8318afa94da5e4fb372d2df7ba7e6f0d0b97
+seen_titlehash:68b731f37a5d0754dffeaa98b64c38c995c2afd2c4b55732eaa20fc75fdb39ed
+seen_reason:processed_not_published
+url:https://france24.com/en/former-french-first-lady-dies-at-93-bernadette-chirac-a-discreet-force
+title:former french first lady dies at 93 bernadette chirac a discreet force
+seen_urlhash:1c0bd21ed631f2c885ed1ae05fbcd1c374f4bdcfa40bba422dea43a0642f133e
+seen_titlehash:421f9a060c1e01ef4677c37b81a8217fee6362cc2d152d3cdff130611fe3e1cf
+seen_reason:processed_not_published
+url:https://france24.com/en/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death
+title:uk pm criticises vance over comments about teen s stabbing death
+seen_urlhash:24908eb726927030ca060c11bc1b5a90a9c9f50d3d05fbb85cd632757428c057
+seen_titlehash:6dbc23bdf8c51c6e94d1a6d4e6a0efb58549d730458a51d59f93cae270bcf6fe
+seen_reason:processed_not_published
+url:https://france24.com/en/cockroach-janata-party-holds-first-protest-in-new-delhi
+title:cockroach janata party holds first protest in new delhi
+seen_urlhash:f17a066b58fc1fd6d220897cbe16baa8504702e278dc5b98059a8e454a3d8d88
+seen_titlehash:fd41e0db0479544f4806a4667c6c00f27c3282d9c621a0e11a370d5b5158e762
+seen_reason:processed_not_published
+url:https://france24.com/en/culture/20260606-paris-celebrates-love-2026-nuit-blanche-all-night-art-festival
+title:paris celebrates love at the 2026 nuit blanche all night art festival
+seen_urlhash:6203ac58dcba24cbb1053588bd6d2ec2fc8ef382d717503b078e71d9dbb24147
+seen_titlehash:c907e0f238a387e26a5c2d897b346062028b594370bba4126f6e3c822831c6c3
+seen_reason:processed_not_published
+url:https://france24.com/en/pope-leo-visits-spain-with-focus-on-immigration
+title:pope leo visits spain with focus on immigration
+seen_urlhash:2a6ee813ac4a682e32ff25c96532b57f03012f2a311d33b257504c26ce1e84b0
+seen_titlehash:9a6af8af9bfe933292059f9ff1f26be7e262c22aa78d42cad5b9478fe6ee08b1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/06/multipurpose-egg-diss-against-merz-as-youth-word-of-the-year-the-vote-is-ongoing
+title:mehrzweckeier насмешка над мерцем как юное слово года идет голосование
