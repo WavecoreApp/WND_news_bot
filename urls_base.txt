@@ -1,24 +1,3 @@
-url:https://theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim
-title:dead but deportable us immigration judge signed order to eject teen murder victim
-seen_urlhash:95d721cfb74d2b320d49e81203aac0c5db4e25ebeefe467694162c0f2c721110
-seen_titlehash:39a4bf39e0c5a44a78c5fd236630abcefa732e6120a44dfb65d4dd111711d1f2
-seen_reason:processed_not_published
-url:https://theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel
-title:one ton cocaine bust reveals secret us mexico tunnel
-seen_urlhash:d921cf022e7c83d025789ab64e07ad290dd3202db1a6409ac518ff74ad873054
-seen_titlehash:48c16c33278ba29f89a6ff22931b3b5e551722e401e6e72115c92159628cad00
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss
-title:gunfire erupts in mogadishu before protests against somali president s rule
-seen_urlhash:fe6ab9c2e978cfdca53a22ecab322fc71cf689184e204d0189afeb6e6f5a6089
-seen_titlehash:ac260d051757c0bd7befcdc068f1104a48b261abccda2c9695d120d1c79ce694
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss
-title:iran faces a new energy imbalance but its options are limited
-seen_urlhash:9fcf0e2a65ec5813951d3a151a0ed3f3e1ee24ea50ab90b51dc7c1abc29d44cf
-seen_titlehash:944eeda5f36164b4c8afc98b1c0b1960f5c1502c12daa8a1da3d77ffda6d83fc
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss
 title:israeli attacks kill nine in lebanon reach beirut outskirts
 seen_urlhash:b9331ec8f5e78bebb6b0cfddf1ce755879a9688ee409e6889c2d344d5d9567f6
 seen_titlehash:080140c3f1d95460f757044641a8a694774dd3ae50259adc28d3d93eecd370ec
@@ -4998,3 +4977,24 @@ seen_titlehash:a400dc9d4f73944d9b9f00990dc577870e72cd36ea456509cc5c400db4a46959
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss
 title:us doctor recovers from ebola in germany as drc cases surge to 488
+urlhash:aa772ef34d9ff3b0590e25187676624e820f10970fda302d5ba805138c3d46c2
+titlehash:a9e6fef99fd163aff45fb115f8cfb03066be0a6a792151b27242d884024057ef
+published_url:https://aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss
+title:pentagon said to raise threat level on israel spying to critical
+urlhash:90088f762f89a2cb8814fbd866499e993e46ae31df3a47e174dc3831af269204
+titlehash:97277dd60cd527b02f8c614aca570019fd75b6aea632e25c6e93c12127155161
+published_url:https://aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss
+title:rights group says drone strike kills 11 in central sudan market
+urlhash:4840eb1292b0c7aa70f2a12856646237a4fb3aaab999e474ed684eeac3ab2588
+titlehash:53d17f2061815e180e4fd2a12933f5bdd095d81ac9d250b4c2c8c2b3415e080f
+published_url:https://dw.com/ru/кулеба-рф-атаковала-два-поисково-спасательных-катера-украины/a-77446543?maca=rus-rss-ru-all-1126-rdf
+title:кулеба рф атаковала два поисково спасательных катера украины
+urlhash:d4e387ce544bc913f2bee60bcec024c5739bee876ec5524c37d285cb8be96194
+titlehash:d478153607a2d6d7acf3ce678c94dd68e497ef4d97bf61f2a964ef30fee1179b
+published_url:https://aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss
+title:tunisians protest for press freedom and release of political prisoners
+seen_urlhash:28b1ba82e834719b371a1b021075e12f96f0e06e19fc296f82709f4773b4366b
+seen_titlehash:82ee0c81aba9a0573cbccc12ee7bdbdb0501e8817534eaee175c88eea49833fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss
+title:cuba s raul castro makes first public appearance since us charges
