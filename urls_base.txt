@@ -1,97 +1,3 @@
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/04/nsw-drivers-medicinal-cannabis-proposed-new-laws
-title:nsw motorists who use medicinal cannabis may soon be able to drive without fear of major penalty
-seen_urlhash:32fa6817358ef9911a5efd8b2055d1cc453cafb3a2950ac07649688100becf0f
-seen_titlehash:bbe59ebcc9b3eb0b1b206bdbf1fe97fa16cce0c1af0690fbf6fd14d59fb26770
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/03/anti-abortion-activists-are-trying-to-limit-access-in-nsw-and-they-are-just-getting-started
-title:anti abortion activists are trying to limit access in nsw and they are just getting started
-seen_urlhash:1d628f7e165af6de01503c02261d726f613d202bbe6907c416acfbc5b911987c
-seen_titlehash:1140a5bbd63991123b9af5cc8e48efa28560ab8d0cad159ebd9502a49d4e35d4
-seen_reason:processed_not_published
-url:https://theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour
-title:trump threatens tariffs on 60 trading partners including uk and canada over forced labour
-seen_urlhash:febaf7f67ba8cf53449889f7f54963a88585fc93c442e69249562f67fe049291
-seen_titlehash:4564e577a3227e6002ec4f419c39ea08ea92f7ab5485de7110454603d42f593c
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/fbi-agents-fatally-shoot-alleged-hostage-taker-in-california?traffic_source=rss
-title:fbi agents fatally shoot alleged hostage taker in california
-seen_urlhash:8e2619815ec12350271f76e60aeb16ea6d70c8df8875922b227506ca88563c20
-seen_titlehash:5a9ffa1497992d0d58a9302a70da8513c10e9e764fc286843e0a0df1bcf47325
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss
-title:pro palestine us army veteran adam hamawy wins new jersey primary
-seen_urlhash:525719408260318d757af7e12b73b97ccfaef54d8adf704d497228b4520e0231
-seen_titlehash:c2d1204acb300678bf277850fdffa8b10887c7981ead0171a0c48614b838ce78
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/three-british-navy-personnel-killed-in-helicopter-crash-in-england?traffic_source=rss
-title:three british navy personnel killed in helicopter crash in england
-seen_urlhash:3a1fa8215766c6176e979cc10a70a27fc3455d977e5e5651c0ee944eae49626c
-seen_titlehash:a12bf920f426aa20e18e8f0912a4bfe0973cd55a636a6b29bce34391f4ee9d81
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/3/sabalenka-the-latest-french-open-star-to-fall-as-shnaider-wins-quarterfinal?traffic_source=rss
-title:sabalenka the latest french open shock exit as shnaider wins quarterfinal
-seen_urlhash:29a603fb7233e5e45479d14dbca1b4103306a9965c416f6f4318081cda2dcd54
-seen_titlehash:7b82255499e1d7e8d6a2a21fb42f344fdbd8d0a32f43f98a0e3418f62ab4416a
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief?traffic_source=rss
-title:doesn t seem qualified who is bill pulte acting us intelligence chief
-seen_urlhash:b3e63405365b5767ee1f6c4a3b47b1fccff07198d2c575a1170ab3a070bd2284
-seen_titlehash:3c38852b8e1195b3f3c83c966290971f5c0e374002e6d1916a0e347337457a36
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/featured-documentaries/2026/6/3/the-population-bust?traffic_source=rss
-title:the population bust
-seen_urlhash:b061d2128b7d6ce57b3c046d6ad0cfe6068923790b6314a00cf87aa79870dcd7
-seen_titlehash:ba05175b999560912cdb0be685c61d6728afebc3f4a350b261759d837181136e
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss
-title:israel detains palestine international women s football player
-seen_urlhash:5c67338caf2b0765c772031203a683edec396a67c3a65d9e6ee93a5e5b180f31
-seen_titlehash:1ccc2189f42c457077f08cb3c5ef023c716d4e0ad7f88e15b771f5a403bbfe41
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss
-title:why is france so invested in the future of lebanon
-seen_urlhash:287b96012dfb1e814f6b83856ab92f6350c92195c1fe3e98e79fe4df8d01268b
-seen_titlehash:0f3aa2496f18fb703745a5afc042c7b8beaf1ecbc6a620538af88413ae6ac096
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/counting-the-cost/2026/6/3/is-asia-facing-a-new-currency-crisis?traffic_source=rss
-title:is asia facing a new currency crisis
-seen_urlhash:a29bd51f7abb51df66d06bf48ecb89cec3d1a30738ec4ed30855dfb8405a7460
-seen_titlehash:b34dcbf1be633cfdbfea08bb9fffd56d94036e8c7019ff38144e543be426ac6b
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/does-uks-new-far-right-party-restore-pose-a-threat-to-farages-reform?traffic_source=rss
-title:does uk s new far right party restore pose a threat to farage s reform
-seen_urlhash:b745bd06b5ac710e6e465a57e763d3fd9cb719260c4e5908f1ae8b797f631263
-seen_titlehash:d6b309b3cc3883759b80d30c40c4cb8fb1a32cc0bd5feb0f11f61e4c893cb31c
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/3/video-teachers-in-northern-nigeria-protest-abduction-of-school-children?traffic_source=rss
-title:video teachers in northern nigeria protest abduction of school children
-seen_urlhash:57e732b22f1d95661871346cbd69b3706b70a00c1f2098369071e6bad7f6752b
-seen_titlehash:4d9624aab81b8acc6ec04de5c2e19bf1b08966629937e9449ae815b38aedefec
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/3/ferrari-sign-leclerc-on-new-long-term-contract-ahead-of-home-f1-monaco-gp?traffic_source=rss
-title:ferrari sign leclerc on new long term contract before home f1 monaco gp
-seen_urlhash:614041e1cd266671d706abcd169da2120b4d49ff31d627fc7762df0a774c8ba0
-seen_titlehash:07cf7abd465a396839e2c28dddb37e4b2bc9c1d2bb5850f34b250a8301857649
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss
-title:israel is building more military posts in gaza satellite imagery shows
-seen_urlhash:70373fab1d64935bf821c66f04f6fceab21b63a0b5c94fe6bfc84c557cb140ca
-seen_titlehash:7ebeaeb7c13e58fcd7dc98f8e4836aef526c3fb3d7dab3604eda0802d969feea
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss
-title:iran kuwait bahrain hit is the war in the gulf escalating again
-seen_urlhash:07dbbbdc541cf3468c943f00c7a4d27a28dea6762fcb765c7e2468ab4be92878
-seen_titlehash:e47e09c78587075318d8c33f194a55a1636e64a50668660d4ae303fb3731a905
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss
-title:israel s invasion of southern lebanon devastates centuries of history
-seen_urlhash:75944d8e59019035a4efe9b121123bfd1557ec21b8d5b3b05e8d0468f443b34c
-seen_titlehash:d55378f05e7323bf4a2a8a6d250b3f9b37b4c42877691311af8aa7d423e88e7a
-seen_reason:processed_not_published
-url:https://france24.com/en/us-war-on-iran-not-about-the-iranian-people-europe-can-put-the-issue-of-human-rights-on-the-table
-title:us war on iran not about the iranian people europe can put the issue of human rights on the table
-seen_urlhash:10e685a79ed5d71f0c5840eae989a7097cb2598087621362cab9390df6b76638
 seen_titlehash:c3033f527c30f4c2f401fabe41609e3b0677110526040f80babd0069cf1551af
 seen_reason:processed_not_published
 url:https://france24.com/en/video/20260603-iranian-revolutionary-guards-claim-attacks-on-bahrain-and-kuwait
@@ -4998,3 +4904,97 @@ seen_titlehash:93e8d2d0206206bcd79b6c68e81b41ac0623b75050202609697e1111a324dd69
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/06/06/takogo-cheloveka-pauka-u-nas-esche-ne-bylo-vyshel-serial-v-kotorom-supergeroya-igraet-nikolas-keydzh
 title:такого человека паука у нас еще не было вышел сериал в котором супергероя играет николас кейдж это нуар о разочарованном следователе а если брать шире о травмах первой мировой
+urlhash:e95899380349919e1e2689e0b5b39b44485c6921a449186becaf1d5df919e4a7
+titlehash:458adca673240e3f5c3182cf21442f2d79758e31e395fd179ede47b75747434c
+published_url:https://bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss
+title:scores of ukrainian drones target st petersburg in attack russia calls unprecedented
+urlhash:d20900ceaab247598c46daab837792c53e909f7ca8a7a4831df5a7ccc49a06b9
+titlehash:9630e08e49356aeed344c8f0bb1e5a860cb8b2b2821a48bbe84157125e5c6891
+published_url:https://aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss
+title:israeli forces fatally shoot palestinian infant wound parents in west bank
+urlhash:b5f3089f0bd3e702ab16150e9b7be4d42dc7ba50db2cfbc3e54d01249e549c5c
+titlehash:1bf8cf3296217edad42984f6ef5c3f3b8448a2ac02455a933c09c34062563d19
+published_url:https://dw.com/ru/украина-ударила-по-базе-в-кронштадте-и-складам-вмф-рф-под-петербургом/a-77444945?maca=rus-rss-ru-all-1126-rdf
+title:украина ударила по базе в кронштадте и складам вмф рф под петербургом
+urlhash:547e987bfe97fb8fb3f02395a55097121a88468724e859bc1f496794431d1719
+titlehash:dab9aa02116e03595f2357041a485cc6d7374d35cb0d4d18f6f1552a6982c133
+published_url:http://ru.euronews.com/my-europe/2026/06/06/sankt-peterburg-podvergsya-masshtabnoj-atake-dronov
+title:санкт петербург подвергся масштабной атаке дронов путин встретился с герхардом шрёдером
+urlhash:dfd4a9f8a8f6cc1b8ac2eed02c23034623575b6b98cfad8b440ffa84d28c3d84
+titlehash:288f0834c7c78e4fa0c326ef63caa76e0bfcb6ef464fd6ecb7798747b6bdaf2f
+published_url:https://theguardian.com/business/2026/jun/06/us-china-trump-trade-war
+title:on china trump picked the right battle but the wrong strategy
+urlhash:5da86783a4ba842b7d96b63ab07bd6e41ddaba5b6dd911d80299942492d9317f
+titlehash:17ac54fca3622b67423fcfc522e4d1a25af65516d52563daf88d734b480debe4
+published_url:https://aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss
+title:badge of honour israeli settlers shrug off global condemnation
+urlhash:a18cac0f9634977073a4a45210032b298a5e3ff186d3533b4d79eac80529ffe2
+titlehash:3432b31050d2219e70ad95078f99531600429056d7a18b624beb7026718533b1
+published_url:https://ft.com/content/c9b5b0d3-e9f8-489f-b85a-835ded2837a6
+title:pricing the oil inventory drawdown
+urlhash:d30256ebc2eacc6a24844edb78fad5682aca099cf201468793406c2c7c186164
+titlehash:04b77b8ed19d2de81f0ea0be563e8f21a40b5e4673d6777c66eb636f84cc2bd5
+published_url:https://theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal
+title:historic canadian warehouse workers sign first ever union deal with walmart
+urlhash:a92f4b95cad388733423ca3751e7c02a0d35aa135098930591ba3e458ddbf621
+titlehash:302d4cd53bd15a5a0d2f9166089e79d3a4b995688900568f4a4489d7a5ff4e0f
+published_url:https://aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss
+title:ebola border shutdown leaves goods rotting between uganda and drc
+urlhash:1e69b84bdcafa2aba61278579d2eb684edc75e5c0ecfc0ddf4e1500f6720cdc4
+titlehash:d0434816bdeb96b21f0172eb1e4322fb5c28733f3cc9c0d8edc1e9a1af2f27d6
+published_url:https://dw.com/ru/еврокомиссия-потребовала-отмены-погранконтроля-в-евросоюзе/a-77444471?maca=rus-rss-ru-all-1126-rdf
+title:еврокомиссия потребовала отмены погранконтроля в евросоюзе
+urlhash:a6623b00e269d0d29cc14147f43873c799b5a73b1cd6f7b2462b2e268770a1da
+titlehash:62073c90765d5f98a156673e2f25cd3624ad90d3981cd280131ccdec0a443d86
+published_url:http://ru.euronews.com/2026/06/06/prezident-livana-obvinil-iran-v-ispolzovanii-strany-kak-instrument-torga
+title:президент ливана обвинил иран в использовании страны как инструмент торга
+urlhash:05b05b6e0783a4721aba87d93fd1b91d819cb9daff22997dde6715a97360fa72
+titlehash:c855618c40362bbc05472367a6fe24dc4400c500d0846c35ffbe9d2563916bba
+published_url:https://news.sky.com/story/technical-issue-detected-on-one-of-uks-biggest-warships-13551329
+title:technical issue detected on one of uk s biggest warships
+urlhash:f2281249e7767882b4647ed4347594145544fcdde63a568ac1ec32a3164e9f44
+titlehash:c5b334c1ac22e4539c83fdd1253ca7afab1422dba7ca2b87b9adf841114746e0
+published_url:https://france24.com/en/france/20260606-bernadette-chirac-widow-of-former-president-dies-age-93
+title:bernadette chirac widow of former french president dies at 93
+urlhash:8ebd51469e08aa5993fb1aa1ff8fc3b7095aa103b4e9a29272365086e9187f22
+titlehash:32990ff5f4d653825708b344d9060e1e06fef5dcacd1097ec50479c5335108d5
+published_url:http://ru.euronews.com/culture/2026/06/06/arrival-of-pope-leo-xiv-in-spain-in-pictures
+title:прибытие папы льва xiv в испанию фоторепортаж
+urlhash:2d4dbb47b0c8caef1c99f42be8c7c1db45830b566a2b05dcf45111ba591eb43b
+titlehash:9c00c3dbad6590a510c5b08f1ac23790d8071b15ce041f0327cb81d458b4fcf2
+published_url:https://nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html
+title:what to know about the ebola outbreak
+urlhash:5a46ecc3a1272df89ab72b4eb88ce8bdbe18b5baf27d6e545b9d79ce7c6f08e9
+titlehash:0a05150edf77dd3bed51a158f68b821d5945c71bcba3a648be92050db78ed2e5
+published_url:https://nytimes.com/2026/06/06/briefing/balancing-act.html
+title:balancing act
+seen_urlhash:f3949deb876fa5ac898b5504eb478737ea59b591a7a8fe1a68d53ec0a9664b1f
+seen_titlehash:30b1751f4aacc8cc062520dec17bc059d32d83f95c6866dfd59f4d98253e0871
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss
+title:vaibhav sooryavanshi 15 year old sensation called up to india s t20 squad
+seen_urlhash:f937e53a153dd5bb258e89c56590944daa0c8ea64388ba87ef0eb796f8dd3b2c
+seen_titlehash:f2b296b99b88a8166efc255e5b297cace78d4baba36fa4d2b3006b790cc12db4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss
+title:supporters of the cockroach people s party hold protest in new delhi
+seen_urlhash:199f0cc5ab463f10d0d029645a715a5c501beb0e7850c565aa1df63be6d05575
+seen_titlehash:b132ab63c084ac4ce0ff15960bbe11e3e1d0f54b225a200ea32b180ca18e06fb
+seen_reason:processed_not_published
+url:https://news.sky.com/story/palestinian-health-ministry-says-baby-killed-and-parents-wounded-by-israeli-gunfire-in-west-bank-13551309
+title:palestinian baby killed by israeli gunfire in west bank says health ministry
+seen_urlhash:e2b2bcd77c2ade2452feb4427f210c6ac7bc68503cd11eb81ec958cffafc70bc
+seen_titlehash:13902ab85cd495340d86d913a29ba81e1be3a6258f90616a6f807b73c24d8f65
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/06/the-butteri-of-the-maremma-laziale-between-tradition-and-innovation-the-riarto-of-canale-m
+title:буттери лацианской мареммы между традицией и новшествами riarto в канале монтерано
+seen_urlhash:0ca302d3141019c128eddd3ee420f5d7de74d713799945b5a0a5c1552586fb64
+seen_titlehash:35a47e93d12d88edc2cf2cf7337d4b11556a7c8a6f37d819e5065e9db66e9bbb
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/06/voyna
+title:война 1564 й день украина ударила дронами по санкт петербургу второй раз за четыре дня зеленский назвал это ответом на отказ путина от переговоров
+seen_urlhash:21f18df31a1fca65864d612aefe8d4271026f091672f89a7d29bb26ad72a8f27
+seen_titlehash:f4f1a2cda4ddb558e7bc2b85c9e0b3090d1143c1f061d5c3a86b11cc57d9d3e5
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/06/vsu-atakovali-peterburg-v-den-okonchaniya-pmef-kak-i-v-den-ego-otkrytiya-foto-i-video
+title:всу атаковали петербург в день окончания пмэф как и в день его открытия фото и видео целями стали кадетский корпус и нефтебаза губернатор беглов посоветовал жителям не выходить из дома
