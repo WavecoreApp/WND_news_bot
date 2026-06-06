@@ -1,15 +1,3 @@
-url:https://france24.com/en/i-can-t-breathe-protesters-clash-with-police-over-handcuffed-dying-student
-title:i can t breathe protesters clash with police over handcuffed dying student
-seen_urlhash:5862cf27c496c7d88312f2ece60305d480e51633ca204c79c4a7d6e5dba72426
-seen_titlehash:01cf6e5262c041d2caba633d8a97de9ab739d70cf6a4586aa8003ab06caa0531
-seen_reason:processed_not_published
-url:https://france24.com/en/as-california-votes-in-the-primary-elections-who-are-the-candidates
-title:as california votes in the primary elections who are the candidates
-seen_urlhash:91d9344593a1ea6c60030a8398ba879992cbbc96a52cadcd11826d53c2dd0671
-seen_titlehash:0312d165611449737eeb5b3615c8f7d70caf29d0bc246540d0403f84b0109c56
-seen_reason:processed_not_published
-url:https://france24.com/en/new-round-of-israel-lebanon-talks-opens-after-israeli-strikes
-title:new round of israel lebanon talks opens after israeli strikes
 seen_urlhash:8c240e7210fd60b313e4e4eac1dde073421b69eb50e16885112db24c31746172
 seen_titlehash:af2cf4ed6c3fa8968e582dbc3079f9223f459b755df9abac42701b95f8bc6bbe
 seen_reason:processed_not_published
@@ -4998,3 +4986,15 @@ seen_titlehash:287c91316b22c669a077d96e773b718fa8959f2a7e00f38f82795531d42a111f
 seen_reason:processed_not_published
 url:https://aljazeera.com/sports/2026/6/5/cobolli-into-final-as-virus-struck-arnaldi-pulls-out-of-french-open?traffic_source=rss
 title:cobolli into final as virus struck arnaldi pulls out of french open
+urlhash:397d0af4b89d5a78b0ec0f0113eacae5ec90f625fe4c22d84bfa19761ddaa27c
+titlehash:0818823ec51f874984c31d2f1e4611a5f65a4ac072d554e1d2c7c1de4e64ca0e
+published_url:https://dw.com/ru/судья-в-сша-счел-незаконными-меры-трампа-против-иммигрантов-из-39-стран/a-77442493?maca=rus-rss-ru-all-1126-rdf
+title:судья в сша счел незаконными меры трампа против иммигрантов из 39 стран
+urlhash:b32ac4959690e56009627b34f4b93b7b1af800a0aefccca9bc62e9342bb1fa84
+titlehash:316447003974de7f5f298be46f7db325c3ddf4f95712126a70d3c170a35b2209
+published_url:https://dw.com/ru/цик-армении-отклонил-заявление-о-снятии-блока-самвела-карапетяна-с-выборов/a-77441375?maca=rus-rss-ru-all-1126-rdf
+title:цик армении отклонил заявление о снятии блока самвела карапетяна с выборов
+urlhash:769adba620bcc587f3fbb80226f26af785508dc9491273b1b3a016381a50c8ef
+titlehash:9fa4382a660720bb1852ed1ff38634936c4f183cf1bc02c26aef3163df4017b8
+published_url:https://dw.com/ru/женская-сборная-фрг-по-футболу-обеспечила-себе-путевку-на-чм-2027/a-77442466?maca=rus-rss-ru-all-1126-rdf
+title:женская сборная фрг по футболу обеспечила себе путевку на чм 2027
