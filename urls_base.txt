@@ -1,116 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/04/polsha-predlozhila-ssha-sozdat-novuyu-postoyannuyu-voennuyu-bazu
-title:польша предложила сша создать новую постоянную военную базу
-seen_urlhash:6a631b7d5f81c42b85a46051b2e6952f30f9166c53aea9f2a62c982687a5f1a7
-seen_titlehash:071a0e5648afcf884e785669fdfdf99fd5cb3b447f52724581e3e884b2c31411
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/06/04/microsoft-and-mayo-clinic-have-unveiled-a-new-safe-and-trusted-ai-for-healthcare
-title:microsoft и клиника mayo представляют новый безопасный ии для медицины
-seen_urlhash:4d01950dcb55ef8fd83b216b9e4a3f580594cbd432ed76293edb1d01b4cb92cc
-seen_titlehash:41dec4d205f2ef7047ef98e9179b99d9b11ac185411d538aaf5b92756697c8d6
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/06/04/weight-loss-drugs-may-reduce-the-risk-of-breast-cancer-by-up-to-30-study-finds
-title:препараты для похудения могут снизить риск рака груди до 30 показало исследование
-seen_urlhash:c71da188cb558774e8b808505d502f201af54842e8db240bfc53a30cc9330be8
-seen_titlehash:bf6b2e9cbc7e7a23bf164fe9e736fef086d4089b2f019dd0708bdec364b5f9ab
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/04/freedom-ship-could-this-giant-floating-city-become-the-worlds-biggest-cruise-ship
-title:freedom ship станет ли этот гигантский плавучий город крупнейшим лайнером мира
-seen_urlhash:80a464525509ad5053169aa22f72b5894b4dea3f75923dce8cee6919f283aaa5
-seen_titlehash:e04e55bdd10dfe01418d9d993673ad8b6b963adba955d2f4c00405140ef5b642
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/06/04/europes-take-home-pay-ranking-where-do-you-earn-the-most-after-tax
-title:рейтинг зарплат в европе где больше всего зарабатывают после налогов
-seen_urlhash:5a69bdb3bd76fb5dba6101a513689a4de1f315e157d7963f8cd2c8d4d29db305
-seen_titlehash:1fd61d5a2c5fcc1636e3e456985d4f56f6437520c329026ab43684aaa27b75f5
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/04/v-simferopole-tri-cheloveka-pogibli-v-rezultate-ukrainskogo-udara
-title:в симферополе три человека погибли в результате украинского удара
-seen_urlhash:c27d566d6a413ef206a1b8d039d63462f662d39b9f675e9883895d0956d3dd6a
-seen_titlehash:27e6fea16afc542d5896151ddcbbf809a24aac596b5a8432d9cec51abeda449d
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/04/vy-tut-ne-skuchayte-bez-menya
-title:вы тут не скучайте без меня 4 июня алексею навальному исполнилось бы 50 лет мы выбрали 50 его цитат о политике смерти любви и арнольде шварценеггере
-seen_urlhash:b3d2028c5148acea4ada301630e3f471a0a65498612743e657b829508bf9aa4f
-seen_titlehash:bec40427ff1e4764431fc7f1ca7d77dbc851ce3c6153a307cfc636fa3334276c
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/04/on-vsegda-zadaval-voprosy-a-ne-chital-lektsii
-title:он всегда задавал вопросы а не читал лекции навальному 50 его друзья вспоминают каким он был не на работе что исполнял в караоке над чем шутил и как умел моментально вычислить слежку
-seen_urlhash:f67bbe91283cc20ad8f5e135145491d05698db7dd70362cddce82e190d77b029
-seen_titlehash:c235a01f002f5ba2bfd748f8bf166dfdc4fce38209950173f56bf46082e53a72
-seen_reason:processed_not_published
-url:https://ft.com/content/c78f2716-8c97-4c38-a2e7-a474061bf7fd
-title:hungary lifts 17 month veto on ukraine s eu membership bid
-seen_urlhash:ba478fa1d2e8c1607418d21713586e35fc3a425780ed23d8d1f72d63b9503e41
-seen_titlehash:929f2f51be8827d8271e3d046a2199a498ebfe67729508c28099b2cc7891b62f
-seen_reason:processed_not_published
-url:https://ft.com/content/70210ca3-5aea-4e91-a763-d6f04b86315d
-title:trump to nominate his former lawyer as us attorney general
-seen_urlhash:651d97af8ff3b416e7463960132ed6b78ab09401c53091f22f314da013dee9ff
-seen_titlehash:777cffd0dad01d2bbe676c20c5a105caeed1fac87638e18e7bbfab5bdb4c658f
-seen_reason:processed_not_published
-url:https://ft.com/reports/best-employers-europe
-title:europe s best employers
-seen_urlhash:71e22b326988e9f4ac8e2dbcb351e43e78e37c08e350b1155ea307ec9606f3bf
-seen_titlehash:8db7e51ee42a19ec856740ab1d4d27ee2e975e11e04f557994c1f32fc2889993
-seen_reason:processed_not_published
-url:https://ft.com/content/4243f9c0-63eb-48d8-b395-bd1ca5cc37a2
-title:kirkland ellis and palantir to build ai tool to assist private equity firms
-seen_urlhash:dcc199478c3be254a3262995d52e7ec002e3c6ad8aa6c7a4758cef1a51ab0154
-seen_titlehash:75b8e7f3b432b106475be27111e0126060f401214a17b78957f7faf82c489bf1
-seen_reason:processed_not_published
-url:https://ft.com/content/e0642f77-c5e1-422d-9491-96ab9a11d054
-title:russia prunes armenian rose trade ahead of election
-seen_urlhash:5f06823bc182af81678d1bd0d3f66508e8082d86bd3b979cf00e722a092a7423
-seen_titlehash:ab0c0cf2b8b9e680daa5f1f064cd8c5824573f562ee53841b9f3f983dfc9a8e7
-seen_reason:processed_not_published
-url:https://ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795
-title:america s other economy tells a different growth story
-seen_urlhash:52a3773010ea288b7d69207a30c638d416d0133f7f3ff602e4ba7b0a1c9890ad
-seen_titlehash:b0761bf159b464a36d9955d229581352d656141b2b9cbfc0980adccb9a0e61e5
-seen_reason:processed_not_published
-url:https://ft.com/content/c5f7a9f0-d3d1-499c-aafb-ad03c85730bd
-title:ai cyber security risk top of list for banking threats says uk regulator
-seen_urlhash:9a6ff82fd71828e94894cebb30d3a0b3e1c1500db47d7a384df4a6e8ca738405
-seen_titlehash:27f14666437cd160d5db6fe4740e22d69cb2f89c316cce47eaaf788365190f70
-seen_reason:processed_not_published
-url:https://ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b
-title:nvidia takes ai battle from the data centre to the laptop
-seen_urlhash:057fcfef48af542d4f64850fdbf7e75762e5983992aba7be2a5a1562d95953c8
-seen_titlehash:e89d703515c1cacf2d65a1588986605cac6af703c9a564be6a47d2974f99abaa
-seen_reason:processed_not_published
-url:https://ft.com/content/e0a198af-725a-4fa0-a9fe-72725163b4e6
-title:indian stocks lose out to asian rivals in global hunt for ai winners
-seen_urlhash:39419b3462d0d0af1ef70c7bada6312e1673e6d5578013a0918b57cf7f8b9898
-seen_titlehash:4816530450ec88fdc76fced4b8c33601eb6f9c785c6146d4fa1d3b108ee4720b
-seen_reason:processed_not_published
-url:https://ft.com/content/83f87128-5b38-4398-aea5-b2ba19a88ca3
-title:trump and netanyahu replay 1982 beirut stand off
-seen_urlhash:b497d08744e97f15fa6e2acd3b4142b478fed7b954bdff3c424d396a754fc713
-seen_titlehash:2bc52ab060e384b4ccccde01e71f06148df531679c0c81d760ee22faed21dfc1
-seen_reason:processed_not_published
-url:https://ft.com/content/f68d6b58-2dd3-4a9c-81e1-fcc31ef3ca2d
-title:how we compiled the 2026 ft nikkei investing in america rankings
-seen_urlhash:ea90e89ecc32dfd8dd29845b19b80da8a5a11d98cd071b065ef47b9430622730
-seen_titlehash:65c949fbe0ec1164a883bc22112b67ff9bbae41a512331315ae91c2f1f3305ba
-seen_reason:processed_not_published
-url:https://ft.com/content/95bd0d7e-2845-404a-a8d8-3457661c3e7a
-title:how investors need to adapt to a new era of spikeflation
-seen_urlhash:783c9ca2ac83540699de6116b4c69238bb01a36097891408d6fdd243a01eaaa7
-seen_titlehash:4f222f870caf0e337e1bd9c500e1f1e0c3ac18140e8fac64bd69121c02d1cd6f
-seen_reason:processed_not_published
-url:https://ft.com/content/8be3cb2e-c65e-4bef-a085-744e99a9dbd1
-title:france s 110bn ai boom tests macron s tech ambitions
-seen_urlhash:9f8d2e6c3a9777bbe92b41f018c11e7bc5580bcc8ca43f72953c0a54f834adc1
-seen_titlehash:66394f26efbbd389a362c1d916ec7279c96c5431e4f4d408aed9ef44bb1d4e75
-seen_reason:processed_not_published
-url:https://ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c
-title:javier milei argentina invites ai to free itself
-seen_urlhash:be025b6e0dda91b40cd58e680b0adc599331b5cddc9ab0a64f9ca547c1a559d4
-seen_titlehash:3cd1ed8c8f1864d78afe55cc0d0779cadbcecebc383eb06b39831f1f12d3332b
-seen_reason:processed_not_published
-url:https://ft.com/content/2245f688-cbbf-42ce-ae79-ab5d7ea9a6d0
-title:global flight of the wealthy slows sharply as political and tax worries ease
 seen_urlhash:dc9fb4582786b76b31f09d5268828fa1cc68f476d479bd99abe0debede17704f
 seen_titlehash:96f0600b34a0da6d0083958bd35ec22fdaaaf3afa18d2d07bbe69f0843bf2757
 seen_reason:processed_not_published
@@ -4998,3 +4885,116 @@ seen_titlehash:edd9fae3c837b7a656009b4f7b2091aec9c9d9e5af75f5112446da752caea9a6
 seen_reason:processed_not_published
 url:https://ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1
 title:are we at the start of a new investment super cycle
+urlhash:342fa2b7e5c8bddfe25d72718e0b39b59fa38e4fa5f3419993caa835b779e8b8
+titlehash:0f09bdc0797511adf0a1a7af2c9876baff66c5eccc52bd6959223dacd52e4897
+published_url:https://aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss
+title:missiles and negotiations iran 100 days into the war with us and israel
+urlhash:866edd1b25a89115fc28c10724f59b172b44a0a2f5bf038a1d446cfe3ac7857e
+titlehash:9131eb6d0b78fe5c145dd386c18c3999c490288915e063ed5d3965cdfda2214c
+published_url:https://aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss
+title:israel kills nine in gaza as egypt hosts renewed ceasefire talks
+urlhash:6f90eef98bf6ed828cbc55fa1a257408263f97bd0f77c7f112b98facfa9f2f87
+titlehash:26d9b99939d56173c8232e065c84150c04e9956d99d939a90bf57509aa4c7a56
+published_url:https://ft.com/content/02a3b935-62dc-44a1-9957-6867e8ee1890
+title:israel attacks beirut days after trump s showdown with netanyahu
+urlhash:68ff950235f8e84349249a237883dd1021fda2289a8181ac7f0ab707480c1eb0
+titlehash:aa2f2ac09cd650eae5903559d947bc544987a4912e5abbc4523719bcf993d66f
+published_url:https://nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html
+title:ukraine turns to europe as u s steps back as mediator in peace talks
+urlhash:263238735da072d008045348098b11f1a705788858a9c79c679b906d4aa5fc6b
+titlehash:ae1023bd96624edfa98705f0cd45be31f2804eb62f5d12a92a278532cb75b6be
+published_url:https://theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response
+title:rebel attacks in eastern drc kill 30 people and hamper ebola response
+urlhash:fef71acbcd916e9e78dbfeef29e3fef8414d6cc7de57ed5d02c14130d339d5c7
+titlehash:7e3503a7e84cba9763ae62a68ccfed7995755ddcc3d63dd1851abb2576d69129
+published_url:https://aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno?traffic_source=rss
+title:army frees 360 people abducted by boko haram in nigeria s borno state
+urlhash:465ff2e4411e681c5bf92bed8944bab39101f6f6f6089c7398fe68a9d5d2d526
+titlehash:0f3dfdc9d16c384c1b1c13c23b14da271f73a15badb13fa01480c2771c6b36fa
+published_url:https://france24.com/en/video/20260607-iran-war-100-days
+title:iran war 100 days on a costly stalemate
+urlhash:94339cc2e4321a709571a8d4b8df9ea43775d04fd1ca1b037f0d1c0dfe9a8c69
+titlehash:714a14ea3df737b819af0254179c248a5ff03b0248546dc76c7762f101393310
+published_url:https://dw.com/ru/пашинян-евросоюз-откроет-свой-рынок-для-сельхозпродуктов-из-армении/a-77450980?maca=rus-rss-ru-all-1126-rdf
+title:пашинян евросоюз откроет свой рынок для сельхозпродуктов из армении
+urlhash:d038f5b06e19ae4afca3cb7c43d3b3c1e9a08e09ea1ba9386b9a4313125886e7
+titlehash:d737911508f15339fbd5c48f71ff600055c5f6fdcf991122534212efba124613
+published_url:http://ru.euronews.com/my-europe/2026/06/07/russia-uefa-ban
+title:уефа продлил отстранение российских сборных и клубов от соревнований на сезон 2026 27
+urlhash:c3983143679eadb5cfb6b7835d7d8d60e4016cb17cc4f7677f694e8761a8631d
+titlehash:9dab05a474c95238c359d73058176940ec2fda47e95b241e454e2f1651adcb0e
+published_url:https://meduza.io/news/2026/06/07/prezident-finlyandii-zayavil-chto-ne-verit-v-plany-rossii-napast-na-strany-nato-on-schitaet-chto-evrosoyuz-dolzhen-nachat-dialog-s-putinym
+title:президент финляндии заявил что не верит в планы россии напасть на страны нато он считает что евросоюз должен начать диалог с путиным
+urlhash:a59bbd4d7c602018f0d38e80afe3a3e9a5e5d05f59e2f58cd6c22269b1e91408
+titlehash:716634baf8069bdfc241c3795301d20289ee4683be1d9f3174e75bffe3dcc2f3
+published_url:https://ft.com/content/3be2f94f-1d15-4f0e-9289-06a219b044f6
+title:airlines face 100bn hit on jet fuel from iran energy shock
+urlhash:9308fde50a5bcfceaee0b4d2dffa803078334835f060a1071b11b132eb8b5550
+titlehash:69381e49b818a90414f79b7b8c75c239a9460f3bacec400957ffa7116ea382d9
+published_url:https://nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html
+title:iranians sink into despair facing war deaths and skyrocketing inflation
+urlhash:1e9e8bf70120027e1f9ba4b25d87278be44c5d6e8342a406723294c837bfcbff
+titlehash:3e6e21368cb810039f2ade4137c7067d36d01acc1dff8124bd9338c29e32055e
+published_url:https://nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html
+title:israel bombs beirut outskirts as fighting with hezbollah escalates
+urlhash:62c1075043b7afe166b2713c2d2e2172f9a2d25dd61c082dbdef49a976a4fb65
+titlehash:cf5dedf13dd35297c74e156e67d2a52f674f39e19118dfc32d2143ffb5446e6a
+published_url:https://theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag
+title:japan sees shortage of plastic bags trays and gloves as iran war induced naphtha shortage worsens
+urlhash:f7532b66f49c9f970ad3275ce33399b0d91f1201ddb33259b4ca28e321198041
+titlehash:29b255ba0a1266569f7ed02e2fdd6f6863f9211dd8e1ae6df754b18324762929
+published_url:https://france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future
+title:armenia s parliamentary election a vote on nation s geopolitical future
+urlhash:7a9f002cf5b17799ed739324e7de8ae9e06421c13ca2a8f4a643944c87cb023a
+titlehash:9d8d7a385d657fa9210d4035f97d2a36e232708a65fa56c9095e5c2b76900a16
+published_url:http://ru.euronews.com/2026/06/07/strelba-v-centre-izrailya-odin-chelovek-pogib-pyatero-raneny
+title:стрельба в центре израиля один человек погиб пятеро ранены
+urlhash:f0e1d6ccf1b12e586115f79af33a6b2e381027b63374c379309c6b09929d414c
+titlehash:27e5cfb10b6a3757d27a80b1684d29cb0a6e55bae72dbdfb4b4ac63506a30c7e
+published_url:https://ft.com/content/80dd187e-5146-4ac9-86a2-6f61d313517f
+title:ministers told to cut budgets to fund boost to uk defence spending
+seen_urlhash:bdfb74d3913f76504e6dedf30f828ae87aedd95e9e2aa072bf339dbf65a15c32
+seen_titlehash:9c3bf8a84afc81d44b0085ae7cbe77c9159895c09a0e4fdee9e4f8c2a2b76ed0
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss
+title:from online class to revolution square a tehran teacher s routine amid war
+seen_urlhash:a1d4f60aee493f768cd646f6abf5945bf301245cf4763c51e79cc4e89b43fb41
+seen_titlehash:684443b93f2e5699f94fc7ceb9042511330455ed1f70e55fb6f7d9670db1c45c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss
+title:does israel really think it can get rid of hezbollah in lebanon
+seen_urlhash:9ee5239eb5e7f7fb9db29f8790959468ff94a423f262239e76484cc51f2dfb6a
+seen_titlehash:5d6327fed4abd6fbce80b60c3d586a512dda09676f317b63ba2aa248d2d13200
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss
+title:the taiz transplant team looking to begin a medical revolution in yemen
+seen_urlhash:e917654f4ff7114578de5cbc115b8c0e44f66b9a92ba8f08078bcdc479f77c37
+seen_titlehash:3d5a0bf964f85d5c106349647a73b599c149da6128afbc3e1d0e97a0c47a9a26
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/7/peru-polls-open-in-keiko-fujimori-roberto-sanchez-presidential-runoff?traffic_source=rss
+title:peru polls open in keiko fujimori roberto sanchez presidential runoff
+seen_urlhash:fa6cac4ab6f6a22f0d867a20cfb1f5b1c4c89bb2a5e18dd437aaf32d9c40a827
+seen_titlehash:32c1e1cf24b1a80a6fe9aa02ef8224059183197fcf9f75a4f45c0898d5603694
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss
+title:fifty two hours on an israeli prison ship
+seen_urlhash:ee08762334fa6c7c253fed39933546f6de53471859562c3b1a572fa39eb5018e
+seen_titlehash:4742e3889a32ff81cb58b3142476027636629a55d29eed4eb39179ed531f905d
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260607-march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses
+title:thousands gather for march for french girl whose killing sparked outrage over lapses
+seen_urlhash:d5b81c6a4135004d1956fbfe324b3e95f22a3cdd2c400a1ae50ee96a5fe74e8d
+seen_titlehash:cc981e66f0084d292682373e4387708cb2a4d390b9575277893f6360851844ee
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-мессу-папы-римского-льва-xiv-в-мадриде-пришли-1-2-млн-человек/a-77450981?maca=rus-rss-ru-all-1126-rdf
+title:на мессу папы римского льва xiv в мадриде пришли 1 2 млн человек
+seen_urlhash:58749d132ae3356061792fc4ea6c04afabd5d087c79aa240a4a51e2c6ec92b50
+seen_titlehash:7f3e91f8510c62b1aac18556c541d852c2a91a788819348b080099c2093bb7ce
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/07/kogda-to-psihodeliki-assotsiirovalis-s-hippi-i-zavisimostyami-no-teper-mdma-i-drugie-veschestva-vse-chasche-ispolzuyut-kak-lekarstva
+title:когда то психоделики ассоциировались с хиппи и зависимостями но теперь мдма и другие вещества все чаще используют как лекарства они и правда эффективны а что ими лечат и не опасна ли такая терапия
+seen_urlhash:05a7818c0320247436afff6185569b129774cfbd978e90157d3ae5e0fd471874
+seen_titlehash:277b29740ac7eb0b5063daff1ccc8b10951c8207e510d6bb55b553a46de94260
+seen_reason:processed_not_published
+url:https://ft.com/content/d2d98a73-7e52-4a95-bb15-b147dba97865
+title:the strange case of who chooses the next labour prime minister
