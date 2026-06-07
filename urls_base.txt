@@ -1,43 +1,3 @@
-seen_urlhash:a7500e81ddbe13913c581c5eb0cfa2306c2d81c54331c73a2898835f46e9f3ae
-seen_titlehash:ff59a4e3df6cc2d3bac9c69cadaac2359dfb45b260add62f10d8165a6290bc83
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/egypt-sentences-activist-douma-to-prison-three-years-after-pardon?traffic_source=rss
-title:disgraceful egypt jails activist douma after article on its prisons
-seen_urlhash:7d0cec395c8a03b64c64e2484a93ccc082c42d9dd0a023cfe218b573b63fe888
-seen_titlehash:bd19884d769ae0eedefb985f328db08afa56bc3cd5c5015ee8c16088e1873aaf
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race?traffic_source=rss
-title:bangladesh s top diplomat elected un general assembly leader in tight race
-seen_urlhash:c335e925331a3906bd544d1f8e3695fb4edba27d3c24e046a0927bef569fa256
-seen_titlehash:8139ab5c5072b97641c92b543139dea06fc2a69c4b5242a0d755451ebca5625f
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss
-title:israeli settlers are driving palestinian shepherds from their grazing lands
-seen_urlhash:48fa149b185f5b625058ff50605cfa92cc51795ba1196d5ba8c40e95516e13ef
-seen_titlehash:e9ade03541ca175e5ad7b700e75f4a07db85a0ed90451112e4748bbee1ad8c90
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss
-title:what is the st petersburg forum putin s economic outreach to the world
-seen_urlhash:d2aec16bad04a51d03971be6a4da27ebe966472ebd7bdaa57ac5510cd7e6474f
-seen_titlehash:c9ca37831aef74ab20d8406f47b3c263eddb7c220cb890f5316df1a5b72bad13
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/the-take-2/2026/6/3/aje-onl-tt_glb_ebola26_video-030626?traffic_source=rss
-title:the ebola outbreak the world isn t paying attention to
-seen_urlhash:49db0cfffe144374f15fc887520a181233ceca9e043a61981ace565cd63c0b5a
-seen_titlehash:bf2e99d35fa10de97d4644c9533bdf0221738dc98900f3c8941a5f96ee109f78
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/uk-minister-condemns-violent-protests-against-students-murder?traffic_source=rss
-title:uk minister condemns violent protests against student s murder
-seen_urlhash:0ceca8eeeb6c253637ee1ca8ddbfc4d1048f4ea454be3309cc362465871932f2
-seen_titlehash:cb74c01028d0ec0ff9cc1050d741e389807ed06cf2789e7b50f5f533b92071b5
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/3/defence-energy-halal-sectors-top-agenda-in-turkiye-indonesia-talks?traffic_source=rss
-title:turkiye s top diplomat indonesia s president discuss 10bn trade goal
-seen_urlhash:1651cc5b16b99e48a62f77c58c05ab385dc1f294cba8780fe1bacd7eb53d663b
-seen_titlehash:4b5a43e2c3b2c7255e8596c6b1e9e36462f4b633bd624a8956caa53a3904e84e
-seen_reason:processed_not_published
-url:https://news.sky.com/story/at-least-21-killed-in-new-delhi-hotel-fire-13550462
-title:at least 21 killed in new delhi hotel fire
 seen_urlhash:4497a6a0d9dae189cd2dbf0594e6a7e9bf7df31c42ce8ed63766d4b877edaaf8
 seen_titlehash:dd32d7197c6b013af60bb3d9bf41990315878d5490eba2f8e48f5b578a826eb0
 seen_reason:processed_not_published
@@ -4998,3 +4958,43 @@ urlhash:32c68e4cd1bac18bbfd0115c58aa52127dbe42e646f172a62c6393a20e39bdc2
 titlehash:b5fe76e0b3eca83f7123e39690653969d28fb7c88462f7badf0841920cef35d4
 published_url:https://theguardian.com/australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb
 title:australia news live tony abbott praises liberal party s new top strategist as party tries to rebuild campaign machine
+urlhash:6d81eac147ece62884ef838ffa52a7d1aa611b55754a6af6accc93ad2a6bb959
+titlehash:ee68df61a0f717bd7e5b694943e8f55f0feb88d70be2bf2368142772abe05e54
+published_url:https://aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss
+title:iran war live israel kills lebanon general pakistan urges end to war
+urlhash:e0c3f03e225d5d5619a65546cbb3db3440eb3d447ea0ac99d989b31a1f086d9a
+titlehash:f3ca32c851f9b75350fe79bc229c6bb072229b3f4a4acce19f4a645ec117d8cc
+published_url:https://dw.com/ru/сша-дали-mol-еще-10-дней-на-переговоры-с-газпром-нефтью-по-покупке-nis/a-77446965?maca=rus-rss-ru-all-1126-rdf
+title:сша дали mol еще 10 дней на переговоры с газпром нефтью по покупке nis
+urlhash:7669d899079ebf4db027398f7223446a3b185c64b7f82ddc6adac9c32f2688c8
+titlehash:6e2c6ffb066660b3864fd623494b7c88d66586ba4302d1b8ea0a87dd22234660
+published_url:https://ft.com/content/6226859c-5858-468d-982b-7a7d3d6c53c0
+title:uk nuclear weapons spending not transparent enough says watchdog
+urlhash:8eb39424fcdf19db131ebfa92e3b934984af32a16fdef274019285ba9c9c7259
+titlehash:de6db3299338f5dad0bbbac428a256deafcb9c475b78519992a445aa28a5c923
+published_url:https://aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_protests-grow-in-albania-against-trump-resort-060626?traffic_source=rss
+title:protests grow in albania against trump kushner linked resort
+urlhash:ca0af8966bf2a2eb397eada4e3c5994f52038da0685dc5d352adaef51f126e3b
+titlehash:f6cb2bab0bd74b56c112fc9e4addaeb069dca9453a71f2e75a752678fcb48327
+published_url:https://dw.com/ru/мерц-предупредил-о-возможных-успехах-адг-на-выборах/a-77446778?maca=rus-rss-ru-all-1126-rdf
+title:мерц предупредил о возможных успехах адг на выборах
+urlhash:c18371aa43bee6deb580a4e62571067dd7d1806959caedcd0f8baef88f19236d
+titlehash:2a75decac7b39a6e960d826346604f3ef86dd13d5eda96aea434a698e7a98b5c
+published_url:https://ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d
+title:tokio marine boss to use berkshire deal for global growth drive
+urlhash:cf9de07c5ad4b8915937598c5694500094a9e94dc21a58177b2df039da2de0b2
+titlehash:604aa4fe894e1377e38f4d68f26bc3a25f5e5b65dbc5b248c6bd12b6f9cf3506
+published_url:https://aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading?traffic_source=rss
+title:trump pardons former us congress member accused of insider trading
+urlhash:8525702dd930aff9799139fbded50aa91ce101782bd00d504e5e43496d1b9700
+titlehash:eb5371a6e974d8206e68ee424edf0832fcaee75f78f1b5337bba17522de5d6ed
+published_url:https://news.sky.com/story/three-britons-plead-guilty-over-death-of-restaurant-owner-in-canada-13551554
+title:three britons plead guilty after restaurant owner killed in unpaid bill row
+urlhash:30b44ae234d77bc9d96d96c065a7d7e9270606c56db9572abc36c64a7a011711
+titlehash:2754eaf9277c495d0f04b219402b7be1e78ab8c4b9ebc6a838674eb565c59785
+published_url:https://nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html
+title:despite protest ye takes the stage for thousands of european fans
+urlhash:5f71cb099923ba67db23a472a11678f909caa4a9b180158d007f3770fba4e38d
+titlehash:68216d9119298f94a23309f9168a0937d91aa49b1d7f42133794a69fcb519be9
+published_url:https://dw.com/ru/бундестим-вырвала-победу-у-сборной-сша-по-футболу/a-77446596?maca=rus-rss-ru-all-1126-rdf
+title:бундестим вырвала победу у сборной сша по футболу
