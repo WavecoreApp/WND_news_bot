@@ -1275,7 +1275,7 @@ def send_text_with_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": False,
     }
 
     return telegram_api("sendMessage", payload)
@@ -1291,7 +1291,7 @@ def send_text_without_preview(text_html):
         "chat_id": TELEGRAM_CHANNEL_ID,
         "text": text_html,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": False,
     }
 
     return telegram_api("sendMessage", payload)
