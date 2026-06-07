@@ -69,6 +69,7 @@ SOURCE_MIN_TAKE = env_int("SOURCE_MIN_TAKE", 1)
 # 0 means no global cap. This matches your request: publish all deduped top-25%-per-source stories.
 # If later you want a hard cap, set MAX_NEWS_PER_RUN to e.g. 10.
 MAX_NEWS_PER_RUN = env_int("MAX_NEWS_PER_RUN", 0)
+MIN_SCORE_TO_POST = env_int("MIN_SCORE_TO_POST", 7)
 
 MAX_CANDIDATES_PER_SOURCE = env_int("MAX_CANDIDATES_PER_SOURCE", 20)
 ENTRIES_PER_SOURCE = env_int("ENTRIES_PER_SOURCE", 20)
@@ -929,6 +930,26 @@ def dedupe_themes(items):
 
 
 
+
+def filter_by_min_score(items):
+    kept = []
+
+    for item in items:
+        score = int(item.get("score", 0) or 0)
+
+        if score < MIN_SCORE_TO_POST:
+            print(
+                f"Low score skipped: {score} < {MIN_SCORE_TO_POST} | "
+                f"{item.get('domain', '')} | {item.get('title', '')}"
+            )
+            continue
+
+        kept.append(item)
+
+    print(f"After min-score filter: {len(kept)}/{len(items)} stories kept")
+    return kept
+
+
 # =========================
 # ARTICLE TEXT EXTRACTION
 # =========================
@@ -1458,6 +1479,7 @@ def main():
         return
 
     deduped = dedupe_themes(selected_by_source)
+    deduped = filter_by_min_score(deduped)
 
     if not deduped:
         print("No stories after theme dedupe.")
