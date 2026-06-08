@@ -1,34 +1,4 @@
 seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/4/indonesia-arrests-officials-in-crackdown-on-corruption?traffic_source=rss
-title:indonesia arrests officials in crackdown on corruption
-seen_urlhash:d45b30ecd07aa07831a5e8750a9e7f9d10415d5cc88b6ab7c9e548a1d1782ab9
-seen_titlehash:2f1322d9362b631bf31030d96f0885f3d3c6068c1cef30ea26ce2558c53738b9
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election
-title:russia ramps up pressure on armenia ahead of sunday s crucial election
-seen_urlhash:2137d3d0c1a6114f84cda7516821fc4ae34f875b3e2fc3ccc3069547df6bc2fa
-seen_titlehash:4fb386f5a88157b3fc79d81275aabaa567523afdab7671955f80743b57d2067f
-seen_reason:processed_not_published
-url:https://france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56
-title:french iranian author marjane satrapi author of persepolis dies of sadness at 56
-seen_urlhash:d0d313ee2b044c69fce1a3401c6dd15d0c12c4eb985d8b166423027d98088aca
-seen_titlehash:be1072a82fd0088cfb5a5fcf55f7efd7ce00bb3dbcb8d5211e7ea705ec75b81f
-seen_reason:processed_not_published
-url:https://dw.com/ru/евросоюз-стремится-к-цифровой-независимости-от-сша/a-77417554?maca=rus-rss-ru-all-1126-rdf
-title:евросоюз стремится к цифровой независимости от сша
-seen_urlhash:75eb4d15c397c2c65af76a8e94f9594225615737b605323a98c98a0368f6407d
-seen_titlehash:078da1f6d75c7c3f054ea1158892215f1feb45571eb59f3f85980bd7350cc726
-seen_reason:processed_not_published
-url:https://dw.com/ru/ряд-стран-европы-требуют-ужесточить-выдачу-виз-россиянам/a-77417217?maca=rus-rss-ru-all-1126-rdf
-title:ряд стран европы требуют ужесточить выдачу виз россиянам
-seen_urlhash:5abc37e6f0e9836e225a0f573844fc3bf17e814a3b379bf3785ca24b0b7b6d38
-seen_titlehash:4691bec51f9a3c5dc3ead3daec778bdaf08650149bb9b7759a64f38b4b1168ce
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/04/this-finnish-ski-resort-is-launching-a-summer-long-treasure-hunt-for-a-20000-gold-bar
-title:финский курорт леви запускает летний поиск золотого слитка за 20 000
-seen_urlhash:cf0653c5046391da975b0311328d681c8d74751f858c677fdc891f233bcd68a7
-seen_titlehash:46bc1b9a659859d782a947bb8e12c46e44d9a361de8e4133980d9e9d3332f063
-seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/06/04/n-korea-unveils-fuel-plant-for-nucle
 title:ким чен ын заявил что северная корея удвоила производство ядерных материалов
 seen_urlhash:1f375bbfbea80c64d10c6578fc9dc70a74828d7fd74ffb8967d9c5442b2a1b99
@@ -4998,3 +4968,33 @@ seen_titlehash:589db8ea591e4971d66bf1567234dbb2921f910faa630d82364a9f696ce9b579
 seen_reason:processed_not_published
 url:https://ft.com/content/22a85739-e705-4569-8b42-4c080ead7afe
 title:firstft iran launches missiles at israel for first time since ceasefire
+urlhash:89957027e2ee4406fb5ffe6d04dfe8682a323ca24f258431dbeda96a6a0f0022
+titlehash:0bd94eb3bb6867cf50e995d5a517fdbbeb49be8bdd653528144fef16363ba214
+published_url:https://theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea
+title:xi jinping set to meet kim jong un in north korea as china seeks to revitalise relationship
+urlhash:e51dd559b2967756df190a94df6517b0cc2648602eb8e830fd42c03c2ec90bbd
+titlehash:828b2439dfcf29ad683a2f3c478630952d9c017c8db0be379623915dc27ce364
+published_url:https://dw.com/ru/лидеры-евротройки-и-зеленский-назвали-условия-для-прочного-мира-в-украине/a-77452276?maca=rus-rss-ru-all-1126-rdf
+title:лидеры евротройки и зеленский назвали условия для прочного мира в украине
+urlhash:b70d3bf006b103ea3b0372668dd28b2057ddb22aa23bd91f697291ce56809f68
+titlehash:d776d811f742adbba6812e280ecb97a099c79e20a3bd7f3fb097d79a630c264b
+published_url:https://bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss
+title:spain s visitor numbers hit new highs as tourists avoid middle east
+urlhash:f6015b43c466c009c3290193f936820cb8770a46f53e7bb2ef36d7e937f87d02
+titlehash:62604b7b2d1e8c5fbeec45a1bec964e27b8e9e3ff7794cb0dff4469f6d22e50a
+published_url:https://aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss
+title:north korea s kim jong un inspects munitions at weapons factory
+urlhash:8944a605a9b68f74de73acf06999cd43d6e742519af64c6ea29d806fafd4670e
+titlehash:be2e1aca13440a9103575214e311d4613073802a6ad3325b2e8fb2c9ed64a2d9
+published_url:https://france24.com/en/europe/20260607-european-leaders-back-zelensky-call-for-direct-russia-talks
+title:european leaders back zelensky s call for direct russia talks
+seen_urlhash:55a4bad811c95129571819b41296f8da4438dbfc16ef5876bdd74b87886121d6
+seen_titlehash:145c4dc6652db8a6954298194ee6f8be03141f543b55cfc8ee2cf24ca118371f
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss
+title:we don t look at the sky anymore the air india crash victims who were not on the plane
+seen_urlhash:237ec582281c76c5e61a455e6bd6cf4db27c41f202726dc243fe17968c66e835
+seen_titlehash:c1b025652135fe86c17423b58a15cbcc6e3e98b093997d19ce3c31e2a771076c
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss
+title:no dead ends what the dutch can teach us about tackling youth unemployment
