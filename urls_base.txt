@@ -1,300 +1,4 @@
 seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/07/greece-earthquake-sunday
-title:в греции произошло землетрясение магнитудой 4 9
-seen_urlhash:2d48a459fe6465f4cf93b598295394407e6ca9b36da31f49f90efa65119ac8e9
-seen_titlehash:0a0f375a6bcad0f2a5af73a170b7250d5f4a2f22e19f93003b803ed447b32b25
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/07/pashinyan-zayavil-chto-evrosoyuz-poobeschal-armenii-besposhlinnuyu-torgovlyu-selhozproduktsiey
-title:пашинян заявил что евросоюз пообещал армении беспошлинную торговлю сельхозпродукцией
-seen_urlhash:fb42c2836be8427b6358ee5704d2a190483803536fe6b72af2afaed32e32fd5f
-seen_titlehash:edd9fae3c837b7a656009b4f7b2091aec9c9d9e5af75f5112446da752caea9a6
-seen_reason:processed_not_published
-url:https://ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1
-title:are we at the start of a new investment super cycle
-urlhash:342fa2b7e5c8bddfe25d72718e0b39b59fa38e4fa5f3419993caa835b779e8b8
-titlehash:0f09bdc0797511adf0a1a7af2c9876baff66c5eccc52bd6959223dacd52e4897
-published_url:https://aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss
-title:missiles and negotiations iran 100 days into the war with us and israel
-urlhash:866edd1b25a89115fc28c10724f59b172b44a0a2f5bf038a1d446cfe3ac7857e
-titlehash:9131eb6d0b78fe5c145dd386c18c3999c490288915e063ed5d3965cdfda2214c
-published_url:https://aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss
-title:israel kills nine in gaza as egypt hosts renewed ceasefire talks
-urlhash:6f90eef98bf6ed828cbc55fa1a257408263f97bd0f77c7f112b98facfa9f2f87
-titlehash:26d9b99939d56173c8232e065c84150c04e9956d99d939a90bf57509aa4c7a56
-published_url:https://ft.com/content/02a3b935-62dc-44a1-9957-6867e8ee1890
-title:israel attacks beirut days after trump s showdown with netanyahu
-urlhash:68ff950235f8e84349249a237883dd1021fda2289a8181ac7f0ab707480c1eb0
-titlehash:aa2f2ac09cd650eae5903559d947bc544987a4912e5abbc4523719bcf993d66f
-published_url:https://nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html
-title:ukraine turns to europe as u s steps back as mediator in peace talks
-urlhash:263238735da072d008045348098b11f1a705788858a9c79c679b906d4aa5fc6b
-titlehash:ae1023bd96624edfa98705f0cd45be31f2804eb62f5d12a92a278532cb75b6be
-published_url:https://theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response
-title:rebel attacks in eastern drc kill 30 people and hamper ebola response
-urlhash:fef71acbcd916e9e78dbfeef29e3fef8414d6cc7de57ed5d02c14130d339d5c7
-titlehash:7e3503a7e84cba9763ae62a68ccfed7995755ddcc3d63dd1851abb2576d69129
-published_url:https://aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno?traffic_source=rss
-title:army frees 360 people abducted by boko haram in nigeria s borno state
-urlhash:465ff2e4411e681c5bf92bed8944bab39101f6f6f6089c7398fe68a9d5d2d526
-titlehash:0f3dfdc9d16c384c1b1c13c23b14da271f73a15badb13fa01480c2771c6b36fa
-published_url:https://france24.com/en/video/20260607-iran-war-100-days
-title:iran war 100 days on a costly stalemate
-urlhash:94339cc2e4321a709571a8d4b8df9ea43775d04fd1ca1b037f0d1c0dfe9a8c69
-titlehash:714a14ea3df737b819af0254179c248a5ff03b0248546dc76c7762f101393310
-published_url:https://dw.com/ru/пашинян-евросоюз-откроет-свой-рынок-для-сельхозпродуктов-из-армении/a-77450980?maca=rus-rss-ru-all-1126-rdf
-title:пашинян евросоюз откроет свой рынок для сельхозпродуктов из армении
-urlhash:d038f5b06e19ae4afca3cb7c43d3b3c1e9a08e09ea1ba9386b9a4313125886e7
-titlehash:d737911508f15339fbd5c48f71ff600055c5f6fdcf991122534212efba124613
-published_url:http://ru.euronews.com/my-europe/2026/06/07/russia-uefa-ban
-title:уефа продлил отстранение российских сборных и клубов от соревнований на сезон 2026 27
-urlhash:c3983143679eadb5cfb6b7835d7d8d60e4016cb17cc4f7677f694e8761a8631d
-titlehash:9dab05a474c95238c359d73058176940ec2fda47e95b241e454e2f1651adcb0e
-published_url:https://meduza.io/news/2026/06/07/prezident-finlyandii-zayavil-chto-ne-verit-v-plany-rossii-napast-na-strany-nato-on-schitaet-chto-evrosoyuz-dolzhen-nachat-dialog-s-putinym
-title:президент финляндии заявил что не верит в планы россии напасть на страны нато он считает что евросоюз должен начать диалог с путиным
-urlhash:a59bbd4d7c602018f0d38e80afe3a3e9a5e5d05f59e2f58cd6c22269b1e91408
-titlehash:716634baf8069bdfc241c3795301d20289ee4683be1d9f3174e75bffe3dcc2f3
-published_url:https://ft.com/content/3be2f94f-1d15-4f0e-9289-06a219b044f6
-title:airlines face 100bn hit on jet fuel from iran energy shock
-urlhash:9308fde50a5bcfceaee0b4d2dffa803078334835f060a1071b11b132eb8b5550
-titlehash:69381e49b818a90414f79b7b8c75c239a9460f3bacec400957ffa7116ea382d9
-published_url:https://nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html
-title:iranians sink into despair facing war deaths and skyrocketing inflation
-urlhash:1e9e8bf70120027e1f9ba4b25d87278be44c5d6e8342a406723294c837bfcbff
-titlehash:3e6e21368cb810039f2ade4137c7067d36d01acc1dff8124bd9338c29e32055e
-published_url:https://nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html
-title:israel bombs beirut outskirts as fighting with hezbollah escalates
-urlhash:62c1075043b7afe166b2713c2d2e2172f9a2d25dd61c082dbdef49a976a4fb65
-titlehash:cf5dedf13dd35297c74e156e67d2a52f674f39e19118dfc32d2143ffb5446e6a
-published_url:https://theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag
-title:japan sees shortage of plastic bags trays and gloves as iran war induced naphtha shortage worsens
-urlhash:f7532b66f49c9f970ad3275ce33399b0d91f1201ddb33259b4ca28e321198041
-titlehash:29b255ba0a1266569f7ed02e2fdd6f6863f9211dd8e1ae6df754b18324762929
-published_url:https://france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future
-title:armenia s parliamentary election a vote on nation s geopolitical future
-urlhash:7a9f002cf5b17799ed739324e7de8ae9e06421c13ca2a8f4a643944c87cb023a
-titlehash:9d8d7a385d657fa9210d4035f97d2a36e232708a65fa56c9095e5c2b76900a16
-published_url:http://ru.euronews.com/2026/06/07/strelba-v-centre-izrailya-odin-chelovek-pogib-pyatero-raneny
-title:стрельба в центре израиля один человек погиб пятеро ранены
-urlhash:f0e1d6ccf1b12e586115f79af33a6b2e381027b63374c379309c6b09929d414c
-titlehash:27e5cfb10b6a3757d27a80b1684d29cb0a6e55bae72dbdfb4b4ac63506a30c7e
-published_url:https://ft.com/content/80dd187e-5146-4ac9-86a2-6f61d313517f
-title:ministers told to cut budgets to fund boost to uk defence spending
-seen_urlhash:bdfb74d3913f76504e6dedf30f828ae87aedd95e9e2aa072bf339dbf65a15c32
-seen_titlehash:9c3bf8a84afc81d44b0085ae7cbe77c9159895c09a0e4fdee9e4f8c2a2b76ed0
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss
-title:from online class to revolution square a tehran teacher s routine amid war
-seen_urlhash:a1d4f60aee493f768cd646f6abf5945bf301245cf4763c51e79cc4e89b43fb41
-seen_titlehash:684443b93f2e5699f94fc7ceb9042511330455ed1f70e55fb6f7d9670db1c45c
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss
-title:does israel really think it can get rid of hezbollah in lebanon
-seen_urlhash:9ee5239eb5e7f7fb9db29f8790959468ff94a423f262239e76484cc51f2dfb6a
-seen_titlehash:5d6327fed4abd6fbce80b60c3d586a512dda09676f317b63ba2aa248d2d13200
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss
-title:the taiz transplant team looking to begin a medical revolution in yemen
-seen_urlhash:e917654f4ff7114578de5cbc115b8c0e44f66b9a92ba8f08078bcdc479f77c37
-seen_titlehash:3d5a0bf964f85d5c106349647a73b599c149da6128afbc3e1d0e97a0c47a9a26
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/7/peru-polls-open-in-keiko-fujimori-roberto-sanchez-presidential-runoff?traffic_source=rss
-title:peru polls open in keiko fujimori roberto sanchez presidential runoff
-seen_urlhash:fa6cac4ab6f6a22f0d867a20cfb1f5b1c4c89bb2a5e18dd437aaf32d9c40a827
-seen_titlehash:32c1e1cf24b1a80a6fe9aa02ef8224059183197fcf9f75a4f45c0898d5603694
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss
-title:fifty two hours on an israeli prison ship
-seen_urlhash:ee08762334fa6c7c253fed39933546f6de53471859562c3b1a572fa39eb5018e
-seen_titlehash:4742e3889a32ff81cb58b3142476027636629a55d29eed4eb39179ed531f905d
-seen_reason:processed_not_published
-url:https://france24.com/en/france/20260607-march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses
-title:thousands gather for march for french girl whose killing sparked outrage over lapses
-seen_urlhash:d5b81c6a4135004d1956fbfe324b3e95f22a3cdd2c400a1ae50ee96a5fe74e8d
-seen_titlehash:cc981e66f0084d292682373e4387708cb2a4d390b9575277893f6360851844ee
-seen_reason:processed_not_published
-url:https://dw.com/ru/на-мессу-папы-римского-льва-xiv-в-мадриде-пришли-1-2-млн-человек/a-77450981?maca=rus-rss-ru-all-1126-rdf
-title:на мессу папы римского льва xiv в мадриде пришли 1 2 млн человек
-seen_urlhash:58749d132ae3356061792fc4ea6c04afabd5d087c79aa240a4a51e2c6ec92b50
-seen_titlehash:7f3e91f8510c62b1aac18556c541d852c2a91a788819348b080099c2093bb7ce
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/07/kogda-to-psihodeliki-assotsiirovalis-s-hippi-i-zavisimostyami-no-teper-mdma-i-drugie-veschestva-vse-chasche-ispolzuyut-kak-lekarstva
-title:когда то психоделики ассоциировались с хиппи и зависимостями но теперь мдма и другие вещества все чаще используют как лекарства они и правда эффективны а что ими лечат и не опасна ли такая терапия
-seen_urlhash:05a7818c0320247436afff6185569b129774cfbd978e90157d3ae5e0fd471874
-seen_titlehash:277b29740ac7eb0b5063daff1ccc8b10951c8207e510d6bb55b553a46de94260
-seen_reason:processed_not_published
-url:https://ft.com/content/d2d98a73-7e52-4a95-bb15-b147dba97865
-title:the strange case of who chooses the next labour prime minister
-urlhash:76462576ec9b975b6c24fa6298383d130086ac779e422c34062db3e9024c6ea5
-titlehash:dcd395d4ae9c900256586a4a367c24898618f9b212cd712bfa28fea037de0085
-published_url:https://aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss
-title:al jazeera reports from beirut after israeli attack
-urlhash:6bacde01463eca511458a11c2ba81f63d0abc20b7c0e71a99ff5fed3735f01ce
-titlehash:03cd61cc80fc8db1ee3b62f2aebd2df1c30a32a8b12faf3b64124d2de968e48e
-published_url:https://theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts
-title:author of home office report on china reveals attempts to compromise him
-urlhash:c6a7c11d683939b9fb8ff7396bba84b771f343f9776ae62abfb9c7032b5e53ca
-titlehash:c7eb2ecbea6e55317d06fa317300fb95398df9da17d99a90b8846a92c4f2036d
-published_url:https://aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss
-title:nigerian forces rescue 360 captives from boko haram
-urlhash:b2c66419e6c0d4c50d61b9bd677427ecddf080f5c05178beb37f230e2f1b833a
-titlehash:ab97f6545acfa29c57aa47c28f42c7a14e0b4d74cdb8609a7c4481d16bae02f4
-published_url:https://aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss
-title:bolivia s legislature passes law allowing use of troops against protesters
-urlhash:d384d9b9f8eeba4f02f558c84c000bd05daa6437891c4a6e569bdfff001cb0f8
-titlehash:63f70b2638324d4694ae9ba6e22d2daf1207dfd17e4f02d602181a26bec09fa3
-published_url:https://dw.com/ru/владимир-зеленский-встречается-со-стармером-мерцем-и-макроном-в-лондоне/a-77451644?maca=rus-rss-ru-all-1126-rdf
-title:владимир зеленский встречается со стармером мерцем и макроном в лондоне
-urlhash:fe363f8148f97e4f12fad3ae33139655839b971e902e1ac183b46ed57cf672aa
-titlehash:664e7ae318461aaacedecd67902cceb71eaf0b1af0fb3778554ff2feccc973dd
-published_url:https://meduza.io/feature/2026/06/07/kak-proshli-vybory-v-armenii-ekzit-poly-otdayut-pobedu-pashinyanu-yavka-byla-vysokoy-a-den-golosovaniya-soprovozhdalsya-arestami-storonnikov-prorossiyskogo-bloka
-title:как прошли выборы в армении экзит полы отдают победу пашиняну явка была высокой а день голосования сопровождался арестами сторонников пророссийского блока
-urlhash:c945fd6e415212a4843cc74058b8b6a3c635d23aa42b0dec7c99d5fb23415ffa
-titlehash:037a81c355829724b43d6dd83a79f7fe8018cc9ebba36f106f78db85116c8d83
-published_url:https://ft.com/content/056789c0-d316-4b02-be24-2f75208790dd
-title:trump piles pressure on warsh with call for rate cut
-seen_urlhash:c833694dd98eed91c6a79ff483c76fd7e230a76cb9de45a6b668f32fa34fbbbd
-seen_titlehash:709a07a8764d569379b912b3d45901bc0f8e0e585f976004f24125dbdb85b2d7
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss
-title:israel strikes beirut suburb days after us brokered truce
-seen_urlhash:817dabfff6584c01b8fa856a990f0fe6059c5e3aaf28cba46d1282cd379b4541
-seen_titlehash:1982caa3241fcc2a14deef4dbadeedd0b84047399f6f1214232737a4927c2c89
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html
-title:bernadette chirac formidable ex first lady of france dies at 93
-seen_urlhash:4191ae0e0a697c340203a47f59f30f1c65df3060b7e6a0000d312037c420e973
-seen_titlehash:b590f7e86872d2194644894399e3eede229b79beaaa25a0f17a2acf024ebdebc
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss
-title:trump says will not unfreeze iranian assets before ceasefire deal reached
-seen_urlhash:7f53382083ca583ee7011563afd7c425d1d5f1b212d197ba5774687e674620f1
-seen_titlehash:b417ac9f96de3d602179d560a678e654c96c0a8ca75196af12c8160df075df9f
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss
-title:police say two suspects have been shot and killed in israel gun attack
-seen_urlhash:7bbe88da5aeba3030bd5708272cfc9ce0abd7e1d69d42f509e8a8d55ec64ad31
-seen_titlehash:e461e968255ea71cce01e2d32ec51437311bbcb32509b4a36393ce18078015f7
-seen_reason:processed_not_published
-url:https://aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss
-title:people flood madrid streets to see pope leo s flower carpeted procession
-seen_urlhash:b26f2918026a49bac253057229b30bd4d083af82c93e0728b55feb822618ff09
-seen_titlehash:05d3b3ded721f92fd07c9cf94c4ec028c9fac403626ee9b27dfa62d6cbf45e93
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/6/7/authenticity-is-what-american-voters-want?traffic_source=rss
-title:authenticity is what american voters want
-seen_urlhash:4e03a0050b2de39733f1e9f8a3ca9c3837ae88d07ae6d49de4472c9749d0552e
-seen_titlehash:7db36a74ba43e811da5e2134513cdd03ffc23a86d55d80f8d2db4a45e15914e7
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/spotlight/20260607-armenia-moscow-meddling-the-mountain
-title:armenia moscow meddling the mountain
-seen_urlhash:ffd06c51c5191236b43a85cfc5929709f52f6ab49603872667fcf338c27e9dba
-seen_titlehash:03710d939b38b72c245df19e069e30358e73e351dd5b2a6b764b6148e41f9f7e
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260607-french-open-german-alexander-zverev-beats-flavio-cobolli-to-claim-first-grand-slam-title
-title:french open german alexander zverev beats flavio cobolli to claim first grand slam title
-seen_urlhash:ffd06c51c5191236b43a85cfc5929709f52f6ab49603872667fcf338c27e9dba
-seen_titlehash:138277d82e8d43049c8db0d52301478dc709d63888d0e1ae9910c6b4cbdb4669
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260607-french-open-german-alexander-zverev-beats-flavio-cobolli-to-claim-first-grand-slam-title
-title:french open zverev beats cobolli to win first grand slam title
-seen_urlhash:78f905dfc059c8f0f66d8ace978ff4fa7963c1b8913a9900d7bcd7bb47dd65e9
-seen_titlehash:173f5676436f22146ff5bb8f4442c0b5023e0babbfb211f77ce2de55e307a336
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/spotlight/20260607-kosovo-former-president-warns-of-the-cost-of-political-deadlock
-title:kosovo former president warns of the cost of political deadlock
-seen_urlhash:cc2ecc86b04a07016ac17e9f9ace17c6739462126cb0ec5dd86051d732989b9d
-seen_titlehash:f232bdf2764b7a3956a4267ac80cfe7f2dfdec4d43983b33f01d66dd91f191bc
-seen_reason:processed_not_published
-url:https://dw.com/ru/трамп-заявил-что-не-разморозит-активы-ирана-ради-заключения-сделки/a-77451449?maca=rus-rss-ru-all-1126-rdf
-title:трамп заявил что не разморозит активы ирана ради заключения сделки
-seen_urlhash:d5b3548f0878d889d04261349371953e84b47e2cb7510651c83f0993253e1e82
-seen_titlehash:0532f1ee689d0d43d6e9e5f25da69a10e5073329498cbc697f8af0f4a33beac6
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/07/komu-ostavit-nazhitoe-chto-esli-kotu
-title:кому оставить нажитое что если коту
-seen_urlhash:ae67b53017087cb208bd89044cf9c1e58b9540b4f7a7908fedd34192d6e04c37
-seen_titlehash:06b21905100cf77b9a2002a562b0ebc9c171eb2c1ac167b36b9fe932f9d2b805
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/07/caterpillars-infest-settlements-in-berlin-elderly-people-no-longer-dare-to-leave-their-hom
-title:ядовитые гусеницы атакуют жилые кварталы берлина пожилые боятся выходить
-seen_urlhash:2d66703c1eecaa4957ada0e7c41c6ce6f8de77c15054e7462a98dba196349f2d
-seen_titlehash:b3d43749308c0e7c323764e077fcaa54241455dbea981a69a24abe35075e64b0
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/07/tsahal-ob-yavil-ob-udare-po-ob-ektam-hizbally-v-beyrute-v-irane-poobeschali-reshitelnyy-i-boleznennyy-otvet
-title:цахал объявил об ударе по объектам хизбаллы в бейруте в иране пообещали решительный и болезненный ответ
-urlhash:134278cbf1c66e08352d50b24b6a5ee9938f53bc4ea2916b147855a9c1361b2d
-titlehash:bcafbb3730ad1a55784e5ae85db4ae5c0a8fdf96e191adacbc644a8e28f7efc0
-published_url:http://ru.euronews.com/2026/06/07/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future
-title:в армении идет подсчет голосов на решающих выборах за будущее южного кавказа
-seen_urlhash:c76089cabecb3f15ebb0b4f448e5fce3b363ddeea1fd4ee5615c5052632e1d21
-seen_titlehash:0f41af14f9b3878009ebb2144cc4762e5fe30aa2a783898f9163f28e98950e79
-seen_reason:processed_not_published
-url:https://bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss
-title:eriksen conscious after collapsing in denmark game
-seen_urlhash:48f7ba7e9862d1683f091efff83c904d5b964e3cf7210d9b34a9a02d8f56ad89
-seen_titlehash:968bde55281e86be918bf143c98a8e299c8a32717c5100fbd9d9761d49b67046
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss
-title:mexicans chase a world record wave but is the trend even mexican
-seen_urlhash:d57444c95e4d3ea2e16e84c771350a00657cd52b253fce61e275c98438d1c81b
-seen_titlehash:96f0956de90c3672c9c57fdb4c003058d593e02bcde94eb76f8da9c0cf153e2e
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss
-title:lawsuit seeks to stop trump s planned white house ufc match
-seen_urlhash:266ab838296f0941a338583eed86c55b84dda23cd2fefe15441b59cf09759ffb
-seen_titlehash:70e338da14421ccb1076bc599c30be1429e4779075a74df0c92fa92bf4ea78f6
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/7/alexander-zverev-wins-french-open-to-claim-first-grand-slam-title?traffic_source=rss
-title:alexander zverev wins french open to claim first grand slam title
-seen_urlhash:a88056c2009d79939a45836f5ba3e6d2a94ec38e88d249dd254f8ac7b32015bb
-seen_titlehash:ed41c2e2577da32a8d3f7385d338ee911f414fa9d4dc408dce802249d0dee623
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/7/denmarks-christian-eriksen-collapses-during-world-cup-warm-up-match?traffic_source=rss
-title:denmark s christian eriksen collapses during match with ukraine
-seen_urlhash:ba30aedc712fd9e35fbbbcbdabd24a344d196e97731790f20f7ef3b2f3e4bbd1
-seen_titlehash:350a01f24eaea72885e853a93e64625d61e01fe44c55aacd73f8eac563da9792
-seen_reason:processed_not_published
-url:https://news.sky.com/story/danish-footballer-christian-eriksen-collapses-on-pitch-13551755
-title:christian eriksen collapses on pitch
-seen_urlhash:0ed6666ece62bbe0da181bbba781a2baad31a050b4b72fa4696c2dfa00502d01
-seen_titlehash:43f5a069a3efe156bc9b5286a38523dc7fc2d121ca08980eb566c137d833e4f4
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/spotlight/20260607-pope-in-spain-the-rockstar-effect
-title:pope in spain the rockstar effect
-seen_urlhash:ecfb79bcca51cfb32e559ab1be76e98a01cfc5826f3762dde60d9a0495542410
-seen_titlehash:90c87f4807108af99e04292db77dc1c90b5f68cd43d96481379bed977ce592c0
-seen_reason:processed_not_published
-url:https://dw.com/ru/израиль-ударил-по-объекту-хезболлах-в-пригороде-бейрута/a-77451756?maca=rus-rss-ru-all-1126-rdf
-title:израиль ударил по объекту хезболлах в пригороде бейрута
-seen_urlhash:ab239bfd00cfd75f08901b3dcc3784a8513acb1076c430b920f39e4b0f40f224
-seen_titlehash:8e3fd8aefa51cff5573f9df00d29aa6632adbf804a4d338bfe9667a5a10d4599
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/07/danish-footballer-christian-eriksen-is-conscious-after-collapsing-on-the-field
-title:датский футболист кристиан эриксен в сознании после падения на поле
-seen_urlhash:f4f0810c967ec1528164e754b25758134b30ff420a96b9699fc23757c91dfec9
-seen_titlehash:c762330bd25020a3f140c61217caf12f975f8b24b2a902835562d2022548423a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/07/alexander-zverev-wins-the-french-open-for-his-first-grand-slam-tennis-title
-title:александр зверев триумф на ролан гаррос и первый мейджор
-urlhash:b7eadfb92462e374d32c9b44154abd8dfbbe6fe69c7ebc91490a1d435239c7f9
-titlehash:7bc89dc2067843f0891018d34c5b13287cbc64b184ad35551933372c7e7bf129
-published_url:https://aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss
-title:iran fires missiles at israel after it attacked beirut
-urlhash:50701c3c5436cd549d545fed0cff105b37650794c87e486e150b2f4aae7f920a
-titlehash:85b2fb15f5fe6acf73402f6dad07781ef01ce898dc3c3928f4b7d5ea3443d8de
-published_url:http://ru.euronews.com/2026/06/07/iran-vnov-strelyaet-po-izrailyu-rakety-perehvacheny
-title:иран вновь стреляет по израилю ракеты перехвачены
-urlhash:5d8b8114a389367af06f3c6e4d93533defbc713e7a4ab7604cf50475d45e77e9
-titlehash:dbf962684d32afa592b564316479aded6283120af83bd20f1f95a71aca781edd
-published_url:https://dw.com/ru/цик-на-выборах-в-армении-лидирует-гражданский-договор-премьера-пашиняна/a-77451460?maca=rus-rss-ru-all-1126-rdf
-title:цик на выборах в армении лидирует гражданский договор премьера пашиняна
-urlhash:ee9cbd4af25fb2cee438d5186f00bd713aa7809190ef3ead37a2813a821a767e
-titlehash:3f0f8e3a198153e7d26cfd969ae7788d1b655c33967d1c9d0011f9c02a199664
-published_url:https://aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss
-title:iran losing patience with israel and us over ceasefire violations
-seen_urlhash:7a99dc0f325259d72d96f0cd6b1928ddf9344b727f78e5e69f4c1d3a3401cde7
-seen_titlehash:c661ed347ae0f734b411801a4f8eb6a0720972cde9a16fb7dcb58ef3d7a74173
-seen_reason:processed_not_published
 url:https://bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss
 title:trump abruptly ends nbc interview after clash over rigged election claim
 seen_urlhash:74df99a0e4f13e01d8c3d5e9e2e3425722762fc47c8e58fa2450402cf8739c96
@@ -4998,3 +4702,299 @@ seen_titlehash:275be2c8043981ba55b693c8cca0619545598826d7929618913f3965a599439d
 seen_reason:processed_not_published
 url:https://ft.com/content/8e55337a-3da4-4157-beca-0a7b2e4a2496
 title:don t exclude yemen from the gulf s new economic map
+urlhash:5e8e7c56cc4e1af64ad24def5fbaf77f4cda2ae12d708d50447187e2bf9a201b
+titlehash:f50c2429616d01a81541e6903bd77ccc3b785d52461c7fe6c5593fadb05bb286
+published_url:https://nytimes.com/2026/06/10/world/middleeast/gulf-arab-nations-condemn-new-iranian-attacks-on-bahrain-and-kuwait.html
+title:gulf arab nations condemn new iranian attacks on bahrain and kuwait
+urlhash:7a63848e6d61b25d090aa6dfd5caaae3c1f8acd2bc3a3e1574944b6c7d725d06
+titlehash:efdacdf155573d247e195e9b0fba0d0d6ea2d5ad8ff6b53f3d08a56221d7b830
+published_url:https://theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay
+title:hegseth warns cuba against acquiring weapons in visit to guantánamo bay
+urlhash:05dbd2f730bd3f23da75a057d12bb92b5a6a9a1d04f821d96c95f659e41e6eb8
+titlehash:ec26c2dbb2ed9e4cd2527592f8ff2d3c7d8196064aa29141499f533c3e9220a5
+published_url:https://aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss
+title:trump hardens tone against iran says may keep going with strikes
+urlhash:b4f3bc184ecf69c5e98981e9d15adf29e4419655dad6e8f4adc789a4c4febbd7
+titlehash:cb0acd2d1534d86886629c5180099ea924ae371599d30aad4f77366e699199bf
+published_url:https://france24.com/en/tv-shows/middle-east-matters/20260610-how-does-the-iran-war-end-us-and-israeli-leaders-at-odds-over-priorities
+title:how does the iran war end us and israeli leaders at odds over priorities
+urlhash:2c1dc471b9563b9cd6b418d80d37fbc89f711ccde70a957128ffa7ce0da4bfde
+titlehash:a4d0afb83d164834080e5e16baa29a11564e96d4e1e90d76ca9857327d3db19a
+published_url:https://bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss
+title:israeli strikes in southern lebanon kill 17 reports say
+urlhash:cc7af7567a647e1e9d2ecea19c7bfbef1f0f5dca528e1f4fbdb48267aeafea4a
+titlehash:22d2a1f72d3bb492c00afc5a0635154cbcb65b0129ab029a65c49b5c03b4845f
+published_url:https://nytimes.com/2026/06/10/world/canada/trump-canada-mexico-trade-deal-usmca.html
+title:trump says he may not renew canada mexico trade deal
+urlhash:4372c005f24ca73e3d2ec96242ee9e9893c5ada6f905df9fcf72a2fc85e8da1c
+titlehash:d7f947012e3616c1c1c203073e1d46449fe7493938b3077301665e406d65961c
+published_url:https://theguardian.com/australia-news/2026/jun/11/australian-government-scraps-asio-compulsory-questioning-plans
+title:labor scraps plan to make spy agency s 9 11 era questioning powers permanent
+urlhash:4973350dbcf8cf1fd4bc08604bb766ce6c70524f4c7acac3ad3e8bc468c74bc1
+titlehash:de25de7495487aa25792604a43cf0cab5ea4b0dfb73a922128f7acb955e2fd0e
+published_url:https://aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss
+title:is fortress europe becoming more strict
+urlhash:8d3b586a016e9c41e02cd59ef54d4dfa7ee1a0e024d5f59e93df8cc457128fdd
+titlehash:8cd78ee98af3b7a00c07ded5106f5f375027995baa49ad3f49c1d646f95fd2f9
+published_url:https://france24.com/en/europe/20260610-has-russia-given-up-on-kinburn-spit-its-westernmost-foothold-in-ukraine
+title:has russia given up on kinburn spit its westernmost foothold in ukraine
+urlhash:fa7b6bb2cd347e1aa72a38eb63b0b26c2e856fb49fbb190cf4215e41d275594e
+titlehash:1f796140ef327ad0ce5a81442f728037ee886983003c0b9d1a7938c066bc7bd9
+published_url:https://dw.com/ru/опрос-лишь-один-из-десяти-европейцев-считает-сша-союзником/a-77496814?maca=rus-rss-ru-all-1126-rdf
+title:опрос лишь один из десяти европейцев считает сша союзником
+urlhash:071e1763faf5b95029e2027f2e925e893073f848977db7323b53490a013b8a83
+titlehash:060562713ffb9337c7d6bf2fef500a10577ccb10aec5a00c67a0ee0db9f1b31c
+published_url:https://dw.com/ru/армению-хотят-лишить-права-голоса-в-одкб/a-77494962?maca=rus-rss-ru-all-1126-rdf
+title:армению хотят лишить права голоса в одкб
+urlhash:f69452b417242ce9eedfb887df177a2b280d79a23ab02b5df968457485480792
+titlehash:5c46635c4156b28df8d100f9ff0a3a134fff459e62c20a6248795434e9ec0dc3
+published_url:https://meduza.io/feature/2026/06/10/bolelschikam-zapreschayut-v-ezd-v-ssha-bilety-na-final-stoyat-10-tysyach-dollarov-iran-i-egipet-ne-hotyat-igrat-match-gordosti-v-podderzhku-lgbtk
+title:болельщикам запрещают въезд в сша билеты на финал стоят 10 тысяч долларов иран и египет не хотят играть матч гордости в поддержку лгбтк что происходит перед чемпионатом мира по футболу
+urlhash:187f40cc242b51f7a2f785b4211e33785df43b1b0a310942e79e296bf42a7897
+titlehash:098eb9d1787a213870c13f35e97126f945998e641fcc36ecc071d68d931a6ea5
+published_url:https://ft.com/content/31450147-1b85-4ecf-a60d-0c0e3a298ae7
+title:oil tankers increase dark transits through strait of hormuz
+urlhash:682167d7a9d8886963071d7813164eaa576c70fa3c118bb860724061c28f88dc
+titlehash:e4c1ef2aabc10ca41fb675a2fecaeb71f6d4b716915cc0cd22b61d81fe12942b
+published_url:https://nytimes.com/2026/06/10/climate/indonesia-floods-organgutans.html
+title:indonesia landslides devastated endangered orangutans study finds
+urlhash:399d35ba04d9ee4565b74e7bb70428e92eea50aaa0368db5ee84ab9a28f1a4d8
+titlehash:16d2b2d8af2ead225620e4896a03b9c2283a76d86d83bbb9dcba8d4332cfe1b4
+published_url:https://aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss
+title:us inflation hits new three year high amid energy price surge
+urlhash:14a5964b3face39dbf9a8154ff87f283ab67d7a56f13190a802172156c4f89b4
+titlehash:714d38bcfbc0666a20166938e12a4686b636b92b7f44d5a6985392507603a303
+published_url:https://france24.com/en/video/20260610-north-korea-kim-balances-ties-with-china-and-russia
+title:north korea kim balances ties with china and russia
+urlhash:4308c0105d474137e10e0f6fc28de2ca27ffd61c2012bfba2a73aa88724fbacb
+titlehash:b2c77d9b47c744685194d162702aa8665007ac26929c7a9c5d8333b387c99f7b
+published_url:https://meduza.io/news/2026/06/10/minoborony-rf-vpervye-ob-yavilo-imya-novogo-glavkoma-vks-eto-generalaleksandr-chayko-ego-naznachili-esche-mesyats-nazad
+title:минобороны рф впервые объявило имя нового главкома вкс это генерал александр чайко его назначили еще месяц назад
+urlhash:82ecbdf18da6b8daccd1edae03652b28cd8f160948054e31e83863450361c907
+titlehash:5c1c20c5a490f655650e0fff5615b16750103b4abc07e4a981957e431972c406
+published_url:https://ft.com/content/677bd7ca-eb7c-49be-80af-526508c03ec9
+title:palantir ban means frontline police will be lost in london met chief warns
+urlhash:d0e49d3d001429ddd4f407cf53c6f70bfbe51e9c4269ca2b24e940f7da3403b1
+titlehash:bee2d4c2d1898850014fa449429b84809ac57bf380837e2769acce75d4def01d
+published_url:https://ft.com/content/f631989c-8f7c-4ea3-b219-a86c97db8351
+title:seven charged after hong kong fire that killed 168 people
+seen_urlhash:7dc28adda452c891aaf8e0ca53d77bc825ad30c7210a31d0f4cab67056de2059
+seen_titlehash:0fd294ba6694d09a96dcbe8cae8f2a52e6d987730f9e883aafe34012ef32a5c9
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss
+title:norway crown princess s son to stay in custody before rape verdict says court
+seen_urlhash:3853bf6e3d7f011177cf211bc49cc20f2188282e7f4bfb272e6d0c69ec338dd8
+seen_titlehash:8ef9d11d5ad541f561dacd6c72d71fd5eeae08ecdefe83fb022376bb25c9c5d5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/10/world/africa/souleymane-diallo-dead.html
+title:souleymane diallo dies at 80 daring mocking journalist in guinea
+seen_urlhash:d5760e049f0243a2adb79dbe23e92686c9af6dd78c699fb52f6f44dbfa724ee1
+seen_titlehash:86c0a011a9e32fe04e57ff2a36b6d54b5e9acf4420cbafdd6a61254114b53895
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather
+title:four days of extreme rain in indonesia killed 7 of world s rarest great apes study finds
+seen_urlhash:a6bdebdfab28719ba0f5ef7c068a367d60d5adb5faa877fde0841647dad99617
+seen_titlehash:aee8f203a739b482ac07a4ff95a879f3966925e1fbe9b903e319b8badbecc114
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/11/one-nation-party-financial-reports-returns-fair-trading-ntwnfb
+title:one nation s incredibly sloppy financial reports reveal more than 1m in missing or worthless assets
+seen_urlhash:d438d7d2b97ae651b1186b1dfa9442a829812bb04083a3c61acf7cf71eca49c6
+seen_titlehash:1d48e5196c4b177ca9595ed7952b9a4e1fb0e50820a765a3658d992cc8e5dda1
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/11/zoladex-breast-cancer-endometriosis-drug-pulled-australia-how-women-affected
+title:breast cancer and endometriosis drug zoladex is being pulled from australia how will women be affected
+seen_urlhash:c882108124769c7713b9c5980a2d41d4b3655a9a61cd03286f637b4471801b96
+seen_titlehash:bead8c53928ec1bc595f48ac1bb76c1b5f588ed1ae3de60cd10767f47df77d78
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss
+title:mass shooting with at least 10 attackers in johannesburg
+seen_urlhash:962a039b997a4d693ac2cd8eac590efab63018cda9d958e937b4a80f36506acb
+seen_titlehash:1b7d1d2381ac0ad80666519cb1aae0a2efb558bd51d54c82153b9494bfdd8149
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss
+title:the light within ep 5 el salvador
+seen_urlhash:d7454c3b671ba46a35a9ae48f63c773ff7a433597c66615bbdb4ebbc3bb2f8d0
+seen_titlehash:805cb8b6b3338b32eb9fdda70c1ffd37941333281fd686d5e31426b7d2bffd49
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss
+title:us diplomat found dead in myanmar thai woman in custody
+seen_urlhash:4282201204ca864e14adb373fdab687f66c16d9903816f57cfc9374d4feec536
+seen_titlehash:fe80992c20aee114dc2409fc33b8df3b9be979bef992a1852676aedb6db64cf4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/10/bill-gates-appears-before-congress-to-testify-over-epstein-files?traffic_source=rss
+title:bill gates appears before congress to testify over epstein files
+seen_urlhash:bed7957868e6188092af3c75941c7993e8dd96817a52965ea2c469c26333da45
+seen_titlehash:078522ec47942a11433cc8b7c17192e38e4c6bb87fdc3dfae792b8a410f54dcb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners?traffic_source=rss
+title:sanctions on settlers not enough target israeli gov t say campaigners
+seen_urlhash:85456ccfb4c05377b0cbb8f6146e7f295aa2fce2b84e7d42dad87c6d12dc286d
+seen_titlehash:8935557de7428cb2b9e5de85e795a9a42ca7df1df01d78af3443f34e59b20bed
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/6/10/the-myth-of-white-argentina-still-shapes-the-nation?traffic_source=rss
+title:the myth of white argentina still shapes the nation
+seen_urlhash:431b4535bddfb8947f588b63e485d5a2b99b0a2df3acb5af1cad47adc9b40522
+seen_titlehash:8f6ff0299d6405f15696688018f1b554e9f532c5dc368d2a99873a3e21469d60
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/10/lebanon-parties-what-are?traffic_source=rss
+title:what are lebanon s most important political parties
+seen_urlhash:67e7dd2a7674a0b768f9e0dca0c5615cb369dd204a1d8ac3148b2a1f8ff55cef
+seen_titlehash:542c46573f1fd0653184c44e53c40d30432f2cb4490960544cf504d2f41a87ee
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-observers/20260610-occupied-west-bank-palestinian-rock-climbing-hindered-israeli-settlements
+title:palestinian rock climbing in west bank hindered by israeli settlements
+seen_urlhash:59f327c945e2b9c632ecb6ae02be1b12d8eec2eec4c11ed92650db22de36271f
+seen_titlehash:46c9b3c92e264979c253c1c0f2c63a65a88bb23e8276062142e5afe6d5161e4d
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260610-new-york-french-air-force-soars-over-statue-of-liberty
+title:new york french air force soars over statue of liberty
+seen_urlhash:f1d44019e3733a1fe45ccf9be11470f3b9484629134477a4aabdec39dfca0739
+seen_titlehash:5b2593d20a062bf1d49414b1dd5c1bb1a6e0cf00e0d6b91006e1c267bb36431c
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260610-pope-leo-to-lead-incredible-mass-at-barcelona-s-sagrada-familia
+title:pope leo to lead incredible mass at barcelona s sagrada familia
+seen_urlhash:5bdf429fdfe26257d68eb1617216df2bb4b33fd401238fafc11f60f6b688ed92
+seen_titlehash:3d057b697bdb745b590ee27442a49bf14da48af61dee5385cf9111cc3b0b1c5e
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260610-france-prosecutors-want-singer-bruel-charged-over-alleged-sexual-abuse
+title:france prosecutors want singer bruel charged over alleged sexual abuse
+seen_urlhash:4391d20a2700d6a2cf7227e8bc531c3a2e2c0e8d0b217a3d6f7bc298d3c47295
+seen_titlehash:5bc9b21057fe1d950620e9fb4549ae097e1d44fce0ae108a2102a61bb034ea41
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260610-trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price
+title:trump says iran has taken too long to negotiate will pay the price
+seen_urlhash:45b5b259836180d79510b11643335d0e9e77b391a2716454417d3e08d7bcb7ef
+seen_titlehash:c7e782721a0933184993682cc107ec8b2aa51f8818043c97f19452bc9012b4eb
+seen_reason:processed_not_published
+url:https://dw.com/ru/путин-подписал-закон-об-аресте-имущества-уехавших-россиян/a-77494500?maca=rus-rss-ru-all-1126-rdf
+title:путин подписал закон об аресте имущества уехавших россиян
+seen_urlhash:d8acc1d0aedb1c188880e1dfa01a846271b2defcd6359726038cc66244658e2e
+seen_titlehash:128087039d6ccaef151a3390a3ba36f4196d1e3ef82fe819cdc72d0c965b9618
+seen_reason:processed_not_published
+url:https://dw.com/ru/госдума-утвердила-запрет-депортации-иностранцев-контрактников/a-77493113?maca=rus-rss-ru-all-1126-rdf
+title:госдума утвердила запрет депортации иностранцев контрактников
+seen_urlhash:63274878fd9a49819c031a346b83dec93d8c6e6ec9b4bdd62f97357bb78ccf0e
+seen_titlehash:8948d51580f3519a018f4006fca6fa5bdf8ca36577747518b2d3a8b0ea600537
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-политзаключенного-ричарда-роуза-заведено-новое-дело/a-77493275?maca=rus-rss-ru-all-1126-rdf
+title:на политзаключенного ричарда роуза заведено новое дело
+seen_urlhash:7341e9911c47921a5d863236f5da025ea27c48a39a3404c8b3a395079dc20cd5
+seen_titlehash:bc4c5ddbbe10e1b297899f1e4a4723b0361b2a3daaf43aac1b7b385cd2ed0540
+seen_reason:processed_not_published
+url:https://dw.com/ru/изобилие-и-лишения-как-война-влияет-на-цены-в-иране/a-77487384?maca=rus-rss-ru-all-1126-rdf
+title:изобилие и лишения как война влияет на цены в иране
+seen_urlhash:c21197175e5436c85bd10f404df1c0b362251a869d70145f9376e55e352b3119
+seen_titlehash:083eade39ed24309780712ecc742d792d40937c57032d51809dab01160a69739
+seen_reason:processed_not_published
+url:https://dw.com/ru/где-в-германии-популярны-имена-софия-ноа-и-мохаммед/a-77489541?maca=rus-rss-ru-all-1126-rdf
+title:где в германии популярны имена софия ноа и мохаммед
+seen_urlhash:e692087c27c6288dfd9e010b6b818c34524892c5adbf36766796541d12133b65
+seen_titlehash:183991b79523c3caa11c4ac64543844384e3efe6452c8318e6798783350dec93
+seen_reason:processed_not_published
+url:https://dw.com/ru/мы-мирная-нация-кем-считают-себя-белорусы-сегодня/a-77491584?maca=rus-rss-ru-all-1126-rdf
+title:мы мирная нация кем считают себя белорусы сегодня
+seen_urlhash:23c289935c9ec7bd64e67c3585e392bacc3c547f1d6f36562d44fb8d8bc94d43
+seen_titlehash:c7168a3f425debb2872ee930577ff1250c0b532fa9167f4f7920651da9543d13
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/10/amaterasu-performance-marks-160-years-of-belgium-japan-relations-in-brussels
+title:спектакль аматэрасу отмечает 160 летие бельгийско японских отношений в брюсселе
+seen_urlhash:3971038e498af18b5c85d934b8dfd1b7b5679b44e1145d2598a4a24ea15c1bb1
+seen_titlehash:6b82e13549fee77db73b7c7a6cfafd9d7e5e43ae7eff13630c11533ae9d9806b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/06/10/eu-illegal-tobacco-on-the-rise
+title:нелегальные сигареты в ес теневой сектор побеждает
+seen_urlhash:8edbbe519d61bd8d37e2571d195557427e2ae740cf8eab39459e9ea099649af5
+seen_titlehash:13c2ddb313f5cae4da8c812bee2e951f3efc7baefeffa0d56b0c2dec0b71b2e3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/10/long-term-fertiliser-solutions-are-needed-to-avoid-food-shortages-in-the-eu-says-the-eu-ag
+title:ес нужны долгосрочные решения по удобрениям чтобы избежать дефицита продовольствия
+seen_urlhash:1d9b93e7dd8d937bbc8c717376b60453e2500f53cbca229d7c33dfa4b5d68ba9
+seen_titlehash:083bab82b30420e896812ac4bc108ffa85b8dfb0068f0f429a63989a013664b5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/10/magate-trebuet-ot-irana-srochnogo-sotrudnichestva-i-dopuska-na-yadernye-obuekty
+title:магатэ требует от ирана срочного сотрудничества и допуска на ядерные объекты
+seen_urlhash:2886e2d1291aa762bc19f1123e24a0d5b412abd2d9b96f1c0c0fd27106fbfd6e
+seen_titlehash:b13a43051718ec044233122e20d1f19126c9aea732bb627c78537ff663f2b6e5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/10/general-dominik-trinkan-vojna-ssha-i-izrailya-s-iranom-zakonchitsya-tolko-diplomatiej
+title:генерал доминик тринкан война сша и израиля с ираном закончится только дипломатическим путем
+seen_urlhash:97861c04f9df67d0c883eb944fb84fa75d3c6c2b7117522764c3bf888d481bfa
+seen_titlehash:e76cee7d55dc2ecdfc0baf541d62deae576005f85605fa2dd41f33a6fee142d2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/10/sudyu-chm-po-futbolu-iz-somali-omara-artana-teplo-vstretili-doma-posle-otkaza-vo-vuezde-v
+title:судью чм по футболу из сомали омара артана тепло встретили дома после отказа во въезде в сша
+seen_urlhash:e5f1ad728411d4c6c401eb25f180c1d3285c05b11bcf62a1655f6ac27525c66b
+seen_titlehash:32215c76e22b733d529695f576b90daff36041073ed3a0b3859ad1f459207745
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/10/starozhily-es-prosyat-zhestkih-garantij-v-otnoshenii-budushih-chlenov-evroblok
+title:старожилы ес просят жестких гарантий в отношении будущих членов евроблока
+seen_urlhash:8c5a56faf3bb56a19531fa966acf669daf80586be40759d5f4346bfe7e4d7816
+seen_titlehash:64f2ba8aa0451bf0df1a1187bdaf654c88862abb02ee6ffa4d22bb55b1b3b7b3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/10/sapin-pope-in-barcelona-prison
+title:папа римский впервые оказался в испанской тюрьме
+seen_urlhash:f3e533c66dd1a5537a11ceedcfe773b765414dbcee50b7bbd63246993230a8dc
+seen_titlehash:600da4cb3adb4ecf4ca6ffdc6c776c3907d9b2769c27456f700d57ac68d77341
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/10/pakistan-army-helicopter-crash
+title:в кашмире разбился пакистанский военный вертолёт все погибли
+seen_urlhash:7ef10879208e8dc4e6d5bb5dd8c30a5799486fa7e09ffa6541b8a06b8b95a736
+seen_titlehash:c51c379deea4833a6fea9df352c2f79ed1cf430fdcf7b026076ac636bf65dfaf
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/10/mexico-wc-opener
+title:мехико готовится к матчу открытию чм 2026 на легендарном стадионе ацтека
+seen_urlhash:375c6cbfe94888e12bd9a48f998609f4ef5a20ef9f49b3c7136f0669e29cd6d7
+seen_titlehash:9335937b802ae22cf49d73d0b67ae94558554880a8e9b457a1d9d004bff8644c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/10/v-tsentre-ekaterinburga-reysovyy-avtobus-vyehal-na-trotuar-s-lyudmi-pogibli-chetyre-cheloveka
+title:в центре екатеринбурга рейсовый автобус выехал на тротуар с людьми погибли четыре человека
+seen_urlhash:443a54dc46535ac85d34f41acc9351b49b5e4156cccb28a4a1867a222a5aedd3
+seen_titlehash:f285bc695e3d581a50506e816080d53cd7171646c6540a994eefe4bdb9402701
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/10/nabiullinoy-i-ee-zamestiteley-ne-okazalos-na-soveschanii-u-putina-gde-obsuzhdali-inflyatsiyu-i-klyuchevuyu-stavku
+title:набиуллиной и ее заместителей не оказалось на совещании у путина где обсуждали инфляцию и ключевую ставку
+seen_urlhash:219166ae8bd2237602865faaa4eb90efd16807582d325a07702449dae5b19aa8
+seen_titlehash:49dccffa0e2760b4e71e5da05bd97aa1631bed3b9db6a5a1e5e7d327df7fb0dc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/10/roblox-perestali-blokirovat-v-rossii
+title:roblox перестали блокировать в россии
+seen_urlhash:8373de0e9251418052ed4b77ca1af941420d5a643537828bfa23589712dbe516
+seen_titlehash:8f84ed3cb95c555611669eb90e73cc1582925aa713a804e3ab320c9bfa6afd76
+seen_reason:processed_not_published
+url:https://ft.com/content/1021ae5f-aab3-41a6-b8ff-7e34695a6a75
+title:burnham pledges to back pension campaigners claiming billions
+seen_urlhash:e5662ee074b0141d68b09590facf75e416be09d9cdc00eac3458a80b5b72577d
+seen_titlehash:23695db4eb72e15e362bdd7eb4485e34782f45a0625c6afe9c06ec9032ea0bf5
+seen_reason:processed_not_published
+url:https://ft.com/content/061539b5-b848-442d-bdcf-8d31f2cb2116
+title:trump s pick to lead statistics agency disputes president s faked data claims
+seen_urlhash:8e54bd7b91bac275bdbb5d5c2f27debe9a4884147f193f9e3b6428de072c64af
+seen_titlehash:53b090688f4173d4cad55115828d783b078701db7c8ac2f2743343001c5a4062
+seen_reason:processed_not_published
+url:https://ft.com/content/f7b6ad83-9852-4b5c-9886-15c43a644884
+title:pay trends suggest us bosses are wealthier and more nervous
+seen_urlhash:a4171c6e258ceeb89dad9e865b8da6f58cc7b00c933ffbd86b0465d1cb35a958
+seen_titlehash:15e8ec152478dac2dd4767a2a8622c402762230e3b4c552ae94967292a46cb16
+seen_reason:processed_not_published
+url:https://ft.com/content/48efae8b-39e2-48a3-9424-dcf5bab39eef
+title:trump s ai fund idea is good politics but bad economics
+seen_urlhash:376432c547bcc80db3e4a1fbe6ab875f2d5e13bdf4204960d063b5f65a77ad78
+seen_titlehash:874293c0bf857ceef240b49d21d582e6346a2e664ab7c7c0c562522a15eca9dd
+seen_reason:processed_not_published
+url:https://ft.com/content/12ba5e8c-e180-4f13-a49c-7c50ade58cdc
+title:historic merseyside shipyard bought ahead of planned royal navy refresh
+seen_urlhash:a357e9c1d1d5a37c2ada21a785c5ed06b53a7589f39d440a563bfbb8fdd2f822
+seen_titlehash:904d42b840714c8b1fd15c11ef50f9984ece669b5d77ee69fe5de884bd73e171
+seen_reason:processed_not_published
+url:https://ft.com/content/5f7d1905-1907-4bf3-a45f-c45aa9618697
+title:how architecture helped to topple viktor orbán
+seen_urlhash:a41b6f9135678a6b1ce1d5e5a57b35428726e32682354f94a0813cbe77a1b5c2
+seen_titlehash:17359888157309d3850a01bfe49765b0a88a370f313858648cd00c12a38649e1
+seen_reason:processed_not_published
+url:https://ft.com/content/346fbc7b-3627-49e1-8f1e-af0cefef4000
+title:trump baffles wall street with top dealmaker praise for citi
+seen_urlhash:9540d2d3ee4db92a6208db0064d5c9cfdac25144775c24375990f23722970931
+seen_titlehash:9cc967897ceaac420a109e19c52e52156d6ecd0681709ec4e7620d3bea3a99de
+seen_reason:processed_not_published
+url:https://ft.com/content/57ff0d23-bb3e-440c-bdf6-78582bb288f8
+title:here s that spacex s ipo is overvalued by 114 research in full
