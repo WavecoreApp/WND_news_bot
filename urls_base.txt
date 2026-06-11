@@ -1,47 +1,3 @@
-seen_reason:processed_not_published
-url:https://france24.com/en/technology/20260609-openai-confidentially-files-for-us-ipo-as-ai-boom-drives-investor-frenzy
-title:openai confidentially files for us ipo as ai boom drives investor frenzy
-seen_urlhash:37e6a82645713b1b8ac5da090491060269634181362399162f984798b6ae0918
-seen_titlehash:dc73b6b55069dfd683d2530fb6e53c86fcda37ce3bb53830a8e1b48c3759be93
-seen_reason:processed_not_published
-url:https://dw.com/ru/главного-прокурора-мус-карима-хана-отстранили-от-должности/a-77467210?maca=rus-rss-ru-all-1126-rdf
-title:главного прокурора мус карима хана отстранили от должности
-seen_urlhash:bcdb9ed44f9e038f31a32dd95c23c5d94f250fb438057c563c975cb485f07876
-seen_titlehash:a77c4b777219b848d340744b6327c8ae5c9c229241e9ac8a8c009bf32e69fa2d
-seen_reason:processed_not_published
-url:https://dw.com/ru/украина-призвала-запретить-российским-военным-участвовать-в-миссиях-оон/a-77467035?maca=rus-rss-ru-all-1126-rdf
-title:украина призвала запретить российским военным участвовать в миссиях оон
-seen_urlhash:bbaaa65cf8d04c4c142776497a0eeba804f9439c05f3b5da4fce97246469b2a0
-seen_titlehash:e846e1e2ab6c93292ba8a4e9275cb434b2385db4f61f8aa0faa9b1432e1d8325
-seen_reason:processed_not_published
-url:https://dw.com/ru/суд-в-сша-отменил-решение-трампа-повысить-сбор-за-рабочую-визу-h-1b/a-77466992?maca=rus-rss-ru-all-1126-rdf
-title:суд в сша отменил решение трампа повысить сбор за рабочую визу h 1b
-seen_urlhash:b81976cb270c93fbe721d41fbb99c06be6094c7865a03ac26d92b521c7689e53
-seen_titlehash:6a2e1f23043fccf734911f89b68ebefa066a7ef6b64764c4ad6b1532afe54a02
-seen_reason:processed_not_published
-url:https://ft.com/content/c22fca23-2917-420b-9538-744a093d4b47
-title:gsk in talks to buy cancer biotech nuvalent for more than 9bn
-seen_urlhash:efc16cd2909e548b99d5ccc87921ac71947eeea906be8b6780f3ca423eba6922
-seen_titlehash:28a1a02ce158be06a74d7a4e480f7d64947bdfe979827f23ff33fb50058ba533
-seen_reason:processed_not_published
-url:https://ft.com/content/1f456605-4d56-40d3-a3f7-16ad75045f27
-title:has india lost the ai race not entirely
-seen_urlhash:0ab4311e1012bb9a1ebd0d5ae2179749e51673c05e109e66fccd408a139b2310
-seen_titlehash:343e1bd6d6b387666fb4e3269ebaa88c14cfd33ae791548f2696a5170b849f1b
-seen_reason:processed_not_published
-url:https://ft.com/content/21af91fc-bc15-451a-ad01-5ed4a67dac48
-title:china s silver economy shines as birth rate plunges
-seen_urlhash:69e4f5a3bfbea03f7565a7318e8dd4602dc9be0629e8a6730c3dac614f60007f
-seen_titlehash:a63c6c3a91fec3592366c1842c070ff4360dfed64094768eac8239064eda321e
-seen_reason:processed_not_published
-url:https://ft.com/content/abea5595-8e8e-406e-9eff-98e82d8e085f
-title:unpaid carers could get maternity style right to return to work
-urlhash:616a9815a47238374202eaf3250163ed1a391fcc81a80cc4b94a1e8a1ce9decd
-titlehash:3cdfb275742ca1f7f765d66ff0106bb9eeee98942bea0992854ec593839348d5
-published_url:https://bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss
-title:xi jinping and kim jong un vow stronger ties as north korea visit wraps up
-urlhash:a87078d8afbcad1130a715b68fb3dcf148677edb51bd79aa441a3a2ece7e5e16
-titlehash:20124579e4563167ead16df5f333c8d9fdab6cf86a2e0054d1a6e11ebd6a8f3c
 published_url:https://aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss
 title:nuclear weapons spending surges to record high of 119bn report says
 urlhash:fd6c4e1350960c4595b732c4a5be86a3059758f45ac36665181e9b047a086f2d
@@ -4998,3 +4954,47 @@ seen_titlehash:3c7366120f2e2ff86b12f87eeb7f82f3344b965bb2e50750a530208c616131af
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/05/21/home-schooling-is-taking-off
 title:home schooling is taking off
+urlhash:703c8adea9275f3b2577dff73aa30dd06a082ab21d567420b3db6de97976191e
+titlehash:3f239cf40734a511d2284e1c8bcfb026afd1b418c607ba46130e4cf2e92e88a1
+published_url:https://nytimes.com/2026/06/11/world/middleeast/trump-retracts-threat-iran.html
+title:trump in latest pivot retracts threat to strike iran again and widen the war
+urlhash:a9e9f1736f5ce72434a44ff60538cdb0e60d9967a4d286fef0252c2420361841
+titlehash:8ecb9a5565df95ee5ff314449249808b66b16b7a0064ace98e73b27af27adfb2
+published_url:https://france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes
+title:trump says iran peace deal is near after threatening new strikes
+urlhash:a5dcb2dcdf5d9c4c24290d14d4629005cdd9d52dc74baadc428d4dcda71e768b
+titlehash:6753d7891d37cb8ebb5ba7254c5b00da5f2ade7ea9e744cb0bf06df0d645621f
+published_url:https://nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html
+title:whipsawed between fear and relief iranians hope for war s end
+urlhash:c9314846206af6ada09a41d6a227196dcf789a38aeedc40533cf18c38bbadad4
+titlehash:1827a0d49f02ea13e07c85a3b5d48df85f481e8c71d1713794aa8c49333dde99
+published_url:https://theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks
+title:bandits in north west nigeria abduct villagers they invited to discuss peace talks
+urlhash:cc69d9fe70470579f4db73e34a693c02f9aa05f58611f91585892114b8febe73
+titlehash:ec70e29cc07bdce6241330e1121b081adee672dabd144ff90a70ecd28484168c
+published_url:https://dw.com/ru/авиасалон-макс-под-москвой-не-состоится-и-в-2026-году/a-77514116?maca=rus-rss-ru-all-1126-rdf
+title:авиасалон макс под москвой не состоится и в 2026 году
+urlhash:0bf27341a92baecb68be4b6e8b7bbe85b40b17e3909b48eac8db99460221c5b4
+titlehash:b928b81a178af5ff00de7be66eb6135b3b10b8da45195e90087d640db159503e
+published_url:https://ft.com/content/c0dd70da-5c91-47db-97e9-44a106edc988
+title:can trump make a deal with iran
+seen_urlhash:45a4f019bffe7d81c0f02a53b5c5eff64861286f02a353774e2f371cccb0c7dc
+seen_titlehash:c1e804b16be364fa017dbd98f0f218ebcccb059580aa7e6827c11a9b6681e892
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/11/world/spacex-ipo.html
+title:the spacex i p o rocket
+seen_urlhash:8666eba47cc7d1ff544db81ca823239e737ea81219c0372d50b7f964a302c3db
+seen_titlehash:97a813710b4b7f99deca6e271683077f6d82a1d1d4641a7a52a8165e577b4723
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/12/man-charged-with-after-sydney-woman-allegedly-kidnapped-ntwnfb
+title:man charged with kidnap and murder of sydney woman whose body has not been found
+seen_urlhash:2eee9522aeb44cced352262314ef54ade744b5659ba0ee7f7f5514ef75a6a2e4
+seen_titlehash:4751cf97f7f14220c139d93e4238bf9f4036d9685cf60d044152e5c048855d05
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss
+title:us lawmakers press israel to let cancer patients out of gaza for treatment
+seen_urlhash:dea5fb057ab40058fe5b71f2892ff1c2ecaefe06f0a85fa15eff8a48aa217f01
+seen_titlehash:61f6ec118f9978769ef4984cea5d8d47951ce14d1807b0dc36de64ef4c30d22d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss
+title:man pleads guilty to slaying top democrat and her husband in minnesota
