@@ -1,240 +1,3 @@
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss
-title:murder of lyhanna 11 enrages france and turns up heat on government
-seen_urlhash:2816073f100e99eef8abf1e852c5497380f2791aa7572dd723c196a957613dfd
-seen_titlehash:d0dfe48ac546e9c9bd9ad70e88d77743b7bdb318773dc435951c17955ca836cb
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss
-title:scrapping of franco german fighter jet leaves allies at odds on defence future
-seen_urlhash:ec7289d53f8c0a7737c51234a0ef84803f29f590a5d0ea0cb3d438759d54f720
-seen_titlehash:10ed6da265a93fcb21140b9d13a0f633ac870fa5caa74e0945b36bc9dfb04593
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/09/world/europe/robot-david-penn-magic-circle.html
-title:d4rlyl a robot magician is denied membership in the magic circle
-seen_urlhash:d90ca7334287a266c67fd195f5cf2900dfd82349b629974872f6baef6b8a469c
-seen_titlehash:298a95fd852786dcc09a6e196421f931145024913155c3216feab7734d2aa596
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jun/09/air-canada-former-pilot-charged-license
-title:former air canada pilot charged after allegedly flying without proper license for 16 years
-seen_urlhash:129876029ecfd4346a840dbd102e94133f29fecc590aed10897b0b0af7875c97
-seen_titlehash:d16b56ff754025b0f1790156a2f869a9467d9e48f30b9e286f4bf09b3bc22043
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/9/nasa-announces-astronauts-for-artemis-iii-spaceflight-scheduled-for-2027?traffic_source=rss
-title:nasa announces astronauts for artemis iii spaceflight scheduled for 2027
-seen_urlhash:2462c75fe54464a05600423dae1dc4c1ac45de932532b43330c34b8c76bba97b
-seen_titlehash:aa944b2dea3f9d0d39dbfb53d15dbee438cef91f9eb24ac114a786418836cc16
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss
-title:palestinians confront israeli settlers over land grab near hebron
-seen_urlhash:ee4e0cbf6987f693e3f76bae7d24aead235a8cca54c59cdc4eee8fd400248f25
-seen_titlehash:b5164bfcbd77fe485949729944ed66d06d3f978c94acf869010fc13bc69bcc13
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss
-title:trump says iran shot down us helicopter over hormuz vows to respond
-seen_urlhash:2441711fe9f4b2a1bc2101555e93873d6f150b7e0b77b3371bf63bb9dae36a56
-seen_titlehash:b570cbb0a0565da54cf0e33429750bde467894f9272ebb68e7a6e64d5785d3a7
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260609-france-lyhanna-s-death-reveals-entire-system-is-broken
-title:france lyhanna s death reveals entire system is broken
-seen_urlhash:9ff3d4f578fb27fc451c00a14fc2520c5810dbf2c622bff439e0a7b8ef37b9e7
-seen_titlehash:d52992c5d808ac838281b0d3aa79eaa8f174cf96c927e82586e9016a1d878dbe
-seen_reason:processed_not_published
-url:https://france24.com/en/live-news/20260609-appeals-for-calm-after-sickening-belfast-stabbing-spurs-protest-calls
-title:appeals for calm after sickening belfast stabbing spurs protest calls
-seen_urlhash:52564607e8d4ead868d55be349480b5a93475eb03c21fc47395f7703bc8ef25f
-seen_titlehash:751f9225e4ca2242e47799e2280a776e345def2c4870ea58a311083c390f2bf6
-seen_reason:processed_not_published
-url:https://dw.com/ru/трамп-грозит-ирану-ответом-на-сбитый-вертолет-apache/a-77480642?maca=rus-rss-ru-all-1126-rdf
-title:трамп грозит ирану ответом на сбитый вертолет apache
-seen_urlhash:e90e5d4aab8203bda9503567c2e7aaed6e419f637bc24f6db0d03dc6ddc2f9fc
-seen_titlehash:6c392e4fe44e6132dd7d873d433033afe2659c2a8a575336a3e9f585bf5075e3
-seen_reason:processed_not_published
-url:https://dw.com/ru/депутаты-бундестага-могут-отказаться-от-повышения-зарплаты-в-2026-году/a-77480521?maca=rus-rss-ru-all-1126-rdf
-title:депутаты бундестага могут отказаться от повышения зарплаты в 2026 году
-seen_urlhash:5814c60ac20f804dd3ae65df2a40a22f457c98e1b774fa51deaadeadc8575f6a
-seen_titlehash:549ba55c147b8afdcb43dc6180d2562f987b4ea7b2ccba295dd3df5ae82412f8
-seen_reason:processed_not_published
-url:https://dw.com/ru/сша-освобождение-новых-заключенных-в-беларуси-задерживается/a-77479795?maca=rus-rss-ru-all-1126-rdf
-title:сша освобождение новых заключенных в беларуси задерживается
-seen_urlhash:8355c5f530f01f589d5b48179f234b94683b1957f80797d2bc3489c62a50dff6
-seen_titlehash:83ac8d9e33423023f7eb801ef91ceab23152e8cd464667d9668222ffb50a9415
-seen_reason:processed_not_published
-url:https://dw.com/ru/нейробиология-предсмертных-переживаний-какие-сны-снятся-перед-смертью-и-что-они-значат/a-77304544?maca=rus-rss-ru-all-1126-rdf
-title:нейробиология предсмертных переживаний какие сны снятся перед смертью и что они значат
-seen_urlhash:4a725748ee9ada93de82d45cf5877cf4a7b68511ddd5a71b0b644617493c66d1
-seen_titlehash:43a343e1208637dcf6236585cf347aa28788c6d4ac176d2c4efc7d356f14c112
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/09/murder-of-lyhanna-anger-grows-as-thousands-take-to-the-streets-in-paris
-title:убийство лианны тысячи выходят на улицы парижа растёт возмущение
-seen_urlhash:4935d40784480dcedf97f3bd4a773caa7a4fc63134b422f10afe60cfe533644e
-seen_titlehash:f46f544ab7020d124021bf64c9a8ff313e8138e4a478e383311d3f39f05af71a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/09/papa-lev-xiv-zagovoril-s-kataloncami-na-odnom-yazykke
-title:папа лев xiv заговорил с каталонцами на одном языке
-seen_urlhash:fbf37b0e15580a42297f6509a3186b8c7fda34b5431f2f77217fc436bc3a5dbe
-seen_titlehash:d9fba7738f8f2c50fabbb0d1f1021f4feadd48fd737dd9ec2e7787bebad59804
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/09/archaeological-sensation-celtic-grave-from-the-iron-age-discovered-in-hesse
-title:в германии найдено кельтское погребение железного века
-seen_urlhash:8e61ceae99049954e4153f3b0c8ead5dfdb45f25c50ab237df0998e7f0af9c38
-seen_titlehash:54408fd1490251a5cf87603f64d7b4d08e8a47f6dc079afcb885385bcb45cec0
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/09/israeli-warnings-trigger-mass-exodus-from-lebanons-historic-tyre
-title:израильские предупреждения вызывают массовый исход из древнего ливанского тира
-seen_urlhash:8ce53c3544b859e4f02ffbfcceace3d1786ace4b1ff8d3e15a751914c48308de
-seen_titlehash:e342469cd3c332130edeef6783fe3d5d1622e5d8cc4ef3503e0bcd619dcc7ff6
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/09/faith-and-perreo-cross-paths-in-madrid-leon-xiv-and-bad-bunny-met-at-the-bernabeu
-title:лев xiv и bad bunny встретились на сантьяго бернабеу вера и перрео в мадриде
-seen_urlhash:5b1cc6b8a69a8a53496bceefc0969f13854252d3ec1117a8076d580c3fa56cc3
-seen_titlehash:3ccc531cdce0a2fe8f926e952439682de5c90aeab7e118e7e77bdbe3e11bf1f1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/09/el-nino-is-expected-to-cause-extreme-weather-this-summer-heres-what-it-means-for-traveller
-title:эль ниньо принесёт экстремальную погоду летом что это значит для путешественников
-seen_urlhash:ccb9ee11825f6e818fefd4837b061cf93202e1cdd10aef2a313714a70b2c4f69
-seen_titlehash:d00f579f2b52cd05191b45bbd8ca9b2ea60d928109fe9ffd746694d23f21ff02
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/09/spain-thousands-gather-as-pope-leo-xiv-reaches-barcelona
-title:испания тысячи встречают папу льва xiv в барселоне
-seen_urlhash:3131397890226f9915e8198c63c9623e4f7c307baa4cb90c7ce2ba1c372bd156
-seen_titlehash:da38905dd55b106a164926f6fb92f64711ffcda20042c1e18d27fbef72a79f80
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/09/these-are-the-best-and-worst-airports-in-europe-according-to-a-new-analysis
-title:лучшие и худшие аэропорты европы новый анализ
-seen_urlhash:a3a63713c773565583341d8aa96e5db8e2f1ba6f6550b784ec3a684e2abf40f6
-seen_titlehash:729a99a62d5d2ced935c31744069106b81e17dad9716c8f8e956ec309be09881
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/09/na-yugo-zapade-moskvy-vzorvalsya-elektromobil-sk-zayavil-chto-nashel-pod-mashinoy-podozritelnyy-predmet
-title:на юго западе москвы взорвался электромобиль ск заявил что нашел под машиной подозрительный предмет
-seen_urlhash:36e6eb5af4dc749915801242f75d62ba21da74fa2c8489258b99855646694d21
-seen_titlehash:7f6a75307626793dea3a5fea7bb26dd646fff0d586e7478b12d4ea496e38bbe8
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/09/ssha-obyazany-otvetit-na-etu-ataku-tramp-zayavil-chto-iran-sbil-amerikanskiy-vertolet-nad-ormuzskim-prolivom
-title:сша обязаны ответить на эту атаку трамп заявил что иран сбил американский вертолет над ормузским проливом
-seen_urlhash:6f78b75c66ede6d09dfe9c8dcab31d30280573bf69d649dbbad126d9e0a983d1
-seen_titlehash:0674162d6e4dc4267bbbd1e9f6e48541e56a32e21cecdc2e9ca3c4145384b8b1
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/09/v-rossii-zapretili-filmy-nazovi-menya-svoim-imenem-s-timoti-shalame-i-ubey-svoih-lyubimyh-s-denielom-redkliffom
-title:в россии запретили фильмы назови меня своим именем с тимоти шаламе и убей своих любимых с дэниэлом рэдклиффом
-seen_urlhash:5430060402953aa0b5db2340888ebca258ad9f1b51e329726e7fd52fb5cf132e
-seen_titlehash:7b89303523acca8c12080dc130913e5a4df2d2ed650ec0449df018d58a648501
-seen_reason:processed_not_published
-url:https://ft.com/content/78067073-fa05-416e-80e9-065dcee17427
-title:the hard truths about england s receding coastline
-seen_urlhash:10974e778197d72ea5689f05a31017276fd24a842b49a82a893e02ad6d4cb704
-seen_titlehash:3bdcbee0367221cb256442b988511ea6fba74f2ca857a6d581d053dfb9a680bd
-seen_reason:processed_not_published
-url:https://ft.com/content/56bae666-52f8-42ed-846c-abe65c94eb2d
-title:starmer to tell ministers to quit if they back burnham
-seen_urlhash:d8452a9c140953fd12747d7d943ec308f8448a5a7e853905c24953c7d1ad3751
-seen_titlehash:19c420b72a24fc8edbfb55a8e0d9081d9238b452edc6f5dec38d5baa57eca2e7
-seen_reason:processed_not_published
-url:https://ft.com/content/5510c113-22f1-4234-897a-bdd5e97e9946
-title:the fed is going to have to rethink its global role
-seen_urlhash:853b5028fe9594a76a5f5bc70bea04b740d0f992b3444a03ed7dc2742c7a845c
-seen_titlehash:80c3b5e3ee3db63f5342074d7c048cf15789fbb125acb10785e32f8c7ffb801a
-seen_reason:processed_not_published
-url:https://economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba
-title:donald trump could be the man to save cuba
-seen_urlhash:4cbbeaf62d3e16077f78a579fc1024e206f0910713180d982de562fa42e3676e
-seen_titlehash:6e14531de17084f808d2d94606fbede21162ae152fbae0871bf13e1109df65b7
-seen_reason:processed_not_published
-url:https://economist.com/international/2026/04/09/hospitals-are-stuck-in-a-deadly-doom-loop
-title:hospitals are stuck in a deadly doom loop
-urlhash:7d27b86e343b2205343b27269fba95dc8a370cd3cfd7927d387ff1fdba283b2a
-titlehash:94b91ba20e29edc9a4bf092ee0acecc2f953edfcec13d79a7f36adf0c0af77c7
-published_url:https://nytimes.com/2026/06/09/world/middleeast/trump-iran-us-military-helicopter.html
-title:trump blames iran for downing of u s helicopter and vows to retaliate
-urlhash:f88d1549cb55366ab72c20278c385bf672c682f78eb40aa693b6904234273645
-titlehash:9944896b533c591e89c001cc7afa78f642784a4b2c69db8de9bc578042a4ed75
-published_url:https://aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss
-title:trump vows retaliation after claiming iran shot down apache helicopter
-urlhash:520652714cc01c2e921231af2b272cf46b034eead6fbd91764e2cbaa157594c4
-titlehash:baf3f60c204530e68521222621fdc2e7a6b395d8d95c509c80d94ead0e0f2a5d
-published_url:https://france24.com/en/lebanon-says-8-dead-in-strike-on-tyre-as-israel-keeps-up-attacks-on-south
-title:lebanon says 8 dead in strike on tyre as israel keeps up attacks on south
-urlhash:e287653c6e6a14cfbc15f80683d2ab2565702b5894105444c2c98f0fa12067d7
-titlehash:060bf7fb8758899b1fdd586314e9957dcc42f7f6c16e4cf20da8f7b9406f6f1c
-published_url:https://ft.com/content/4f667f6f-efd0-4c3f-ab49-9f0d1099a8ba
-title:taiwan s opposition leader tells us and china not to use her country as pawn
-urlhash:9398727a7a0ec50dd49715b124ec7c0210052b8bb137f1c569623096a0ae1e59
-titlehash:566d1747ab7179f5c82a8ba5a9d32e9de268958b3fa0112f73ef52fac8278dcc
-published_url:https://bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss
-title:uk and allies sanction networks enabling settler violence in west bank
-urlhash:84dafc86cb5006513da060b9fc564656663e2f03d84e7c24528675fa85c3f16f
-titlehash:8241c2838012e655a9e61922c67ec7c223b4135ee8ce63df593e10669c8064a7
-published_url:https://france24.com/en/fcas-project-failure-france-germany-characterised-by-totally-different-strategic-cultures
-title:fcas project failure france germany characterised by totally different strategic cultures
-urlhash:1e3c59cfb6d688b510b0dd633d9d1009c011609fdee80dfd2e07191dc47d2f32
-titlehash:578f92266de1e097df7b23a4bac042daaf0cc4fbfff57888bf93d8d52f39cd61
-published_url:https://ft.com/content/6a26c6e1-ec55-4a6a-8ddc-18405ca52c9a
-title:gm bets on homegrown battery tech to challenge chinese dominance
-urlhash:a07acb99ae13e1ca35f569c724b4368b5bc4eca1214302fc4965a4b85c4b2637
-titlehash:423c25966231a6be774163066c9ec856f7fffbafcf7b3af3791506d2e0c976da
-published_url:https://bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss
-title:inside myanmar rebels are losing ground as military forces men into army
-urlhash:5f8cd5afcdb1add4469d6574fd0f8d11f3496a45cd75022a9dda9260bfe945d8
-titlehash:2a5dd78116c70fb301caf92ab2166e4932f3f29b6650e5822c5dc10be376c0d1
-published_url:https://bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss
-title:version of ai tool too powerful for public released to public
-urlhash:f8f59fcf8241435c086d53ff2bde551fa779e7409b1b06eeeb94e36aeedbbe7f
-titlehash:b98adf49f11b6154f57178030c1b08ff35369bc0e15db7d9c09c8d33610e0500
-published_url:https://theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say
-title:ebola spread in central africa could match 2014 record outbreak us health officials say
-urlhash:873b3a51af18b2bf096b08df359f6a3cc317aaa64abf0ed03b02e8e3397a8aec
-titlehash:1c074f9019fc439ef6eeb2638f2332e4e49c21a162ba0cce91ba2b6c8aa3b099
-published_url:https://aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss
-title:canada confirms opening of gordie howe bridge despite trump s threats
-urlhash:8402e841042b7f9d500a279ab1f9f877fbb9cdcfa72ad66544efd7cb7bd66459
-titlehash:0b404b663f0490a577729518339aeb7ef9952fd41daa9a0b7b01f56d998ba879
-published_url:https://aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss
-title:what will the fallout be from the unrest in pakistan administered kashmir
-urlhash:c737bdaa4953812b6911382e7fdb5c10fa822c2743583b97505c2098cb122937
-titlehash:ae6a979e47d97ef304948d825f509643d332a44d14b8fe66b26de1c8f89c0880
-published_url:https://dw.com/ru/минцифры-и-роскомнадзор-просят-разблокировать-roblox-в-россии/a-77480822?maca=rus-rss-ru-all-1126-rdf
-title:минцифры и роскомнадзор просят разблокировать roblox в россии
-urlhash:49a9b2e4199ce67b3a1e3e23aa128f43583b8178b99a8c17f7036e30f839210b
-titlehash:f5a94a0e29e456c217a8a3669089256c51df6818ce8d5adbcdef03db32fb0e0b
-published_url:http://ru.euronews.com/my-europe/2026/06/09/dejstvujte-bez-promedleniya-bryussel-prizval-albaniyu-ne-idti-na-riskovannyj-proekt
-title:действуйте без промедления брюссель призвал албанию не идти на рискованный проект
-urlhash:7c1f79ecadd34a9e708d1a338d54a9661741bc9fab0e58bf9cdac3d026f6a8bd
-titlehash:e6829988087f73f029f8bb14f09a1db539f0447216490aeb7052456ffa170b12
-published_url:https://ft.com/content/7462744e-530e-459b-a89f-581a242bc0f9
-title:apollo hunts for japanese life insurer to boost growth
-seen_urlhash:e14e5c5e81e2fc772cae432bc2a198a2927afddb3a3d8ef228171768950c24b0
-seen_titlehash:8166ef2837dba9d2e3f10dd03f9773e7f167e90862e86212427e084e67e2739d
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss
-title:nasa names next astronauts for artemis moon programme
-seen_urlhash:c466e4411e41e708986f60fccca6e0b8e53ae78912dcecc2a0e82c44f2a8682b
-seen_titlehash:453be5d64dbec841477d30df5d26a74dc2e9f9f247ce4431e2645ced280578a5
-seen_reason:processed_not_published
-url:https://bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss
-title:williams rolls back the years on return at queen s
-seen_urlhash:dfbdc5c1822128e505cd45cb5cea28237e4d4d61b260e1af7b67fbe65af6152b
-seen_titlehash:b31b2ad920e11d4a8de97772a2b0e5a9d2edc0a405c0891e276c6d232cea3598
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/09/world/ai-politics-iran-world-cup.html
-title:a i politics
-seen_urlhash:8b3a57c8949e1941b389a7a1f990cb741a836c4a4ad57690512d7b95965307f7
-seen_titlehash:5da288b765590806aadbdf1007f6f0820552199334af9ccaa356fa7215c9e16f
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/09/world/europe/pope-leo-bad-bunny.html
-title:pope leo meets bad bunny
-seen_urlhash:3fbf9c5712a29cfcbab1e0428b3963d0c64d2abe47a0df8981258464ea2ead4a
-seen_titlehash:7cb41d8790307f2caa44ff40e65a680897b7ec8456446f36eb4e595ed115d410
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb
-title:australia news live australia joins sanctions against extremist settlers in west bank barbecues galore no more
-seen_urlhash:2d0afac7175f53cf46a78e11b786bba13d3b051c3319b53bf636621c2246f7c5
-seen_titlehash:0565505d9f233ac9c31d2c267e7e4e281ba136c6722807922a78935f91c841ae
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss
-title:israeli forces kill nine in tyre after issuing forced displacement orders
-seen_urlhash:cf5bccca2495512df3920a0cf2d4aa42a948f2912215eee69b9c761b4dc1f7b8
-seen_titlehash:867d19d2fd0f7280ffe015a48d2e3f01c58588a7fe78ce566cf098e1c9daf74d
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss
 title:bear captured after days of panic and school closures in japan
 seen_urlhash:90f6ad0b8952a8e20a95ba1e07ce2404c2ec49178997e0bb4433664e5961cabd
 seen_titlehash:9fe256ff5fc1b6a403e43bc3d13044647b37efac1e0ab54dd01f0a34cb92d2c3
@@ -4998,3 +4761,240 @@ seen_titlehash:23e3443ca9a391922dfe730491c0bf9b86ded10975a62e9cf4e4a53b75d85119
 seen_reason:processed_not_published
 url:https://ft.com/content/db44acf8-46d3-4ac6-80f8-ed10676f525c
 title:the palantir controversy is a block on nhs progress
+urlhash:a73da95413c49dd40c96f9e0c0710793d913b65b8067dd37a8e7eb1fb4a76124
+titlehash:33a66d0abcbddfbb5a2e18ce41287ac54770eebb7b53b75c271697b76f4d6f70
+published_url:https://nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html
+title:as speculation swirls about the emerging iran deal here s what we know
+urlhash:71a8bf73c7945875aaba70646ed946b884bc991313fc63c3fb9b57f25bec4119
+titlehash:39c601283b9682c86aa3a2dd28bb6e9621ade2cd431735d34c828d7f057f4ca4
+published_url:https://france24.com/en/tv-shows/the-world-this-week/20260612-iran-ukraine-belfast-albania-s-flamingo-revolution
+title:iran ukraine belfast albania s flamingo revolution
+urlhash:528abe9efb3575faad987d5d84d59bdbc6eb19252873524d74d61b45a06c9ab5
+titlehash:34773c299a7ae30cbbdca5b473a098dcdb2b00d3c17aab61ce3685a4baec6d47
+published_url:https://nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html
+title:israel is building army base in jenin flouting 1990s pact with palestinians
+urlhash:33a6b0a764c9e1576d59249bb11114f0aad5948b002f5e5add7dfdb4fb7a22e8
+titlehash:dda04c586c71531730097b9da3f5acb46c42edb4fdd8780aa74c5f8b55387175
+published_url:https://theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks
+title:canada police investigate whether toronto police death linked to global terror attacks
+urlhash:5234bf60cf56145c0abb5a3f729c292ea552477db7320ba9dedd105aeb7fc831
+titlehash:77ec4abf36a9b6ef5b30e1b7c3fdf99b4136a3a964907be7a7c86b920889453e
+published_url:https://aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss
+title:putin admits ukraine attacks hitting russian economy society
+urlhash:aa04c63fdd97a4cf6ea52cb563ac6059d15fee1954af4503c28238f45dfe2c15
+titlehash:48373f736e00a696658884d7119da115cb9b53c0eee30916ab134402e84522de
+published_url:https://aljazeera.com/video/newsfeed/2026/6/12/can-pakistan-push-the-us-iran-deal-over-the-finish-line?traffic_source=rss
+title:can pakistan push the us iran deal over the finish line
+urlhash:959aeaf7dfbaea4cbec3a03cbf41fbde3e507acc220db3a66ec36e1a64e698f7
+titlehash:b5da9b30a552dbb076400af301b122aa66f0cdf021d7ba78b0de3e954a3d76f0
+published_url:https://dw.com/ru/почему-болгария-прекращает-поставки-оружия-в-украину/a-77529838?maca=rus-rss-ru-all-1126-rdf
+title:почему болгария прекращает поставки оружия в украину
+urlhash:34588b6eabad325a882db7de2c8693a2ec7fee4280c16cd69437e58c3944ac99
+titlehash:0ac97752e6cfaf5e54815e91c098e434f034f51775b99a8d4cad03ea4e4b2717
+published_url:http://ru.euronews.com/my-europe/2026/06/12/eu-common-position
+title:страны ес договорились разблокировать переговоры о вступлении украины и молдавии
+urlhash:4582589ffa351d3b3e24bd3391bf2a599ca600b8c909ad8d04915f87b70834c6
+titlehash:5760f5352be7b7c55d67e4ea660a39dd1aca78c29199a1b32a255a21a6b8b179
+published_url:https://ft.com/content/c5af5ea9-b40f-4d4d-b428-4693a8eb1906
+title:the strategic dilemmas behind britain s defence spending mess
+urlhash:1d5f6a516b24fc30747e65c3d0c48264049492524335960c251c3edfe449ec01
+titlehash:10d2215c1638c528301574108c917339310966eb009692ed4563e1685e1a4eea
+published_url:https://economist.com/international/2026/05/07/americas-submarine-dominance-is-under-threat
+title:america s submarine dominance is under threat
+urlhash:9d507cbd4a285eceae1785947cd3822c3494439018a7dfd7340b5c19c9d6c900
+titlehash:4bb383f24a2a7f092f835e9f64f610ea5126cfd8b28d8d7a1560354c5dccf0a5
+published_url:https://economist.com/international/2026/04/23/there-is-no-better-spur-to-military-innovation-than-war
+title:there is no better spur to military innovation than war
+urlhash:e6261daba0e5ba37ac8915c1d91cdf3cd25caa0eb864877025ca1e8f498081f4
+titlehash:2538ecccdd4e71f5bd533ee8aed4f80f14a9cabb9ec281922cfe7b70ebd52518
+published_url:https://economist.com/international/2026/04/16/millions-will-go-hungry-if-the-strait-of-hormuz-stays-closed
+title:millions will go hungry if the strait of hormuz stays closed
+urlhash:69f64a55e37df526c04171efe01edc21b844259c97f01e66e67f3baca9048bbf
+titlehash:6e9ae79f6a4b79420a5b9f8148ef7ac33d100907442a54ad84f18bccf66abe76
+published_url:https://nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html
+title:scientists race to test treatments as ebola outbreak widens
+urlhash:99aef493e9971b77fc746c6b159af85907bf736fb77dacc62c2aa6a2c7dd475e
+titlehash:be180252fdbcb707c99d8e05cd4fce092efd03b5c10dd2cda14011d63e4e2085
+published_url:https://aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss
+title:how the gulf will manage collective security after the iran war ends
+urlhash:0eeb84080ec3370d70125aec8ab8f7b854661c8928e15ba3bdaf209d63c2e1e5
+titlehash:90279776b068da6508772db2ff9af14c3ecc58d184419f3d439dfb68d16e6709
+published_url:https://france24.com/en/france/20260612-combating-foreign-digital-interference-france-among-top-three-europe-cybersecurity-elections
+title:combating foreign digital interference france is among the top three in europe
+urlhash:e6f2d379d2cf653ef2617c6408998e70d8b829bdec67342d13c3cee734ca472f
+titlehash:66ba538a5a00e9c5bd483891c531e541f873421a6d5d087ee83e711b1c4789d6
+published_url:https://dw.com/ru/новая-мегапартия-в-казахстане-поменялась-главная-политическая-сила/a-77530408?maca=rus-rss-ru-all-1126-rdf
+title:новая мегапартия в казахстане поменялась главная политическая сила
+urlhash:d00ae056882413ffc7e3c236cdc011291c76b09fdba49eee2cd9b61d07ef74e0
+titlehash:8f1e10faa76676a28fa17d43d099ed147fb4d845979151ff07c1b3fd03b5b52e
+published_url:https://dw.com/ru/в-аэропортах-рф-вводят-ограничения-на-авиационное-топливо/a-77529849?maca=rus-rss-ru-all-1126-rdf
+title:в аэропортах рф вводят ограничения на авиационное топливо
+urlhash:cad4dfe07e1b4d44068814dc61233b14b4009c976735c8e3088f1b4c226d1ff7
+titlehash:da967c8eb1048ef0ba932f9722d19c4193c732fdf387483f6a18f7af1998be0e
+published_url:http://ru.euronews.com/2026/06/12/ssha-i-iran-sporyat-o-detalyah-gotovyashejsya-sdelki
+title:мир никогда не был так близко сша и иран спорят о деталях готовящейся сделки
+seen_urlhash:8f5d8f91c3c4456756831d2e47b0b482110424bc08fc833db3696a914fd3f3b6
+seen_titlehash:b6e6d0eb804594218863dd61bf40e4d567189728a458113062fbece00e938ac6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/12/world/europe/pope-leo-spain-secular-catholic.html
+title:spain s church hopes pope trip will stem secular tide
+seen_urlhash:88a9060057974d05a9ecaec5d50eaacb13d576bf2e7cf4906f3f1ea6cba8e20b
+seen_titlehash:df436e7ad26fc2de79bf219c8a4afeb090ea5e6024b389efba8fabfad1a349cc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss
+title:uk court jails palestinian action activists on terrorism charges
+seen_urlhash:deeb6692b0f0b43681a27778969afa941856b4ff7c619500efbef50153e61090
+seen_titlehash:a044e357e3e67f9a74180a92ee94617c8eb82ace5428a004f6180ba8db1f2a68
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison?traffic_source=rss
+title:sam bankman fried loses appeal to overturn fraud convictions and prison
+seen_urlhash:4f8d89372b2078841828992767f9ab93cc96a243b9ad4fd9b35a77d046e2bba3
+seen_titlehash:b8ad712e4fadf843d58d348418234d43e5b63ce657271189870afb4ebdb5e64d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/us-judge-refuses-to-block-ufc-fight-at-white-house-event?traffic_source=rss
+title:us judge refuses to block trump s white house ufc fight
+seen_urlhash:86e0b45e5e0ad73e13e2456ead95dfb1caa42f04087f561d37c698bda90aa8e7
+seen_titlehash:c3c7bdd839568f968ece7d8699e2363edaee8b1cc23cefa20b57ce554d2bfea2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss
+title:venezuela hits out at trinidad and tobago in oil spill spat
+seen_urlhash:b35f3736ebb97ef8c8459d201c4043234fa47a7762e90fa729d95290de7ebd46
+seen_titlehash:06d7c0e2afad76a09c626dd05678878a6c644d7b2d08bce386cf77a22b2be564
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/12/indias-west-bengal-pushes-out-muslim-bangladeshis?traffic_source=rss
+title:india s west bengal pushes out muslim bangladeshis
+seen_urlhash:7008d026f0e80e59c0f583c730cb3323945d32d9ae413836b8b20b0c8c7a94f1
+seen_titlehash:8effa4923fa7295a79d4f8e9c4cf173b9f6afa6983b2192f7c99ce3c741ea5f3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss
+title:un adopts treaty setting standards for gig economy workers
+seen_urlhash:0a700af72f7a64e75531b8768c302616e3aaadd33564e0530f70257f713f90ed
+seen_titlehash:050ed9e6ce328b8a0c4841c4e7791e4eb62c6d494c0e97fa1100ab447b8aef2a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss
+title:at least one killed and nine hospitalised in midland texas shooting
+seen_urlhash:c11cb02be82f637177b97ba8b84cf62674800a691ffebc873a350fbc3b179940
+seen_titlehash:c5e5d21ace1fcaa93253e26f808400a68f0d4f845ac0ea3a65b012ec8d74151b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/12/musk-becomes-first-trillionaire-as-spacex-debuts-on-nasdaq?traffic_source=rss
+title:musk becomes first trillionaire as spacex debuts on nasdaq
+seen_urlhash:e9c6eb0c1d281223f67c31b66116d39fef00488a7a0e8b932a63789c81607a86
+seen_titlehash:c51391b5cc8edaaf3a6e4ab008d782f6076e7f2a6091144d50051f56419a9800
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/12/amnesty-calls-for-israel-boycott-over-aggression-in-the-occupied-west-bank?traffic_source=rss
+title:amnesty calls for israel boycott over aggression in the occupied west bank
+seen_urlhash:f3793b98e8b143dfb753fba074966f58fc3f3a0a5bfffe6f72c4ad5303e9afc9
+seen_titlehash:4eb3451857f44531625edc1ce82469cf27689f4a358d1908c03c4ae075fd8077
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/12/fire-rips-through-the-worlds-biggest-refugee-camp-in-bangladesh?traffic_source=rss
+title:fire rips through the world s biggest refugee camp in bangladesh
+seen_urlhash:f1a4064be6ba72f0f23d5bf711fb9e47f405f6824d730301c39c111eddb5492d
+seen_titlehash:10d6aa45a800bfbafc70447df53d1c8e50d5da7f6742f719022ecf438dcfc5fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/12/iran-no-timeline-yet-for-signing-us-deal?traffic_source=rss
+title:iran no timeline yet for signing us deal
+seen_urlhash:f112d6db1fd6175e9dc48b575981d9df656e6d76f950933ca510e15041870f86
+seen_titlehash:d45b72610e998df613467ebca21b31d4fce76f6ee70b68fb5f03088880c1dfca
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss
+title:us to cut air and naval assets deployed for nato operations in europe
+seen_urlhash:1498b5285d005a01dea480a0ee2058512cb54b2f2742e48693dc90147697b5a7
+seen_titlehash:1400aa8ff95834a1d780f6bc0f989c426b77598a10557d755514641b43107166
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260612-former-tory-mp-and-military-officer-on-keir-starmer-s-rope-a-dope-week
+title:former tory mp and military officer on keir starmer s rope a dope week
+seen_urlhash:6d0a4e4d068d11fa7eb43e69b468709a3064ea376427ca3a653e8d0e5bca44ff
+seen_titlehash:4bb4b70bca5151957ce619449fb11e9a2961b4af089f480cb641e317aad2fc87
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260612-kosovo-s-groundhog-day-politics
+title:kosovo s groundhog day politics
+seen_urlhash:a8c1714a396c996d87d6e91b935eb691a218a17b0dcbce1b7073b3ea97ce288b
+seen_titlehash:3dd1a05591a4962c616f73a0867b07258b14414d5b8a820867c32b714d355f2b
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/paris-des-arts/20260612-paris-des-arts-special-edition-in-prague
+title:paris des arts special edition in prague
+seen_urlhash:21e6b85ce4e90c5c2a1d4f03c1c8bca16ecc3d2d2756621540aefbeb6b583338
+seen_titlehash:48f766441d22020dea5a75c3a3ebea7ed5dfff6bde8410fee543988085abf2a1
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-в-мюнхене-google-несет-ответственность-за-обзоры-от-ии/a-77530643?maca=rus-rss-ru-all-1126-rdf
+title:суд в мюнхене google несет ответственность за обзоры от ии
+seen_urlhash:04cc7afc5f71334db20cba5af105bd214486f57e5723b3be8a2785d8fef26e1f
+seen_titlehash:2e44fdf42023ad65c6d2d4371020036b5e28bbac2a1b48a2a3b34d9d91f77c34
+seen_reason:processed_not_published
+url:https://dw.com/ru/пашинян-хочет-изменить-конституцию-армении-что-ему-мешает/a-77530430?maca=rus-rss-ru-all-1126-rdf
+title:пашинян хочет изменить конституцию армении что ему мешает
+seen_urlhash:f8ffd649b0f0a414c89958ac1829d6fdd954483822f1ee538dfb4b331cfa85ec
+seen_titlehash:1135a765361bc674abe74c92cdb1fd415dcd5e6c39416257b4282c748daece1e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/12/belgian-driver-murder-conviction
+title:бельгия наехавшего на участников карнавала водителя признали виновным в убийстве
+seen_urlhash:3f322a2c7dd6b510197bbce20704164a03f62abcb57a8071cb4f3cec3325c145
+seen_titlehash:03a1912dde4f8bab87ee8dffa746f9d4a20752839396bd7d44e7c68f016efa77
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/12/zelenskiy-isklyuchil-russkiy-iz-spiska-yazykov-podlezhaschih-zaschite-kak-yazyki-menshinstv
+title:зеленский исключил русский из списка языков подлежащих защите как языки меньшинств
+seen_urlhash:08a0142a5224171f517a332db19414e4c537e79b35e653b67c1f4d6ed0d3ac25
+seen_titlehash:58343cf94471acc529bcc42f614ea26f6c6dc6bca0f4e3e1e0f13859a09e2719
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/12/ostorozhno-novosti-nad-peterburgom-zapretili-letat-progulochnym-vertoletam-iz-za-takoy-obstanovki-v-strane
+title:осторожно новости над петербургом запретили летать прогулочным вертолетам из за такой обстановки в стране
+seen_urlhash:8dc45aebe4c22efb6b8e56d0ce5df111283a7b69384d6e2deef3a2c6c5f7269b
+seen_titlehash:494ffe2e361fad14b55b1da1a475cc3515702b717f176befa01600c0b73dbdd7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/12/v-dome-byvshego-ministra-gosbezopasnosti-dnr-andreya-pinchuka-proizoshel-vzryv-posle-togo-kak-kurier-prines-emu-posylku
+title:в доме бывшего министра госбезопасности днр андрея пинчука произошел взрыв после того как курьер принес ему посылку
+seen_urlhash:affc75f4b4d0b30bbd18ee6d5cc066a086eefae0d0590229a534e92752276347
+seen_titlehash:743a25db383730c64385a55ba4595cec71bacf0ce5cf1b80bb677a69802cb0ad
+seen_reason:processed_not_published
+url:https://ft.com/content/71372647-bf7f-448a-bb4c-a2d278020e33
+title:spacex s ipo is a display of musk s dominance
+seen_urlhash:6681eef93832bc1b39ad027d6fb981965f0f338d5d6f39a909e3da0a48b3a830
+seen_titlehash:694de82a5decc64945fc6bf92652b46b3278dcfc12a50b547670b3486e5c1b21
+seen_reason:processed_not_published
+url:https://ft.com/content/1e26e057-f4cc-4902-aabd-2f0b94bae1f6
+title:warsh and learn
+seen_urlhash:df28b788be762436faed5674084c0886c45372567039fe0717ffa4d59bf0a88b
+seen_titlehash:bf0ed1e1d194920f6bbe1e18293ef819f7571bfd66b7c4e0f15864727e2f5ed8
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/06/09/why-strongmen-are-wrong-to-loathe-europe
+title:why strongmen are wrong to loathe europe
+seen_urlhash:bef9ba63947cc6f92ebadbb317c7a89ae9b4909157b021df4a13d7abf2653382
+seen_titlehash:74922c1eccfbb309035858c30c3afde98566e02e4340ff2e31c032b79faa676a
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/05/19/israel-the-lonely
+title:israel the lonely
+seen_urlhash:dd5b275993ce65d4c55e445c485816772c575ebb8627ad681faff0e12d7af07c
+seen_titlehash:75496a959ffddcf7dd3c0f390891050528e573d7e3894b6447f329ef913dbcdf
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula
+title:america must hope donald trump is not a new caligula
+seen_urlhash:b9087a434b0ec33679508a680cf04ef41aa39bf0b9f38c86be697d2d7107df47
+seen_titlehash:efa0394f0d828f064afb3c3439484bb61f5e1b3c808526216ad163db75ad7c02
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/30/the-global-scramble-for-ports
+title:the global scramble for ports
+seen_urlhash:f0090af1f8aa53a3432514993b6606528889c71a91d5d6bbd80cce295858cfaa
+seen_titlehash:386cf2a563789063d69d195b5553798e6ec6fc0854bfda56224857dd84ee7d4a
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history
+title:the war room newsletter the best generals in history
+seen_urlhash:652f1ee2cef6cc00fc84fe41f7f205cd093d832c5a1f434fdd888668e6b2a2a6
+seen_titlehash:f36eea82a4ff0d2cc20946fb880e7e4e3366e446c88c381f63ff24b51ff026fc
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/23/europes-defence-startups-face-even-bigger-hurdles-than-americas
+title:europe s defence startups face even bigger hurdles than america s
+seen_urlhash:55749b0d007a8ecf791bc63d52dee71f0096cfdb07fdd0e0c7b54a7debd62018
+seen_titlehash:9c371ecd47c1b7b6a8e3278003c36d8c0c9f9126bf0eecdf7c3c10a385c5171c
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/21/a-dangerous-blind-spot-in-donald-trumps-iran-war-strategy
+title:a dangerous blind spot in donald trump s iran war strategy
+seen_urlhash:1cb409d8ffd0d1c34394caf63d69436ce204d17af32efe39befe4f36e3240206
+seen_titlehash:f7811d6bb4fbae3c8701088cf069466dd8274bb26d7b7ee8efc3d09e421ba721
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war
+title:anduril palantir and spacex are changing how america wages war
+seen_urlhash:81189472a623be3204bb2fcece714d038e900cb5e9473a966709204db3ca2bd1
+seen_titlehash:8fd1651bf72ba133e7c5d7aedb412a02a8482fcaa7e7b9ef0742ba6d27d352c6
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/04/16/the-game-theory-behind-violating-ceasefires
+title:the game theory behind violating ceasefires
