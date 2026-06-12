@@ -1,51 +1,3 @@
-seen_titlehash:6861242755c0e31bc7cf3598784b3f83cbd362f1cb4649e1418aba9abacb99c5
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil
-title:pope warns of growing mental health crisis domestic violence at barcelona vigil
-seen_urlhash:c00097bfb06fb2d0086662e9ba91a6da382c14ca6eb1dfc6206319da2b0e5af0
-seen_titlehash:7d3af41495aba2139124289cd07e158ccb79916ee44cf25e9a5337f009f5487b
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/truth-or-fake/20260609-did-emmanuel-macron-ban-the-russian-flag-from-the-french-open-no
-title:did emmanuel macron ban the russian flag from the french open no
-seen_urlhash:ddb208c08252e08472bad0290a1371c084a88f9fc1326c4503ce0b0d2be90697
-seen_titlehash:6de41f63dce220b62edbef0df3a12f3aee8a8b3c2feaa9e5cb7edc99e9a8cdf3
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/business/20260609-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-assistants
-title:eu orders meta to reopen whatsapp to rival ai assistants
-urlhash:20c55bbf3e433dc58424d8d2be6db2933017d61434a9e5b48b2683b298274c5a
-titlehash:ec6717d922a92d01440de8a64d4000b975c1d3db88449d4ebd4c9c27a39035fa
-published_url:https://nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html
-title:trump s sharp turn on china embracing it as a peer power
-urlhash:3f73f42045621658a1865a5ea922877be4a90c6ec260729518a83ffe48530eeb
-titlehash:76acfe9d8fb26d3d381de55060a16a8ad8a0a77a4f118bed02c85856a87e5078
-published_url:https://aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss
-title:iran war live tehran says us fleet targeted in bahrain after us strikes
-urlhash:6455784eda6dd38321cf1f8cbc6996ea6d0dbc803d3605968aecb40d598c1c93
-titlehash:5f887b32fc4ebfed01d218efea10f610180ad6bd7a21f6a27218d6a055c61033
-published_url:https://aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss
-title:us military launches self defence strikes targeting iran
-urlhash:49e8aafc118a400a9cf71ea1322fe031dc2bb0ce89919ec4f06a01a40c3a9f9b
-titlehash:1e87797e3d874b391b72d960624d78404fbece606beade473e921664ee4d4560
-published_url:https://dw.com/ru/сша-возобновили-удары-по-ирану-в-ответ-на-сбитый-вертолет-apache/a-77482043?maca=rus-rss-ru-all-1126-rdf
-title:сша возобновили удары по ирану в ответ на сбитый вертолет apache
-urlhash:07b898e718dfba613ab9e7b2979a12aa04dc425b21d820a23afbf6f0e62893f2
-titlehash:abcc4841019be612ab92c1de6d1db75c6ec6a58eeb23b6b49c69d8f46b062c87
-published_url:https://bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss
-title:world s largest chipmaker does not rule out price rises as costs increase
-urlhash:887f2f64d4cc2dd256e35e98044a59ac54821ab3c24257f7092be024bcb74e2f
-titlehash:a5de89b7b500597fd8e1734bb7fc340c83230c5c1c63528f86c3a1206f96f738
-published_url:https://france24.com/en/americas/20260610-us-congress-approves-70-billion-trump-immigration-crackdown
-title:us congress approves 70 billion bill to fund trump s immigration crackdown
-urlhash:438163973cd5c7d5fd61e03ff685699f83c4fc104cad06c686a9ab897c8f2680
-titlehash:b2b4ed40deed8b10a9351a8614f083af4bc64fea4555a4c55e5c5e8881a858b9
-published_url:https://dw.com/ru/германия-выделит-еще-300-млн-евро-на-инициативу-чехии-по-поставке-боеприпасов-украине/a-77482225?maca=rus-rss-ru-all-1126-rdf
-title:германия выделит еще 300 млн евро на инициативу чехии по поставке боеприпасов украине
-urlhash:75bae21a19dc77d21f33db07847048d99bb52ce1163671f24a4d453bd55812c3
-titlehash:8945b4ee76811e0ac3a79663de26192d162d077c23215394c910bf9fd04aca7c
-published_url:https://aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss
-title:protesters torch cars buildings in belfast after knife attack
-urlhash:70d785b11792c359dc3afb93cb6e6d4ab48305e31c23e3fd4a7b50f0ed4ac2f2
-titlehash:ae24230130a7f61ba99faf201774e2739a831e2ccf695b596d957ab76e41e952
 published_url:https://ft.com/content/4b62b71c-949a-4600-b03c-813636cf9071
 title:northern ireland battles to contain disorder after belfast knife attack
 seen_urlhash:14f27065758a50335998fac4d18997631669a3d9f8f714b61373cd0004bc57a1
@@ -4998,3 +4950,51 @@ seen_titlehash:80c3b5e3ee3db63f5342074d7c048cf15789fbb125acb10785e32f8c7ffb801a
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba
 title:donald trump could be the man to save cuba
+urlhash:8280c7a1df8404120d14bb27cea3c921e27aa407c2a36595c50340cc247f01b5
+titlehash:b91dede21cbaa2151b73e8037202ae40865229a2ed4a04c74ae1492f3c8c9b07
+published_url:https://france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days
+title:middle east live iran says us war deal could be signed remotely in coming days
+urlhash:5b3810e3e4293cbfddbd10e6cce108952231db68861ea735048a1c1e790c82da
+titlehash:43942510dec0ec1d4884bba4b64b6ea4f52610ec89b51d1ff29e219816cd3921
+published_url:https://bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss
+title:watch three things to know about spacex s stock market debut
+urlhash:41aa13a9371d34c1d391f0253e67d5a95db22128f2da008ce0d5ca35016e84c5
+titlehash:d0d7b67a36d8335e8dad57c40f188905dd0b90dd461c00cb3e5e83fe7dcb3fb7
+published_url:https://nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html
+title:u s says iran cease fire deal very close
+urlhash:789ce1892fa906a387b3ccef7d86e5123a023362e1936ca1ac01df74a14fe89c
+titlehash:b171e4709f152fa45d04d623be148d38eedfad790d4f208ac7277079a0d50dbb
+published_url:https://dw.com/ru/пакистан-текст-мирного-соглашения-между-сша-и-ираном-утвержден/a-77531935?maca=rus-rss-ru-all-1126-rdf
+title:пакистан текст мирного соглашения между сша и ираном утвержден
+urlhash:46ddce143274755ef22bc21a0f3e325ac283abc060a5f5253653fa2c79d7b9ff
+titlehash:da40fb36f7f4d79c119fe10e3a46e272418ee7fc87be9ab7312235743c468f26
+published_url:https://nytimes.com/2026/06/12/world/asia/taliban-protests-afghanistan.html
+title:afghans hold rare public protests against taliban rules
+urlhash:e88229e43d523b038544ba62c643f7ac2a68a6000a4d83d0182ee463b09ad1f4
+titlehash:64d9aebcb59080925e73471b06f5a7078933aab7abdc806b4cbc255574bd23a4
+published_url:https://aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use?traffic_source=rss
+title:mother sues openai in us after daughter s death linked to chatgpt use
+urlhash:1dfc0a6d2a98a6dd8c44e1c2a617c0cc0b0ab876a1414eee74d83f6bd3971aae
+titlehash:07e20923722640d554a45b2d77c162adde9fa2407014b25ab2446df8e73a7c78
+published_url:http://ru.euronews.com/my-europe/2026/06/12/power-in-exile-will-russias-yashin-becom
+title:после навального сможет ли яшин объединить российскую оппозицию
+seen_urlhash:9647b8486b61b31f0bb9913fe76a7ceaa702a4a9cf0eda5fd3df918982c22b58
+seen_titlehash:e645c02519623a0fd560ace87c032fb6b21f728b52aaa704e684043a95d6e91b
+seen_reason:processed_not_published
+url:https://bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss
+title:fans on concourses instead of in seats claims fifa
+seen_urlhash:e987a079928546cbc201a90fcc060ea8e314a36353b4ebbfb1274f979fd7a25b
+seen_titlehash:0a7fc80c0a0d84fbad0cf21305a4754ed3f1d70f4891b07f8c8c0b7f2bf8da76
+seen_reason:processed_not_published
+url:https://bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss
+title:i was employee number one spacex co founder reacts to firm s market debut
+seen_urlhash:2a3fbe6ea17920a1b027a9ca0210f5cfc17268d7ef637fed495395823991f09e
+seen_titlehash:2eb8caef72aecfc1032e4fb1f8dcd39e83b91944014375ebd74ea03dca29b5f5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss
+title:judge keeps order in place to remove trump s name from kennedy center
+seen_urlhash:a2ba959c848c39d8f083c5c88aea5868008f2a6f90488954883a04d37650b948
+seen_titlehash:4c4ca45059cf69ad102e3a0f3a2c8236a6e26dadb4c2c8f4ad3e774fff0047cc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/13/david-beckham-receives-star-on-the-hollywood-walk-of-fame
+title:дэвид бекхэм получил звезду на аллее славы в голливуде
