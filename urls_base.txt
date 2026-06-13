@@ -1,53 +1,3 @@
-published_url:https://ft.com/content/4b62b71c-949a-4600-b03c-813636cf9071
-title:northern ireland battles to contain disorder after belfast knife attack
-seen_urlhash:14f27065758a50335998fac4d18997631669a3d9f8f714b61373cd0004bc57a1
-seen_titlehash:8e210eecd3e62ef77a03fefe021e4c8a5644b3b61ff07adc06ef81c7098c540a
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/10/wa-prisons-cruel-inhuman-degrading-conditions-western-australia
-title:prisoners in western australia are living in cruel inhuman or degrading conditions report warns
-seen_urlhash:060e9bf6bf7247298cfc2fe7a98cc2f70250a5a41b3be3a57762ac5b4b8ec67c
-seen_titlehash:610bbabbc4c99e7c88c7812c3015775e788732775d083ff50492bf84a20ecba7
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss
-title:belfast plunged into chaos as vehicles set ablaze following stabbing attack
-seen_urlhash:09703b8385505e49e7370e90532c6c131406b2ae386f22fe85a02dec9a0ddb88
-seen_titlehash:5304a505c5b7f9ff9de07cd2f62d68d1d7cf329d32c23ab480f7e6186406ffe3
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors?traffic_source=rss
-title:south korea s booming stock market mints generation of novice investors
-seen_urlhash:369a6e9e5d66376f2f8e933f76415c0bb7bd40e749459e6c7c40eac5a4a083bf
-seen_titlehash:be936d46041d16bbe95330fa2c1c81904a78a17d5c7bbd78f5634784127e43de
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss
-title:brazil intercepts 108 cuban immigrants amid growing asylum applications
-seen_urlhash:431f4879371aab3ed4b75b5b42c9d1df18758be1bc3edd20b308c47ba84befca
-seen_titlehash:fbb4876f3bec98f07014ca202d11eb713004eb465a86ee3430c6a3eb176e9397
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss
-title:afghan authorities open fire on protesters over women s dress code
-seen_urlhash:71418d2b88ce6d2a567d0e7113b8d48f43e917c884dfd7220b0379e5d69b1165
-seen_titlehash:acbf4f0d2b26deaa58847beb308f6262f3229e694180c5f33d19ee1d94e35a67
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss
-title:us judge halts execution by nitrogen gas ruling it unconstitutional
-seen_urlhash:51a07120ecd1e6a15199fad333be2490cd225cb989ec043a69d740dd48f3f229
-seen_titlehash:60beb4917c95668d919ee79246b119d41556223a725c311559515cd3c39a53e9
-seen_reason:processed_not_published
-url:https://news.sky.com/story/inside-putins-russia-is-the-kremlin-getting-nervous-13552513
-title:inside putin s russia is the kremlin getting nervous
-seen_urlhash:bec2eef9a38a151d82d8984477b3ded3da54b2fa3d30dfcec79e2d014b2abea2
-seen_titlehash:693713ef5f4c0a5566b077dfe42f62d1877cf24b10e45751ec1402fa8d2ae5c9
-seen_reason:processed_not_published
-url:https://ft.com/content/84411081-50f6-4270-bb39-cb0e85941213
-title:graham platner wins maine democratic primary for us senate seat
-seen_urlhash:c479a27cdb39fc42295b0297317e2c05b684b0a418ab64842b67f2d38e81eabf
-seen_titlehash:42a4af572f0e0d3770465a2d8f121e4326582dbdb605e56f07e6b3759d4d6091
-seen_reason:processed_not_published
-url:https://ft.com/content/dd6f47d6-e109-408a-b4ab-e9a92a42e3ce
-title:steve hilton advances to general election for california governor
-seen_urlhash:2c32be68cbff671a00fc91e31db7d645e430ee534b3eb723a13078dc20c58ba5
-seen_titlehash:719043c98b982d18375206abccb62ff74b60c9afa86b023cae8c2773db692a00
-seen_reason:processed_not_published
 url:https://ft.com/content/6e66b4c4-d9f3-468c-8557-a5303f6da49c
 title:magistrate shortage threatens english court reforms mps warn
 urlhash:33340526a8a26c813091c209bfa01c1ce32b1ca40904113c53638a246bf0d68f
@@ -4998,3 +4948,53 @@ seen_titlehash:4c4ca45059cf69ad102e3a0f3a2c8236a6e26dadb4c2c8f4ad3e774fff0047cc
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/06/13/david-beckham-receives-star-on-the-hollywood-walk-of-fame
 title:дэвид бекхэм получил звезду на аллее славы в голливуде
+urlhash:da221611744a86d27bc8b01269017a23b57620d86ccb63b0ec54378dd6e69d8f
+titlehash:4b49a6dc4d546b2ddd6ffa6a98e424c21e7f21a05f5eaa01be674a9be1a2266c
+published_url:https://aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss
+title:iran war live us tehran signal peace deal within reach but not signed yet
+urlhash:43942ab8ce3786a3a9cc1a4134955625bdbf729fd63357539900e27c0dcece4d
+titlehash:6850aa99401279137421299b3bb4ead2ecbc474b89cc1edad84ef9d2c60edd50
+published_url:https://theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed
+title:trump says leader of venezuelan tren de aragua gang killed in us strike
+urlhash:706f2030e84ee94a69ef978ec940bf0365f8921b1b774274ced6d17a7da09a39
+titlehash:70771ea11bb32e09f28b5a4bbe99fefda27be631bf4968a7ba887c9e5bbf35d4
+published_url:https://dw.com/ru/nyt-сша-сократят-число-поставляемых-нато-боевых-самолетов-и-кораблей/a-77532629?maca=rus-rss-ru-all-1126-rdf
+title:nyt сша сократят число поставляемых нато боевых самолетов и кораблей
+urlhash:89377a74a1935d064164b8c36747c27fcfa1cd699589dfb663942eb46d347b00
+titlehash:7bbc7e43be553f73b39bf8964a0786fed02fdc8513ba00de17b0a92da1f60e43
+published_url:https://theguardian.com/environment/2026/jun/13/australia-fossil-fuel-exports-renewables-cop-chris-bowen
+title:australia can switch from fossil fuel exports to renewables says next cop president
+urlhash:83b853f1d7020ff321a8938d9b5b5a0da0b734f61b78bc14c859492a65c41b33
+titlehash:7192b7caccfb2aca5a8e150d73a1ad8cbdacbb02898860ee39364dbadbba4716
+published_url:https://france24.com/en/middle-east/20260612-israeli-and-palestinian-groups-urge-world-not-to-abandon-two-state-solution
+title:israeli and palestinian groups urge world not to abandon two state solution
+seen_urlhash:5ab2de05534f61d4f1f8a98a3fadd54af2f90162641210f3d204366ac4f08b67
+seen_titlehash:08b607bfccd5ac554778488dc80dd397a1cbdcfc69b65cfb2277e508a72e2ee8
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach
+title:woman in critical condition after shark attack at coogee beach
+seen_urlhash:9a25f922516822a4301f432e71753e7f5ebc210ca49e822890ea8045b739543d
+seen_titlehash:ea9dfdef3409ce4ccfb20b71e636aa2649da48a1d9ea31bd4ca06ce48fae2394
+seen_reason:processed_not_published
+url:https://news.sky.com/story/trump-says-us-strike-has-killed-leader-of-venezuelan-gang-13553575
+title:trump says us strike has killed leader of venezuelan gang
+seen_urlhash:88808298804a61ed284d1bdd131eaa67c3404200cbcb1597a627e0ab4ab11f9f
+seen_titlehash:4d06d9ad25b8c7ba2f710d4aed1ac4851ca797258a68fecf7c1117c43320de32
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-армении-пересчитали-голоса-на-около-трети-избирательных-участков/a-77532160?maca=rus-rss-ru-all-1126-rdf
+title:в армении пересчитали голоса на около трети избирательных участков
+seen_urlhash:abf3dd6e7f20f739fd76c9f3325d49ccf6ca5b3f9afcae29f4d6bfc6ab40322d
+seen_titlehash:c483b6dbeacd53eb4216b7b5e0e40e72b8c5cddd30a209e09751627320a5724d
+seen_reason:processed_not_published
+url:https://ft.com/content/52cdae7d-5553-4b8b-9fd7-90c167e9c1a4
+title:ai riches turn samsung factory town into luxury hotspot
+seen_urlhash:d6caf09b04f35534b6501a806ac612aa59f2e9e8cec1f203d0bdaf7ef7abc786
+seen_titlehash:573550cede937e1bdb5b6f78c2ab9138fee6823f90a5361290d1707166f2bc23
+seen_reason:processed_not_published
+url:https://ft.com/content/fd52360a-20f7-4000-851f-2d2421e17fb7
+title:paramount s 111bn takeover of warner bros wins us antitrust approval
+seen_urlhash:1e160ebe854a681a34fb18aec3aff19d38db5066cdbd6a2820a890b6368ffd9b
+seen_titlehash:9e091082f0c18aaa354afdfa27b4fa19521761779ca7b2da363a8577ca05c3a5
+seen_reason:processed_not_published
+url:https://ft.com/content/5aa94f69-1a48-43bf-b241-9adc77cbd07d
+title:citigroup ceo jane fraser becomes dame in king s birthday honours list
