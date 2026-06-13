@@ -1,49 +1,3 @@
-url:https://aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss
-title:eight red cards shown to brazil in fiery friendly against us women
-seen_urlhash:303923980c8b3b18312d1e63581ddac44e28cefbed6186ab7e914a9029c28521
-seen_titlehash:a9f68f9772d7abf60a3c88d3ad91128939c04fd26d4fa13fb6c39c0fbd308adf
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss
-title:ukraine made flamingo missile hits target 900 km inside russia
-seen_urlhash:70abfe07944b7f25beccd0665ecc350b21d33855c6794e8874bb03a344e434e2
-seen_titlehash:7a8f9fec699dbd3558d6af07ea125609bde5680134d2071dfb1c491cd5acf14e
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss
-title:pakistan military helicopter crashes in kashmir all on board killed
-seen_urlhash:6eaa8203f23a74443960b66d3cdb3109c35d045f2ea241af73c934c864aa15e3
-seen_titlehash:78b83a10123f3758937b9488cc1a396e632723f24a217773a9ce65e61c9e10fc
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss
-title:kashmiri rights activist wins partial court victory but remains behind bars
-seen_urlhash:acc39d71fa506510b305b38d87f9ca460310ecaa5aa2739465ce75a7236c4455
-seen_titlehash:95d8ca627fb2a6349d66516e153449f51da6b4bff06a47b6d6b3b94afe5dd824
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss
-title:netanyahu caught between the us lebanon war and iran ceasefire
-seen_urlhash:f7f5d0dce903f7c3d7c624c7634de213d260946f9c5aa4b6df0fc776e1d5f304
-seen_titlehash:ccbc7370fac42d0023a537468fa51d2cc586919475a7efdfc324153f9c6f309b
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss
-title:apache down fighting up what the latest us iran attacks mean
-seen_urlhash:b31f0225ac6d998ad4c2fb7697728b434a5b772ac936399e36232d5c4482bffe
-seen_titlehash:370a2a90108d3b4aeffbffa192775a7e91b76d3b34b24596f2a17eed108a6bf5
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss
-title:satellite images show israel s destruction of historical city of tyre
-seen_urlhash:264e437315c876facff9b79f83290934ea6fd657a8d7dd7a814537fe7595b7d6
-seen_titlehash:8f7c16ad90695ab0f4eb94335679dfb66e82a6e0e7b85a06ff4afe346398ff52
-seen_reason:processed_not_published
-url:https://news.sky.com/story/ukrainian-strikes-hit-arms-factory-and-oil-refinery-deep-inside-russia-13552619
-title:ukrainian strikes hit arms factory and oil refinery deep inside russia
-seen_urlhash:82e1a077d2475017ce8db27415e2b7843186fd02085ad75faeb20da7f8914ca8
-seen_titlehash:c3716220ad8c996d8f3de5a6d56b1cd55fe9385e78bd05c5cc12777b9aba723c
-seen_reason:processed_not_published
-url:https://france24.com/en/france/20260610-french-prosecutors-seek-pre-trial-detention-for-pop-star-bruel-over-alleged-sex-abuse
-title:french prosecutors seek charges pre trial detention for pop star bruel over alleged sex abuse
-seen_urlhash:3b4adcd0d89d9b62b6532aab75e4acb0fc0a322a2ae2a2ef4f967500b55318d1
-seen_titlehash:21d93691b403e12221dd7fd5db3e24c60702cb78fd2d840f6bebfd2e274c73bd
-seen_reason:processed_not_published
-url:https://france24.com/en/murder-of-lyhanna-rush-to-blame-french-judiciary-no-one-at-political-level-taking-responsibility
 title:murder of lyhanna rush to blame french judiciary no one at political level taking responsibility
 seen_urlhash:98d4829a8de5801c1645e556c8afe5f01544f3f7e00a4d2a6d8ba3c7ed1ce871
 seen_titlehash:a299b37dfe7e7c472148a1b2427b5ac9485338ace7889cc3057df04a13d0fbb3
@@ -4998,3 +4952,49 @@ seen_titlehash:4f1582df2d9a8a9119a5e79199698538bfba65240bad4fe2cebb9b2d2ed9c586
 seen_reason:processed_not_published
 url:https://france24.com/en/tv-shows/spotlight/20260613-anthropic-why-are-we-being-profiled
 title:anthropic why are we being profiled
+urlhash:63cfa4bd79ad4d13a31cd6cffa833eeacf410d65f1ecf8b2a87f41ec4fc1ee88
+titlehash:e2a56afc89fe4ddccad8365a71dcf06a6350c6c5eddcf8133449d4094ed02cd0
+published_url:https://aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss
+title:israel attacks lebanon as us says iran deal to be signed on sunday
+urlhash:88a17e5234dc53010568f6c0418a46129f1526003027b053d63bc7ad18f7ae7a
+titlehash:9e87c39f5206b47ad89cc033e1d356e6bfd25417a2e6c162cb8d071eadff2450
+published_url:https://france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry
+title:middle east live dozens protest peace deal outside iran foreign ministry
+urlhash:64b9a391567602a669e5555168dab2bc2064235b55fc12ab853929fe3c9c755e
+titlehash:7346852c9f21c31e1261950008bf2d8b93da64bc17728365a9502d831bb8283c
+published_url:https://aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss
+title:thousands rally in rome italy for rival pro and anti migration marches
+urlhash:1b0a23a29a02fade13893ea570fb012908b00d81f95731f4ebf567a90e5cb8dd
+titlehash:33b9d742f4abb407c03d4116640f260f00c2c7596057a5b6f7cb6279e7d3cc4b
+published_url:https://dw.com/ru/немецкого-астронавта-обещают-отправить-на-луну-но-позже/a-77539569?maca=rus-rss-ru-all-1126-rdf
+title:немецкого астронавта обещают отправить на луну но позже
+seen_urlhash:ec65364aac96ff50627852d7c49addfdda400e83546af06e0c6b12ed9d8f8a00
+seen_titlehash:81465d3c77b27d9560de57edd3f06530da74f595ea0fb45e4472378576a67011
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss
+title:ticketmaster says knicks fans won t be locked out of game after last minute panic
+seen_urlhash:73047c05de6334087e5301f949713301e9ad8ea2150cb28af50c487871d2c7c7
+seen_titlehash:1684b1d60e98e367904b10ffbada6a27f48b32899d1d06241cc5e7ff0a840fc2
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss
+title:vincent s parents never say he s good enough so he turned to a middle aged couple online
+seen_urlhash:4b5d962e4a18a428199aaccb7b1ccb970218df6d1e85be8169549c6c3b886f47
+seen_titlehash:a4f3009ed09a489b8d1e94f35e6264bb227573325ea37fba8f0d03c0ec966fd6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/13/world/canada/five-children-killed-crash-ontario-canada.html
+title:5 children are killed after van and s u v collide in rural ontario
+seen_urlhash:23eb37500ed562ef1a9880ecf57a48a540d609f030b4185a070e123dd8c39116
+seen_titlehash:c99d5abb8a00c4460c2bbd3675064791e1e5485a4e08be02384571aa5331bb0e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb
+title:australia news live jonathon duniam to retire from politics father and daughter found dead in sydney river
+seen_urlhash:cb9425fb2233c53ea5c2da23b9bb43a39a49b5fd2cfcdde433d9bbca9c79240e
+seen_titlehash:7e0151e8906bdc736bbc37ba7900ec1c37ff3b975d24c68b99d0ed0e2b4683ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss
+title:thousands mourn thai princess as body taken to lie in state in bangkok
+seen_urlhash:6621e01c60636569981380ac79123df5969c7574343ea02452485585a29f7a15
+seen_titlehash:6d1308716c2a37e190b7faa0bc4fc36e2d7a30026d770de57430cbef01bf7ea3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss
+title:dashcam shows us cop accidentally shooting colleague during horseplay
