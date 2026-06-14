@@ -1,17 +1,3 @@
-title:murder of lyhanna rush to blame french judiciary no one at political level taking responsibility
-seen_urlhash:98d4829a8de5801c1645e556c8afe5f01544f3f7e00a4d2a6d8ba3c7ed1ce871
-seen_titlehash:a299b37dfe7e7c472148a1b2427b5ac9485338ace7889cc3057df04a13d0fbb3
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260610-short-term-rentals-under-fire-as-cape-town-grapples-with-overtourism
-title:short term rentals under fire as cape town grapples with overtourism
-seen_urlhash:5ded62e0da814028922941fc2020b267dbd26bf8d6ab89e8d74b18a972cee5f8
-seen_titlehash:8c8730f5fd91de7e8425c4dd521150e9ece6a564e5c59e813486dcec5a74511f
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260610-anti-immigration-protesters-torch-buildings-and-vehicles-block-roads-over-belfast-stabbing
-title:anti immigration protesters torch buildings and vehicles block roads over belfast stabbing
-seen_urlhash:2bca159b9e7c66ee721f23ab7d321687774d1dc9e4ef73f8b7e2114667c7f2d0
-seen_titlehash:2866cad6915e2c661549881dad04dce23864151d9bb6a888ab54635f877d5df1
-seen_reason:processed_not_published
 url:https://france24.com/en/video/20260610-french-government-seeks-to-defuse-crisis-after-girl-s-killing-exposes-judicial-failings
 title:french government seeks to defuse crisis after girl s killing exposes judicial failings
 seen_urlhash:8743f65e0768fe3787cd2beb6821ab546f36d433d878683ff9f1ffffb2c73198
@@ -4998,3 +4984,17 @@ seen_titlehash:6d1308716c2a37e190b7faa0bc4fc36e2d7a30026d770de57430cbef01bf7ea3
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss
 title:dashcam shows us cop accidentally shooting colleague during horseplay
+urlhash:51a0966d9a136797beeb17fd6b8bc48935e0c2fbfc61484b2ad5a96d5b5c02d8
+titlehash:3e76a0b4eaab0352c333c36e94a3b2856c3bc8f3fd71f07a62deed5cace49b5d
+published_url:https://nytimes.com/2026/06/13/world/americas/top-haitian-security-official-kidnapped.html
+title:top haitian security official kidnapped
+seen_urlhash:6bc56de325b7a74d967e5807c3e0669828ef172b890dbfaa32e61cf638235b41
+seen_titlehash:403585c547d070e65416d8c915de6921d878650dc9075beb90c16b06923ce9d7
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/14/there-was-a-lot-of-blood-in-the-water-paddeboarder-rescues-woman-after-shocking-coogee-shark-attack
+title:there was a lot of blood in the water paddleboarder rescues woman after shocking coogee shark attack
+seen_urlhash:332b4618eb11235b3ee2a6ef438b10833b9d21b7f68bd2032eb3fba08d5964b7
+seen_titlehash:91dbd358ab25164265814f29c3635f273fada43dff7bda91073f1a55bdb27497
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss
+title:brazil and morocco kickoff amid electric atmosphere
