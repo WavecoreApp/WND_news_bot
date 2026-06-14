@@ -1,59 +1,4 @@
 seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/11/anti-immigrant-protesters-clash-with-police-torch-car-at-belfast-rally?traffic_source=rss
-title:anti immigrant protesters clash with police torch car at belfast rally
-seen_urlhash:11407512d1216fdae49121409b9a1024a30378e8d380fd9cd628d18e42754ebc
-seen_titlehash:a17e5281bffd305eb3ea01b991024151afc4450585d6c56b4d4c753b9906ee50
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres?traffic_source=rss
-title:openai says china based actors stoking opposition to ai data centres
-seen_urlhash:0b6346fdbc45a547893228eb490ee54bc343696afc97ce465046844762bbcc40
-seen_titlehash:674229191f71c49239522373255d9fd5474c2b5c34240f8d563c42b52e2333c4
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss
-title:dahiyeh crowds rally in favour of iranian support against israel
-seen_urlhash:c1e2d8df545be0c78aba703c9c429b2d41a390135aebc6b0fe093d86285321f2
-seen_titlehash:dd45f68abebd0cd1430c4eba00a1c4c1d66653d69b50fac223328b0cf477ad88
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/11/police-in-belfast-use-water-cannon-as-anti-immigrant-unrest-continues?traffic_source=rss
-title:police in belfast use water cannon as anti immigrant unrest continues
-seen_urlhash:5b958f48a47bf38d42284a236cbb06dd9783f66ee7f632cd938a958e513960b2
-seen_titlehash:cb987521fbe798c422d32221df82117eff3112664cff20662f7a0a449572e4ad
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/11/nigerian-migrants-flee-south-africa-after-spike-in-xenophobic-protests?traffic_source=rss
-title:nigerian migrants flee south africa after spike in xenophobic protests
-seen_urlhash:07943139327cea9dfadbaf62173230a4484d15247e68f34b4de1b679490b5d97
-seen_titlehash:36a51e30daff0fcb2c17f63072ea06cc0505be2646ef89839f097865fab302dd
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/11/fifa-boss-tells-critics-to-relax-over-somali-referee-deportation?traffic_source=rss
-title:fifa boss tells critics to relax over somali referee deportation
-seen_urlhash:3acb0de0df0117fa99888f97c0062fbedc2a4751ac3e013047cd04aad967cde1
-seen_titlehash:78eb72f75d12cb0065ac1198a377e7e280e627cc22f1df2948a2347a7467e165
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/11/maasai-women-turn-drought-into-income-through-fodder-farming-in-tanzania?traffic_source=rss
-title:maasai women turn drought into income through fodder farming in tanzania
-seen_urlhash:ffd529bf425a42e79e3173f75020034d058ff2529b58e634ab70b01e31c7ff39
-seen_titlehash:63eef89984d62dc58e32616223464f8c0cfbd11639471fd0bb949c1f2bfd6db4
-seen_reason:processed_not_published
-url:https://dw.com/ru/кто-владеет-миллиардами-евро-на-забытых-банковских-счетах-в-фрг/a-77491979?maca=rus-rss-ru-all-1126-rdf
-title:кто владеет миллиардами евро на забытых банковских счетах в фрг
-seen_urlhash:78c7fdac3a168f7295a112ad08b39385c99926defbfea6f281e70a4e991a7e61
-seen_titlehash:d170c73924247e5a82505db8e5855af094d43b6287515c3dbf56b6393e9c24d9
-seen_reason:processed_not_published
-url:https://dw.com/ru/сша-продолжили-удары-по-ирану-тегеран-заявил-о-закрытии-ормузского-пролива/a-77497835?maca=rus-rss-ru-all-1126-rdf
-title:сша продолжили удары по ирану тегеран заявил о закрытии ормузского пролива
-seen_urlhash:38568110a24cfbfaf14f5a0958cc0511828ae33fcb7271f4f879de3bc7e62426
-seen_titlehash:a2fc7b24b9d802e907f99a116786c86758945dde90f9eb0959fb86cb9eb51fd5
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/11/france-adds-157000-hectares-of-protected-forest-as-nature-reserves-face-pressure-elsewhere
-title:франция добавляет 157 тыс га заповедных лесов тогда как в мире заповедникам угрожает давление
-seen_urlhash:12e89e08512d3b973639d8cc2f01c7fb55814fcbc9ff97b1ae8b73f9eebfb01f
-seen_titlehash:ba6661517d8be209303f7af994aa89c0cca47b44ebb0d951ea58a5319f638bee
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/11/from-budapests-famous-baths-to-alton-towers-the-worlds-most-disappointing-tourist-attracti
-title:от купален будапешта до alton towers самые разочаровывающие достопримечательности мира
-seen_urlhash:28de484d8cc4c809efb2f13f0de10f79390884abdc73991d3c318afed55e9c1f
-seen_titlehash:06742c44942338b299545adcc07ebaca2c11159651f9d36f1b2e33a4ecb1717f
-seen_reason:processed_not_published
 url:http://ru.euronews.com/health/2026/06/11/could-ai-transform-mental-health-research-a-new-study-tests-whether-large-language-models
 title:ии в психиатрии исследование проверяет могут ли llm моделировать человеческие эмоции
 seen_urlhash:ff9bb547637241a6215dd9b71854bb39fbce0436a85eb8ef9e371faedcb209f0
@@ -4998,3 +4943,58 @@ seen_titlehash:94c78a2f2e599fe001a4301068fec7af6aab80f6c1522d9ceae835c1b1a5d508
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/06/14/football-curacao-scores-its-first-ever-fifa-world-cup-goal-equalising-against-germany
 title:сборная германии разгромила команду кюрасао со счетом 7 1
+urlhash:5f95b3fb717ae244237605381c2331438045bfdcd0a3f06abe34b9ab7a03e639
+titlehash:5844f6573b5d1d08cdac5009cc57cdbb743d2b3c68d6f8e673cae18f134fe005
+published_url:https://ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1
+title:iran and us agree deal to open strait of hormuz and extend ceasefire
+urlhash:dbec88275a0e3a5dc5f07864f556319295c11b104ecfb6d89e2435110df0d8ca
+titlehash:7fcd74717a5050fa88811edd1f9b789061c4c14ff9bbfcdd6f08e7070499a979
+published_url:https://bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss
+title:protesters clash with police ahead of g7 summit in geneva
+urlhash:244beb0e5e4c974f2188e559067bda2c1237ca5243b248ac7d724cdd068c218d
+titlehash:90bbc6f3fe95acb03606b569bc19e2e8102f657deb4446d503bb1ac76d7b5c4b
+published_url:https://aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss
+title:us iran ceasefire deal announced trump says strait of hormuz reopening
+urlhash:512d2b9a148a585e020659e8235835a2b0e92fa94b9cf4870062a91d687a1d9a
+titlehash:a2aa2d5a29bc8d7885bf7b3059c39325ce3b02094cc934fd3d0474aacfb2f815
+published_url:https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132
+title:geneva police clash with anti g7 protesters ahead of summit
+urlhash:729b4191605368790d0dfb4f31dd320552d5ad8d43d77b66ece04186e0e07b03
+titlehash:5c351d2af46967096c6f01522ad3eac65a5508ed9e37e0af11937b3489f82911
+published_url:https://dw.com/ru/экс-президента-армении-роберта-кочаряна-не-выпустили-из-страны/a-77550716?maca=rus-rss-ru-all-1126-rdf
+title:экс президента армении роберта кочаряна не выпустили из страны
+seen_urlhash:dc4d2223eb4eddcb8d4ddcdaa32df74c491b4ac2e60942d7d9dde737925242e4
+seen_titlehash:5c63e2da67ee14a75ed80c9718de5cdbcb600ae3b648c0c1172ec7469129966f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears
+title:australia news live debate over shark cull after coogee attack joyce says fundraised millions to pay for one nation ad campaign
+seen_urlhash:eeca8929d557312caa0ee032927d92e1139a1c6f0ee763805267dce986b8fdf3
+seen_titlehash:da704211e036ab7003016e0dede8dcafb7f5a19fbc3496be8a87372c5a87e290
+seen_reason:processed_not_published
+url:https://news.sky.com/story/us-musician-oliver-tree-believed-to-be-among-six-dead-in-mid-air-helicopter-crash-in-brazil-13554152
+title:us musician oliver tree believed to have died in helicopter crash that killed six
+seen_urlhash:73e85cdd44b0d1cb8bd6e7ca953fed3860e3f6d7bc18ae1ee846828d973d169c
+seen_titlehash:61d336f67b7bb08dcdb1561be12975f0c7cabf57f4ae69aff63bbef9da2d4cf4
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260614-netherlands-japan-live-high-stakes-clash-in-world-cup-s-toughest-group
+title:netherlands japan dramatic late equaliser for samurai blue
+seen_urlhash:db02a6140be1c0baf8a0ee7498f11d8ed4901bb74ff9eb4f3d9632c1afbc0c1d
+seen_titlehash:9615b885d6f20f3df1fe7e6d65470e8cb64ef0681f03649645bfd3d65d428a30
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-и-иран-подпишут-мирное-соглашение-19-июня-в-швейцарии/a-77550853?maca=rus-rss-ru-all-1126-rdf
+title:сша и иран подпишут мирное соглашение 19 июня в швейцарии
+seen_urlhash:b18ef575e995e3dcdecf5f78f450dc222efeb6b14d00bfce68eb5ee0b0544172
+seen_titlehash:f4ee835460fb906670958613f0dbe40ffe15b26da3f67022db7412f21c48e3c4
+seen_reason:processed_not_published
+url:https://ft.com/content/783f45fe-7ccf-48c7-9af3-ef1e3835da74
+title:former labour deputy leader roy hattersley dies aged 93
+seen_urlhash:d117117ad45a17064e1b46a43c46696755678b94c5680bea421f7dd773b429df
+seen_titlehash:2d3d6d31f22d156e829bfbe293692a4303adf45ccc19e324bbb3a9d451569f8c
+seen_reason:processed_not_published
+url:https://ft.com/content/423e2773-96ab-45d1-94b7-e61d360c282e
+title:firstft trump says us iran deal reached to reopen strait of hormuz and extend ceasefire
+seen_urlhash:3be4fbbf0831d78d9d82ec6910fad36d0cbd5921e4e4b5ef14bd45bc23187645
+seen_titlehash:6b725ed622a21d679ddb3d1a8200acf27e6ff1359c8183bdd8a1501d3549de3f
+seen_reason:processed_not_published
+url:https://ft.com/content/69e14b8b-c009-41d4-89b1-fb27d61c5c45
+title:badenoch courts city with call for greater risk taking
