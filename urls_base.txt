@@ -1,25 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/06/11/could-ai-transform-mental-health-research-a-new-study-tests-whether-large-language-models
-title:ии в психиатрии исследование проверяет могут ли llm моделировать человеческие эмоции
-seen_urlhash:ff9bb547637241a6215dd9b71854bb39fbce0436a85eb8ef9e371faedcb209f0
-seen_titlehash:185cc213655375774a384d981729d7f3f8864401affa65264430934bb8929ae4
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/11/chempionat-mira-po-futbolu-uzhe-segodnya-za-kogo-bolet-i-za-kakimi-igrokami-sledit
-title:чемпионат мира по футболу уже сегодня за кого болеть и за какими игроками следить медуза рассказывает главное о турнире
-seen_urlhash:48efb8739f1fbc5463e4578fa60d65d3ae6b2af90ad410888b319bf31d38bf04
-seen_titlehash:ac57257b65935b945ec3a1ebb76960e458143493eb00aeea9e5085313b6aa723
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/11/mnogie-podrostki-ne-vidyat-buduschego-v-rossii-oni-hotyat-uehat-i-postupit-v-zarubezhnyy-vuz-kak-eto-sdelat
-title:многие подростки не видят будущего в россии они хотят уехать и поступить в зарубежный вуз как это сделать большая инструкция медузы
-seen_urlhash:8169ff741f38e140f85e95a3feefa40c4f0b434fcac5311de1ff08b0501a6351
-seen_titlehash:c6d71540e14d39849f79ad0b51aaf7c48d4037f74eb9814ddfde1c24c26993eb
-seen_reason:processed_not_published
-url:https://ft.com/content/e7c503cd-4cc8-48c8-be91-99abf0bd2f9a
-title:south korea s amazon hit with record fine over data breach
-seen_urlhash:77c1f5228ce11ce035214d22b419e59fac0c3f0100d89d65d330d60ac81ec1b4
-seen_titlehash:0834575a2e82f167f08b6853db63f4bf83ced790a549a14fa8fadb8d17dec2cc
-seen_reason:processed_not_published
-url:https://ft.com/content/d85522df-0475-43b9-8696-3809e6836baf
 title:private equity parties as lps wait for cash
 seen_urlhash:180ea702666961fb763de72a54b83df961530d0e20d6216e5629f7acd8d9b762
 seen_titlehash:a829cb07d16ab0367e956809d87e3bd39e434cb957f05e96f5241f3d5ec2f591
@@ -4998,3 +4976,25 @@ seen_titlehash:6b725ed622a21d679ddb3d1a8200acf27e6ff1359c8183bdd8a1501d3549de3f
 seen_reason:processed_not_published
 url:https://ft.com/content/69e14b8b-c009-41d4-89b1-fb27d61c5c45
 title:badenoch courts city with call for greater risk taking
+urlhash:8f70cb487b3f6d56e836eff688d36765d599d72c118f100e3f3349923f108dd7
+titlehash:40edf307715304890f8ee9524f13fd2dcaba120b8e80827cad15c11a32efe61b
+published_url:https://aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss
+title:breaking us iran announce ceasefire agreement
+urlhash:52a98aa33f62084a496db44528384635ef8481a7821733e21b8fedb1fdf6f069
+titlehash:bc669cfa022f34b7c29237cfec91613a72141679e6f6626dfd3033b322a02c60
+published_url:https://france24.com/en/us-iran-reach-deal-to-end-war
+title:us iran reach deal to end war
+urlhash:96c739a5707281b1765e72273b7ce8a26397199595501d507252bdc2bd7b4ef2
+titlehash:3bd405318556f2b6eaf88147056296d26e2cf0fe0b2a30ff8eb5b5287d44db40
+published_url:https://dw.com/ru/в-киеве-в-результате-удара-вс-рф-горит-киево-печерская-лавра/a-77551125?maca=rus-rss-ru-all-1126-rdf
+title:в киеве в результате удара вс рф горит киево печерская лавра
+seen_urlhash:228013951c9d4f31147a36de78142e247e11f825d40ec321328a6a75638f117e
+seen_titlehash:7a9b99028fe83f0d1a9be5985fb40f3b4dd706fd8e7c1d82e826571d49f7a814
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html
+title:trump claims strait will be permanently toll free under agreement with iran
+seen_urlhash:320f18fc2cab6bed8813fa20f4270fae2595689cf8ce3772dd2ad9fa7ebfd0bf
+seen_titlehash:33fb9df8bf550b03a0631cedd4147506c2b32e1353fdbd6f2f1e0e2c98718f1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss
+title:live ilia topuria vs justin gaethje title fight at trump s ufc freedom 250
