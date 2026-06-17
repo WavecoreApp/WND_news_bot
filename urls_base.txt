@@ -1,29 +1,3 @@
-titlehash:b97388ede6f5304296ce8b389fdd71855fe185e0c70a008876722756042080a3
-published_url:http://ru.euronews.com/culture/2026/06/13/theft-of-rare-editions-of-pushkin-in-france-up-to-7-years-in-prison-for-the-perpetrators
-title:кражи редких изданий пушкина во франции до 7 лет тюрьмы
-urlhash:c6960ae1d23f97d38c03448b246c9b4b90ae98b00783147f80b393b73da2c9fa
-titlehash:2d7e185258fa695fe2bc815da1ad26d53e96b8b7e975a113f7c553c5b8ed3c7e
-published_url:https://meduza.io/feature/2026/06/13/istoricheskoe-ipo-kakim-poluchilsya-debyut-spacex-na-birzhe
-title:историческое ipo каким получился дебют spacex на бирже рассказываем в пяти пунктах
-seen_urlhash:ec1291c48ed6ec3e98fd5d2632e1151ee280a1e2e235c01840a9626b38832dc9
-seen_titlehash:8e0e4d39e2e30d46a7ece75709a7dcfae9da2d3025206ba1f339ce3f162cee9e
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss
-title:married at first sight australia stars not told partners had drug and violence convictions
-seen_urlhash:52a61d1d27557f4bef7d3dc1eaaf29a37f49efcfa16ffa1be16d9dd666fcd20d
-seen_titlehash:0e974e691fb16814e0fc654122d62b4b1de739c078595fcdbbec01def39732ba
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss
-title:david hockney depicted a peaceful gay paradise when homosexuality was a crime
-seen_urlhash:74f630e62b038bb0069dacb041cdf2b565dd5657a6cea0ec681bf7a4bbb05652
-seen_titlehash:4e922447dbe4a0e1ef0d936cd240f2cf1eaf67b81767d03839171949a4edb1b4
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss
-title:the college scam that promised students fleeing war a new life in finland
-seen_urlhash:0d1df61fa964861c2baf81e3e2213f9a7b7efee9af68282ae2cad7d70bf3b312
-seen_titlehash:f43882968c4b8a7baad82f07c45fec11ed638dd15c7c91ed66c3fc956cb50ca6
-seen_reason:processed_not_published
-url:https://nytimes.com/video/world/africa/100000010952087/ebola-congo-orphanage-children.html
 title:ebola comes for congo s most vulnerable children
 seen_urlhash:6fa0e4a0c1a659ea91cd36773c6d46af98b9ba8e275090c1288c7583a89f15ef
 seen_titlehash:505a03b491eac72f6db8592f0fccf1a1056505f8baf8ef9edbd0bc4092df4ecf
@@ -4998,3 +4972,29 @@ seen_titlehash:26ddb682bcaf51187ef4e2d501e163c1f6b26f895fb3e75bd797b2410a833ba3
 seen_reason:processed_not_published
 url:https://ft.com/content/d3eee303-c6a7-4eca-bb76-aefef934d8dd
 title:notes from the ft global bond summit
+urlhash:10e76114cf8516d3a3cf05465b086e738aff02b7dd325e4cec3d10607c83b653
+titlehash:f9db9dc94a60eec2ae80973acc3a76c1845ff5f00deaec74d6bedb63957e41e0
+published_url:https://theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation
+title:global brands likely using mineral that funds rebels accused of atrocities in drc investigation finds
+urlhash:659e5e2a02e14eeccd09df379933c3eb4ba6f9037e03fcc4711e03a49124ba99
+titlehash:23b155fb0c27ef5b870a1cb02e67ecc24a254f4cf71012d777459ea45358d22b
+published_url:https://aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference?traffic_source=rss
+title:brazilian court convicts eduardo bolsonaro of courting us interference
+urlhash:bc5c71bbdd8b7da7b26d46c6c269bb4ed4ecbbd9b5829ef8aacab4f0308cbf74
+titlehash:45e613cc1f48b3ab080bc1f8a03a3a386b75982330700e5c1a7362689eb5f337
+published_url:https://news.sky.com/story/why-ukraine-could-now-have-fresh-hope-of-vital-us-support-13554832
+title:why ukraine could now have fresh hope of vital us support
+urlhash:ae7ede155152aff8a5458c40b211e2eec2dbcb6f58d91edc1bd996f357f5ed19
+titlehash:c9b27fa997b79328961f228c8559cc725fbfaf7a43370dce1849eab3f0199149
+published_url:https://dw.com/ru/немецкая-компания-hensoldt-поставит-украине-радары-для-противоракетной-обороны/a-77582708?maca=rus-rss-ru-all-1126-rdf
+title:немецкая компания hensoldt поставит украине радары для противоракетной обороны
+seen_urlhash:cde1bd22020eede4c9b430e84547f17660dcf45ec8de9f8b47dee2bec4b9d6d6
+seen_titlehash:dcf3b658f404961748f983cf7e6a69365bdb423a1bc3b94bfc7b2955e98483ba
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/17/kyle-sandilands-arn-media-settlement-radio-station
+title:kyle sandilands settles with former radio station for 12m and a helping hand with new media venture
+seen_urlhash:f2c1aed7f7b3af4f89ff728cb97acd0f4231d12dd5a3fb1e44dd513323adee09
+seen_titlehash:1bebb4ff4b75dea3c441cd0a7d4f27851f6d7f00549e40a9c1dbf9687547ddbf
+seen_reason:processed_not_published
+url:https://news.sky.com/story/trumps-left-netanyahu-with-a-horrendous-choice-13554831
+title:trump s left netanyahu with a horrendous choice
