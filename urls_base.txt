@@ -1,71 +1,3 @@
-seen_titlehash:0a7561f433ffc14738c4716a29fb1798cda72913f11585e668b2048e8b9323dd
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/06/16/world-cup-2026-six-million-fans-three-countries-and-a-team-racing-to-stop-outbreaks
-title:чм 2026 шесть миллионов болельщиков три страны и команда предотвращающая вспышки
-seen_urlhash:d4a8de2b1fc1dc231bdcf36d461aec9904fd5b5e1d1bb5ee60e8adf9219ac3ac
-seen_titlehash:83f0c1f96e32206a70b3c913e4c30b5cc3c8e87ce6fff06ba494af1dcf9d0ae1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/16/spain-italy-and-france-from-the-sea-this-is-one-of-the-most-popular-cruises-in-the-world
-title:испания италия и франция с моря один из самых популярных круизов мира
-seen_urlhash:10094c67fa36fc2bbcec8f21d593bd61792e0bbfc7e97c361f8e4370f6a9554d
-seen_titlehash:28ee4f0f7c44ccefbb70018e8c7dd3b808d45ce6e6226e24a552bcd4bef43de4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/06/16/whats-the-average-age-of-first-time-homebuyers-across-europe
-title:средний возраст покупателей первого жилья в европе
-seen_urlhash:b0c40cf26f49b2380d45b972bdad1d82845761a76e5367bdf217266cede56e62
-seen_titlehash:f8bd17ae62b55f4237a35b3f9060d8159f3a3d306a5f7fad21330729e2a3da74
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/16/spains-renewables-revolution-is-paying-off-electricity-bills-are-lower-despite-the-energy
-title:революция испании в виэ окупается счета за электричество ниже несмотря на кризис
-seen_urlhash:a774beefb138ee89744be24f959106e43d06ca1dcd3e1bce3232a2250b591b00
-seen_titlehash:bbaba2c1e9a79f6c7e27d8786d8caa7ecd2f9653566f5789e8ce013e24a5a50d
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/16/rossiya-priderzhivaetsya-svoih-obyazatelstva-po-zaschite-kulturnyh-tsennostey-predstavitelstvo-rf-v-yunesko-ob-udare-po-kievo-pecherskoy-lavre
-title:россия придерживается своих обязательства по защите культурных ценностей представительство рф в юнеско об ударе по киево печерской лавре
-seen_urlhash:c955e94442d905c4840c833db639830f8f084779f1bac59ef9c88438c50a11b2
-seen_titlehash:73220534bdf393024967392700d07be840981d3fe23438ee2cd051b9071b894c
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/16/na-podlete-k-moskve-za-utro-unichtozhili-60-ukrainskih-bespilotnikov-ukrainskie-telegram-kanaly-soobschayut-o-pozhare-na-npz-v-kapotne
-title:на подлете к москве за утро уничтожили 60 украинских беспилотников на нпз в капотне начался пожар
-seen_urlhash:f8195ede5cbc085f82f57f2c48bcaf7dac351c111d5d9986a6ea8a462fb4f8e5
-seen_titlehash:4c27e78d45757d0ab9a4fd9703fd441dd365b5c2caf03a29ee64d5fb4dd5341e
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/16/mask-trillioner-s-nim-vse-ponyatno-a-kto-esche-vyigral-ot-vyhoda-spacex-na-birzhu
-title:маск триллионер с ним все понятно а кто еще выиграл от выхода spacex на биржу в списке есть несколько университетов обычный сварщик и прямой конкурент компании угадайте какой
-seen_urlhash:47da660cee948e3377d1faed7eeda670c9c37cc1c5b7dbb5f1a68b0edd6150fd
-seen_titlehash:32530b8dd45b0e95b6003a8e9ac2772ac038e60d99b30adafe9b48cc45d22207
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/16/v-kremle-ponimayut-chto-brend-edinaya-rossiya-nepriyaten-mnogim-rossiyanam
-title:в кремле понимают что бренд единая россия неприятен многим россиянам ради избирателей партия готова поменьше светиться на днях города двора и праздниках урожая пока у ер запланированы только такие предвыборные активности
-seen_urlhash:309f0f8618e9ce1538a6d401acc964f60a1cf6f5d7ad8d5789b362e42df04b65
-seen_titlehash:033da595be907be2e8be03951bcd7ef9506222161d24111f22bcdb9b17434492
-seen_reason:processed_not_published
-url:https://ft.com/content/3a7bbd01-9632-498b-8857-e3985b096179
-title:more in store for the hardware crunch
-seen_urlhash:93cdbe3b21278cb703173f19a2c89b7b346c03ccd3590ca27264dc07e4dcc1af
-seen_titlehash:90a8b9a30ad96a91b15db1f32e315be37713f5261f86a1d4e72abb4d5c75676f
-seen_reason:processed_not_published
-url:https://ft.com/content/9a39912a-9c11-42fc-9595-0b6949afbc6b
-title:treasuries shrug at the ceasefire
-seen_urlhash:f0f4acd43cf320bf77ccfd8e1d76efdabc8ef7ee298f3317b9b57307581a9ea4
-seen_titlehash:57ca71ae70989f9823dd63e90ba8e43604228bb24e77b397b953370a1069704c
-seen_reason:processed_not_published
-url:https://ft.com/content/1e887867-8533-423b-977c-c019759f7787
-title:bank of japan raises rates to 1 for first time since 1995
-seen_urlhash:2706000ede27c06d92028324530e2f14d05c06847021801d69bb8222bd0741d5
-seen_titlehash:45e2020534fbf2d8ef2053e668ce03cb056614c3a9ea126c5f7d047d21b338b7
-seen_reason:processed_not_published
-url:https://ft.com/content/f0238d1d-8b35-4686-84f7-cdf90a628ebf
-title:china retail sales sink for first time since covid
-seen_urlhash:4e7c07c3813b693ec85b46dd0077583c2ef41cde0eb718e4cca8491ab865705d
-seen_titlehash:8912e6ba0472024410e73baef2b0338f2c2f6531e195fc2b169c03681838bc71
-seen_reason:processed_not_published
-url:https://ft.com/content/ee4e7722-5488-4c22-ae04-fce60440c28c
-title:economists bet on higher rates as kevin warsh takes reins at the fed
-seen_urlhash:3efead4d2b83ec717a1930cb6e0b2930e0b56aacca5337dea252f2687ce2a81d
-seen_titlehash:2c70e01fcdf7a4cc80f20b0f03bd298d9610966bcabf541f84ada77bc0a0b2cb
-seen_reason:processed_not_published
-url:https://ft.com/content/19dc0b10-0910-449e-9736-184b999b253d
 title:ai fuels private equity s biggest ever windfalls
 seen_urlhash:5e7d75bb7853beff5687292521b16c6579be4ced3b0bc6bba86c32de27f68c3f
 seen_titlehash:19a9cfdf74d3ead7863fe7fdcb359836f9fe6992b38229e033ebcf855e0e5797
@@ -4998,3 +4930,71 @@ seen_titlehash:3c7366120f2e2ff86b12f87eeb7f82f3344b965bb2e50750a530208c616131af
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/05/21/home-schooling-is-taking-off
 title:home schooling is taking off
+urlhash:7c41a3b4110f3c470729b8a7619380e2fc4d27065ab7d5d0152330d89208b5ed
+titlehash:c6900ffd19c60eebb940e9b4363ca2c0c01d57d709fb3a218f70a900c28378eb
+published_url:https://dw.com/ru/евросоюз-впервые-продлил-сразу-на-год-санкции-против-россии/a-77619607?maca=rus-rss-ru-all-1126-rdf
+title:евросоюз впервые продлил сразу на год санкции против россии
+urlhash:d311b7c071af69eafd23d4e38bd420bd6f4f986f635a926b851b4ed8d9b7d988
+titlehash:21491620dc8592bceb32d9abae2ceee51627dd8feb319825166b67e380c2941f
+published_url:https://ft.com/content/bd320278-b909-44ae-a5a4-dbc481592453
+title:firstft us iran deal opens way for hormuz charges shipping industry warns
+urlhash:1f8bca6c514969dbff8bdf424ae349283da9d559501f7b0a545003af0d46c116
+titlehash:97d2989710a2d6c83db96f18d2b066568da698c0f011d4024b5e1fc1e2a94a58
+published_url:https://dw.com/ru/нато-3-0-сможет-ли-европа-заменить-сша-и-помогать-киеву/a-77619709?maca=rus-rss-ru-all-1126-rdf
+title:нато 3 0 сможет ли европа заменить сша и помогать киеву
+urlhash:3079956365ae80d13fb6bf3b6d09a873b6f13f90a4c588ef82abf8ff01bace78
+titlehash:5b3e3dea8ad77ffb68b19bb964bc3ef38c857f675de4522c8a6d25e61dada678
+published_url:https://ft.com/content/0b012610-8132-4549-afd9-14bacd9db8cb
+title:spacex warns eu satellite plan risks undermining connectivity in ukraine
+urlhash:691a60f1aeb5c9281297945dbbe91d51642775a516bdf38653aa1ac785943cfc
+titlehash:00aad40d0a1908336bf336f0c62acbcac03530449737efa052a11b873b186a68
+published_url:https://nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html
+title:vance s defense of iran deal rests on vague and misleading claims
+urlhash:ebae9bba3799e06196eb6d070faa03d59a51572178712c57feccf6ff2c4f6057
+titlehash:deb8a454ac74fa7b27308d531946ec570aecb0df18094d784b3557b3894d2112
+published_url:https://aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss
+title:us judge orders release of palestinian rights advocate detained by ice
+urlhash:4b85ee3f4cdf19ede487399e16780504292a47e5751265f770d70a1e6c3e0908
+titlehash:5e95bc7f58254bb97f0a0d23b954c7666d383d3a96c8a9144e9de6b7e95b8ab0
+published_url:https://ft.com/content/5f610c4d-a4e4-4c84-9d87-391eb8099156
+title:albanian pm blames iran for protests against kushner s luxury resort
+seen_urlhash:daec4d3cdf31d8c6caa94c2d218f2b33181a46e57754a29c71b1f7879ab1403e
+seen_titlehash:a8f3af46505247f33ac1f4454848e9a11fc8f034f398c930f77fa811c87fae30
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/18/world/europe/crocodile-attack-england-zoo.html
+title:man forced boy 3 into crocodile pen at english zoo police say
+seen_urlhash:fafc7ef19c7dfdaafcbaab23fe436f7875dcfc58e566df7392cb571ce810ccc4
+seen_titlehash:a0a64b4823f373d77bfb54ad185df116caa53e559b1d44e1c3d07163dd1ab939
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss
+title:mamdani gives new york knicks keys to city after nba title
+seen_urlhash:100c56e2deae3a2c1748966b5b0e213dc1e5ed5a3eddb0f8e057e5b220be8fb4
+seen_titlehash:2f48de793748ce942b48b64d38b7fb53c8027c960734e7bbe656f7358ae4614c
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260618-canada-qatar-live-high-stakes-in-wide-open-group-b-battle
+title:canada qatar live the reds cruise past a collapsing qatar side
+seen_urlhash:86ec8e0ee5bc7e4a497b1af1ef0a75b1462030b29501bc795b7b9a09f06bb7a1
+seen_titlehash:5c07324ce4014af63e8f8f6f665f9aa0e5b87cd516cb69d85b2d9a7ad8ebbf4e
+seen_reason:processed_not_published
+url:https://ft.com/content/bec1c122-04d6-4eab-b69c-c33d874cfa5b
+title:eu set to remove barriers to banks cross border capital flows
+seen_urlhash:79bc755d5d41ba2a303fa7fd08d27322146e1ff532ddebf040acae1df823403a
+seen_titlehash:ebfd30f0a990c6c656bb550e9a3a352c15239820fc9d0aded0f62a31c4a3f514
+seen_reason:processed_not_published
+url:https://ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a
+title:spacex plots 20bn bond deal after record ipo
+seen_urlhash:e0521d663ed38e86e1253b51093e7cf08b6e1785974678fa426393d913a08b14
+seen_titlehash:fbd05fe3f120ecd0b5c4665ad40388ba4c4a4f7e09d68328a5a47e021002a344
+seen_reason:processed_not_published
+url:https://ft.com/content/d8a1edfa-5e9b-4193-839f-08e49ca04e5e
+title:uk government to overhaul outdated home selling process
+seen_urlhash:7f25c5efe061709f9849237b878101c6148bc607a7ab1cc92fcfde621e4d76d6
+seen_titlehash:f97d479acdbc87465bf5f16eaa80c762e0164545602f3c943d6006c97f43f738
+seen_reason:processed_not_published
+url:https://ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8
+title:burnham hoping to win uk by election as starmer s future hangs in the balance
+seen_urlhash:9b164043c4d78211f979518a34b4905d56b5ce9b878de42faa82d1b4c5d10b2a
+seen_titlehash:019b6de5a2c440463c609f58b70294a2f772844a541055c9e14a698a6fe2b3dd
+seen_reason:processed_not_published
+url:https://ft.com/content/52395341-a04e-4474-aaf0-5725b0306cac
+title:gulf oil shock speeds up india s ev drive
