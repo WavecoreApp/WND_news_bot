@@ -1,51 +1,3 @@
-url:https://bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss
-title:unclear if us iran agreement will provide respite to lebanon
-seen_urlhash:3b16c29188c23074601cbefa52f78625057f9d61ec0cf3061005302593a7e31c
-seen_titlehash:fefc70e6804da1f5307a0585bdf941c3f289488caf5860c47292f223c8fd9d15
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss
-title:oil prices slide after us iran deal announced
-seen_urlhash:0578b21ccea49d9d73f7b697deb20a5bc97e876ff7de3e38c771092aa2f50a85
-seen_titlehash:8c93f5e1ade53997739170d08ce52c033a6ff8ee506a7873822330d250fa7fe4
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss
-title:trump hosts ufc cage fight on the white house lawn
-seen_urlhash:e32b5a0894bd236323f7fd3e2a07e2f9b4064ea67a62367201c96020b17d3f8b
-seen_titlehash:be9b7d8b7339009155e5ce848b00e95b5caa0ee1881220b526493e02ef5d6a62
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss
-title:is the convertible heading into the sunset
-seen_urlhash:b4d489637999e322bf4bad7a7e5d792c5001e7a7ebf6b5e6890101b9536fcd23
-seen_titlehash:e688aa0ad6f46d1f6b459458eea451708b56b3c486579af505f6f561c03fc284
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss
-title:as more us business owners retire many are selling up to their staff
-seen_urlhash:d014ffec97bde78b5988083a2082130d96247b6f52237a5498893d679d04981d
-seen_titlehash:f5752f15e35c71fa53861910b299abe12dba7c6d614128bcb565188d7ab0ce07
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/15/world/middleeast/iran-reaction-cease-fire-deal.html
-title:many iranians express relief over agreement to end the war
-seen_urlhash:f9d9e8198055834bd818b2cbb5558ed9d41a9562f8a3d29004981fac29ec09b8
-seen_titlehash:d9d04f79c17f9975f2d2d21895eca3401d55d45e475175ae94aa2ef66cb6a26d
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html
-title:singer oliver tree is said to have died in collision of helicopters in brazil
-seen_urlhash:cf36228f25a03036675fa405f45ba790a94cca503a1dfb94e0df1936bf5f3c34
-seen_titlehash:05267b958f7e237d0b9739a39fd89aaa1b600530cce99c3ac3421efa475b681e
-seen_reason:processed_not_published
-url:https://theguardian.com/environment/2026/jun/15/shark-expert-says-tony-abbott-doesnt-understand-the-science-after-former-pm-calls-for-cull
-title:shark expert says tony abbott doesn t understand the science after former pm calls for cull
-seen_urlhash:afba90c575dd224246b7e0275e83aac53719df402e12e9192e4add7c8ef4726c
-seen_titlehash:33bbb8bb39422014c4545912abd8327703911bf5f024d25fbc68afcb72191ac4
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/15/father-murder-suicide-parramatta-river-sydney-six-year-old-girl-death-ntwnfb
-title:father may have thrown daughter into parramatta river in suspected murder suicide police say
-seen_urlhash:87609eca9b6e5199aa04215f0e96177b8d989aeee7ca8cdc894aea77171dd028
-seen_titlehash:396faef46a41e4ead5946ddde9cb60be7c49c0642975a0e06b1f8eec7e031858
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss
-title:who is sweden s yasin ayari and why didn t he celebrate against tunisia
-seen_urlhash:d3faa6ea6000e6e1d2864fcd5c7ed7aff8ad8eaf97d1256f46e6d19f9eff2acf
 seen_titlehash:f57e327ab2c716ff8588b9598e76599c8da74cda766e7eb662be3c51829364db
 seen_reason:processed_not_published
 url:https://aljazeera.com/features/2026/6/15/looked-so-real-how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss
@@ -4998,3 +4950,51 @@ seen_titlehash:3b6b12d2579041590f806dcc37822a60541638a67759785f1fbe2515ae14bf8d
 seen_reason:processed_not_published
 url:https://ft.com/content/e22bf189-e598-43c1-a35c-596e46fd6766
 title:crunching the numbers on warsh s lil statement statement
+urlhash:5da2c498d7d1ae196366036a4d3d7bcfede3d94bfed87ca804c18f7a0eb7141c
+titlehash:4a962014554ef334d52246a86fbaa3cd5dd72b953fbb20bfa223dc1c02e8c710
+published_url:https://france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war
+title:middle east live trump iran s president sign deal to end mideast war
+urlhash:50a2a63ed6518bf34721f70aeafe2fc806f02d7b8b4bbf9c98a16fabb7c4d130
+titlehash:3ab64a9d02ce3543f055b086d32edb80fa01ae9aac6b7b028027833dc249e856
+published_url:https://aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss
+title:trump to netanyahu use a softer touch on lebanon
+urlhash:f500cec1f8babfc397fe5df1183100af22657eae815538925328147ff39be05a
+titlehash:b9bb271f95933a11e838de8842bbaf9984686f6946d2c13bd273815eb14bdcd7
+published_url:https://ft.com/content/28aed6f3-8d01-4748-b687-8d83bd968716
+title:five things to know about kevin warsh s first fed meeting as chair
+urlhash:75bd52f56cb69d2bc6b9ae23bc2d7eef5e2d30072f1ed5c1c71b3a5b4adc89d4
+titlehash:331459d15432877e6703cd7726e003e394b133ed6689c98e7f8b37da9aa280bb
+published_url:https://nytimes.com/2026/06/17/world/middleeast/trump-obama-iran-deals.html
+title:how does trump s deal with iran compare to obama s
+urlhash:4740abcbbf803f6ad6365d6e1414882e26cc368161610bd144ee67cee14413c5
+titlehash:94fa97e4b21ec5dcdf89d290c5a3f3c03771aad9f9b3291635482eaca6c508e2
+published_url:https://theguardian.com/media/2026/jun/17/lululemon-apologises-japanese-drum-great-wall-china-yoga-event
+title:lululemon apologises after japanese drum row at great wall yoga event
+urlhash:e537d6d545a9e969e1d9b13f71fd8f05427d16e35e0cbd9905bf3bd6abc5cd05
+titlehash:5bdffdf56f801bbfae680aa8fd831661aef6ee327a637d7da15e47269eb99551
+published_url:https://aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss
+title:diplomat confirms that us and iran have signed mou electronically
+urlhash:75d1df6538eefa89482c06612a773675464d6fb953e3a47879e7d522738e6221
+titlehash:16da2c8f27c56cf4f059262f5f27def84078af6bc8f31065e11e907cb4a4b6d2
+published_url:https://news.sky.com/story/trumps-war-with-iran-has-been-a-tragic-and-expensive-waste-of-time-13555179
+title:a stain on america trump s war with iran has been a tragic and expensive waste of time
+seen_urlhash:9c6497103844b188f4208c567ffc474ae796c8ae5fcee91c1b3fffe5ec2a884a
+seen_titlehash:1658596b50f0298f7efa7b7f0e853234d95c498eac7cc8a818d290a73bf2d899
+seen_reason:processed_not_published
+url:https://theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study
+title:cannabis commercialisation not decriminalisation drives up usage study finds
+seen_urlhash:c615eced2ae735d2376850773d237f335d133519b2bd99613f83e96dc5e6e466
+seen_titlehash:c26101abf45e4692d9370d246cdf4b28a60a43773e8664c934b4a90c19ee784b
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/18/world-university-rankings-global-sydney-unsw-overtakes-melbourne-australian-universities
+title:sydney s unsw overtakes university of melbourne in global rankings for first time
+seen_urlhash:4d956e27f775c8624fd7fe039f0641dccb29e2aae1c291419a4167dce5543df7
+seen_titlehash:b0bb9bb1b56cf2b6b5aaae612aee54e14d3176df54a92fe267fd5ed1f9c5a2d6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss
+title:trump says it s unfair for iran to lack ballistic missiles
+seen_urlhash:b08fb5b0eb3ffb5a37d0dba7664dde130a38ac6736a6fc124050f7fd9b7165d4
+seen_titlehash:eb73ae62fb9867cc19ed8be394fff773d728b82c33c70fd6006d312397c2f1fa
+seen_reason:processed_not_published
+url:https://ft.com/content/3a847d1d-ebd6-4ed5-b779-c6fa00daffa9
+title:firstft lululemon apologises after japanese drum controversy in china
