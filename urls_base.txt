@@ -1,56 +1,3 @@
-seen_titlehash:c24604b5615fd56f34b12541e702c70c01e7081ff3d14affbcadf7c4f332c53e
-seen_reason:processed_not_published
-url:https://ft.com/content/8243c2e1-fdeb-4b5c-9fc5-3175d5c3d2fe
-title:lululemon apologises after japanese drum controversy at great wall yoga event
-seen_urlhash:620c5a04706409cbd01151be3a35a34c02da07aeefc7cfa6544826a6996052b3
-seen_titlehash:fa12a1e79f93c2ebe67cd2bdd67baf206a2f701c5040c76409e1918751b2f35b
-seen_reason:processed_not_published
-url:https://ft.com/content/e73b3c80-948c-4ea0-ae9a-d6c153871e7b
-title:eu struggles to find both unity and urgency in china crisis talks
-seen_urlhash:4135befa6352732cd66482c15b828456857164e7ef8d9afe4110ca1f98bc8752
-seen_titlehash:3295cb6c177bf6f918f1d64f2952f1d9ad287aecb5e653e7206e1d1b1393eb01
-seen_reason:processed_not_published
-url:https://ft.com/tsom
-title:introducing the story of money
-seen_urlhash:0a42a2cccdcef7add28690d3a0f4e7e602c508dd180553762fc1a4f52c24b810
-seen_titlehash:6599b8a6eaf974f26cff028a1dedcc936eae6e43e99d777708054a72a06bb674
-seen_reason:processed_not_published
-url:https://ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff
-title:elon musk wall street s new roll up artist
-seen_urlhash:b19dbfcc6810dd716af53aab666bbaf6ac59d59d56cdd1b57488664fd250279e
-seen_titlehash:d0301a5323005c5fad0de18abd79c8463d09b2dbad9aed5c6c874bef46c7d702
-seen_reason:processed_not_published
-url:https://ft.com/content/32b0a522-383b-4442-9b66-54d7eb709394
-title:big spending vibes small spending commitments burnham s tricky fiscal dance
-seen_urlhash:14f7d15f6cb41b6b7668f1b240b1486604c145e273644d9f4d38afcaff09bee5
-seen_titlehash:e04638cdcb1d48056a9f24c0e08a2a5abb8fc5003c2a37fc80a12c055c9b22f9
-seen_reason:processed_not_published
-url:https://ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5
-title:amazon backs ai start up developing models to simulate physical world
-seen_urlhash:bad278a8a7345d932c51408e1e352239f363f82c909fc38553c4698bbe2375ae
-seen_titlehash:65b0d98b4c72339ec52f353b4dc4a931d4bc3755f9cfbe1a7f2c6bbed552aee5
-seen_reason:processed_not_published
-url:https://ft.com/content/c2369546-6857-47fe-84bb-30f4290c9bb5
-title:investors pile into bullish dollar bets as us exceptionalism trade returns
-seen_urlhash:f50aefe698688f064769f791967bb790c149f1141dfd8d3f91031eb64fe3d244
-seen_titlehash:09d8be0e3a11fb744dc4f0c3e58c4a9e7cac772efdc2e8ad88490e45c531001c
-seen_reason:processed_not_published
-url:https://ft.com/content/4c479227-567c-435e-a4d3-795dd957b347
-title:jeff bezos backs uk start up cuspai in 400mn funding round
-seen_urlhash:6805ec3e3c07b2c5cedb98ea44f3cdb7abfadfac43becff25ac38a26e3377b37
-seen_titlehash:a2ce18e65ceecf268405c52b4e39de151a6f312b209ab45203851bc912d628c6
-seen_reason:processed_not_published
-url:https://ft.com/content/f0d2f6d1-a987-42e1-a389-82472d9a5435
-title:made in europe push hits uk plastics recyclers
-seen_urlhash:b391837ee4125083423e3110248bcdda9a3853e3fbfd4b636ecfc00472b955ae
-seen_titlehash:c15b7654a0ea4d78e45d1c6b60cec61eb35ca07ce81dd75a87631072d55b03e6
-seen_reason:processed_not_published
-url:https://ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60
-title:defence not likely to be a panacea for european carmakers
-seen_urlhash:e86949c8df17450beb6ca137577b970d50f767d2206690f956ce164fa9c3c6fc
-seen_titlehash:83cc05c822338fbe74b3c6b18fc7b3aaa6d9d09efd2ee00f84bb5a3e5b52df95
-seen_reason:processed_not_published
-url:https://ft.com/content/d7297fc7-6362-4481-addb-53733e1c83b5
 title:the oil shortage is ending and now comes the glut
 seen_urlhash:e8b2bff9c6603fc8800e7d8781d2499163ad93a15337654684d406b39a3f09d9
 seen_titlehash:ebd5114ed5f17759fe074468c959b5c83cb21f9eaefc570c8dd02ac4e9e28444
@@ -4998,3 +4945,56 @@ seen_titlehash:2fdf30070141620e49b81fbd8c0e89d0c1ed2e911c5c563a5829c0da88d912ec
 seen_reason:processed_not_published
 url:https://ft.com/content/dec7903b-8a5e-4de7-b8a9-656eed78cd90
 title:labour mps fear they will lose their seats if starmer remains in number 10
+urlhash:6ba2a63bbff4caac774a6f70f6d50c7e479ac88f7037a60ba50084d4c975c710
+titlehash:1df01e108d15977a7cc8a0fa5b4c69aafcf161f5caa3d694d23377c966b54948
+published_url:https://nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html
+title:lebanon emerges as weak link in u s iran deal to end war
+urlhash:d44011f0e1050480f74560e7aeb5234f005d8bf9bc53c8d1a10075b7ac4361cf
+titlehash:b96f5cacad67ba7d0c0d3656a964ae5efc6a4cdb070414b96c19b39a9ce389b4
+published_url:https://aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss
+title:thirty dead at drc displacement camp as ebola threat grows
+urlhash:a7e29ef8d01e07a48ef9540bdb8d178c4afab3ad1dd88837833319895d315c0a
+titlehash:1a443da91b47e29424657291008e9ca0079fcc018c4de161667c2525caf17161
+published_url:https://dw.com/ru/президент-польши-лишил-зеленского-высшей-госнаграды/a-77632775?maca=rus-rss-ru-all-1126-rdf
+title:президент польши лишил зеленского высшей госнаграды
+urlhash:f54d45028780a8f71ac6879c550f75ca40bf0f1968ddb7ec707569039a0fd5d9
+titlehash:40dd0cc4415e028075bda991be9c1777cc6efa22db323207a4f2c6e8ff1c5770
+published_url:https://ft.com/content/5a5c77ba-ae31-43ff-9e97-d8d1b4e768d8
+title:one person dead and 89 injured after uk train crash
+urlhash:811ef0b21f435e93a930b6ae385a0b2506c072682552d1bb8b1333534cdf2ac1
+titlehash:a7688009b9fa5aec8fcc153da5e23804223431e63a8d6cb190785d8f674d00e8
+published_url:https://bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss
+title:zelensky stripped of highest polish honour over ww2 name of army unit
+urlhash:b4ff1409e0ca69c6915b84bdf56bde92feb0dd7d30fbc3f4753362c086551276
+titlehash:e496dd235c673d7b34bf9ffe490baaf5bbbd648e8c6e5395013596a81c5562b1
+published_url:https://france24.com/en/europe/20260619-one-dead-and-dozens-injured-after-passenger-trains-collide-north-of-london
+title:one dead and dozens injured after passenger trains collide north of london
+urlhash:5d1a2c3a0ac0043ce4dfac851b67478be5004d090ffb31c9bd2f94c8800a8ed7
+titlehash:e11dbba23ae92332e51d1f3525b25551885eef40e17de6ba9a0cf31bdeee9a82
+published_url:https://ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00
+title:trump accepts qatar jet as new air force one despite ethics concerns
+seen_urlhash:0c6148f7b1bf43d35ab24df5abb0a35b58628f0993da12b10f202355beae6d09
+seen_titlehash:1e1b79cc8e13d4306759e46f334ebb1785eb39f3e2a77c5975347de047fa33be
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html
+title:trains collide in uk killing at least one and injuring dozens of others
+seen_urlhash:e8937d05193d2c4e9e16e41cfd2b86eb947cc8a3215f2128e5069527c39c4b8c
+seen_titlehash:12f103696f4fe874b9d4a3a65479b8324a31a211c684c6b00808863ef004d17d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss
+title:does trump have to submit the iran memorandum of understanding to congress
+seen_urlhash:b86617f45ee3f396f9b8e357c6fc195aeb157381abb81fb29e4da13d1175abcf
+seen_titlehash:1b6d6bcb65fa0fe8a1bc47c03921d2cc25096d701259ef5942b53d0ca45347ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss
+title:us announces new round of israel lebanon talks in washington next week
+seen_urlhash:3057569c8468f26d9a190167825495dc67e657b16d94b929296e7dc8674137f4
+seen_titlehash:080694fffba65b7462fbc0d7978be01f1a3094500eb56905b3c6e72dc5a7d2c2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss
+title:italian prime minister says she didn t beg trump for g7 photograph
+seen_urlhash:1934a3d9d085466d98f7e0780c5d03e809381b8d7b23be2e0fa839fb0504e869
+seen_titlehash:2d11b1c132bbe8869268839c35f2d78f09f922258f09c26993543cb27bb9923a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss
+title:israel kills a child a day on average in gaza despite ceasefire un says
