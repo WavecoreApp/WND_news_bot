@@ -1,170 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/06/17/tashkent-international-investment-forum-opens-amid-high-level-diplomacy-and-business-talks
-title:в ташкенте открывается инвестфорум на фоне дипломатических переговоров
-seen_urlhash:d3afc421249bc7097c0d7e6bc77be66e8937f8dc66910d40849cd924575000bc
-seen_titlehash:e1614e28be0533afd4314927cbdb6f64106d133be234db118fbd693a4e4ab12d
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/17/messi-nachinaet-s-het-trika-mbappe-i-holand-s-dubley-chem-segodnya-otvetit-ronaldu
-title:месси начинает с хет трика мбаппе и холанд с дублей чем сегодня ответит роналду что там на чм суперкоротко
-seen_urlhash:6fcacbecd1d18270b8865a5dc6115805e92dcb5777df86826bb9ac10faa70bf5
-seen_titlehash:e875257d8bad8328c3197a6db7186ef5bfd05096514e1e0eba41278c09d8c157
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/v-vorkute-po-trebovaniyu-uchastnikov-svo-demontirovali-pamyatnik-zhertvam-gulaga
-title:в воркуте по требованию участников сво демонтировали памятник жертвам гулага
-seen_urlhash:46c5b140c3d90aa322651efa1d20ff9cbb56f355c8d6b99782e65d98a751c1cc
-seen_titlehash:3929684be50b05924f82c6016c69777562e18d7d7b48a5b5509f11992dc37fd7
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/17/a-u-vas-v-regione-est-benzin
-title:а у вас в регионе есть бензин расскажите медузе добрался ли топливный кризис до места где вы живете
-seen_urlhash:8cc01957699d6c2e70b3ddfde48b1bb56179e512007d12b7c95c558a35a31863
-seen_titlehash:7cbb252870399e4023ff2a0f584c0193ee642bc42e5e66b86e9352e30372221a
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/fontanka-v-peterburge-zaderzhali-ilyu-trabera-biznesmena-kotorogo-nazyvayut-drugom-putina
-title:фонтанка в петербурге задержали илью трабера бизнесмена которого называют другом путина
-seen_urlhash:22ac0a2b7bd33fbbeb51c5b7d104773f9535ecbe91b606baa4782259afb37529
-seen_titlehash:dcdf4a4fc2d64bde6085b94c79da6b38ba4ca25734c21ed777be7ca667534997
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/byvshego-gubernatora-chelyabinskoy-oblasti-borisa-dubrovskogo-kak-i-ego-predshestvennika-obvinili-v-poluchenii-vzyatki
-title:бывшего губернатора челябинской области бориса дубровского как и его предшественника обвинили в получении взятки
-seen_urlhash:594e2034101de71abfc9bbbd34051570b78f169f2bf8c898abc48fdd2c775163
-seen_titlehash:24c41bdf275638880559a436f6e1af34355d7fea85d2ac162066027d16fde7c8
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/financial-times-es-snizit-poshliny-na-armyanskie-tovary-kotorye-zapretila-vvozit-rossiya
-title:financial times ес снизит пошлины на армянские товары которые запретила ввозить россия
-seen_urlhash:6c88e364a0e1ad8e2e9efc793a416af25fcf4e017cb777c72bcc112501a0f4cb
-seen_titlehash:6ee18af9c8ffe7c4723c03fb8578caf2fb7f7e2778e8a6747638055d3cc248a4
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/na-ege-po-angliyskomu-shkolnikov-nachali-sprashivat-pro-den-zaschitnika-otechestva-i-den-narodnogo-edinstva
-title:на егэ по английскому школьников начали спрашивать про день защитника отечества и день народного единства
-seen_urlhash:7a1a4f6801a37484acafeb6f7ca7fa80fb3dc014125504e2a2d3a6cd8cc9e7a2
-seen_titlehash:12ad75c721c35e767e4d9b4366aa8d2725d5b1613bba8e6edc93e0d340e35e34
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/byvshiy-veduschiy-top-gear-dzheremi-klarkson-rasskazal-chto-u-nego-diagnostirovan-rak
-title:бывший ведущий top gear джереми кларксон рассказал что у него диагностирован рак
-seen_urlhash:f27dc0db95d9fec7fee27f66b04138f49d0d82acbc1426f44d92b7e2f717a3cc
-seen_titlehash:16361bd8f5e7ed86c64e484be4bbbf91c9161057998c064b0f8d30c11dd7aa8d
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/v-rossii-iz-za-otklyucheniy-interneta-vyrosla-reklama-v-sms
-title:в россии из за отключений интернета выросла реклама в смс
-seen_urlhash:0ab28447220a6b7620188845b3b5c55dc46d096fbf3780c132233f3c97504401
-seen_titlehash:eb848401ec98127b4303a1b1c1919b67e40b83e85999e4abec6cf444f1d92891
-seen_reason:processed_not_published
-url:https://ft.com/content/5ce70374-3999-4bdd-b5f9-509b8bd4a6fb
-title:beijing fights back against a catkin fluff invasion
-seen_urlhash:a04ac850857cdb781a96b9256a7aa8ee2feb8cdd9025b756b40497e06cb6b9b7
-seen_titlehash:a5fe1ddafeca6b5fab73be4d372853f57a7e92c603c4253b65cacd8ca412bff5
-seen_reason:processed_not_published
-url:https://ft.com/content/c6dbc33e-f12c-4608-bdf2-c8c4b1cdc211
-title:trump says iran deal does not include 300bn investment fund
-seen_urlhash:e7e439c1de029c0b6afb54690f6763daf74bc7b5f056f9723c191ede12021a66
-seen_titlehash:c88544f71b9d9218a87fc5f047e025035809480fd66705f82a6249c5e981aa83
-seen_reason:processed_not_published
-url:https://ft.com/content/59ea85a0-355e-4f5c-a3d4-5c3c9df27892
-title:europe s emissions trading system is not working for industry
-seen_urlhash:a341f5cc51eddb5657600120ec2b7fc5ce659b2dbf5996de7b77aaf088199d64
-seen_titlehash:d5bb4c169a093ceaad5d87be5bfcbc4e0615c221484ae38f05e1c21d98fcfe0c
-seen_reason:processed_not_published
-url:https://ft.com/content/0ad5210a-3344-44b5-8344-d5a3e7493ce8
-title:trump delays confirmation hearing of former sec head jay clayton as us intelligence chief
-seen_urlhash:4adcfdf807b5dc4b13f59074c2a34119aebc17a297a3db6b95fcdb6be23e3447
-seen_titlehash:6ac52f13948e01213b04bf71de25f12cac041d2fa88da6d7efecdee639eaba40
-seen_reason:processed_not_published
-url:https://ft.com/content/16833c61-52ad-41f2-9d18-63b7298295b1
-title:buying cursor could be spacex s instagram moment
-seen_urlhash:50ea789360bdef6978b489e39cb7e92f6ca141855021ad70645a79e36bca9c0e
-seen_titlehash:799ad13cbd167ca83ef31ac56d5a18442ed4c5722e4c1885f487dfd50551dc4e
-seen_reason:processed_not_published
-url:https://ft.com/content/95262f3d-da60-4009-b9c5-e73a82ea530f
-title:architect omar gandhi s guide to nova scotia
-seen_urlhash:955493d7ef992fb4aaf4fa7337932fd8440383a91981f968d8b844c011262134
-seen_titlehash:4399ac66edae88599b5c36477d900d94a98b39391d2259725f56a631343dda56
-seen_reason:processed_not_published
-url:https://ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed
-title:uk inflation unexpectedly holds steady at 2 8 in may
-seen_urlhash:c387615c83d93abbcec02c2ad11df252a3675603eff1d9da163137eeeb4b80c0
-seen_titlehash:70cce30c324c171fa6f934405bc724c8afbc1c7772fc011e6cde986deac9c71f
-seen_reason:processed_not_published
-url:https://ft.com/content/9806ec63-e66f-48ce-a998-111e4cde0c1a
-title:as stubborn starmer digs in streeting risks becoming biggest loser
-seen_urlhash:6a2edbc554174e17d283671a337a31af46506eb6aa5f0d67008ab205ab5926c2
-seen_titlehash:c638162ecb21af476032ed9f56288346ddf10ace786fefded7ae3e5b45b699b8
-seen_reason:processed_not_published
-url:https://ft.com/content/8c4cbebc-38df-4920-96a5-f1edddf69347
-title:steady uk inflation removes any pressure for immediate rate rise
-seen_urlhash:8b5d9aebd8905dbe727e13051a0bba6c6a59727a24557f4d60ce85b4a3e265d6
-seen_titlehash:21ef71c3e7fdce2be2f8f8654ceecfb36a0fbb20e03d5b7a0cc1d2baf40122d1
-seen_reason:processed_not_published
-url:https://ft.com/content/7577741a-7140-4340-9965-7e439b059a61
-title:jlr to target us millionaires and billionaires with hybrid and petrol cars
-seen_urlhash:964c12e3af10e96aa7eaca96f2ff2c3ef68080ac5e01844997781343bee8d0a7
-seen_titlehash:6a8d00db22528f04a17f29a1e1f208f94cba704f8e700e246fae6b91a6425ffe
-seen_reason:processed_not_published
-url:https://ft.com/content/49051ff4-f239-47ba-b457-b7a0e06f3871
-title:starmer holds out prospect of cabinet job for burnham
-urlhash:98f914935f5ebdb6ce1af9e15f4a72f02b8b0b68c675658c9e5de0edb6bcafeb
-titlehash:404b4c7b32faddaac86bd65143fb134e8f225a327ae4a7ea622b448025c13a2c
-published_url:https://meduza.io/feature/2026/06/17/voyna
-title:война 1575 й день фридрих мерц возможно впервые появился шанс на мир на саммите g7 трамп неожиданно для многих договорился с европой вместе давить на москву
-urlhash:0d13a5eb7a972da47e893760b0430d40d7a7033c5cf7d377a3ede769fbf664c3
-titlehash:98c701d1d752ace1419a130e060d7b08f36f85bd695d1f4492957b88357bde9c
-published_url:https://bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss
-title:iran sends tankers loaded with oil past us military blockade
-urlhash:0cfa049a8fa2d16a902be83c6e3d44c7f57f7d3dc6fb3aa7b759da985c1801c7
-titlehash:eabd7eac938a6aedf55002ce4ae01197515c963a50bf1770a39c00d563e879a0
-published_url:https://aljazeera.com/video/newsfeed/2026/6/17/russian-artist-and-outspoken-putin-critic-shot-dead-days-after-protest?traffic_source=rss
-title:russian artist and outspoken putin critic shot dead days after protest
-urlhash:43b77ac66fef21f16a91b25b337acbf0e438d5b788748686a438f827a403d28a
-titlehash:2a191bfa1456c6593636554d82623a3174b0052c912fa7e51630a30c6e5643f9
-published_url:https://dw.com/ru/мерц-g7-усилит-поддержку-киева-и-давление-на-москву/a-77590696?maca=rus-rss-ru-all-1126-rdf
-title:мерц g7 усилит поддержку киева и давление на москву
-urlhash:67ab45b8ca3ac0e7c558bb733b3f46dfc713c13f2a4f28f1e23831b5d19abf51
-titlehash:2db0aeaf736b70684810f7260021884e5b683857f38565f7116886696eb73960
-published_url:http://ru.euronews.com/2026/06/17/putin-vstrechaetsya-s-liderami-asean-v-rossii-g7-obeshaet-ukraine-nepokolebimuyu-podderzhk
-title:путин встречается с лидерами асеан в россии g7 обещает украине непоколебимую поддержку
-urlhash:3153d7265802708f8c98b5b8f541ca12a0612aea237f756db0421a5f2b0afaa2
-titlehash:572d198971a8f54107a570fd2c3aa65e9a3cebd3b734573c94c0e7ca4b8060da
-published_url:https://meduza.io/feature/2026/06/17/voyna-s-iranom-silno-udarila-po-trampu-im-nedovolny-ne-tolko-izbirateli-no-i-dazhe-odnopartiytsy
-title:война с ираном сильно ударила по трампу им недовольны не только избиратели но и даже однопартийцы причем решение закончить войну они тоже критикуют
-urlhash:45c929c64f89fc74e96c866c34291eb5e041d4a86e2c18a8ede034dd00f47e46
-titlehash:39bc5178f175e102358d7dc4df603d78beadcbb68861682c2287dd56b1cafeb3
-published_url:https://nytimes.com/2026/06/17/world/europe/g7-summit-ai-tech-leaders-openai-anthropic.html
-title:tech c e o s to discuss a i with g7 leaders
-urlhash:63444aa1f700753170483884a6f8c513d714b4fecdd5bacea8ce60c8d8c978e4
-titlehash:52402a63d76f1cb3dbf38ec844a765f9b38089b8ae6b581995161aae46fccd36
-published_url:https://aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss
-title:israeli settlers set fire to a mosque in the occupied west bank
-urlhash:fb1bfab6ee931227a2f913730290e4acddd696df543d70d9f849d672b42db95f
-titlehash:ffafb0a4549d3acd96f016efe948f408efe5eb311fdb16b0c840be5e1d29d63f
-published_url:https://aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss
-title:he wanted to burn me alive 92 year old recounts west bank settler attack
-urlhash:4e07713bf727f6a9f2b06e957fd6556fffc0070ee5f5d2cd74712331b235d715
-titlehash:b625ccdd6ab3bb6831ad09c68d202c94b55d6eacbc412ba6d62ff46d2520ecb8
-published_url:https://france24.com/en/video/20260617-trump-doesn-t-rule-out-strikes-on-iran-despite-agreement-looks-to-support-ukraine
-title:trump doesn t rule out strikes on iran despite agreement looks to support ukraine
-urlhash:b3499ed5cfeb1484e87baf744f102a4e5fd6487fd0ff1344b32f620cbb99cd2d
-titlehash:9bf25770ea352223d3af7f30acf40788728da017d2d8d888ee62ecd8d103814c
-published_url:https://france24.com/en/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance
-title:despite agreement g7 looks to decrease strait of hormuz reliance
-urlhash:937b35f7bdfe621b07c594d46096b6c44972fee84a4506e43fc21146c5d6c1d7
-titlehash:a53848422e6047d3bb24aa32c617714352dff218b413f92ffc3bc4abafe0bfd5
-published_url:https://france24.com/en/france-looks-to-exchange-its-support-to-iran-deal-with-increased-us-support-to-ukraine
-title:france looks to exchange its support to iran deal with increased us support to ukraine
-urlhash:a5e75454f274ac06d39c11c945450be4f669249ee7eb5baa58312f989d6fc707
-titlehash:8aefd941765c528dfc7b2ffb1cc7cb6e1870f9564cb62317edf6e74aac5d2d8c
-published_url:https://dw.com/ru/всу-опровергли-удар-дроном-по-автобусу-с-детьми-в-брянской-области/a-77590783?maca=rus-rss-ru-all-1126-rdf
-title:всу опровергли удар дроном по автобусу с детьми в брянской области
-urlhash:0c3c316abf363df094f0ecdd0d82f9b0767b22f7d12ff0c0db3fb2b1010b9dc6
-titlehash:de9e68e06fc5eea96b8f4376d1ce0093424ff680a71cc5ee2c8b5e68398306b6
-published_url:http://ru.euronews.com/my-europe/2026/06/17/donald-tusk-ob-ubijstve-rossijskogo-hudozhnika-v-polshe-eto-gosudarstvennyj-terrorizm
-title:дональд туск об убийстве российского художника в польше это государственный терроризм
-urlhash:097c3e8cff01531e3658ef67b31adcf1d9b75883574991a0ff5fa3bb6033be56
-titlehash:9e82e4834a5963e619f373645cd5c9f8c4e6c015410d16bf4a12de0f6e1d3cba
-published_url:http://ru.euronews.com/my-europe/2026/06/17/eu-parliament-approves-strictest-ever-migration-law
-title:европарламент одобрил самый строгий в истории закон о миграции
-urlhash:63d7e422c777fa0d9fc3650c614477ee5f1660ef6341c299606c72bb47e75e24
-titlehash:0c251aa46ef1a4e213c21c55ca9cc52de8b4d7c03364d1a171ceb583d767eee5
-published_url:https://meduza.io/news/2026/06/17/karty-visa-i-mastercard-vyvedut-iz-oborota-v-rossii
-title:карты visa и mastercard выведут из оборота в россии
 urlhash:ebaf3b5325e500c95af416f23ee3ca17d6f0b925ff187611c3c6536a41f91e64
 titlehash:a742fa2ff8d7fbdf63001c386ff27bac1e975a9597ecc143c48320f66b348f87
 published_url:https://ft.com/content/06b7fe04-25f7-445b-824a-135ae73596a5
@@ -4998,3 +4831,170 @@ seen_titlehash:63c5dff8ed9c7e0207d41b817e8f96072ab317cea270fa54818433b7c58013e1
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/06/20/popadanie-v-fayly-epshteyna-ugolovnoe-delo-syna-i-strashnaya-bolezn-vse-eto-prishlos-perezhit-kronprintsesse-norvegii
 title:попадание в файлы эпштейна уголовное дело сына и страшная болезнь все это пришлось пережить кронпринцессе норвегии теперь метте марит перенесла еще и опасную операцию спасет ли это ее жизнь
+urlhash:1a99faf9000b1eadba5caa3df0c7330044995aeba1055a08b95c39bd6f91333e
+titlehash:46f3d0417f135c8307e2a87c561bc78e3d052dea9118448d7449c9b5f8cc8fbe
+published_url:https://france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026
+title:drone use expands in sudan and kills at least 1 000 civilians in 2026
+urlhash:7bc0f360812bad4e0abf0147b64c10235c1f60c3e1572acecca2be26214c3998
+titlehash:99df164cbb938bc31d945dd113c9716729cf10e664827257192570280726dc73
+published_url:https://france24.com/en/israel-strikes-lebanon-despite-ceasefire-at-least-16-killed
+title:israel strikes lebanon despite ceasefire at least 16 killed
+urlhash:d7d1546dd0981f04dc4faffe8e5800f88839fd002ab1bbdfab72b07cf80f4fca
+titlehash:ebc1b3744f7b3aaa9ebd79f0c476493e268c3512981dc2c766721d5b5f947fb1
+published_url:http://ru.euronews.com/2026/06/20/ru-zelenskyy-issues-one-week-ultimatum-to-lukashenka-over-drone-guidance-equipment
+title:зеленский дал лукашенко неделю на отключение ретрансляторов для наведения российских дронов
+urlhash:139dc32a9619a412981420992ae84e614295f73250dca859a0474398314fe812
+titlehash:dc2abd5aaaa3158cad155bb028476a03617a47c947e0781fa765a03a37c1191c
+published_url:https://ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5
+title:hizbollah and israel clashes threaten reopening of strait of hormuz
+urlhash:d8a05bce1b2f4450d3f340804d414fac0ab58798b822ddab4c090e780e49b09e
+titlehash:bf9ce0dca14aed15cb45f5e84ad2d9a88d2acd9b8364959bc4f61a0306d5c8ab
+published_url:https://news.sky.com/story/europe-swelters-as-heatwave-intensifies-with-temperatures-of-up-to-44c-forecast-13556084
+title:europe swelters as heatwave intensifies with temperatures of up to 44c forecast
+urlhash:002225c74f6ff44735deb239d754609a3f8f79d55bcc8a2b2a343394f58bcd0e
+titlehash:adfcb31077a85fc79596a2125aa8194601a18022829a1f9b1ad6f66966544863
+published_url:https://news.sky.com/story/death-rate-at-camp-in-dr-congo-spikes-amid-fears-of-ebola-spiralling-13556062
+title:death rate at camp in dr congo spikes amid fears of ebola spiralling
+urlhash:e94c19cfbe18a4e299aefef84c75015affb4cca3f510f0e206332068262f8ab7
+titlehash:8b61b94864083276b8db93c22daaeb04e251510c28b14f4ca703c753999ea9a7
+published_url:https://france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute
+title:poland strips zelensky of top state honour over wwii dispute
+urlhash:ce86b8d97f8b4ca7b414b11e107401bd646566564b040ea1b90437a0b45cc6d8
+titlehash:b96c0bd6325aa67c9a1bfb8b3acd0213958b1d11486a509c4efc50f2e94ebc25
+published_url:http://ru.euronews.com/my-europe/2026/06/20/ru-bardella-in-poland-we-will-win-in-2027-and-shift-course-in-the-eu
+title:в 2027 году мы победим и изменим ес лидер французских ультраправых съездил к союзникам в польшу
+urlhash:b36765ab0cd748598d760c378b8603a4d45a1f609586bc0365c6440e73ff4ced
+titlehash:e4317822dd2db037c683635ee470275b8654623d4f27102f1a7712896c3312df
+published_url:https://meduza.io/feature/2026/06/20/moskovskiy-npz-v-kapotne-posle-ukrainskoy-ataki-vid-iz-kosmosa
+title:московский нпз в капотне после украинской атаки вид из космоса
+urlhash:4c9aedaebc018b84205067084e8faf6914dd6231320aba4145a40a77093a4ab4
+titlehash:21a9e7ad39abd66ada18d4dc9ebb2d1a5992bc8f644821c51555b81e58fc1988
+published_url:https://nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon/shipping-remains-far-below-prewar-levels-in-the-strait-of-hormuz
+title:shipping remains far below prewar levels in the strait of hormuz
+urlhash:133ba2969309a3dacae9be917c7225b35bb8ec3b87ff23c89e2d5c7f23644a07
+titlehash:09085c3b9d1b917dc45a13ed8d9700a30e2f44e83c644e5e121b29a93ae480e8
+published_url:https://theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff
+title:ghost of far right paramilitaries hovers over colombia s presidential runoff vote
+urlhash:2a5efd4377e73c5b3812d9f42051c0caa2c163f146001f783583905f9cb113b5
+titlehash:ed38fb02fa473eb96fd87547b5b2a543a3a1311952f80817a2f4d2f62df21338
+published_url:https://dw.com/ru/в-боливии-ввели-чрезвычайное-положение-для-разгона-протестующих/a-77636600?maca=rus-rss-ru-all-1126-rdf
+title:в боливии ввели чрезвычайное положение для разгона протестующих
+urlhash:75f3a577abec2755b6b03eef91874e213b7525182c8c3b9fccca009992bca3e3
+titlehash:ac6233d2b61b4ffd7e6fb0af11125c25471a42789c641485593602c0d5275935
+published_url:http://ru.euronews.com/business/2026/06/20/ru-russia-fuel-crisis-inflation
+title:топливный кризис рост расходов на войну в банке россии назвали что может ускорить инфляцию
+seen_urlhash:1c245d5d73b6755800e62fa4d46f54c95dfca9574fcf9e0c6236f71ec42c1815
+seen_titlehash:3f512bfba362c7a87c6b02c09a90369006a68d0e12ff2ac61d85b9a36cf33c49
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html
+title:after andy burnham s win the uk is set to test how far charisma can shift electoral dynamics
+seen_urlhash:2cb93f79f7fdd8de8bffe6055f002f6d47ef2464435c75708a0858bcaa5d9b7e
+seen_titlehash:ad8b8d4a93bb2e67306f2174315cacdfab11a604ab69e2713f04a0a25e692f64
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss
+title:where do iran s political factions stand on the us peace deal
+seen_urlhash:2df30023da4800c9ab59663f04315ccffadd4a9e0463d20c17b6c6bcc23d0b09
+seen_titlehash:072ccf9ac108f3521374c4352435186d05f10b425f9e673c7703209399e44fd3
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss
+title:in nepal s highlands climate change threatens tibet s bon faith
+seen_urlhash:ab03645aa73ceb8c80ac1c9ff32c4bdd1e93d1104612841dc2db175617d9a8c6
+seen_titlehash:0586e26cd72f6b557d22b6be75edb9a191c761155355a1d75fa5eb236633d3a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss
+title:uk condemns israeli minister over inflammatory lebanon remarks
+seen_urlhash:ab6cfde0a77b4ebd26e22c21fca55c4174e7339792b140a3a4c2822e1bf9372f
+seen_titlehash:49979ae77af58368cb721aa51265ce84eec5f0f39bee8f490cd7c88ff61fb272
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss
+title:top ukrainian officials return polish awards in wwii dispute
+seen_urlhash:7000b69c0d1d88bb11e240035e44cc10a6c461bcaba2bafb9ee807aedbbb5aeb
+seen_titlehash:60417584a7a81b818f9d8a9871b512a75afa8de08458f05f93c6e4aee1ba508a
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss
+title:why tunisia s renewable energy strategy is facing resistance
+seen_urlhash:8bcc7fb8571724d37a198ac681c5fdf1c114ccf3ebef6b1f47c2bce1906db5cd
+seen_titlehash:5848d64b62245553fb6306ab06173ec708e9550d52abe60a564eb8d463d276c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss
+title:an israeli court has convicted seven men over the 2021 lynching of sa id mo
+seen_urlhash:7fb2542109d1456f19f92446d08ccb7aac09b8401c5ba888fd0a746829abf6fa
+seen_titlehash:029e39dce934349de8734c5e40eb039a5434bf966ecf2c2a5a5f19016533b9e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/20/slave-trade-reenacted-on-juneteenth-as-leaders-demand-reparations?traffic_source=rss
+title:slave trade reenacted on juneteenth as leaders demand reparations
+seen_urlhash:75dffd5fdceeb2ac671471f208d49d0578621eb1c8c4bd68dac92b61c1dcef97
+seen_titlehash:371e14d986491f6cdb25d848d31971e84e7c551ac2002242433da9b7c499c34c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/msf-says-conditions-in-lebanons-nabatieh-resemble-a-death-trap?traffic_source=rss
+title:msf says conditions in lebanon s nabatieh resemble a death trap
+seen_urlhash:8fd67188846eec57e6497933947c5cc2b49330cda033b490af97f6d56adf77d5
+seen_titlehash:5e395f462eaecbb3650f57545fe1a422a6905c9d461c2f9ec0de38639b645c2f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss
+title:german journalist held in syria back home family says
+seen_urlhash:03d3403599363bf5cbe4fceb645b544e6f567e81bd5e35310cd360936165e057
+seen_titlehash:db205d7c62a8a96c2be3a34e32453bf13ce53d163943f0d3cd15474117f8cbd4
+seen_reason:processed_not_published
+url:https://news.sky.com/story/trump-hits-back-at-meloni-after-she-said-he-completely-made-up-claim-she-begged-him-for-picture-13556090
+title:trump hits back at meloni after she said he completely made up claim she begged him for picture
+seen_urlhash:2c2c952352bb3571887c91445e561088a6028143234cd726c5dc51674208e6f5
+seen_titlehash:4ca2f95d3436b18c4bc281ff55ce32253737d6059dc9b95a5e37a0b709060e26
+seen_reason:processed_not_published
+url:https://france24.com/en/ngos-in-lebanon-denounce-israeli-attacks-on-medics-amid-ceasefire
+title:ngos in lebanon denounce israeli attacks on medics amid ceasefire
+seen_urlhash:44497647ab2fc5cc534136721f3b9d4266c5cadd82e1948b89e2a465a354f0e4
+seen_titlehash:af883adeffdd7b06e8c7b16ca3f5d472ffe24a1315fb2e57b8494da76319d51f
+seen_reason:processed_not_published
+url:https://france24.com/en/extreme-heat-tears-through-europe-how-do-countries-deal
+title:europe swelters in gruelling heatwave authorities ramp up warnings
+seen_urlhash:dc9407b05d0efeb8e4b5f156fbc2359b800af84916af0983814d2cd12bb6c7d9
+seen_titlehash:32517e9ce3e1a25c98e5a8c6333b1b4e8a662cdc1b8de15285ad63794fbb9244
+seen_reason:processed_not_published
+url:https://france24.com/en/african-fashion-takes-centre-stage-at-france-s-galerie-lafayette
+title:african fashion takes centre stage at france s galerie lafayette
+seen_urlhash:a33c1c1a4aeb32e2951ef031e8f57efff431efa8c2dd6b2c87752ab0d7c25417
+seen_titlehash:d833c6c141421b168d57ae90e2c0f9128e142b2c2f6ebd41362f9be7a69e7179
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260620-why-are-so-many-brits-in-paris-for-f%C3%AAte-de-la-musique
+title:why are so many brits in paris for fête de la musique
+seen_urlhash:4a440ad98550023917ba524d0076ca8532d773ab18b3a64a36c0d751edd9ba31
+seen_titlehash:b620cd989ade52bbd356ff7b3806475048c7ded6510d896d083fad4cf62a8036
+seen_reason:processed_not_published
+url:https://dw.com/ru/перемирие-израиля-и-хезболлах-нарушено-десять-погибших/a-77636667?maca=rus-rss-ru-all-1126-rdf
+title:перемирие израиля и хезболлах нарушено десять погибших
+seen_urlhash:66ad767ac581bb0716989edef41ecab3c3605bb317f24ea253f49c812fee323f
+seen_titlehash:073f0bf17b0c5dad7b8c9d348d307ecdeb5e3557698cad2c8e24e679b6f98e56
+seen_reason:processed_not_published
+url:https://dw.com/ru/утечка-фосгена-в-немецком-дормагене-25-сотрудников-химпарка-пострадали/a-77636006?maca=rus-rss-ru-all-1126-rdf
+title:утечка фосгена в немецком дормагене 25 сотрудников химпарка пострадали
+seen_urlhash:e70cb1df9185061e30ca1f716e60ed8a597c4aeabdc66f8311581f22e06b6f4f
+seen_titlehash:a4ec46f08b8587ae4bd2b03e5809cce0f4f65caac8b9db1dd113205da4e7e999
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/20/forget-do-not-touch-choreographer-william-forsythe-invites-you-to-dance-with-the-exhibits
+title:забудьте о руками не трогать хореограф уильям форсайт приглашает танцевать с экспонатами
+seen_urlhash:87e447e43317226a2cf67974ad9395ca4926d3388a78ab131d597266f564c6d3
+seen_titlehash:db822bc4ccc24dbc47b6cc491a51cfca2fbb9c77d42ae83618b6c4b275ee09a1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/20/ru-usa-sail-through-to-knockout-stages-as-scotland-falter-against-morocco
+title:чм 2026 сша выходят в плей офф шотландия спотыкается о марокко
+seen_urlhash:fbf5b2fe9b28f35ae168c80c3328b2aec77e5a2892f5a53ad2085dd7727fe5dd
+seen_titlehash:8767a0b402e96b822247af2ffacae24224fdbf8f397143fb827a36c796b77c6a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/20/v-krasnodare-prestupnik-s-nozhom-napal-na-posetiteley-torgovogo-tsentra-pogibla-zhenschina-est-ranenye
+title:в краснодаре преступник с ножом напал на посетителей торгового центра погибла женщина есть раненые
+seen_urlhash:1e251ed2e30e609559be20396a2651d7ae23a72614ecd013aa8e8ba613fd8c9d
+seen_titlehash:d31f127c7fdd07dc6592751065be4f6e20e23292a6c8b4d699fc62d2d471a779
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/20/eto-istoriya-russkoy-kultury-s-tochki-zreniya-lesa
+title:это история русской культуры с точки зрения леса исследовательница из сша софи пинкхэм написала книгу про особую роль леса в россии мы с ней поговорили
+seen_urlhash:e4ca4e688b8375b911d91e3ac5776004efa090627760572ff124176b1bd1b298
+seen_titlehash:38144d61357bf21bf2d3f0e4ec894632f4d56b9e3e175882f4d1e2d72f3b0738
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/20/soosnovatel-ubisoft-klod-giymo-pogib-v-aviakatastrofe-vo-frantsii
+title:сооснователь ubisoft клод гиймо погиб в авиакатастрофе во франции
+seen_urlhash:291fbb766a12f04639d33a55a880d1f788fdd33dfc82000bd7efd3a6018e1812
+seen_titlehash:1f0b4b399358cb7eb1da8450944dcaea19e16f38b659112cff43d8e6df1e4b0d
+seen_reason:processed_not_published
+url:https://ft.com/content/70eff4ca-12c3-41e6-a584-9c9229b2698a
+title:renault to abstain on nissan board appointment
