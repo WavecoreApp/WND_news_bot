@@ -1,34 +1,3 @@
-title:сделка трампа ирану обещают 300 млрд отказ от смены режима и снятие санкций
-seen_urlhash:10d5020d185ad705681dab4fdeaa3e81017c9483eefb045c0eeee805ac128975
-seen_titlehash:5d728bcf2e80cb53c9637f9595a01e2214cf4e6d31460a15f1a011a7bfd92f04
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/17/ot-kornej-k-rostu-sohranenie-kulturnogo-naslediya-katara
-title:от корней к росту сохранение культурного наследия катара
-seen_urlhash:55cfed4a56ed07e97065436fa5e879a041e4bae9702a41c7391d7744acf8bb4b
-seen_titlehash:4df54f989884603e5d348290308450de72f8faaefbeb5a16782e8e0b219c5c95
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/17/world-environment-day-summit-calls-for-accelerated-global-action-on-the-climate-crisis
-title:саммит ко дню окружающей среды призывает ускорить глобальные действия по климатическому кризису
-seen_urlhash:ca0f5b39088a27df129deccb47217b23f656b630d1ed8a4b133d71de86d1b700
-seen_titlehash:addc5eadb8a38bd3d049ffbd228e780c7b21707741d9ff32eee02f4c481e20ab
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/17/futbol-i-dvojnaya-identichnost
-title:евродепутат мандль футбол и двойная идентичность
-seen_urlhash:b37a8e46149e068ae5354f96a77fccebf8534710ec41a1bd6a7fbbb8b19e1137
-seen_titlehash:eaea0981e62d5bcf5ebf9c4eb4c0f540fbdd17473689d4c49d82d8e792fcaff1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/17/this-hotel-chain-has-just-launched-an-anti-appy-hour-to-encourage-guests-to-put-their-phon
-title:сеть отелей запускает анти appy hour чтобы отвлечь гостей от смартфонов
-seen_urlhash:f9a137f65346c83098587a974ad8bd2761e7fdc49f110a28d1109e9f97773bce
-seen_titlehash:82eb90e7b23d343fa8fd5095b30854688808002111fd290cb31446eb304fe316
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/06/17/shared-home-shared-microbiome-study-suggests-flatmates-exchange-gut-bacteria
-title:общий дом общий микробиом соседи по квартире обмениваются кишечными бактериями
-seen_urlhash:4c66af360a91c366fb93f158e103826f62333e0273dcbc78068da0617b29665d
-seen_titlehash:289c404c21083df37e89dd3c86f1c4901b7774b97cae911c0524b722863f0d70
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/17/glue-the-key-element-that-has-allowed-the-completion-of-the-central-towers-of-the-sagrada
-title:клей ключевой элемент позволивший завершить центральные башни саграды фамилии
 seen_urlhash:e89e70d067b5c0d544ad7018f2f934b8e915dfe48c2ac11f01e6b39837cb5fd8
 seen_titlehash:92d2c1a6516e1ba8904192e8873742684c3b2b3f9fdc4b3d189da40ca7de2bda
 seen_reason:processed_not_published
@@ -4998,3 +4967,34 @@ seen_titlehash:548c0416680484339ad4c5be82dd1f23e85a671e7a1a4a1d8f4c72222d5512b0
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/06/20/etim-letom-v-peterburge-tolko-i-razgovorov-chto-ob-ostrove-karedzhi
 title:этим летом в петербурге только и разговоров что об острове кареджи из за сбоев gps это теперь одна из самых посещаемых горожанами точек на карте
+urlhash:73152bce6bf8dec7fe9d6e164916b91277fed6a75fd8d2ad7877b5d0a8dcf58a
+titlehash:1abb46be73713e6b393d2cbf0c5e3fd34e50e7bcb4664f1470a704e36e85236b
+published_url:https://aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss
+title:ukraine says russian attack kills five people in zaporizhzhia
+urlhash:09e47c40626888a1da3a6df9defeed059e42757239f9d57615b875724f79af84
+titlehash:be3b9912bff0bbb8c5b68e6a117e0ba5628900711e5c12683495e65f1b1e3a44
+published_url:https://dw.com/ru/украинские-политики-отказываются-от-польских-наград/a-77635268?maca=rus-rss-ru-all-1126-rdf
+title:украинские политики отказываются от польских наград
+urlhash:2e3640773a70bd6d43ab70e3935dd027c2832ccc7d6d744f076e25732cb9a424
+titlehash:a0130895ffafd10959be434974a3b89f9cb0c548ed2b1da675442edddfed2ae6
+published_url:https://nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html
+title:huge blaze ravages dominican republic beach resort
+urlhash:0e6916d0fccc945a89a85d4c33f5431561104a093a030adc25d0bf60f2b28c55
+titlehash:59989fc5509c201b72a10937bfd7da2e7be147c3c6c2725eca5327537be16066
+published_url:https://aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss
+title:overplaying strait of hormuz card will turn iran into a pariah state
+seen_urlhash:a338bfb2575f781887193ce5fd6963d0e184edeabe64c825a90075971f3c96b6
+seen_titlehash:e6feaa06b7e1e0f028ea4febe745d8839f1be0906a23a453a55f6f2c7b3d8da4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html
+title:wife of spanish prime minister to stand trial for corruption
+seen_urlhash:abb3265c0ef4583cf29b100239d273b449a3a3a75b118d19f0fea906d455f67b
+seen_titlehash:bba41e4471001d1afc65e444aaf5949458cae2f311aec8616ae4c832b2b110ab
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/21/pauline-hanson-women-working-mothers-paid-parental-leave-childcare-income-gender-gap-economy-one-nation-ntwnfb
+title:pauline hanson s stance on paid parental leave and childcare could turn clock back by decades economists warn
+seen_urlhash:08a01bdf28008e3433ff6d9a77322df3162a5ecd208a2cc4d3dc6af0d5be1d6b
+seen_titlehash:e535282452eae9fc38bae6e728d3780009488484da9d121d5d926c4988c097d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss
+title:are uk prime minister keir starmer s political days numbered
