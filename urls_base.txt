@@ -1,11 +1,3 @@
-title:the oil shortage is ending and now comes the glut
-seen_urlhash:e8b2bff9c6603fc8800e7d8781d2499163ad93a15337654684d406b39a3f09d9
-seen_titlehash:ebd5114ed5f17759fe074468c959b5c83cb21f9eaefc570c8dd02ac4e9e28444
-seen_reason:processed_not_published
-url:https://ft.com/content/0ac836c4-1402-4d31-a8b5-21f6a0255046
-title:firebrand general accuses meloni of betraying far right ideals
-seen_urlhash:b8c19fd801bea39959faf66e2a0c88b26e57b98a59b277957de96c4f3ba8bff0
-seen_titlehash:8bcb7edccbd47e09f914b3798fa39888d70a7e8edbe4db83c03d53b03e2d45eb
 seen_reason:processed_not_published
 url:https://ft.com/content/82c8ca57-a4ba-4387-a4a9-d6e020317610
 title:eu readies trade relief for armenia after russian import bans
@@ -4998,3 +4990,11 @@ seen_titlehash:2d11b1c132bbe8869268839c35f2d78f09f922258f09c26993543cb27bb9923a
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss
 title:israel kills a child a day on average in gaza despite ceasefire un says
+urlhash:207fdf07ffa33787c05433ea747dc3d1da02a48189e9f09b66f208b521fb640b
+titlehash:599ec08ba22e90f81a2cb3818b4dc684a2b459876f43cc7e3d14a42ed9f5acd8
+published_url:https://dw.com/ru/сша-израиль-и-хезболлах-договорились-прекратить-огонь/a-77633007?maca=rus-rss-ru-all-1126-rdf
+title:сша израиль и хезболлах договорились прекратить огонь
+urlhash:a206e40b6b4ab0ab18ec66bf708b7013a4368c3b3b77fd0402eac0cee72b3afb
+titlehash:36cf493bbe262ac52c41b797bf88437acd6e91259129ff9081b7d190b7bbfa7a
+published_url:https://aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss
+title:us judge rejects joe biden s lawsuit asking to withhold memoir recordings
