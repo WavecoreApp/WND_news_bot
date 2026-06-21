@@ -1,130 +1,3 @@
-url:https://nytimes.com/2026/06/17/health/pepfar-cdc-cuts.html
-title:new plan scales back c d c s work on diseases abroad
-seen_urlhash:c3336c2d1ec409d7fcfb1e57eee8355ade8d21724c8e4c70bbbd291226e4bb7f
-seen_titlehash:afc9f028f62adefd5340f01b94596f9817fca36e619c1117e4e93164d2bc2b3a
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/17/world/americas/jamaica-us-third-country-deportees.html
-title:jamaica in talks with u s to temporarily hold deported migrants
-seen_urlhash:993c5abcc97034e6dc2229324469c63681899133b0f363bf1fca3682d3be6457
-seen_titlehash:78399324f6c2647ab3244b43b53bbd07849c0ef596fd066f477555642ec6f163
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/17/world/middleeast/us-iran-deal-trump-hormuz-nuclear.html
-title:trump administration shares terms of iran deal including oil export waivers
-seen_urlhash:5fd9fb435f8da64d3013501d4c9cfc664e5e2bd4e41855ff16c5330ae9888b38
-seen_titlehash:0cf780f81a118a63532e630c5d2df0916eec0e3bb7468af389414de47bec4fe9
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/17/world/europe/trump-iran-school-us-strike-minab.html
-title:mistakes are made trump says about deadly u s strikes on iranian school
-seen_urlhash:0d4b7826142dbc17eda8750bdf4f40ef099f0d45b92b5f8fb5916816845d6317
-seen_titlehash:de7fe3fa8be708d76b47ad9f535fbb5f84d3c38773fea5b80e1ad97989c706ed
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/17/world/europe/trump-g7-europe.html
-title:after a day of harmony a mercurial trump upends leaders summit
-seen_urlhash:6ef214f59098818c34054e3e391c224f85a67efd3f18f87d533039b484a8f6b8
-seen_titlehash:582f7ce885a7085ea83934ade055f623a661fe8b6bc0034ced917b813331ebe8
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/17/freed-palestinian-prisoner-meets-son-conceived-with-smuggled-sperm?traffic_source=rss
-title:freed palestinian prisoner meets son conceived with smuggled sperm
-seen_urlhash:193f307c9b69b04f00584b8dbda7e56859a099df436e9b34c8d854189218da66
-seen_titlehash:d59341ef68f19f3785b206cc741e9b82ccb45e5365ddcbca4a5ed8104d1834f8
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss
-title:tehran says considering plan for iran us presidents to sign deal
-seen_urlhash:4b29c8e523e373e59d46b62cbba785cf867783f798e6a1c55a186b150dd005c5
-seen_titlehash:7271b42ea67de43fd8858c0bc3e7f7d243e333f74ae8ed53c1bcf11c8d0ec82e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/inside-story/2026/6/17/will-ukraine-become-an-eu-member?traffic_source=rss
-title:will ukraine become an eu member
-seen_urlhash:e826f256da238a41addc6dabb05db8be6f95fae3f497f052897ecb996ba3e8ff
-seen_titlehash:e7f48752d2ffe0b9fff2bb73d14758b2503ed766637880c492e8c0e64eb0a994
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/17/police-clash-with-malawian-protesters-demanding-deportation-in-south-africa?traffic_source=rss
-title:police clash with malawian protesters demanding deportation in south africa
-seen_urlhash:f0e24df8d48efc791f4608cfe80b431a3d58de24bddda63a156bc8c5230f5182
-seen_titlehash:ea3b80d2ebe026d06fc0ab7edc025a42ed9a55d0b6d35815ff3dfe63e96fe51b
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss
-title:trump world will find out pretty soon if iran mou signing will happen
-seen_urlhash:b707e1020ea53e9ddba7da403669f29d77965598e051fadabe52623e757390d6
-seen_titlehash:1230d244184484aa0dc1cfbaffd97a53058e06f9726733b52a728415125165a1
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss
-title:us federal reserve holds rates steady under new chair warsh
-seen_urlhash:086837234010f83eb7838a6751460f08a21b244bf207783193a201a749d2ce2e
-seen_titlehash:5187a21d89d1d06c2485f13a2fc7c1a671b1a4e6050f4fd787a4f51b9e45bd22
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/17/thick-black-smoke-towers-over-paris-skyline-after-warehouse-blaze?traffic_source=rss
-title:thick black smoke towers over paris skyline after warehouse blaze
-seen_urlhash:a2ac3d1637bf3e58f307d32aa24ee0aaf9246486f22f6b58ce99c4560976c73e
-seen_titlehash:a3ba2ded6e90806b9bd688cf5597545e3fd09ac0fe02a244e9f328d95684e9b5
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/17/luigi-mangione-to-use-psychiatric-defence-in-healthcare-ceo-murder-case?traffic_source=rss
-title:luigi mangione to use psychiatric defence in healthcare ceo murder case
-seen_urlhash:08bb87a30a8eafccec67ec4ba8d0e6457955ed472e5e3242aacea52aba590371
-seen_titlehash:ee638d3f214c422e3e38d6a3d196762bb51b3ec6758f21202c904b741ef68522
-seen_reason:processed_not_published
-url:https://france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal
-title:diluting uranium oil sales what s in the draft us iran deal
-seen_urlhash:69ea0aa939b99d49f9d2c66084e0536cd51ff7b655aba2431dc3d33c01da1879
-seen_titlehash:2c5047185c8ca23c137b370c5592daf28a75c9326281c7d40af5a99741528fe4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/17/zashita-luidzhi-mandzhone-razygraet-v-sude-medicinskuyu-kartu
-title:защита луиджи манджоне разыграет в суде медицинскую карту
-seen_urlhash:92649d6bd82ef768dfe258b1273a3125e6b1258e46256260b473d96062c816ea
-seen_titlehash:ef93e19ebe507fcae5a4e1673201392caefa223c935849c3c6b1226a62854ade
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/bi-bi-si-prints-garri-i-megan-markl-privezut-detey-v-velikobritaniyu-vpervye-za-chetyre-goda
-title:би би си принц гарри и меган маркл привезут детей в великобританию впервые за четыре года
-seen_urlhash:7285557bcab393f2823fb7a4c562dac9d0b8d9affdadfc61d540975bee507e6f
-seen_titlehash:16b4f25e0829e100aa5b5959f703effa9a647e3a7d2bd9484de30f568c7b3f53
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/17/v-podmoskovie-razbilsya-legkomotornyy-samolet-dva-cheloveka-pogibli
-title:в подмосковье разбился легкомоторный самолет два человека погибли
-urlhash:75aa63cb84e97891440f3745bde68a2db0cb271d140f578ea299df5e8de68e29
-titlehash:2941e7ea36ea444930a30b13194ac24b44d03e6c94674ed7fa7c007f7e6c73bd
-published_url:https://aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss
-title:read the us account of unreleased 14 point iran ceasefire memorandum
-urlhash:5be74fcb975d4b11106abacc4c1cc14b4d53e7431e7485ede50212fcf4c98b93
-titlehash:0d9a9865d59947695a28b35e09bc9d2590d4810dce301f8c6635d683b40282cb
-published_url:https://nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html
-title:trump defends deal to end the war with iran as details emerge
-urlhash:00521ab4319bdc41145859c4d48002565cdb1eb14180bc64fe0bda5f64e027ae
-titlehash:8f19e9f23660e943ec7d4f4bd7c1b4733592851480064263619cb9b99bdd98e5
-published_url:https://aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss
-title:don t meddle lula calls on trump to stay out of brazil s elections
-urlhash:9376d8c3ba735fc49e621e29578e8dc1c1d9e0d06abb4821093bcdb323bb4abe
-titlehash:c2c8814e42fbc416e7e490300d3f8f212e7621251215fb6590543b745af1e136
-published_url:https://dw.com/ru/вашингтон-и-тегеран-договорились-о-мире-санкциях-и-уране/a-77595444?maca=rus-rss-ru-all-1126-rdf
-title:вашингтон и тегеран договорились о мире санкциях и уране
-urlhash:fadeee20be4a2c19dbbdf8ce28b9eed72d6496119b0730014975495efe9d23d5
-titlehash:af5f11ec429eb080570062cd73b5f4e6efaf0c60d0025220e8eb6f599ef826d4
-published_url:https://nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html
-title:trump criticized obama s iran deal but new deal would also offer tehran relief
-urlhash:f5a9b3558414364e361dd64e9fb7d26262e73aeb647492516192c67c9dbba722
-titlehash:9df5f7dc832b35faf41d8397b33b0f7089f37451eeee4e8bc9781df501fa89f1
-published_url:https://nytimes.com/2026/06/17/world/europe/us-iran-oil-sanctions.html
-title:u s will waive oil sanctions that have long crimped iran
-urlhash:ba20fd638dc1b86674e7158cae413ebcf7afd8e1ac6eb2161615fb7f3f9e7f6a
-titlehash:c63b473e9897287f02781de37b5425c576d81d226f9ec0246ce32d3e2c4575bc
-published_url:https://aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss
-title:huawei cfo s admissions can be used at criminal trial us judge rules
-urlhash:f0e40f4ad824737b02982a4a593b9e9521dd471496937c59d71549701932378e
-titlehash:582d5dc65998afc8bc286bec15536f51fbda8ff726ed77598c439ab73f78d053
-published_url:https://news.sky.com/story/the-14-point-us-iran-deal-what-is-in-it-13555121
-title:trump signs deal with iran aimed at ending war read the 14 points agreed
-urlhash:0baea4331d73b0c1a1fb250fae281b4abecf72faf1a4599ff697e21b15544cd4
-titlehash:6d3900edd33c9860314b1a8b0e76f9d11f2934b17a127a3589e253cccd854e29
-published_url:https://dw.com/ru/европарламент-одобрил-высылку-нелегалов-из-ес-в-третьи-страны/a-77595629?maca=rus-rss-ru-all-1126-rdf
-title:европарламент одобрил высылку нелегалов из ес в третьи страны
-urlhash:51e9bb38f4acecde2fe230e28049bce3e1c482d03aba0b897a15d0134b0aba3c
-titlehash:d6212b2604908814e5bd1bc70d2aa0198a2c3f5123caf3bbf22010ce5eaea8dc
-published_url:https://ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37
-title:trump to release iran s frozen funds and ease sanctions when they behave
-urlhash:aa816aaa5fb13cbb4dc119670ed87d9b94bbf236a9e5c55fb28109f80897e46d
-titlehash:5a17268c2d9932a3a83c7c570cd383e37d1231b938079eccb1c003e268e02e13
-published_url:https://france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day
-title:unhcr campaign to defend fundamental human right to asylum ahead of world refugee day
-urlhash:ca55fc4a5d2a4bee1721e8a68ee41915604364a7735aec496719d62440dd12bb
 titlehash:eee603d904406cf0260e85ff821e5fc00f0f8021b90acfea5e24c6cbd13eaded
 published_url:http://ru.euronews.com/video/2026/06/17/trump-welcomed-to-versailles-for-dinner-with-macron
 title:трампа принимают в версале на ужин с макроном
@@ -4998,3 +4871,130 @@ seen_titlehash:3c0a2e30adb40f362629fb594d9b111a978cd9caf2cddf3ebac6a7825415076c
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/06/21/skladnoy-ayfon-zhdut-uzhe-bolshe-desyati-let-teper-vse-ukazyvaet-na-to-chto-apple-nakonets-ego-vypustit
 title:складной айфон ждут уже больше десяти лет теперь все указывает на то что apple наконец его выпустит что известно об этом таинственном и вероятно очень дорогом устройстве
+urlhash:72913802da5f72886423b72cf9ba9525d81dbc41308e68adac1e952fb221d0d2
+titlehash:ced543d81a083efe395431271e00b8b154c7c43dc11406fa3038df5abe55d5c5
+published_url:https://meduza.io/feature/2026/06/21/voyna
+title:война 1579 й день в крыму после атак украины полностью прекращают продажу бензина в севастополе отключают свет
+urlhash:c62e11fcb61e7860692fa85e976252c3602b62a1147cbac429fa1c296e19f8cb
+titlehash:9caf6c7796bff6c2e2a7947a705263e714e272b19f55c466314b43fe4c2a50ff
+published_url:https://nytimes.com/2026/06/21/world/middleeast/iran-nuclear-talks-questions.html
+title:iran nuclear talks expected to hinge on these 4 questions
+urlhash:af5379ee21a186a0ed18fe9d6b5665347b358af03eef634fada836b7757812c8
+titlehash:ddf9390972492b5a987bdb7ee8a09a9d44d4ddecb518f70e3c382629c1f596ca
+published_url:https://france24.com/en/israel-and-hezbollah-trade-fire-as-us-iran-talks-begin-in-switzerland
+title:israel and hezbollah trade fire as us iran talks begin in switzerland
+urlhash:2e525c2e2484027b59a5b677f04328e8982a840619daf61b9f89539b19fb599c
+titlehash:642d24d46018d23bc41e37010cd5c3b057ae8693f7580d02a2c302b203b9be44
+published_url:https://dw.com/ru/сша-и-иран-обсудят-21-июня-в-швейцарии-прекращение-войны/a-77644508?maca=rus-rss-ru-all-1126-rdf
+title:сша и иран обсудят 21 июня в швейцарии прекращение войны
+urlhash:7378251194a1e7b931b5e9a28229e20475fa619739d97fc46e68a32b653789c1
+titlehash:a93cc452090f2a39fda7cd2bc07571f5b6a5c3c21b60229340183ee6cdd9cb26
+published_url:https://meduza.io/news/2026/06/21/pomoschnik-putina-rossiya-ne-zhdet-vypolneniya-dogovorennostey-ankoridzha-a-rasschityvaet-na-pobedu
+title:помощник путина россия не ждет выполнения договоренностей анкориджа а рассчитывает на победу
+urlhash:eab48fba4cd2345d5a4d3ab699b77fd662222f949d0bf6ef00d8bcdc2aeafade
+titlehash:02121ee4f2ba1fd0286acb59998612c1bc162728de9b0879b22fa1e00bd2c545
+published_url:https://bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss
+title:fuel sales halted in occupied crimea as ukraine targets oil facilities
+urlhash:70d45750b9eeb24360c80c5cdaee28a76f2eeab5eba60a59c910c96667450d24
+titlehash:8c238bdc82260b7afe9e14358ec084538d1f8e4a4a2bc644b19a3407b8694604
+published_url:https://dw.com/ru/крым-продажа-бензина-на-заправках-полуострова-полностью-прекращена/a-77644292?maca=rus-rss-ru-all-1126-rdf
+title:крым продажа бензина на заправках полуострова полностью прекращена
+urlhash:fe44e91d9a67302eaacca2d72bbe6b0a11d6647c1044a227e4ce426f8f3d3b88
+titlehash:58f92e7559fa7ef21d7c182d1fdd65bca54d4d6c5e5b5307fd0fa8fb97f5d9db
+published_url:https://nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist
+title:israel directs its military to limit its actions in lebanon though tensions persist
+urlhash:3f07056b13ef932fa8d4698548631e378403829c9b8d5b97784cdcd020b5199f
+titlehash:7995b8b2acf6e784ea43a7028c2bf647e2c9249b1c62913e772d7482d8c8e51b
+published_url:https://aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss
+title:lebanon s ancient monuments remain at risk from israeli attack
+urlhash:16df47cda27ec03a22be577807507b985bd1e8a4c28cf565aed89e31dbffc8fa
+titlehash:006eb676c1155d10f8c7a1341cd9b8c5d501f0ec7c5b359ff99991ad8639517b
+published_url:https://aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss
+title:colombians to vote in presidential run off pitting leftist against hardliner
+urlhash:e75af5e16b0558dbb5586f1c4de7b733b75cc521ec1f19f0616d5ac420dd022f
+titlehash:bafa8bd8a888bca106fff829daba2bd6ac2667cf7acecc82830ed718530cbd1c
+published_url:https://france24.com/en/zelensky-stripped-of-poland-s-top-award-amid-diplomatic-spat
+title:zelensky stripped of poland s top award amid diplomatic spat
+urlhash:fc43de7fa982e59c22d6c94dbc22023fa8166d84c185252c0a8943ae4da7e921
+titlehash:dd11a715a1c0304cb147e7d0878a0ecde83b2deef939ad062cbca1c78ef70b0e
+published_url:https://dw.com/ru/германия-резко-увеличит-число-депортаций-в-афганистан/a-77644960?maca=rus-rss-ru-all-1126-rdf
+title:германия резко увеличит число депортаций в афганистан
+urlhash:52408a75a38708b86e5a3d4b0bb763efdcd9551fe180d5004e13f82e25453811
+titlehash:7661c247a4e86621bd34eb615c38f1c8badae644c05030ebfa43dd7b091ad7cf
+published_url:https://ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801
+title:starmer on brink of quitting as uk prime minister
+seen_urlhash:3e0fcebb3dbc182d545c47ff1b018ab51dcdc2047d0cebdf0c3bd30d21027e44
+seen_titlehash:2ce2f902815eee9fcb9e91b2d0622575a5e44f27df0a581394e55bbcf1c0d088
+seen_reason:processed_not_published
+url:https://bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss
+title:tight security as indian students resit medical exam after alleged paper leak
+seen_urlhash:d9cdf2545c447be97ce0cdcb9e59d7163c68608ed963c0486da9b6d40342343b
+seen_titlehash:0504500f5f318a81f88d40fe59c3acfbefced7653ce6de30c0665195b34d66b9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/21/world/europe/switzerland-resort-us-iran-meeting.html
+title:a glamorous swiss resort hosts officials for u s iran talks
+seen_urlhash:9bc00a707aa890756eacf1beaa623c81d8e53f2ab01a8f244f03820edac20ac9
+seen_titlehash:a2e38a66fb04aa1980d682c34f3d32863f0e5c4273922c837bb679c052a44061
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss
+title:us iran delegations arrive as talks begin in switzerland
+seen_urlhash:e840317682b8d786df3e690bfa32a0b98b72e41dcd1eacff78c0d6734174a902
+seen_titlehash:2f19254bc09fd6248215fa28a5061b7bab3d369b64819c0ff2c1347d88f7d806
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss
+title:ukraine strikes hit oil facilities in crimea russia s krasnodar
+seen_urlhash:7e254a71ddd26326ebb853f4ee891071be338a6b087e0f3714f3533109d517a5
+seen_titlehash:637a3e47ff8140248300f04a2ec51f72b9e2acaa4329236f757a37a78c8f1a78
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss
+title:kind principled colleagues remember gaza journalist killed by israel
+seen_urlhash:e010b5f8b37633a7be101c5c1d9189f3051bd51030a26dbd4a51a0538f92444f
+seen_titlehash:de0984f29303d0754be9b109480c8585f890c6505729a70b1e578dab34d480ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss
+title:stop greater israel to make peace
+seen_urlhash:03bb9a7c07a162c6ed96483b642fdcd75d721949520246c6a40a885d00e1f0cd
+seen_titlehash:d832b8e0a85c2214d7d32645a3752eb464f085b9fd80cd425dd5412623c58fa7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss
+title:mother of al jazeera s ahmed wishah mourns his killing
+seen_urlhash:d92cf9b9e11e335c72461223e176dabdf95863aac573094c83f026d5d11d50a5
+seen_titlehash:7cba62fecdfaee0be0f878e610046a0c7ab2d732b6c18908fa14ee3c8c179827
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area?traffic_source=rss
+title:albanian protesters rally against kushner backed resort in protected area
+seen_urlhash:e1b44beda40ab60342dfc4e115ec5527a1e2e49bcd913e4b0f0688b3ef329096
+seen_titlehash:658075f18fb22b93c4b894b1ecd9ae42bf15b012b7bdbc608e66cf42dd02ffe5
+seen_reason:processed_not_published
+url:https://france24.com/en/who-is-ivan-cepeda-left-wing-candidate-in-colombia-s-presidential-elections
+title:who is ivan cepeda left wing candidate in colombia s presidential elections
+seen_urlhash:d151c7873caabd976e955d311bf3c9336b9bb18c0fecd60242c89ea18a27049b
+seen_titlehash:dde88d53d08f3ac714ee851190d0948f8016fa3481dff83f07d017e465340973
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260621-russia-pauses-fuel-sales-as-ukrainian-strikes-kill-four-in-crimea
+title:russia pauses fuel sales as ukrainian strikes kill four in crimea
+seen_urlhash:dfe1a7e7a94c08415cb1e2084db6807a1df90085e9607a3efa29490a8b637232
+seen_titlehash:9fa10ec2e156f3b83ddd5b98d67c3887a111c731d1293563f146c80f33acffd2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260621-britain-s-king-charles-iii-to-reveal-personal-tax-bill-to-improve-transparency
+title:king charles iii to reveal personal tax bill in historic first for uk monarch
+seen_urlhash:08a1d49c66c915a4d62e35ef66d853c6f934f9aaf66cbada9fa2bcaedc86232c
+seen_titlehash:a276a1de1ff6216059a060e401a92ca1ebfebb99c80b0a08411cae23a280a95e
+seen_reason:processed_not_published
+url:https://dw.com/ru/полиция-нашла-картину-пикассо-при-обысках-у-наркоторговцев-под-парижем/a-77644861?maca=rus-rss-ru-all-1126-rdf
+title:полиция нашла картину пикассо при обысках у наркоторговцев под парижем
+seen_urlhash:487e3e51bf2c0250a55928c98a3f3ea20782df6daa27a8d36056384b8862c177
+seen_titlehash:997002679e8b156e0d0c5ddd79a610dd0227d2a3bd1c5161d54faf7a2bae33f4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/06/21/zanzibar-travel-guide-best-things-to-do-where-to-stay-and-top-tips-for-visitors
+title:путеводитель по занзибару чем заняться где жить и советы туристам
+seen_urlhash:3650928bb77e173a1ffa9caf4ffe306d63583a23a32644444323388dd667d681
+seen_titlehash:5b7d8090d18478c6f5222138081762fd4998e4d43faefafd1ad890c6fd183025
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/21/rare-medieval-notebook-discovered-in-latrine-in-paderborn
+title:редкий средневековый блокнот нашли в латрине падерборна
+seen_urlhash:316a4042a89d9cdd2d5f752866caaa4308721a4f73b4360e858e2a72db2a214a
+seen_titlehash:5dea52a3617c81aabe72ed937f1d473b07bbfd5861dbf5158b7abeb41ad8f622
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/21/germaniya-vpervye-s-2014-goda-vyhodit-v-pley-off-debyutanty-turnira-kyurasao-berut-svoe-pervoe-ochko-v-istorii-iz-za-chego-tantsuet-korol-niderlandov
+title:германия впервые с 2014 года выходит в плей офф дебютант турнира кюрасао берет свое первое очко в истории из за чего танцует король нидерландов что там на чм суперкоротко
