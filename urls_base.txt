@@ -1,59 +1,3 @@
-url:https://ft.com/content/6c3706b4-3862-4ea6-8c1a-8baf8df371f6
-title:the biggest pe loss since 2008
-seen_urlhash:2a87d214c918ff2ac9402fb227ef07b1a009eb9d930fa70f5c1791d1ef09f96d
-seen_titlehash:fb233be01a7bd69f1d26f6b3428e765e39e2589b79050094a91eaf5d54e747c0
-seen_reason:processed_not_published
-url:https://ft.com/content/42febd49-ee94-4d74-84ae-a2bc23ff4a24
-title:wall street pushes us regulators to further ease basel capital rules
-seen_urlhash:d03bf8aa5488b63a3f63925942f0b882ec89335e9ea8b4812a745c4e2feb6f93
-seen_titlehash:b3a998cd80e4c6ab756ef6e1a85d9948530996d9abd2f6595369b3e224eb221e
-seen_reason:processed_not_published
-url:https://ft.com/content/accb33e7-4b8c-4c1a-b55f-694f5380bce5
-title:young moroccan star shows the psychological strength of today s elite players
-seen_urlhash:74bad1f0cb88b7af77c7aae4ebea00890fd331c0159b1fc3800ea5c08b2319d8
-seen_titlehash:ca25dec3917b39c175e0bb8bcd34bfb6c9efb2e9e01cde1a39ebb99971d2d31c
-seen_reason:processed_not_published
-url:https://ft.com/content/4a28aa50-8a91-41b5-a512-5c90d74538fa
-title:makerfield voters seek change as burnham anticipates by election win
-seen_urlhash:560f6eb24d1b3d7c894d311677fa87558fc98ad62daad5090ef397a4c3de9e3f
-seen_titlehash:1bb2bdaf079654bb881df53fc54d9c999ba81d05aacb426d18120facc5b3b5da
-seen_reason:processed_not_published
-url:https://ft.com/content/82882ab7-5631-4c14-b632-166b851fe885
-title:how could thames water be nationalised
-seen_urlhash:99c9ab067bcbc66b260608fc2d1cc45ba1ef74783a30294f0c62c5fc124f74df
-seen_titlehash:d339704e0418d0c19a01e4f4596472df2e5c2c5f1936d0b82cf2e97bc39fd1d3
-seen_reason:processed_not_published
-url:https://ft.com/content/565655b0-f5bc-46a4-91fd-a560f05081f7
-title:how brexit still divides british voters
-seen_urlhash:3e14ac36a15412ea8556a81645fd4c43cf65b003308c7d215725bc486e33878f
-seen_titlehash:5b41d6ba30b6988404d58f9eb401b19d7dc44c8f1db27c7f3eac559e184f24cf
-seen_reason:processed_not_published
-url:https://ft.com/content/471dbb23-cfae-41a8-90cd-336fcf5d7b0a
-title:a football manager gives the g7 a pep talk
-seen_urlhash:c9a77df2f28da133def7cb3b5c760b30d3d91570a07a752de1c2ca5b8eabac31
-seen_titlehash:1907d27261ce0c68dd399c73643fe5113d8b916d3d9a2abc02a340179d65b979
-seen_reason:processed_not_published
-url:https://ft.com/content/ecb41250-08ba-4d12-a355-13a74fc5eba7
-title:how hizbollah made its comeback
-seen_urlhash:171bf338ede4441119f712b9be975502b7977d6a9530ce8d5f67ad65027f1682
-seen_titlehash:9cdac9d5feac3b2c83ca12afcc3e53777ece4872a73f6d99af1e2857f5babc27
-seen_reason:processed_not_published
-url:https://ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3
-title:jpmorgan chase cuts off anthropic access for its hong kong staff
-seen_urlhash:75744613e9e07c8f20c10316623dd3108564852418d707067cfc7cf24b0bf808
-seen_titlehash:f25b40ca230a2abf2d1ae3094716f738639cc0fca34232e6c472f945a9651bcb
-seen_reason:processed_not_published
-url:https://ft.com/content/1a54013e-57f4-43a2-8f1c-47dc45f258c3
-title:ships divert in hunt for fuel after gulf conflict hits supplies
-seen_urlhash:6e15d5b225e1ce032a4b3cfd4260ac473b0710a1389145cc1e662b2aec579231
-seen_titlehash:0705c8ecb409965365d233e04df200c8f63ec18d8656b8fa432165444b3d8e20
-seen_reason:processed_not_published
-url:https://ft.com/content/6d48256f-dfdf-4fc0-b1ca-a38909e686eb
-title:what is the point of berkshire hathaway
-seen_urlhash:7cb2065061b062212b23914af3e9ac6cdfe92c62b8128cdf1125d4585aa4d208
-seen_titlehash:31c0bd55fc0e07705659b5c7ae5ebb1f2103f8bf781af42250b5f45774ef688b
-seen_reason:processed_not_published
-url:https://ft.com/content/468006a4-e587-4bfe-8c5f-65d8d6a0aa3d
 title:hmrc broadens scrutiny of founders pay in company sales
 seen_urlhash:a22301195bdb9730d3c534b811c2c0605d343530b873cbb677352c0fe42ca0a0
 seen_titlehash:06365ce8349f145f3a32bde35c9fe49c5de8cdaee2e4db3219882a41ad9a8608
@@ -4998,3 +4942,59 @@ seen_titlehash:03ce9ccae77b6a5949e480c1752fd8ba627ae7f9833fca07cf895c1beb191498
 seen_reason:processed_not_published
 url:https://ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db
 title:back stabbing myths are driving the us and europe further apart
+urlhash:c210ff0adbc8adb21c47b16e37e20799b5adc2264cb232b9f6b3422ce524afa1
+titlehash:1a91205bb928ab76338434f85a4762e3628a7a54f072f0946e2240c1d848fd48
+published_url:https://aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss
+title:what s next in the strait of hormuz crisis
+urlhash:9a9a2f26d0d97c570c5b35ae58b99a43fe63cc20fe05321942312a4d99711c4e
+titlehash:66cff31b7c06ac2a9ea24171d315388a451f28d1d5c576889ea96f4203b2a293
+published_url:https://nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html
+title:uncertainty remains over the strait of hormuz
+urlhash:f542e09a32ed3b27321a67dae6ac069da7f96f378f4f4198072088b28727b007
+titlehash:e66e16599b7e3e377131507a605e811f276bc9ef5f0be8879a67b005d7423449
+published_url:https://aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss
+title:khamenei s mou stance stirs debate as iran and us meet in switzerland
+urlhash:b095dbb76aded039cb94038c76d1074f9f682ab9a536ce76bf629a6b5d0a7b13
+titlehash:033bb7cbdf3ccd3d59592dae75ada5c02c98cd9a675100f012934e5bcbe65242
+published_url:https://france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon
+title:trump threatens to strike iran over support for hezbollah as fighting continues in lebanon
+urlhash:6de8a5d472ac7559f6df422ae7d923ae19129ee4799945180bef2641a07b12ae
+titlehash:73ec3779eb3676738f8070de7681c6d1f52799d1099ac56197b0b120fbe393fa
+published_url:https://dw.com/ru/туск-заявил-о-стратегической-ошибке-в-конфликте-польши-и-украины-на-фоне-спора-вокруг-упа/a-77646714?maca=rus-rss-ru-all-1126-rdf
+title:туск заявил о стратегической ошибке в конфликте польши и украины на фоне спора вокруг упа
+urlhash:1e59b5f74824429ad558faca63db30372f11a402b5a6219a854c3a1d86bcbe24
+titlehash:aa1ad75aa4597c0c2867cb31b8307dec8a375cc314a7bee296d794650e356b15
+published_url:https://ft.com/content/6a9330ad-a2db-494b-bf61-7dd417ab9c9a
+title:warsh s push to axe fed guidance may lift us borrowing costs investors warn
+urlhash:9df2356d2eb80dcc789c0b31dfb28946db3c1e0e9e5c8c33b88ae281bab9a138
+titlehash:960bf601a15dec5219b320b99414b07c5077adc48c4a6db67b785319adb18c67
+published_url:https://aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss
+title:ethiopian prime minister s party easily wins parliamentary election
+urlhash:2d0cd04fbd8a975f57534c04f52d4fe18cad75212fd9b0e6140c188b568399de
+titlehash:b025f6089f04d9afb2c502318aa6bfd64df3daf67a6113dc51621e0c57cfd287
+published_url:https://meduza.io/news/2026/06/21/osnovatel-tsargrada-konstantin-malofeev-prizval-razblokirovat-telegram-a-potom-zanyatsya-voynoy-i-razbombit-kiev
+title:основатель царьграда константин малофеев призвал разблокировать телеграм а потом заняться войной и разбомбить киев
+urlhash:1164fddbf2e99f28803d4cf093efed96fc7881ec9a563745ef48b422318b1f87
+titlehash:c4c328c5efd12d71ea94faa8a28ee11de86b9594f2345de600b5930e351c5242
+published_url:https://ft.com/content/0b0092ea-1fcd-4463-9e3b-c3d2a45d349f
+title:a nation still divided 10 years on from the brexit vote
+seen_urlhash:0531879aa665ff7bff799bc355573895da7581a9a2d366e6bcde276512220f2b
+seen_titlehash:15f887d67f941f0a8378b09245d25aeff8ace91913596863cfd57568b33b1825
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss
+title:europe heatwave scorches cities and wildlife
+seen_urlhash:86628937923ac2bcb9b4c9806375abb86bd9f3efdeffba5630f20619f1ab1eea
+seen_titlehash:352ad2f4e4dfbd5fbb47df780935d5311e135665534f4efd2939baefb2e4fd38
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-киеве-одновременно-прошли-киевпрайд-и-марш-традиции/a-77648442?maca=rus-rss-ru-all-1126-rdf
+title:в киеве одновременно прошли киевпрайд и марш традиции
+seen_urlhash:d85c2d19f8fd76118b515a9766c4e064093490fcbcdffc799aec0b17fb59b532
+seen_titlehash:013b81f2ea1a8147a8faa1913df6fc1312bbb9c1b657efc794d1bdb9344f1ba7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/21/james-burrows-director-of-the-beloved-sitcom-friends-dies-aged-85
+title:режиссёр культового сериала друзья джеймс бёрроуз умер в 85 лет
+seen_urlhash:f7c4f9054e6fa27e7124bbde898c155491be8586e7a51ac4a689b221617ffce1
+seen_titlehash:4202b645c4d2f1555ec228775e434d8d65cfc4855b33854798e6ac903a5322a9
+seen_reason:processed_not_published
+url:https://ft.com/content/137b9379-de54-4411-8729-bc41e000345a
+title:uk statistics agency admits fresh error over key jobs data
