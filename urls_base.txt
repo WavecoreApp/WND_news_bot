@@ -1,20 +1,3 @@
-seen_reason:processed_not_published
-url:https://ft.com/content/5ab3614e-62b6-436f-b03f-c68d5a16452c
-title:starmer avoids trump spat at what might be his last g7 summit
-urlhash:a6a79ecc33219d1c760cd55370225cf50a5abffca2a34ecaaf20c854c371f7b1
-titlehash:3c37ecf603c6d5c608040201256f26072d52ead59c382bd77748d7f7a539b76a
-published_url:https://nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html
-title:finland lifts a nuclear device ban eyeing an uncertain world
-urlhash:9de0ecce8a78dd653d96e99cad489cf27f06e841c756b4c188bb90cad68052de
-titlehash:1bd38190126c4b3765ea6f5da74dcf0a7611f570ca63f88bce561e5435f50891
-published_url:https://aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss
-title:trump very strong iran deal is a wall to a nuclear weapon
-urlhash:6cfc766639866cefb3cb8116594e18098598b677d5d2f44399d9c8fcdb351ae7
-titlehash:2bdaf16da6f7f0d034265cbc98e91cfa334601266827e837e0fee64d8f46ba13
-published_url:https://dw.com/ru/вадефуль-безопасность-в-европе-возможна-только-в-противостоянии-рф/a-77593896?maca=rus-rss-ru-all-1126-rdf
-title:вадефуль безопасность в европе возможна только в противостоянии рф
-urlhash:23adb809ab3115b056edbb8f5a2cfed184890ccc38967bc6063832b23d8ab992
-titlehash:ea92642d5d56e2a471bb98f00c223450db582419c91bf4c84f7da0627acf857f
 published_url:http://ru.euronews.com/2026/06/17/iran-deal-breakdown
 title:соглашение сша с ираном полный текст проекта из 14 пунктов
 urlhash:485e55f64d2b04446baf6edd61a6feefedb715bc833ecf3c9bd378bd292b39c6
@@ -4998,3 +4981,20 @@ seen_titlehash:1fb414ff4d2f64a1d3b27aa10863c03bb275a2d6f1b3c8ae41051449c16e296e
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/06/20/meet-osito-the-rescue-dog-winning-hearts-at-the-world-cup
 title:пёс спасёнка осито покоряет сердца на чемпионате мира
+urlhash:3c69c8d6244ab515919fd0b45d8201b886ae4c0399293c7d4af0ba6649256f3f
+titlehash:3ab37335feefcfc15aec2dabcc55f7d7f2a4775b05ea71ebd6e3201bd786a63f
+published_url:https://aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss
+title:iran war live vance heads to switzerland israel kills 16 in lebanon
+urlhash:65919e8cdc2ee2671444a1eb69127a58db2ccd2066d3fd5e95fb443f0d68cba4
+titlehash:542db575ce0974455b6c8bfc4216a621b4b2005e26f613752ded4b01a76431e6
+published_url:https://aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss
+title:iranian delegation arrives in switzerland for us peace talks
+urlhash:11d21f98b3289eb62b2874c1f771596b3a58c745161070672af7d5389b3ce854
+titlehash:d2270185b515d457c540ec6907dc85b7d9b783c282a093ff87c8fcacf1a0ae29
+published_url:https://theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb
+title:australia news live arrival of h5n1 bird flu a genuine wildlife emergency experts say fuel excise rebate extended at reduced rate
+seen_urlhash:5580d62b67d65b3ad98510edc538950e7705b5a47ce3aff278144dd1f8ef7a3f
+seen_titlehash:eeea692b5119835ae25ef48f17c07487f3d87a62f603b04e2c71ef974f485433
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss
+title:bolivia declares state of emergency amid blockade crisis
