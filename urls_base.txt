@@ -1,46 +1,3 @@
-seen_titlehash:451b4c773aff70bf73ac6540375d95cbcf8a8b7fb3dd4897c4025ca7e5446d90
-seen_reason:processed_not_published
-url:https://bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss
-title:lawyer of uganda opposition figure besigye charged with treason related offence
-seen_urlhash:1639a67593fef4af80675ca76fe71c9e22a24d3bc6a6a4970163b632e521727a
-seen_titlehash:87389fef181ed8c0b22c6c1b0d1801b25bb3b5cb10113d8788ffe4647f05a0a8
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html
-title:the russian film director who chooses moments to challenge putin
-seen_urlhash:8f674aad1ac01b64a627c929b8f81d2a0164d3ee5e5e0e00cd2a8083fe60838a
-seen_titlehash:4ebbdb682a8a4662f15d28681b151d8bfda07d2f9b9abb56ffbb85b2f9e22dd9
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html
-title:ukraine strikes moscow refinery in large scale drone attack
-seen_urlhash:9e17f1a20b9660b4b747613d5ad99759911b33fb6132722d0e04bba7193f47e1
-seen_titlehash:3cd9b92f9b112063bb014e38b99c36f744ad6a6c42acaa9b27c4b9e321cfa410
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html
-title:taiwan s president says he trusts trump to approve arms sales
-seen_urlhash:9b6744b47d6703937c4e8a3950da8cb09a0555fee438191b1cd824f38d0fd14c
-seen_titlehash:b5d5160aa01d1e9732c597e7859ad3e7926da62dda45f8faa6e8a4d5dae398cc
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/world/canada/canadian-citizenship-guide.html
-title:are your ancestors canadian here s what to know about becoming a citizen
-seen_urlhash:d20206947d6b6cae4f05f789c782051e36ffb1785ef14866e439d97c527211f8
-seen_titlehash:8ce97892466384b425d8d4ba550ea8feb69450dfc1559340ffa119faab7ce18e
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/technology/telegram-ban-india.html
-title:as india temporarily bans telegram which other countries have restricted the messaging app
-seen_urlhash:6ad887e52d34a273a32a60e5b02ce56f4f76ff4a6148dbb17327e99d43e7f3c6
-seen_titlehash:0a406edbc70e6eca2b33c449c8ee74f6d2f07c1bd73e3661f08ab867d92005c9
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/18/freebirth-death-melbourne-influencer-phone-evidence-inquest-ntwnfb
-title:inquest into melbourne influencer s death following freebirth halted after new phone evidence discovered
-seen_urlhash:4256df85a26961bd54fd0aafa9d7cb38207cc5781c34c7aa9f48a7e531035dd9
-seen_titlehash:ec3c6e8ae0da5720c5831d48be1b72e19f5ba04ad233f0f780f3bce7b65e793e
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/18/why-do-ai-models-struggle-with-online-hate-speech-detection?traffic_source=rss
-title:why do ai models struggle with online hate speech detection
-seen_urlhash:41d5c4e12e409d5b6e785fe91e32c5284f58fe0574a5af02025d281991e5df9a
-seen_titlehash:0f19ffb490e83d4980a21cf302cb766ae4eaad61d552e860951d296c6c4ba6b5
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss
 title:ukraine hits moscow refinery as zelenskyy seeks trump support to end war
 seen_urlhash:3bfaf38104fd2d9c8f47a907a42f3555e3cbc8450ae38c60db62d667e500ef04
 seen_titlehash:790595500e6c0c5027aba7bc45866ff2749a07015ee7b7880b14920b9765fe0e
@@ -4998,3 +4955,46 @@ seen_titlehash:8cf9af048ea8913a6050b1d17d1c67df670f56a7f13581a4f909fe73d1654e26
 seen_reason:processed_not_published
 url:https://ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836
 title:india plays whack a mole with online financial influencers
+urlhash:f5be48e91ec5ba702d97dce0bac77c163b8a7cffd68d900f4366c62eb0d6fc44
+titlehash:cac5961c575211b6cb91f13e9a041ac84eb67a105057a5467ec8eb15683cac72
+published_url:https://aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss
+title:shipping stalls in strait of hormuz after iran declares key waterway shut
+urlhash:5dcbc4d42dc4fc1dd6d1237b74ab9a2a35ad85104e4a7bbeb8deead336f37783
+titlehash:cfc555ac7be6f3d641f508fcd15116ae44cb1f22ad78fb6efac32bac1ed77f98
+published_url:https://dw.com/ru/зеленский-киев-договорился-с-фрг-о-закупке-600-ракет-для-пво/a-77651238?maca=rus-rss-ru-all-1126-rdf
+title:зеленский киев договорился с фрг о закупке 600 ракет для пво
+urlhash:93485172ec852ebcbd7963189adc7df50311b41b4b6e1508c369cb92ee29f286
+titlehash:14ecc7b9495c9338876d1a78e05be8379dc3d36de7da5ccc28f173722e8c693a
+published_url:https://theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff
+title:far right millionaire abelardo de la espriella wins colombia s presidential runoff
+urlhash:e4a8c9a64896ea3d06b99b6d8cda28a555bc288febc88c38c0b3835fd80803ef
+titlehash:69067844c96d8a96b28bb2bf845dd6b6046fc03728a51bab5f978dd836eac5e0
+published_url:https://aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss
+title:iran war live mediators hail encouraging progress in us tehran talks
+urlhash:3a5eca9f9203c615eeaa1906be6fb7e5a2b617434af9b83a4fed642ffca6ce69
+titlehash:f30632c59dfa197acd839c0fc3cbf3573b6533b0de6435a84f63c3be742a37f9
+published_url:https://aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss
+title:us and iran meet for tense but constructive ceasefire talks
+urlhash:079cca3db830a7ab3e0551749bbd82806d3a66c0069f2d0d8cb07764a0278f6f
+titlehash:0a8d61528a950a318902c55b8686630608669a44512db6ae1d13525c7b8afb0c
+published_url:https://dw.com/ru/зеленский-навроцкий-идет-по-стопам-орбана/a-77650656?maca=rus-rss-ru-all-1126-rdf
+title:зеленский навроцкий идет по стопам орбана
+urlhash:85d83de7e58834bd752bf1eef0bb36d267ee297c96e4f61c4ab71fbf55afeaab
+titlehash:691fe11508a552ab5c1ca6235f10ee7ea50d68d65fb5cc7861b003d2c3f2b2c8
+published_url:https://ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f
+title:rightwing populist el tigre wins colombia election
+seen_urlhash:59f04fd1bc457e3b94c9943e92fc3ede0a701c144c4adb6f60f382db3e38d384
+seen_titlehash:9c833f3aef8eb82d44e10a602011e4074963a117dd052a8d248dc3345487b260
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda?traffic_source=rss
+title:ebola closure cuts off a lifeline between drc s goma and rwanda
+seen_urlhash:8452fce56e092ca607bb5899890fef0e1f35f925c1fc0269a41159cdec5f3114
+seen_titlehash:7fb2d1f19798b1e34e84c50a41e6197c68dbb4570ad03d2397adcc48ab5c04c0
+seen_reason:processed_not_published
+url:https://dw.com/ru/крайне-правый-бизнесмен-побеждает-на-выборах-президента-колумбии/a-77651554?maca=rus-rss-ru-all-1126-rdf
+title:крайне правый бизнесмен побеждает на выборах президента колумбии
+seen_urlhash:9a02c7ed208b989346b8870a1b28f4f02f9b43907c59049c2c46903f899c1afa
+seen_titlehash:e9f8550c9396de699439deb532e85c4f9b29cdbee8e4718e4a41ffa20236f90b
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-чехии-протесты-против-изменения-финансирования-сми/a-77651534?maca=rus-rss-ru-all-1126-rdf
+title:в чехии протесты против изменения финансирования сми
