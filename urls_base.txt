@@ -1,56 +1,3 @@
-titlehash:95d03395c7e189addf5713d939341144fab53c794a0ff7dee9ae969984c192e6
-published_url:https://nytimes.com/2026/06/18/world/europe/uk-makerfield-election.html
-title:burnham wins makerfield by election clearing path to challenge starmer as uk prime minister
-urlhash:1ee231afb9d2796f164d832dba91efe062009451fc1ed094f1f8a01f2c0fd693
-titlehash:e8f0bf3156baa8bbcf5170a6cfa8f86c804ff2ea8aa2027a87753a7986904bb6
-published_url:https://aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss
-title:eu won t lift key iran sanctions until formal nuclear deal reached
-urlhash:926916280c02bb38d8e3c44ff5475c7317f745f97e2525385b57e4ae3588f29a
-titlehash:8d67f567ebd8ecfdf3770114d5772383c183b413166833587dff08e1d8e20175
-published_url:https://france24.com/en/americas/20260619-us-launches-germany-pharma-pricing-probe-raising-threat-of-new-tariffs
-title:us launches germany pharma pricing probe raising threat of new tariffs
-urlhash:e15f2318a4560fe53301a71a163ae4fdea1ea76f0c47a83dd6639f898291765b
-titlehash:e2d3fb3611062c38a7bf0749456909f2a6f5dd8bf32ae9273022842fe7579281
-published_url:https://france24.com/en/europe/20260619-eu-leaders-back-stronger-trade-defences-amid-china-export-surge
-title:eu leaders back stronger trade defences amid chinese export surge
-urlhash:2211d9bd1771be9e50fe0f7b0aae826ff514f0e789c7b4975ff7bf7808296781
-titlehash:3c442cb3db0896e16b3913b304d853aa617ac9d235534b7f935b311bb6a8ddc3
-published_url:https://ft.com/content/ef3e7973-aa6f-454b-8a77-ae48de18aa34
-title:us launches trade investigation into germany s spending on new medicines
-urlhash:1c5e500c10ccfc5927831997b8bb681373dea56480fd2a00c22e06477f1b7b02
-titlehash:fe8f1e95a0aed7b779f3f0d6103481b8d4e2d9190116ad9292b3ca3f2a673581
-published_url:https://aljazeera.com/news/2026/6/19/zimbabwe-bill-to-scrap-presidential-elections-sparks-backlash?traffic_source=rss
-title:zimbabwe bill to scrap presidential elections sparks backlash
-urlhash:00b831b1f7ce6592fd1246a425463bffd8694a90abc205f9194cd652b551caed
-titlehash:7870020312cfd50fcbaa13cc83eaf4d103af1c7d97d5e05851ff72cfbc49379a
-published_url:https://france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks
-title:middle east live white house says vance not heading to switzerland thursday for iran talks
-urlhash:7e7faf4b7ac0e7d9bc151c38b172c8f8b20b62385c227882224042f30898b62a
-titlehash:b0a55dabd11ebf5294a2c22dd6b198802751dd8d2f7eceb03162eaf8b9e0f0de
-published_url:https://ft.com/content/177aab18-c0d4-4219-8279-0c5a355f946b
-title:msci flags investability concerns in indonesia over transparency
-urlhash:91ad3d71628beebcfe8f4656738b5b4874ac897340d101aedc9ed4d020b81801
-titlehash:b10e29d34389dc822cc2446182e820a8594ad0f2e479e7ca3c44ab4495f1552f
-published_url:https://ft.com/content/e220372c-b20e-418e-9f02-29a5aa269702
-title:eu delays trade confrontation with china
-seen_urlhash:ee538637254b54ad78a0461348d81c9691dd80f9510247a0ce1ffe5c15a16254
-seen_titlehash:14fc32949a4c3033a2a4a6f505e470c8df87c7cf47a5bef59b5dd9ef25480ad3
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html
-title:who is andy burnham the man who could be britain s next prime minister
-seen_urlhash:8c13905f6663e1875ab804075513cadb2ec190bc3778e1d1a8acaee741f92d56
-seen_titlehash:ef977fc452d819850e20f88a2604bd837bac4c9e07cf3134158e04be0b0f57fb
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss
-title:andy burnham wins key uk by election paving way to challenge keir starmer
-seen_urlhash:1012da05ee807e5d4d46f64f0e4b6d84b1d51b9b28905adf5466ab5f872eb0c2
-seen_titlehash:2c3d1fe62a4f3ce3615d97df585710842bd5422bb7c79367712740339a8ed4b1
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/19/obama-opens-presidential-centre-with-call-for-unity?traffic_source=rss
-title:obama opens presidential centre with call for unity
-seen_urlhash:0b4788434f1549d3578964476267dc46d15993ecc7bb0c88583df2724885360d
-seen_titlehash:2e9c0add66f2df55bbe8760251c5c7b720d78a222112afcbb1244f34bfe8b28e
-seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/6/19/paint-peeling-after-14-million-memorial-pool-renovation?traffic_source=rss
 title:paint peeling after 14 million memorial pool renovation
 seen_urlhash:37e2c4a8f6f1885f65b27746c736eb0564987fe272a082669a9468c97e124f4b
@@ -4998,3 +4945,56 @@ seen_titlehash:3b860a0cfa09eda83cc9cd5cc1588090306aabd363ae55f971aa8df630e5a686
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/06/02/the-war-room-newsletter-how-the-character-of-war-has-changed
 title:the war room newsletter how the character of war has changed
+urlhash:8540c401c7a0c1d834319bce7b6520827182d8acc6206d540d44203d6cb806fe
+titlehash:549e649b8d05c1e857a85363c1d607b8bcdec7cee9828e4846e17fea60ddd682
+published_url:https://france24.com/en/middle-east/20260622-vance-says-un-nuclear-inspectors-will-return-to-iran-as-us-suspends-sanctions
+title:vance says un nuclear inspectors will return to iran as us suspends sanctions
+urlhash:4df9d2e25537948d6d2da2e4901e4f66e9d2b42c5690fc2ba2e62026644f6731
+titlehash:903e3ffaf542110b187503827cf0cf957978b9d509050f441e732c087dd2da19
+published_url:https://france24.com/en/rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-with-gulf-allies
+title:rubio heads to uae kuwait bahrain to discuss iran deal with gulf allies
+urlhash:9ece37f771c8160ac52bbea0dff0014ff22197a4d49469706a37b778700a7412
+titlehash:349d83d5c8f8fcf30c3177c46df639900304b3b55c5fc66f38bb8a46f842f139
+published_url:https://ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4
+title:spacex sheds 400bn in market value as debut rally hits reverse
+urlhash:6a19e12e68bf67fe5b6c15e7e0e6a4277729402bb1d8ab0e3f2f1d0804bac900
+titlehash:f4fe282e972ad80e8cc4b1d5dece8935c7503697e39dd2c5eb4941a4f7a15162
+published_url:https://aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss
+title:stop genocide activist stopped by police at tokyo s israeli embassy
+urlhash:f1ac2fc0ff0835ff9071e7c8074483e15233fda9ca22a1d0f54f862f64161f33
+titlehash:803238bf621b561561b200a6c128cb8059d4160496124efd9af5715c3261e537
+published_url:https://aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss
+title:czech public media staff strike citing government threat to independence
+urlhash:f5360cd4410932aff0dd398bee7dfadd64656d7ee01080e60bad3c5d022b3d7f
+titlehash:b0cf81329898af835411be46d28484458affbd2ebd475e584fc9eb3dffb42bc4
+published_url:https://france24.com/en/europe/20260622-romania-parliament-rejects-liberal-pm-designate-adrian-vestea
+title:romania parliament rejects liberal pm designate adrian vestea
+urlhash:ebbc1bac99e1d96a2eaa7dae5d889eea11719ad73552d2a137e338ca2ec207a5
+titlehash:dca5a8eab17001b331fd5fa1b56a67d70642cff75d0b0df4dc0a9654ff094502
+published_url:https://economist.com/international/2026/05/26/centrists-crying-wolf
+title:centrists crying wolf
+seen_urlhash:a2380b248a0e9f2bf87121981436186809aa52d3ae770ed73c0b39bc094bb53b
+seen_titlehash:3839589630ce7c75deb1b44050e6324a86b11ac38352facc8b59a2c2628cdbb1
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/6/22/us-house-committee-reaches-bipartisan-deal-on-social-media-rules-for-kids?traffic_source=rss
+title:us house committee reaches bipartisan deal on social media rules for kids
+seen_urlhash:3e6bad300fcbf605f8af2f22884a26925e73f7944cc29da44b8ae6b0fe0cec89
+seen_titlehash:ea1afce66c4289bf0673d565a9889d61bac853e86853025c7d8df6aecd809a7e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/22/hungarys-pm-launches-drive-to-free-country-from-orbans-mafia?traffic_source=rss
+title:hungary s pm launches drive to free country from orban s mafia
+seen_urlhash:eb9e5dd7cbbd956a41beceee30733a97a182abf6a58800ec3274261b52b6e8c6
+seen_titlehash:142f4282f0a847743443e8bf63c9b9f82a9ba15dedf54a642f88d59d206a8569
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss
+title:us judge blocks trump administration subpoena against minnesota officials
+seen_urlhash:e986ac9475c96fb65300c509afe9aa225632be5acb8e193e7cd828de429fffa9
+seen_titlehash:b59efb9f13a277a28dbdc635214a2be8d039d8e548c37dc7a1f074bccd652595
+seen_reason:processed_not_published
+url:https://dw.com/ru/три-человека-погибли-при-стрельбе-в-еврейском-районе-монреаля/a-77665468?maca=rus-rss-ru-all-1126-rdf
+title:три человека погибли при стрельбе в еврейском районе монреаля
+seen_urlhash:373c310560a2eed94da2d1efa6c95df63f53984bcc0b0405e50682499e4de55e
+seen_titlehash:3c7366120f2e2ff86b12f87eeb7f82f3344b965bb2e50750a530208c616131af
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/05/21/home-schooling-is-taking-off
+title:home schooling is taking off
