@@ -1,142 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/21/switzerland-usa-iran-talks-1st-day
-title:завершился первый день переговоров между ираном и сша в швейцарии
-urlhash:0ae478ca00546d7f94054b4aefaeff5289a5c867a6d6f8af0f795e44511ed509
-titlehash:0c9971439fe61917e81419ad33608179d36fb1d9a5e959f84667de27e944a542
-published_url:https://ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93
-title:philippines fears china may move to seize full control of disputed atoll
-urlhash:58f6935367b5ce1a14b2ae648a6b68b85ea24a4c53165d7be9bb449640061c4d
-titlehash:1502e3871723e282ba8191913fee989bee1d9f42dbe3337eb3e94420199a49ab
-published_url:https://ft.com/content/9f3997f6-11b5-4360-aaed-0622f127a780
-title:firstft us and iran hold high stakes talks in switzerland
-urlhash:1de1b7f6c178279fd4532bf975d59c84708840702547cb97bdb1bbe51d5232be
-titlehash:43ee004fbb4e7af1e0f828c0579baa456667b021c42d76c8a4b83c07a7bc8f84
-published_url:https://nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html
-title:abelardo de la espriella trump backed rightist headed for win in colombia
-urlhash:d4674015744a630c8c2b7922ee6c2459d4c3367f6112034b2d4d7cb7fed28f6d
-titlehash:d6471b34f8fcad79c3bf0844bdf6511ad0637a99fba96437db87fedce30a567a
-published_url:https://aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss
-title:what are the end goals of iran us negotiations
-urlhash:26038931e449444dee5232790114d46885e5e39093cd086e56def675c245a49f
-titlehash:ea969390ca280b1041d4c3672bbcd0704c8055d6e6cc4761f454ce541c0ce109
-published_url:https://dw.com/ru/report-нефтепровод-азнефти-мог-быть-поврежден-якорем/a-77650633?maca=rus-rss-ru-all-1126-rdf
-title:report нефтепровод азнефти мог быть поврежден якорем
-seen_urlhash:4fcd1493d02b003b2b2b074a45ae85dec4c6d433e224a60bd2ffcc6b71bd9c0b
-seen_titlehash:1f87a7f9ea8e32b66486c15eb33e3d2743bac7e5aa2a47cdda35dc75ebf9c251
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb
-title:australia politics live jane hume attacks hypocrisy of property tax reform as auction clearance rates fall below 50
-seen_urlhash:9521a63d23367094998ee8ed4dec20a505061c54314af1b49999bfbb2607fd2d
-seen_titlehash:2b02b4794608758a39fc5b3161f09b3b00a44d941a5a21e0ba9e3563d86023c6
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/22/almost-three-tonnes-of-cocaine-found-buried-under-sydney-property-in-australias-biggest-ever-seizure-police-say
-title:almost three tonnes of cocaine found buried under sydney property in australia s biggest ever seizure police say
-seen_urlhash:38aaa2233c0269abbd913fd1b374e6ea85faef0b9d075a5005eb4fdf9f8d920b
-seen_titlehash:8cf9af048ea8913a6050b1d17d1c67df670f56a7f13581a4f909fe73d1654e26
-seen_reason:processed_not_published
-url:https://ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836
-title:india plays whack a mole with online financial influencers
-urlhash:f5be48e91ec5ba702d97dce0bac77c163b8a7cffd68d900f4366c62eb0d6fc44
-titlehash:cac5961c575211b6cb91f13e9a041ac84eb67a105057a5467ec8eb15683cac72
-published_url:https://aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss
-title:shipping stalls in strait of hormuz after iran declares key waterway shut
-urlhash:5dcbc4d42dc4fc1dd6d1237b74ab9a2a35ad85104e4a7bbeb8deead336f37783
-titlehash:cfc555ac7be6f3d641f508fcd15116ae44cb1f22ad78fb6efac32bac1ed77f98
-published_url:https://dw.com/ru/зеленский-киев-договорился-с-фрг-о-закупке-600-ракет-для-пво/a-77651238?maca=rus-rss-ru-all-1126-rdf
-title:зеленский киев договорился с фрг о закупке 600 ракет для пво
-urlhash:93485172ec852ebcbd7963189adc7df50311b41b4b6e1508c369cb92ee29f286
-titlehash:14ecc7b9495c9338876d1a78e05be8379dc3d36de7da5ccc28f173722e8c693a
-published_url:https://theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff
-title:far right millionaire abelardo de la espriella wins colombia s presidential runoff
-urlhash:e4a8c9a64896ea3d06b99b6d8cda28a555bc288febc88c38c0b3835fd80803ef
-titlehash:69067844c96d8a96b28bb2bf845dd6b6046fc03728a51bab5f978dd836eac5e0
-published_url:https://aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss
-title:iran war live mediators hail encouraging progress in us tehran talks
-urlhash:3a5eca9f9203c615eeaa1906be6fb7e5a2b617434af9b83a4fed642ffca6ce69
-titlehash:f30632c59dfa197acd839c0fc3cbf3573b6533b0de6435a84f63c3be742a37f9
-published_url:https://aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss
-title:us and iran meet for tense but constructive ceasefire talks
-urlhash:079cca3db830a7ab3e0551749bbd82806d3a66c0069f2d0d8cb07764a0278f6f
-titlehash:0a8d61528a950a318902c55b8686630608669a44512db6ae1d13525c7b8afb0c
-published_url:https://dw.com/ru/зеленский-навроцкий-идет-по-стопам-орбана/a-77650656?maca=rus-rss-ru-all-1126-rdf
-title:зеленский навроцкий идет по стопам орбана
-urlhash:85d83de7e58834bd752bf1eef0bb36d267ee297c96e4f61c4ab71fbf55afeaab
-titlehash:691fe11508a552ab5c1ca6235f10ee7ea50d68d65fb5cc7861b003d2c3f2b2c8
-published_url:https://ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f
-title:rightwing populist el tigre wins colombia election
-seen_urlhash:59f04fd1bc457e3b94c9943e92fc3ede0a701c144c4adb6f60f382db3e38d384
-seen_titlehash:9c833f3aef8eb82d44e10a602011e4074963a117dd052a8d248dc3345487b260
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda?traffic_source=rss
-title:ebola closure cuts off a lifeline between drc s goma and rwanda
-seen_urlhash:8452fce56e092ca607bb5899890fef0e1f35f925c1fc0269a41159cdec5f3114
-seen_titlehash:7fb2d1f19798b1e34e84c50a41e6197c68dbb4570ad03d2397adcc48ab5c04c0
-seen_reason:processed_not_published
-url:https://dw.com/ru/крайне-правый-бизнесмен-побеждает-на-выборах-президента-колумбии/a-77651554?maca=rus-rss-ru-all-1126-rdf
-title:крайне правый бизнесмен побеждает на выборах президента колумбии
-seen_urlhash:9a02c7ed208b989346b8870a1b28f4f02f9b43907c59049c2c46903f899c1afa
-seen_titlehash:e9f8550c9396de699439deb532e85c4f9b29cdbee8e4718e4a41ffa20236f90b
-seen_reason:processed_not_published
-url:https://dw.com/ru/в-чехии-протесты-против-изменения-финансирования-сми/a-77651534?maca=rus-rss-ru-all-1126-rdf
-title:в чехии протесты против изменения финансирования сми
-urlhash:e5bd4a40d5f3881abd9966441f4e6426108136cfb316de1dc8054be3717eca4f
-titlehash:21e08b2325963587310ebd5e8c32cdb9c79fe5abe287feceed293a5736359e44
-published_url:https://bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss
-title:russian troop build up threatens city seen as key to seizing ukraine s donbas
-urlhash:3aaebec99dee71063eaf0136fc7066a380c466b93b0f03eb154866554edcef15
-titlehash:0dceea776905fd374b4c153e0a02be46da3a40f72a2a1987716a461e1564e1f0
-published_url:https://aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss
-title:us iran agree on roadmap towards final deal in switzerland talks
-urlhash:776bf0b56377a5f87bc093c546ff423d7d2378ca9ad5931458bd175c9007e262
-titlehash:78511d088a42850c096422f35bb1b142588d07d70dcdcf5542b5fa9d75cca186
-published_url:https://meduza.io/news/2026/06/22/rossiyskie-bespilotniki-atakovali-tri-torgovyh-sudna-shedshie-v-porty-odesskoy-oblasti-pogib-grazhdanin-egipta
-title:российские беспилотники атаковали три торговых судна шедшие в порты одесской области погиб гражданин египта
-urlhash:8cd4745d18a80315897e1423f8a390fd519c126671c27e3ee306a9abb56de8ce
-titlehash:4e7553b79f5593d72b8f36635824f3e6e8b64c026e85263092617759ff4a9a96
-published_url:https://meduza.io/news/2026/06/22/na-podlete-k-moskve-sbili-59-ukrainskih-bespilotnikov-vse-aeroporty-goroda-priostanavlivali-rabotu
-title:на подлете к москве сбили 70 украинских беспилотников все аэропорты города приостанавливали работу
-urlhash:39b4f848ec7743360f013d8d0d8d06effd22e7b5e73a3ff186378aa432949cfd
-titlehash:1e6ae3b004f6843caa4fe4f8855c9d8c1cf9f4fb6f465e209b7b0d571d521b6e
-published_url:https://bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss
-title:trump backed political outsider wins colombia election initial count shows
-urlhash:f6523f7491cdbd4894ee975d4b1c6e9c7a3b54e76c6d6c0ed43ba43ea95c179c
-titlehash:4c591d296598753a795ae72025f3a304f3166462ad21fa769f68fb8c48630d40
-published_url:https://bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss
-title:china s import of custard apples is sparking fears in taiwan
-urlhash:ef72d8f837621fed95a453253dd358f5a38cd4a6ff3c341a72ac393c155f9a9e
-titlehash:cce4d13d28b52cf1d7dce9c5653e5443f92bf628438a156b72652e26a4a06e03
-published_url:https://aljazeera.com/news/2026/6/22/colombian-right-wing-candidate-de-la-espriella-wins-tight-presidential-race?traffic_source=rss
-title:far right lawyer de la espriella wins colombia s tight presidential race
-urlhash:d337e3e673b51501e8c4f9765450342fc81a2b4d84a3caa2b410a46ad91d180a
-titlehash:dfd5570f1b08aa55bac72442fbf232d2d1c7ead305d62592462f9f1a30ad50a3
-published_url:https://aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss
-title:explosion at qatar s ras laffan lng facility injures 54 leaves 18 missing
-urlhash:57a8a385cab7112d81cbcad0a4bd5ee1fe6cb9fa2134da5f3a4c14c3ad51fe6c
-titlehash:e90c828a1d8a8cd6a2289530133298758fdceb8071e38e1e4be465502a31be16
-published_url:https://france24.com/en/business/20260622-china-sanctions-us-tech-giants-weeks-after-pentagon-blacklisted-chinese-firms
-title:china sanctions us tech giants weeks after pentagon blacklisted chinese firms
-urlhash:f33bcc8ba75599169fb46afdd23d192227561beba48072d782f1bbb329a68ede
-titlehash:75ad86601510c662b1a6ba90f4d97808741533b6f74c2c03aee694f18e6fbff1
-published_url:https://dw.com/ru/власти-сумщины-запорожья-одесской-области-сообщают-о-жертвах-атак-рф/a-77652774?maca=rus-rss-ru-all-1126-rdf
-title:власти сумщины запорожья одесской области сообщают о жертвах атак рф
-urlhash:265a3553f4a201f3eb743879593fbc78709be49252c41eba2dddca50eaabc6bb
-titlehash:2a1fd0edb946fcf2fe6b11981936d4f9526945c8a0a824e4040d08c95ce9234b
-published_url:https://dw.com/ru/как-россия-обманом-и-деньгами-заманивает-иностранцев-на-войну-в-украине/a-77611753?maca=rus-rss-ru-all-1126-rdf
-title:как россия обманом и деньгами заманивает иностранцев на войну в украине
-urlhash:743981ab41314da9051b655daae96db47a1f92901ff8eaa8a2d66edcfec0d4a9
-titlehash:9f322bb90a82d4107c9bdea69d3cb4843cad615d80ab9155606c497fa5e2d28a
-published_url:https://dw.com/ru/сша-и-иран-договорились-о-канале-связи-по-ормузскому-проливу/a-77651565?maca=rus-rss-ru-all-1126-rdf
-title:сша и иран договорились о канале связи по ормузскому проливу
-urlhash:13daadbebf2c524467774df6c789f2fb1fc95d6ab7fac6fb665999ac84fd2a98
-titlehash:2011c96ba5e7bf24dd3e108500efed94ad5b6bd7698ac6c8eacc8b7a50a6de4e
-published_url:https://meduza.io/news/2026/06/22/premier-velikobritanii-kir-starmer-ob-yavil-chto-uhodit-v-otstavku
-title:премьер великобритании кир стармер объявил что уходит в отставку
-urlhash:7cf28aa643b6bd3800389adc4d886969c99be1e62585170baec500539099c932
-titlehash:ecc81fa8e474232a67d9f6828441fe3acc37fd7271d37815582d7a349d8e5267
-published_url:https://theguardian.com/australia-news/2026/jun/22/teen-accused-of-planning-terror-attack-on-peter-dutton-and-brisbane-march-was-making-edgy-joke-court-told-ntwnfb
-title:teen accused of planning terror attack on peter dutton and brisbane march was making edgy joke court told
-urlhash:0eeeb783e5ca0a426e1cf7a6e18cb61c2d656d2b38375a79f5aafb5240d4590e
-titlehash:02055bf8713774e03251be1c9e2f0be420ed8a995807d092d9515ea29cefa12d
 published_url:https://ft.com/content/4c5df333-b164-4ee8-be28-c17c17fbae54
 title:italy open to germany joining fighter jet project says leonardo chief
 urlhash:75a521283fb0fd90d7c0e7767fbe158dcc2d890808423c1a3ebea29c0845cd84
@@ -4998,3 +4859,142 @@ seen_titlehash:20050182ac354e5b1bb18e91cc96c240c6916e33c068399f0e17ece93026e168
 seen_reason:processed_not_published
 url:https://ft.com/content/2d5273d4-3514-418e-b7e2-fc1b942a9096
 title:top andy burnham pick advised thames water creditors
+urlhash:6da0d0749b2143ef02ddac97ffc81c443d81a0497fc8ccc620abd3255ed3f012
+titlehash:4a8fddd47da023d6920a6cd16cfdb89bc090f494985d5e474fc832c7d4361daa
+published_url:https://nytimes.com/2026/06/24/world/europe/trump-sanctions-judges-lawsuit.html
+title:icc judges sue trump administration over sanctions
+urlhash:d1e9946bc129e872dd1affefdeb19660e8a8e3b306bbeb299576e13dd01374cf
+titlehash:838d5790324f1c1a6812b78b3fb1b3db65d6054d12b43358bacee0281478715a
+published_url:https://aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss
+title:un nuclear chief says iran inspections will happen tehran says after deal
+urlhash:59c33669f8b18600e8c1d3faa01373100ff858847819195785438ed1b201e64c
+titlehash:11a73afc2d776ea22f7e4b7c968643aa8a496d0b2b3d647a411d379cc9759eb1
+published_url:https://dw.com/ru/мерц-зеленский-готов-к-переговорам-о-прекращении-войны-а-путин-нет/a-77698147?maca=rus-rss-ru-all-1126-rdf
+title:мерц зеленский готов к переговорам о прекращении войны а путин нет
+urlhash:d8d8939b0b0f652ace1b08da6184936941ebc80bfaa7804603ece58d5144c6a1
+titlehash:f447c469acbaaff100823a690e55cd76447515aaed3f317d239d93dfe853be7a
+published_url:http://ru.euronews.com/my-europe/2026/06/24/russia-strike-kills-mine-disposal-experts-in-ukraine
+title:двое специалистов по разминированию норвежской npa погибли в результате российского удара по украине
+urlhash:dc1e031ebf40fe230e4911fb2e00c56dddf607a10b6121a35306422714b05dda
+titlehash:c375d12debc2bc407018ecd581fc9e9d9ef147c4801f7be5ffe99514c280002c
+published_url:https://meduza.io/news/2026/06/24/zelenskiy-ukraina-vynudit-rossiyu-vybrat-mir-esli-u-kieva-poyavitsya-to-o-chem-govorili-s-partnerami-po-g7
+title:зеленский украина вынудит россию выбрать мир если у киева появится то о чем говорили с партнерами по g7
+urlhash:87f6479cdf69ff9d0aabf67aebcd52c9617a2b1d2c527514621d5fa66afb3529
+titlehash:12c44485a08dea4557be58ad5890992138d6ea00d5d79c2c3549e1cf0c9d9e60
+published_url:https://theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence
+title:dutch pm apologises for moluccan soldiers mistreatment after indonesian independence
+urlhash:c3c5c2aabf52acc3c384949babd940512474c476d8956022062cec6599bcd7c9
+titlehash:9ea0cbabd47aab4bda9dfb9aed834629987fced1d06d1323460a8fbdf1f013dc
+published_url:https://aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss
+title:at least three killed in drone strikes in russian controlled horlivka
+urlhash:ffbda01813616e9111f0580219549e78536870215bf0ef454d3400254a9bc3d6
+titlehash:bd2a38edc390e9459133c683b1bf324c7e49cb70020e7a9af0cf3eec8e8d2cf8
+published_url:https://aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss
+title:our life stops west bank childhood shattered by israeli military raids
+urlhash:a199c82047c09e4f290650c261f6d71ab5d241091a0ede056b58519ac8f7d024
+titlehash:da1b0a46d83ccec6452394beab8db9fb674b3c9450edaf7c6630ffff08fd8c05
+published_url:https://france24.com/en/kyiv-using-ai-powered-hornet-drones-to-strike-deep-into-russian-territory
+title:kyiv using ai powered hornet drones to strike deep into russian territory
+urlhash:0acb60ecabe5c6e2343de92fa9e30ab090d2324230992cb7e6852eb6587b903c
+titlehash:381db3c26d21111bb41a45f64229309b2d47aa922e37eebb2429aadd3622898a
+published_url:https://france24.com/en/france-sees-hottest-day-on-record-wednesday
+title:france sees hottest day on record wednesday
+urlhash:63aba29cff910e86bd3bbd58121368d0ff3e15da11ca0a51779499a79bd56739
+titlehash:5c8650cb6e50bb64112430a1c5a78e9d48038d24027073ca8ed478604fb93a75
+published_url:https://dw.com/ru/киев-в-беларуси-отключили-ретрансляторы-для-российских-бпла/a-77698635?maca=rus-rss-ru-all-1126-rdf
+title:киев в беларуси отключили ретрансляторы для российских бпла
+urlhash:1f6c1983b72e5c67cfd28b04afb5d0af4e80aad75dcef06cf1f1b88d1c72e8fd
+titlehash:f30ccddc60a7ef726c0051209f067bd665522f68b7591a114d754fb88b7417f8
+published_url:https://meduza.io/news/2026/06/24/v-otnoshenii-ursuly-fon-der-lyayen-nachato-rassledovanie-iz-za-sekretnogo-chata-s-vladimirom-zelenskim-i-evropeyskimi-liderami
+title:в отношении урсулы фон дер ляйен начато расследование из за секретного чата с владимиром зеленским и европейскими лидерами
+urlhash:b9b26b6e3f177c1a9ad735600dbc0b762ab86dda9f55de39565cf9b8aae8f21c
+titlehash:acbac5deaa54c889ddfbe182dbc358253b66f426a709f8ac76cbda6abd1753f3
+published_url:https://france24.com/en/tv-shows/the-debate/20260624-albania-s-flamingo-revolution-will-protests-stop-trump-family-luxury-resort-plan
+title:albania s flamingo revolution will protests stop trump family luxury resort plan
+urlhash:4163dc193cec3a4fe25654faad592513fe420b57655596a8f52b7379b38d0d9b
+titlehash:65072cba20195b9379cd7b9e3f8b0f216eeb9997920931b0afbb84602c8e9fde
+published_url:http://ru.euronews.com/business/2026/06/24/the-openlux-investigation-reveals-new-companies-of-wealthy-spanish-fortunes-in-luxembourg
+title:расследование openlux раскрывает новые компании испанских богачей в люксембурге
+urlhash:de2311a8a25a5d5fe1bcbbaae1289550f8c48076a2d09660604068d96558bc7a
+titlehash:b19de02597dfbc48a62be29381899b2521eba007f16359987e36595764345d2d
+published_url:https://meduza.io/news/2026/06/24/madyar-predlozhil-rassekretit-arhivy-kommunisticheskih-spetssluzhb-vengrii-zakonoproekt-vnesen-v-parlament-i-skoree-vsego-budet-prinyat
+title:мадьяр предложил рассекретить архивы коммунистических спецслужб венгрии законопроект внесен в парламент и скорее всего будет принят
+urlhash:cda082587ef34b31b3aec684a5214576174f53d422723c5b26ffc2ea997fd442
+titlehash:32bf275e8d4fdcc63fcd229904147bf5a5a57767efae1cdc059bf4344afb6bd3
+published_url:https://ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa
+title:predictions market kalshi in talks to raise funds at 40bn valuation
+seen_urlhash:a25ffeea3c86dfa8977fd77c4f43ec2fca211449b1080fda3d50334aa0d7ad2a
+seen_titlehash:8f952061d3051ba28d4590c6bb41b34c96800425bea9ba5a99f833072ec18a32
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/24/world/americas/cuba-economy-overhaul-communism-trump.html
+title:cuba announces sweeping overhaul of struggling communist economy but obstacles remain
+seen_urlhash:cc4466b3c04da6bd9ae12edd2e000bdd76a59e887b165a71ffa4dfbd4e8b89c4
+seen_titlehash:fbbbef8f38bea7d89071c2c25ff9218669b2a58149668367d84ff79703f0b31d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/24/world/europe-climate-heat-wave-ebola-world-cup.html
+title:a climate chaos maker
+seen_urlhash:af4d31a883386261f104ee1816d8eb5d3e6738e24132ac6e424208da348ca1be
+seen_titlehash:b223d3e05ef8d8c3c897283e69f740d89caa9df3889dbe64412ec6268d028e8d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb
+title:australia politics live boom in home batteries means fewer new transmission lines will be needed models show
+seen_urlhash:25b3fb4abf377bd3d309a4faf51917654db271ae942f1d6d44ae54a4cee0f3e7
+seen_titlehash:c193fdcb848d471f1d37cbcf3785911d82eba9c3838058b80d262d79a4100770
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/24/us-judge-blocks-trump-subpoenas-into-transgender-care-at-new-york-hospitals?traffic_source=rss
+title:us judge blocks trump subpoenas into transgender care at new york hospitals
+seen_urlhash:26e6849554d35464f2aa189c0aeb3b75f0c5457739459345a644c9eacea36423
+seen_titlehash:f1e53dc3f84f017e83c89a2942a3591a389b46ea3cd672d65bbfb174c586b7a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss
+title:rubio us completely aligned with gulf allies on iran
+seen_urlhash:8721d434c4b0039976351b256f94234d314cd1ab22652acc620e6b9225f79912
+seen_titlehash:9dfb4c7043052f32c2ebf8d434594b1abef2d9021b0bfb82359369184f28e6dd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/24/de-la-espriella-pledges-to-restore-colombias-relations-with-israel?traffic_source=rss
+title:de la espriella pledges to restore colombia s relations with israel
+seen_urlhash:a2a96b9b000b2adc8b7851944b004ef70137d084e311ae0dccce6d9ea9b0b570
+seen_titlehash:88939c77baccc058752fca692b06a5d9bd27d6aaef6cb8e9af47198af01de9bc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss
+title:wins by mamdani backed candidates deal blow to pro israel camp in us
+seen_urlhash:899e3f89897a19fc1400775e04c55af2b73aa29c6bab700bfb3a2c1b4af18247
+seen_titlehash:affc2d294d120219c57cae911e1358ce9a19555ceca6a0cdbbc7a24968ac8e1c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss
+title:why does israel want to be less dependent on us weapons
+seen_urlhash:d71220338c500803c6523878ad3ceb5512da15bf5a1cad7b00e8eaff247589ab
+seen_titlehash:eeaaf7872d81f12ba7f61f74545a9b378508233f65c91b3691ff2a82b3b8a482
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss
+title:dutch pm unveils moluccan monument marking dark colonial chapter
+seen_urlhash:682452633aa51b7b72b319233ae7049344d8fc480c7237ce8432184e89e67f18
+seen_titlehash:6c8c43ce18652bfc17dd728e3bc09d96bc6f5d0bc5bf6d05b1db51ec83c11f56
+seen_reason:processed_not_published
+url:https://france24.com/en/unfortunately-in-the-coming-years-this-will-be-remembered-as-a-cool-period-climate-expert-says
+title:unfortunately in the coming years this will be remembered as a cool period climate expert says
+seen_urlhash:1db8680e43121306bfe58fdc5b64db6b949c08257fe87fc7d5260aa3d57d8f82
+seen_titlehash:15879189289d955462d8601089295f75e747bf4e2c13b4d2993073608b8861d9
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260624-france-heatwave-air-conditioning-comes-at-a-price-not-all-can-afford
+title:france heatwave air conditioning comes at a price not all can afford
+seen_urlhash:d0a740e3b1c32cd3e40d3c4f56cd2c716122e04428209f26493e5f00d1b83a42
+seen_titlehash:b25b39bcff129e1bacf4bd2f2798d1170e53fd49bdb1008c45c97f7d0a8bc3be
+seen_reason:processed_not_published
+url:https://france24.com/en/sweltering-france-sees-jump-in-coastal-waters-temperatures
+title:sweltering france sees jump in coastal waters temperatures
+seen_urlhash:979dac1b86ab0579cc0a2c7a0ab41d20cf6507503fe8871ebfa6be4cd2c2c86e
+seen_titlehash:718a7b30570bd9c0d3f61ab10ebbfdef238382c1869b977b2517ebaf68e46765
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260624-france-best-prepared-in-europe-for-heatwaves-while-uk-views-heat-as-occasional-inconvenience-1
+title:france best prepared in europe for heatwaves while uk views heat as occasional inconvenience
+seen_urlhash:ac19e74b21a8bdc05e21be7fe1f35c974bb581a4aaf38a3f4901e2c55fb10a48
+seen_titlehash:0b6f7e992ca17bb2bffa6de06b93b6865ec94c01a3501937a16c4ad97e3132e7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/24/human-dna-over-2000-years-old-found-in-caves-in-spain-and-portugal
+title:в пещерах испании и португалии нашли человеческую днк старше 2 тыс лет
+seen_urlhash:8c15eed229e963116f7412f98c6d8912d2636e05b6873a6ed55d76200e938858
+seen_titlehash:96e1f5c48e7365e369fe6fd602367a81b76eedbc493bb67fc8fcae69359724d7
+seen_reason:processed_not_published
+url:https://ft.com/content/6d084723-4938-44be-970e-77358d86e96b
+title:uae billionaire s son revealed as buyer of 190mn london mansion
