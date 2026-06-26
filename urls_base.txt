@@ -1,102 +1,3 @@
-url:http://ru.euronews.com/video/2026/06/24/toronto-streets-fill-with-panama-and-croatia-supporters
-title:болельщики панамы и хорватии заполнили улицы торонто
-seen_urlhash:7809fc5ce7577334ec47151e0dcaf06a1650ed6f63cca82fbab545f8ff4d921c
-seen_titlehash:72f355e9363bf5aaaff559b18b4bc11997f917e5e11644d82b26bf2063a30d54
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/24/vyshegradskaya-chetverka-anonsirovala-perezapusk
-title:вышеградская четверка анонсировала перезапуск
-seen_urlhash:9d2e5619f4e9bcc46069984ecca30ec6aff36e32ffef5f4dc8d41644d4436d57
-seen_titlehash:5e6b8c54cc12ac4bed0aea759150f7cb58bf820dad114ed559a518bf7266d5e9
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/24/the-blair-witch-project-movie-reboot-will-haunt-cinemas-in-2027
-title:перезапуск проекта ведьма из блэр доберётся до кинотеатров в 2027 году
-seen_urlhash:9aa5ee69565f058b712747ffb3f4c21e8d7d9c57f24c25f887bbc6a9cce1bee5
-seen_titlehash:151138fdd5480636b8f5f406221c81f8c38cd10fff4108b3fba1911d8b542123
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/24/germany-railways-radio-failure-traffic-chaos
-title:движение поездов по всей германии было прервано из за сбоя радиосвязи
-seen_urlhash:e4ec8ac9285ef744db9b83bc50d37d66156b3f74f615bec48ebb91ff1e15ddf9
-seen_titlehash:516b839155e91ccfd891086cc050d136b03882371057d3e7b97827b8d505bb5b
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/24/glava-rosnefti-igor-sechin-predlozhil-mery-po-borbe-s-toplivnym-krizisom
-title:глава роснефти игорь сечин предложил меры по борьбе с топливным кризисом
-seen_urlhash:7ec164835d333f2a2ab09fa78fec06bbbc1ffea57b76273c8acee39dcfea44e4
-seen_titlehash:c8e2519124c0d6183c33fcfa8e62f1e77939371c8d1652c4ed755f2c977be8f8
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/24/v-kremle-zayavili-chto-ne-obsuzhdayut-vopros-o-perenose-vyborov-v-gosdumu-po-informatsii-meduzy-siloviki-pytayutsya-ubedit-putina-otlozhit-golosovanie
-title:в кремле заявили что не обсуждают вопрос о переносе выборов в госдуму по информации медузы силовики пытаются убедить путина отложить голосование
-seen_urlhash:75108b3f7191dfac283c32c7085b2db388b5dc986a7d0db16846daa5d9367685
-seen_titlehash:f288a58de0eeadb032c4aa6bfd42565a0846336d339e49db747decad0678e372
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/24/kommunisty-zahoteli-uznat-u-roskomnadzora-i-mintsifry-zachem-nuzhna-blokirovka-telegrama-gosduma-otkazalas-napravlyat-zapros
-title:коммунисты захотели узнать у роскомнадзора и минцифры зачем нужна блокировка телеграма госдума отказалась направлять запрос
-seen_urlhash:cea884cb5d8756753aa45ad21916df62296360cac613cf738f2c58be5f4dcc81
-seen_titlehash:05a1f9f4934311163bd21ba0b1c12163fe6880f65c226e2a3a43c9fa0d11ca00
-seen_reason:processed_not_published
-url:https://ft.com/content/442bdba8-6f7e-4ddf-a99b-a8ba102d247f
-title:who is the indian entrepreneur tapped by meta to lead whatsapp
-seen_urlhash:49d8b910c685a5a0c55fb68033240db178b5ab70c260adb9824e77cf99f75b4f
-seen_titlehash:4f95d94e5e68e7d600ecb01d1d20f4efbc8bd8a401b28ea59b08104e2fff37cf
-seen_reason:processed_not_published
-url:https://ft.com/content/9281a3dc-c3c5-4f31-b82e-15440954e9e3
-title:segro rejects 12 6bn takeover bid from us data centre rival prologis
-seen_urlhash:acee40ebd8035aa049c6dcd2200033f101c920fd372b0b48fb234fc3561479b4
-seen_titlehash:ebb6e16d1c26c81a7598e33b5ded96ae81ca64d3c6e0fd0950fe1f48f34bd488
-seen_reason:processed_not_published
-url:https://ft.com/content/e5f2892a-d3b1-4779-88db-8d3b034b078a
-title:hyundai workers in south korea vote to strike over fears of robots replacing them
-seen_urlhash:c2c3f99ccad76e9a66955e2fa4b8fe629fa9b183752657792b6d2399bfde968d
-seen_titlehash:4bc9647fb74fc230512bfd39976cf096ca3eef48d3eefdcc0f58f98556e01058
-seen_reason:processed_not_published
-url:https://ft.com/content/b241ba6b-3025-4821-a90c-97bdaccb8fcb
-title:euro sinks to one year low as falling oil prices ease pressure on ecb
-seen_urlhash:cc6924f7cd2ab336d7408a91711f92c5057cd9cae728808cb5396c3abcae1af8
-seen_titlehash:c6f9e041d285479adf7a8ae4b3cea070ea6080bce713d25555c4422ecab31acf
-seen_reason:processed_not_published
-url:https://ft.com/content/aa5c94cb-038c-4d95-a160-be44130b8483
-title:burnham s first hire helps win over his doubters
-seen_urlhash:6e037a6aff964d61270686b4d68cf96f768ea983c0e6f84a3a9434271ec8e508
-seen_titlehash:fc1e782b34f23e3410e4a72958e8734969136037e66e7b6c9a7653040e65408e
-seen_reason:processed_not_published
-url:https://ft.com/content/997703be-4d36-4089-9c23-b12c9817d1f8
-title:bank of japan s summary of opinions shows support for further rate rises
-seen_urlhash:5e5ad742296a23caf37ad9b36d42e1ddcd3c37c636cbd8170009af4526864c58
-seen_titlehash:812fd36fe36aecd4ea7168a8f5e985bbcd120336be53ce878192d28574e5ab56
-seen_reason:processed_not_published
-url:https://ft.com/content/f17f318c-ec77-433c-be79-fce191bd78d5
-title:south korea stock volatility hits record high amid ai doubts
-seen_urlhash:1ce4cff962df828c8c55846672410b36f9a37a3e152145a1e9cf1dc23f3ac789
-seen_titlehash:af1cf5812c24d9071fa385772f9e9904f11c5459dcdcbc525cdcfc87338a337e
-seen_reason:processed_not_published
-url:https://ft.com/content/7eb32c5d-6473-439d-8846-6b341fc6775e
-title:darren jones says burnham understands fiscal rules as he rules out leadership bid
-urlhash:2bb0c8034a5268fb07248b393f308a31b857cb9424d2fb1d1f5f00307a77d0c8
-titlehash:2389bd37c023cc47b6533bd7ce978dd0b135e50f2b20e046adc6a0c1f1e6ae1c
-published_url:https://theguardian.com/australia-news/2026/jun/24/australian-citizen-working-as-spy-for-iran-orchestrated-bondi-firebombing-asio-boss-says
-title:australian citizen working as spy for iran orchestrated bondi firebombing asio boss says
-urlhash:591c825ca687bce227764e1e205aa661a408bd7d30e1fb3c25366fec548518cb
-titlehash:31dc7dc43e4cad7340b0322852f059efd375a7d624079e527afbe42cc926d1e8
-published_url:https://aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss
-title:north korea commissions warship as kim eyes nuclear navy
-urlhash:5288c5765f0fd7f4d07e10b056e5048d79ebc16a5e7f3cd5e0871dc49a1b54ca
-titlehash:a0b22aab2c215cb00ec4386014d3c6412e453f4d2a87dc8236053498545b364b
-published_url:https://france24.com/en/tv-shows/press-review/20260624-genocide-un-report-says-israel-deliberately-killed-palestinian-children
-title:genocide un report says israel deliberately killed palestinian children
-urlhash:d712698fdb8b05af815a550391909f31063ec52df70aefd27c51de0a8ddf5855
-titlehash:305a7e372e91d58ff46c895b913bac8385c90791d862b1bfc118e7d7d422461d
-published_url:https://dw.com/ru/сша-провели-первые-испытания-системы-про-золотой-купол/a-77688831?maca=rus-rss-ru-all-1126-rdf
-title:сша провели первые испытания системы про золотой купол
-urlhash:30324cc824b747aa8efa8a0308ab18cf63db2b6b29e0e9283e0b1c867bad9d4c
-titlehash:9ea492b3db8940e48b3db1fec980da436ac9bcb8b49e04804422a201e07fe110
-published_url:http://ru.euronews.com/business/2026/06/24/european-defence-ipo-knds-outlines-listing-plans-that-could-value-it-at-up-to-15bn
-title:knds раскрывает планы ipo в европе с оценкой до 15 млрд евро
-urlhash:13a486387509f1431034035d677cc172f846c759ab2bdbaa89fdfafe5ee9d662
-titlehash:ecd1749dc4d049c4ca3f260c2d97f2634bba79eb4a535cbf8d22e1134fee5f35
-published_url:https://meduza.io/news/2026/06/24/reuters-moskovskiy-npz-posle-udarov-dronov-ostanovil-rabotu-kak-minimum-do-kontsa-2026-goda
-title:reuters московский нпз после ударов дронов остановил работу как минимум до конца 2026 года
-urlhash:a892b3e18c418dc331aa928339ed8ce82c5a2039581e751bb98dc7db55dcd739
-titlehash:956426065b64131389108cd8d3a0e5a6610e5312d904bfa0a54fc9192949b3eb
-published_url:https://bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss
 title:un nuclear chief says inspectors will visit iran sites as part of war deal
 urlhash:bb70f90f349d748b277f8a52f832090a2e585c96ce077e9453a33b44ea4ae4c4
 titlehash:8b8367830bb292302b809db958affa1d486d852f42e990d123fcfd7e7e925c5b
@@ -4998,3 +4899,102 @@ seen_titlehash:0921e7df279611e82f0a0f4597de588aeea537b3035562475b19776c257df823
 seen_reason:processed_not_published
 url:https://ft.com/content/719bbd62-345a-46ba-9e61-be5ad3bf6058
 title:hong kong billionaire explores sale of harvey nichols
+urlhash:460d7fdd4c20d08f59f50fd849327fff90df47af9d68bd24f6a1416c4d3ea3e9
+titlehash:8b71c0abeb84115e255fcfdff4ffd2beec29121b0011d3b54c04ba9b8e1d2fdd
+published_url:https://bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
+title:us conducts strikes on iran after attack on cargo ship
+urlhash:ee1ac98433a70953e8a26ca352326ebda9184421d019562d81899653536ff16f
+titlehash:c872ae6a2901d7f2cc741e35d479d127d42ffadaa0af9cddfead7360f131ef7a
+published_url:https://aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss
+title:burkina faso cuts diplomatic ties with former colonial ruler france
+urlhash:bcfaa6ecbce54a90b1b0c4d565024ed38b97409e00da5e66d450ed8fdb6fb3e8
+titlehash:75bcfd81ecc84ec8726c6944abb5a7f77868687535ced520809ffdbce18ff44d
+published_url:http://ru.euronews.com/2026/06/26/usa-venezuela-sanctions-humanitarian-aid
+title:сша приостановили санкции против венесуэлы ради доставки гумпомощи
+urlhash:f24b5f6fa24213980ca33ea4fa73bf5a37dba717c001429d513e452f1c33ae05
+titlehash:1d5bdfbd254b6cef17bcb72064c63823389404b09ac9e125cafb9b0d586e1173
+published_url:https://bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss
+title:venezuela earthquakes kill 920 people as families desperate for news
+urlhash:841a9660cadc34305eb7929b8c966dcbb251eb139615170e6813d730175918a6
+titlehash:16a72afe02344d399f78e82ab09d79965083990ad148556e94c46a9c4b18f823
+published_url:https://nytimes.com/2026/06/26/world/africa/south-africa-migrant-camps-deadline.html
+title:migrant camps swell in south africa amid growing anti immigrant threats
+urlhash:f9d7ff0554590f57f0f113eef3e239ee133d5469358e9c3aafae219f3cdee16c
+titlehash:73d6535a8f3308028957cca60b51db2008859b4811e04ba4ea00ee657f114a41
+published_url:https://aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss
+title:hezbollah will not support israel lebanon framework deal
+seen_urlhash:4057c1b34fe10c850179bf3c8be8be6810551c60f6d83171e37361212a6c0987
+seen_titlehash:c502a4b3e55860ca2cb514d66f7410d03e4a4a8a16a203a789aba28a3b9206f9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/26/world/americas/venezuela-military-response.html
+title:as foreign aid arrived many venezuelans asked where is our military
+seen_urlhash:8e2dbb58ecf2826ce7773083c07bf026a984816e47487370d0ed7efa37144df8
+seen_titlehash:7add16d592d0406f4a1e8daacf6bd0d5d28d257fb700752c1a752e39cdfdfa97
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/26/world/americas/venezuela-earthquakes-rescues.html
+title:in venezuela s rubble listening for whispers and longing for help
+seen_urlhash:abe94390c302a991d32f3699517f86db81abd1d2100a19b0587fd06198f1ed86
+seen_titlehash:e82c3c60e962806fdad1fe73dea937f710124b2027ead19050c75093224606a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss
+title:thousands of migrants flee south africa ahead of anti immigrant protests
+seen_urlhash:b5f04ee45c9107494cbcfe96517fd20fbea1e1924ab0ba212ca6590c8f835096
+seen_titlehash:1085fc1acfe18f5042232d4e2fc51c84ed3dac30331696c50ba509e9ad6d00bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss
+title:us strikes iran in response to drone strike on commercial ship
+seen_urlhash:189d5a45ed8cf80fce6c4cbeb7a511541795ed7336250a812d2c8fb83ac63607
+seen_titlehash:90ad98123daaaa2d6ae9a360d0f8a21e3d1ac8fd2ea94f4e1e83fafd303a4110
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss
+title:un rights chief calls for probe into migrant deaths in us detention centres
+seen_urlhash:eb83a7c32430a23f6e131d30708795e6fc7895e2ea575ede6fe84a0f4c945620
+seen_titlehash:8bf64fcd3468b927cb27d4d5202859235e46a5118f0158fb33e50fcd75c38e4f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss
+title:mistrial declared in federal arson case related to california wildfires
+seen_urlhash:aebef3ac9456010cf51e2c1a6e6ec373b7f9bc8f87a528428d598584f49bb1d5
+seen_titlehash:72cc17638f053efcfb02621dc8d7545d31324718dad442eeb0483b30ab2f1fbb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss
+title:after progressive us primary wins trump takes aim at godless communists
+seen_urlhash:1929a7da7a08ab4a2d0248fe9a94fe6148f8f649252fc0b38fa08c17ab22613f
+seen_titlehash:751bd49eef12d9dc0d65bf8e0f7b552d705ca7ff183f8d163e2552b87e97c622
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated
+title:middle east war us strikes iran after trump says ceasefire was violated
+seen_urlhash:3660e3919416378711c6e3caf02632d4318d237842fa8bf48ea90b2075a45b75
+seen_titlehash:fc17f0d3a5281df3aa7d55289f43de715f20f48694ac1fa2952a0c2bb1c32157
+seen_reason:processed_not_published
+url:https://france24.com/en/live-news/20260626-us-strikes-iran-after-trump-says-ceasefire-was-violated
+title:us strikes iran after trump says ceasefire was violated
+seen_urlhash:218380f0b919f8590cbba3c0e317a87388683f2c880ab7903798404f148cdfcc
+seen_titlehash:0f74ebda68d230523b982d66d96be067c11f4e27aeaa6682c65a83400847749c
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france
+title:burkina faso ruling junta cuts diplomatic ties with ex ruler france
+seen_urlhash:b810dedaa03d8c350ff3cfdaeca3e526e780d4e4ad7510c3b748826b31e29a02
+seen_titlehash:7db13add6f0f9098447dc5cc5e4dcf50583e5ef6b87bbf629fd44a129760d8db
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-ударили-по-ирану-в-ответ-на-атаку-на-торговое-судно/a-77730296?maca=rus-rss-ru-all-1126-rdf
+title:сша ударили по ирану в ответ на атаку на торговое судно
+seen_urlhash:e26a007b65a7dd7caf12efa92823850f451e74efdaa2cdbbd7b0448933f54642
+seen_titlehash:6797c5d2378730994a10ee36036f51ce695bd1ef9749a5243cdb10f852dbd65d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/26/small-plane-crashes-into-beijings-tallest-building
+title:легкомоторный самолет врезался в самое высокое здание пекина
+seen_urlhash:03b63ff224df23824a1e1864a1963ad51cbaac465a9345b6be8deebcacfae7d5
+seen_titlehash:3d01a862687c0e0258464fbcb6be3a0d994548ae099ff58d41d1aa5bab12a5a6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/26/ssha-nanesli-udary-po-iranu
+title:сша нанесли удары по ирану
+seen_urlhash:2bb35555cbf4a1735a3a58b15125e00b706dcd5ac8b9561b221f09a8169b8f0c
+seen_titlehash:12188ee238528fac02485cddffb5da3d3cda2ec842aa63ceaec30006d0170c8d
+seen_reason:processed_not_published
+url:https://ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae
+title:us launches strikes on iran after tehran s attack on container ship
+seen_urlhash:9257760c83734ffbda49f876fa9aebb8891437edbbe26a32802a020828df966f
+seen_titlehash:f9b06a2bda9b3e9c7fc695e581a2cb99c1b58218a4227807c0c895450d094ef3
+seen_reason:processed_not_published
+url:https://ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c
+title:spacex bonds sell off days after ai and rocket group s 25bn debt deal
