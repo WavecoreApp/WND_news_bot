@@ -1,94 +1,4 @@
 seen_reason:processed_not_published
-url:https://france24.com/en/video/20260624-france-s-deschamps-to-miss-norway-match-to-attend-mother-s-funeral
-title:france s deschamps to miss norway match to attend mother s funeral
-seen_urlhash:21e9eb88a1f165b19723c8aa7ed00d0ea6529be400383c8da3b88ec115bfe489
-seen_titlehash:1533859df9517d7a621098498a19f92d756caacbee7e3815473a762f46b8e0b9
-seen_reason:processed_not_published
-url:https://dw.com/ru/суд-в-москве-приговорил-зампреда-яблока-круглова-к-семи-годам-за-посты-о-войне/a-77697280?maca=rus-rss-ru-all-1126-rdf
-title:суд в москве приговорил зампреда яблока круглова к семи годам за посты о войне
-seen_urlhash:99f8da53a17c3de45a3e4e5da4668f75a901b4533e46f64ee195b5a401cc94ee
-seen_titlehash:043f29df8d2242648565067fc9ba7e56f35c4d029e3be5bd67b95915deaa76cc
-seen_reason:processed_not_published
-url:https://dw.com/ru/напавшего-на-полицейского-во-франкфурте-на-майне-хотят-направить-в-психбольницу/a-77696497?maca=rus-rss-ru-all-1126-rdf
-title:напавшего на полицейского во франкфурте на майне хотят направить в психбольницу
-seen_urlhash:89ce737c25c6252c9396d353f207a32844fb4a4defaa7b5713d99cbe10259a0f
-seen_titlehash:424846ce823b78d178f0c3ead5573a05e8977cfe794e4c6088c03f788b197964
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/24/elena-zelenskaya-i-andrej-sibiga-propustyat-konferenciyu-po-vosstanovleniyu-ukrainy-v-pols
-title:елена зеленская и андрей сибига пропустят конференцию по восстановлению украины в польше
-seen_urlhash:b87f95483635d0f756b94b2717243aae6b2a892ce5b179ccab9062e1968801a5
-seen_titlehash:760ed5933b26b47250a5410d4addfa577ceafdb4cd21f82c29ee7084449582c1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/24/imf-to-closely-monitor-chinas-economic-growth-amid-tensions-with-the-us
-title:мвф будет внимательно отслеживать рост экономики китая на фоне торговых конфликтов
-seen_urlhash:7286d302aeda7977b1b01a577cd675487eb76951486f94b2a715d232ba795c2b
-seen_titlehash:acae0cbbf752640c93fe634d8ec29748a3229b5f5700855fd8f3d71f8de0337b
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/24/portugals-world-cup-victory-sparks-celebrations-in-lisbon
-title:победа португалии на чм вызывает празднования в лиссабоне
-seen_urlhash:4cf0cbab0e9f09930c2709d474af10bde115f9c4ea488316681e0a2f8130d199
-seen_titlehash:3ba3800c22a2c274e2685fca6b7c51c2d0ad45ee48c73a5739204aeab7c13cd8
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/24/first-whales-killed-as-iceland-restarts-commercial-hunt
-title:исландия возобновляет промысловый отлов убиты первые киты
-seen_urlhash:351864373d59f581bbf82c8e8adfbb096ed81e5e7c72edd83c357132d29d6be8
-seen_titlehash:b1f847037a88d7acc55ae3b885a4d1784e169c90942a3b1b22d95cd874340a20
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/24/in-paris-the-cirque-dhiver-has-begun-work-to-restore-its-original-splendour
-title:в париже цирк зимний начинает реставрацию чтобы вернуть былое великолепие
-seen_urlhash:7155d030e6fe96604ad773fd89ff13b45155af0afee925b5550fce3c06c56920
-seen_titlehash:e8e1ad2e8b8113f4a747b50457d86f94465e410275701aa2dbf0828103021ae9
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/24/seal-at-hungarian-zoo-brushes-its-teeth
-title:тюлень в венгерском зоопарке чистит зубы
-seen_urlhash:fd94fd81978e8e3499ec6c5cc44da35de24ffb109cc9fff9544ff03eff588a65
-seen_titlehash:ffcf99e3c4789936b99e5574e3868d3fb146b17f65c5717c4fe29ad729ea429a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/06/24/new-giraffe-born-in-denmark-zoo
-title:в датском зоопарке родился новый жираф
-seen_urlhash:a369e2b5facbf757e3720031211b891fb2c1f290e294962e0e30d65980060d34
-seen_titlehash:672a89fea667ce31c22d8f0fe51f307c049af7b31ac23eb7ddaaf51b2ad141a3
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/24/spain-breaks-its-heat-record-twice-in-june
-title:рекорды жары падают испания бьёт двойной рекорд в июне
-seen_urlhash:cc61269a42bab299acb22a8a084878704526762f107371afcf129b5c2ffb00d9
-seen_titlehash:e12b2487b29a1d022cc0f04143c088811b587cb5cbb4302dcd088524204024be
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/24/kazahstan-zaklyuchaet-sdelki-s-evropoj-na-10-mlrd-evro-po-itogam-vizita-tokaeva-v-bryussel
-title:казахстан заключает сделки с европой на 10 млрд евро по итогам визита токаева в брюссель
-seen_urlhash:d3f81a221262e45569e5e692306ced9b56373e4d722bb3f914ad42b96052a95c
-seen_titlehash:25a5be6f624ff879a8db46bcd84995f3f1175339334163a32b82158b18f05102
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/06/24/eu-proposes-tax-overhaul-to-reduce-business-costs-by-8-billion-a-year
-title:ес предлагает налоговую реформу для сокращения затрат бизнеса на 8 млрд в год
-seen_urlhash:44f015529a3427ba9b78467e18a10680610f32f77180b73c21365d5d7b95d0a9
-seen_titlehash:cfc675cf7baf7726375911cdb3f3912d752cc86e801206bedd56f89480c1ab85
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/24/madrid-the-new-cinematic-muse-of-woody-allen
-title:мадрид новая киномуза вуди аллена
-seen_urlhash:3df712dee5d4920e5249c1e52405396f886a03e04ca6d678b4600ba1973d7996
-seen_titlehash:715157d27f50dfbd3da9990251d4f7439723ed45ecf1daa41db4bd6884aec142
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/24/european-heatwave-forces-early-closure-of-the-eiffel-tower-and-shutdowns-of-tourist-attrac
-title:европейская жара эйфелева башня закрывается раньше закрывают достопримечательности
-seen_urlhash:5c5c98f0a2c5090718e13f4978bcb11750c91e6ac8036f785a055730716968b8
-seen_titlehash:836ae4a2ff1f61e0f27c1520ca9553de6bc97b97ce7330fb90f535b7c4f41cc4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/24/ryutte-vstrechaetsya-s-trampom-chtoby-snizit-napryazhenie-pered-sammitom-nato
-title:рютте встречается с трампом чтобы снизить напряжение перед саммитом нато
-seen_urlhash:19bade6f0e921955d83d8c7e144ff26eb473560453b76e7e59e9ad6e3f57e02d
-seen_titlehash:6b7b79d3cd41f4f8313fe32854120d3dc836c8aeb32f4fd2c002f997fc7fc3bf
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/06/24/brent-crude-falls-below-74-for-the-first-time-since-the-start-of-the-iran-war
-title:brent опускается ниже 74 впервые с начала войны с ираном
-seen_urlhash:c5f2829c9b4a602511a0686b8e9cea70bef0bea6d4823e603e6fb06756127db8
-seen_titlehash:8c07dbe9942e0777143ee35453ce177d7b4190873d1b9ce759500eb2b8fa782c
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/24/spor-meloni-i-trampa
-title:спор мелони и трампа что показывают рейтинги премьера италии
-seen_urlhash:1062a331ccb2340a0f38d4b2088cf283c2eefdf880fe615e18578063fa597f88
-seen_titlehash:28b7097d8dc2726f2bbadc5849b59da1675a5471eb027e379a046f15ef2fb572
-seen_reason:processed_not_published
 url:https://meduza.io/news/2026/06/24/vilnyus-vydal-moskve-urozhentsa-chechni-beslana-estemirova-on-prozhil-v-litve-bolshe-20-let-emu-dali-tam-ubezhische-i-dvazhdy-sudili-za-narkotiki
 title:вильнюс выдал москве уроженца чечни беслана эстемирова он прожил в литве больше 20 лет ему дали там убежище и дважды судили за наркотики
 seen_urlhash:328ca75ed9d476c7d4f4e40e1c8ab995ce5d678e65e0918ff450357dccfdc906
@@ -4998,3 +4908,93 @@ seen_titlehash:bd50a35805459dc1e4643791b72931e33810723a9d639c327f3626e6cf0032e6
 seen_reason:processed_not_published
 url:https://ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7
 title:new york s socialist insurgency raises alarm among anxious democrats
+urlhash:43f41d734af7deca8fc5a04cbc345445adb51b8b60df446702fffa564bf9fa94
+titlehash:bed0f10f9b4977eddcdac671134369b65506ba411eceadfd5a48eb65e6956bfe
+published_url:https://bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss
+title:burkina faso severs diplomatic ties with france
+urlhash:141c6d61be5d2cae49e37eaa46665bed794b9ae88b64bf8176b9fd2c0335924c
+titlehash:866ea679c525be014153717b9ae749722feba8e6773c92e18ea87218c8d6b9fd
+published_url:https://aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss
+title:israel lebanon deal ties ceasefire to hezbollah disarmament will it work
+urlhash:cfb101a62d6c84d760f38a2fa95850556bed38530c61641926adb2f0111c04c3
+titlehash:7d9261946b91bf63df7448d1c1d077bb8c42cad5841e11793b4f5e387a5ff35a
+published_url:https://france24.com/en/americas/20260627-nearly-6-8-mn-people-may-be-affected-by-venezuela-quakes-un-says
+title:nearly 6 8 mn people may be affected by venezuela quakes un says
+urlhash:c44b44ef4fece75de203c25d931f7f77845e0728d45f59ad29d08887b77c312f
+titlehash:7216d7a2f7dcb31c54cc76b7cce69e2c694961001d02ba77a0b40016431562f6
+published_url:https://nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html
+title:deal with israel divides lebanese fueling protests in beirut
+urlhash:88a77a006ccb639d35f2b8ab8bcd9f85e937f9bd265550d46e77c666ff2e76c8
+titlehash:3db4966a87c476af9752b8c1c7d4d3ed34eae6afb05c89fca64278bd1857fac4
+published_url:https://aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss
+title:pick up the phone irgc appears to rebuff us strait of hormuz hotline
+urlhash:caca11161c4dbcb66287fb875c29162b5b3fd9cb76c4eea5df27dfe88b4e365f
+titlehash:2987b38267fdd1e37c6e20319649715c6ac106f87176e0fa8099055a701c8b6e
+published_url:https://dw.com/ru/израиль-нанес-авиаудар-по-югу-ливана/a-77735065?maca=rus-rss-ru-all-1126-rdf
+title:израиль нанес авиаудар по югу ливана
+urlhash:2a716e77e68db52bc3a61f98eb5894fff2cfed2e183c19c9868824d1d5f78b0f
+titlehash:782ed0754bd3c41ce1b2303e8d5b6ac411d713bbd70612ae5608686a22e35926
+published_url:http://ru.euronews.com/2026/06/27/anthropic-has-been-authorised-to-restore-mythos-5-access-to-certain-us-organisations
+title:anthropic восстановит доступ к mythos 5 для ряда организаций сша
+urlhash:1b650eae60064d063f48ca2a78fac335782c7ed09b22d876cb6952db688c237c
+titlehash:0be5641f9b65be87e5e1dad3d1f42ba582493b0ad7fc0384ee691c980254036e
+published_url:https://bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss
+title:in caracas this feels like the hardest moment in venezuela s modern history
+urlhash:53180dc6d2a467e95eb172a02dc603c0a2bd4e066b8ec1624ae2194c2310ccf7
+titlehash:e62e20ad457d51819cf371486e3a15631a1bf605c372f72a9bdd713b592fd774
+published_url:https://aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss
+title:venezuela leader jeered as rescue efforts hampered
+urlhash:c63b9a0e6d8ba20ffd148126f170183c571cd7d786d4968c59ce2cfd19a5b775
+titlehash:01a1b46973415e0874b0c2d7ff8fb500522b76d2b369fe68a2e9e69584cbfcb3
+published_url:https://dw.com/ru/bloomberg-удар-по-школе-для-девочек-в-иране-ошибка-разведки-сша/a-77735060?maca=rus-rss-ru-all-1126-rdf
+title:bloomberg удар по школе для девочек в иране ошибка разведки сша
+seen_urlhash:9acac3ec6204add945d26ecc490939dd17f002dd278e649f66ecb8508310aefc
+seen_titlehash:a983fc4f2f1e04c955f899c4278889b2fd485a6f9c28750f2febeb5da9d6ef30
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/06/27/world/venezuela-earthquake
+title:venezuela live updates rescuers work as window narrows to find quake survivors
+seen_urlhash:6299cb042f2dc88b0c97ed0446f04988b0827c62618ed7689e3045865334992d
+seen_titlehash:3d83891d7025954c4b49352d2cf60c83f5770fe7186200892be6d65cfcd2721e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss
+title:bodycam shows driver offering armed police a lift mid chase
+seen_urlhash:b5fdcf0d75929ada8c3bc1557f6921f2be424d4c61eeb0d94b6108bec5be0b00
+seen_titlehash:6139505db5f77ff36be0f4928cf25e47f71c2f8a67b1bde9096974bc07b389ec
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260627-vespa-is-a-way-of-life-thousands-ride-through-rome-as-italy-s-iconic-scooter-turns-80
+title:vespa is a way of life thousands ride through rome as italy s iconic scooter turns 80
+seen_urlhash:373cbb9817aef3e0bd287fd2338a623824b95ae59764a3c000f1f4cd37fc0f8e
+seen_titlehash:fb83addd05ec1bd807305bac88c05768eecbc237185c0dd671102c73c2bac0ec
+seen_reason:processed_not_published
+url:https://france24.com/en/france-drowning-deaths-climb-amid-record-breaking-heatwave
+title:france drowning deaths climb amid record breaking heatwave
+seen_urlhash:8e1f76b9a33f11a49b9df1af7aa4d6925753cab01c69cce884da093f605a4ff3
+seen_titlehash:74dd1460726f2ac5dfb6a74af9340a63a7c35edcb1c16c5adc5317aa5640d596
+seen_reason:processed_not_published
+url:https://dw.com/ru/технология-ии-anthropic-разрешила-ограниченный-доступ-к-mythos-5-в-сша/a-77734679?maca=rus-rss-ru-all-1126-rdf
+title:технология ии anthropic разрешила ограниченный доступ к mythos 5 в сша
+seen_urlhash:d4022b35f1ef4a47c9004c04403c2c2689e9288c5df3851b38946ce5e83e04f0
+seen_titlehash:a359dfb08bbc9a1de1be483c401e069dffe284fe70d855c38ede1694f80ede13
+seen_reason:processed_not_published
+url:https://dw.com/ru/уполномоченный-правительства-качество-жизни-евреев-в-фрг-ухудшилось/a-77734226?maca=rus-rss-ru-all-1126-rdf
+title:уполномоченный правительства качество жизни евреев в фрг ухудшилось
+seen_urlhash:a23c0740afa8a1957ddacf0ec16cd4e0875f6d47dc5924267f31bd0d55ece6db
+seen_titlehash:fca08404fa9947c7dca4cd9c59cc3f2bc697c82f8a54619e4f0bf348f5c70555
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/06/27/in-rome-the-80th-anniversary-of-the-vespa-is-celebrated
+title:цветная волна vespa заполнила рим 25 тысяч участников празднуют 80 летие легендарного мотороллера
+seen_urlhash:82fb43f4f9202c1e5b088ac937e3e525a70557a6f7d20a1363d60d8f07f298ca
+seen_titlehash:d666e3bbb718b14c257519c31cda2da25ba4cacea496905565dbe05c83aca5af
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/06/27/porsche-plans-cayenne-comeback-in-leipzig-employees-face-losses
+title:porsche готовит возвращение cayenne в лейпциг работникам грозят потери
+seen_urlhash:9856e6ec38d5a8ad4a3d43fc1ca40fb739cc29103f11825ff0132d881ea8a32a
+seen_titlehash:141e4a6426088281c2f0926ed911555fb3f51d74e426d6fcec335c034ac082cc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/27/argentina-budet-vydavat-zolotye-pasporta-za-500-tysyach-dollarov
+title:аргентина будет выдавать золотые паспорта за 500 тысяч долларов
+seen_urlhash:6bb557ca784100cafb4ab34c38299b4cc174c80904d35109a23f6593909a7c9d
+seen_titlehash:152f978b0489db1fefc47f99df57ccc4d617e9dbb939c49b54567d390cfa6de2
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/27/evropeytsy-yapontsy-i-avstraliytsy-uznali-chto-v-ssha-nado-vsegda-platit-chaevye-prichem-mnogo-eto-odno-iz-otkrytiy-chempionata-mira-po-futbolu
+title:европейцы японцы и австралийцы узнали что в сша надо всегда платить чаевые причем много это одно из открытий чемпионата мира по футболу они просят чаевые ничего не делая
