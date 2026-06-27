@@ -1,26 +1,3 @@
-url:https://france24.com/en/france-experiences-its-hottest-day-since-measurements-began-in-1947
-title:france experiences its hottest day since measurements began in 1947
-seen_urlhash:4db73c3633cab3f8f74de6751b89208e11ed4926451b1503c199929e3ae4ffcd
-seen_titlehash:3d25d4dbaae4131f342968abe9eb5d8a37c776180b1fd5e0b7359a9c0af2afc2
-seen_reason:processed_not_published
-url:https://france24.com/en/power-outages-and-melting-roads-heatwave-strains-french-infrastructure
-title:power outages and melting roads heatwave strains french infrastructure
-seen_urlhash:43a8770bca417e41a23faaeadeec4438170130ee126f4b079fca72a207b56404
-seen_titlehash:e7a81b413b5815e23f76815e1d2733895e9123d5db1da03909524dcc3cb555f6
-seen_reason:processed_not_published
-url:https://france24.com/en/did-qatar-s-prime-minister-snub-jd-vance-doha-washington-deny-claim
-title:did qatar s prime minister snub jd vance doha washington deny claim
-seen_urlhash:97994a53bac5a1e2a0c1395a505980c9b87debcb5ae843be6367585ab6014856
-seen_titlehash:fa46447fcc3e5dc61aa13e02e3e35cabf3b760b180a371d0d29fb679a6babea7
-seen_reason:processed_not_published
-url:https://france24.com/en/americas/20260624-trump-pressures-congressional-republicans-by-delaying-landmark-housing-bill-over-voter-id-law
-title:trump pressures congressional republicans by delaying landmark housing bill over voter id push
-seen_urlhash:463b62a00e13822827e442be3ac05c8bdb74fa2d90bb7b5f540abc1cb3438eb7
-seen_titlehash:8a92c4872c4bae87fcb66fc4a7826d8788939f8688aafc6472665ea4ea2ad6dc
-seen_reason:processed_not_published
-url:https://france24.com/en/fears-of-violence-in-kenya-as-protests-set-to-return
-title:fears of violence in kenya as protests set to return
-seen_urlhash:1e875b336b1beb448ebbc88dc178148ee4e9b73d4ebd771c65cd33f4ce1964e6
 seen_titlehash:c778fcef14bc9406afa0a878c6f533a517e77dd47f02cd70062ea32c773dd533
 seen_reason:processed_not_published
 url:http://ru.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says
@@ -4998,3 +4975,26 @@ seen_titlehash:35de1e531d6265bdaaf76f7e7941325c0a625600438c6e666eae042645cd9ddb
 seen_reason:processed_not_published
 url:https://ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1
 title:venezuela earthquake death toll climbs amid anger over slow response
+urlhash:a681932d30cd42b5dffb0d0473124f366adb2cabb4437b7058734a5b2c34f278
+titlehash:6a19cf2815e3822f57d373f3f648486371d4fe1019cb93a96d2804455ea6ce4f
+published_url:https://ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0
+title:us carries out second day of strikes against iran
+urlhash:b67e5579625dd536cb323e645656ba5c0839f3a5938bdf4c8366ebad3951f2ed
+titlehash:420aba6d84ee3c67d8b51b518712e6a5624bf456c978f3a28d9475a28bff1148
+published_url:https://nytimes.com/2026/06/27/world/americas/venezuela-earthquake-volunteers-traffic.html
+title:a rush of volunteers in venezuela has slowed rescue efforts
+seen_urlhash:d3fe711e54dde658c882699e1dfe499d1cd9bff425f9d603f761e8c04b6ee351
+seen_titlehash:fc8d6ee973d71724041c6cf302b18e8db8ca1fb30f5a8f60094ac85631489f9d
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/06/27/world/venezuela-earthquake/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help
+title:u s officials frustrated with exiled venezuelan leader s call for help
+seen_urlhash:17ceffdda702888bb7204acf555f52a06ed7523e30a9d878f70cee8a5506ad00
+seen_titlehash:31dc290aa0b70bf4018664299adc354948704890f2727c2f4edbb217b2d3c5e4
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb
+title:australia news live shark spotting drones to patrol nsw beaches year round chalmers grilled on widow s tax
+seen_urlhash:a94353b834f935dfe048cc64587d963301de8a77cbfdd1f09c514f71bbb4dd01
+seen_titlehash:7b07ba013cc0f91f9ffbfbe2e82486ac8f387e2d9373b537d14cb0db9e262949
+seen_reason:processed_not_published
+url:https://ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191
+title:javier milei s top aide resigns over corruption scandal in argentina
