@@ -1,21 +1,3 @@
-seen_urlhash:fefda634bc482a97df23b0e7fde4c8d8ccec7f7fcbf49d6564dea6db8444c4f9
-seen_titlehash:bad4e7c2810b9037eb16e8230cf9ae1cd6431c2d8d1363a59f7916c6773dae92
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss
-title:zimbabwe s senate approves amendment extending presidential term
-seen_urlhash:ba8141c268ff1acb2c448c8c68ccf07371c4d8a71bc0d419c28168d0903fa1d0
-seen_titlehash:43158a87cadbd45c04d99c0a8ddc21ff3943dafaa583c294d2c605bd91ebe1de
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases?traffic_source=rss
-title:us public health agency concludes hantavirus response as outbreak eases
-seen_urlhash:68dd48d001d7e6a3878838b83623b9b4adc19d788f9d2cc190aaf0c4eeb5467c
-seen_titlehash:52d65400426ade74c97286a0423411ae2b0932116b39acb7a702fcd95cd59e6b
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260624-morocco-haiti-live-lions-de-l-atlas-eye-group-c-top-spot-against-grenadiers
-title:morocco haiti live lions de l atlas eye group c top spot against grenadiers
-seen_urlhash:90637d15e386d0db6f6b23de3bdbd56a15566fb10fc86da060c70fd26f963258
-seen_titlehash:b1cadaf0a9e38f44adfca602c22f573e63a3e78ad0b7e8d20f0068366ef5eeb1
-seen_reason:processed_not_published
 url:https://france24.com/en/france-experiences-its-hottest-day-since-measurements-began-in-1947
 title:france experiences its hottest day since measurements began in 1947
 seen_urlhash:4db73c3633cab3f8f74de6751b89208e11ed4926451b1503c199929e3ae4ffcd
@@ -4998,3 +4980,21 @@ seen_titlehash:cb8e1e17c784aab3f5a5a311ea8142aff020632fa8de58005d59bbf8892a1000
 seen_reason:processed_not_published
 url:https://france24.com/en/tv-shows/spotlight/20260627-understanding-the-point-men-iran-us-peace-talks
 title:understanding the point men iran us peace talks
+urlhash:6c94aaed7c882007c420c84a8d1e6e5c235450fa805b58cafe69934ac24bc32e
+titlehash:00ddd14b075de352dfda2eb9a7a629a741b2252e33b10c467a9322074545e549
+published_url:https://aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss
+title:us launches second night of strikes against iran after ship struck by drone
+urlhash:9a045e8771a5fec8047871f5a5b4fa4822b45118d1bb3594610c3acae0fd90e6
+titlehash:46665cc7fb390d0d10615aa5e38678fc051cc2837ef8b1bf1854c169e1004fad
+published_url:https://dw.com/ru/министр-обороны-израиля-мы-надолго-останемся-на-юге-ливана/a-77737544?maca=rus-rss-ru-all-1126-rdf
+title:министр обороны израиля мы надолго останемся на юге ливана
+seen_urlhash:0f2b1a74a985955c8f70c10a95400e1692a0e399998d9940585d1f9a444b8d31
+seen_titlehash:14ad47aaea43f68b7da5b7dc9185f8c2361b9427c530d7459a61204f7e05098b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/06/27/novosti-dnya-27-iyunya-2026-g-dnevnoj-vypusk
+title:новости дня 27 июня 2026 г дневной выпуск
+seen_urlhash:bb34e606afcbee103b3e08a518dcbae5b6b424be4dc3fc7f5f8b97446bf61dd6
+seen_titlehash:35de1e531d6265bdaaf76f7e7941325c0a625600438c6e666eae042645cd9ddb
+seen_reason:processed_not_published
+url:https://ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1
+title:venezuela earthquake death toll climbs amid anger over slow response
