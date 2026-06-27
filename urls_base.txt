@@ -1,51 +1,3 @@
-urlhash:1f6c1983b72e5c67cfd28b04afb5d0af4e80aad75dcef06cf1f1b88d1c72e8fd
-titlehash:f30ccddc60a7ef726c0051209f067bd665522f68b7591a114d754fb88b7417f8
-published_url:https://meduza.io/news/2026/06/24/v-otnoshenii-ursuly-fon-der-lyayen-nachato-rassledovanie-iz-za-sekretnogo-chata-s-vladimirom-zelenskim-i-evropeyskimi-liderami
-title:в отношении урсулы фон дер ляйен начато расследование из за секретного чата с владимиром зеленским и европейскими лидерами
-urlhash:b9b26b6e3f177c1a9ad735600dbc0b762ab86dda9f55de39565cf9b8aae8f21c
-titlehash:acbac5deaa54c889ddfbe182dbc358253b66f426a709f8ac76cbda6abd1753f3
-published_url:https://france24.com/en/tv-shows/the-debate/20260624-albania-s-flamingo-revolution-will-protests-stop-trump-family-luxury-resort-plan
-title:albania s flamingo revolution will protests stop trump family luxury resort plan
-urlhash:4163dc193cec3a4fe25654faad592513fe420b57655596a8f52b7379b38d0d9b
-titlehash:65072cba20195b9379cd7b9e3f8b0f216eeb9997920931b0afbb84602c8e9fde
-published_url:http://ru.euronews.com/business/2026/06/24/the-openlux-investigation-reveals-new-companies-of-wealthy-spanish-fortunes-in-luxembourg
-title:расследование openlux раскрывает новые компании испанских богачей в люксембурге
-urlhash:de2311a8a25a5d5fe1bcbbaae1289550f8c48076a2d09660604068d96558bc7a
-titlehash:b19de02597dfbc48a62be29381899b2521eba007f16359987e36595764345d2d
-published_url:https://meduza.io/news/2026/06/24/madyar-predlozhil-rassekretit-arhivy-kommunisticheskih-spetssluzhb-vengrii-zakonoproekt-vnesen-v-parlament-i-skoree-vsego-budet-prinyat
-title:мадьяр предложил рассекретить архивы коммунистических спецслужб венгрии законопроект внесен в парламент и скорее всего будет принят
-urlhash:cda082587ef34b31b3aec684a5214576174f53d422723c5b26ffc2ea997fd442
-titlehash:32bf275e8d4fdcc63fcd229904147bf5a5a57767efae1cdc059bf4344afb6bd3
-published_url:https://ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa
-title:predictions market kalshi in talks to raise funds at 40bn valuation
-seen_urlhash:a25ffeea3c86dfa8977fd77c4f43ec2fca211449b1080fda3d50334aa0d7ad2a
-seen_titlehash:8f952061d3051ba28d4590c6bb41b34c96800425bea9ba5a99f833072ec18a32
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/24/world/americas/cuba-economy-overhaul-communism-trump.html
-title:cuba announces sweeping overhaul of struggling communist economy but obstacles remain
-seen_urlhash:cc4466b3c04da6bd9ae12edd2e000bdd76a59e887b165a71ffa4dfbd4e8b89c4
-seen_titlehash:fbbbef8f38bea7d89071c2c25ff9218669b2a58149668367d84ff79703f0b31d
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/24/world/europe-climate-heat-wave-ebola-world-cup.html
-title:a climate chaos maker
-seen_urlhash:af4d31a883386261f104ee1816d8eb5d3e6738e24132ac6e424208da348ca1be
-seen_titlehash:b223d3e05ef8d8c3c897283e69f740d89caa9df3889dbe64412ec6268d028e8d
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb
-title:australia politics live boom in home batteries means fewer new transmission lines will be needed models show
-seen_urlhash:25b3fb4abf377bd3d309a4faf51917654db271ae942f1d6d44ae54a4cee0f3e7
-seen_titlehash:c193fdcb848d471f1d37cbcf3785911d82eba9c3838058b80d262d79a4100770
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/24/us-judge-blocks-trump-subpoenas-into-transgender-care-at-new-york-hospitals?traffic_source=rss
-title:us judge blocks trump subpoenas into transgender care at new york hospitals
-seen_urlhash:26e6849554d35464f2aa189c0aeb3b75f0c5457739459345a644c9eacea36423
-seen_titlehash:f1e53dc3f84f017e83c89a2942a3591a389b46ea3cd672d65bbfb174c586b7a5
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss
-title:rubio us completely aligned with gulf allies on iran
-seen_urlhash:8721d434c4b0039976351b256f94234d314cd1ab22652acc620e6b9225f79912
-seen_titlehash:9dfb4c7043052f32c2ebf8d434594b1abef2d9021b0bfb82359369184f28e6dd
-seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/6/24/de-la-espriella-pledges-to-restore-colombias-relations-with-israel?traffic_source=rss
 title:de la espriella pledges to restore colombia s relations with israel
 seen_urlhash:a2a96b9b000b2adc8b7851944b004ef70137d084e311ae0dccce6d9ea9b0b570
@@ -4998,3 +4950,51 @@ seen_titlehash:8cfd5c2dc618ca4a2561996a55a7322ff0deb0ec5457ed92b386d4390f8bcaa8
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/06/27/v-dome-voennogo-aleksandra-lunina-zapisavshego-obraschenie-k-putinu-proshel-obysk
 title:в доме военного александра лунина записавшего обращение к путину прошел обыск
+urlhash:34dac3ddb6207afe0066bad6d675d757c911ccf651abc1d8dd813498428f2af7
+titlehash:b22df64d2b24417fdeea6b605e62ad6618988433b9861d0ca4d2c59c548efe58
+published_url:https://aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss
+title:how is framework agreement with lebanon viewed in israel
+urlhash:9d3fafd019378859b1448fde274aaaf519adb474fd5b059e5f437bf6af485e3a
+titlehash:706df151f7bd01e9eb246a9f3d9d5268903ea87e2a22b77e529f1e605c0b7389
+published_url:https://france24.com/en/americas/20260625-venezuela-earthquakes-kill-nearly-1000-as-tens-of-thousands-missing
+title:venezuela twin quakes death toll tops 1 400 as tens of thousands remain missing
+urlhash:3a61e15a3dec78fa8a0de5a81d45576949925eaf4d41f8a67a2641646faf0dfc
+titlehash:f1a5c7448ebae1f4151ef75f956a96089232d5c45eaee2eb6812f3c958521b9e
+published_url:https://meduza.io/news/2026/06/27/zhiteli-moskvy-stolknulis-s-tem-chto-na-zagranpasport-ne-podatsya-bez-messendzhera-maks
+title:жители москвы столкнулись с тем что на загранпаспорт не податься без мессенджера макс
+urlhash:0013a3d8049b70a9582bf1aec1aedc0552d7580e46ac0c46ffb96b9428c60caf
+titlehash:ad5ba522aa9fcf1413b962a8f5f7ae058eb54a0a77fc5ed43ccde4c951b1a8c2
+published_url:https://aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss
+title:three security personnel killed in attack in pakistan s karachi
+urlhash:478a5bb0e541c2b0de8bfed55aa3568c624c5e152542c3e3fdf855f21e26a406
+titlehash:c6b62d958965965a07043537007ac4139aa7b27a46e31ac09b00838dda744903
+published_url:https://france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals
+title:heatwave shatters records across europe disrupts transport and strains hospitals
+urlhash:72194a16210602f404a41dbca3d118788fc485eee79d18c6b467c76f9b979115
+titlehash:887c05b0801d9357b47bddc71a9ef04747a76adcb3860c06485009220eb6e8b3
+published_url:https://france24.com/en/venezuela-survivors-say-rescue-effort-too-slow
+title:venezuela survivors say rescue effort too slow
+urlhash:1bba101d45d4b4a4932e2c138fdd95b7dc2f166f2b575692e2331e79e7b32aef
+titlehash:f04e46eca0cb62eb044461586472cc37f66709ea4ebcf30033a11d546427b9ff
+published_url:https://dw.com/ru/тысячи-людей-вышли-на-первый-марш-гордости-в-будапеште-после-оставки-орбана/a-77735892?maca=rus-rss-ru-all-1126-rdf
+title:тысячи людей вышли на первый марш гордости в будапеште после оставки орбана
+seen_urlhash:0dde22a5a45bbe4138f539fb990d61a5ee49fb84e53e2d677e7181409fa35cf4
+seen_titlehash:be454bc21adf8b94c70e7ec4221c76ee9d1302d5f36714449b70974c62b9c1ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss
+title:australia to double fines on big tech as children bypass social media ban
+seen_urlhash:d15e1db9e4e9bdc38f4eff5290aa3fe84c02a4d270225da7a68a8633b53d9f65
+seen_titlehash:54241139529d1d937359c010a97902035d043cea263027116836e3e55e2eff50
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss
+title:tropical storm mekkhala leaves taiwan underwater
+seen_urlhash:e9cd1e7df3346b9ddaabb559a4ab5995417d5aea926c310b44ef52bc733bf6a9
+seen_titlehash:165709c9e8fd4f19b5bbd29b0706dd2c64545de4b9fbc25c94b960c7f3dded7a
+seen_reason:processed_not_published
+url:https://france24.com/en/france-current-heatwave-recalls-2003-casualties
+title:france current heatwave recalls 2003 casualties
+seen_urlhash:d92bbdee5628ea72644d439b752d8c7176a519afb767901b6279829552e021ef
+seen_titlehash:ac97838e318d605241dff24c0684d452d24e6c0af38a8b5666a3a3164bb45204
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/27/europe-sends-search-and-rescue-personnel-to-venezuela-in-response-to-massive-earthquakes
+title:европа направляет поисково спасательные команды в венесуэлу после мощных землетрясений
