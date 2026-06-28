@@ -1,31 +1,3 @@
-title:uk swelters in hottest june day on record
-seen_urlhash:dc0aa71346fd6afab27fa19bc5ba2601dbad541a56ecb5a60eff289db4227d7a
-seen_titlehash:67d8ec911302fb6a141c72d47550d5722a00a0fbadd173b9e1efc98056df36e9
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud
-title:peru s keiko fujimori celebrates election win as opponent alleges fraud
-seen_urlhash:d127072265952af93ead39d0dd3ae1e8b59f70ca59d2369ab7d26688ea36328e
-seen_titlehash:2bffa72d1aebe6a8be3044070f9187a23beea6318db512b3d43966fe41bb3614
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260625-ethiopian-journalists-win-us-democracy-award-for-courage
-title:ethiopian journalists win us democracy award for courage
-seen_urlhash:d66eace09569e1e366581da2207bce58c463d7c9fbf511110a9f43ff55640120
-seen_titlehash:8977d93e31c194409681190ce536b614cedbe281bc192c740f794170fff3efd3
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260625-venezuela-hit-by-deadly-back-to-back-earthquakes
-title:venezuela hit by deadly back to back earthquakes
-seen_urlhash:9b0f5381b4265a974e04794e02d70e46aead9aac936e73d92bc446f4de017789
-seen_titlehash:053f831d8da70e039eba6d6692057cb68e9ce55d1b6a6a6bdf80ce9b99979579
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260625-france-spain-germany-europe-swelters-as-heatwave-drags-on
-title:europe swelters as heatwave affects more than 100 million people from spain to germany
-seen_urlhash:40a230c69af904321c1cb3c317a7d96696ddc5f632c3455612617fb13b926b45
-seen_titlehash:3bda72ac99631072e282644d9118ae921a4cc2077bdec588d1f5f7f6bddca9f5
-seen_reason:processed_not_published
-url:https://dw.com/ru/скандал-на-востоке-германии-плохо-знающим-немецкий-запретили-вход-на-пляж/a-77696018?maca=rus-rss-ru-all-1126-rdf
-title:скандал на востоке германии плохо знающим немецкий запретили вход на пляж
-seen_urlhash:aad97128406db65a80a030a48ff4472b2e3fdf0629e1d979834419e51cd944df
-seen_titlehash:ca1e33688ca5146521c0136f083d225b3421a7c17af035c9bb8cbb19ae25bb94
 seen_reason:processed_not_published
 url:https://dw.com/ru/мэр-румынского-города-запретил-гимн-и-флаг-рф-на-турнире-по-художественной-гимнастике/a-77707225?maca=rus-rss-ru-all-1126-rdf
 title:мэр румынского города запретил гимн и флаг рф на турнире по художественной гимнастике
@@ -4998,3 +4970,31 @@ seen_titlehash:60b1820fc0c8955546a6e0e15e4cf3284fea8c5513ef45b28955f37075cafc6d
 seen_reason:processed_not_published
 url:https://france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul
 title:turkey police detain dozens at lgbtq pride event in istanbul
+urlhash:66061b63a31d86af156ad8cd3fd70868b5a7a20082c9df3db981a5ced684383c
+titlehash:6831bbb08b9af9046602d058d4b0ab0879f6ed6ad15c18d2fa07d35b5f32755d
+published_url:https://theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb
+title:australia politics live vanuatu pm in canberra as hopes rise over treaty fossil fuel companies accused of marketing to children
+urlhash:eadab090454bd65395225fcf508a1a8650fc8b41226b63327ca595f47d0792bf
+titlehash:aaa64cfea51a607459bdda647f348b04eca00d27dd84a35332e15a50a853067b
+published_url:http://ru.euronews.com/video/2026/06/28/joy-as-man-pulled-from-rubble-three-days-after-venezuela-earthquake
+title:спасён мужчина из под завалов через три дня после землетрясения в венесуэле
+seen_urlhash:36ed6eebfcee2d8f631088d99a2e6bc10cc851f6f4fc10e518fe615794806b94
+seen_titlehash:8d3a4aee7965614de232f6a24396e43794c1e8803c124471b3d4c76b1a35aad0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html
+title:at a caracas morgue families and officials try to identify more than 100 victims
+seen_urlhash:e03ee1bbf36c180ee23b0aa16882d38a7b49ec3ed2de273b1385234af0b0426e
+seen_titlehash:378bd0c5360b01b8c4905dda4b2b8c98ec53c3ce64bdfdc0b53d0fee4145576f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html
+title:europe s heat politics
+seen_urlhash:77a609e457acba5e05a45176041e50d72afc1b206cda94d44659bcf73aa97e82
+seen_titlehash:b9a0393a8381ce7d56676103924e3d4dee26ff812a723f06cb15617260e5cc3a
+seen_reason:processed_not_published
+url:https://ft.com/content/bff84ab6-7458-49ba-a21a-25883027a86e
+title:andy burnham sets out 10 year mission to raise living standards
+seen_urlhash:e079f9c3e0e3d75de9b1c26edb5187a31f692abef1113f868e038b9103cdc0b3
+seen_titlehash:be8462c27b316a527a2c951b5aba08b0d4289bdbe230d1b8dee53ae921a85d09
+seen_reason:processed_not_published
+url:https://ft.com/content/ff881e75-92ed-4bcc-beb6-cd833b57fd4c
+title:grim legacy of chavismo hinders venezuela s earthquake response
