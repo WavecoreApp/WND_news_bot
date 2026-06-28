@@ -1,25 +1,3 @@
-seen_reason:processed_not_published
-url:https://dw.com/ru/мэр-румынского-города-запретил-гимн-и-флаг-рф-на-турнире-по-художественной-гимнастике/a-77707225?maca=rus-rss-ru-all-1126-rdf
-title:мэр румынского города запретил гимн и флаг рф на турнире по художественной гимнастике
-seen_urlhash:e87b45a2c4dcca81766667fc0f005a753f4236cf6b3ebaa451c658ce5953af60
-seen_titlehash:32d91f23c6c65d7efab2779f849276eb234103ce1bb3bcd64a2e3df4a0e21bf0
-seen_reason:processed_not_published
-url:https://dw.com/ru/gmf-молодежь-избегает-новостей-выяснил-reuters/a-77705043?maca=rus-rss-ru-all-1126-rdf
-title:gmf молодежь избегает новостей выяснил reuters
-seen_urlhash:2c224e1fd28b1ef9bef7453d5a887ffc0d3b57c29a7b3138be73ace545cfa37e
-seen_titlehash:adde362f460f564023d7dc07bd0b4c51363a1716ae1b9bf97ea324d5c43de2e9
-seen_reason:processed_not_published
-url:https://dw.com/ru/суды-в-рф-только-за-март-вынесли-48-шпионских-приговоров/a-77706417?maca=rus-rss-ru-all-1126-rdf
-title:суды в рф только за март вынесли 48 шпионских приговоров
-seen_urlhash:b14afe96c2161855f14cf0820ce69e58283cf38f94577958ae833678e7d91d23
-seen_titlehash:dfbe70110276dd39a92539616fac50eab6cf0bc53d7c0a43fea4f5fe6aeb1eb7
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/06/25/central-asias-first-paragliding-world-cup-is-taking-place-in-kazakhstan
-title:в казахстане проходит первый в центральной азии кубок мира по парапланеризму
-seen_urlhash:2006982d8a9a635611244e063d1612237e86441aa5eb27d83846eb86575d108f
-seen_titlehash:9f84e3291e14408393d67f5ed17e459790beb51e5eccac7fcaef042f9b7e4a42
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/25/tusk-conference
 title:туск будущее европы должно строиться на правде и взаимном уважении
 seen_urlhash:509495da26fd2ee475964ca7d78d790f53242f08efa5393c7eca0d9d75bec2ce
 seen_titlehash:6eba16ccc522b99be0234b9a6a8d9ccf7e6f7cb8891a74e24dd196bef3b2af4a
@@ -4998,3 +4976,25 @@ seen_titlehash:be8462c27b316a527a2c951b5aba08b0d4289bdbe230d1b8dee53ae921a85d09
 seen_reason:processed_not_published
 url:https://ft.com/content/ff881e75-92ed-4bcc-beb6-cd833b57fd4c
 title:grim legacy of chavismo hinders venezuela s earthquake response
+urlhash:188c1ef6faa13ad086b03bb67d04626a52c5e652c004e78abd2bab55aeca3540
+titlehash:0353f3ad99620731694d2ba08eb66a7ab9df274073f8dedd1a4ed2016bf1b06f
+published_url:https://france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait
+title:iran attacks bahrain and kuwait threatens to halt talks after fresh us strikes
+urlhash:717c9d6429786eef083115825ec33a486e0f9e39d7c168fbc662782507e2c32c
+titlehash:c7506ea4c11122d4e6e4ac7fbae75f36f8636541bf5c6c6dac213303fef8e824
+published_url:https://dw.com/ru/президент-сербии-вучич-объявил-о-своей-отставке-в-ближайшие-недели/a-77736833?maca=rus-rss-ru-all-1126-rdf
+title:президент сербии вучич объявил о своей отставке в ближайшие недели
+urlhash:c41b6bb0cac88a245a982643d7a52b48e39af5c1c904f5f5557c1cce62a08c48
+titlehash:02ed80cab5bc4985165547e1ed93ec4c6f179047c03432996e974ef33561d870
+published_url:https://france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries
+title:armed conflict threatens ethiopia s ancient monasteries
+seen_urlhash:07ddede3e47a79f8001d919b57a8bd77bb55601e21f115559c5ea0b76a4a0685
+seen_titlehash:6a30a2eed6180e8fbc33bd3779e3c93ee19353878e514587f45e980077d073b3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss
+title:ireland upstage world champions india to win t20 series at home
+seen_urlhash:45ea27e45e0841284613a93d9436432ff793aa6afe42bf660e527365f3783fe6
+seen_titlehash:7ec2b79e6c628e4e50fc556e3ecfe45d8071eb19ca3a13c5e570c41ed3b3d8bb
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-никто-не-будет-нам-указывать-каких-героев-почитать/a-77746425?maca=rus-rss-ru-all-1126-rdf
+title:зеленский никто не будет нам указывать каких героев почитать
