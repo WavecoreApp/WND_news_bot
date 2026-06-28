@@ -1,38 +1,3 @@
-seen_urlhash:7b07bb24ffd5fbe4fb7e2d2fea505fa67a9521e8fa78439c079846119428ff38
-seen_titlehash:cd9abcf6acec48872e42a14ae9ce188af2dee26628e26224a6f9a2b980a59315
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss
-title:ibm hails new block of flats design breakthrough for ultra tiny chips
-seen_urlhash:dd9da90e2b69e01ac0d5a3a20570032277381d9055232513d4f70e39b697cfd5
-seen_titlehash:915717cddfe3bdf9cc92ba75ff6f9a56afdb88b810e75d91b0d367f35ce914e8
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss
-title:ryanair says it will reluctantly not charge parents to sit next to children
-seen_urlhash:287cf014da1253e08e3cf8237a7b3a15cc4f481610cfd50422034bff183e4b05
-seen_titlehash:31951b2b200dff1445d453e17099f947de1db823814827b7d161f220acc2f4a6
-seen_reason:processed_not_published
-url:https://nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france
-title:live updates as europe bakes spain warns of a possible high death toll
-seen_urlhash:e943562539ac4487769297f46a01d6b556d5dc5cbc8f47b5bbbf0e7f0207b46d
-seen_titlehash:b7a911772ee13f602b4b5ae5f41b84bf55da618ce018d44e02d48f0ebc439377
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html
-title:king charles iii to release tax details a first for any british monarch
-seen_urlhash:2e2ed5d24b3babf69476d12d7031d6f64f5303558286e59b82358058168b68c0
-seen_titlehash:027e6c0e30c43c413b815b0fe2a91b70a4ca089a70f364717160b39673f912da
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-delcy-rodriguez.html
-title:earthquakes are latest challenge for venezuelan leader
-seen_urlhash:a3004c11c1c04615e7ccb54bd5702553d444247a4b743cc2aaa1ec885cbdb051
-seen_titlehash:991e7bdb3a8111ef6e403094068390fd3faeb5dfc2c925b0156f6e636ff6a375
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html
-title:venezuela earthquakes hammer infrastructure making aid efforts harder
-seen_urlhash:7afef5ed72e7ac931dea9d794d7c05f3314f5cf60b4eeacc9c522d0fd2be8ad8
-seen_titlehash:462aecc1c9ceb41c393ae29daf220e15d6733d670a84a1ea3e492313f44c1ef4
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html
-title:two earthquakes hit venezuela what to know about death toll damage and rescue response
 seen_urlhash:d326705e3e183d6bbb3ef41be0ad17f80c4ce08f7680ca28c1e48b7f3d1b6d05
 seen_titlehash:36a479d61cb3d2e1bce0fe7ba36f73bec1b604787565948950745fd91be40d7f
 seen_reason:processed_not_published
@@ -4998,3 +4963,38 @@ seen_titlehash:7ff7902c2d2cae21fe8ddf40a3c9df2fb11a8b8af72fc93820a26bc5c52bff10
 seen_reason:processed_not_published
 url:https://ft.com/content/a84923f4-66cc-4713-9ae5-576390efbeac
 title:heathrow s 33bn expansion is like a luxury mercedes says airline group boss
+urlhash:f7d2e6af488e63b35f18069bbae659bc2601ac3332cdb438d33ae36a4135045d
+titlehash:578d3e5629c995c63c96cd1ecf37b6bc7fec01c35af4e614d211cd6c5eb7b434
+published_url:https://aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss
+title:us and iran trade strikes days after peace agreement
+urlhash:90022ac42180e1d6997214a0d135f1ccc52dfc4b5b5e86dfa1173252b6ea0d04
+titlehash:064421513db87086fa70b3901de68631d457a62b84086446f17480d513bb54d8
+published_url:https://nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html
+title:iran risks peace talks with u s to maintain leverage over strait
+urlhash:b0d666d679212767f10ff2368d6e2c04ab36ecec3a9cc9b046d5bf626c0f8f1a
+titlehash:c1f95d87f828f4bfba971216ec0821ad611ad69adbf5fba83534de2c0e51bafa
+published_url:https://aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss
+title:in lebanon framework agreement signed with israel spurs protest criticism
+urlhash:042b950194156b034eaa46b3bbb97d6e837f2eb2d10787bd015d67fc073c7a92
+titlehash:6e5090a20925a5f322db509ba29678279296b41c6db344075949a9c759d31a13
+published_url:https://aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss
+title:serbia s protesters press on even after vucic promises to step aside
+urlhash:20be67f7390ac9dd36c887586cd3b11dbb6e6de72f62a9261399baa3fbbedcb4
+titlehash:6920a47457abc859a3d825a50fc0fcff738ae0dd497f40603e77e7aa9557e13f
+published_url:https://dw.com/ru/путин-мощности-российских-нпз-используются-по-максимуму/a-77745119?maca=rus-rss-ru-all-1126-rdf
+title:путин мощности российских нпз используются по максимуму
+seen_urlhash:348e2e7f79d0bd2a7bdb790df74269c22188eb6df5af94a29e1d98737b4044a7
+seen_titlehash:7b419a47662ea12ec1d7c84ee8aa0453b09e9e93816a053ea85ead0e641ce8b0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss
+title:starmer couldn t master the media can burnham
+seen_urlhash:bd09f64e91cff6b4d647b7dea78f1af72baf50acc1bb4930c8fd9e957033ed62
+seen_titlehash:bfdb17eccc592477e7ab095a4e79a55d5c404202e84da2e58a496fc651664298
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss
+title:why do reports of domestic abuse increase during world cups
+seen_urlhash:e44311af407ec61b9dbbe93dd7ee3aa5c740bca03a64de4773fed5f43b3a0c4f
+seen_titlehash:d4648f9a2c213530d6bcdae86d82d981892b17e7da98e9d32c626cb2655c6f44
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss
+title:louisiana primary win puts trump endorsee letlow on path to us senate
