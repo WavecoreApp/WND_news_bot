@@ -1,83 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/25/gdansk-bez-zelenskogo-pomozhet-li-forum-po-vosstanovleniyu-ukrainy-sblizit-varshavu-i-kiev
-title:гданьск без зеленского поможет ли форум по восстановлению украины сблизить варшаву и киев
-seen_urlhash:6d174fa702e7c68158e51775823e9e3129420df7a2827b1ee4e12af5d1233d5f
-seen_titlehash:6082b95b02dc3fa03d7adb2abb57503314db142e8eaaf1a93e4869de6dec4421
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/25/posle-francii-germaniya-do-42c-i-tropicheskie-nochi
-title:после франции германия до 42 c и тропические ночи
-seen_urlhash:5589a1dec1964caec9b5355da7df41c5a9fc8dd58a26e4a5fd514e74de4ad7ae
-seen_titlehash:e4afe560949d162e650172aa08889f79516c9fc59129d183e5e8c5c178404fbe
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/25/v-parlamente-rumynii-za-45-dney-tak-i-ne-rassmotreli-zakonoproekt-ob-ob-edinenii-s-moldovoy-i-teper-on-proshel-protseduru-molchalivogo-prinyatiya
-title:в парламенте румынии за 45 дней так и не рассмотрели законопроект об объединении с молдовой и теперь он прошел процедуру молчаливого принятия
-seen_urlhash:b53fc4cc14a34c68dbab59509447e66dae88cd3067175a8831d7bf2640bc6e26
-seen_titlehash:c8a98ae3393cb6c9bdc0f2fb425b9ef2257894962300ccba2874253db04cf0b9
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/25/minyust-rf-sobiraetsya-lishit-inoagentov-prava-sovershat-bezvozmezdnye-sdelki-s-nedvizhimostyu-i-avtorskimi-pravami
-title:минюст рф собирается лишить иноагентов права совершать безвозмездные сделки с недвижимостью и авторскими правами
-seen_urlhash:f9a482746648d9e6b118ffe216d979f5f097031c3f610f2779b3cfe8fd5ee560
-seen_titlehash:452246aa0a672f0f72f46dcc91d6305310a614717571f51b35d477304bb014a7
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/25/voyna
-title:война 1583 й день у зеленского дела идут неплохо он мужественный человек говорит трамп в москве это вызывает растущее раздражение
-seen_urlhash:b4da36a99ea71605f989600a957d0ce1ccf6de84deaddc0fbe269d2cb37eff5b
-seen_titlehash:b9154ff6929650d93307f37580b3f592dede23d88055d678f8c1b4c4c1506af9
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/25/iz-app-store-udalili-vk-video-i-odnoklassniki
-title:из app store удалили vk одноклассники и mail ru
-seen_urlhash:e2c547e0cc1025f0333345b75b381f521f6dc4b05fe8257795a09415736e137d
-seen_titlehash:af469fcd4fc215b8b9487111673b50715b78ee5db5630d22570dd6f35dd0f3b2
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/25/v-ufe-voznik-pozhar-v-rayone-npz-na-urale-ob-yavlena-ugroza-ataki-bespilotnikov
-title:в уфе пожар в районе нпз на урале объявлена угроза атаки беспилотников
-seen_urlhash:fd4cebb537b2b834fdd450b0f56b82357ba7247d6665f133e43a634ddc0bc7b9
-seen_titlehash:44ce74e31fd8841bb254eb1598a0cccc8abca7a5ea654d5c4179e68d68a1fdfe
-seen_reason:processed_not_published
-url:https://ft.com/content/a5475746-510b-4b3f-8039-3fea1fb7c207
-title:how much compute does the world really need
-seen_urlhash:fd5ba302ab58c0b718afcb6b3b178b03abcf03d9420d26ce734242c17c1f14e3
-seen_titlehash:984ff7d813bd63e129fc43e771bbdd38d6be42e862107f261a3b70b27681ccd7
-seen_reason:processed_not_published
-url:https://ft.com/content/cebed072-0946-47dd-9460-69287fb71139
-title:andy burnham s no 10 in the north won t excite everyone
-seen_urlhash:856caf26860d03e25828c5448c63980560bf91e59e34d0e30bd4aea51a9a06b9
-seen_titlehash:4eb6beb7e4c1015e9426a2a5b034e0ef23ca38c0f44b30f2dcb7c1c8b3bb2761
-seen_reason:processed_not_published
-url:https://ft.com/content/f99c7879-cb76-4914-9ddc-38d743df1a02
-title:lessons from brexit for the world economy
-urlhash:a9643bbeabe43a8da0a62e166981dc4c6f13eb8028dafcc87acaa425dc8e04ef
-titlehash:f8190b110f8c708f9e8cce76aff33cc5d608fca85c3c2209c21cd3da564793fa
-published_url:https://nytimes.com/2026/06/25/world/asia/north-korea-destroyer-nuclear.html
-title:north korea deploys its first destroyer vowing to project nuclear power by sea
-urlhash:b93a70b5ecf545ba98aafe8cb74c49e0ffe60b0faddbac3e24460326c7daa857
-titlehash:001e33aea9b3cd72bbecf4ceac50e0a0af9dfdc5153ac05f6de800d54d51a592
-published_url:https://aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss
-title:as ukraine seizes first chance to win war horrors come home to russia
-urlhash:6e5a1bf85c97e26f029a74bfb4a8b3fc25ed4611989e389cc87444235d3e534e
-titlehash:69aef9597ffee81b3b4ef8379ab3d69dcc60cef3db2261db089bb50187f3db20
-published_url:https://bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss
-title:europe s heatwave shifts east as france raises health alert to highest level
-urlhash:1503618bd0992f4497d9adde0371b1fb07e2b92474a7bab776b286dd5baac492
-titlehash:6969c545f9e5628be14e9d9271d117a6abfb5eeba4584d1e05903f5e158d6597
-published_url:https://nytimes.com/live/2026/06/25/world/venezuela-earthquake
-title:venezuela live updates death toll rises as rescuers mount frantic search for quake survivors
-urlhash:a84aede1131286d7d13385115044bb5bbfcc7b4f35e7da791d7ed901154ca3b1
-titlehash:5f5969f20ff270bac66d843755ec991bf899257fbc8651cce40a8d6e1b032967
-published_url:https://nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html
-title:iran threatens ships in strait of hormuz as marco rubio meets gulf leaders
-urlhash:3d9386ffdd7c3f00449e34ef516a90f1b9596d7b4f1d5360b1d2236b5ad3f959
-titlehash:b08d9aa9d34cfe3162d981fd1aac29753f01f03eb79bb851a0a4a9f32405885b
-published_url:https://aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss
-title:us push for unified libyan government tests tripoli factions
-urlhash:53467363b37a0d699cffbde05c4333d4f5722387c99f28db015ab30bdc4c4ea3
-titlehash:bf007cc24d59190314f3cb42513e3d5274ad28f2db21ba8ae4ae1f795aea2419
-published_url:https://aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss
-title:rubio issues hormuz toll warning as he wraps up gulf visit
-urlhash:5d05ed8f6db0a3e10066abda4fbe7f054ef4616d424d29d4cd6b60aa4cc2ac1e
-titlehash:fbfcc0d3756aeff67ac19cbda8603be6959f4c2f287cb35f60d74db76037e23f
-published_url:https://bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss
-title:key figure in south africa police corruption scandal pleads guilty
 seen_urlhash:7b07bb24ffd5fbe4fb7e2d2fea505fa67a9521e8fa78439c079846119428ff38
 seen_titlehash:cd9abcf6acec48872e42a14ae9ce188af2dee26628e26224a6f9a2b980a59315
 seen_reason:processed_not_published
@@ -4998,3 +4918,83 @@ seen_titlehash:e77146c92ccc03e4eaf9dcc4f08aefe110b565905bb60ffd8c338bc1124d69ff
 seen_reason:processed_not_published
 url:https://ft.com/content/50f6c150-08a1-489d-88d2-1df7c6ff3291
 title:starmer seeks to ensure legacy before burnham ascends
+urlhash:23f9e690843b726c2bd57efc0d3119841524813bef58e7bf62908da64517e1f2
+titlehash:c1fbf86b6873ebc149b7e8573e402b7a890bc253bd9b5586e6d05b279caf0262
+published_url:https://aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss
+title:israel strikes lebanon testing days old peace deal
+urlhash:2d6cbacbbcad82e2867566933a8fa7cea072c3f37baae8571965c924c269c043
+titlehash:4aecb1ba95415cf436c87e86af6e9893fe644c969f14dec720022ac10130c14b
+published_url:https://bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss
+title:europe s heatwave linked to 1 300 deaths who says as germany hits record 41 7c
+urlhash:387db6d8ebfc79122006657578d6104557f3cb8375d40e612043a6b64f40e755
+titlehash:81df7acb1f63a397a15b5b8f6341adf5c49692331b660b3bf9faa657c2871b6b
+published_url:https://france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period
+title:ukrainian strike ignites russian oil refinery as putin acknowledges difficult period
+urlhash:04ef46a8155bc2b24d3a671018633ddaf4a6e7e96dabd8cbfb86ea4e67fca646
+titlehash:5e3614939a9170c6c037c31d192af0351890e94f1056c7f0038711f19f9f8736
+published_url:https://dw.com/ru/польша-ожидает-от-фрг-ежегодных-выплат-ныне-живущим-жертвам-нацизма/a-77745054?maca=rus-rss-ru-all-1126-rdf
+title:польша ожидает от фрг ежегодных выплат ныне живущим жертвам нацизма
+urlhash:7ee87007272166cc79956afb224f4755cf9ed34f1610eee0c28c86a7638bba0b
+titlehash:8ac6bcb91f1454ce3bb53d8159dbda8c842552e66ed6443219b92479f35b3a96
+published_url:https://meduza.io/news/2026/06/28/vo-frantsii-bolshe-1000-izbytochnyh-smertey-iz-za-rekordnoy-zhary-po-vsey-evrope-bolshe-1300
+title:во франции зафиксировали больше 1000 избыточных смертей из за рекордной жары по всей европе больше 1300
+urlhash:403057867f0a72b245f4dacb9ba6953714541abe87c5af9b92cce032b42cc13f
+titlehash:ac8fd5bf673cf3b968b5868991d6dae390c87577e06b05b281d5420afded1fc7
+published_url:https://bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss
+title:three firefighters die battling huge wildfires on colorado utah border
+urlhash:39b72e31f9551a9b1ef2a2816b7919935ec37e96676f1c1087f749369d93591e
+titlehash:6c2d0bdab93678c8faad936eedc10441462ebfa63ddab686c643127ffe789b5e
+published_url:https://aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss
+title:drone captures ongoing rescue efforts after venezuela earthquakes
+urlhash:c9d6c9cfc12a6dfc70f9d4507c1fadd8b7e6590b703d854d7c91581e73ff5e29
+titlehash:2482219a5c58d2b098cd82907f9e6c42e3e513ed20c1f9d1d67ed00d4a4a6895
+published_url:https://news.sky.com/story/saudi-arabian-helicopter-crash-kills-14-13558603
+title:saudi arabian helicopter crash kills 14
+urlhash:e9166679ba675983352c511bd3f11da663033f918867669469362090a0e32685
+titlehash:cf27c6631d3959019b37707c17ff79956bbd45182fd01d76ea9059b0da1e751d
+published_url:http://ru.euronews.com/2026/06/28/swiss-glaciers-are-melting-at-an-alarming-rate-in-june-as-europe-faces-extreme-heat
+title:швейцарские ледники стремительно тают в июне на фоне экстремальной жары в европе
+urlhash:69cf9eef1d3108c46dea543321449755879bedd9348e5ce7506c599a97d5b4fc
+titlehash:19c78c0d7e4c3b910b006d79039a2224a12f7dfdbc1205dfc8741d5140253f9b
+published_url:https://ft.com/content/fb6fb1d8-30fd-482a-a7a3-c708fe88c973
+title:us dominates news as 250th anniversary celebrations approach
+seen_urlhash:cc616f4075202efa01200ac683e7cefb624955d949dc98b5f27d80426cc01b12
+seen_titlehash:470cb9f0a0a705e2104e343e98fc6752d3ed74318489ce06bb27d5e577497868
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/06/28/world/venezuela-earthquake/deep-under-the-rubble-rescuers-found-an-11-year-old-boy-alive
+title:deep under the rubble rescuers found an 11 year old boy alive
+seen_urlhash:02ad4a4d8a84db4bcb75390040f199265d97074863d1b34b20216a9f5b1b12c0
+seen_titlehash:9e47aa4f9db25671aa253dcaab7c36a3fa2fe9f45549ceea3e8f9f6410ee7df5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss
+title:three firefighters killed in us wildfires along colorado utah border
+seen_urlhash:3361d08fd0b97fc2c8da89e9472463ee736816869a62423d66ea61a45910b743
+seen_titlehash:eda6932cff43ad80598e7f8aaba63c4ddd6e14cced6c5056abe0b58ef159fb75
+seen_reason:processed_not_published
+url:https://france24.com/en/new-caledonia-provisional-results-show-anti-independence-parties-lead
+title:new caledonia provisional results show anti independence parties lead
+seen_urlhash:f72d166b1e1b6f3af151aae0168a6bc1449860c59bfcb4cd5c083b700bd5686d
+seen_titlehash:8b27ba344a67a1258124e21caecb10d7f6021c3cfb9c363ff7e6e2bdcc9f80b9
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-киево-печерской-лавре-открыли-бюст-гетмана-мазепы/a-77744990?maca=rus-rss-ru-all-1126-rdf
+title:в киево печерской лавре открыли бюст гетмана мазепы
+seen_urlhash:8d7b8498bc38567dae37151de4d6b0687f8713148dcaf6f20b3f010dcc5a0001
+seen_titlehash:bdfdfdec02856eb1dc651edaec69309cf19cd706ac2a9d7d7b0e9e1282d33d70
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/06/28/judo-qingdao-grand-prix-day-three
+title:тяжеловесы эффектно завершили гран при циндао
+seen_urlhash:922dc6eb7d2e9262c306e206240fc1ffd6de2cebe925ed069c45f20e38a39093
+seen_titlehash:574fa2ea0172b59c0c335b18ea99f2683bf6ac884eef06b3ab4240f602f7f5b4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/06/28/putin-provel-soveschanie-po-toplivnomu-krizisu-i-priznal-chto-ocheredi-est-a-nuzhnuyu-marku-benzina-nayti-mozhno-ne-vsegda
+title:путин провел совещание по топливному кризису и признал что очереди есть а нужную марку бензина найти можно не всегда
+seen_urlhash:858b240ca7279ed3c47082f51086c172f9e986ce4e6a98baf2d21c95ba9959c4
+seen_titlehash:d111ebcf19e45bcb739676a1e9c8b3de07c08f64dac40395d3582a5ec516e565
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/06/28/dmitriy-medvedev-snova-ne-popal-v-spisok-svoey-partii-sergey-lavrov-i-sergey-sobyanin-ego-vozglavili-edinaya-rossiya-vpervye-za-19-let-poydet-na-vybory-kak-partiya-putina
+title:дмитрий медведев снова не попал в список своей партии сергей лавров и сергей собянин его возглавили единая россия впервые за 19 лет пойдет на выборы как партия путина так решили на съезде ер
+seen_urlhash:8ff70c27e0ced46ca586fd28952bd6ed4b38ac28023faa2cd2f0201dfafd3576
+seen_titlehash:7ff7902c2d2cae21fe8ddf40a3c9df2fb11a8b8af72fc93820a26bc5c52bff10
+seen_reason:processed_not_published
+url:https://ft.com/content/a84923f4-66cc-4713-9ae5-576390efbeac
+title:heathrow s 33bn expansion is like a luxury mercedes says airline group boss
