@@ -1,57 +1,3 @@
-seen_urlhash:d326705e3e183d6bbb3ef41be0ad17f80c4ce08f7680ca28c1e48b7f3d1b6d05
-seen_titlehash:36a479d61cb3d2e1bce0fe7ba36f73bec1b604787565948950745fd91be40d7f
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/06/25/world/americas/venezuela-earthquake-la-guaira.html
-title:la guaira venezuelan port town is hit hard by earthquakes
-seen_urlhash:18a7d31acd5a91e2c9cf016c40efc2e9dc6dd4f9274abf9a581bd6d0661931ef
-seen_titlehash:8a435669ad6b0d211d730e598a2612734e1651c9adc2dac23ac95bc793e1c3fb
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/25/we-did-regain-control-the-brexit-voters-with-no-regrets-10-years-on?traffic_source=rss
-title:we did regain control the brexit voters with no regrets 10 years on
-seen_urlhash:b464ce3f1c089f62f18a6b57150e734e54fd7faab58d80214e8525f59082c730
-seen_titlehash:6b08cc89b1fa0601a2adc570d8ec8b92019c828210cebcfd0eacd0a6f6fc27c8
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/6/25/why-britain-devours-its-prime-ministers?traffic_source=rss
-title:why britain devours its prime ministers
-seen_urlhash:9ff9ace4dc41f559e309dfb757b73e8acce346b46edc0ce9ec10bd1b6c05697c
-seen_titlehash:6b11414a636af365be74d2f726fc66a535f20d6965b6482f97aaf39845e0b8f6
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss
-title:israeli forces kill palestinian man during raid on his home
-seen_urlhash:2b0a5fc30394c7b1aa4840da65f7c98c0a3ffc8e37cb36cf8826d698a144ea06
-seen_titlehash:6c474558d54e11f4d395f13452ef19aab2a1c6b0f05c0535632f18994cdb1b95
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss
-title:how minesweeping in the strait of hormuz works a visual guide
-seen_urlhash:7a2b1ac222948047aa58da24a68e1b2f3845a12d820914c6d37436f39a8fd0c0
-seen_titlehash:072e979bc04270fd48769e4d974d7341f68bd735509d7d8235f13b4083349dfc
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss
-title:europe faces another day of extreme heat after more temperature records set
-seen_urlhash:a124c236d3145bf8bad82a29f27fdcbd8162b2937151aad7cc65df9b3ad2a5f8
-seen_titlehash:8016031dc26e6568fc4c95b66624535fe7ac7c12dff7ffb67ed626f57d0240ad
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/25/venezuela-earthquakes-why-is-central-america-so-vulnerable-to-tremors?traffic_source=rss
-title:venezuela earthquakes why is central america so vulnerable to tremors
-seen_urlhash:c8d6083f88f8cad3dcea916638286b619f97d09a34cccd050cec10270a8aabf3
-seen_titlehash:9aa0fa05ab3f56a0fb667baffdceeaed508fd295f2975724112441a9cb54dd5e
-seen_reason:processed_not_published
-url:https://news.sky.com/story/australias-highest-paid-tv-presenter-faces-backlash-over-tommy-robinson-interview-13557660
-title:australia s highest paid tv presenter faces backlash over tommy robinson interview
-seen_urlhash:01705c1942d09dd715afb48c7c0984684a911cd39fa4bdb2a0ed61dd3f17141c
-seen_titlehash:c6c28779235c041e33df7e01d87394160ece1478390c80975ed9c00e02d3b9fd
-seen_reason:processed_not_published
-url:https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-korea-in-suspected-defection-13557640
-title:north korean soldier crosses border into south korea in suspected defection
-seen_urlhash:bcfcd694c76735cc66f6db7262663bfd381c024417fd51381db59d3a312937e8
-seen_titlehash:ee31b2b5f8cb40d46fff50cb0362bb3fdb94344897122c578ae1923e82dde2c5
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks
-title:evacuation of sailors stuck in gulf likely to take weeks
-seen_urlhash:1866465445ab6029369e86a23bf0bae97ee296a5f467ac7a948d156ebc4ea3b3
-seen_titlehash:0caa0583e5f24448edacfd5e2c340f8551b1312000d35527e17d43e9807d4461
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260625-uk-swelters-in-hottest-june-day-on-record
 title:uk swelters in hottest june day on record
 seen_urlhash:dc0aa71346fd6afab27fa19bc5ba2601dbad541a56ecb5a60eff289db4227d7a
 seen_titlehash:67d8ec911302fb6a141c72d47550d5722a00a0fbadd173b9e1efc98056df36e9
@@ -4998,3 +4944,57 @@ seen_titlehash:d4648f9a2c213530d6bcdae86d82d981892b17e7da98e9d32c626cb2655c6f44
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss
 title:louisiana primary win puts trump endorsee letlow on path to us senate
+urlhash:8c61cc8c16a6d919a45965927e958a9bd4c64dba2277e05ff204ffce9fac0a90
+titlehash:7b9b5d1369ad944ec409cce7f7d7af01946042cc02e27abd54a853f93e2ac40b
+published_url:https://aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss
+title:israel kills four palestinians in gaza as attacks on tents continue
+urlhash:1fe1ff9cde2ee4bf16f5ac018e020f17fb4aff4b2730206f4f881a6221311e71
+titlehash:4b5f9f2fd5f758f9ae879164e9b28131b7b953efe58ed6cf88a16bfde36c6859
+published_url:https://aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss
+title:can the icj help end the war in the eastern drc
+urlhash:5475614212406e7c09af6e0e8f0b3bf26a34e033917ea1a1f4443e07dc117e0f
+titlehash:554708ae249d79b157618d538bc30379242f6c64136e8fd76ad4a6da4c018d91
+published_url:https://france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory
+title:new caledonia votes high stakes in france s pacific territory
+urlhash:5640053f25b679c16e174aa9c3cc1cc645c563b706b31929ace7caf76213d433
+titlehash:edde7c4f723fbeb372224a283e8e9ce6f96904cff8be88d1ed36f0d536eedae4
+published_url:http://ru.euronews.com/2026/06/28/iran-threatens-to-completely-halt-talks-amid-intense-us-air-activity-over-hormuz
+title:иран грозит полностью прекратить переговоры на фоне активных вылетов сша у ормуза
+urlhash:3922a725c6cf07cb0e818a2ce7cc10ee8c1253a37c49fdda386a80e3ecf8d4da
+titlehash:8ac458680ff90a1eab0cae50c7af8c2bda80c60f2a65e15832420c72cf924cd9
+published_url:https://nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html
+title:short on time and tools a community comes together to search for survivors
+urlhash:22da6a59b236871827f49e74ad9367116d4efb5f68b5b022269e98ed4303740c
+titlehash:8f152b30c13244b61cf50a09df7a6059731da9bdb0543f926694e2b5bd6251f3
+published_url:https://aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss
+title:protesters in serbia doubt vucic resignation will bring change
+seen_urlhash:7fb6127febe064b740fa693158d490076b6dce66a9c18d01636c62fc9ae3ed83
+seen_titlehash:20d931fdfb002f9be67176dd5bd3634ccfc39c280c3048b7b08a851bb6a04001
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/06/28/world/venezuela-earthquake/search-teams-rescued-33-people-from-the-rubble-on-saturday
+title:search teams rescued 33 people from the rubble on saturday
+seen_urlhash:2528f38ce689652cae4e57db316a921a97268d8928bc4de550043bfe4cd4a883
+seen_titlehash:456385c7216c02cd09563f9a1d88ac6f7e568cdb74b93a1ddb1855e8b4ded753
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss
+title:pope leo prays for venezuela s recovery after deadly quakes
+seen_urlhash:8236c958f22279cc61a528a9cd9aab4ea8e8cc06fda62fda4a175f8915cf21ec
+seen_titlehash:21590b7347c1d574303675673e739bf258029600f6ee1f5def2899d6d4be9f85
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss
+title:hope of finding more venezuela quake survivors fades despite late rescues
+seen_urlhash:9930ddcbb1b4b29e54506e31786ca80eee06fbc80c0968d516b4d516bf6a347c
+seen_titlehash:d144cf010fe8083ca165e568aa2e4447b3b613e88b280de47e48728883b19846
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss
+title:gaza s displaced families face worsening living conditions
+seen_urlhash:f873894bc4b2b286646e097991f92550607ea943cb27090c6d1ded00299b3fc5
+seen_titlehash:a611f8ae00d823a91fef366dd32832ad63915fe9ee65467ee28e93ad1d4af10f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss
+title:israeli forces bulldoze olive groves in the occupied west bank
+seen_urlhash:585e28ade07af05c4a01b4ad07413b904f5ccff2446d3e0e70e707256c6889be
+seen_titlehash:60b1820fc0c8955546a6e0e15e4cf3284fea8c5513ef45b28955f37075cafc6d
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul
+title:turkey police detain dozens at lgbtq pride event in istanbul
