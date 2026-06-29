@@ -1,37 +1,3 @@
-seen_urlhash:14d50944d1a9e7d9551960339496f6c013ef8f91380808007baa9f4bb357a4ad
-seen_titlehash:d6d0ae845cbc465f48135b2f81f70ee21635500d95e72615cb2cff2f7599ab6c
-seen_reason:processed_not_published
-url:https://ft.com/content/f82925c2-a5d4-44f1-95dc-ebdaec322acf
-title:atlanta fed struggles to find new chief after raphael bostic s departure
-seen_urlhash:66622445889f598511bef8940d17ac1ae9c5ec3821a20c83412c970ba3af8289
-seen_titlehash:88ff6f51085e33cbc4d8368b074b112555d234d229d03452a357b7598604e287
-seen_reason:processed_not_published
-url:https://ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff
-title:britain backs electricity storage projects as heatwave strains grid
-seen_urlhash:302476cc462351862e9a1c3a9731a0a19e3c14d5c24891b6ad3d04bb57549c87
-seen_titlehash:75e767ec65f0bc5303b6024c0e2391afbf6f3968f3c9e802a103ae7540858546
-seen_reason:processed_not_published
-url:https://ft.com/content/ec41dfb4-ed2a-4131-9b40-6f85bd942e90
-title:the manchester project encapsulating burnham s growth vision
-seen_urlhash:2469cb2d5c3b09d4941d2d1fa95206a1873fc3aec8cfd802a1ab790cb20d6d88
-seen_titlehash:ae30f422994aa1f88dd4ca5548400062a1ccbc34395cc56c989509019a69a725
-seen_reason:processed_not_published
-url:https://ft.com/content/15f620e9-d428-409a-b2d3-cdb9e2f61758
-title:heathrow warns on global travel demand in wake of iran conflict
-urlhash:c566bd94b9f60559a6f6500e9b02508ad2014be2c6351ad3c5d3da2d5e56466b
-titlehash:8b6222b628962271becabd7234fab712bbab7dd78969cfc33896f4c321001a58
-published_url:https://bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss
-title:senior ukrainian intelligence official jailed for life for spying for russia
-urlhash:7971c3068a5cb5ef184bf94a018c3def3d8b917c6a48ec046a7f9ff250b28941
-titlehash:8edd9d18861353870ba7e0610b172534426f6aa72b1898ed2d1c0ebfc0d1bfa1
-published_url:https://nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html
-title:after attacking cargo ship iran presses its claim to authority over strait
-urlhash:deab0459188d711119838e6af3c9c2ee6a3f2c84e2de8322875fb21a7c5bd6bf
-titlehash:c6e22ca90ebb52a01a2ff350b0adbfb738670b871bda6dc2e72294ec164d90c2
-published_url:https://aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss
-title:ukraine decimates russian logistics bringing chaos to crimea
-urlhash:4ba781fbfd7aa10c048dce4ac31a0ad282dbed60dd5de674a504b269062cf663
-titlehash:50eaa5f24da4b82a97fc49f496c6951bf4065ac9642384a2e9b72cbf3cc8cee9
 published_url:https://aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss
 title:iaea demands verification of iran nuclear ambitions amid statement war
 urlhash:e56424c2b3e6a0e9eeb3dd0d14ed30da3d679d0badf3a25f60822c9500ab32c6
@@ -4998,3 +4964,37 @@ seen_titlehash:5feca206be5f966520eca88dab9922762acb6c02e2b28dac1c3f82ce11ccf04b
 seen_reason:processed_not_published
 url:https://ft.com/content/18782c9a-27fb-4dc4-a044-f1bc38d9d494
 title:foreign investors fear japan is backsliding on reform
+urlhash:1098366de018bf7fdb9417bba7d0b382933983fd0f0135d0b28255229197551b
+titlehash:5a924828fb52cfe6c95b3fdda6070d1d25cc9edf3ef4f9d1ca590fa87d2b4f41
+published_url:https://aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss
+title:israeli strike kills two setting tents ablaze in gaza humanitarian zone
+urlhash:403dd62632089ced2df92d192912784137b88327736bef735febd017b0d72672
+titlehash:f0bcbc9b6ae06d52485ba63168c89a96acf6126397ca8146d83fe63d509df5b2
+published_url:https://ft.com/content/daaa2d34-4c46-4ab4-971e-d183e5a0e829
+title:chinese exile miles guo given 30 years in prison for 550mn fraud
+urlhash:341964b32b18e07f9eed5b8d1d738ff9f50cc83f99b8d391a48855a4d8e887df
+titlehash:b6ea56880e8c5ffce59ee1bafd39f179624727ad48fbcd1ea9b13ea32f50d647
+published_url:https://theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake
+title:venezuelans newly deported from us missing after hotel collapse
+urlhash:8d61d5f4f4b70f52b1b41446b4f535f26deb7038257481287f211fa7414c80e6
+titlehash:b3c8be348c1ef8a83c0342c567f4bef94bb15d1bb608d5ce4d5891e12d0ebb65
+published_url:https://france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon
+title:trump says iran requested doha meeting as tehran denies direct us talks
+urlhash:11dccb6be84d89946840ea423012571d97eef878f279e14b877f0f7141eaa45d
+titlehash:6c4532c70d8047d18e7ee2415073b6a9ed64e3f7cef074465ecc0222a7b30cad
+published_url:https://dw.com/ru/в-германии-юлию-навальную-наградили-европейской-премией/a-77761842?maca=rus-rss-ru-all-1126-rdf
+title:в германии юлию навальную наградили европейской премией
+urlhash:c50ba5641f1773b863bba5858618b5cf40b668fc8b28138ba66031b2b5a5d785
+titlehash:ed437c1da56f976a0357ce09aade588eed116981899550a90c8694f11f1349fc
+published_url:https://ft.com/content/c2ace628-7bd9-4f3b-b835-970d6dd930bb
+title:uk regulator waters down landmark crypto rules
+seen_urlhash:3cbde9627cf595b7a9f4ac29d2a0e301c8feb7e4db7bb53c8ab084720aa4aaa7
+seen_titlehash:5e6448f416af0725bc5071991a6b2c4139660899b01da1ddb7b52574b89bb9e0
+seen_reason:processed_not_published
+url:https://ft.com/content/9ef8b545-079b-4bf9-81ee-c2174c257a3b
+title:investigation into maternity care in england finds overall system failure
+seen_urlhash:0c43586268488cc9fa79f37a41d94c781c04205fca016cef90c27876f925b0c1
+seen_titlehash:286b75472488d70475f86d95d1173d3beeaf5c6512efdbba8d9e19ac66e6427c
+seen_reason:processed_not_published
+url:https://ft.com/content/95e9ac59-4aff-47df-860b-7ecdc3bba271
+title:tooth fairy payout nears 5 as uk childhood finances overtake inflation
