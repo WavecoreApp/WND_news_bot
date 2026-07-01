@@ -1,135 +1,3 @@
-seen_titlehash:3d83891d7025954c4b49352d2cf60c83f5770fe7186200892be6d65cfcd2721e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss
-title:bodycam shows driver offering armed police a lift mid chase
-seen_urlhash:b5fdcf0d75929ada8c3bc1557f6921f2be424d4c61eeb0d94b6108bec5be0b00
-seen_titlehash:6139505db5f77ff36be0f4928cf25e47f71c2f8a67b1bde9096974bc07b389ec
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260627-vespa-is-a-way-of-life-thousands-ride-through-rome-as-italy-s-iconic-scooter-turns-80
-title:vespa is a way of life thousands ride through rome as italy s iconic scooter turns 80
-seen_urlhash:373cbb9817aef3e0bd287fd2338a623824b95ae59764a3c000f1f4cd37fc0f8e
-seen_titlehash:fb83addd05ec1bd807305bac88c05768eecbc237185c0dd671102c73c2bac0ec
-seen_reason:processed_not_published
-url:https://france24.com/en/france-drowning-deaths-climb-amid-record-breaking-heatwave
-title:france drowning deaths climb amid record breaking heatwave
-seen_urlhash:8e1f76b9a33f11a49b9df1af7aa4d6925753cab01c69cce884da093f605a4ff3
-seen_titlehash:74dd1460726f2ac5dfb6a74af9340a63a7c35edcb1c16c5adc5317aa5640d596
-seen_reason:processed_not_published
-url:https://dw.com/ru/технология-ии-anthropic-разрешила-ограниченный-доступ-к-mythos-5-в-сша/a-77734679?maca=rus-rss-ru-all-1126-rdf
-title:технология ии anthropic разрешила ограниченный доступ к mythos 5 в сша
-seen_urlhash:d4022b35f1ef4a47c9004c04403c2c2689e9288c5df3851b38946ce5e83e04f0
-seen_titlehash:a359dfb08bbc9a1de1be483c401e069dffe284fe70d855c38ede1694f80ede13
-seen_reason:processed_not_published
-url:https://dw.com/ru/уполномоченный-правительства-качество-жизни-евреев-в-фрг-ухудшилось/a-77734226?maca=rus-rss-ru-all-1126-rdf
-title:уполномоченный правительства качество жизни евреев в фрг ухудшилось
-seen_urlhash:a23c0740afa8a1957ddacf0ec16cd4e0875f6d47dc5924267f31bd0d55ece6db
-seen_titlehash:fca08404fa9947c7dca4cd9c59cc3f2bc697c82f8a54619e4f0bf348f5c70555
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/27/in-rome-the-80th-anniversary-of-the-vespa-is-celebrated
-title:цветная волна vespa заполнила рим 25 тысяч участников празднуют 80 летие легендарного мотороллера
-seen_urlhash:82fb43f4f9202c1e5b088ac937e3e525a70557a6f7d20a1363d60d8f07f298ca
-seen_titlehash:d666e3bbb718b14c257519c31cda2da25ba4cacea496905565dbe05c83aca5af
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/06/27/porsche-plans-cayenne-comeback-in-leipzig-employees-face-losses
-title:porsche готовит возвращение cayenne в лейпциг работникам грозят потери
-seen_urlhash:9856e6ec38d5a8ad4a3d43fc1ca40fb739cc29103f11825ff0132d881ea8a32a
-seen_titlehash:141e4a6426088281c2f0926ed911555fb3f51d74e426d6fcec335c034ac082cc
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/27/argentina-budet-vydavat-zolotye-pasporta-za-500-tysyach-dollarov
-title:аргентина будет выдавать золотые паспорта за 500 тысяч долларов
-seen_urlhash:6bb557ca784100cafb4ab34c38299b4cc174c80904d35109a23f6593909a7c9d
-seen_titlehash:152f978b0489db1fefc47f99df57ccc4d617e9dbb939c49b54567d390cfa6de2
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/06/27/evropeytsy-yapontsy-i-avstraliytsy-uznali-chto-v-ssha-nado-vsegda-platit-chaevye-prichem-mnogo-eto-odno-iz-otkrytiy-chempionata-mira-po-futbolu
-title:европейцы японцы и австралийцы узнали что в сша надо всегда платить чаевые причем много это одно из открытий чемпионата мира по футболу они просят чаевые ничего не делая
-urlhash:313e2c4d948fc4aa057099aa15170c82f189f9be501e9a479d4e3a7a63bce246
-titlehash:9e8c2aa2329cb122b55f9978bbdf30af3d1430070ed6c8da72590e270528af30
-published_url:https://aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss
-title:israeli drone attack kills young girl in gaza safe zone
-urlhash:da7f041723471f20d553aefe47d550919300304398b3ab226cc9d193cfa16fad
-titlehash:e3005bf12f21f351b5355d6dcc6ed9b9eeebb22707a914895db14c47ef531062
-published_url:https://france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes
-title:us iran ceasefire threatened by renewed strikes
-urlhash:a19f52b3abc1efa3ef151a4d9f0bc8d0ef0dbd0c3e90e730f62a22f29e71e2ab
-titlehash:a7002539a7fb4954185dcfd659cd3dfacfe411703ecfdbef57a7541fed996470
-published_url:http://ru.euronews.com/my-europe/2026/06/27/glava-mid-polshi-rossiya-mozhet-gotovit-provokaciyu-pod-lozhnym-flagom
-title:глава мид польши россия может готовить провокацию под ложным флагом
-urlhash:835f78145104c756c1b9c98117e97ec0240cfa9b3a6fa8abf9d32236f0b85911
-titlehash:888aaf1c7f920889454c40f6799bed2d8fafaff659ea8327602aea9d200de218
-published_url:https://aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss
-title:lebanon divided over framework agreement signed in washington
-urlhash:53ad7fd36e8f88bde9978d48aad41d17adb6df50fa8515875013f4cea5e1eac1
-titlehash:889b07aba297c887354c4da0ddb5b97e8e2bf4493d89fd1cf05e3d1f257d4738
-published_url:https://aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss
-title:hezbollah rejects israel lebanon agreement as israeli attacks hit south
-urlhash:7b8d6733459e54d2b3abb34d92bfcc467c7c709e93e54012877ebd3363e5f7fb
-titlehash:7f6ddf95802b3952e377424cfd92fa21986cedf08355f3a0a47b355f6f8cb4e0
-published_url:https://dw.com/ru/всу-украина-потеряла-истребитель-миг-29/a-77735127?maca=rus-rss-ru-all-1126-rdf
-title:всу украина потеряла истребитель миг 29
-urlhash:0d1e3c44e8fddbbb80f0a4281ca2e8ff5ec2aec6d257c5d4f3e5d0ff5da612d8
-titlehash:45b0e5e37a3c11d7239aa624fa9a90d2f9b2f84bc61ebfcbfa9b2cdd8c14f7cc
-published_url:https://meduza.io/news/2026/06/27/ombudsmen-lantratova-zayavila-chto-vlasti-zakryli-vopros-o-vozvraschenii-zhiteley-kurskoy-oblasti-iz-ukrainy-gubernator-hinshteyn-soobschil-chto-300-chelovek-propali-bez-vesti
-title:омбудсмен лантратова заявила что власти закрыли вопрос о возвращении жителей курской области из украины губернатор хинштейн сообщил что 300 человек пропали без вести
-urlhash:b2831bf0151536304bd5852e73da5e1d02fcdf6f77d0301798b14162484faa35
-titlehash:d5c650d88b05f94cd30e797790d950a28f557bacf00828dd3ebbda3a1121a1cc
-published_url:https://nytimes.com/live/2026/06/27/world/venezuela-earthquake/the-scale-of-destruction-heralds-a-larger-death-toll-to-come-a-top-un-official-says
-title:the scale of destruction heralds a larger death toll to come a top u n official says
-seen_urlhash:eed18ce4a204aa01f62a3dd876cad64344d1bece5d119a338707f33097cd4b23
-seen_titlehash:d784e073cda936019809d21347b0c1ab83b7f15f667ca6dd8cb87648e197774f
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss
-title:with water cuts looming in arizona in us locals fight data centres
-seen_urlhash:dd8beb4393c026368a79839f7b425052174298785a7fb16be370710510462c37
-seen_titlehash:69574d761b4b69c511c82e98c362e4c46db37a12abb1715cf100935fdccd0132
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss
-title:sabalenka defends wimbledon prize protest says it s for struggling players
-seen_urlhash:d88b1c3d248f0dc64d2ab8b0e1d54af75e0c6c763573d1247324a55a495acbd5
-seen_titlehash:13e7591419f2c7de34461e81be2fdea7136271500da11e9c964a3daa8b6e74dc
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260627-first-budapest-pride-since-orb%C3%A1n-ousted-from-office
-title:first budapest pride since orbán ousted from office
-seen_urlhash:9587b240e83317c291dfca6a86be81eed2454fdca2582a251fa910e518dc0ce0
-seen_titlehash:b2ca733d70df2b514de0110baff1e7fe52a9eaad61d3daf07d2615ccb4bf5265
-seen_reason:processed_not_published
-url:https://dw.com/ru/в-германии-установлен-новый-температурный-рекорд/a-77735128?maca=rus-rss-ru-all-1126-rdf
-title:в германии установлен новый температурный рекорд
-seen_urlhash:733b76f418e019b4510fb7a8950123dc1c111f1dfd3da3f4b59f92371cea7d36
-seen_titlehash:44afe099d0d49a64a72420afadc68fba143561959240de43d756c0bba90a5d1a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/06/27/judo-qingdao-grand-prix-day-two
-title:драма в golden score и новые чемпионы в циндао
-seen_urlhash:17f12ffe3959962c639302ef0919f9a6640d6c655674b1725454864bd8417a6a
-seen_titlehash:46164b19537969f9df2d4f109a0c7c734e32493b189ea4bc6b338331979a350d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/06/27/the-price-of-i-do-in-spain-weddings-will-cost-10000-euros-more-in-2026
-title:цена да согласна в испании свадьбы в 2026 м подорожают на 10 тыс евро
-seen_urlhash:9fbec6757d659ea1ef582e537a25bb00618d28edd9c4cc9fb73083f9e531707f
-seen_titlehash:8cfd5c2dc618ca4a2561996a55a7322ff0deb0ec5457ed92b386d4390f8bcaa8
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/06/27/v-dome-voennogo-aleksandra-lunina-zapisavshego-obraschenie-k-putinu-proshel-obysk
-title:в доме военного александра лунина записавшего обращение к путину прошел обыск
-urlhash:34dac3ddb6207afe0066bad6d675d757c911ccf651abc1d8dd813498428f2af7
-titlehash:b22df64d2b24417fdeea6b605e62ad6618988433b9861d0ca4d2c59c548efe58
-published_url:https://aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss
-title:how is framework agreement with lebanon viewed in israel
-urlhash:9d3fafd019378859b1448fde274aaaf519adb474fd5b059e5f437bf6af485e3a
-titlehash:706df151f7bd01e9eb246a9f3d9d5268903ea87e2a22b77e529f1e605c0b7389
-published_url:https://france24.com/en/americas/20260625-venezuela-earthquakes-kill-nearly-1000-as-tens-of-thousands-missing
-title:venezuela twin quakes death toll tops 1 400 as tens of thousands remain missing
-urlhash:3a61e15a3dec78fa8a0de5a81d45576949925eaf4d41f8a67a2641646faf0dfc
-titlehash:f1a5c7448ebae1f4151ef75f956a96089232d5c45eaee2eb6812f3c958521b9e
-published_url:https://meduza.io/news/2026/06/27/zhiteli-moskvy-stolknulis-s-tem-chto-na-zagranpasport-ne-podatsya-bez-messendzhera-maks
-title:жители москвы столкнулись с тем что на загранпаспорт не податься без мессенджера макс
-urlhash:0013a3d8049b70a9582bf1aec1aedc0552d7580e46ac0c46ffb96b9428c60caf
-titlehash:ad5ba522aa9fcf1413b962a8f5f7ae058eb54a0a77fc5ed43ccde4c951b1a8c2
-published_url:https://aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss
-title:three security personnel killed in attack in pakistan s karachi
-urlhash:478a5bb0e541c2b0de8bfed55aa3568c624c5e152542c3e3fdf855f21e26a406
-titlehash:c6b62d958965965a07043537007ac4139aa7b27a46e31ac09b00838dda744903
-published_url:https://france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals
-title:heatwave shatters records across europe disrupts transport and strains hospitals
-urlhash:72194a16210602f404a41dbca3d118788fc485eee79d18c6b467c76f9b979115
 titlehash:887c05b0801d9357b47bddc71a9ef04747a76adcb3860c06485009220eb6e8b3
 published_url:https://france24.com/en/venezuela-survivors-say-rescue-effort-too-slow
 title:venezuela survivors say rescue effort too slow
@@ -4998,3 +4866,135 @@ seen_titlehash:aa9eb12df159ed7e44894c7a5bb2e02ab24c6d875af3d37c3800570823c5cf94
 seen_reason:processed_not_published
 url:https://ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec
 title:trump made more than 500mn from sale of family s crypto tokens last year
+urlhash:fa7d3f4a358eec8553dca55a6c265b9a3a9fdf8e155c6733b0b521a57003bf9a
+titlehash:d5ebb9616ebe6873c15cc92ec857ff97ce3a084ac5ac9017bda70d5f3b4c4efc
+published_url:https://aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss
+title:iran war live qatar s pm meets us envoys tehran holds firm on conditions
+urlhash:7ac0c52db8743d563688683231d7c04fb5d2839492c512f9ed6624323aa7ff02
+titlehash:f04218ff94e29d9b2b89e08ffb550f331f1fcab7b528bfbdf79905d064d6a1f4
+published_url:https://bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss
+title:afghan taliban launch strikes on border with pakistan as tensions escalate
+urlhash:9c8103110a8e2ba8e7000a446bec11a32158cee163e8def4feb57dfb71308152
+titlehash:6616876f7f78765819bbfc169c2777a2e44d44065f8f68c498f93fcab64053c8
+published_url:https://aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss
+title:iran says it couldn t export a single barrel of oil during us blockade
+urlhash:cf90988201444456520b0818a254e97e1046e5b1d429292db47daf459f68ed10
+titlehash:e0e36c36f3efb9fa4e62ce4eebcf53296c11c337d114996a155d0fc840f0c8d0
+published_url:https://dw.com/ru/euroclear-подал-иск-против-центробанка-россии-в-бельгийский-суд/a-77778400?maca=rus-rss-ru-all-1126-rdf
+title:euroclear подал иск против центробанка россии в бельгийский суд
+urlhash:963613e8d6a95c5ca4c51207b6d124e2691237bab9915084a86833c533072105
+titlehash:3e25fc037ff5b257e0ea89a45833b5f27e54b135b17bb647fbeb43634719ad6b
+published_url:https://bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss
+title:a plane crashed into a tower in beijing but china is not saying what happened
+urlhash:15da616fac16eebb2d26652abce7a4201b693318b3f122cae0b5fa0c549cddfe
+titlehash:4f4f97612241a7fd51e182470b2f975a695999b1269fae4ed464f2bbac109118
+published_url:https://aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss
+title:un chief fears for millions of palestinians amid unrwa funding shortfall
+urlhash:8a76f915703d3f9416144a12511f8e2e64b0f5b884fd789ad747329d30bfa4b4
+titlehash:273645ec910e0b92439480b4dcb5181ac2fa4b9b1ac1a600655b32af4ba909bf
+published_url:https://news.sky.com/story/nancy-guthrie-ransom-notes-were-fake-fbi-says-13559393
+title:nancy guthrie ransom notes were fake fbi says
+urlhash:29617ff15146f1c7009a984e4a96f187b9261c2174f53480ae316b1e0dee6b64
+titlehash:4ea92b8514692be01c4b079a52c09bcf39f58d1ccd4e5dafd5cf117f7200e19e
+published_url:https://dw.com/ru/евросоюз-почти-вдвое-сократил-квоту-на-беспошлинный-импорт-стали/a-77778636?maca=rus-rss-ru-all-1126-rdf
+title:евросоюз почти вдвое сократил квоту на беспошлинный импорт стали
+urlhash:5ae830561aa3db10c1689cb57a8b4f5dd2fdb6b190e778072e2b0f01a6a56e69
+titlehash:0ec7245ef7b296f8bec681cdad09037f9d73c0059418429cb6c40a28c46d7269
+published_url:https://ft.com/content/dc7b4dfb-b279-4740-ae71-862a9e267aa9
+title:chinese carmakers hunger for chips boosts national self reliance drive
+urlhash:03d1f6fcf873f59acfaf5611bd5a9f33c39afa1a052c552ab8bca06941ed75af
+titlehash:e07702a2f1d0d7cb57b18de01b80d31b5556223d6dca4a802e2684dc822d574d
+published_url:https://bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss
+title:trump made more than 1bn from crypto in first year back in office
+urlhash:f13c01c7a1c6513fc24255cd386778af8029f4919a44d0be74b74c0ea569cc9b
+titlehash:bc45ade1e1ed4152da341f696daa272d2bcc2ca2c60470f1649663d86350fa4f
+published_url:https://dw.com/ru/le-figaro-следствие-подозревает-сбу-в-покушении-на-бизнесмена-ермолаева/a-77778185?maca=rus-rss-ru-all-1126-rdf
+title:le figaro следствие подозревает сбу в покушении на бизнесмена ермолаева
+urlhash:60a6dbd05fe6183b1f9e6ddc43aae1d1e2f7d7cd0c8119552ccab29708d111e0
+titlehash:52213a244340139c9fea15a7df24e25a8e60fd479e7dda68ab76c16bff37d2cd
+published_url:http://ru.euronews.com/business/2026/07/01/ebrd-supports-young-entrepreneurs-as-small-businesses-in-uzbekistan-look-for-credit
+title:ебрр помогает молодым предпринимателям малый бизнес узбекистана ищет кредиты
+urlhash:04252e6c51dccae227bbe2a3bbc2540dcbbb6d2f480edc46969ed1a9ad4f5962
+titlehash:c6816097a4cbcfbd5357bea268d3d99436624b8645ff04fb977e2ec1c7993c26
+published_url:https://ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b
+title:white house lifts ban on anthropic models
+seen_urlhash:7e41078c0b49b2de4f1ad57f44a4cf5b869f7929fa66482bb1cf060917c04333
+seen_titlehash:eea2b9a83aa1bd9f3b891d063252fba15cb0d6771a8e6d207857a8614b90fa3d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss
+title:anthropic says us lifts export ban on its advanced ai tools
+seen_urlhash:4492936014d984d4a92ac6f55e9556fe1313b7624b50298baa64e3c17f7717e7
+seen_titlehash:3672ea2e45b31bd73796806e1c1be2d932eb41bf3e368bbf5799fce7eb1beabf
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jun/30/guardian-essential-poll-voters-reject-key-one-nation-policies-as-support-drops
+title:guardian essential poll voters reject key one nation policies as support slips
+seen_urlhash:2c116af85c03a890ef6c3bbcd94db39d5c8d125ee02dac99b83105bf4beec673
+seen_titlehash:34395e46275f26864b1680e7043c6e5b9e5bb386f0b83dd398ac41ac90b8d9b3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/1/mercurys-thomas-says-received-online-abuse-following-wnba-suspension?traffic_source=rss
+title:mercury s thomas says received online abuse following wnba suspension
+seen_urlhash:c9dc27f3ceaa31e331595a7fa97e7f0682027211c4325ef2339309de8586d938
+seen_titlehash:fea20ae2ffebfe3e6d003b06246a1c84f4f25daaf0577fcaf27f7cfde6c69114
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss
+title:us lifts restrictions on anthropic s powerful ai models fable and mythos
+seen_urlhash:d5b50b9a9e094b2e08b566ef735966785a8d7d30eab8b4c42296c39c3925e1d4
+seen_titlehash:57c1c9786f773d98cde34b8ece6758aceb71ee2a7ff13f9ba7f758a5507a1c53
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/1/southeast-asias-homegrown-artists-are-knocking-k-pop-off-its-pedestal?traffic_source=rss
+title:southeast asia s homegrown artists are knocking k pop off its pedestal
+seen_urlhash:1abe3cd9ab93a600952e2a38e7353c83e541515ac6d719b496a433900fdd1b44
+seen_titlehash:bf210e7260f19a0019e8e2959ca9a5e4760d7213724c06e1a703d41e6bb5b827
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/1/algeria-to-vote-in-test-of-post-hirak-political-landscape?traffic_source=rss
+title:algeria to vote in test of post hirak political landscape
+seen_urlhash:b9225b63f7048d8b005f97bb7a88dcbd69a96c8e5a2a57b3c1cb8ea4880ee159
+seen_titlehash:c20f16416b9c1106180e25bb659bd2929c40868ff3e1c6be6cf3fa6bbb9e39b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/1/lebron-james-thanks-la-lakers-ahead-of-free-agency-exit-for-24th-season?traffic_source=rss
+title:lebron james thanks la lakers ahead of free agency exit for 24th season
+seen_urlhash:d9752009d50b1a16de2c516b469cc693b6275aaab64713c70a5b5cc0e7e36b49
+seen_titlehash:a58375fb5c8c06002fc1487b97f13bede78e6283331ed22ccca96a6df48ee1c2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss
+title:north korea s kim hails unshakeable will to develop ties with china s xi
+seen_urlhash:36a857270062f9f3c34ce21e5634e7e649848dee86b0131964f8cf4858ff7bd7
+seen_titlehash:009718ac1b9ddcd9bca5b204e5aaa8338a35c70fc2d361e42f792ee53678da09
+seen_reason:processed_not_published
+url:https://france24.com/en/environment/20260701-oceans-reach-hottest-june-on-record-as-el-ni%C3%B1o-threatens-more-heat
+title:oceans reach hottest june on record as el niño threatens higher temperatures
+seen_urlhash:450fee20e6f70e0f9786787fa9fbc66de215c1cf2297919cab3bb54fecb48186
+seen_titlehash:dac9c00c479c31cdc066c1d2f6ae344aa9928d3d971cc5b67bb861de2508370b
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260701-middle-east-live-qatar-reaffirms-backing-for-us-iran-talks
+title:middle east live qatar reaffirms backing for us iran talks
+seen_urlhash:7b618ab8e6adc195773435991cb6e729835c30728acc9701a07127ff7bc447c1
+seen_titlehash:cfe446b75693b8540cbfac8d825795459c01dc00a9128fd3c4da043c93fa9873
+seen_reason:processed_not_published
+url:https://france24.com/en/technology/20260701-anthropic-to-restore-global-access-to-most-powerful-ai-models
+title:anthropic to restore global access to most powerful ai models
+seen_urlhash:4d68f306f4ea4fbdd91f03edd431b62e1f18a9fef70a1723d826b95794ac75fd
+seen_titlehash:353dc560216202d459151fdf2186c3555ee7d2310bee65dc5f69a62aed7c03f5
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-снова-разрешили-сербской-nis-работать-в-условиях-санкций/a-77778629?maca=rus-rss-ru-all-1126-rdf
+title:сша снова разрешили сербской nis работать в условиях санкций
+seen_urlhash:41b5a8637984f23b2f811634308376b18df33b5ce35fd4e13f730a11ab663d68
+seen_titlehash:815b06587ad52ba50a4a73f428d5a3e51cd07921c018bf3742a32a84bea2ddd7
+seen_reason:processed_not_published
+url:https://dw.com/ru/франция-вслед-за-другими-странами-ес-ужесточает-выдачу-виз-россиянам/a-77778530?maca=rus-rss-ru-all-1126-rdf
+title:франция вслед за другими странами ес ужесточает выдачу виз россиянам
+seen_urlhash:28585dd74539f48b5aab882d5979fd38354d06bd98e8f7c9c7b879f041c671ed
+seen_titlehash:dbc8eb49cc8c9b15848e59696174051d4140e25fe7456cd43edcb2083d5cb614
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/01/record-high-ocean-heat-could-drive-sea-level-rise-and-extreme-weather-on-land
+title:рекордное потепление океана ведет к росту уровня моря и экстремальной погоде на суше
+seen_urlhash:cd385894af1c1856e79b2542c04a2092890bba8d1e09c8f28224f0a31b395c4e
+seen_titlehash:d4f74988fd2db6ceb4a3a920f99bb097810d4ab530f64a95ebc1e924337b8723
+seen_reason:processed_not_published
+url:https://ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f
+title:uber backed lime raises 167mn in bike and scooter group ipo
+seen_urlhash:a5d65d11077052919b999b3cc93e32d4133693c1cc99d528ee2c6778c98c6636
+seen_titlehash:c3638fded0a72acff683e94e375a45477f3e6f9c52a44075f13a6f8f1c04b06e
+seen_reason:processed_not_published
+url:https://ft.com/content/2ac7b4ec-aa72-4893-9713-87968da038a0
+title:us supreme court checks trump s power even as it bolsters the presidency
