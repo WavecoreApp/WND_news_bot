@@ -1,41 +1,3 @@
-seen_titlehash:c2e67cc3f7f27b13bb568834dddb0888bdb82b0d02d75298905e07e0c413b945
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss
-title:tit for tat us iran attacks appear to be over
-seen_urlhash:1806b9470fe3a5997dcaf798f8db7aa54fca9bbd9737fd2fce00eafc180a6619
-seen_titlehash:3358e220df56bfd80d85b0b6e8986deecbff82bef68fb19b350651c0a714aec2
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss
-title:russia ukraine war why has putin rejected limits on long range strikes
-seen_urlhash:86468ac6b15d7edbf178fe3245674366e156fba5b9f2ea483c38e8bda5867d43
-seen_titlehash:6f712cb3adff4f3a9fcc7d382d7532690dded3941b085c8850f205a9acd994fd
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss
-title:erased from history a century on from canada s anti greek riots
-seen_urlhash:739eac7beeda67dacb704f57fede2465a84bf90c60b2c6c36627c8433c22f0e2
-seen_titlehash:7483b2659997f8998e56d3d118b6324ade75c858bebf8a774f42565e99b0b4e8
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss
-title:australia and vanuatu sign deal to block foreign military bases
-seen_urlhash:635458445f9465e2fe1efdccb9209a2e9808d3117b02796a954565de990d3cc0
-seen_titlehash:147f36d71cfaa6fe5942f51e0bfe3f5262575e2ab6cbb313a0b73d7da0e666d3
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss
-title:china slaps export controls on dozens of japanese entities
-seen_urlhash:f2f74ce4c08b5bf46579e135069a780d424677c013aab508a8ed0a8c78a49bbf
-seen_titlehash:a6295bc44264a67e3bcd2a48dfb9f25d3204382e9cdcb5439796619e17716105
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss
-title:venezuela rescuers race against the clock to find more survivors
-seen_urlhash:3da49abf1d29b5b742d72a396204bd890185e71ec4c33d02a1ac44a11084d5d6
-seen_titlehash:76650df920da8e16f0223300f94fa036eeb96444ebb56412b3d22c998b832c9a
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss
-title:will andy burnham mark a shift in the uk s gaza policy
-seen_urlhash:d30b43c3fbcb006c397868422fb3518f99e1ef1f289083850889acd421a7267e
-seen_titlehash:ab40ca9678a8d346dba67ed30eccaab6c373f1edd17c58c7864566e0671bdf34
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss
 title:uk s likely next leader andy burnham to unveil economic devolution plans
 seen_urlhash:9641575b85e79c9594965b8d936407a255ba73bb10f5278eb99117ac8454dd07
 seen_titlehash:a3b63b1a6f275cd113f18c4bc26d40bf3440d8a9a0e488fdda65f80e1e598868
@@ -4998,3 +4960,41 @@ seen_titlehash:78ffc3a18e584552b09c6236bd607e44cc3a3af2c30ae9eea2932f466162f6fb
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/01/rufery-iz-rossii-angela-nikolau-i-vanya-birkus-zalezli-na-shpil-empayr-steyt-bilding-s-bannerom-o-lyubvi-i-mire
 title:руферы из россии ангела николау и ваня биркус залезли на шпиль эмпайр стейт билдинг с баннером о любви и мире он сделал ей предложение а после спуска обоих задержала полиция
+urlhash:3ea5ad05991f07972e16986d4801f23827b668a760959e47c9af72e83119df6e
+titlehash:e7399c77d950390feffda2cdb21586b8e88e7e75beb9e4e5ad01c2790e830055
+published_url:https://dw.com/ru/afp-число-ударов-ракетами-и-дронами-рф-по-украине-в-июне-значительно-снизилось/a-77793536?maca=rus-rss-ru-all-1126-rdf
+title:afp число ударов ракетами и дронами рф по украине в июне значительно снизилось
+urlhash:7648ec83f2088c3374bcdc01d9f377ec43f2a4513b05d65efc96ef6c1a5ca6ab
+titlehash:42c30fd7328e55cfccccf81dda7de192b2e2affbb2501acbe323c3d9ac9a27a4
+published_url:https://ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5
+title:trump made up to 1 4bn in stock purchases in 2025
+seen_urlhash:12de3d5d5de4b52f267e44374abed1cb9522bb4d6ec41af4d59522ac3d4d7f22
+seen_titlehash:4da1a1ee4997ea9705f93d9a2fe2c28b4b8c6a77bc29b5961b69c6674355e79a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss
+title:aunt of venezuelan boy pulled from rubble tells bbc she will give him mother s warmth
+seen_urlhash:de437fa940d4bab7e76b5bf255287f10b188a65edf57726765db5cae03a85443
+seen_titlehash:aa453491a9e91bec8e4a663f1337742ebb3646d03f773382af4ba98c7607e643
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss
+title:e jean carroll demands donald trump pay 5 8m in damages from 2019 case
+seen_urlhash:a8c77a546bfc4fcf8715040a39f385ec5cb41e6c134e791cc3506b3a7b08e863
+seen_titlehash:4e00fac1fecba14af8b5392c725b79fb277540d90f51f5fe823dd5001a3914aa
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260701-two-arrested-after-scaling-empire-state-building-antenna-for-marriage-proposal
+title:two arrested after climbing empire state building antenna for marriage proposal
+seen_urlhash:bec0f47517b15d4c4a0f1eeef2b5283e9b19bdc23963de553ac6017a95877cf6
+seen_titlehash:de3ae21aca4dc83839e79afb3107c7db13aebdf186623a9b4da82a3a58d0f6bc
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert
+title:fire breaks out in central kyiv after explosion during air raid alert
+seen_urlhash:5af5cd763d6c69f11715d6ebe91e91ba4d4122701feef9f5a341b1e3f733111a
+seen_titlehash:56e079809fb0931199775c03cb58b7d19f3e8d4b21c4f1d641f0d4618076ecb5
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260701-us-iran-doha-talks-end-without-breakthrough-strait-of-hormuz
+title:us iran qatar talks show progress trump says as both sides set up hotline
+seen_urlhash:3f8896c561eb1eb9c24413275de3c6c69f0b049d2bd44081f076b7d7899d9a5a
+seen_titlehash:9acf27511f3609a70ffcf18e39309327d04b90526ae59376afeb8135c747f89f
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic
+title:the war room newsletter when war becomes a political aesthetic
