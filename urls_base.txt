@@ -1,54 +1,3 @@
-url:https://aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss
-title:millions in india s bengal risk losing welfare benefits over voter deletion
-seen_urlhash:cbefeaf596886e92a0541749f7535b1b19ae01941afa496f0f323282eb9ccc3b
-seen_titlehash:92c5c8583b4725858533d04ea9e9acbb432cc7e1874400193231e429bb4895b4
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss
-title:how each prime minister broke britain s economy
-seen_urlhash:73624d8252063e9627a28570fa5c81270069bc6ebb2c82c7363a7772e1e79861
-seen_titlehash:4fe9cd8878f823bb115849c2b8058ae73c4d4e5ee12a01fddee457254146cf9e
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss
-title:dr congo says 1 307 ebola cases confirmed including 377 deaths
-seen_urlhash:9b02a3d00473d8ae356d3c634db06952df8e549015d2c4bd2a6941134a246a69
-seen_titlehash:bcc05e14c34ad9a49f7bd8288c26ff6f02698a6f44169bea6a03e7ca1ea6518b
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss
-title:screen time calculator how much of your life is spent on social media
-seen_urlhash:dc60b5cdd7963ed6e1ea95d5d4b1145c511a4a3b37dd540e905fb3a115900687
-seen_titlehash:c5961e18a85919879dd68c6e1b1180e532f00797d835ea24514a9c4150dfd464
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers?traffic_source=rss
-title:whatsapp to let users go by usernames not phone numbers
-seen_urlhash:0539fe7f1e46c94d0921f21c5da50a04cc75bee3db1099bd79e7c964bde6957c
-seen_titlehash:6c108b5b5ca4521ceff095a7d4453f113c0ef79bc658f53c767fb90b785acabe
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss
-title:peru elects keiko fujimori in victory for latin american right
-seen_urlhash:f3775c4d7fc486f9f00bd50b429e79ad78d0d661b7871777eaded97f0f9af120
-seen_titlehash:df1a6ab6802d371b24e2ee2aef7cf438770eedbfa7a37fc19cdb3b8757761c68
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260630-spain-more-than-one-million-undocumented-migrants-apply-for-amnesty-scheme
-title:spain more than one million undocumented migrants apply for amnesty scheme
-seen_urlhash:0cd1b908b234148a0f48febd0c7a2593e9555685d069b7e8ffe5a6237ae615af
-seen_titlehash:3eb222814452ba4828c49f94f3851d4022a962ff6250496e208e74b206e7be7e
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat
-title:ukraine s war damaged power grid struggles under soaring heat
-seen_urlhash:0e331a86e93f6f16aa7a713abe98b1501e6f8f1c90c88b02011f92dad04b56e9
-seen_titlehash:7eee679a70a97eb16948200b2f1a974c9aeff099ff27ea498f1883714371b444
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260630-supreme-court-to-rule-on-trump-s-bid-to-roll-back-birthright-citizenship
-title:supreme court to rule on trump s bid to roll back birthright citizenship
-seen_urlhash:e70f7ab6bf64abaed55f5fb3e9ad70314e4b22c0a36f9113cee68b60ea443569
-seen_titlehash:600185ca2b06eac0fdb093b460d64e263a0e89be1be07bcf3312cd0f65c72f4f
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/europe-rendezvous/20260630-meet-your-mep-behind-the-scenes-of-the-european-parliament
-title:meet your mep behind the scenes of the european parliament
-seen_urlhash:37081edc94194f46b69ed74a24975da832d089f9dbff94238e9bfdf42e461da2
-seen_titlehash:bfb47297ffacb031781dd2abc9720596da1884a08d5a3acf25f591234c03670f
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/business/20260630-french-heatwave-threatens-food-inflation-as-agriculture-sector-suffers
 title:french heatwave threatens food inflation as agriculture sector suffers
 seen_urlhash:635b73493f1d5df0d50f31e0c4b57d4bc95884ccae7fcc5b1f71d6343b25803a
 seen_titlehash:fb729ed57de749fae858e9b24f5ebd6d35f480460067804a8d6e4d096b8979bd
@@ -4998,3 +4947,54 @@ seen_titlehash:72d9cd238c617efb45e454cfd3de26c717951b0d803666c41d63e809dcdf4a59
 seen_reason:processed_not_published
 url:https://france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding
 title:german reforms google s final defeat and a 20m swift wedding
+urlhash:7aeeb08a3dba4cd1b53f10931c5482d43780c125ce2b5dc13aa002a2f4a97759
+titlehash:f58bf27901841ae5f9edb26f7ebe601c02b125ce52ffe88866ce18629566290b
+published_url:https://nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html
+title:as ukraine war escalates witkoff and kushner are focused on iran
+urlhash:12b650e5817ee2af3ef559e94ea0354f37092001dca30a03d927bdcaf567ff72
+titlehash:c56c027bb6b633e9df74cb08d246dff4af3ef1c5a27d195d3e7ae25d88d13614
+published_url:https://france24.com/en/iranians-have-succeeded-in-making-the-strait-of-hormuz-the-primary-issue-rather-than-their-nuclear-programme
+title:iranians succeeded in making strait of hormuz primary issue rather than their nuclear programme
+urlhash:651358066e29e2d910277865320f8cf30b8375b4ff2987af45e499bbcbfc3e8f
+titlehash:3b7cad9b2bb13ec8fa3d6989e1381cfde56e0c45e86a7784f757930f7ed39258
+published_url:https://dw.com/ru/продолжение-ударов-рф-по-украине-6-погибших-десятки-раненых/a-77811147?maca=rus-rss-ru-all-1126-rdf
+title:продолжение ударов рф по украине 6 погибших десятки раненых
+urlhash:cb22f34a7262f6e401dd64664efb16bcedc7da7adb5ce5211210783abee3fcef
+titlehash:3f19e751e8ee79c04c5b7030f1cc5c5aba747f33e1aefdb78689ee27a0a6ee20
+published_url:https://ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1
+title:heat dome over eastern us sends electricity prices soaring
+seen_urlhash:54bb4809b8009213d8cf6055c24254dd1b0a338e0fa54580c931dfbeb7ca3e05
+seen_titlehash:8e874d3b53b1bb4c753e36958dbfa4d694d353b4961032be78f9a2fe4ffaf109
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html
+title:rare copy of the declaration of independence is discovered in london
+seen_urlhash:cb00b935d83f40ef5fab3bbe3bc72a6535f5e9f441acde0c8e36bd24c7e9fe52
+seen_titlehash:e682ae01d388cd559132e05bb6b88ae70002aae3634009035b441cbd0762144e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html
+title:deadly mv hondius hantavirus outbreak is over w h o says
+seen_urlhash:3a5430a759a0c89d58737e8d9132997ef3bd4f931c744400fd61279c405eb544
+seen_titlehash:020d2a42a055e544369f0ebc06487bcaf880082cd01bfc1ffc1a0178a59f5326
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/03/moira-deeming-lawsuit-victorian-liberal-party-brian-loughnane-ntwnfb
+title:moira deeming launches lawsuit against victorian liberal president before party meets to decide her future
+seen_urlhash:4d0d0459850f1831d27a32993bfed6edacecb86859550a4ef3f557ebcfc34b29
+seen_titlehash:0c5b45c60435a12d419911012d64d92c2715e6dbb452340b58035df2a431555f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss
+title:trump administration indicts olympic athlete for reflecting pool vandalism
+seen_urlhash:d28eebae8a08bf72f8ac7c4512658ad3152387a6312ef83691499a5268100382
+seen_titlehash:9b5f12e826ef3b04eae8f40a086f9145fc4f51e10cfbe83231beb3e500ecf257
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss
+title:will the end of tps for haitians mean a caregiving crisis in us
+seen_urlhash:6a2449c5ec36cd13bd0b2651627c70a20f9d7d02a49fc94b2c0e70ba4caa5f9b
+seen_titlehash:15e0c42932e5ae995bb7aa4284a8df380b60a8b401527a2366cae5353bdd8aec
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss
+title:portugal fans gather ahead of ronaldo modric clash
+seen_urlhash:04b6af2d674a0ac287a2302230e219e2b68158813572501459a36c922bfc1709
+seen_titlehash:cf5bc710cfbc5fea18e01a6587ee284df6f3a3e0f0808f4fa7a8cfbe6db1fb99
+seen_reason:processed_not_published
+url:https://ft.com/content/671fbc14-9cc5-4177-932b-b96ae32cb7d3
+title:blackstone s qts ends virginia data centre project after protests
