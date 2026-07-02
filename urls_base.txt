@@ -1,38 +1,3 @@
-url:https://theguardian.com/australia-news/2026/jun/30/labors-gambling-ad-legislation-a-capitulation-to-industry-lobby-liberal-mp-says
-title:labor s gambling ad legislation a capitulation to industry lobby liberal mp says
-seen_urlhash:fdd6a4711fdda7ec6080c8377bfe33a39a06a7d063718ab637ddbe45f36c3397
-seen_titlehash:5041140a3d9784856270f44bf9d941cf49b702c6ffa765d9658a3a79fd8c06ba
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/30/lismore-floods-northern-rivers-flooding-nsw-2022-two-metres-lower-with-dams
-title:nsw s deadly one in 100 years floods could have been slashed by two metres using dams csiro finds
-seen_urlhash:cebe2617dbd85a19468b1c1e6479648c23b2a14c410e799bf936c48edb566ac9
-seen_titlehash:92b4d28330d6afdaac1baa30e17ac9bfd5f3c390d018cab0960690ebb0ccebc2
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jun/30/ernst-and-young-ey-graduate-employee-allegedly-accessed-australian-prime-minister-albanese-bank-account-sacked-ntwnfb
-title:ey sacks graduate employee after he allegedly accessed australian pm s bank account
-seen_urlhash:5aa2e2f9e4e97b893f46db4932187eebbc9ebf9e59030cd3d2d42c6d53fa842e
-seen_titlehash:618e8620ef433df94f7bbb4c3a7aebd2ea8ed1b172369b10c863ebbc30916937
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/6/30/the-next-british-pm-should-steer-clear-of-starmers-shameful-legacy?traffic_source=rss
-title:the next british pm should steer clear of starmer s shameful legacy
-seen_urlhash:ec8367bcb57fc987a38744af3a42df52ebea2612522b95635a5da8b722050f83
-seen_titlehash:d1f4ca72eeb6769af41fb7d46623c8a4cf5ef178cdbd5ee9e3b039f2adb3423f
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/30/heatwave-scorches-east-europe-as-slovakia-czechia-see-record-temperatures?traffic_source=rss
-title:heatwave scorches east europe as slovakia czechia see record temperatures
-seen_urlhash:ed88e4b6b415c637e2140720791d8020788cb5e738a5be3bd69f83c45709051d
-seen_titlehash:6dfc3a06e5a7f56918f0ae605f9886a156502a82ac2cbc2888d6cca31f17cf0a
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss
-title:caracas park helps children cope through activities after twin quakes
-seen_urlhash:06ffdf942dfd93928b28cd5606c271c8a482fdf56c60a8ee8e6fae0a593ca10f
-seen_titlehash:cdfef8975408af878b93be6b81294b916ff0bd40ee6fb2bd24b7a32b5bb215c8
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss
-title:what to know about the colorado primary elections in the us
-seen_urlhash:88dc24bf6c4dad46b361df2e4dcd36741126e79072833935447d81a374b43231
-seen_titlehash:db90c8c1fe867163697abcdf42a763ffd6187de8df733dfefee8bf47178af544
-seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss
 title:millions in india s bengal risk losing welfare benefits over voter deletion
 seen_urlhash:cbefeaf596886e92a0541749f7535b1b19ae01941afa496f0f323282eb9ccc3b
@@ -4998,3 +4963,38 @@ seen_titlehash:68f32c2324f00727eaac79e550497a5162a9d7c67337f9aadf00d836bf3714ed
 seen_reason:processed_not_published
 url:https://ft.com/content/e6a97eaf-b19f-4016-827b-ae069f0ce08a
 title:sandwich chain jersey mike s files for ipo as blackstone eyes windfall
+urlhash:d59cdbb356d71b39c6df5ac417ce088a98daaad09e5a5e1590d372f609c656fc
+titlehash:016c7a8f0a4b999c64ff5c4989e776556ee965f006449c2a2ebd25750e72b264
+published_url:https://aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss
+title:could water become a flashpoint between islamabad and new delhi
+urlhash:188376d18553539d32af6346b346024d60bfa3c0f2b8993447f46a40c7c351ff
+titlehash:618a9c449b1747b32423edefc1907017ec72c08d3e9bfd01ced2f919beaacc99
+published_url:https://france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city
+title:dr congo ebola outbreak tops 400 deaths as virus reaches major city
+urlhash:11c828d0cd882247841e4705d2bfabbcce4e2fe6e6a03b93d9b4770b13d3deeb
+titlehash:1857cfe9b8d72a58b7c88d8e9c89ad633963d230942967101333e463b89962f5
+published_url:https://economist.com/international/2026/04/28/to-fight-russia-europe-needs-ukraine
+title:to fight russia europe needs ukraine
+urlhash:cef628e650e8eeb1bcc9c09b2df2e77630efb2cc68ecbd3338ccf06ff36dc7a7
+titlehash:77db700ed8f881ad7164277481635a8e5a6fe1ab8612694ec247192d67ed5bc9
+published_url:https://bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss
+title:ebola treatments trial begins in the democratic republic of congo
+urlhash:c2ce132185a68166b83d530ab256717f3df6cb9ce21d7d8572d59e38ee2579c2
+titlehash:bbd87aa59ed1a764a572f627618653f27216737476a85fdaf00104ac28c9e31a
+published_url:https://aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss
+title:uk s likely next leader andy burnham vows to fully fund defence plans
+seen_urlhash:b95e9fc01d2c4c6bc8799c902f4717168c9f2b64682502265461e2d553e62b5e
+seen_titlehash:93877e68bfa8b32b2e1604846da9cb73a5882ab864eb44e752cc1758bda98be7
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb
+title:australia news live deeming lodges legal suit against victorian liberal president blizzard brings snow to nsw and victorian alps
+seen_urlhash:2647a7d4c22abae524667f883b23d7cc4a95a81e5d1461f51d8569ac53cd4a6c
+seen_titlehash:f433654196030cc344de0c9c2ea2a3f5c14732f136ac98503f7347632d0cda4e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss
+title:who declares cruise linked hantavirus outbreak officially over
+seen_urlhash:a39466f01b5d149b8589a0daa99d71a3b6286960933b17410534b2b7ec4819b6
+seen_titlehash:72d9cd238c617efb45e454cfd3de26c717951b0d803666c41d63e809dcdf4a59
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding
+title:german reforms google s final defeat and a 20m swift wedding
