@@ -1,45 +1,3 @@
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/01/life-saving-drug-for-people-with-opioid-dependency-to-be-pulled-from-australia-by-end-of-year
-title:life saving drug for people with opioid dependency to be pulled from australia by end of year
-seen_urlhash:2994a0a85e2eae6245556e6edf95020edd0d43c1476952741444a0484e3c1b0f
-seen_titlehash:253876bc07ac324c1db59b8a41cd36b1d4f6113c9e979e4192d18fe41232b38a
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jul/01/missing-thai-teen-thunchanok-donhomla-allegedly-murdered-australian-man-simon-peter-thailand-friend-went-to-his-condo-ntwnfb
-title:friend of thai teen allegedly murdered by australian man went to his condo after reporting her missing
-seen_urlhash:9e62e27759cf40bbc76adcd476232198f68550da30c124e80cf0d27a0d95db04
-seen_titlehash:4427aacd8c87adf41072ba5c73a0e3b6ccce8d2b6db1ffc3e2c1495a1fd258ff
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/rescuers-race-to-reach-survivors-in-venezuela?traffic_source=rss
-title:rescuers race to reach survivors in venezuela
-seen_urlhash:790e4419f14d9bfb5f5f933bcbea7225ad9e77ffd2b37ccc249e98616939e6a8
-seen_titlehash:4de363ac2ea77b7845f97240e122b300b968cfe9b6962ccb4d94c6a6967fcab3
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss
-title:trump official says white house will fight birthright citizenship decision
-seen_urlhash:3b65f99713d84d2060e5b6dad4f1c73ca29c582d7b52564901782d72459310dd
-seen_titlehash:95f08606a65fbd5fa7adc79541daf4542cb65c2fe50b5c39b1800f7c43da994c
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/7/1/africa-can-finally-mine-beneficiate-and-industrialise-on-its-own-terms?traffic_source=rss
-title:africa can finally mine beneficiate and industrialise on its own terms
-seen_urlhash:f02351b58fe1b39c97754f2cba1204a448c73303c196f4026619a0da2aa4df47
-seen_titlehash:4bf448ebe0daaddd640925b5fd11f68d1184272d93249fa4e116759e149ccd56
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss
-title:democratic socialist kiros defeats longtime incumbent in colorado primary
-seen_urlhash:61384314838ad286f6a8a1ec406ebe570d0014f803a67f8ef9ad937765911bb0
-seen_titlehash:bf4b5f6bf8a9fd59edeccfaef9e75a7da2e78ecd14b6d2223843388051b4bc19
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/i-did-nothing-wrong-swedens-migration-regime-hardens-upending-lives?traffic_source=rss
-title:i did nothing wrong sweden s migration regime hardens upending lives
-seen_urlhash:80c4e2a718b598ffe7a4e90831f96566373711589792577a6d12d1f8338eeb40
-seen_titlehash:a3b3598a9b9791bb4e0cfe10c875dc5683802cdae3142ea2601ac5634d6ebb1c
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss
-title:why is maga in meltdown over the supreme court birthright ruling
-seen_urlhash:c99ac9ae81d00207804de09aa28c0bf14b4633eac3731a4249d5203daa92df3d
-seen_titlehash:550023c983253d2b6dabc0d5f473bda83026e2ce746a372d8f50e1a41dcbf339
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss
 title:gojek co founder turned indonesian education minister jailed for 10 years
 seen_urlhash:426e1e1bb40968c27a4ca482a5dc88a0e3e2f7f30fdca079c096559429eb1de4
 seen_titlehash:dcfb712356a4ba450c87d541d6656326cae3a3ad9211bd8fbce330eee0abadbe
@@ -4998,3 +4956,45 @@ seen_titlehash:6f9f009ffd81e3e3e56c9b20205c16d268a9f5578e014ad17f23fee8a9df7a20
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/03/ozero-velence-vysyhaet
 title:озеро веленце высыхает жара и ошибки управления обнажают дно
+urlhash:7ead39ed181f453bc25f63e791ec2c381a994ba39ccf205ce7fc121e41adba79
+titlehash:732a7b9ed45d3ab2159d942f845490d2a4dc923f073e5f83111aabae95148223
+published_url:https://meduza.io/news/2026/07/03/rossiya-nanesla-udar-po-sumam-aviabombami-i-bespilotnikami-chetyre-cheloveka-pogibli-20-poluchili-raneniya
+title:россия нанесла удар по сумам авиабомбами и беспилотниками четыре человека погибли 20 получили ранения
+urlhash:252309fe8b6169f2381bb23be0a725f516c645edf2289c005e00b496408c16cc
+titlehash:b57d7cffeda7c5d11fa1345879d77f307125d3124023d3d90551c4de703752e9
+published_url:https://meduza.io/news/2026/07/04/putin-posetil-odin-iz-shtabov-rossiyskih-voennyh-emu-dolozhili-chto-voyska-rf-polnostyu-zahvatili-konstantinovku-v-donetskoy-oblasti-podtverzhdeniy-etomu-net
+title:путин посетил один из штабов российских военных ему доложили что войска рф полностью захватили константиновку в донецкой области подтверждений этому нет
+urlhash:06e53ab804f56c17178435c62566642f0be9583037c99d156901d105b05f93bb
+titlehash:64e8f29fed30ed4d711a04544ae054c9b428d3e2b69ca19d0c445b8621cd7681
+published_url:https://bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss
+title:anguished families left to identify venezuela quake victims at makeshift morgue
+urlhash:aa69023397f6b682c84eed4375f9087c20ed89254e51882916ea454594f53c16
+titlehash:73675032a2d21d3d33fa2173ad50525d02aaf9c2818076ccb2b7848777f01b79
+published_url:https://theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population
+title:witch hunt in niger as military regime rounds up lgbtq population
+urlhash:bc963d1fda347589f6269d9aef9bf555e3b61f4b0fc5cf7ac7205db7945b63c5
+titlehash:303f73409c3c9db64cbebb90a6514bc1a591ddaca06cc61488bf54f96cef6118
+published_url:https://aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash?traffic_source=rss
+title:venezuela s rodriguez blames propaganda for quake response backlash
+urlhash:e820deadd9bbbf2548e2c99a17767fbcf1dd9bb623dd561238523cb2b491fbef
+titlehash:2627c72bfe2403fc729df15b796ccc0c5848f069923710f38b2d2d5f0674655c
+published_url:https://aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes?traffic_source=rss
+title:a nightmare strugging with the aftermath of venezuela s earthquakes
+urlhash:7f7723ebaa1ac0eb0ebb54a5e510c23419f0c5b88d142da348fc0ea10fec43f0
+titlehash:832546ba4fcdb50dcaf66d730bf2cba0df8d7135ea1620193074aec3d6af8086
+published_url:https://aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss
+title:massive wildfire spreads in portugal amid extreme heat and strong wind
+urlhash:bb03d67ee388b00c6c82812b8a00bfd8b216d808105376580c0a5ca0d2dce7b9
+titlehash:e550cc740d63b4a990a4b9b64137a4956ee9f2afdbb65c2b556a89f2feb38390
+published_url:https://france24.com/en/more-than-400-dead-in-dr-congo-s-ebola-outbreak
+title:more than 400 dead in dr congo s ebola outbreak
+seen_urlhash:a69eb4f011b07f6ddf143e612071aec90816f9f9b1c80988d5c99b4db6907749
+seen_titlehash:942bfa9202e6e1942b63cc015f673e98326149cbe5259ee32f0ad36d3c2d480f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss
+title:thousands forced to evacuate in colorado as wildfire spreads
+seen_urlhash:9a45b343f6fd06be2c4d307a121db01eea0fd885990da8d17fad04c33901944d
+seen_titlehash:a4142ad359cbb9df8b3c4259077b3b4f489a4db60b6fd636787a7abaf5e0c88a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss
+title:nasa launches robotic mission to save telescope falling back to earth
