@@ -1,7 +1,3 @@
-title:gojek co founder turned indonesian education minister jailed for 10 years
-seen_urlhash:426e1e1bb40968c27a4ca482a5dc88a0e3e2f7f30fdca079c096559429eb1de4
-seen_titlehash:dcfb712356a4ba450c87d541d6656326cae3a3ad9211bd8fbce330eee0abadbe
-seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss
 title:tutoring centre roof collapses killing 14 children in pakistan
 seen_urlhash:69bcaff97d952ae7bdcd8c9ffe37df071439c2dc4ffd3b4a95b098ea251ead0a
@@ -4998,3 +4994,7 @@ seen_titlehash:a4142ad359cbb9df8b3c4259077b3b4f489a4db60b6fd636787a7abaf5e0c88a
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss
 title:nasa launches robotic mission to save telescope falling back to earth
+urlhash:04bf465f0e4d0906cb1892e426b1e5101ca5d96958138b11f4af13f335a56dc4
+titlehash:c91248c83f6ec9d7b183e7cbf489ff0e8e527f1f09a3847995e464bdcf55d8c7
+published_url:https://dw.com/ru/президент-латвии-ринкевичс-нато-нужно-готовиться-к-эскалации-с-россией/a-77826689?maca=rus-rss-ru-all-1126-rdf
+title:президент латвии ринкевичс нато нужно готовиться к эскалации с россией
