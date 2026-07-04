@@ -1,26 +1,3 @@
-title:amnesty says rsf committed ethnic cleansing in sudan s el fasher
-urlhash:8e1480fdc311d645823cfd8fcdad72b9f506c29cf9991348b98fe7938b4149ef
-titlehash:b1844603e17fac1a884d645490a4924030813134bbcf5efa26383312b0d143f4
-published_url:https://aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss
-title:how war on iran changed the global energy sector forever
-urlhash:ecd6b585a9bbbe9719764ab67fe9e8c712e84de0a2f26b46774c3cf63aef793d
-titlehash:c4e1174c36eb091e2adb618b3a3437c21c6401f3199858ee402ce666fc5df2f0
-published_url:http://ru.euronews.com/my-europe/2026/07/01/investigatores-accuse-alleged-nord
-title:украинца подозреваемого в диверсии на северных потоках теперь обвиняют в военном преступлении
-urlhash:af7e7fded80982d77226e7866b01dd70fa15fbf3e13dbf84957d4306927e3a7e
-titlehash:532843e426d21c2922cc853814d2248230724285da2b2361a6f726f546979db8
-published_url:https://theguardian.com/australia-news/2026/jul/02/ai-datacentres-australia-competition-for-industrial-land-frieght-logistics-housing-economy
-title:rapid demand for ai datacentres in australia could stoke inflation experts warn and crowd out land for housing
-urlhash:83c294eeb9f1e48f7dfe5ba3fb08fe4fe675cadba022d968d84377cb354f2362
-titlehash:f8638a802133de5074f7f439a424b4ea4e1415868c5949fc65ef8330d70881e1
-published_url:https://aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss
-title:secretive gaza meetings in cyprus as plan to isolate hamas gathers pace
-urlhash:12a1925912f418b41756a6cd247109350d4a44ab9ad2e7994e4e501d131236f6
-titlehash:cdc28150b4817a7db098e998634ecff74c0037af53bcbe621ced3d835130fb41
-published_url:https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592
-title:59 killed in ivory coast floods amid fears number of dead could rise
-urlhash:0cedbbe537e65b2ab86f1ef37dbbf872f6b9e075b1650060e2a5ecdd6bfcce10
-titlehash:fc81421c1b552bc0825c42951f9a01b49ecbb28a56f3c2315750b3355323bc3a
 published_url:https://france24.com/en/middle-east/20260701-why-france-betting-oman-amid-hormuz-crisis-iran
 title:why is france betting on oman amid the hormuz crisis
 urlhash:d1080163e6ec2ceeb3ca3c55fa8b7cd8c1bd69f06cd34c2d6faa3c76a25175f7
@@ -4998,3 +4975,26 @@ seen_titlehash:8ab196c65c72174098be6e48484a90b9f67cc654a11aa9cf3f4b3ebafa695705
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/04/set-azs-v-chite-nachala-prodavat-benzin-bez-ocheredi-uchastnikam-voyny-i-ih-rodstvennikam-nekotorye-zhiteli-regiona-zhdut-vozmozhnosti-zapravitsya-sutkami
 title:сеть азс в чите начала продавать бензин без очереди участникам войны и их родственникам некоторые жители региона ждут возможности заправиться сутками
+urlhash:df8b843921ec3ab1905bd60c07f4eae7e53d25b8647dd6700af1b626d640a35c
+titlehash:f76adcfb6ba7ebce1dc6fd91e9a99504859ccc6104aa4e5fa66fde282d861033
+published_url:https://aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss
+title:turkiye s erdogan says israel must not be able to dynamite us iran deal
+urlhash:942adc5a226258a55cc2d3e3d4dfb2a313885f1685a5ac730d01e98333156eeb
+titlehash:914c74188eeaf2102f3c8d87862b47ab703b469e0115f01c4abf8cb816f25b14
+published_url:https://aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss
+title:trump hints israel s benjamin netanyahu may visit us as early as next week
+seen_urlhash:6c23f60f13f525405f45692a23ae422a37b944c38d290986da180cec5e0d5fac
+seen_titlehash:9466c7746cefe33dbd38bba8e2e21d58f3ef49ca0b1c6a36fa0fc8fbf4ab1872
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260704-tens-of-thousands-rally-in-france-for-a-comprehensive-law-to-fight-sexual-violence
+title:tens of thousands rally in france for a comprehensive law to fight sexual violence
+seen_urlhash:830f0d99248aabd6ffcf5bc213dd62dd9abdd8c0cb9fa1d003029c4ab1ac3d7b
+seen_titlehash:7e5f36481e6a93df7db6353bad402b4b856ae7bb476277382996148ea371c4f5
+seen_reason:processed_not_published
+url:https://dw.com/ru/конституционный-суд-армении-утвердил-результаты-парламентских-выборов/a-77833605?maca=rus-rss-ru-all-1126-rdf
+title:конституционный суд армении утвердил результаты парламентских выборов
+seen_urlhash:1c87d152caa7454e67977c4dde9cb2a5bc553d0597b46f9c8cc5bbd6d8be19f4
+seen_titlehash:250036873b4d66ce6a53113ce5e2b2bc8f6fb9a9c72a08c4ea9c673990ca19a6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/04/diamonds-are-forever-karlovy-vary-film-festival-honours-dustin-hoffman-on-its-60th-anniver
+title:бриллианты навсегда кинофестиваль в карловых варах чествует дастина хоффмана к 60 летию
