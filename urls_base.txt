@@ -1,26 +1,3 @@
-seen_urlhash:4586fd31b46398c40045139c08936c8cc02ec08c5adc224ee2b25de9e80fe5ca
-seen_titlehash:8e17d37e54c832d671a7cbaf58d2e15ac7276b81376f1a06b6723e39b7dea7ff
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html
-title:bombings in greece target governing party members officials say
-seen_urlhash:9c2a08b6dcb55d6fdc333747fa6c4efcb6a7c45132a97dc4094720d14b920b5d
-seen_titlehash:5ad6d6ffba64a34c4ae36a288a11e7aac6be694222f6df061e738518bdedc0c8
-seen_reason:processed_not_published
-url:https://theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest
-title:canada to join eurovision song contest from 2027
-seen_urlhash:2a834880cd31bc55cd9172f9ce9820aa0033cdf9478ed380517056fe02f6d84b
-seen_titlehash:eda11b14cc2c1cb7d9b22cd86baed66eb2675b62fa632d31cbb595d63d508d6c
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/02/arts-degrees-cost-measures-to-lower-university-fees-put-on-hold-australia
-title:arts degrees to cost 50 000 until at least 2028 as measures to lower australian university fees put on hold
-seen_urlhash:0420cd30638d4bba6c4be3a69b1416e937465bbef39992987f5527925ea43a8b
-seen_titlehash:9a2b6c142e5f0cf1f3ddf0a5477958ff78b90307bcf45716eb37dd039b9a93b4
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/02/australia-mortgage-burden-above-1989-levels
-title:australia s mortgage burden is now above 1989 levels when interest rates were 17
-seen_urlhash:31befe87c2374a9a266568f603348bddd7ab14aa41488fd9cf574f77a9733510
-seen_titlehash:0206e86de2818b78e4ef701bcb08053848047715252b9b46cfa2514422835c9d
-seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/1/what-is-a-heat-dome-the-us-heatwave-explained?traffic_source=rss
 title:what is a heat dome the us heatwave explained
 seen_urlhash:185459a7f1e37c6c706ec2a189763bd887d9f94affb7945a1238e7eef8385ff6
@@ -4998,3 +4975,26 @@ seen_titlehash:419a9bf9527092cf34c5cdf224d68fdfd41140c5e24f026fa2af4999acb74a1a
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-чите-участники-войны-в-украине-и-их-семьи-смогут-заправляться-вне-очереди/a-77833753?maca=rus-rss-ru-all-1126-rdf
 title:в чите участники войны в украине и их семьи смогут заправляться вне очереди
+urlhash:84115cf58ed89a902822db6d0ae774d9e915e406d644ae7092a440c06f64577b
+titlehash:9dd9d93f9feb3e1d05224ea1afedab98a760d7c7d10093710facc5508d18dd4a
+published_url:https://nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html
+title:huge crowds mass in tehran for ayatollah s state funeral
+urlhash:3f2cc18646f5beb7763425a5f6b8f73f5f711c530e18a57faf86f7de9671b08d
+titlehash:a1ea0362a0a0e6e4522f9936ce279699434e1a41afc02e0c8d0fa3294577c630
+published_url:https://nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year
+title:denmark s century old fourth of july party looks different this year
+seen_urlhash:d8e9c4db37761e76a9962c00447e8700edbe24982e224a113afb02017d8a7a7c
+seen_titlehash:91a0d6a04f35063a172d506b53cb96d0c6c4c069117a89cfa21d26b00bab9204
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss
+title:eala wins for all the girls with ruffled socks and chubby cheeks
+seen_urlhash:baee3e484aa012e593a02c5ff5e34bbad4dfb29461c764ac1103b69f3e809322
+seen_titlehash:575b07654af043d9be57f4f0fbf6c4e1ca195c9b6191dd60bd9693bac1213321
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss
+title:masses of iranians defy heatwave on second day of khamenei s funeral
+seen_urlhash:08aeeb603cca2bf2170d247f21fc234af7a0a28d04b4e78eb4d5e62f9a379451
+seen_titlehash:65a02bf4d285ea0b7eb9e1c3efe277902525563b4eda28cdf05d0b43f3ed7459
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers
+title:meet the world s new peacemakers
