@@ -1,17 +1,3 @@
-seen_titlehash:787107920b05a295b835850e9bfc31b9e0553e1e24f561c35460bcb4134fc2ad
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss
-title:will not leave is israel killing the us iran mou by staying in lebanon
-seen_urlhash:820b2771e6f4fda7cd6df1249e86bdc90fe5a162e7fa88f9c44192cdc53271db
-seen_titlehash:e34583bd671cc0df8a08075d45d19e4251dd5364a455f03e5a5d6b2aa5bb7654
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/first-syrian-parliament-since-al-assads-ousting-begins-legislative-duties?traffic_source=rss
-title:first syrian parliament since al assad s ousting begins legislative duties
-seen_urlhash:c1639e5247339bb514ad3663d8482b660306b61e2b474f1221951ed9364f9eb5
-seen_titlehash:ed6e5374b9f5076f24329a5a8d7b099d2e87becff4c709b7ca1ac124d6376739
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/indias-bengal-drops-eggs-from-school-lunches-why-thats-stoking-debate?traffic_source=rss
-title:india s bengal drops eggs from school lunches why that s stoking debate
 seen_urlhash:f516ee9c9ac55b84b7c075b9066c2e01d02dfee1389a1039533b69eecd0dedfe
 seen_titlehash:84cdddd34af815b6251d4880e291f1615a8a784c07c1b0ecd36894768268927e
 seen_reason:processed_not_published
@@ -4998,3 +4984,17 @@ seen_titlehash:71c18bd0812e44b8d495ac0fb069f5112bce10131739117e3753c0b6ae60d10a
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss
 title:us influence challenged by changing global order paolo von schirach
+urlhash:9cb6e4d5fa0a35dd4832557fec26879725137649781ae72903f98ecd9d931382
+titlehash:3ed67cf506b210ceeed1099fa55d579c5566098795c275e4887db5e38cee8122
+published_url:https://bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss
+title:funeral of iran s former supreme leader intensely political moment
+seen_urlhash:f2bc94af210bada8b7d80608fdc2bb2b0caf25bbf6fa99ec58fe94627a2cb683
+seen_titlehash:8e7d0dd15033c8733974866468a6355e27549e1860819bfd516b8d3bd2f2f634
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/05/woman-arrested-after-body-of-four-year-old-boy-found-wyong-central-coast-ntwnfb
+title:woman arrested after body of four year old boy found in central coast home
+seen_urlhash:b437efd966f0365666bf86595d1d8dfdf07aabd687ebbf495825e4336555bf51
+seen_titlehash:74cb0860e974208600c30ef4ee5233d6c03bbfa229fdbee7085c80f1666fab4d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb
+title:australia news live dan tehan says liberals not entertaining idea of coalition with one nation first east coast bird flu case confirmed
