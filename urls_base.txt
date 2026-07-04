@@ -1,79 +1,4 @@
 seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/algeria-heads-to-legislative-polls-amid-record-low-turnout-fear?traffic_source=rss
-title:algeria heads to legislative polls amid record low turnout fear
-seen_urlhash:899c0823e070aebf734c05e7bc17040590414636cc2f757e5702abd2c109dcb5
-seen_titlehash:54440c20cee755d28e493e5835979757f80955ca5df2e5e960c708bed98f31d7
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses?traffic_source=rss
-title:us supreme court upholds birthright citizenship who wins who loses
-seen_urlhash:793b2d9c2b5fd24d15c51035965f386f663d3284af92cd26a695da816850e2c3
-seen_titlehash:7f05daa06103eec871615d0ba89abb113e605e20bb00226b08b0ca8d201d55c3
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss
-title:at least 6 killed in fire at apartment block in belgium s antwerp
-seen_urlhash:a15cdc056b7298c2dff9b15655fd227a74a7777450d2298bd59e79e69228026a
-seen_titlehash:af896916c31a72b5a425d168712cad28b0bb0d3a60ea64037bb8678f3a634433
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/scams-cost-us-victims-68bn-in-2025-harm-to-mental-health-poll-finds?traffic_source=rss
-title:nearly three in four us scam victims report mental health harm poll finds
-seen_urlhash:2609c2d58bd10e9e14f68fc866cd834fb1af64c2dbab405b16f5e6576ccd8bd3
-seen_titlehash:83883d1f81ed8bc25aa36c21da715c76e3ec3d06b5cd9bb513de54b3bdc757ff
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/two-uk-police-officers-face-misconduct-probe-in-henry-nowak-murder-case?traffic_source=rss
-title:two uk police officers face misconduct probe in henry nowak murder case
-seen_urlhash:50c2e97599d08024763c79ba47021c5c824ee91b7b73601750d2c6d455de2bb5
-seen_titlehash:ff118ad7c40fdbb297a0b0ed6b56e1b2fc820ba52b73ba0fbb60deacb1ceceab
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260701-spain-records-more-than-1-000-excess-deaths-due-to-june-heatwave
-title:spain records more than 1 000 excess deaths due to june heatwave
-seen_urlhash:52524641d5eac6762ef8300e5a2820fd575e27f0cc8f62b045d819aaaede6793
-seen_titlehash:104b70ee5cc4af241caafecd83c313fef04f8dfc5997d649c0683aa4c0ccc9e0
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/down-to-earth/20260701-fixing-fast-fashion-france-will-pay-you-to-repair-your-clothes
-title:fixing fast fashion france will pay you to repair your clothes
-seen_urlhash:4a23b3a71676e2635d0b8e4da65cd0c944f4951e848a058971b38030d0ef7fa5
-seen_titlehash:fc12201a26c0389b4f0ee69cf054c27100e0279482a94e06230385820a1846ef
-seen_reason:processed_not_published
-url:https://france24.com/en/the-world-s-top-cities-to-live-in-according-to-monocle-magazine
-title:the world s top cities to live in according to monocle magazine
-seen_urlhash:7f7fe529b9445be16338e9d3411e3f72a087f9dd1fd291b7c57d31efcd04d131
-seen_titlehash:bc266adc5113fba034dfe1ada73172a4ec03e5cea66dbe67e1f658f83d01c017
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260701-climate-change-hitting-the-world-with-a-vengeance-higher-temperatures-for-longer-periods-of-time
-title:climate change hitting the world with a vengeance higher temperatures for longer periods of time
-seen_urlhash:8ac2ed6daf7aab26d89aba3e5e8f36b6e1f37314c9b2dd01a09f258b131dd0ba
-seen_titlehash:a7aa81d49862dbfa5169a0aa594e93a938124e3cd1a7bc3daae51daabe6587dd
-seen_reason:processed_not_published
-url:https://france24.com/en/how-has-us-president-donald-trump-made-over-1-billion-in-2025
-title:how has us president donald trump made over 1 billion in 2025
-seen_urlhash:a4e41eec089ccf4ccf69fbae3be0a5047977708314c2992b4e4d4448cabd0292
-seen_titlehash:986cc428c6dca5e2fd0f614285d5386fa94d260eeb2315fae5135516fa5df796
-seen_reason:processed_not_published
-url:https://france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election
-title:myriad of french presidential candidates to face off in late april election
-seen_urlhash:ae06b27c7ce8c14b1834ef3ed3ad6f9388d85c23a27070770e9f244cf66078bc
-seen_titlehash:fd0123172b83d320402423767c23e32f8084d3b843ef544b79b7667f858eb527
-seen_reason:processed_not_published
-url:https://france24.com/en/what-is-the-el-nino-phenomenon
-title:what is the el nino phenomenon
-seen_urlhash:a106f0757a2d3149ad8e9f590dbc5ef59f0584776ae0705d2c2e6e48dcb7f45f
-seen_titlehash:aa9e62cc0523094e29f938ff0e0ddde19604f8f417cb7e75508b0a9b99c3d9f6
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260701-there-will-have-to-be-a-reckoning-venezuela-s-natural-disaster-meets-a-collapsing-infrastructure
-title:there will have to be a reckoning venezuela s natural disaster meets a collapsing infrastructure
-seen_urlhash:5b136f12deb09c9eefdd7b38b1e7141ed01b86fddcd42cce8e76b8e5bcaecc70
-seen_titlehash:1c47470da65e61be2080c715dc557e7d266dd7c2547699dfeca6711b82d9f3a0
-seen_reason:processed_not_published
-url:https://dw.com/ru/александр-лукашенко-помиловал-еще-28-политзаключенных/a-77788378?maca=rus-rss-ru-all-1126-rdf
-title:александр лукашенко помиловал еще 28 политзаключенных
-seen_urlhash:d30d567b77013b7e6bb93c3f79c24a97560047b4aa1d4c088c6c7a3e6de0f1f1
-seen_titlehash:672c6d4fe99a470998b4841d5355811acd99890cb685b7c132feecfeaced27ac
-seen_reason:processed_not_published
-url:https://dw.com/ru/когда-поезда-в-фрг-перестанут-опаздывать-deutsche-bahn-пока-в-кризисе/a-77784638?maca=rus-rss-ru-all-1126-rdf
-title:когда поезда в фрг перестанут опаздывать deutsche bahn пока в кризисе
-seen_urlhash:68d7ecf3be036f65fe2839a4963c9bbb321cb490790c5fc05c301b861bec3d44
-seen_titlehash:7830e1f6bef85556c159572eec1d73fc39212ad874f6150bae799aca59bd2d4a
-seen_reason:processed_not_published
 url:https://dw.com/ru/лена-горелик-почему-женщинам-нельзя-сомневаться-в-материнстве/a-77745531?maca=rus-rss-ru-all-1126-rdf
 title:лена горелик почему женщинам нельзя сомневаться в материнстве
 seen_urlhash:b1b2b2db07935b6b8dd0e694afb3a47c88c854ebeb38145be86c431bf4cb6813
@@ -4998,3 +4923,78 @@ seen_titlehash:66a8141e65d04510b56ebe2cfe555076d4713359f1a8b3d708e5235b081f90e5
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/04/zelenskiy-nazval-lozhyu-zayavleniya-rf-o-polnom-zahvate-konstantinovki-i-predlozhil-putinu-vstretitsya-v-etom-gorode
 title:зеленский назвал ложью заявления рф о полном захвате константиновки и предложил путину встретиться в этом городе
+urlhash:1d52d8458ffd415400083ec2b7885c193f990349028150bcd8474d9f093747b8
+titlehash:d0bfd5e784663f4af06b345251039fe37073c02772c24149b5646e9e58a51595
+published_url:https://aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss
+title:brain drain leaves yemen s health sector in tatters and millions helpless
+urlhash:81edb83081d3ada98aee7dab7e5cfe091dbffac4b5df46e6c40500ad90b59e30
+titlehash:272768b1b656a1e04f7cefa5d365279d57f2bd9783df8cc206569e9c600b68bf
+published_url:https://france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali
+title:new wave of coordinated rebel attacks hits mali
+urlhash:e01be8ecd97a537c4fdcb33856496b60e771ed64339c934a3e7016b3dc46002d
+titlehash:39845c3fc31640c468060368d3d1ded05bccd46f2338d6c451d7884c448cfbc8
+published_url:https://france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns
+title:mali government says rebels attacking northern towns
+urlhash:e2284bbeb9b6af54ff85e20869d04066cd36f1c679ff1d9d3465c29b207cb974
+titlehash:add18f66e1ed65cb1aebd562aa06a761e37d50201b18a493d2f874d5acf8a20d
+published_url:https://france24.com/en/iran-holds-funeral-for-ali-khamenei-attendees-hardline-factions-of-society-specialist-says
+title:iran holds funeral for ali khamenei attendees hardline factions of society specialist says
+urlhash:84b45cd2ff464609498e21428bd75c9a6949caac067c32b70b2a3015a290d8d5
+titlehash:339451e8a0ae3771a86cfd132e3b85f5bd40c0cc387e4aa23ca7391fe4a78c85
+published_url:https://meduza.io/news/2026/07/04/ekstremalnaya-zhara-sorvala-prazdnovanie-250-letiya-ssha-v-neskolkih-shtatah-v-nyu-yorke-bez-sveta-ostalis-neskolko-tysyach-chelovek
+title:экстремальная жара сорвала празднование 250 летия сша в нескольких штатах в нью йорке без света остались несколько тысяч человек
+seen_urlhash:08acc36c4b5f000ca361d270728bf6c9895d20cd4f9054b88b75b7acb24cee26
+seen_titlehash:dc0a9b3b2dda2b36899952d28b644dd17cd074003b7b7efae34af90b6b24b7e5
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss
+title:injury ends williams wimbledon comeback
+seen_urlhash:91ba092a5b0800ab72b134eaf98bda6a0cbeb80c445ee62c9686115524a3f305
+seen_titlehash:c5bb74b0ca75d8449812edb58e4af14d920a9dcc5d0aa413fc76dece3e2802cf
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks
+title:the funeral comes amid fraught sluggish u s iran peace talks
+seen_urlhash:16b640782152240e910d2ecfa523137d902fb38123ab3b64c5061ccb6f2f8f23
+seen_titlehash:caca4efc8b19272a207ca76d1f5c4ac334740540fb1695abafd37bc7b0e7a878
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html
+title:in britain july 4 is mostly just a saturday
+seen_urlhash:96d8750d3d8ad1640fffbd5e24e58f5ac1d446940808f625b58511a19a1cd079
+seen_titlehash:9fca865fb7f20e8f06f802f28c967635537bc496bf413aef27269dd02e890f6f
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss
+title:why closure matters at the end of life
+seen_urlhash:bd8358ebc4e901f0fa90c1bf63eb24d2cd6abd51e213fb0b7652fc10652a6fae
+seen_titlehash:e6bc376d9af70f26cdee73c16cee6795654d960e3fb40d8d560b8171b4e720a7
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260704-divided-celebrates-250th-birthday-heatwave-bears-down-east-coast
+title:a divided us celebrates 250th birthday as heatwave bears down on east coast
+seen_urlhash:99be0961a49bb3cdca57fd2611fbcba25f3a325466ea8ed703f8ed0f76ff8fd4
+seen_titlehash:caf20d81ba691d47ae0819697bd55dfaf0d5a2a4e96cbc86a89f3d8156432122
+seen_reason:processed_not_published
+url:https://france24.com/en/pop-star-taylor-swift-marries-travis-kelce-at-madison-square-garden
+title:pop star taylor swift marries travis kelce at madison square garden
+seen_urlhash:35f483af149cfa0baeb4bab012b446e7aa998eb15b04ec5ef9c6e3ef11bddb91
+seen_titlehash:a169eb6ee45575646b2e4770af06d7fcbd4a5f7d68c9d0dac45471c3172abcfb
+seen_reason:processed_not_published
+url:https://dw.com/ru/вайдель-объявила-адг-новой-народной-партией-и-политическим-лидером/a-77832672?maca=rus-rss-ru-all-1126-rdf
+title:вайдель объявила адг новой народной партией и политическим лидером
+seen_urlhash:69d0e36e2ea8246b50dc731aa9a8e78721682b8536f325f723a6030728748893
+seen_titlehash:23765be81b60cfd203930db55195c9565d6cdba1263973999f0a86af2e851b0a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-новосибирской-области-не-работает-значительная-часть-азс/a-77832206?maca=rus-rss-ru-all-1126-rdf
+title:в новосибирской области не работает значительная часть азс
+seen_urlhash:e19aa8e0ed73954fd4f810b3bec57009605b5b2727ff5d04e9b9d052c3947010
+seen_titlehash:ca8288a5851fb8d2d639f27ba00277a7a76d51932092dbf7e00feef575ba3755
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/04/slovakia-referendum-salary-high-posts
+title:в словакии проходит референдум о зарплатах высших госчиновников
+seen_urlhash:73c8bbc8cb9fd98314940db33b9747cf46030f8fe9fddc5ace271d027f561cf4
+seen_titlehash:2ac8223771b8fd1b747653b7784354989462ac6532f2b93a5e01bf82dbf18a55
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/04/ukraine-russia-drones-petrol-petersbourg
+title:зеленский украина наносит удары по нефтяной инфраструктуре под петербургом
+seen_urlhash:c9457de3be9c479af2f94e9b09669b6314378847b1791abd73b49a46c0c16988
+seen_titlehash:615d5cc88ed27bc39e03b6f44f8c24136c957b43e8e01c1a8fc5fc1d01ffe8e5
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/04/spisok-na-leto-10-knig-kotorye-mozhno-vzyat-s-soboy-v-otpusk
+title:список на лето 10 книг которые можно взять с собой в отпуск в подборке художественная литература полегче про японскую электричку или про собачку и нон фикшен посложнее про священную римскую империю
