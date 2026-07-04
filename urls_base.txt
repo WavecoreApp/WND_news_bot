@@ -1,16 +1,3 @@
-url:https://aljazeera.com/news/2026/7/1/what-is-a-heat-dome-the-us-heatwave-explained?traffic_source=rss
-title:what is a heat dome the us heatwave explained
-seen_urlhash:185459a7f1e37c6c706ec2a189763bd887d9f94affb7945a1238e7eef8385ff6
-seen_titlehash:d8b1261fcc60190ab2efd3853286ffdb23509cbcf359a88100b04b601c36532e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/trump-takes-first-flight-on-new-qatar-gifted-air-force-one?traffic_source=rss
-title:trump takes first flight on new qatar gifted air force one
-seen_urlhash:cacd7a850c128918450a3244c21c8a2bac729a7dd2f08b54ba9321a2f992ba81
-seen_titlehash:d07e16284028eb675421e49c949e84bf7c869cfe919c31f1358965310a05dac7
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss
-title:is ukraine s campaign of targeting russian refineries working
-seen_urlhash:c9b9af2fdf89da43015c831ff1e7943eae2433acf58df45f68b768771764cb8b
 seen_titlehash:787107920b05a295b835850e9bfc31b9e0553e1e24f561c35460bcb4134fc2ad
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss
@@ -4998,3 +4985,16 @@ seen_titlehash:65a02bf4d285ea0b7eb9e1c3efe277902525563b4eda28cdf05d0b43f3ed7459
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers
 title:meet the world s new peacemakers
+urlhash:58eac16be85254c72abf9ec8a2e60832e442731ebcb8fc40c1c75c2304beb8ae
+titlehash:34a0915335586bc865c4bb9b0db7c1e1e2ee43a451fb1d83c2458e59b98570e5
+published_url:https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510
+title:major ukrainian drone attack on russia strikes st petersburg oil terminal
+urlhash:581ede77b6ae36604c7d309a47006419e7e6bb3cfe498a8ef5e4c6e5619980f6
+titlehash:38849c398a9162c96078c7de3b126a9daa33e286b7c4b7883fa7523988c055b2
+published_url:https://dw.com/ru/трамп-провел-звонки-с-зеленским-и-путиным-в-день-независимости-сша/a-77834382?maca=rus-rss-ru-all-1126-rdf
+title:трамп провел звонки с зеленским и путиным в день независимости сша
+seen_urlhash:2a8bc2de2250f196a790659848b9dce3bacad46931052bd96ff386b83c83e57a
+seen_titlehash:71c18bd0812e44b8d495ac0fb069f5112bce10131739117e3753c0b6ae60d10a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss
+title:us influence challenged by changing global order paolo von schirach
