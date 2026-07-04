@@ -1,42 +1,3 @@
-url:https://aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss
-title:tutoring centre roof collapses killing 14 children in pakistan
-seen_urlhash:69bcaff97d952ae7bdcd8c9ffe37df071439c2dc4ffd3b4a95b098ea251ead0a
-seen_titlehash:90a817d5c68b0c2398d13e8a5f7fe52420932fe6c1ff6d3341fff37963776e7a
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss
-title:supreme court s divided ruling on birthright citizenship may be revisited
-seen_urlhash:3544327fd90b901bc2cf8b2bb7c985f574a7e91f4bec8d77e4997eb19c2635d0
-seen_titlehash:288199e81da67aef0a89dcd3d8d61355d29d7d45998ec01b6000ddc05798814a
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss
-title:nasa astronauts spacewalk to fix robotic arm
-seen_urlhash:92fedf429a44b151fd5e3aaabb41aff5d63cdc6c09d3752e78e6f99b13a89d00
-seen_titlehash:01447193d750dee5308352e9e0828d2473d0cb71106809d3edcf24424fe30fcb
-seen_reason:processed_not_published
-url:https://news.sky.com/story/why-lebanon-is-key-to-understanding-the-middle-east-13559371
-title:why lebanon is key to understanding the middle east
-seen_urlhash:9b8ebf05448a0fab9cf012d59c5dc12f6b79ecaae9f49761d02e71a54c4e3201
-seen_titlehash:5fb409d46c0f729b3a1c4072638f5a508423387a5981950d0fe400716a478e75
-seen_reason:processed_not_published
-url:https://dw.com/ru/трамп-за-год-заработал-на-криптовалюте-1-2-млрд-долларов/a-77779978?maca=rus-rss-ru-all-1126-rdf
-title:трамп за год заработал на криптовалюте 1 2 млрд долларов
-seen_urlhash:4f666c87d91fdca04c707a5a9c462146adb344a68408797ad112ba13682ebbc1
-seen_titlehash:2b05b1870020ecb581c0591ee12bc3554ffc2d697b7938ada3a7c3e2176d4ef0
-seen_reason:processed_not_published
-url:https://dw.com/ru/экстремальная-жара-почему-в-германии-так-мало-кондиционеров/a-77772836?maca=rus-rss-ru-all-1126-rdf
-title:экстремальная жара почему в германии так мало кондиционеров
-seen_urlhash:3a039d5e5e0d25e48390e9aac8c402cd9625a5cdc9028e0747886d4d81ec2426
-seen_titlehash:3d548e1e5d0e3e3a379abdcf4d76057f484b42c06308080fc835d0c40ebfa6f9
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/07/01/mexico-fans-celebrate-world-cup-win-over-ecuador
-title:болельщики мексики празднуют победу над эквадором на чм
-seen_urlhash:ab9b9b0b9b077fb2dab3af72b7261bdffeca0af44a9138acc4c6a2a4b1b5b594
-seen_titlehash:a9ec4a168b4b507f3b2325d1d6935bf596180c865a2ccc6bc1e2236a2fae6a94
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/01/immediately-was-enchanted-viral-puerto-rico-song-gets-its-own-music-video-shot-on-island
-title:сразу влюбился вирусный хит о пуэрто рико получил клип снятый на острове
-seen_urlhash:ed37ec855cedf0b51381edfffd79a271f7a9e0b98c7f4a78d7843f04a53593b0
-seen_titlehash:e68ea11a74dc9b0394c699cbd673e2022dbce3207360af1e761b011efcf8cce0
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/01/there-is-a-new-species-of-venomous-spider-in-portugal
 title:в португалии нашли новый вид ядовитого паука
@@ -4998,3 +4959,42 @@ urlhash:04bf465f0e4d0906cb1892e426b1e5101ca5d96958138b11f4af13f335a56dc4
 titlehash:c91248c83f6ec9d7b183e7cbf489ff0e8e527f1f09a3847995e464bdcf55d8c7
 published_url:https://dw.com/ru/президент-латвии-ринкевичс-нато-нужно-готовиться-к-эскалации-с-россией/a-77826689?maca=rus-rss-ru-all-1126-rdf
 title:президент латвии ринкевичс нато нужно готовиться к эскалации с россией
+urlhash:b85d822f4efc294603760a56660f3f863a6ee946cfec736cb35680e6f6ca846b
+titlehash:49fb5f257c4c26fcced76b56da90865fe882929fffcbbc11b97ee3a661588650
+published_url:https://nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html
+title:putin visits battlefield and vows to take more of ukraine
+urlhash:f035f554a8b7ed42416e88bbfa40660a24ff7dc020a817b58d480badd83d4c1b
+titlehash:dad4516306e078832cc266232772cda711dd414734d80464eaa357e0f8ae8d1b
+published_url:https://dw.com/ru/вс-рф-ударили-авиабомбами-и-бпла-по-центру-сум-есть-погибшие/a-77827476?maca=rus-rss-ru-all-1126-rdf
+title:вс рф ударили авиабомбами и бпла по центру сум есть погибшие
+urlhash:c27114395072ea7dae24888601c3a08e04295576b5310e01eb6170cb38dcf497
+titlehash:30fa40f940da625dd8b6db33b7faf974c7fe53481699ac1c05d7929b0b62f38f
+published_url:https://aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss
+title:iran war live millions expected in tehran for funeral of ali khamenei
+urlhash:e8f7fc8ac2baa54a6deb7e48a9a68acdb056b1967b800d463875a60ee50b9fb0
+titlehash:43d70bcb4cfcb420259b4f2324c66ece9562d3788062e147aa61cebe9d1cbd8d
+published_url:https://aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss
+title:quakes reduce venezuela tourist town to rubble leaving economy in tatters
+urlhash:588a757f0e8b1da93493dbc715d05a433043cec5b35358bb34b42a52560de8a8
+titlehash:cf77674570ada9c8a67969bd456e6f893059709b71ce7fbdae9d15d6ee6f3c01
+published_url:https://dw.com/ru/фигуранты-дела-о-покушении-на-симоньян-получили-до-20-лет-тюрьмы/a-77827948?maca=rus-rss-ru-all-1126-rdf
+title:фигуранты дела о покушении на симоньян получили до 20 лет тюрьмы
+urlhash:c133ae63b57731107b8dc3de520e8dae0987b81d2c974e53651eec48d5deffe4
+titlehash:725e3a3544f0aac03ecdf03a7e812717e9f3e9aab4fc9c548ad527783ed518e5
+published_url:https://ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c
+title:trump to kick off independence celebrations as heatwave grips us
+seen_urlhash:a34d36b8617259c43839b560d4b286f45dd1bb9d60f2894cfbf6519240d6d6aa
+seen_titlehash:c683921ca4e1d26072f7f70b79f9f22c39deb79481a043bf272564a015c5f050
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb
+title:third teenager charged after 15 year old melbourne boy allegedly left to die from stab wounds
+seen_urlhash:19379fb5a0c6f2de251ff7024b0ca3e2fee887511047d855d7360821d766b896
+seen_titlehash:08334dfc5d186f19326dd275f22290d44441e33e113432231b78f1eeb292acbe
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss
+title:ronaldo sends message to venezuelan earthquake survivor
+seen_urlhash:0b12946b1b7194c0239a5539b067f3a039eb7a3455eef847b8141c4f5e8bcc0c
+seen_titlehash:4d66c1b7021f08bcd11e94a1019fd7d0f46c43e7d60ccb7466d90ec4b4f31327
+seen_reason:processed_not_published
+url:https://dw.com/ru/юрген-клопп-подтвердил-готовность-занять-пост-главного-тренера-сборной-фрг-по-футболу/a-77826697?maca=rus-rss-ru-all-1126-rdf
+title:юрген клопп подтвердил готовность занять пост главного тренера сборной фрг по футболу
