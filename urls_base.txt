@@ -1,39 +1,3 @@
-seen_urlhash:f516ee9c9ac55b84b7c075b9066c2e01d02dfee1389a1039533b69eecd0dedfe
-seen_titlehash:84cdddd34af815b6251d4880e291f1615a8a784c07c1b0ecd36894768268927e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss
-title:israeli forces kill palestinian goalkeeper in gaza
-seen_urlhash:1f22ab53ab9d1e0eef603155d34920ebeed64997658dc0a5358fb8577ef73ec9
-seen_titlehash:6fcf0f91c9bbd412ad04d0b166dc048fb1c1b67f83bef0116ee31e6dbb8501a2
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/7/1/sabalenka-overcomes-kessler-at-wimbledon-sets-up-ostapenko-clash?traffic_source=rss
-title:sabalenka overcomes kessler at wimbledon sets up ostapenko clash
-seen_urlhash:2bec967c89a8a146d9d241c375b3eea1b8e27d4185e9e9a380414d54f7366f37
-seen_titlehash:b8009e369763e63b1e7001703de877eb750765772998b9723d87f28b318ad8e9
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/after-afghanistan-fires-drones-into-pakistan-whats-next?traffic_source=rss
-title:after afghanistan fires drones into pakistan what s next
-seen_urlhash:8bd9d1fb62df3a13934c4272b7b31d551fbabff9de827830cdd4eaf0a744f318
-seen_titlehash:bf67109c33dfd8b3ee6d0dcdaab7fd826cdcca7812371d9da00c37777705ed9b
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/counting-the-cost/2026/7/1/caught-between-the-us-and-china-can-europe-remain-competitive?traffic_source=rss
-title:caught between the us and china can europe remain competitive
-seen_urlhash:57d9cca2014c694b32be3717a1e1d3e5c05e1eff45d36c1ab931a125db848cd2
-seen_titlehash:25b1166c774e4fc025d110a223d727f049e1ffc7590deebe7bed1991ccaeef38
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/colorado-primary-election-results-melat-kiros-wins-key-takeaways?traffic_source=rss
-title:colorado primary election results melat kiros wins key takeaways
-seen_urlhash:538c07f65af72368c872eeccd7e3bf601b518d8f57d13dedd295b0b8fc0c3687
-seen_titlehash:b9153238a69daa03f7bbbf2eb29758be00f37da30a2bce0f06cdb2f7d4cb1b58
-seen_reason:processed_not_published
-url:https://news.sky.com/story/man-guilty-of-attempting-to-murder-children-in-dublin-stabbing-13558883
-title:man guilty of attempting to murder children in stabbings that sparked dublin riots
-seen_urlhash:e5b34ab9b473d00208541b4e59eb959370ac950bc5fb7a75d377487fa96d8157
-seen_titlehash:f5dabe7838a314169456b585c368d6ac71ccb5e7e54524ab2cb9870b4c6d4ab2
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide
-title:pm pashinyan warned armenia does not wish to engage with weaponization of the 1915 genocide
-seen_urlhash:5e5b241e57f54c96cc4563928cacb44fc16bedfd2e4ef1b15d68e2001358cdca
 seen_titlehash:c6d3b5fd5152c0335f9f5f7eb1b2b42946b4337e154e7d305ed4bc9fedafce4f
 seen_reason:processed_not_published
 url:https://france24.com/en/tv-shows/arts24/20260701-robin-hood-supergirl-the-rock-the-superheroes-are-back-in-cinema
@@ -4998,3 +4962,39 @@ seen_titlehash:74cb0860e974208600c30ef4ee5233d6c03bbfa229fdbee7085c80f1666fab4d
 seen_reason:processed_not_published
 url:https://theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb
 title:australia news live dan tehan says liberals not entertaining idea of coalition with one nation first east coast bird flu case confirmed
+urlhash:1d4fd7fedab45731aeab807d51af58566fa83cbf3e7a208b851a895d9656d42d
+titlehash:5b99148bce35ca0620109e0b5024af4b56b88e4943408a5e669444615d13903b
+published_url:https://aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss
+title:iran war live huge crowds mourn khamenei trump vows to hold fire
+urlhash:a5c5e7105157fa9e58ec4fa2a70ec34b27b73c70339e17a2836e726380c7bff2
+titlehash:853dafba274a1ce942f3fe41f80e9e6d81199985a7b9cb9f7fa163fa0d3b5490
+published_url:https://theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china
+title:founder of prominent underground church released from prison in china
+urlhash:ffa05936a7db35f05a26112f65ac79134a6701688e577ad9dd3ae7c762b027be
+titlehash:4d25c4228a4c2e970ca48e0890440ce34a18c8ff71eaefc5326a823992886000
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss
+title:white nationalists march on washington dc ahead of freedom 250 celebrations
+urlhash:5f0a0bd01a506b0fc60005f4a701543ffa242aa4a64615d1a421e20e78f7036e
+titlehash:a57fd9e2557bb9feefcb1be87e760c0b1bfc4856c31e08d217d0b3d33cc60c7a
+published_url:https://dw.com/ru/опрос-45-немцев-против-запрета-альтернативы-для-германии/a-77834894?maca=rus-rss-ru-all-1126-rdf
+title:опрос 45 немцев против запрета альтернативы для германии
+seen_urlhash:eb26abf51b3d52086da3352107e4fe03c106e63389840b43a00a28ef086d95bc
+seen_titlehash:51ad6ef58969991b15e02ad705f58df265597eb98368eed44663f0144971d9f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss
+title:this immigrant served in the us military now he faces deportation
+seen_urlhash:139394cbf5c28c6f80883358e7fb57e0906758c8f85b00ea4132606e44615631
+seen_titlehash:bf760c5933ffaf2b1294c94292291dc44cee27e62341508a9e13c61b1921e059
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss
+title:white nationalists march in washington dc area during july 4 festivities
+seen_urlhash:a5e1e7c9fa5f474a73af70e0f4fc1c636d64ca6e8af6fb522f48215d9b8a7771
+seen_titlehash:ea420f1a05accf871d619145e36ae69ea79fde5a7e8ab70ace7edb59de13435b
+seen_reason:processed_not_published
+url:https://dw.com/ru/из-за-грозы-в-вашингтоне-остановлены-мероприятия-ко-дню-независимости-сша/a-77834949?maca=rus-rss-ru-all-1126-rdf
+title:из за грозы в вашингтоне остановлены мероприятия ко дню независимости сша
+seen_urlhash:338df130e1541f585e505ae536cb4d6e62560ab58a4cd8c66b05c7c2ac0fbf80
+seen_titlehash:7ded80aa7a8ab912219da795dc8097df58ef16706fa842fc7d92232a7f44d25c
+seen_reason:processed_not_published
+url:https://ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30
+title:storms force evacuation of july 4 celebrations in washington
