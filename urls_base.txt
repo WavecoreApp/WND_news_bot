@@ -1,70 +1,3 @@
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/02/pigeons-frogs-and-beetles-gather-in-milan-city-hall-to-debate-the-rights-of-urban-animals
-title:голуби лягушки и жуки собираются в мэрии милана обсудить права городских животных
-seen_urlhash:b9b046fa9e4076573d148f14b763c1cdd60d257e9295bd2af1e492426d09ba67
-seen_titlehash:a2f78845854e66f42b8491f9f873e8034c0134e7089b090ee2d1b8d26e39646d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/02/babies-should-not-use-screens-at-all-in-the-first-two-years-a-major-review-finds
-title:крупное исследование младенцам нельзя пользоваться экранами в первые два года жизни
-seen_urlhash:1c67b953b7aee79f10d73ea15cbbe0bce8ed87db6b4a235803e9a1c9b3f5cbc1
-seen_titlehash:88803e2fb115edc075ebb5a4a94cc70e7161dbe3e4d82bfd50452e2d32ce6efe
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/02/travelling-to-croatia-here-are-the-destinations-to-visit-beyond-the-tourism-hotspots
-title:едете в хорватию лучшие места вдали от туристических толп
-seen_urlhash:daac60844dee9c7ef9613dbb0bfdc3473e87999c99c888f7cb7a2deba007bd62
-seen_titlehash:304adbd95c87e37398e1e8ea62c0d3312eb28a754340ff34f7921dd115d38f8f
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/02/rossiya-atakovala-kiev-dronami-i-raketami-pogibli-ne-menee-9-chelovek-desyatki-postradali
-title:россия атаковала киев дронами и ракетами погибли не менее 13 человек десятки пострадали
-seen_urlhash:2b6d323d0b96dc6e64e0f00601530e8e2fb5da61e6e6041f6a2c6127f3b28815
-seen_titlehash:470a89a6402d22534a24eded393473c993d42c1fafa589bd87e6f1a2a4644662
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/02/is-it-elitist-to-talk-about-slow-tourism-the-new-trend-in-the-sector
-title:slow tourism элитарная новая мода в туризме
-seen_urlhash:e9c0e9e7339732937f4c12864ffe9f6602b473320b43c4baff6a75e45ac8589b
-seen_titlehash:b8f9495c2263db9f484786d541f4cc961e048284badc28acbb0de86f4752d2d0
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/02/wildberries-povysit-komissiyu-dlya-prodavtsov-iz-za-toplivnogo-krizisa
-title:wildberries повысит комиссию для продавцов из за топливного кризиса
-seen_urlhash:6463a8bb4ed461631f7654f0198caa958c71528ee8c6ad60a330f0aa6c6c772e
-seen_titlehash:827fc188be91e47a20d9c1372843454facb24248e2629e135ea468e6e252a26f
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/02/minenergo-predupredilo-chto-chaty-gde-voditeli-ischut-benzin-mogut-predstavlyat-ugrozu-svyazannuyu-s-nezakonnym-sborom-personalnyh-dannyh
-title:минэнерго предупредило что чаты где водители ищут бензин могут представлять угрозу связанную с незаконным сбором персональных данных
-seen_urlhash:b0eaa05ed7ce705e4e6aae0d43bc3ac3c4f168eb358102e2ecbf51fc0e05cdf7
-seen_titlehash:d2bc4305275df97415e4eccadfca7d1e2f9afa01768b15f91d0e74f40ad15418
-seen_reason:processed_not_published
-url:https://meduza.io/cards/vse-bolshe-stran-uvelichivayut-sroki-vydachi-shengenskih-viz-rossiyanam
-title:все больше стран увеличивают сроки выдачи шенгенских виз россиянам но падает ли шанс получить визу и ждать ли новых ограничений
-seen_urlhash:08a909ca148a5abe095fc4876b947d06e9321b711a725c7bd9405fa251550669
-seen_titlehash:32e422f61fa37383e952c55064e888fdd7fc3f028a93392e005025ead71d1361
-seen_reason:processed_not_published
-url:https://ft.com/content/2bb1e60b-92d9-42d1-90b4-e412272b1296
-title:woah oh we re halfway there
-seen_urlhash:4001efddd0e45161ee59edabf8d9f90f9fd633e9467fbcc40dd6b9c71ffa050b
-seen_titlehash:fa3b6a2687455805a0c342a40ea2a3367babfa85c22c5d959a6bcf998be7c8db
-seen_reason:processed_not_published
-url:https://ft.com/content/a5ebd692-f63c-437f-a561-b45ceb178a3f
-title:chinese energy stock triples in asia s biggest ipo this year
-seen_urlhash:750cc1eba35217fb9f8b22689d9147c394260786941ffc918ed086f9ca6bca57
-seen_titlehash:bd2eacc0eefb00a4d45de3ca0f75bfd4d6c549170ceb62aace12989af7b0d812
-seen_reason:processed_not_published
-url:https://ft.com/content/8f5cc51e-95c6-4c44-ac76-6ce57b1370dc
-title:what are the rules on insider betting really
-seen_urlhash:997e63157e397b8fd1fab165be6f871941439f51840e11f7d3e3cdb63a1cfae0
-seen_titlehash:c9a98927caeca7dc725a28ed74c6697e859b284a754042a638acead925916293
-seen_reason:processed_not_published
-url:https://ft.com/content/0a718201-cee1-4447-8fb5-6835f1441a96
-title:firstft openai proposes us government stake
-seen_urlhash:2ca9b4c45bdf033d23656fa8be1504d6670ce70811636edcaefb3fa89a29b139
-seen_titlehash:ea72333f97329535d5fbcd31b42e5135cade7443a51fc27f615a430d3a9c9ed5
-seen_reason:processed_not_published
-url:https://ft.com/content/5f2fce3c-7ae7-48e6-9d95-5ad7f49328df
-title:andy burnham s team looks to revamp uk s ai strategy
-seen_urlhash:ec9cdc79da4e3f6b42ab805ef740b9fd806a59fb3ce27df7d81fc625ced23033
-seen_titlehash:e7acdfeb28a18ba815f151ffa927fc9f90e7a33320a98f1c1ab58f142f99f4ee
-seen_reason:processed_not_published
-url:https://ft.com/content/796ac0bc-cc37-461d-8821-b04b8626138a
 title:hmrc s clampdown on the corporate structure that saves city firms millions
 seen_urlhash:fc110893913f99470b0200940b44235e152ec6803d59fa25fc7d58a16cc1ed8d
 seen_titlehash:431272797aadf143a6997cca10012a0d893201ae182ea21f8f8ade6293531c2f
@@ -4998,3 +4931,70 @@ seen_titlehash:ea9d547c9d437f6b932dc9a7bd6992342b00777128a8529492e642fa5bac404d
 seen_reason:processed_not_published
 url:https://ft.com/content/16e8d24a-560f-404a-bc0f-2ff098afade7
 title:turkey detains journalists and comic in crackdown before nato summit
+urlhash:77abd8f60e45f2fbc8ffe5bc9b10ed34207009c2e107f1a9668617b95027903c
+titlehash:ebe56250a68feb95d45114b75d3eced0dcb04796102e9e931de5988d047620b7
+published_url:https://aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss
+title:sons of iran s leader ali khamenei attend funeral but mojtaba is absent
+urlhash:e012667df2adc609eed25d0dfbd1827b7e0264246edf9a6da48019725c71cdec
+titlehash:bee3619ff899a224011dc18d63d7bea4e91a891d3fe8b84214995e66c97d350f
+published_url:https://france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu
+title:could islamist fighters take timbuktu
+urlhash:aedf91044ab355f22190a622b49334da1f7b9541f5990b88ce5779b6bbcfd00e
+titlehash:f6a37dd78ea956ae504a5fe972304fd69bb857f9bedd7fa85f539a75eec5883c
+published_url:https://dw.com/ru/турция-выдала-россии-антивоенную-активистку-ариадну-литвинову/a-77839524?maca=rus-rss-ru-all-1126-rdf
+title:турция выдала россии антивоенную активистку ариадну литвинову
+urlhash:cccab69012041771cc77882cf4cfaffa83e701cc98522de75f8efd0dd445deba
+titlehash:a9487db5e1f0d6f44863567b028298f4e326de12257286b2a895b6c162a3760c
+published_url:http://ru.euronews.com/my-europe/2026/07/05/french-volonteers-in-ukrainian-international-legion
+title:французские добровольцы тренируются с международным легионом украинской разведки
+urlhash:4281e85e1a119a7510c4bc95aafc867dc4ba9f3ce4a198012af829130d7cf333
+titlehash:fe4ef5e41aacf4c8ac258e20530c3036ae212db83a6fe0c7c02f0830dae1201e
+published_url:https://bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss
+title:emotion and politics merge in tehran at funeral of former supreme leader
+urlhash:701882021dc9033e4d7c4af3a20392124c85d665443910dcff2de33b3af12046
+titlehash:55405f489ace87b25920c22c430984fafcf4181c779879b3ad01b33a4a7d3330
+published_url:https://nytimes.com/2026/07/05/world/africa/durban-july-south-africa-black-wealth.html
+title:the main attraction at africa s most lucrative horse race black wealth
+urlhash:27a3a6ef06636690d20194f119259f2b8741cf713a0af634bc3e9078fd4460dd
+titlehash:ac02263ac81ff20d49439feeb92be0ce7017cec999608841fd5adc42ec85699e
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss
+title:palestinians rally outside al shifa hospital demanding medical evacuation
+urlhash:d8df7fd586a8384630cc3405084195e034d5d0ec16f3b0b50848d8ea4a146982
+titlehash:ebb3d3effed1afd30b776e8f12ecd2eeafa65f9f53f9932763f726a69a034118
+published_url:https://france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel
+title:some lebanese christian villages asked to be annexed to israel netanyahu says
+seen_urlhash:b77153a619086964ae1cad99e694bd8b4fb7ea13d1529857021c7eea1b3d7dd9
+seen_titlehash:3ba757a6100f99d5e16e37de9a3a30efb78b37996f2123c48a7b0b95f43260b9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss
+title:plane hit by firework while landing in chicago
+seen_urlhash:8d4dc956dfeced9ddce162bd5752f390e399feb17f8f9cbd5289b5462282e447
+seen_titlehash:97a9c46e108f23970e02dc616a5385ddc5912bd39153ffd9eee7fb7b193fd385
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/5/osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals?traffic_source=rss
+title:osaka knocks out top seeded sabalenka to reach wimbledon quarterfinals
+seen_urlhash:7ad9ed45148b7cc31ad0129d58a3b420fa9a9b16a656d0cfa1a1a99d258aae75
+seen_titlehash:0a5680d008d308c6d9f1fc5ef65b8df4ddd7137fbf895c001a25de9643e909f2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/7/5/lawmaker-mcgovern-americans-need-to-fight-for-the-soul-of-the-us?traffic_source=rss
+title:lawmaker mcgovern americans need to fight for the soul of the us
+seen_urlhash:7fbfa7f0f07252c6ebe3723ec5a3830dc09027b840d5936d11d0dbb04a25a276
+seen_titlehash:be55c7e93a0c186859bc778640f40e3e89a20bc3e5340d743ab79091e1ef7d65
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260705-thieves-steal-around-%E2%82%AC4-million-in-jewellery-from-french-museum
+title:thieves steal around 4 million in jewellery from french museum
+seen_urlhash:58b598d17f008a3bcce68a71726823a92d71f6b87ebf5246dee5154b6463fb32
+seen_titlehash:3dbf5da016b336476c81a09d371543fcb61cb7c073eb5e421a91fb546522ff76
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/05/v-tsentre-moskvy-politseyskie-zaderzhali-i-izbili-strimera-pomahavshego-rukoy-avtozaku
+title:в центре москвы полицейские задержали и избили стримера помахавшего рукой автозаку
+seen_urlhash:c6a3fbbec21fecac5c41f3e2a8b5c826e79208dc1a9d20473207c7c05d200ffd
+seen_titlehash:219b62aa19db3d584eefef69017f9db3aef1369750239414f3100ca19321a10e
+seen_reason:processed_not_published
+url:https://ft.com/content/66ad1f4e-fde5-4967-9877-1a85361f1628
+title:burnham warned over lack of cabinet as number 10 transition talks step up
+seen_urlhash:164d71b595da96bdd9692beed8d23625bf626168ef354269f4aadc65ec25b649
+seen_titlehash:80095315b82537aeb480832990ff66ab8d84d46155210b2e3367b02754826364
+seen_reason:processed_not_published
+url:https://ft.com/content/81d702fd-28d4-4b46-aec3-60e71b53786a
+title:nato leaders gather for crucial meeting in ankara
