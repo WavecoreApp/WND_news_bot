@@ -1,55 +1,3 @@
-title:hmrc s clampdown on the corporate structure that saves city firms millions
-seen_urlhash:fc110893913f99470b0200940b44235e152ec6803d59fa25fc7d58a16cc1ed8d
-seen_titlehash:431272797aadf143a6997cca10012a0d893201ae182ea21f8f8ade6293531c2f
-seen_reason:processed_not_published
-url:https://ft.com/content/21358a9a-b93b-443c-8a68-6fed89c8b3a6
-title:eu weighs weaker data centre climate rules in win for big tech
-seen_urlhash:3c85599a821b57cf5b7ada02d755aeca388697b8a1a3ad498726fe020d57b671
-seen_titlehash:0a48e33ed71964db40931669e4d6accf489c372ea34d0ad6035853a9805543a4
-seen_reason:processed_not_published
-url:https://ft.com/content/87adda62-321c-45c7-8765-e0bd79794bd5
-title:ubs to trial us banking services in push for wealthy american clients
-seen_urlhash:e455170e6b0b58d033b68c71302c5549c2696ebabc36141887b0b4e4f4f5455f
-seen_titlehash:179cb662b4b5280900337c85feafdb3cc51d56efe0768c1d9d8e96fc56565a9b
-seen_reason:processed_not_published
-url:https://ft.com/content/c4ce0cd4-01b0-490e-847a-c67ef64af4fd
-title:uk public finances weather iran war burnham to be told
-seen_urlhash:6fc8a389ab972453d1d56b93be4bf2a584c1663537e93ae4caae532ab2d01716
-seen_titlehash:67486ff8e0451a6e17beaf03cb0f9b17ac493d1eb7058f9d2f8dc602191154c0
-seen_reason:processed_not_published
-url:https://ft.com/content/28818c5a-f9ca-4150-af5b-0e67be3a357b
-title:how do we save the wilting new homes market
-seen_urlhash:5baccdeed014bb50ff5d27df6f214eb9b89348805a29da99e41c6c480885e2c0
-seen_titlehash:49ada869c7f663b560ec7834c10e0cd5ccaa19fe5880460bd2650ae400d2bafb
-seen_reason:processed_not_published
-url:https://ft.com/content/30af48c1-9746-4a75-879b-0e897dd4f78f
-title:americans prepare for most expensive july 4 celebration ever
-seen_urlhash:887d0998eeb67dc50bc8d028b7d43131867dab7642144f962d5d6378905565b0
-seen_titlehash:be36344c37bbade6079fa3ac46dd2ab84272726e4c6ea090c9526fe355a6a63a
-seen_reason:processed_not_published
-url:https://ft.com/content/07e842e2-3f37-4539-b69a-a3d778e83e0c
-title:how to lift europe out of high tech mediocrity
-seen_urlhash:01fc9012a614d643b85d8bb5c03897770c8edf2727e93b130740a415e624f1fb
-seen_titlehash:1dd5ac9ee730fe7598de71b2be3b0ef3f01208f3adeeb06027199e85413ba534
-seen_reason:processed_not_published
-url:https://ft.com/content/f9459ff5-617f-4577-af85-fcef3c2f593e
-title:bae s next generation combat jet lifted by defence funding boost
-seen_urlhash:695179922396d2640d686cec174bae414951c409348ee7d8cbfd6ee169cc8372
-seen_titlehash:72b2dfcac56272b2e70595efad30fd21953857ff6a8173274d01473a74083de0
-seen_reason:processed_not_published
-url:https://ft.com/content/64dfac6c-c9c2-461e-a4c1-28281b2ff35f
-title:digital finance could spur eurozone integration
-seen_urlhash:ba9339b4f38ad4a4e6a9ae0dbc722609188f39725d402392deb088c941438784
-seen_titlehash:5b3fab9282e16964b306221458f4b0edbab27b424c30927e1514bf164a01dd3c
-seen_reason:processed_not_published
-url:https://ft.com/content/e9a5639c-eaad-4c24-997b-1cdf9348851d
-title:city on the edge can san francisco s soul survive techno capitalism
-seen_urlhash:4a5a83f5bbed7124b7bf9970f8c3344b65d52bddf4f32cb73b08ca6253ac0fc4
-seen_titlehash:733b39a2ae713cb619b0300b0ac492e8bbd46f8624a0dd926a76ace08a3d526c
-seen_reason:processed_not_published
-url:https://ft.com/content/23400d40-65c6-43e6-8b06-6e15d1d3241e
-title:how to wear florals like a 90s icon
-urlhash:d47578b451b488ad4413d3d9a00f64f1ec32328f3563fe1e1bc0bf18db3df47f
 titlehash:b83e27cc9cf99224d456e29698eca0bcb71676945b7ddbc1c366b0691f68c9ee
 published_url:https://meduza.io/feature/2026/07/02/rossiya-nanesla-po-kievu-odin-iz-samyh-masshtabnyh-udarov-za-vse-vremya-voyny
 title:россия нанесла по киеву один из самых масштабных ударов за все время войны разрушены жилые дома погибли более 10 человек десятки раненых как это выглядит
@@ -4998,3 +4946,55 @@ seen_titlehash:80095315b82537aeb480832990ff66ab8d84d46155210b2e3367b02754826364
 seen_reason:processed_not_published
 url:https://ft.com/content/81d702fd-28d4-4b46-aec3-60e71b53786a
 title:nato leaders gather for crucial meeting in ankara
+urlhash:bbf7eb82853b9342c8c5e38c3684446d2eeefea560127ab91657ea2f070bf170
+titlehash:f7167d2e383679a8e61447711aedc55631e2af9b52286ef4f0b4769a550016f8
+published_url:https://aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss
+title:russia says ukraine rejects local ceasefire in dispute over kostiantynivka
+urlhash:3ee98c9caa1b12bb185fda08e170ce1f06c4a44d4f4934c52aa5905728dd089d
+titlehash:e2fc80f620acf25eef90149d4f12db5d5e99cc7d501305b674ca623c99063d0b
+published_url:https://dw.com/ru/атаки-рф-по-регионам-украины-четверо-погибших-25-раненых/a-77840179?maca=rus-rss-ru-all-1126-rdf
+title:атаки рф по регионам украины четверо погибших 25 раненых
+urlhash:245ffd833038dcde834a85da62ac0580be3e3c612af738629daee86639115d20
+titlehash:b8b629c35ecff56f3de537261213abb8fd838295ce78c6a075ec1951c842d84a
+published_url:https://france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues
+title:zelensky warns of new russian attacks as battle for kostyantynivka continues
+urlhash:91e0a21f1cca1ca717635c03b2b53df788f1ed517bea866c6ae40ade81fcf36a
+titlehash:6c2f72ba7cd02b0dbe7091052527be811d31b95fa730ecaf9b4378605175251a
+published_url:https://theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez
+title:florida republican says deporting haitians with tps would be huge mistake
+urlhash:059ad2bdc583cbd89fa5e845687d03b9aaa851ca729749df3f44baac42552370
+titlehash:73670faf2555f88669e2d38a8dac8dc9644d5b6c184bcad18618b578e8d7b2bb
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/volunteers-vow-to-keep-searching-for-venezuela-earthquake-survivors?traffic_source=rss
+title:volunteers vow to keep searching for venezuela earthquake survivors
+urlhash:fdccedd5fce069cc6bee732006b736bd3c90d2a8d39efbe73886c7d42dae8652
+titlehash:e1e9cd705056fe1f37fcd75f3b264e183ba7c695ffa399656072f491e5f258c0
+published_url:https://dw.com/ru/газпром-заключил-контракт-с-минобороны-для-защиты-своих-объектов/a-77840603?maca=rus-rss-ru-all-1126-rdf
+title:газпром заключил контракт с минобороны для защиты своих объектов
+urlhash:49de1440f47c4c142f4be38baf8b5632166d25ad26babfe4d9514755e8b8d7fe
+titlehash:412ef110bf7bc465bdb802fee1a900d471fc8853ba7ceab9d9cab35ace29bd9e
+published_url:http://ru.euronews.com/my-europe/2026/07/05/germany-left-radicals-attacked-journalists-in-afd-congress
+title:нападения на репортёров леворадикальный блок оправдывает насилие на съезде адг
+urlhash:b9589d02d65a0b06016ec8ed89e6a2ca0c2e39aa9047741628b5b465c91e8b23
+titlehash:1c3e2e6833318e0f4bd3aef083c02e500db9c835ca00ef9c284646e92bcf2e88
+published_url:https://meduza.io/feature/2026/07/05/biologi-sozdali-s-nulya-iskusstvennuyu-kletku-kotoraya-nachala-samostoyatelno-rasti-i-razmnozhatsya
+title:биологи создали с нуля искусственную клетку которая начала самостоятельно расти и размножаться можно ли считать ее живой и значит ли это что секрет жизни разгадан
+seen_urlhash:82ca9b41b8440fd0b65c954331e72c116bdf0cc525c8930c197f43719abe09d0
+seen_titlehash:8af0590b5d41c6ea1d019b7efd8ce6a445d71b19f1fc5ff3d331b441991af767
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss
+title:eight rescued from seaplane that made hard landing in manhattan river
+seen_urlhash:ae1a29d7de4f089ade9be3cf4fafce816b8f087cec1fe9c036d6b9cc3e71efe4
+seen_titlehash:32677e0181e070c6c16f603bdaf09a6c579ade34c7994d2fd97963d903fb383b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss
+title:8 injured including 4 children in new york city fourth of july shooting
+seen_urlhash:8023462c74066b42f471d0727615b09542807dbeaaa9a698cf381e2577b71296
+seen_titlehash:73e89b798929c791fe859f03a751d36791e589d486ff87002ba5179ae8f2190e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/12-tonne-whale-removed-from-dr-congo-beach?traffic_source=rss
+title:12 tonne whale removed from dr congo beach
+seen_urlhash:91afa0509e9b454109543c17f57bca4e91443fe0e19b497fd72fb7948e309705
+seen_titlehash:101ff57f006fecc10cd151f3b168e64887092f98b1cf78a56be0c30e8be2bc40
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/talk-to-al-jazeera/2026/7/5/america-at-250-democracys-greatest-experiment?traffic_source=rss
+title:america at 250 democracy s greatest experiment
