@@ -1,41 +1,3 @@
-title:lawyer takes trump to task over unchecked presidential powers
-seen_urlhash:7798b2e031304df4e74d64f417548f2b150b7200741bfbd053ecf8241af67a29
-seen_titlehash:49413f480f1c30bc03ab6432589fc9242c38dd9003d8df18b7955108b6fd4532
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss
-title:eu border rules causing travel chaos ahead of summer peak industry warns
-seen_urlhash:76e5d196ac01e4569b73a8e01ea4c3eaa38db4eea7333b5c1315485905ccd872
-seen_titlehash:574b3a20edab06ad01baea3272993138124d36cdc09487ca21e99726eb9887b2
-seen_reason:processed_not_published
-url:https://aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak?traffic_source=rss
-title:on the front line of congo s ebola outbreak
-seen_urlhash:0a3204225a3c42b073a6fb577d79955b1d95abea9ad09fe6bdd006e0c14eaa96
-seen_titlehash:2a0be5bbc6a6017cc27531ed337957b12e6098dd666a55c249b33d2a145f6dce
-seen_reason:processed_not_published
-url:https://france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods
-title:middle east live iran says to use frozen funds in qatar to buy required goods
-seen_urlhash:4f8023def7bbd7cce29fc4ec4345b9f448c50ef803698863fcbb633ebf91c95d
-seen_titlehash:633ee449120e612e8c3cbead87b6fcab311cdf4a4a76669b503b29ec33d84e73
-seen_reason:processed_not_published
-url:https://dw.com/ru/немец-который-воюет-за-украину-история-добровольца-хайлера/a-77791136?maca=rus-rss-ru-all-1126-rdf
-title:немец который воюет за украину история добровольца хайлера
-seen_urlhash:62a279290d626216fd5b8485be7c737a56b61559245e8eafbe0a1ce32a92e192
-seen_titlehash:e78d264628d59fa1c57bf1a03632efd94e1a91404defba474d8fab98bf02b42d
-seen_reason:processed_not_published
-url:https://dw.com/ru/массированная-атака-рф-на-киев-10-человек-погибли-более-50-ранены/a-77794195?maca=rus-rss-ru-all-1126-rdf
-title:массированная атака рф на киев 10 человек погибли более 50 ранены
-seen_urlhash:dd48033838f216c129f46cb2ec66e6aad4bc4b4dd76e51b93d9a0dc38c4517c7
-seen_titlehash:2db9c11572218080e9d8dc2ef8bfca70bb08cc08f959a86cd8ec478e99c9fb73
-seen_reason:processed_not_published
-url:https://dw.com/ru/число-погибших-при-землетрясениях-в-венесуэле-достигло-2295/a-77794320?maca=rus-rss-ru-all-1126-rdf
-title:число погибших при землетрясениях в венесуэле достигло 2295
-seen_urlhash:ab3c7aa8f18c8d891e07b55e20d73f3301faf3e35c7fdd4636166fb25934f572
-seen_titlehash:607ba8b571e3c8e45ca3e022dbe536960c02d198e82518bdc728866d46cbf4f0
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/07/02/why-has-wall-street-fallen-out-of-love-with-the-magnificent-seven
-title:почему уолл стрит охладел к великолепной семёрке
-seen_urlhash:47bad937cb02bf3d405a159e0955a66bc332cecb28b26e8681fc32104684ef9e
-seen_titlehash:7a6a90ebe62d6829c95bf5d47de78120ea2b287733b018064f6cbe85877dfb50
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/02/pigeons-frogs-and-beetles-gather-in-milan-city-hall-to-debate-the-rights-of-urban-animals
 title:голуби лягушки и жуки собираются в мэрии милана обсудить права городских животных
@@ -4998,3 +4960,41 @@ seen_titlehash:5155aa453281f04916d70567e948aa52473c9c3314094ad6db7d47821a8c4c71
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/05/v-nizhegorodskoy-oblasti-na-kanatnoy-doroge-zastryali-16-chelovek-iz-kabinok-na-zemlyu-im-prishlos-spuskatsya-po-trosu
 title:в нижегородской области на канатной дороге застряли 16 человек им пришлось по тросу спускаться из кабинок на землю
+urlhash:61f0b5d7de7573e3c9d725a555ab65774bfe322b9b2e48bb42c984499d9092e0
+titlehash:6df144c4060e6cc9a951cd80b44b7cd3db0178d5f3d21116dfbda3b642d2a011
+published_url:https://meduza.io/news/2026/07/05/peskov-zayavil-chto-spetsialnaya-voennaya-operatsiya-prevratilas-v-nastoyaschuyu-voynu-i-v-etom-vinovaty-strany-zapada
+title:песков заявил что специальная военная операция превратилась в настоящую войну и в этом виноваты страны запада
+urlhash:970fc694608696fba3eafd216a3dccc607df17055b3f01e8a83e0efd9aab765b
+titlehash:21542c07c12fa235f3eea5d699f75d3cf9f6484dd38d9d6f2a276e8cd0724cac
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss
+title:us congressman denies existence of palestinians in interview
+urlhash:00b76d3562a58b7ee37ab38fddfbca57450548de72dacdc6260c465171b3b221
+titlehash:9691de59f010865b8098ce87506f58632aae414ab3987fe87efc0330e677fa4f
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss
+title:50 houthi fighters killed in renewed clashes in yemen
+urlhash:bfffbc591fa4cb2798343516cef55c976a25773a7bb5c29dfb821baa41acb554
+titlehash:e8be765f3f98ea76b8c1dc84cf84148cd3f5349992b0a6137d9e2cfb792e2615
+published_url:https://dw.com/ru/вице-спикер-сейма-польши-варшава-тайно-передала-киеву-ракеты-для-зрк-patriot/a-77839400?maca=rus-rss-ru-all-1126-rdf
+title:вице спикер сейма польши варшава тайно передала киеву ракеты для зрк patriot
+urlhash:8ab08545bf9bd552d1eed4368e75c29a8d8018e8dbe62cd9b72b924984e44a6c
+titlehash:84263a12b0d0c407977cc53eb122219047e8c7aeff374c0968845e7dcf76b3c4
+published_url:https://aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss
+title:what is the religious and political messaging behind khamenei s funeral
+urlhash:bd43017b9ef0a1631f5d19b3eb4e1251d834af2bc81e9a5eb2742898394beb03
+titlehash:5f2d4770ead3875ec0e87f61fe1d0fc74810ebbbec727068de7670edbfa235d7
+published_url:https://france24.com/en/tv-shows/spotlight/20260705-why-iran-s-unseen-leader-remains-in-the-shadows
+title:why iran s unseen leader remains in the shadows
+urlhash:63d47006d1761bd33e6f987392a97d63ffb0c37fa9ca3273333d995cf8787a79
+titlehash:ed7611dd244cc51d1109b56a366ad0ccf7f1bdb5078593bb5f8150cd315bec07
+published_url:https://ft.com/content/20450f5c-757f-440d-a06e-6fa997f74754
+title:netanyahu government defies israel s top court over tv regulation
+seen_urlhash:7e39481ec2f85e128dc446f8b0f37cc5daa50196b10cd6be826a0e9d0913e4d5
+seen_titlehash:f369c513c46ffbc1634ee57f97e5fb3151e4450fac7833b711df16134c282e3b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss
+title:super typhoon bavi threatens guam with catastrophic winds and flooding
+seen_urlhash:199b98942150ccf81c8738e4ba6700df3e1049cbe5e666c78382a72fb8f243c9
+seen_titlehash:ea9d547c9d437f6b932dc9a7bd6992342b00777128a8529492e642fa5bac404d
+seen_reason:processed_not_published
+url:https://ft.com/content/16e8d24a-560f-404a-bc0f-2ff098afade7
+title:turkey detains journalists and comic in crackdown before nato summit
