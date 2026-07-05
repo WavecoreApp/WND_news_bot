@@ -1,152 +1,3 @@
-seen_titlehash:c6d3b5fd5152c0335f9f5f7eb1b2b42946b4337e154e7d305ed4bc9fedafce4f
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/arts24/20260701-robin-hood-supergirl-the-rock-the-superheroes-are-back-in-cinema
-title:robin hood supergirl the rock the superheroes are back in cinema
-seen_urlhash:de082fb13bfacc3cacfe92a421ed0dd750411e4264ad7e090c5c92a8856d963e
-seen_titlehash:cd33938a20938f0a19f34e3d679a793a7c7fb67b41ea70a160df7e3da46a924a
-seen_reason:processed_not_published
-url:https://france24.com/en/village-people-singer-and-ymca-policeman-victor-willis-dies-aged-74
-title:village people singer and ymca policeman victor willis dies aged 74
-seen_urlhash:e5acaebae3a644fa8c2a270d4ecb378eed258076f6d2bc48b387c53d628496c1
-seen_titlehash:d9730df04a62237052738ead7001734711670dcf84c3b7016b96a4794ac99024
-seen_reason:processed_not_published
-url:https://france24.com/en/trump-defends-making-over-1-billion-in-crypto-amid-conflict-of-interest-criticism
-title:trump defends making over 1 billion in crypto amid conflict of interest criticism
-seen_urlhash:0ae587b26a6c12428bf9d9d76c2cdd37b88e70272cf5b37239a7073fda39a0d1
-seen_titlehash:cc3f1ca7fe26bfe0a59b324be2df85a0509759ce520e796f711bccde3718ba1e
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260701-venezuela-dramatic-cctv-footage-shows-moment-quake-strikes
-title:venezuela dramatic cctv footage shows moment quake strikes
-seen_urlhash:6e6f8879e5cd4d360ccbec4cdf0eddffc651e543f792baae2d75a6ad5d8be9b0
-seen_titlehash:2bd141e0f218e89873f0e0ae3117bdb2a95f17dcf141d1c9ff3bc4f6dd5f7806
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260701-businessman-goes-on-trial-for-ordering-murder-of-maltese-anti-corruption-journalist
-title:businessman goes on trial for murder of maltese anti corruption journalist daphne caruana galizia
-seen_urlhash:a3d13390948b33be287291c9b0641c3e598ff55a85d97391c4cdcdf499104ac5
-seen_titlehash:1d48d83d74b5ed991bc08457de4f6061bf723fed695db5c034abe95c3c1c5748
-seen_reason:processed_not_published
-url:https://france24.com/en/a-look-back-at-two-decades-of-xenophobic-flare-ups-in-south-africa
-title:a look back at two decades of xenophobic flare ups in south africa
-seen_urlhash:ac4b1a382373c5810e5d07e350b5766d5f2f8554f2dbd5d96031939e84f6dbf2
-seen_titlehash:ac5ebd7878c9f5b66269e80fb5ed654bff6f4833b0ecfb4ebbb008a012789411
-seen_reason:processed_not_published
-url:https://france24.com/en/france/20260701-french-government-to-face-no-confidence-vote-over-handling-of-deadly-heatwave
-title:french government to face no confidence vote over handling of deadly heatwave
-seen_urlhash:b1de4f8dd9d5f9dbf88db8914c5d52dc60dc4011f43b4be115d5543f4e25d4c1
-seen_titlehash:a8f1499a01498bc125a9a37f1efda2dea1031507a3660ca986edff922b64fcb8
-seen_reason:processed_not_published
-url:https://dw.com/ru/арбитраж-почти-полностью-отклонил-иск-русала-к-украине/a-77792090?maca=rus-rss-ru-all-1126-rdf
-title:арбитраж почти полностью отклонил иск русала к украине
-seen_urlhash:26eefe6cb528d71879e5cf32041d751179ce933951556cff461bb6f5d23ab9c1
-seen_titlehash:88459a768aa8e1ecbbb58ccc88fc136bd9492ea8aa701db1ea5f824ef4614f69
-seen_reason:processed_not_published
-url:https://dw.com/ru/в-рф-признали-нежелательной-поддерживающую-украину-нпо-acu-из-сша/a-77791357?maca=rus-rss-ru-all-1126-rdf
-title:в рф признали нежелательной поддерживающую украину нпо acu из сша
-seen_urlhash:92a49a84557907818ed25e9cfa4e7042ab7ec91b18e9bec5407ae65f47f5a414
-seen_titlehash:05da399fd82b5316e38513f12ebf5cfbdf3f5e95aab30442ff6d3bdfc7060a20
-seen_reason:processed_not_published
-url:https://dw.com/ru/канада-примет-участие-в-евровидении-в-2027-году/a-77791082?maca=rus-rss-ru-all-1126-rdf
-title:канада примет участие в евровидении в 2027 году
-seen_urlhash:1a9d661a5eb33a8f4c078b59c57ed5fb1c861bbc4b35b2fa08e7dab7f6b53646
-seen_titlehash:13b0ce80487cb54df2fc7e440548c2ca4b645d88ec7207b19e3b91fc35783ad8
-seen_reason:processed_not_published
-url:https://dw.com/ru/советская-женщина-идет-на-аборт/a-77745531?maca=rus-rss-ru-all-1126-rdf
-title:советская женщина идет на аборт
-seen_urlhash:5dd00306c7c853e9bec2adea7870cac7d24d4ec54cb5ead7ceda91245307c18f
-seen_titlehash:0690eef5935ccab778792acdcdd75fa29c566a64b7f11addc41f761e8d1772a8
-seen_reason:processed_not_published
-url:https://dw.com/ru/немецкая-молодежь-не-торопится-съезжать-от-родителей/a-77789959?maca=rus-rss-ru-all-1126-rdf
-title:немецкая молодежь не торопится съезжать от родителей
-seen_urlhash:e2542d0f9c7fac414a756497839cf98f02c7c33402d6f0afbe35aaa87c565d14
-seen_titlehash:8cf5b45d448866bd35f47da1019cd2d135cd8736c4fdca708223ad1db06d5d69
-seen_reason:processed_not_published
-url:https://dw.com/ru/ft-германия-пытается-получить-право-производить-tomahawk-и-ракеты-для-patriot/a-77790875?maca=rus-rss-ru-all-1126-rdf
-title:ft германия пытается получить право производить tomahawk и ракеты для patriot
-seen_urlhash:d5f0e641b983b83d910a4b60d21a0665cb4ff57e0e72214749c50d34f02d8dde
-seen_titlehash:579f575e6f719d6e7d86acdb37cce6cdbd5708840b33ac37dfe5110a2d2bdec4
-seen_reason:processed_not_published
-url:https://dw.com/ru/в-ес-ввели-сбор-в-размере-3-евро-на-импортируемые-недорогие-товары/a-77790456?maca=rus-rss-ru-all-1126-rdf
-title:в ес ввели сбор в размере 3 евро на импортируемые недорогие товары
-seen_urlhash:986f3831618c21dc6310eb7787ee49106f4046e1a2a3c47a26db660abde607bd
-seen_titlehash:2de21e2c60f10fc698c59ab2baf1fa0569050ea718664817669bb61297e40ab6
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/01/cube-social-media
-title:исследование посты псевдоэкспертов в соцсетях сильно влияют на мнение пользователей
-seen_urlhash:94cf22d27e3f140ba4febcd3fdc3b493bc38b9b8dd3fdb0e5b1cadb7e4ddfdeb
-seen_titlehash:f5bcdd10eec1cf0b609d175d15ba8d022d99f75aacaab06e73c39cc989842013
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/01/bayeux-tapestry-in-london-up-to-nine-hours-of-waiting-to-book-tickets
-title:байёский гобелен в лондоне до девяти часов ожидания при брони билетов
-seen_urlhash:9bb7a9b06606f4aaf37a636247751517577a7b949bf313ac44730979b01b6704
-seen_titlehash:7a983732d60b2b0d7016c12d9845d6a94fd0bb0a3dec6fd4f7948e38671165f4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/next/2026/07/01/20-million-children-use-ai-and-adopt-it-faster-than-adults-unicef-says
-title:юнисеф 20 млн детей пользуются ии и осваивают его быстрее взрослых
-seen_urlhash:0761db5cfb946e1841a7775bd08110cfa5b3073bf1c62cd235d6333b492c2513
-seen_titlehash:d23b1b4281813130a4c4ec1341f3818546358ee4141db93007496749d544951d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/01/russia-fuel-crisis
-title:топливный кризис в россии набирает обороты
-seen_urlhash:75397061a008236f126275762fa6e7c18182cffd642be3cce178e110a95967b5
-seen_titlehash:17fcdc9ee0bd74a508e77dbf6c7fe043ba75a20fa058873ec792019aaf2ea602
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/01/zaluzhnyi-to-run-for-presidency
-title:экс главком всу валерий залужный намерен баллотироваться в президенты сми
-seen_urlhash:ab5604bc38f6aaadbc81c26d65b0687683cf20ca41516adedae8f954b077ec48
-seen_titlehash:e10b922489f5dde962e91502811ede9d511807b4df834cfcb15c8399bd218448
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/01/chislo-pogibshih-dostiglo-1-943-chelovek
-title:землетрясения в венесуэле число погибших достигло 1 943 человек
-seen_urlhash:17d7d91b97a1e97c4978c8daf1bac6c37bcac5dc59ba0e31a1f5f99094143b7b
-seen_titlehash:3c323625038392b4be87af092439518ae26ca7cda59416282bd238952f48ce81
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/01/eviva-its-official-europes-best-bar-is-in-greece
-title:евива официально лучший бар европы находится в греции
-seen_urlhash:d09e3fc5ea0ed72241f99d08f235039aa741fc46e7ee921f7867425770f7737d
-seen_titlehash:95d48335531b076c9e8329fd1db6898fb22270ca9e9bcd5df647635690aae065
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/01/heatwave-in-france-hospitals-urgently-adapt-ahead-of-a-new-wave-of-heat
-title:жара во франции больницы срочно перестраивают работу перед новой волной
-seen_urlhash:418190e12d4d80781bfd26f2d54992d99bc07f1b285fb18a79c730beb6c7c203
-seen_titlehash:c553b86de07f2a9363abdb21889c2be6c1cfaf12461e34ec5d60ec63021bc2a0
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/01/russia-figure-skaters-return
-title:лицемерие и позор фигуристы и конькобежцы из россии и беларуси допущены к международным турнирам
-seen_urlhash:e417e5786fdc97147f4c36b947cdc7a9bd11d3b9bfb13d4cb77bbde2979d2618
-seen_titlehash:a57661a2dade2e15b83e78d3c659817a183759ed8bb2d2377d1ed9f7ec0daf09
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/v-buryatii-slovo-fart-priznali-simvolikoy-ekstremistskogo-dvizheniya-aue
-title:в бурятии слово фарт признали символикой экстремистского движения ауе
-seen_urlhash:a3e230bae659b8be7d2b717d110ea796bbe8152e468a2774aa74b8c4c2dc37ba
-seen_titlehash:fef4c31d581a082dbf81aa99586d243768a60dd34c451421e1efbdb069658f2d
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/rossiya-slishkom-uvleklas-slovom-suverenitet-tak-schitaet-glava-vtb-andrey-kostin
-title:россия слишком увлеклась словом суверенитет так считает глава втб андрей костин
-seen_urlhash:fdf0f74fd896e4a1dc5ceb973e6ce0e43de52bc985723d834b90ddfc0e3c5dd1
-seen_titlehash:20d6c33cb7cf9c99d7ed822d975ac2df7154b2bdd85b9c310b90ce10b863cf35
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/01/ya-s-sovetskih-vremeni-borolsya-s-etim-kogda-v-sostave-komsomolskogo-otryada-lovil-izvraschentsev
-title:я с советских времен боролся с этим когда в составе комсомольского отряда ловил извращенцев бывший сотрудник popcorn books получил условный срок по делу о продаже квир литературы вот какие показания он дал на других фигурантов дела книгоиздателей
-seen_urlhash:362d1b185a3127e7322c3a302d2560661ba98dbbce0b132cb1e3573a48e19862
-seen_titlehash:69e6b19ee4367abe53c27a4d4b43e15fd392b090c70bff971e9fdb54547e0298
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/pogib-akter-aleksandr-vysokovskiy-on-sygral-maksa-v-brigade
-title:погиб актер александр высоковский он сыграл макса в бригаде
-seen_urlhash:fd40059dbb91eb9a3cc803de7974adaadbb817b15e2f16151f73a583a50ed1ac
-seen_titlehash:25b8f959deff657654a0082bd7b64c8083515481b162b641e7182b4ff71173ed
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/01/v-moy-dom-popal-bespilotnik-kak-kompensirovat-uscherb-i-chto-delat-esli-v-vyplatah-otkazali
-title:в мой дом попал беспилотник как компенсировать ущерб и что делать если в выплатах отказали инструкция для россиян актуальная на фоне успехов всу в войне дронов
-seen_urlhash:8ed096810ec2bf75d080c12492bf159e07a134879cfdf2098386bc91df623914
-seen_titlehash:2e53b6d1dac11b6a550385a660f664b12668647f6f2c6571655652e360dad075
-seen_reason:processed_not_published
-url:https://ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a
-title:us voters support trump trade deal with canada and mexico survey finds
-seen_urlhash:9aa6af3a26fe2a64c414a79736ab5d3b5a5551040afe05f24c6fff74d4b1d93f
-seen_titlehash:a2c9ae5e0eca9a90072337059ad9c6fa2a65053db3c10b0636d88b696e7b361e
-seen_reason:processed_not_published
-url:https://ft.com/content/e175afe0-4220-4ba0-8cb9-ab2985a3dd88
-title:saks retail rebirth depends more on gucci than wall street
 seen_urlhash:a0904c07077029f726b9a64294bde218f2d84aadc6d71c55f893d5d45403fa02
 seen_titlehash:c905fdff88ed2a9bc21d675cc3fc43ccbf8883d23f3d743e880f109af93da7c8
 seen_reason:processed_not_published
@@ -4998,3 +4849,152 @@ seen_titlehash:7ded80aa7a8ab912219da795dc8097df58ef16706fa842fc7d92232a7f44d25c
 seen_reason:processed_not_published
 url:https://ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30
 title:storms force evacuation of july 4 celebrations in washington
+urlhash:6726c71691495e8d9dde4cc323394293a9386f4646ed876d95e4020c4a66323f
+titlehash:7fb4b1f7dace579c61f77984d5854833de78ac3faf646a6a1a228e774de68487
+published_url:https://nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html
+title:as xi looks to extend his rule he leans on a longtime ally
+urlhash:8bae6661527677695cc0530d98f3f7eff4b3da17182d570754ea908dfa99d4b5
+titlehash:39e373aa492c1132c9126b52f3697849174177c44a4bfad6fcd7b6baa1ffec10
+published_url:https://bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss
+title:chinese underground church figure jin mingri freed from prison
+urlhash:668014c2b7d741a099ea58dc78025d94e29d131051bc9168f7287e87fcd82c6c
+titlehash:e91763bb28b1ac6671a1eee916fd40a94c6f96fdd8afe87155b8573aa134be5f
+published_url:https://france24.com/en/americas/20260704-venezuela-quake-death-toll-rises-to-nearly-3-000-as-tens-of-thousands-still-reported-missing
+title:venezuela quake death toll rises to nearly 3 000 as tens of thousands still reported missing
+urlhash:56ae1e7a8a544f705fd1a27ffbea8b4e266b3ea5d4d2bf1f3cdb660f6e4e0aa5
+titlehash:937e42551c7e305b06ad494474107d9fdc77646f9da984278fe2cc2c2433d5d2
+published_url:https://ft.com/content/9077074a-b01d-4890-a938-403befccb21c
+title:french push to exclude uk from eu defence spending backfires
+urlhash:f5b53f7c1f4617100a3ded8d2c4bd15627520b2b513c6c7e0643ee679fa16e67
+titlehash:a63d4d858a458e5b44dff21432032edaf6d2b608315153507b415f0463ba968e
+published_url:https://ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2
+title:wall street banks recover in china amid trading boom
+urlhash:c9b5896376cfbe890bf79899d7ace32c96dc0d8b7e1cf3a594baf2345fd7ad62
+titlehash:a223ec91cc7b56437b84778ff626841ab954d22d6699de89f688a9a6842803fa
+published_url:https://bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss
+title:moment of destiny for france s le pen in verdict to decide her future in presidential race
+urlhash:2984a597656bb0a45e19e659ead394d3e4ef7c72b12ca126c4a7f68d28a969bc
+titlehash:85233182695b06ee79b71de7f6ffed2c939b4b22671e25c621460b66136a215f
+published_url:https://nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html
+title:impeachment trial of philippine vice president set to begin
+urlhash:c663afd47b6863bfbf82080c300be17e9d8fa7f661c734d16260edc131905a4b
+titlehash:cc11a505a49de05f21c8a45a76b900c83b22217dc16c1b85b6c27bb76f3de352
+published_url:https://theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel
+title:mysterious debris found on queensland beaches could be space balls and may contain toxic rocket fuel
+urlhash:d6e11045c00ead29e9817a982ccbd8b2d41de7896949eaadab274dd28899aedc
+titlehash:053e86bb9e79aab47cfd939738252af01fbc371814549c72e73ac52f83b1b421
+published_url:https://dw.com/ru/как-война-в-украине-сделала-грузию-центром-суррогатного-материнства-в-европе/a-77799629?maca=rus-rss-ru-all-1126-rdf
+title:как война в украине сделала грузию центром суррогатного материнства в европе
+urlhash:4a66e1e761a29542b80173a8970e2d9aff4cc242c922abff24c617f30af6ab87
+titlehash:0bc47dc8a4de7cd06bb1accb88458b58db5d167ac61ba692e29ff89bf4c65707
+published_url:http://ru.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri
+title:после успеха швейцарии солнечную железную дорогу может построить италия
+urlhash:cd20aaf43e83a415995954b6e59b640b72daadf0bbc3a72362d69ce745bd2d0c
+titlehash:eae3ee068e9a2f89ec520100a819a0d4f43f75b4bb783689e185ca7a796f9f97
+published_url:https://meduza.io/feature/2026/07/05/lezhit-li-na-rossii-resursnoe-proklyatie-i-pochemu-strany-s-bogatymi-zapasami-syrya-chasto-porazhaet-gollandskaya-bolezn
+title:лежит ли на россии ресурсное проклятие и почему страны с богатыми запасами сырья часто поражает голландская болезнь отвечают авторы рассылки как это работает
+seen_urlhash:a0dea5b1d59a53e70d278f4de38bc1a761b53b2b7042469fddbd1753711f5e74
+seen_titlehash:05114d0709d6de755a446d188901dd7fcb5985f4931f9de4f7d2b37ad2add84a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss
+title:us marks its 250th birthday with fireworks flyovers and extreme weather
+seen_urlhash:535f1fbb4d6bbe53571d4ce718b0f8bbfe5ce555c99d79b36c1c6f5e359a37f5
+seen_titlehash:9e258d3c2d77eae13f9e4e940880c9490f58c40167a8f2a02338d056f3931ef4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html
+title:rebel catholics defy vatican s calls to return to mainstream church
+seen_urlhash:71879c1b64327a6b97fb5e180228ef829108bd6d624533c20aca001ad7f70c31
+seen_titlehash:0e6d0bda3fa1bd62ce322977a5cb49a007817b3590e4379365d0472fa46a5990
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable
+title:nsw labor toughens pokies stance as sydney inner west mayor says momentum for real reform unstoppable
+seen_urlhash:1fe0022fe7519a646ca0eee2d63d47e91e6e23ece61f4aa7286d8e69230004ba
+seen_titlehash:c04af5739fda2b958f0b2ca1659517b9540a041fda3576a8ada9b829de1f22ab
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb
+title:liberal frontbencher dan tehan says coalition with one nation not even being talked about
+seen_urlhash:21f6c4ca7eb2ea6837b07e7c96f2b143dfa970d8524c2fcdaf1c70b1691a55e8
+seen_titlehash:03ccd9817a3a46b34230b452097f0c97f19eb96b886220846691c383a96aa77a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss
+title:trump lauds americans in storm delayed 250th anniversary speech
+seen_urlhash:bf5a88e74ec22e9583e4e611d4c4a2490cc6a8dd501f20b81aef05586d44df42
+seen_titlehash:3adc9f4a262f16ca42e373c78cdf301d1118e3d2b4feb7a5436d18350da0d073
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss
+title:a name a document a future cameroon s fight to register every child
+seen_urlhash:b496d36942a6729a19fafb543999cb2bc29daba583b0fdf97a6047ccfaaf14b7
+seen_titlehash:c75579722af9fd6ead34899392f9fdf1f2912293bf6e6c0959c97fbe5d27d64c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss
+title:fireworks light up new york city to mark 250 years of us independence
+seen_urlhash:bb611d9797be2b60161a6d259fc2b49c3a9e82a833f5480425c14b382024c5ff
+seen_titlehash:19e9e4d72a51badfab0a9499b579e0d76394a6396e5e3e18562d4963f92217d4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss
+title:severe weather disrupts us s 250th celebrations
+seen_urlhash:6f5487e64a06af2ca3b44c35453c8f50ee2b6ba1baf0bf14d972c77c970bbc1d
+seen_titlehash:ce0463edcc0a4820353a3c36d04dfc4c6a4a618635d0c659087d9b138d0d9c68
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260705-trump-blasts-communists-celebrates-the-united-states-in-250th-anniversary-speech
+title:trump blasts communists celebrates the us in 250th anniversary speech
+seen_urlhash:1217205bbaf0c343f058794c3ad18ec46eddf45ce7c5047b1990e644902a90ec
+seen_titlehash:8552cbbc1b7e0ae554c64d42c17c7b20aa158fe1888cf4900a286c0184d9a3f6
+seen_reason:processed_not_published
+url:https://france24.com/en/france-paraguay-french-fans-in-philly-react-to-1-0-score
+title:france paraguay french fans in philly react to 1 0 score
+seen_urlhash:29d42bf992982d255ce90af14dde7556c2831ed085bab00dce1c6bf323738de0
+seen_titlehash:123c7da8dbde4d67765626767fba35c6c84e45779f0149371f9220e138074245
+seen_reason:processed_not_published
+url:https://dw.com/ru/марокко-и-франция-вышли-в-четвертьфинал-чм-2026-по-футболу/a-77835792?maca=rus-rss-ru-all-1126-rdf
+title:марокко и франция вышли в четвертьфинал чм 2026 по футболу
+seen_urlhash:966110a56d586419f8e30343ec580b600985b3f76bf337b59bdc7ede78a100ff
+seen_titlehash:4964be2ac292129180227dabecd9c0731afb712d62a782e2a49566b4ba24a9e6
+seen_reason:processed_not_published
+url:https://dw.com/ru/быть-или-не-быть-женщине-на-японском-престоле/a-77820943?maca=rus-rss-ru-all-1126-rdf
+title:быть или не быть женщине на японском престоле
+seen_urlhash:d94592cb2a89bca01288f12328594341eb0326c3f3ebb8c421a9e6d2034f095a
+seen_titlehash:d9d272a6f238d03f7fbe8090c44b70d19f24fde4db3ef37f862d9cfb52f08996
+seen_reason:processed_not_published
+url:https://dw.com/ru/исследование-40-немцев-не-верят-что-смогут-выполнять-свою-работу-до-пенсии/a-77835147?maca=rus-rss-ru-all-1126-rdf
+title:исследование 40 немцев не верят что смогут выполнять свою работу до пенсии
+seen_urlhash:a1839a6fcac339ff8a58ec5d5a2e5590755e6f6f6f1e8b98658442759f28cc64
+seen_titlehash:638d0b9736f6c941ec05748be39186e022e105fb3494383ec243b1302696cf13
+seen_reason:processed_not_published
+url:https://meduza.io/cards/vse-vokrug-uvleklis-begom-a-mnogie-dazhe-gotovyatsya-k-marafonam-no-u-vysokih-nagruzok-est-svoi-riski
+title:все вокруг увлеклись бегом а многие даже готовятся к марафонам но у высоких нагрузок есть свои риски сердце от них может остановиться даже у профессиональных спортсменов как себя обезопасить
+seen_urlhash:fa617ecea060968520142ee5435d2a17aa41a1de9aa472d3c37a9cc44190adca
+seen_titlehash:0beb0ac3f467b1631d761ce0ae46e4cdcd2abdad783d39942c10e3e057a13828
+seen_reason:processed_not_published
+url:https://ft.com/content/5e7ca535-90a8-4f6d-934b-0a0d9b36e62d
+title:returning to pre trumpian politics won t save america
+seen_urlhash:43ccae49b478f1a4fa5cbfe8d39d231af8934ec6bcbb1ff84e0b7f10e797d2d3
+seen_titlehash:5df4c77564eef42eea2c28ead5d89dd1e37dec708ccefa8b56eb681f98fadf57
+seen_reason:processed_not_published
+url:https://ft.com/content/2f5339b0-89db-4579-9dd2-f8c20aa9964f
+title:octopus energy set for showdown with workers over union recognition
+seen_urlhash:34c68c1a1b38e3e23608db1f2b6e8418ad254059dc26112f55d59e7308b24db0
+seen_titlehash:32ba98ae164ef731a62643f8a64afe52a8d17cd5a57522e769898b47739b5b10
+seen_reason:processed_not_published
+url:https://ft.com/content/35bc6f34-bb3b-434a-9ce3-37a9d4fc3aa4
+title:high share prices are becoming a status symbol
+seen_urlhash:da0a461e26c964e373c6307ecd8988bbb0455664314686d7ea0aee8971d01cd9
+seen_titlehash:786c2490694f7949615ce5ff087fd9d9b513707c985d1affee0b7cc61af77435
+seen_reason:processed_not_published
+url:https://ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5
+title:uber stalls european food delivery push as it pursues delivery hero takeover
+seen_urlhash:489a7161a889a422745cf2243fa3479751b0bbe4f1207fafa7d658fb47f12a1b
+seen_titlehash:5b37dddbf18918b742e8f80463c225797798b5ca3be9cb9ceaff8cd435430a2f
+seen_reason:processed_not_published
+url:https://ft.com/content/64a811f1-b132-4211-8a8c-2252cf964039
+title:china cools on overseas publication of scientific research
+seen_urlhash:f9a06f085e0705c3a76a573a2c5f876be4e8eb0ef7bc32524fa2a9f7821813e3
+seen_titlehash:0b8d87452f5fc13980e6d50e54b430e1bc6a8917625780e64701434a5c99a4dc
+seen_reason:processed_not_published
+url:https://ft.com/content/08a0ea1f-3748-4ccd-a35b-9c3afabed25d
+title:burnham faces tricky electoral test as starmer pushes through local government shake up
+seen_urlhash:7e51d48f2374f36c28bffc1c91bea1d983a95b4203d06e420789074c32f7df02
+seen_titlehash:31303b5d277321ddb5b7014abdebb0ff4f061b470e1ae77ca9e1065c35a16f8e
+seen_reason:processed_not_published
+url:https://ft.com/content/b2b7cbeb-511e-41ce-982b-a08b070f0171
+title:cider wars brew in the eu as nordic makers fight relabelling proposal
