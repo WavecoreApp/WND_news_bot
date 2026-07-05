@@ -1,41 +1,3 @@
-published_url:https://meduza.io/news/2026/07/02/rossiya-zayavila-chto-na-territorii-posolstva-v-shvetsii-upal-dron-s-imitatsiey-samodelnogo-vzryvnogo-ustroystva
-title:россия заявила что на территории посольства в швеции упал дрон с имитацией самодельного взрывного устройства
-urlhash:c0677fe81d30ac1e6fc3fcd2b4cd944be22bb094731d4ed4441d9fc05a606679
-titlehash:e53d43d30717bcbd6d151dec6ee0b6cfd1715bafb13a58548cd15ecbdf655de2
-published_url:https://ft.com/content/49ed0040-7f5d-402d-b42d-1d8eab27114c
-title:russian drone campaign mapped nato air defence gaps study finds
-urlhash:02a6b8df21849f5b3c97af5f15096c9c9a75ae401c5ee79185df1e334ae34451
-titlehash:35c5e68a28f41ce902576f2d2cd3c2c96569f92326dc264527798578f6ad3875
-published_url:https://ft.com/content/b2eb8225-54fd-4e6f-889e-d48fcb84faf4
-title:google loses appeal against record 4 1bn eu fine over android
-urlhash:b2b87c612022d00ac9c0758d2efc6538d61d10af6c327293d79dda9c748d0b2a
-titlehash:6a7124ef3544c98a2d96c69816aed8c6314d8897e25a658c4c8c730dedde48ae
-published_url:https://nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html
-title:mass mournings 6 days and 2 countries iran prepares to bury supreme leader
-urlhash:b444ad7e6809a07b81bb3b9e01077b663c686bdb4cae4c6e00572caf7814b0eb
-titlehash:86b48202fde3017f7648472c2305d1341fc2db4b95f3c6952d931a0d719a21ac
-published_url:https://theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak
-title:understanding ebola s wildlife origins is crucial to preventing next big outbreak
-urlhash:6225b61f01d49fa6d0639c19fcbb591ea2aba0e0916c4de76fc4779b0b3d491e
-titlehash:c4b3593313fe434aaf17e9a237f13b676df9a5616e82683ba73cfc57b2985218
-published_url:https://news.sky.com/story/cuba-faces-an-unceasing-crisis-but-its-people-are-refusing-to-give-up-13559697
-title:cuba faces an unceasing crisis but its people are refusing to give up
-urlhash:3d96d2ffd8fb0bfd7c6f76c3bf6826251a3e6e77a2b350b273b1a5e46911cdda
-titlehash:a38b4c0a5af9d67bf75fa2abcb06073bfaaba436491c3ea714baa9ebf990366d
-published_url:https://france24.com/en/thousands-return-to-malawi-to-escape-south-africa-s-xenophobic-violence
-title:thousands return to malawi to escape south africa s xenophobic violence
-urlhash:38dc4740b89df4a0cf2b78280ee30b120aadb6e37ffa6ba78b4c1258ecb6393f
-titlehash:1607b6b669a73bd46d7cfa2661b28573861be8aeb50747695b2ecb3ffe907664
-published_url:http://ru.euronews.com/2026/07/02/es-ishet-resheniya-na-yuzhnom-kavkaze-fon-der-lyajen-provela-peregovory-s-alievym
-title:ес ищет решения на южном кавказе урсула фон дер ляйен провела переговоры с ильхамом алиевым
-urlhash:0fd081b37b914387bc50256bbe65718c6d52c473e36bbd3a48ce4e372d806f2b
-titlehash:0e75f5c037d75cd21d5ba88dac45b6d4e895b165475e7b2a9b87425e3c32f116
-published_url:http://ru.euronews.com/my-europe/2026/07/02/european-parliement-launched-investigation-against-europe-of-sovereign-nations
-title:европарламент запускает процедуру против объединения европа суверенных наций в которое входит аfd
-urlhash:e6050b45169cede84f22e75a908843ee0d32e16ad36bd03bc27bf5583902a754
-titlehash:3b860a0cfa09eda83cc9cd5cc1588090306aabd363ae55f971aa8df630e5a686
-published_url:https://economist.com/international/2026/06/02/the-war-room-newsletter-how-the-character-of-war-has-changed
-title:the war room newsletter how the character of war has changed
 seen_urlhash:f230ad7dc4b97fbb5ae7c6c9c287cdf2414b40ba6da18fcee342cb453da0f59c
 seen_titlehash:9cc50841e4b55faa4baea76b42ef151d4627fcae5bb64c991ecf78f1739ab76d
 seen_reason:processed_not_published
@@ -4998,3 +4960,41 @@ seen_titlehash:e4710a346ca5b062de0901f1de47f615000f57929e28261a1658890de9a0fe8d
 seen_reason:processed_not_published
 url:https://dw.com/ru/фифа-отложила-удаление-игрока-сша-балогуна-перед-1-8-финала-чм-по-футболу/a-77840969?maca=rus-rss-ru-all-1126-rdf
 title:фифа отложила удаление игрока сша балогуна перед 1 8 финала чм по футболу
+urlhash:15376aa522788d40742bd3cba1a8667b2b0ca09932eaf6248958c88fea2248cc
+titlehash:d72c334dd14d8edf4d3f0a290b02c13cb2e04e21bd9d139788a4a9df6dee0844
+published_url:https://theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar
+title:rodríguez defends venezuela s emergency earthquake response as number of bodies expected to soar
+urlhash:292ab5d1cf13ce4a148451390e376f3fb0260445e67c398aae0d7d3bb32c301d
+titlehash:2c7390055b66b63e51ac36e32424b30db102ea614dac651c9e850a29a4517220
+published_url:https://ft.com/content/d653e868-086c-4b15-a140-23081ac562a2
+title:firstft china releases christian pastor after trump raised his case with xi
+seen_urlhash:543d635b5d8b6800f473a597fd09c3b5359aed7ddb1bca221684125dbb301c39
+seen_titlehash:15f926652d9cde2dae91306c3ab2652e5ccb3d5649f828b3e5793253bfa917f9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/06/anthony-albanese-apologises-kylie-minogue-podcast-comment
+title:anthony albanese apologises unequivocally for podcast comment about kylie minogue
+seen_urlhash:ea57d539983e0dd6d1b240aefe7943d4070a72183814affbcc7361f9cd40c8a7
+seen_titlehash:ae682f4a45643db202d7abd1d13a87fb4eab9aabe9f2fae4a353b1cb9ec5f5cf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss
+title:venezuelan leader marks independence day with message of no social unrest
+seen_urlhash:c23d6dd180bfb366164dcd4634f0cd50864f7ba1c897c69b84b79ce1d259e48b
+seen_titlehash:df34c284b393e6c17af9ebf74c808d350863fb70d574013b754b078cd227114a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss
+title:how a son rescued his father from the rubble of venezuela s earthquakes
+seen_urlhash:48cb70680486938d9c98791808982c2128c4e66b85a0458dedb69c9b1ca80db5
+seen_titlehash:418aa3fdda0d268d0bdf6aa3ea2e831084b89b7f2a6cf41a414630c21495a669
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss
+title:palestinian baby dies in west bank after israel blocks urgent medical care
+seen_urlhash:ef13552e8417a974f73f3bb4b627c5feaa5d9a592a74ee2666ca24ee80ce9da0
+seen_titlehash:bd87cfbbd29f26fd8d1919018f81cb25766f3dc8a1c456f8b4060c6a74a7cdcc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss
+title:turkiye gears up for its first nato summit in 22 years
+seen_urlhash:76845ce74bd246029eb976659b20ef049a869fb055075dc8fa3dfef0c7a4ded1
+seen_titlehash:8fc2698e1a4863124ccd58758e02bfdc4c23de970cbf8db10ce9b12e3133dbe7
+seen_reason:processed_not_published
+url:https://news.sky.com/story/car-seats-the-mystery-of-our-depopulating-planet-13560389
+title:car seats the mystery of our depopulating planet
