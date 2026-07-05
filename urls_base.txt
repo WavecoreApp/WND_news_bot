@@ -1,138 +1,3 @@
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss
-title:aunt of venezuelan boy pulled from rubble tells bbc she will give him mother s warmth
-seen_urlhash:de437fa940d4bab7e76b5bf255287f10b188a65edf57726765db5cae03a85443
-seen_titlehash:aa453491a9e91bec8e4a663f1337742ebb3646d03f773382af4ba98c7607e643
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss
-title:e jean carroll demands donald trump pay 5 8m in damages from 2019 case
-seen_urlhash:a8c77a546bfc4fcf8715040a39f385ec5cb41e6c134e791cc3506b3a7b08e863
-seen_titlehash:4e00fac1fecba14af8b5392c725b79fb277540d90f51f5fe823dd5001a3914aa
-seen_reason:processed_not_published
-url:https://france24.com/en/americas/20260701-two-arrested-after-scaling-empire-state-building-antenna-for-marriage-proposal
-title:two arrested after climbing empire state building antenna for marriage proposal
-seen_urlhash:bec0f47517b15d4c4a0f1eeef2b5283e9b19bdc23963de553ac6017a95877cf6
-seen_titlehash:de3ae21aca4dc83839e79afb3107c7db13aebdf186623a9b4da82a3a58d0f6bc
-seen_reason:processed_not_published
-url:https://france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert
-title:fire breaks out in central kyiv after explosion during air raid alert
-seen_urlhash:5af5cd763d6c69f11715d6ebe91e91ba4d4122701feef9f5a341b1e3f733111a
-seen_titlehash:56e079809fb0931199775c03cb58b7d19f3e8d4b21c4f1d641f0d4618076ecb5
-seen_reason:processed_not_published
-url:https://france24.com/en/middle-east/20260701-us-iran-doha-talks-end-without-breakthrough-strait-of-hormuz
-title:us iran qatar talks show progress trump says as both sides set up hotline
-seen_urlhash:3f8896c561eb1eb9c24413275de3c6c69f0b049d2bd44081f076b7d7899d9a5a
-seen_titlehash:9acf27511f3609a70ffcf18e39309327d04b90526ae59376afeb8135c747f89f
-seen_reason:processed_not_published
-url:https://economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic
-title:the war room newsletter when war becomes a political aesthetic
-urlhash:f06631231173089e600ed1a3b61b207eb28b069dd7b09b0e426dad2eae31aee8
-titlehash:4e81fa5dc4c0c2daddd79babede9013bea986003433e2fd5e23f93fb8028cf66
-published_url:https://bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss
-title:at least one killed in major airstrikes on kyiv
-urlhash:a58e76624c7b54200138f07de794c8a0f7a73ffbbed1147283704ff829822d61
-titlehash:932d1e911ebd167d8acad65ade9feaef1477e0ce96400d6434820610ab996747
-published_url:https://nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html
-title:russia strikes ukraine as explosions rock capital of kyiv
-urlhash:0b606d848800d049bd5616976fb69325b9744ad75ab46120aaddc98a9c7c2f70
-titlehash:e1e49be6ddef59de84ba05fb0a5bbf13df56f156d572414c5faf64cfd3d28a7c
-published_url:https://aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss
-title:iran war live positive progress as us tehran wrap up indirect talks
-urlhash:167564c779eefe365ed1f7a033f63a3410894b3c4bef7ed9f44304df810b2783
-titlehash:f55f26518fa088a786ddc915f77f33d77aefb4d72be5736cbc6bbf3a69a77df4
-published_url:https://bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss
-title:from truman s pension to trump s billions a white house windfall unmatched by any president
-urlhash:d4bd1f668b28f72a8e33a4a902ba65e87384200e930e15587e8db80c496ee9d6
-titlehash:8052ea6f43f42613bbdd2e43281449965b0ce58503b86b469d41bcae4cc3d42a
-published_url:https://theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups
-title:china s ethnic unity law denounced as forced assimilation by rights groups
-urlhash:4ddc77e106d52703658bbdddea95adfdfb61003a04edf7e56d3bf118aaac7640
-titlehash:85a5dc0cb2b90eec76d74a0387ad66bdd191f789917c4b9218b0a6cd38be5c8c
-published_url:https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690
-title:alleged member of hacking group scattered spider arrested
-urlhash:8ce781b7fa1bdc812221d33a33208c50156c4dfe7ea30c801e07202f4b04f054
-titlehash:14d8ea51287d1073810007ecb51666468f11ecf4d7f9f69afc0ea345dbde9db7
-published_url:https://aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss
-title:a war zone venezuela aid workers fear health crisis after earthquakes
-seen_urlhash:c61ae723238082c4180afc197b1a0e342d0b86d54dad80ae9ab7b7af5aeae357
-seen_titlehash:708bfa7d30ccb6345faaa2cbd65652a903273ff72e5cbbbcae9235c08cd5c5b3
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss
-title:turkish police beat us with iron rods before we lost limbs to frostbite afghans say
-seen_urlhash:e86a85db1fb6dd4fe8c3549189826147dbca0e9fc5c3f02262e3e18fa7035d1e
-seen_titlehash:ff557401c3fb0489f8c7760eabdd887a09cf973dceb185a83c738c76fb3fc232
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/01/world/africa/congo-england-world-cup-kinshasa.html
-title:for congo fans the thrill of victory was so close until it wasn t
-seen_urlhash:8200432b5aeb3e91ad9af8ebfe6e2ffc52167c69991bba40f37c5ac04ca791bf
-seen_titlehash:30aca205ccab9cfcb5a8d06a59df1b5aeeb5d445bf7eaf311eb79dae6b0cab5d
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/02/melbourne-suspected-stabbing-teenager-death-craigieburn-community-hospital-ntwnfb
-title:melbourne stabbing teenagers arrested after boy left outside craigieburn hospital dies
-seen_urlhash:699d92a10535c443ca78a3062ae837c6ba8ff42bb73c18723ea0d4b35cc76a64
-seen_titlehash:2253f73a78a546afa1bc83a8315e93d0ce666638c8e21125304b308f4911d141
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/2/ocean-temperatures-hit-record-highs-as-el-nino-looms?traffic_source=rss
-title:ocean temperatures hit record highs as el niño looms
-seen_urlhash:e2e7c125acc9ec918cf145e9fc159c704b49117445e25c1bbd4f51d81efc28bd
-seen_titlehash:d461687144b46673484223fd47637f78e12e9411c0bb739cd64440bea1b1bf9c
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss
-title:couple arrested after daring empire state marriage proposal stunt
-seen_urlhash:d81bb559f2f5ed9122c50460e97b42aa02bf766b4dd02bf74739a7f6997ff4d5
-seen_titlehash:8410d5c1bba937854cff61eda1322fb4c7092c6f4d6cef79d09bff8fe9fe6cfc
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss
-title:us judge sides with naacp over proposed mail in ballot restrictions
-seen_urlhash:042a861fef5dc70df24765c2c0f27b4819113e4225a751ec3ca78ba5643d4513
-seen_titlehash:150629bde2fd5620b6e3fdbd4b6f360c8a2bf62fef20c0d29c289746258cd1bd
-seen_reason:processed_not_published
-url:https://dw.com/ru/массированная-атака-рф-на-киев-1-человек-погиб-11-получили-ранения/a-77794195?maca=rus-rss-ru-all-1126-rdf
-title:массированная атака рф на киев 1 человек погиб 11 получили ранения
-seen_urlhash:8212d5a62d3c329a329037d972f00be6ee64699689e5e359e8c218cda40ff499
-seen_titlehash:15a2b1c68c5d09c4f5cf2eaea1d0d9119534d4dd8f5e5886ade409b49b0fb638
-seen_reason:processed_not_published
-url:https://dw.com/ru/руферы-из-россии-забрались-на-шпиль-empire-state-building-в-нью-йорке/a-77793923?maca=rus-rss-ru-all-1126-rdf
-title:руферы из россии забрались на шпиль empire state building в нью йорке
-seen_urlhash:3ab08d5015ca2dccfde23cf06a9fcc71f860d1ec6be52aba14ed57dd5abf5263
-seen_titlehash:0da263dbdd3744c2ab29be3925d3105979b1a390dd0b253a07350572e6037a9a
-seen_reason:processed_not_published
-url:https://ft.com/content/bed4b1c8-6345-4a89-b356-4479783a9157
-title:china s instagram targets men to grow audience ahead of ipo
-seen_urlhash:52c3aed1a814b2294fa31d2dbdc53d7e9c2327aa7b098e3b747772f587a0f577
-seen_titlehash:8c4f8be14910564ed9ae38b6db24f30f23b9d4f98101a1af78688524e365b695
-seen_reason:processed_not_published
-url:https://ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6
-title:russia unleashes huge missile and drone attacks on kyiv
-seen_urlhash:384acdca86aa1a0b8bcf2fc44fcffc40237e229af2ab3f74cfd89223bd9f5fd3
-seen_titlehash:7f1c48efb275356b2641b3e2c11b59805ed7310e168c57ba02a89b92bbcd8a09
-seen_reason:processed_not_published
-url:https://ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a
-title:white house accelerates plans for ai model standards
-urlhash:e07ad9b4fd6ffee2389751ba4e89ae5bd1c60d1239fe334c5c8a1c2e9e826b98
-titlehash:0aa4b23070296e769de2b369e7fac3c2c19e3c24c6cf86267edc5b17b630cbc2
-published_url:https://aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss
-title:at least 10 killed in kyiv as zelenskyy warns of massive russian strike
-urlhash:35a0e46fdf5776c76e0d2f6965a375a1e4a4e86385e02de5178e7d024bc9627c
-titlehash:6eb6b481807334843102f5774947f744f2e7170684d1db7c3deb19608628cd5a
-published_url:https://meduza.io/news/2026/07/02/rossiya-nanesla-massirovannyy-udar-po-kievu-raketami-i-bespilotnikami-pogibli-ne-menee-10-chelovek-postradali-bolee-50
-title:россия нанесла массированный удар по киеву ракетами и беспилотниками погибли не менее 10 человек пострадали более 50
-urlhash:d864a8802f52e0a745dc138dccb6d0009fac20eb8c77e88e9b0ac215f6c524fb
-titlehash:c4d567b577f0e5f103f878ea79c49bdf726fb44a0b306a48319a878c312f6bbc
-published_url:https://bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss
-title:two weeks after her death i got a call gaza patients face agonising delays for evacuation
-urlhash:e4e55c1f18103d7ea4f0444af76c852f9668eb544431da8fb38b0511abfe4bfb
-titlehash:050d97c0c8da4df2f250466973fd2e3d023a34e38ea4d3c824f88cde3202b6e8
-published_url:https://aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss
-title:german prosecutors charge ukrainian suspect over nord stream explosions
-urlhash:84ae7d9cbd21027b6b12fc70636e8887ec753a2acb772f6df34d32f162c4a755
-titlehash:fac1f9760c04854abdf9d26b824c885f0ac4dba9e63867cadfe2ebf21c9a729f
-published_url:https://meduza.io/news/2026/07/02/ukrainskie-bespilotniki-atakovali-nizhniy-novgorod-pogib-odin-chelovek-po-dannym-telegram-kanalov-zagorelsya-neftepererabatyvayuschiy-zavod-v-kstovo
-title:украинские беспилотники атаковали нижний новгород погиб один человек загорелся нефтеперерабатывающий завод в кстово
-urlhash:b513724b1184af71a2cc2d61d77c3ff8dd25d9f50d33d57427a8922aa8d6dfd2
-titlehash:f04ce3f8ccaa78682765c55b81edf42dd1546c2468fb0f012af4ab4726c7b0ad
-published_url:https://ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b
-title:openai proposes handing trump administration 5 stake
 urlhash:2304fc842d9272c8d47146df421add531fc42b234cb8b321f5ffc0365e8c0e94
 titlehash:016f8f52b2077d44ee0ea66c308c47084fb1b928c1dc522c5f619c1027bc7242
 published_url:https://nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html
@@ -4998,3 +4863,138 @@ seen_titlehash:4bc90514b6a55a3961c6a47903a3ef3b062479409f504aab57279bdc16fa2202
 seen_reason:processed_not_published
 url:https://ft.com/content/33da8720-996b-49e3-a34a-61d33095c541
 title:rich nations must unleash land labour energy and capital
+urlhash:56396af36f979d3070f2720df9594b11c15329560f770e27f7d4b0bf10fe1c6e
+titlehash:41c0926dfba28ae2e1ee0fa859f8b3a0dd84e2a8303325c1ce0f4d3521c57ef7
+published_url:https://aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss
+title:millions attend funeral prayers for iran s khamenei and family
+urlhash:79ef3dcea6582ab77dff449a07ecd4211d24ff41d9dc32d231b18f382a7a7bd4
+titlehash:5c338eb5d0726daf2184f6007ccb6ee81041408f0e33e14a25cee499eb6bbd28
+published_url:http://ru.euronews.com/2026/07/05/second-day-of-ali-khamenei-funeral
+title:трое сыновей али хаменеи присутствовали на заупокойной молитве в тегеране преемник моджтаба нет
+urlhash:695bd05b348c2018082faa1fe50fd2ef623c271cb0c42e72a40b8016279041a7
+titlehash:2c4364924c80c168b9f0877feb6fb2ce9da57e89ac31b7c7424174c7d6beafd6
+published_url:http://ru.euronews.com/2026/07/05/iran-usa-trump-kill-funerals
+title:на похоронах али хаменеи певец призвал убить дональда трампа
+urlhash:8185aeeb651cf5c3a8cdfb2f734b9c3976e3e33ef231835ea964f6d5b7a8ee09
+titlehash:9a313ff8ccc678fa8cf5d2c8f5d3c5593395dd8a84d9b80bd11a6d1d08291d99
+published_url:https://bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss
+title:how iran s new regime is very different to what came before
+urlhash:3add5ebcd15db0a289495ebe1571bd6e63a39e628845456206cd2196c2df3692
+titlehash:a7a0336937a0094ca5ff56574eaa77a54b014ccfc4562967257a77613af17581
+published_url:https://france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father
+title:iran s new supreme leader mojtaba khamenei absent from mass funeral for father
+urlhash:f8e6ce1e924ec084782f4b5918b6b1388d4d2d8e81cc5a703ae8a07ec249d6b4
+titlehash:5e63d8f0ee8c97e2db35597f97c7d469a7797625a578057ac480a1f71830f09a
+published_url:https://dw.com/ru/страны-опек-продолжат-повышать-добычу-нефти-в-августе/a-77837707?maca=rus-rss-ru-all-1126-rdf
+title:страны опек продолжат повышать добычу нефти в августе
+urlhash:fb1099ac9b912915913b3cd68b9fb5fb00ea2c68168ba114169838df928d1fa7
+titlehash:04845c38e01b732e159fc1c4823a705634a9ab96f82f59a32eb583e34acc2784
+published_url:https://meduza.io/news/2026/07/05/minoborony-rf-zayavilo-chto-ukraina-ne-soglasilas-na-predlozhenie-o-prekraschenii-ognya-v-konstantinovke-dlya-peredachi-tel-pogibshih-kiev-otkaz-ne-podtverzhdal
+title:минобороны рф заявило что украина не согласилась на предложение о прекращении огня в константиновке для передачи тел погибших киев отказ не подтверждал
+urlhash:b1daed136fd059f67832ca460c93e4e10fddfd5b8383713498843664f679b500
+titlehash:a3d3a944f0caddde7dd8a1f0c29244ab1424cd31dccdd6bc56da4ae812535a37
+published_url:https://ft.com/content/25f274b2-69ba-4768-bcc6-aaddaea8030a
+title:saving nato in the era of trump
+urlhash:cc24a1118ae87f3050ad4e923a462382a3efc5754e52e9d33394dcbcddd80084
+titlehash:12e3ce82e3244ead66d83f723cb2dd00adf93563f0a122b33b8d74d33d172e00
+published_url:https://ft.com/content/f1fe0dae-d22b-4284-b0f9-fa10f717af1c
+title:us voters say trump s iran war not worth the cost ft poll
+urlhash:78783364ccb04f6ada75701fa6bb7b976a5c6b655d1281c59076b001f4b3684a
+titlehash:f1f710397699e98813e65ee689820348c516b02bb405b13bd42f2e986fb2b333
+published_url:https://ft.com/content/14e18591-a2a4-4011-b77d-48fa74dab7f4
+title:the europeanisation of nato is ever more important
+urlhash:57196666c5b9046f72309072a162e1b48217b42ed1c4d001a5627c544bd37349
+titlehash:19e2c2993a13a15e7d9f62801f8f4af99d8a9cd972b4b8eeee5e3c2c14204662
+published_url:https://bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss
+title:nigeria says two nationals killed in south africa amid rise of anti migrant attacks
+urlhash:fbd0503cee25cfb1ee9ef6c7b872a49e63226b6fdfe76c93e4eb4e91f4263ecd
+titlehash:36ec2cc897c3a6ea5785195a1af1bc73043cf914cb4a2a7d0ff71692da88c590
+published_url:https://theguardian.com/us-news/2026/jul/05/trumps-2bn-bonanza-heralds-the-rise-of-political-grifters-across-the-west
+title:trump s 2bn bonanza heralds the rise of political grifters across the west
+urlhash:d0e360ed6b3455ed0e9fb3d0f65f1545a6e4edd9c94c8ca1176bfaa491d86438
+titlehash:ff551eac0a021ccbeb7734de8cbb6376e833fac2d1f894052233f13d5e1a3f3e
+published_url:https://aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss
+title:at least 15 yemeni government troops killed in hodeidah fighting
+urlhash:07742853167e62003e72a91c9baf21432bb378178ac79805ceadaeff08c0fede
+titlehash:1324b4914a7540aebb697594da6395d0e9865b80e625774481e7515398bd206e
+published_url:https://france24.com/en/iran-needs-to-normalise-relations-with-the-us-somehow-to-save-economy-expert-says
+title:iran needs to normalise relations with the us somehow to save economy expert says
+urlhash:309ab3848c39e806decfc2dbb08cbe15d6e1f4d12dab3d542615a950a9966c47
+titlehash:16f6fea4b4ea1b99c8acc45b4395da338ec7214a96a77d103210f92668d3342b
+published_url:https://meduza.io/feature/2026/07/05/voyna
+title:война 1593 й день крымский рубильник в положении off всу нанесли удары по электроподстанциям в крыму евпатория осталась без электричества и воды
+seen_urlhash:db310abc02e062c97189ce834f94cfeeaa52d0f8c9e5de470ac0a66f68e45aaf
+seen_titlehash:8be4048cfdfa1d99bb19849d50dd2fb24efef51d720dd0ead292824562e4eef3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/06/australian-aged-care-firm-accused-in-class-action-of-charging-residents-for-high-teas-and-classes-they-couldnt-use-ntwnfb
+title:australian aged care firm accused in class action of charging residents for high teas and classes they couldn t use
+seen_urlhash:7ca2da40f5f5c167f439eee526204981996a3bdafe37e550e5716d62e16018b3
+seen_titlehash:31580f78c641810b59c050fab0b63d28c421586d2420f80e274cb688d633d4e8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss
+title:extreme weather disrupts us s 250th anniversary celebrations
+seen_urlhash:4af9daf26eb6032d154f4b45f65056059ab5c5796e859c9118c2d2349bc6ce0b
+seen_titlehash:d7ae468e3f46409f15b3f179448b508c8dff02b50993825d1cabe42fa132b9ec
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/dr-hussam-abu-safias-life-in-grave?traffic_source=rss
+title:dr hussam abu safia s life in grave danger
+seen_urlhash:ce9ddeeee44671a986f9daf4b7eb559ccb997cc679d73bc3c619de643720638e
+seen_titlehash:ad46a6695d7d9046ab99a4a2478bca52d6e6264f4c7e4db2b452486dbc69c037
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/tech-24/20260705-alibaba-bans-claude-for-staff-%E2%80%93-anthropic-didn-t-want-them-using-it-anyway
+title:alibaba bans claude for staff anthropic didn t want them using it anyway
+seen_urlhash:75562a769dbdea9875f488c5ca166381d5f012a381e5e3c6ab993aab08a8fdf0
+seen_titlehash:24f3b3e85dd9ab1de129335475e39e810941a890d9ef4598c71589ebbce0a8c8
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260705-at-the-foot-of-mount-olympus-a-return-to-ancient-greek-heritage
+title:summer festival revives worship of ancient greek deities at mount olympus
+seen_urlhash:6f724a8d5f2dafa4b6eefbd6b60d2e7b7a644f511240ae5caa70b5ecac0141c8
+seen_titlehash:d16d361ba9136e9e2e4b3d15998ddd89f51eb48acfece3f432bd4778b5f3e67b
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-гей-парад-csd-в-кельне-вышли-60-тысяч-человек/a-77837293?maca=rus-rss-ru-all-1126-rdf
+title:на гей парад csd в кельне вышли 60 тысяч человек
+seen_urlhash:9633a42333b271696a08c3ff1a0f45a97f327628cb3bc5eb18c99b5388810de2
+seen_titlehash:53d4d43da930a24ecec527e858a10267d74c471eb99abc591c9d6d9e219837c6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/05/in-berlin-reopens-cult-coffee-palace
+title:в берлине царит ностальгия вновь открылось культовое кафе мороженое mokka milch
+seen_urlhash:4a7684a8c34e4ecdcfc645bb96bb26654c52c9b2cbac0120a2529a1e9bd9d4f6
+seen_titlehash:735ba1c7545def7cf6746ec44890978268ccc0f59f017d5ea0647ed56d757c4d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/05/vance-usa-uk-critics-leaders-fail
+title:джей ди вэнс прекрасную британию подвели ее лидеры
+seen_urlhash:2c910efc46b6d0b27ed4f8606a42a123fac2f91540e9cfd6910c295a4378ff13
+seen_titlehash:27176540ac8fb05027963c2f08d83b85d1ac1e55f2ed5ad3e3310a51b931cd91
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/05/france-rn-lepen-bardella-together
+title:марин ле пен и жордан барделла клянутся друг другу в доверии и дружбе
+seen_urlhash:f55e7ee3d73c66684a97a574953da2cec829866978bc245d9663d532571abb2b
+seen_titlehash:12e4391c91982370ea9a905f5bab6e4d03e3a9e834a0cf7a4a9d8572de4eecc8
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/05/modzhtaba-hamenei-ne-poyavilsya-na-tseremonii-proschaniya-s-ottsom
+title:моджтаба хаменеи не появился на церемонии прощания с отцом
+seen_urlhash:e0433d992fdc6c05029311f31363026f83be707c5898d767bca1fc171ee101ff
+seen_titlehash:99008eacf156adc772de5713b4bec7d6c3f808001a0c34d5c886cef29747fa0f
+seen_reason:processed_not_published
+url:https://ft.com/content/8cb4128b-8dbc-45fd-afdc-1e6f2530536d
+title:data centres are a crucial test of us industrial resolve
+seen_urlhash:ae0d7147056442892920efe9c5e86963187f5e8a53696042cb4d2cc8065b13ec
+seen_titlehash:ac31440884c9799399e1cee4f10c720b7a8de565d8e42b54a43874f4fbca263f
+seen_reason:processed_not_published
+url:https://ft.com/content/18fee7c3-45e3-4b8f-9b8c-c42e19a7df97
+title:return powers to holyrood taken after brexit scottish minister tells burnham
+seen_urlhash:5f74f8b441c0ec5977e522ca46b35d84e87e88926ea52ce4dbedea1303d9d58f
+seen_titlehash:d2c94818f24f73666ddd5d85589994735be7394b065bdc0b6ea745ec736c1cf1
+seen_reason:processed_not_published
+url:https://ft.com/content/b6557e3c-c5ab-404b-9f0d-a922a76ac866
+title:parliament watchdog urged to investigate nigel farage over benefits from fraudster
+seen_urlhash:cbb4435ea1fd1af278423d604c0eadd502b5a51477f0dd437efba8cbe0b4fbe3
+seen_titlehash:7fe2d5842c1a151336c3e8eb2c8acd933e611d0430d5a5aecb8b6297d32bf47d
+seen_reason:processed_not_published
+url:https://ft.com/content/5df9fa06-9719-4de5-b454-53b49346382d
+title:bernard arnault ordered to pay 22 5mn in back taxes
+seen_urlhash:5ed766ce1d8cea8704d8439fde342b9fc341a7baef278faaa5636f86e26a9575
+seen_titlehash:fb77efe4c88278425c3e38c98e999db6ef2561c75b418536c6ad3cc41badb434
+seen_reason:processed_not_published
+url:https://ft.com/content/a3dedf8e-f0fa-4646-a18e-5842c7359e3c
+title:iran leadership shows unity at ayatollah s funeral but successor absent
