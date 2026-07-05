@@ -1,89 +1,3 @@
-seen_urlhash:04c846038b6938ab8ff4c192fcafa9ad8d876f5299d2d1f6c5bc48da9d923739
-seen_titlehash:b5265f6d03c83cdd1ce2e72238b7ce5ae13ef728aa578e50e05c1b1dcae9032d
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss
-title:the iran talks expose the collapse of us diplomacy
-seen_urlhash:2c84ae74ca84cde93578846b15fbe4a8d5d81fa0e8089ed970600df7ae9ec456
-seen_titlehash:c4a590e53ca30d04ade96640ee9a274d2a4769d896f3fdf989a2c893e3c0d73d
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss
-title:warmest june on record for england second warmest for uk says met office
-seen_urlhash:a6282604fc5942d8223fb7d165652a91b4a681d87cad2d3e737607e29d78cc2d
-seen_titlehash:e2a717543944c58a7f0945462232337eaefb873eda9fc11c500745b176b8a58d
-seen_reason:processed_not_published
-url:https://france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings
-title:everybody s profiting trump defends 1 4 bn crypto earnings
-seen_urlhash:42a539c820f239cdc0f441d3bdcf6e711d52386571ef67d3b26e16308ce9d28c
-seen_titlehash:74489e7ba7de4bd73ba7027f742c3c7d3b6fa8e472c9724a80ddae17fca9d7a6
-seen_reason:processed_not_published
-url:https://france24.com/en/why-anthropic-s-most-powerful-ai-models-are-back-online
-title:why anthropic s most powerful ai models are back online
-seen_urlhash:ac4244adea1f3397061c070e2bb26b73b1d2afbdce241f4422428e93fd2d4731
-seen_titlehash:1a59fd8c65c4764c32737519602b571a364037d54d290ad3f8b787d629ce2f0d
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/rosstat-opublikoval-dannye-o-roste-tsen-na-toplivo-za-nedelyu-benzin-podorozhal-na-1-6
-title:росстат опубликовал данные о росте цен на топливо за неделю бензин подорожал на 1 6
-seen_urlhash:fab048e077ac3436c147ddeb4749bf9b5d4bbbb8eb2ceaf495a184ca799fc2db
-seen_titlehash:71d177fb1b97671fa8f69d606a44bdb5eade80d2e6f3f1db57365756aa1c7d05
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/zampreda-duhovnogo-upravleniya-musulman-rossii-snova-oshtrafovali-iz-za-kartiny-v-ego-ofise
-title:зампреда духовного управления мусульман россии снова оштрафовали из за картины в его офисе
-seen_urlhash:8299a4f4438a84fa624b84d833e77f527d2454f98938b930f364b0c8dfaac671
-seen_titlehash:4904fc3d540f850ac4a0356c58dc2456ea006776a36dae57b1d559261b600241
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/01/fas-potrebovala-ot-apple-ustranit-diskriminatsiyu-rossiyskih-razrabotchikov-prilozheniy-i-prigrozila-shtrafom-do-chetyreh-milliardov-rubley
-title:фас потребовала от apple устранить дискриминацию российских разработчиков приложений и пригрозила штрафом до четырех миллиардов рублей
-urlhash:61126954a360d8ba8af6133fad6f7625ae01b9f30c51bda4f98a001aec1f1b31
-titlehash:50fe46b839abcaaaa34a1fdc16fa2451654fbddeccd5a81983256b16437fe596
-published_url:https://aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss
-title:israel kills three palestinians in gaza despite ceasefire
-urlhash:975cf334745f0135bdc5394038464575edc7113e7f9352a7e3f5382960f6f03c
-titlehash:0c67ba939db3506ef597f32fdf7df4a4ccc664fd5a6e28e871e5125602f79f38
-published_url:http://ru.euronews.com/2026/07/01/ship-runs-aground-in-hormuz
-title:судно село на мель в ормузе иран настаивает на контроле пролива
-urlhash:64cd544674bf4b49dacca1d52af7f5739ead3fa387d90ddea98fbb4b86cf46d7
-titlehash:5544e100614b078761c42c8e618d7cb3417ebdb7685f5a24ec540e10cc69454f
-published_url:https://bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss
-title:us blocks long term renewal of north american trade deal
-urlhash:98a75235b87544f32d251e7844bc91d5ddd4853a1e9ee5b71368538478da8429
-titlehash:3c24ecfa6e7826142e19df617a9c41f5fc2dfde3239a8264f0f95b331ba5080c
-published_url:https://aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss
-title:us signs 1 lease with israel to build permanent embassy in west jerusalem
-urlhash:920abc993e174e7d09b283f2561368d613a9075f9be103963859231bc5a36cbd
-titlehash:e010b41ca929a83d3a6c0e6835b8867b18092b073855a35f881a624f1f032a0d
-published_url:https://aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss
-title:iran to open communication channel on mou with us after talks in qatar
-urlhash:95f4e79657acaaf4ef2e9b9f46d22ff6b98b947fba9e82940c12316112a2386d
-titlehash:ae87827e8cd7dfd2ad08e66b52bbb0c6619f1f0cfae0aca09c88200a472d30ac
-published_url:http://ru.euronews.com/my-europe/2026/07/01/finland-entrepreneur-jailed
-title:финский бизнесмен получил более 3 лет тюрьмы за поставку грузовиков в россию в обход санкций
-urlhash:f487753cbe74bb27164dd932bdcb36dfe3f50feaa4d537f085877a9b7541e3ae
-titlehash:22657b9a89ead173f66a40a5dd8643ab530c1466b098443efe08ef1e5ce5d2eb
-published_url:https://ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f
-title:mega takeovers drive record 2 8tn in dealmaking
-urlhash:4831b5ccb3655ae0a86aa7a6499dc1c5638a7bf5adb8f01f7ddffe55fe9634cf
-titlehash:81a1b38d3c10420e7a459df4103f12a0f25c7bc673215a29dccb232b763e9786
-published_url:http://ru.euronews.com/2026/07/01/v-ssha-podali-isk-protiv-maduro
-title:в сша подали иск против мадуро за внесудебные казни в венесуэле
-urlhash:19073b11a04b141fb7be0b37bdd60a7af140b01f82c92e3f34166a822d84e851
-titlehash:b3ef7756412e656f09c1ed6bb1adb8f95d54776b0d1ae8eafb5c60eb3547cb3b
-published_url:https://ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194
-title:knds postpones plans for stock market listing
-seen_urlhash:8997a82f880ac6661e22fed3e18cbb13f85dfd55f8bbe43fb7c2b488c2c60523
-seen_titlehash:7464f04185031ca0bacce1fa60922ad5ccd38f38c0ec3760fac806371467f3fd
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss
-title:nigeria to seek compensation for property abandoned by citizens fleeing south africa
-seen_urlhash:f4384c9b06f1e99c7449fcdccb06dc3c549a0500af56941ac2e5399e921aba9b
-seen_titlehash:bb60c743f9fffe9c40b41dd932809be91db2315effe17b6c88bd4be54f540eb2
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss
-title:watch two people climb to highest point of empire state building
-seen_urlhash:23947f8a031402183e34ea226cc3cac116162320f7e77efb5d21413d9c434133
-seen_titlehash:4f5ca9f85627f954aa433ebe382ac7a38d1a9c29dee02041b1eac4026399744e
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html
-title:ukraine takes the war to russia
 seen_urlhash:e1637fd1a9accd0d030ef45c6a2838a7c9b9f1b11a8c6fa58c9fde9975e72a57
 seen_titlehash:e16821e7243e09dc252ebcc533285e04747c153675af7cf58ea5fb0135d7f76f
 seen_reason:processed_not_published
@@ -4998,3 +4912,89 @@ seen_titlehash:ecfc161784f5caf01d256a3a8653e39588bb89f16c47bcdc69a3dcc11d6a42ce
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/05/v-slovakii-referendum-ob-otmene-pozhiznennoy-pensii-premier-ministru-robertu-fitso-i-drugim-chinovnikam-sorvalsya-iz-za-nizkoy-yavki
 title:в словакии референдум об отмене пожизненных выплат премьер министру роберту фицо сорвался из за низкой явки
+urlhash:61c0db460d981bb4f1429efdff639ca828d0861b688289cc2d71f9325bf6bca0
+titlehash:397343b42e5f865720d3736c0cdd72d6072380d33dde5f811ea2568b75ac454a
+published_url:https://nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html
+title:mourners chant revenge at funeral prayers for iran s slain supreme leader
+urlhash:533a043cf3aad9e05460a68101fcafc12910deb491843e38ca15eee20f0910b5
+titlehash:7b586b9fd3983a292f5c5cee4eddbe48c3171e9fb6b74a19aac5f371788026b4
+published_url:https://aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss
+title:china and russia to hold annual joint naval drills
+urlhash:4b5fa6beb1d2291d5080df07088e6109995dc93526396a7f853c840ead82ad0d
+titlehash:8cfeebcfa89742f31c4469ce9f5f1c1e24f6b8a55b61855ffec2fb6132025549
+published_url:http://ru.euronews.com/2026/07/05/trump-zelensky-putin-calls
+title:зеленский и путин созвонились с трампом в день независимости сша
+urlhash:c9e2304a0d5d25b18546764c866491039e0ec397fd2a8bf6420244319cb330c4
+titlehash:50cba36212c303a38d31dbe03facfad81596fbcbc16c5200114aefdca7cb0277
+published_url:https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578
+title:chinese pastor freed after donald trump raised issue of his release with xi jinping
+urlhash:8343efcdf392a4c149243cdce785daa8c3a03baa8c48ed271044f20d87fd13ab
+titlehash:b3773bbb54db082cf65be9d01a46941de18ac7b2c347d31ca5172c8369d6bb66
+published_url:https://france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000
+title:rescue teams wind down operations as death toll nears 3 000
+urlhash:2905b1664681b8ae75246580d95455581f174745d229a623d50896edda42585c
+titlehash:c29aec5634f481d4de781018783fc36ece1ad319d5b327bb0c83261affb31a4a
+published_url:https://dw.com/ru/импорт-бензина-в-россию-из-беларуси-достиг-исторического-максимума/a-77836910?maca=rus-rss-ru-all-1126-rdf
+title:импорт бензина в россию из беларуси достиг исторического максимума
+urlhash:f37ab958e52c104382d46df31f47d8bc9e28fdb0a9c18492ee07ea450435b2ab
+titlehash:204e110f874e285e5c64b402a94bbe545b539813cfdf3bb84d1973d04a7ce61e
+published_url:https://meduza.io/news/2026/07/05/glava-prigranichnogo-grayvoronskogo-okruga-belgorodskoy-oblasti-ranen-v-rezultate-ataki-bespilotnika
+title:глава приграничного грайворонского округа белгородской области ранен в результате атаки беспилотника
+urlhash:c535cb672ec8ff051c624d8fcc7faed86ba38aed9204ff6c229bcef0fdb5d9c5
+titlehash:93d071eda6b7300c9799325044d147bb1a24734a429884f986816689467e9b58
+published_url:https://aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss
+title:release dr hussam abu safia immediately
+urlhash:70d3c5f6ca0a6ed47e373d5e2c12f3e525f0fc1cdc238588b184de61ca602b0d
+titlehash:3b80a900b433f268bc178ba6f7affb3bd2af232683246894a232e1c5269f3a97
+published_url:https://france24.com/en/france/20260705-marine-le-pen-appeal-will-she-be-barred-from-running-for-french-presidency
+title:marine le pen appeal verdict will the far right leader be barred from the french presidency
+seen_urlhash:58bad21f697b925d06f11a7c9b417b9d77ee0ecd9d3bef17d9d59c9c945a0dd0
+seen_titlehash:96a2552eeef3690d6fe80492538dde49ceaecc77c2078bb95cca20401b36c27a
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss
+title:sooryavanshi sets record for youngest india player in international match
+seen_urlhash:bd0420213e7661708c97e878f46dd0567033686b6a7ccfc77395d85090411460
+seen_titlehash:9677833440182c7246b7f997a0b6607b76f7bdb27ad78b1e358bd78accffa038
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss
+title:trump praises us military as it marks 250 years of independence
+seen_urlhash:240c05ca5e0fc0b605cdd97f3548775a255c81a53946a2cb8869e03aa987c798
+seen_titlehash:2dd08177dc236abdcf03941a7318fdfcaeed731201ead6552ddb404ce329e2ff
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report?traffic_source=rss
+title:reform uk s farage failed to disclose funds from convicted criminal report
+seen_urlhash:6f6d712f99114446329934f7beb6c9e246ee88b1a77bc99f2051d647c543acc6
+seen_titlehash:ec48b7f7ed3d6511996b353a79c9ef2fe02064d0890b24ddcbf2fa1fc84ee8d1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-listening-post/2026/7/5/how-xenophobia-went-viral-in-south-africa?traffic_source=rss
+title:how xenophobia went viral in south africa
+seen_urlhash:edd1e2efb13031d03d415ab85bba8ab6df8f60087dbf36ed1ccff5bea3d1adf9
+seen_titlehash:abf5f493fd5b37b2479632567c419bf21ac686a3bd1ac11a9fde12b2fbe94759
+seen_reason:processed_not_published
+url:https://france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape
+title:us celebrates 250 years of independence amid polarising political landscape
+seen_urlhash:e484ccbf22f4bda2166357a7e4c75847a57b69e28e55e7a94d7cc488dd4f5fe6
+seen_titlehash:ece1c06f9e1452354a66ee7f4949b4e275d0984ad2021aa346444af200307ef1
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-словакии-провалился-референдум-о-льготах-для-экс-премьеров/a-77836713?maca=rus-rss-ru-all-1126-rdf
+title:в словакии провалился референдум о льготах для экс премьеров
+seen_urlhash:a49630ca1cb6afaab1c46bafb47970df80a7c891953902339c0481b660112f6e
+seen_titlehash:ef51796567bf7a18a9834c10ae3c6c90c721e3f3fc1022468a193e8a84b74153
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/05/englands-lake-district-has-introduced-a-47-unlimited-travel-pass-for-visitors
+title:озерный край англии вводит безлимитный проездной за 47 для туристов
+seen_urlhash:d8790d44a18bee5d88b2437949603c55a4e0216ba4d398ea301b6a0fec7c15bd
+seen_titlehash:bb66d652ff100222757df71ce908e77790e33e0255ff008bb2184f44032d274b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/05/usa-independent-trump-speech
+title:трамп американская мечта вернулась речь на день независимости сша
+seen_urlhash:4212c5347c513fd6c442927dfb60286113ebe26808a73a1b757e5021ae3317ee
+seen_titlehash:d5a52cfd4be1ba5475994a9db2232bc009758b6dff65fde2595d789fbc4cb617
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/05/v-varshave-vyshel-spektakl-salyut-po-pervomu-esche-ne-opublikovannomu-romanu-ivana-vyrypaeva
+title:в варшаве вышел спектакль салют по первому еще не опубликованному роману ивана вырыпаева эмигранты из россии ходят на вечеринки влюбляются и ни слова не говорят о банковских карточках
+seen_urlhash:91b93031dd8b02650535d4859cee7b65b5a5caee6ea0af1f02f07659c3aebac2
+seen_titlehash:7aa7b0319fe1d521e0f3c7c32bbd0685f75ae9b659372eabb207384ee63d2a5d
+seen_reason:processed_not_published
+url:https://ft.com/content/7073e7b5-d845-44b5-a36b-d638c7de4cdd
+title:lululemon s latest struggle slowing sales in key china market
