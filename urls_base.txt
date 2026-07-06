@@ -1,54 +1,3 @@
-seen_titlehash:bf07f81c458046170cf5d320ed5cb299bc147e7947a8fdc245e38fa572ca392d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/next/2026/07/03/data-protection-rules-slow-down-the-rollout-of-large-language-models-in-europe-study-finds
-title:исследование правила защиты данных тормозят запуск llm в европе
-seen_urlhash:4bc6af0fb62b668e9177884d0fe52f3f1b33fbf477ff954fe823d0e249922dac
-seen_titlehash:75b38108187df4997b935f62a0d9f94a7d719d518dbdf9417bc481e8c0db1b15
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/03/drinking-coffee-may-reduce-the-risk-of-liver-disease-and-death-a-study-suggests
-title:кофе может снизить риск заболеваний печени и смертности показало исследование
-seen_urlhash:94bb5094992b6653ee412cf23f8f809e4a7914cc7aa291e887ce8d3be9c85c5e
-seen_titlehash:be11cb733b23be8eae4de398f2a935c83a6097a066d17b6fbf0fe5ed1bf19270
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/03/the-storks-were-here-before-me-pensioners-live-side-by-side-with-storks-in-this-croatian-v
-title:аисты здесь раньше людей пенсионеры живут рядом с ними в хорватской деревне
-seen_urlhash:6aba4d845853d2810456676bba69b7dd8341823d8a0971238862967c22a39a87
-seen_titlehash:690592c5289e25ddfc4f7e5e31ecd0f3440a3e66953347dca0142dbb82a6f901
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/03/monaco-bomb-suspect-identified
-title:прокуратура монако установила подозреваемого по делу о взрыве посылки
-seen_urlhash:0077bc7d23c751d7a7de489e54e37c77558bdafd230e9ccd2d38ebee4dfca29f
-seen_titlehash:b6005e58be64299497f9fdb4cc91cf6dc2714ed32f814fff066349ecb85c04df
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/03/mama-ty-seychas-uydesh-budesh-tam-v-bezopasnosti-a-ya-zdes-znaesh-skolko-vsego-oni-mogut-zdes-sdelat
-title:мама ты сейчас уйдешь будешь там в безопасности а я здесь знаешь сколько всего они могут здесь сделать 17 летний арсений турбин один из самых юных политзаключенных в россии его мать ирину вынудили уволиться вероятно из за дела сына
-seen_urlhash:de0b22ec1836779b164687056b877a9fc90d99de2bb1b8443d711b7703cde37f
-seen_titlehash:416ffe09b0944a5719328ef5064cbc115a0747787a6f0260a29ba24ef0eab04c
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/03/duh-ankoridzha-okonchatelno-rastvorilsya-v-vozduhe
-title:дух анкориджа окончательно растворился в воздухе рассказываем откуда взялся этот пропагандистский штамп и как он погиб
-seen_urlhash:a87e7b54d19074e7465c38ed1eac40c9750de8fe371a7e1814ff4ea9372fd852
-seen_titlehash:ba976639cc6e98490c0253bdd9d86fd6d78dc29e83613a9a50791da65328660e
-seen_reason:processed_not_published
-url:https://ft.com/content/9be2c49c-a5fb-483d-99f8-81c8fa1e9753
-title:the june jobs report was a blip we hope
-seen_urlhash:2e64952fa5cb6ffc3bd8b33c66b28badfc0c25c8a72f3437917ecb686b590466
-seen_titlehash:5db680ab97e69ac67a99bc74be7e205624dfa222e144160737cf003d832acb01
-seen_reason:processed_not_published
-url:https://ft.com/content/2fe80a3c-8bf8-49bd-93b5-a7ce95047ed8
-title:is the eu competitiveness push stuck in the european parliament
-seen_urlhash:5c540a1389ecf674e7646807956ae7d6ed639bcfc67cd73b4f5260f4d35f4afc
-seen_titlehash:d39ba476344ac43ad030aa42a3ac2c7dd7a762bfa435afe35285c38f137fb207
-seen_reason:processed_not_published
-url:https://ft.com/content/a30da432-910f-4879-ad8f-845970d3cce3
-title:firstft anthropic clamps down on chinese access to claude
-seen_urlhash:714570e1393c1e9900f6336eeb4e3df66893e196e432f4095f8d5b38e0d0d5e9
-seen_titlehash:391b064fb06a15abf3da23c1a65dee1eede92b1358fa1e7fad139cb290e819d8
-seen_reason:processed_not_published
-url:https://ft.com/content/c33d07f9-038e-4a65-8a64-788cda170271
-title:apollo s grocery aisle mess
-seen_urlhash:d3330ff15681b28f99a6f799d07708c0fa5aacaa0f3c5bbdd52f2fdc52f7dcb4
-seen_titlehash:3a28239b0bddec48d6b933e80816d7e13d8a51deddf01dc7d1c4a05b2f17fc55
 seen_reason:processed_not_published
 url:https://ft.com/content/1d3da122-c043-4e51-bb95-ac68d41ab838
 title:surging wall street profit forecasts fuel fears of earnings bubble
@@ -4998,3 +4947,54 @@ seen_titlehash:6c9d7a5bb0dda6e36efb358d0ad5b4fba2d8b5bdc355835163e5683b26f596f2
 seen_reason:processed_not_published
 url:https://france24.com/en/love-deception-and-the-real-lives-of-nigeria-s-romance-fraudsters
 title:love deception and the real lives of nigeria s romance fraudsters
+urlhash:3de1b50a63908d156e46d285630762209d15f2841954e601c81976a366e6960d
+titlehash:09037c3f6223cb98ef01e8ff2bff13bbc297c9da4a7c892ae372717b9ca5eb87
+published_url:https://news.sky.com/story/french-president-becomes-first-major-western-leader-to-visit-syria-since-fall-of-assad-13561090
+title:macron first major western leader to visit syria since fall of assad
+urlhash:24041cbf5e8bfb9125f12360485b6721f00cb2fa221e92b1e27406e11cdeeb1e
+titlehash:51c351db098d724060674f9faae67e1f5ab26751987eb42442c5bd0c0dbb70c5
+published_url:https://meduza.io/news/2026/07/07/kompanii-operatoru-severnyh-potokov-otkazali-v-kompensatsii-za-podryv-gazoprovodov
+title:компании оператору северных потоков отказали в компенсации за подрыв газопроводов
+urlhash:90b32ed95d3c9f6a55377eab9857a670344338e6a7ad5ec2a271090a8078f165
+titlehash:3d567e31aa156c7ea39a96b01daca10b60d2758b6aeb7207c2889d834b68b5cc
+published_url:https://aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss
+title:morocco says it has dismantled isil linked cell planning attack
+urlhash:eaee69521e1cbe2e209f1134248f9c7237a0a914eab4c76418c0a2d5ef499c40
+titlehash:fa9f502bdc976dd98d04d39e4e153827035c087d204f99d39308b1133943df06
+published_url:https://france24.com/en/restraining-order-needed-trump-shares-doctored-meloni-meme-to-reignite-feud-1
+title:restraining order needed trump shares doctored meloni meme to reignite feud
+seen_urlhash:1cd685231dd4841d01d86066d00d874a136f31076dc5d0cac25d3587eb81f2c6
+seen_titlehash:3b2f7afb7d5eed67900a9198dc3ea5cef75fe505b00ab429437251a8ba7a1f23
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/06/world/australia/spate-of-shark-attacks-means-more-drones-for-australias-beaches.html
+title:spate of shark attacks means more drones for australia s beaches
+seen_urlhash:75210866999db191ab6a8beb824348807ca6c01a2a590b700f01a6ddffce1409
+seen_titlehash:2c0a2af1af36b8589172265c282d99c9b6cfaf25c600fc155900f0455481c1d3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html
+title:nato needs turkey
+seen_urlhash:10cc80a1cfa4d198bcbca2d2783c7d28cf85e1d6003ad957cec80f91db3ce246
+seen_titlehash:772639ed6cf565779f675010f6679e39675cfbe37a6fdb60564960dea0cfd746
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement
+title:china says man who flew plane into beijing skyscraper had mental health problems
+seen_urlhash:96ec424c90e55fa98dbeacb0065c78576d64085ec0f512b1d99cacbeed7f1b16
+seen_titlehash:977dc6dd8ff3890b3e69225632a12e82cb275a80f924fc7a3d64aa1b0c66db07
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss
+title:influencers say they re honoured to attend khamenei funeral
+seen_urlhash:5ed234f208133b292d1e704f0a770bc753693d04684df5b689cecbd890db58fd
+seen_titlehash:cc6c5316f47bca931f825c1603585f0b5366cc0afa49adee481d338b9b923ed5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss
+title:survivors and bodies still being pulled from rubble days after twin quakes
+seen_urlhash:9fb2817ec9a40744e9ded6404e2f687ef6c4c87c3714393a38ea708353768711
+seen_titlehash:2cf66e7435fb1e662c057f277abdc483f7933de7cd3456ffff027ed02e8b699b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss
+title:macron arrives in syria for talks ahead of nato summit in turkiye
+seen_urlhash:92232268cef30362a22dceead5a766c212bbd036e140658fdc7264bd2457bae3
+seen_titlehash:798bd5c9f28c2f4b91a4b16f6516fea422cc8d536e6324730bbcd20cf545da3e
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict?traffic_source=rss
+title:us judge tosses out musk s bid to void twitter fraud verdict
