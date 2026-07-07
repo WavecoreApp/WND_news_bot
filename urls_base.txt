@@ -1,47 +1,3 @@
-seen_reason:processed_not_published
-url:https://theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed
-title:uk woman 21 arrested in thailand after allegedly stabbing boyfriend to death
-seen_urlhash:af78516b4ad80dac3e93c934dcf05659310cc110cf46b3aa68b50a0d1d3ea835
-seen_titlehash:847cd700918f4da0731543ac9058939128591c5e5374e09c0d8ea32ed720281f
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss
-title:america250 how the us heatwave will affect fourth of july celebrations
-seen_urlhash:af9f26f991aa262ad34a0fa6c6389eb57108d71b9b861eaf3de1c77c30e1ba37
-seen_titlehash:8c234199facaed02c0cf1367b7aae9b3dfc397cf7f6ec1af9e02a6326b2de118
-seen_reason:processed_not_published
-url:https://aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss
-title:millions mourn iran s ali khamenei amid historic funeral procession
-seen_urlhash:ff36bd0e8eb8784eb7f22fbc29d6a8618f4f988ce3a76527979c032bb464a748
-seen_titlehash:7525d880e8a12bac2af4a266e97120058817332acdf38fa28f75350df5922100
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss
-title:thousands gather as khamenei funeral ceremonies open in tehran
-seen_urlhash:c470b879c8bb992b9a159a2053a9c3e41359a538a022f0b20230848fda4d638f
-seen_titlehash:c2f4d1e85db0c728c8bfdbf46c8d2e9f6fe05b5b1c7f2159b4c56f555301b342
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss
-title:mali s army says rebels launch new attacks on towns and cities
-seen_urlhash:f40196294276858e2f0be0446c41fff2cdd7b1bca4d618b536a6213c7b814e29
-seen_titlehash:441059c5868a3120f544f00769eccb2b1804827920ac2140fd125eace0315fa0
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss
-title:saudi led coalition pledges unprecedented force against houthi threats
-seen_urlhash:1d41b564048dfe133e858805fabd19e02207aceb4da3b8cc913b1e8d37e7c761
-seen_titlehash:4bb1d0f73b529009de9abb5bd1f47d41f4fe7b8c93890dfc37845c7d318e2af9
-seen_reason:processed_not_published
-url:https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339
-title:thousands gather for funeral of iran s assassinated supreme leader ali khamenei
-seen_urlhash:188f2652c248a143a3bad4ccc3b989658a495848824714ae147f9d61f962f0c8
-seen_titlehash:f6106f01038e347ca6be999513d100896b1c0189dd881b01bd3ffdd7e34bcb85
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260704-firefighters-combat-blazes-in-northern-spain-portugal
-title:firefighters combat blazes in northern spain portugal
-seen_urlhash:ff1d0e3dc245d2c5c561f2c32d0592c6f66e4e4a2b2b212b8cca3bf3e7234583
-seen_titlehash:12b24deb99b8af82e459178d8edff9eabeec1cf969cd325f8f85ee29612f673e
-seen_reason:processed_not_published
-url:https://dw.com/ru/в-санкт-петербурге-полиция-штурмовала-ночной-клуб-по-делу-об-лгбт/a-77831470?maca=rus-rss-ru-all-1126-rdf
-title:в санкт петербурге полиция штурмовала ночной клуб по делу об лгбт
-seen_urlhash:4c5107d3cd75891514bb6e0582c5660b7217a0cbc9bfbd0ff437f99573bb33c6
 seen_titlehash:87cf650168864dc9573e9ada2e7759368a182247d9d257f5adbb0e2e35da6c53
 seen_reason:processed_not_published
 url:https://dw.com/ru/удары-всу-в-cанкт-петербурге-пожар-у-нефтетерминала-белгород-обесточен/a-77831111?maca=rus-rss-ru-all-1126-rdf
@@ -4998,3 +4954,47 @@ seen_titlehash:ff33a430b90fa67c87bfa530c46759cff806169f0e9c11e5db62a7083bcf476a
 seen_reason:processed_not_published
 url:https://ft.com/content/80502ba6-49d8-4428-ab76-7b81ab96e512
 title:nigel can fix it what clacton voters think of farage s gambit
+urlhash:0c96a53429194290c1ecbfcbaa497085084d3b6a932d99c6a6eb3287567c1331
+titlehash:31701ddf20de7e6bd1c262c49cad33fe079a600e7e770beb7375f4ed9a3cf189
+published_url:https://nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html
+title:u s strikes iran and reimposes sanctions after tanker attacks
+urlhash:e12cf66ed4a58e9fb31476d3c43eda2683babb3cd56dc63355fa6774d03d3517
+titlehash:1efd065caa50bcb4f409c4f1eaaa95d70bfdae76e372b6c5cd3b45d96ffb811d
+published_url:https://aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss
+title:russian missiles strike ukraine s capital kyiv for third time in a week
+urlhash:42c27e9afdec112667b5023a0de9b30d393a2687278d86a5d77dfa369353a534
+titlehash:2a3f4726ca039c8dfdc785547f8e2df0fae093f372da3bac70b91af497faf01a
+published_url:https://france24.com/en/europe/20260707-russia-moves-closer-to-full-olympic-return-ahead-of-2028-los-angeles-games
+title:russia moves closer to full olympic return ahead of 2028 los angeles games
+urlhash:1a8f19592b911f42d07cd114bb957f79ed71c22c425ed0c7fbffce090327235e
+titlehash:0241d5a658b392d0ffd243c7d10819a41313fc8e70c903b1fe919cf16c651c82
+published_url:https://dw.com/ru/германия-сообщила-о-рекордных-расходах-на-оборону-в-рамках-нато/a-77869353?maca=rus-rss-ru-all-1126-rdf
+title:германия сообщила о рекордных расходах на оборону в рамках нато
+urlhash:f6fd21a9bbf30ce70f937983d1aa73b0db30d28f0aac6199841d63b7bbcb254a
+titlehash:aafc3d2ccb9b68fc02738cd8f541a11796bc9871619415f3be2bfe74373f5eeb
+published_url:https://nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html
+title:india calls out meta over reported child sexual abuse imagery in ads
+urlhash:72a716382c5752f32ed2bde1595d61f432a69ee717a528e0332acce00a721e22
+titlehash:682453286b903d8ecfad9dcee66af678c25ec95a6e9c58da44410c9d187c0ce5
+published_url:https://theguardian.com/australia-news/2026/jul/08/telstra-outage-down-network-mobile-outages-today
+title:major outage hits telstra mobile network as thousands report they can t make calls or access internet
+seen_urlhash:34b1fa8f40193541e1a8bfb203d1357172ff6dc27369ee559e6dc0efa71308cf
+seen_titlehash:03efc9b63cb860be8a88b8d7aa5c841f63bc1be23151a1a897114003f1f15711
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html
+title:as israel loses support in the u s rahm emanuel criticizes netanyahu
+seen_urlhash:223015ab571f02069b01b7aa2b28ba55340a81bc18065a2dcb903784bf3f240e
+seen_titlehash:84bd0737044ca1075149e5ad4681844ecb120e13a1785ceb1209a352cf1ad47c
+seen_reason:processed_not_published
+url:https://dw.com/ru/определились-все-участники-четвертьфиналов-чемпионата-мира-по-футболу/a-77869560?maca=rus-rss-ru-all-1126-rdf
+title:определились все участники четвертьфиналов чемпионата мира по футболу
+seen_urlhash:71a50438edc24113231b8debfb490981065188ad832875095af2c896bd73d16b
+seen_titlehash:a243b863f884bdf75b36bddc95157c0d30fa5f4f4b484b054bb822c0aa34065d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/08/nairobi-man-shares-home-with-rescued-birds
+title:житель найроби делит дом со спасёнными птицами
+seen_urlhash:2620a356fa8e0b365695d40325cfcd4cf23bd0c808b526f7dd22be744aa95d26
+seen_titlehash:322f1e122d37f08e7cb5500fcf58f1520abce9dd53cf942840ae1716dabf78f0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/07/argentina-fans-sing-and-dance-after-dramatic-world-cup-comeback-against-egypt
+title:болельщики аргентины поют и танцуют после волевой победы над египтом на чм
