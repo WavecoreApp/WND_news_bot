@@ -1,53 +1,3 @@
-seen_reason:processed_not_published
-url:https://ft.com/content/f67994f3-b3ef-4a94-a70e-29c5263a3cc3
-title:how modern drone warfare is forcing arms producers to rethink
-seen_urlhash:8a80c01b7a583dc14c57a547e2bf32e6dead7178f65b71d13ea3015e5cce93a4
-seen_titlehash:cbeab43e651e7952649752848446c00c9c624bee46227ae6360925911dc90a60
-seen_reason:processed_not_published
-url:https://ft.com/content/e0f5c2ee-ef0b-4da1-a85c-ccd33cf3d4c2
-title:virginia wine is very good actually
-seen_urlhash:51b2b6e7630cfc79cef1253571275e4693d50fc89af32226852f198d6c78261a
-seen_titlehash:8eac10b1075690d042bee2def4492e603d03daa915b29661a04b7c6c37a6c78d
-seen_reason:processed_not_published
-url:https://ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066
-title:son bets the house on ai
-seen_urlhash:d83558a03e6d6a7db113a7997736795364ebf4b136595a965f52b4c7df440e7c
-seen_titlehash:d92ec358b02af14f915e48f3c16ac90a264525833e000b512b03ff58277c0a13
-seen_reason:processed_not_published
-url:https://ft.com/content/e7b5ae12-dbe1-4f88-978d-b5a6aaf4a0a6
-title:us regulator s change of tack comes with risk of obscuring audit flaws
-seen_urlhash:167440b8c016bb37ccb5faae49a04f481c4f875230c12c9bc7783e91575b512d
-seen_titlehash:fa4a7ee5de106c16b4a84f365845eed76000273a1a4cf22cd3b5e7dd7df41377
-seen_reason:processed_not_published
-url:https://ft.com/content/64aa80ed-47a0-441d-8337-58874ee3f623
-title:investors must be wary of the earnings bubble
-seen_urlhash:d5912bbc8e30959a527a0006f37eb9cbe0b5d4ac6da591e303b729c89e8309de
-seen_titlehash:5ba2fc46e9c95cacd7001553c011096f009bc579c6178b51476ca24a9ffdcb16
-seen_reason:processed_not_published
-url:https://ft.com/content/98be2566-684b-4eea-b479-5a2c113b6289
-title:holtec heads for ipo as chief declares world has become rational about nuclear
-urlhash:602782b24df6018cfd5ea8df5da79c2648e03f6ffe5a53e229aab75bae196347
-titlehash:535531923e981cbf9e85ad74e0f07b9766db382c0383a106dc780e3601966bbb
-published_url:https://meduza.io/feature/2026/07/06/voyna
-title:война 1594 й день россия опять ударила по киеву ракеты и дроны попали в жилые дома более 10 погибших и десятки раненых под петербургом поврежден порт в крыму отключения света
-urlhash:00f8a6f55ff8d66fe7f482c36b46c26f68a4423aab2f5c8c7fcd3282c226be9b
-titlehash:4b0448ffb35a63216bd3e2f366313efb9842800a1b7865b1d0f1eb1b82e2f18f
-published_url:https://nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/khameneis-funeral-draws-mourners-from-across-irans-regional-network
-title:khamenei s funeral draws mourners from across iran s regional network
-urlhash:58da5a94dd3ffa07889ab17a4995af0cc8b8e3e248e731dfa2c4bae12a8eca82
-titlehash:4e3d42fe244cdf44eb1f86763f64d3642cf3326224cb4c600162d56ab70f61f9
-published_url:https://aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss
-title:israeli attacks on gaza kill at least 6 as ceasefire violations continue
-urlhash:6b7b8451d40e7f785788095c8d2990a63657036ee4f4ebb41cc725e02faf7ab0
-titlehash:a6e31f7bfe8e1bb2de6829706f5ec1567951c9f979d64310eeb8403f155cb570
-published_url:https://france24.com/en/in-tehran-funeral-attendees-grieve-the-loss-of-supreme-leader-ali-khamenei
-title:in tehran funeral attendees grieve the loss of supreme leader ali khamenei
-urlhash:72015116734d993150685219ff5d91f6c3e7da070452e9c0cf5bd16725fa2dd6
-titlehash:cd46cb18c431f1433770510dbe03829b3e2f03f82ffa5b251d1af429ab33ee65
-published_url:https://dw.com/ru/китай-запустил-стратегическую-ракету-с-подлодки/a-77850342?maca=rus-rss-ru-all-1126-rdf
-title:китай запустил стратегическую ракету с подлодки
-urlhash:e9161a95a2fa7bc656d199b99e45072754869a924ec0004c761a670fcc4a8849
-titlehash:7be4b50f9684532b368f6af53c3057cafbbf88a94bce1409f655ecec18b3fd16
 published_url:https://dw.com/ru/всу-украина-не-сбила-за-ночь-ни-одной-баллистической-ракеты-рф/a-77845041?maca=rus-rss-ru-all-1126-rdf
 title:всу украина не сбила за ночь ни одной баллистической ракеты рф
 urlhash:41ebdeaf18e78673ba5d6f614dfa6cb8762ff07cdc748fad8b51b2bdc815b170
@@ -4998,3 +4948,53 @@ seen_titlehash:3ef714fa9804d73b6ab5329f7853f2fe11f87812ce401f0ae39d844461babd44
 seen_reason:processed_not_published
 url:https://ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439
 title:us launches second day of strikes against iran
+urlhash:09e55c16aaea01e11ebc500d3347242bace78fdc3583c2fdc726e79e62c28888
+titlehash:c09cfb9fa4cd45f0c8908b23540bf399c5e25676977db12ac76ea84df56d2d9c
+published_url:https://aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss
+title:us expands military strikes on iran after trump says he ll hit them hard
+urlhash:2dadacf32ccf1797e66ad79b2ae289582863804401c38608d317e97d14ca792d
+titlehash:9dbf478aa4f7a5a226d272edebdb155db3b130214a0d0e72a02b06886ff38b30
+published_url:https://nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html
+title:divisions festered within iran over talks with the u s
+urlhash:d161e68e1d285e07111b545cc2dae6a21e238b37469bcc16ce8be3fb2963db3c
+titlehash:219c446debb9b1f767b78c33b50933b6dc46c741d887fdc355e5c4ccdacb034c
+published_url:https://aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss
+title:us moves to delist syria as a state sponsor of terrorism
+urlhash:11479e05763daead771f67cf5c5b2b24e94aa197c7511df252b9b92cf3a05e41
+titlehash:abad7750ec175f1d4b9c841e7728b8d6f3649aee1bd315f1028b8298faf5300b
+published_url:https://theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update
+title:telstra glitches continue as secondary outage hits triple zero calls and regional trains remain stranded
+urlhash:8bfbc88485298c881d73c01137e6eced5a2269c071d786471fc454e1a95178f2
+titlehash:880fc8fca55434916bbafb1d07ebf638c7570fa99be81b57a95a9673f5a09ea6
+published_url:https://ft.com/content/1527f27d-9d27-424a-b1f4-a0eb4717e28f
+title:police launch probe into donations to jenrick s tory leadership campaign
+seen_urlhash:b4c08c4a76d7d9984b9f19f3ffbbd7dbe32e8f7e5c9e201450802598b6fbdca1
+seen_titlehash:61067b853064f77da149b912be9a67451560b42681cfa0b6594d6a858ada74cd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/8/indonesias-free-meals-programme-plagued-by-alleged-corruption-and-waste?traffic_source=rss
+title:indonesia s free meals programme plagued by alleged corruption and waste
+seen_urlhash:be07e38606ad6fc01bd499fb3241c7f053cf25a581407c43b3b460a159380f30
+seen_titlehash:8d11914fa9482026521fa8d5b20bc71f1cf1c78456363466a7807494d2963b09
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/8/wildcard-fery-faces-zverev-in-wimbledon-semis-as-kostyuk-meets-noskova?traffic_source=rss
+title:wildcard fery faces zverev in wimbledon semis as kostyuk meets noskova
+seen_urlhash:fc879d484bd58e394f185a7a384428920431a6cc1463612938613da821f5508f
+seen_titlehash:a301ebfc359500ab44a46ae5320e7d4707a1ddcab2cc52c4ca99d834c27b6c3d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss
+title:family demands investigation after us man killed by ice agent in texas
+seen_urlhash:80502bd9bfc5987f974a78476e0c3fcbaab850dd51808c1341bbf32ebb79c890
+seen_titlehash:b61d3e7d416b369f6d33994e51a03bbab16b3982558bd69f9738d5b9d45be3e4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case?traffic_source=rss
+title:former wisconsin judge avoids prison in ice obstruction case
+seen_urlhash:6fbe90783b3cd63c09d63000b8a5f26fd31df86af9322b831f2819fed9e56c05
+seen_titlehash:a8b9a7a9f336b29e796d6dfaf80a381dc040e105aac74cf7b47c243ff8fb9a7e
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism
+title:trump moves to remove syria from us list of state sponsors of terrorism
+seen_urlhash:6cf63ea0b1bbd1b9ed9573473dfba9c1b3511982fab34c03329c345b525cb3b5
+seen_titlehash:7f4865747b897fe13d5db1804dd25fc148017dfa7f42fe31296ef014bf401f22
+seen_reason:processed_not_published
+url:https://dw.com/ru/армия-сша-нанесла-новые-удары-по-целям-в-иране/a-77882577?maca=rus-rss-ru-all-1126-rdf
+title:армия сша нанесла новые удары по целям в иране
