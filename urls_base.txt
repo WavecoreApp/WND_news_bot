@@ -1,105 +1,3 @@
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/08/nacc-anti-corruption-paul-brereton-complaints-investigations-cost-
-title:investigations into former anti corruption chief paul brereton nixed over cost concerns
-seen_urlhash:8ebc58061e51481f3f99e5d7027c377d99d4f85c5b3ecd4b7ba2eb5e8a78d317
-seen_titlehash:5e21a6e75d52fe4206ee138ef67fc8809a014dc8e0af769144dc21447ceb3c7c
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss
-title:99 of people on earth will get sunlight at the same time this wednesday
-seen_urlhash:ea9bd18d07a14af73a7f3f862e2fe13f4036f51ef27b82b5c13c39d832eca9eb
-seen_titlehash:489e99476b35d0d1999b6afb7ce1ce49168e3afad9cb708126cd9bb0c1eb5a31
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/8/ioc-eases-restrictions-on-russian-athletes-ahead-of-2028-games?traffic_source=rss
-title:ioc eases restrictions on russian athletes ahead of 2028 games
-seen_urlhash:bb20f431be9d22a55a5cc3cf96b124253104b8a131b5ab9ab436b3b4e53b3959
-seen_titlehash:bbaa7c0700af01232adb69456db5f88e2d80b02d2ade627255fa0d72bf8cc6d3
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/8/experts-warn-trump-is-playing-politics-with-us-intelligence?traffic_source=rss
-title:experts warn trump is playing politics with us intelligence
-seen_urlhash:c4be5da65ea4c6b61f7b067a92c860279a0740f3fad54e52fa3971fe4f0cfac7
-seen_titlehash:f844f538bf9b6959e3567439ce404afaf490ef7e361a0dd94bb6e26aee763730
-seen_reason:processed_not_published
-url:https://news.sky.com/story/man-shot-dead-by-ice-officer-during-vehicle-stop-in-houston-13561507
-title:man shot dead by ice officer in houston
-seen_urlhash:883fbe685fc2c5ec09d8f9556f3bffef2b1c26946fefcd8517662917510d8969
-seen_titlehash:91590d6bffef086b563fe7df708d5adf8f511240b4be18876b58fc3ad4493623
-seen_reason:processed_not_published
-url:https://dw.com/ru/битва-за-лес-как-немцы-защищают-природу-и-подают-пример-американцам/a-77866013?maca=rus-rss-ru-all-1126-rdf
-title:битва за лес как немцы защищают природу и подают пример американцам
-seen_urlhash:74bfd528c9358ebc3118c63e8307adb1bd1412d1a3375f176955641833a9ce46
-seen_titlehash:f05bb84a7f45e0e7b07aa4414ba2a834d2fa25f710698bbf396fc4b4195f20ac
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/us-strikes-iran
-title:сша нанесли новые удары по ирану после атаки на танкеры в ормузском проливе
-seen_urlhash:3bd8a3792d1e60ab7c6899986900d6ec4b98e968c05e7dd623298ad11152a324
-seen_titlehash:6ba8d86d8031ec640c1c22333c8781112696fcfd34a6b543690ec0d73847c2ff
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/more-deadly-heat-is-on-the-way-can-europes-waterways-cool-us-down-and-replace-air-con
-title:новая смертельная жара смогут ли водные артерии европы заменить кондиционеры
-seen_urlhash:4b07c6e1f0ea9deeaa52dbdee03fcddb4c9d38531fd0a5fae4587d7c17189e1b
-seen_titlehash:9b57fc4a3462e0adb35505e476f84cdf3634e6f9d314b973923265bca3d13cd9
-seen_reason:processed_not_published
-url:https://ft.com/content/5f6b653e-2016-48a8-a5c9-8b32eb709f62
-title:firstft le pen to run for french presidency
-seen_urlhash:4135befa6352732cd66482c15b828456857164e7ef8d9afe4110ca1f98bc8752
-seen_titlehash:3295cb6c177bf6f918f1d64f2952f1d9ad287aecb5e653e7206e1d1b1393eb01
-seen_reason:processed_not_published
-url:https://ft.com/tsom
-title:introducing the story of money
-seen_urlhash:00bf1f7ecdb04752e05b2113a83bf8d5dfa92f333ffb46a4bd8ae090a73b6893
-seen_titlehash:e69b47e5b149702749db73e48153b36f5e495c5dae5b4b39a59edcc9acf49033
-seen_reason:processed_not_published
-url:https://ft.com/content/f73e4763-1a33-45ee-9e22-cca151a16e5e
-title:iran projects regional power as khamenei funeral heads to iraq
-seen_urlhash:3f6a9628db9f19ddec84dc0118e91ef9af46e7ed5a0f9071432a151880d39cfb
-seen_titlehash:09f61504b2939e47ea5067be0edf15d224307eb7d783353ca71be9855abd8488
-seen_reason:processed_not_published
-url:https://ft.com/content/2dcabc77-4502-4eef-848f-b45db14ccd87
-title:the battle for the future of democratic republics
-seen_urlhash:74efe986ae86805d8f5aad32828fcd63643fca4084477b89c95b7e60d17cda66
-seen_titlehash:3ae4f0866ccc29e330ded68d1bfeb8c4624122e7adfef065a55fb304abea3573
-seen_reason:processed_not_published
-url:https://ft.com/content/9f2dafd6-a628-4d8d-9b84-b926f1f152b3
-title:ships to pay higher eu carbon fees as brussels seeks to close loophole
-seen_urlhash:662c3f255d6e6d389f52d6db59029fe38dd1f1360c6da5158a65854362477dff
-seen_titlehash:2681b87203222949d5c3089e5d40ee87b3325c751e851ca9ab7854cd8526d1c4
-seen_reason:processed_not_published
-url:https://ft.com/content/409bc7ea-2fc6-4021-bbe9-a91777ba354a
-title:value of uk takeover bids outstrips new london listings by 27 to 1
-seen_urlhash:e2a50c3e8b5b4b0575404f7eeb52bbc9f79212bcfa451f196c49e07d1037c151
-seen_titlehash:5a2bfe371208e6bbc6df7023fbc1666674e3bca2857b5692e5fe4d4364475868
-seen_reason:processed_not_published
-url:https://ft.com/content/9a730895-05d9-4917-beb9-8b742bea1ab7
-title:us rare earths flow to asia as domestic demand is slow to emerge
-seen_urlhash:af665eba722696014842d34fa5d90e8bd96ed3ce74c120a687c86398006ebefe
-seen_titlehash:3cce2b1f291938a5bacd7a0f522adce56c9abf37e65362f06f8d86ac31c841ff
-seen_reason:processed_not_published
-url:https://ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a
-title:meta tests super sensing ai glasses that can record every moment
-seen_urlhash:32fdab791faa7aca98da7b87251427878c2ead9fa909171302def953f403230b
-seen_titlehash:1bcb26c9ffdb97ab9df3d5c4edc8eecabed55adb2b8e4685e0da8a1c9640fdf4
-seen_reason:processed_not_published
-url:https://ft.com/content/24cb1401-b6fc-47ec-9a73-a6e4e1cde6d6
-title:us dealmaking boom fuels payday for merger arbitrage
-seen_urlhash:d2b6a83f08029ae6882ef73e4990cdfab250841e442286bace84f705bbbbdabc
-seen_titlehash:edf0ae44768c18ac5e56997f011bbe64a99d229d3d52901f7b01e438b8a3d50b
-seen_reason:processed_not_published
-url:https://ft.com/content/21038b20-646e-4773-a473-110c2d62ab15
-title:palantir too tied to trump
-seen_urlhash:b4e81d31536ef5635c907dd9e6f9f5227ac1f10678ada484b9a5d7fe53e0657c
-seen_titlehash:231d722b7110e6c3e3c1fdd57b0a4b240c9329b8d3b97be7ce666d5e86e73f80
-seen_reason:processed_not_published
-url:https://ft.com/content/9c4fe066-8353-4322-8571-17f89011c595
-title:china needs another zhu rongji to cut industrial excess
-seen_urlhash:be77eee0a7144d19cca2e518f688d0f4381a2384ecd74ba5dadba98ad17f5e4f
-seen_titlehash:725eca342eb689c2209802425e97ba5f34a1c1a3780aa298943bc9af168300b5
-seen_reason:processed_not_published
-url:https://ft.com/content/5f069b03-f694-48da-951e-98c5923a14e4
-title:how is europe preparing for extreme heat
-seen_urlhash:339ce38a54cd6b5473ed18a4b6ccab9eebc91aa6536a65b0f17c69fd2241b903
-seen_titlehash:a4dce1652b8f87201f8fde25dad55f117167de87984fd79db131aa55fd59ec37
-seen_reason:processed_not_published
-url:https://ft.com/content/95e082ea-1e93-4c10-a40c-4a3e8241bf1f
 title:does moving to england affect our us prenup
 seen_urlhash:5c11e6889f16816c3c6f0c936239f55144a9efba0f82aa925bc632ed2d9d70a0
 seen_titlehash:c6ddf9824a1f34bfdee8ae888465b9f107e7db1a0f2148e7514765454fc3dbd5
@@ -4998,3 +4896,105 @@ seen_titlehash:930b84d3354b856ef32093fc4a0d87f318c289742b9eee753850275f26a58777
 seen_reason:processed_not_published
 url:https://ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce
 title:investors sell longer dated ai debt amid big tech borrowing spree
+urlhash:bea6d31ab532f40f9b99d7c5c82c4cc8df8cedc187ece3e150186a9689e4273d
+titlehash:c9dfae3711630e28ebde039b4662d4b05c220deaf425c6ee9986078d08b94b8a
+published_url:https://ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23
+title:us senators strike deal with white house to tighten russia sanctions
+urlhash:d37bf90fd15d696c3b1f7a84c9bda05da0b078471442d81d68ce3fbf15f4ced3
+titlehash:1d8ad232ddaaffb23e3d6fe276656d18dcea1cedd091f40dd912d3e23498bed3
+published_url:https://france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective
+title:notes from a nato summit an estonian perspective
+urlhash:c0bb684da570f4d0582fa9ddedc90bee0f9209e5bad0fbe8453242cbc3c0d558
+titlehash:fde120b0645649b0ecf39c42729b11d18c55d9f809355c76660ff2dbbf88c209
+published_url:https://meduza.io/news/2026/07/10/evrokomissiya-prigrozila-meta-shtrafom-esli-kompaniya-ne-izmenit-vyzyvayuschiy-zavisimost-dizayn-instagrama-i-feysbuka
+title:еврокомиссия пригрозила meta штрафом если компания не изменит вызывающий зависимость дизайн инстаграма и фейсбука
+urlhash:7bb3b7fe786e2fcf8175acf26b1107b35c28a58a1f0a61e8467021368467f537
+titlehash:2d8b309b84818f368430742ce706a42b7664b4ae7c3940327182b28e9d31e364
+published_url:https://ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff
+title:us sends team to beirut to shore up israel hizbollah ceasefire
+urlhash:5e884b73241c7c8b7f6290622b820cda68518c3d1d72cfd944f2c482b25cb29b
+titlehash:908d9ca8e57e39316b675aad97d8a5a8df3f87568718f8f183165d51830398a3
+published_url:https://bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss
+title:watch what links a bomb in monaco and a shooting in ukraine
+urlhash:0bacf69810500e2064b5af9bf33d48d6ffe910bccd19b8714b6b65eaa36c3d64
+titlehash:659632d3a44b4a3bdf942b2ebb591657a84c6f152e820780b309e38feb09b14c
+published_url:https://nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html
+title:mexico to file criminal complaints in u s over immigrant deaths
+urlhash:c350a91cc507f65d4a0efcc57aa9fbdbb14a024283c7ecd30bcf11af926392aa
+titlehash:388600e1c6f04f03de300193d1eb005bfcdce0bb8bdad53868433cfd8e27d224
+published_url:https://dw.com/ru/трамп-не-звонит-кремль-в-дурацком-положении/a-77911561?maca=rus-rss-ru-all-1126-rdf
+title:трамп не звонит кремль в дурацком положении
+urlhash:053d5de8cf48562d7ac10e0d940abc806704989b15e82377fee00508e44de1c4
+titlehash:498c89c0b607d88ff1007fc82c3b0d6f06f24e6b2d9e856baefbe2faeb382a94
+published_url:http://ru.euronews.com/my-europe/2026/07/10/ukraine-and-moldova-deblocked-the-6th-cluster
+title:ес открывает новый кластер переговоров о вступлении украины и молдавии
+seen_urlhash:47f772027380152a8039ef9321c68e18a768709fd6cfa1e922af5c81b8fcb67f
+seen_titlehash:58c8926e0d93724174c0576186640980d99334884e9843111cf15a502e8c2da2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss
+title:superb sinner ends djokovic s latest bid for history
+seen_urlhash:8a05cd82a40a47ed504fbc51bea3c36aa77be42d714ea76fcb273046d2281f45
+seen_titlehash:49fca048f6362b7009f2629aea74efe79166111efa194f940708ca5ffb8c730f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html
+title:royal rapprochement harry and meghan pay a rare visit to the king and queen
+seen_urlhash:b1db7dfb7b24f13ca47c86e3af49464b9567c6efaad1016579ed3567c0a85cf8
+seen_titlehash:e5838f0687882ea23e122dfadcd98e2049bf0ed714f7bc0916da0fb0afd5adf5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/10/climate/endangered-species-act-harm.html
+title:trump cuts habitat protections for endangered species
+seen_urlhash:fb7eea69936389beb0a9ee12f2674894c199362ddc3c5f3888bb523daf6d1178
+seen_titlehash:8126b3b61bf5a77841d5a249b667d56aefeac1e0e3a98cbb7c6b47584041f71d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss
+title:eu says addictive features on instagram and facebook breach its rules
+seen_urlhash:42ceadb2051d22799022aab4097458ec77f254138a14f1fe22e9f928e44a1e25
+seen_titlehash:386ccc555da6a7e447c528b2da69595d977a1c494f129de0e94ab692d6576508
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss
+title:witnesses contest the trump administration s account of texas ice killing
+seen_urlhash:68e6d4a721043eb1408ab07928ba57102d6637596a645aaf6cb240a78448e44b
+seen_titlehash:5dffe49c4921e302d2725174f13987dbd331f7b047516ff8918371a5aef565e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss
+title:can the agreement between iran and the us be rescued
+seen_urlhash:993504adc06c1f74b4d8b63ff28c41a561dce968d6243b2e72c0d6826c6f0707
+seen_titlehash:3fd4aeb6306536310b86a83cdb4260f6b5d06fe70ac026a54338ebeb66ca7c69
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss
+title:sinner demolishes djokovic to set up wimbledon final with zverev
+seen_urlhash:381ac65c471fad8e8b89f416df7af819941d01605a7fbc1eae779fc94445ccf3
+seen_titlehash:822d4b593cdf4284afa6f6c8f1ad62e66a0add11577849adb898644657c6ed5c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/10/indian-cricket-board-to-review-t20-teams-bad-phase-after-england-defeats?traffic_source=rss
+title:indian cricket board to review t20 team s bad phase after england defeats
+seen_urlhash:1796306df0ca7ed2f3c95c8bfbb1b864665609c78f99632356d45461cf6485f8
+seen_titlehash:71f29af2b3f72a0dc04698cc1a0926fb6d80a83e77ea5ae5e3db29bfbc289aa5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss
+title:uk police arrest man suspected of murdering former mp ann widdecombe
+seen_urlhash:826e0c9061780c012e9e29a0c0561d7ec6c5cf07f6c27c0d2724ddfa5e2ac5c6
+seen_titlehash:6fd181fc976c822bbe1a74852ef6f5df5da1ad3d2894e135f484df5a2ccc1b44
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss
+title:peru s president elect fujimori says she wants to restore ties with mexico
+seen_urlhash:4db043e3857ad6173211879757048c1b38853afaa98fcc27de112764033ebe32
+seen_titlehash:9866714d47e6508f5a47a05cda94998edc83412cb6bdaa58569463ac077a21e4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss
+title:hospital workers wounded in israeli drone attack on gaza s kamal adwan
+seen_urlhash:256cc16d01c87da11f109ce136a676e1c2758c7cc6f9e24706a697f8add7b26c
+seen_titlehash:865aa36371a5d79ee6e251f50b830d291a3675ded3f77ae95337a88af902d395
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260710-prince-harry-visits-king-charles-iii-with-meghan-and-children-for-first-time-in-years
+title:prince harry visits king charles iii with meghan and children for first time in years
+seen_urlhash:09c79bb0ab6592c8a62cfd4a28a405d95c13b232206531ec531432628137d10c
+seen_titlehash:6076caa433fcc72a038d2decb678af6b4bca27c37a590385ddab258f0436b635
+seen_reason:processed_not_published
+url:https://dw.com/ru/пассажира-затянуло-в-разбившийся-иллюминатор-самолета-ryanair/a-77912146?maca=rus-rss-ru-all-1126-rdf
+title:пассажира затянуло в разбившийся иллюминатор самолета ryanair
+seen_urlhash:4edba77ff1420c2014142b0bf278a1f061731d3b0e157112d70efcf13623f796
+seen_titlehash:2e63707b868ef6ae8567ed34b8477146ac122ade0bef74393ee8e39f2bd7643d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/10/a-toxic-cloud-originating-from-the-municipal-swimming-pool-confines-la-bisbal-del-penedes
+title:токсичное облако из бассейна в таррагоне ла бисбаль дель пенедес на карантине
