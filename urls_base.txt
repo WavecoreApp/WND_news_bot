@@ -1,43 +1,3 @@
-published_url:https://aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss
-title:nato summit live trump world leaders meet in turkiye s ankara
-urlhash:ab8b9f65d7f7085703886afb445f935c8c9afc70f187f2a538023ea9bd3e2aa3
-titlehash:4ac82a986cd077d8da158508b42d3d0a561d69e1f316d73eb565be6acadb3e90
-published_url:https://france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz
-title:middle east live tehran targets bahrain and kuwait after us strikes on iran
-urlhash:303367c4cecf7c76101edf10588c781aefc95b971e6870e483dab7391428c78b
-titlehash:7db599334afae1be8ac7585e3480184aaf7ad954b09279f2039691d6c3242899
-published_url:https://dw.com/ru/сша-восстановили-нефтяные-санкции-против-ирана/a-77870331?maca=rus-rss-ru-all-1126-rdf
-title:сша восстановили нефтяные санкции против ирана
-urlhash:4c6e3f97bc7e7c4dc5fffc86ddc914af31624729059ecc66cff72dc7a0212e74
-titlehash:e6f75912b4c417acf0c8d4dce738a8b988e30b8cbdbb9b01c80f1648a10fd583
-published_url:http://ru.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-the-holy-city-of-najaf-iraq
-title:гроб али хаменеи провозят через толпы скорбящих в иракском священном наджафе
-urlhash:aef617ce744fc49cbf209375e31a4cdff77aa16d09b5b1e1df19eb4739702955
-titlehash:9bc947130111fd7cdf282d6d1aaf63077bcff74db1b6d86d4fbac071ffa3c10b
-published_url:https://nytimes.com/2026/07/08/world/europe/trump-nato-criticism.html
-title:a look back at trump s broadsides against nato allies
-urlhash:fb678ea4da559c8e0412aaf803e8adcd5b311d691215f650e6ce9fcd45499cc4
-titlehash:8366bf4ca288845b83b4d6aad926564cebef564e617364f884eaba10a47c353f
-published_url:https://aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss
-title:iran s economy faces long road to recovery as fragile truce tested
-urlhash:e378ab7545c9c22cb077b5d1cd7ee364b2553a475a38dbf3d132822a5d15109c
-titlehash:d9b26b1787b1b29ccfe65ee5af2383935f9efe60de99a0b4b99ed1ecce1fc312
-published_url:https://aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss
-title:at un cuba rallies support against ruthless us blockade
-urlhash:43ec04d8259cdefc3bbe346bd37ac9ef966a9e887bd62fca1e63369919cab94b
-titlehash:e34ffffc3ea5a58d48b5e98ba8eea2940a49f42d2dbd1e3d3f136ffe27bfbfc6
-published_url:https://france24.com/en/europe/20260708-ukraine-live-russia-launches-deadly-strikes-kyiv-nato-leaders-prepare-meet-in-ankara
-title:live nato chief rutte says us still completely committed to alliance
-urlhash:d542032dec103a88079b6f0361cef02e272af941aac71ba9ccb9aafd0a7d372c
-titlehash:13b0cd11f83ff9128041b9f8045ede5e7450011df2aa007717f04241173f5795
-published_url:https://dw.com/ru/всу-ударили-по-военному-аэродрому-в-воронежской-области/a-77871054?maca=rus-rss-ru-all-1126-rdf
-title:всу ударили по военному аэродрому в воронежской области
-urlhash:64e071e9645488190d91784651b7428095638943c257a4da33a298f618fc30ff
-titlehash:f83b733c65bf76b1a4b2a957c11ab4882f6790066df8e53c37fe40b558a2b400
-published_url:https://ft.com/content/2cb790fc-016b-4b15-a9d8-5b6057592e1a
-title:south korea falls into bear market as traders fret over ai chipmakers prospects
-seen_urlhash:4d046f8e64f3c79f305e71bf49f45c332f4e982fe842112d97187bcbcd400405
-seen_titlehash:4d326023ac1f3bc3cbadc5d9904a5e8dcb4a33dd9ef05f10481e1a7cefca7139
 seen_reason:processed_not_published
 url:https://bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss
 title:trains and emergency calls affected after major outage at australia s largest telecoms company
@@ -4998,3 +4958,43 @@ seen_titlehash:03401323ce9697c89fd00ffb2a2c95b9b53b663ffd9b921ec97087d515ee9e5c
 seen_reason:processed_not_published
 url:https://aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss
 title:spain leave it late to book semifinal date with france
+urlhash:f25ff69ab4258d89d1118cacac420e021206a6de75de218a0409cfa11101841a
+titlehash:7ab0d135fb100a79574bf4a15d5b9a7824ccb638ed896ceeaf6623116b611530
+published_url:https://bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss
+title:meet the crypto billionaires building a world where money buys you a vote
+urlhash:b198099d0ce9c3d5eced7f2a0759464ca3e244afc4a53087b3a5df1cc99b5997
+titlehash:09e38d694d2a12191e8f685417a5363d6634d5cada5b1286625101b1986b6cda
+published_url:https://aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss
+title:cuba suffers second island wide blackout in a week amid trump fuel blockade
+urlhash:57bba269b66ee4a5bbbcd8f8c677f52d4690e950c27b74d1439e83a52325f1f8
+titlehash:5d4dacc36d768b36e3aef16cc242cd75305b525673a3622fa96ca4b2969c9d27
+published_url:https://bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss
+title:apple sues openai its employees claiming theft of trade secrets
+urlhash:73c57ece49b42180ec2a48e5cf70ff594fc1bb32a3ade483cb0452ae43b9b2a6
+titlehash:6cb7f2294e1b2f0b0b3d207ecc1280e1c8e64eb106d2159dc4e43fd5ef8ecc02
+published_url:https://nytimes.com/2026/07/10/world/americas/bahamas-plane-crash-deaths.html
+title:ten killed in plane crash on the bahamas largest island
+urlhash:6e507c5527ccdeb132c7bb760673efe4907cd6335857682fca30bf85e40e2e99
+titlehash:28bfb7e68326ca6f9667389d3f318cd1422be22aa0a28c5d3bb27bf5fae68e2d
+published_url:https://aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss
+title:nicaragua strips lawyers of certification in latest crackdown on dissent
+seen_urlhash:f2a9e2221c500c4d1b966579229e12080bd0370467e71c80e4c6c747667b9b38
+seen_titlehash:1cdf250b7be98e9b1bcea738f54251bbda3a5928cc2b1fbc18ce6086caa1a67b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss
+title:forced to wait his turn marine le pen s deputy bardella returns to the shadows
+seen_urlhash:f9b329238ddc176dac2ea4d11859696c12d578353fc9d50c315e878d9d49beb9
+seen_titlehash:09d98c3c4b8575234977f15d3e46a60d8dec119bd0c897c9b235ee5e6effdd11
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss
+title:twelve men and 12 women enter a buddhist temple will the monks help them find love
+seen_urlhash:f18fb81c9b877f911de91d4c2b0e4e20881690fa56bd92e794450fadc77a4596
+seen_titlehash:f97feb08ead7770bf540bb3816b87f585265435641d9dda8f3f38e21174161c8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss
+title:watch inside the 30 hour dating retreat run by monks
+seen_urlhash:e8e263c6305ffe998cabe43700e5fadc9a8d1454c2ab3f4ac55a97fa68d53636
+seen_titlehash:27105eef44dbc1020427eb3de451861cacc0fb2e531d7b5e86aa99420c6dd96b
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss
+title:apple files lawsuit accusing chatgpt maker openai of stealing trade secrets
