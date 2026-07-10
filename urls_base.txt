@@ -1,22 +1,3 @@
-title:украинские военные объявили об ударе по девяти российским танкерам в азовском море
-urlhash:4378e6e3129d97c18f418549de52234b1ca143fa8c397faa16b211488af4de2b
-titlehash:2874b5cbebaeefad071de74d78b74c3f812d64b5bae9e6705de511ecb70f3b1a
-published_url:https://meduza.io/news/2026/07/08/ukrainskie-bespilotniki-nanesli-udary-po-npz-v-saratove-i-nizhnekamske-voennomu-aerodromu-v-voronezhskoy-oblasti-i-tankeram-v-taganrogskom-zalive
-title:украинские беспилотники нанесли удары по нпз в саратове и нижнекамске военному аэродрому в воронежской области и танкерам в таганрогском заливе
-urlhash:2dfc03bde2b08684ebbf3c3f6083df8531ba368170949b4ae55dfe9e1eabae25
-titlehash:d35e65ebbf654ba208dc69b4de2ebd293d343e559ca687588c65bae122b9383d
-published_url:https://ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680
-title:trump completely committed to nato despite troop threats rutte says
-urlhash:49785cd34e20b4287c0a9b1292cc7ed2e7e26d7017cbca65b7ea5e58d3efe091
-titlehash:f0fb4b7e602d1b14c1361ee657000db71b54c1ce561f4460d0a99e65a4e2f71c
-published_url:https://bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss
-title:russian fuel shortages bite but will putin change tack in ukraine war
-urlhash:e852e35918ee47dc4ac9f8c0512e5e535084c6be9f58e600d88194a42c1e7885
-titlehash:44d6c9523926607d8af09c7cdcd4e46afb04539a8e16093bca02100dc63660aa
-published_url:https://theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes
-title:the situation is terrible aid workers on life in sudanese city pummelled by drone strikes
-urlhash:109296b15505d26127b41c2781194e6d861e9ac44f66ee51205e41a71ce7fa5c
-titlehash:b1bd91623245ac418a5477e8c8233e899c3457ccf0c9d87f929d392de371bc06
 published_url:https://aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss
 title:nato summit live trump world leaders meet in turkiye s ankara
 urlhash:ab8b9f65d7f7085703886afb445f935c8c9afc70f187f2a538023ea9bd3e2aa3
@@ -4998,3 +4979,22 @@ seen_titlehash:0b976c333d749e4d5881ababeb1a0d13abc2bc25bc4c16e2162c9e553ddd729e
 seen_reason:processed_not_published
 url:https://ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c
 title:bezos backed fusion start up to become first to go public
+urlhash:3c2159eceb70e5f8c61e1f997efd257217f9bb0996376d14749ce61c34b2df3a
+titlehash:897c9cb2c9e5595c081e1a711a4392f07513caa5f0c113cdbd3ad017a19fbab7
+published_url:https://ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba
+title:us relaxes export controls on advanced chips and drones for uae
+seen_urlhash:3d764e606189f21b3582a7d5f906ef1286376eaa09a9b7a1e55cd8199222d60e
+seen_titlehash:74b42eee87db72f99175ffd5c3e3b2608c8104c9a21690878ad1b4f23b09d8a9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss
+title:under lula amazon deforestation falls to lowest level in a decade
+seen_urlhash:2161da94c73e59200b69c1102b60bfcb432c1a29081e7120e0000bb21ff1a8e4
+seen_titlehash:564e1f460b219eb629518feb2e012b1e58f38f05f2b741392edf55e2ceb72156
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss
+title:canada s bill c 36 tackles ai privacy is it enough
+seen_urlhash:e12e89cafde430ac5b51b8c9310085f368bb589f36b124ea3519e48acc520016
+seen_titlehash:03401323ce9697c89fd00ffb2a2c95b9b53b663ffd9b921ec97087d515ee9e5c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss
+title:spain leave it late to book semifinal date with france
