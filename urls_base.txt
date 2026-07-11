@@ -4998,3 +4998,8 @@ seen_titlehash:c2532827751985182c7a3f91dc7a6f48546e2c599c0e23bd94abecf3e33c7364
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss
 title:us judge dismisses january 6 case against proud boys after trump order
+seen_urlhash:2c1cd3e30ae86eb237827657196ff9d80965fa4aee615edc5b763a6a83c3e7bd
+seen_titlehash:572fc0278c016edc5ea5e1148905d27f72298cf16cdab4db4dc1f35f6b2c3477
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb
+title:australia news live man charged with murder after discovery of remains believed to be missing queensland woman
