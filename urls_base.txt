@@ -1,20 +1,3 @@
-seen_urlhash:39ca8594112953f3930835c3dcda948e1e0a0a0e9d34d2e1cf712cdae8c1d8d1
-seen_titlehash:50e3860c4633d0761924008d26c9613438432dfe775b71f27a9b143aad88beff
-seen_reason:processed_not_published
-url:https://ft.com/content/f8299c74-1ee2-4599-9394-c398f1d7421c
-title:foreign investors look past us uncertainty to long term opportunity
-seen_urlhash:97161cf9aac7456f1b2c3cad1b3b3b3f0e26fab3b1b3b19fc3ff31dba973500c
-seen_titlehash:92de381f00555704e5834567c61b8596c51c09be3db9b5ee1f40dbc6c434ac0d
-seen_reason:processed_not_published
-url:https://ft.com/content/90700f0e-b345-41bf-8c89-85da57c66a04
-title:ukraine intensifies attacks on russian ships in azov sea
-seen_urlhash:31ac31283979e0d56ce799bc975284eef4a87db3fd1cae42e9296e79b23c37b2
-seen_titlehash:94a8a7dff12ef361467883bb88504a7609aace986e46ef97b0e98a89d9e9f64c
-seen_reason:processed_not_published
-url:https://ft.com/content/d93a3c9e-d439-4797-8591-5a338b99cc86
-title:the unsustainable upward trajectory of uk debt
-seen_urlhash:f3631361e321baa066fcfc1c7a6b113151a5b78d29ce7c7a70edd95360e6fab3
-seen_titlehash:1f4e17b73834ab3d4a02e80b592ddf8b490b22d8564e602b9af17491f8b257f8
 seen_reason:processed_not_published
 url:https://ft.com/content/334e6ddd-e275-4e81-ae01-db7ff2ab644e
 title:obsessed with tramezzini venice s addictive signature snack
@@ -4998,3 +4981,20 @@ urlhash:8f80809fd9da96314bfece43e71efa360e9c3cab8b29edfb5cbe74441e0894a3
 titlehash:83a86cf67a7e23e40830cd68cfc4215c04dd02b931dd2f75b59d00e5bd38e531
 published_url:https://dw.com/ru/число-жертв-землетрясений-в-венесуэле-превысило-4300/a-77919854?maca=rus-rss-ru-all-1126-rdf
 title:число жертв землетрясений в венесуэле превысило 4300
+urlhash:7950805fa70a63e856d241d5422513810b265af44c768c2d6b50361af8b4a902
+titlehash:a2d6d21dceef9be9fc8a809c8acbf0501ae53bc965faabdb3e3eef4b932b5185
+published_url:https://france24.com/en/video/20260711-global-population-at-8-3-billion-what-does-that-mean-for-anyone-under-30
+title:global population at 8 3 billion what does that mean for anyone under 30
+urlhash:aeb68ac3915cf612a319273261334b61128b5f75f73e07c90ddd52f7fe78e45d
+titlehash:9921ae67c0987be616ee48bd788accb9b24c584a22cc964b518e96c7b096582c
+published_url:https://dw.com/ru/венецианская-биеннале-рискует-лишиться-субсидий-ес-из-за-участия-россии/a-77920070?maca=rus-rss-ru-all-1126-rdf
+title:венецианская биеннале рискует лишиться субсидий ес из за участия россии
+urlhash:871376d29b05794a7f6758614418c6bf60878085dc2a45db42f884e96a9d5079
+titlehash:573610b978bcc88328ce6f8f29ed465f78e41718537fa1594aa7f812bc6f565b
+published_url:https://ft.com/content/7c9c3e82-63c5-442f-aef5-09f6b7bb501f
+title:donald trump clears path for 4 5bn bridge between canada and us
+seen_urlhash:23e616d2c60a793ba0a9634525aceadea7abe93f1d1da49eebfd748983f17e3a
+seen_titlehash:c2532827751985182c7a3f91dc7a6f48546e2c599c0e23bd94abecf3e33c7364
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss
+title:us judge dismisses january 6 case against proud boys after trump order
