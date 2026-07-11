@@ -1,44 +1,3 @@
-url:https://dw.com/ru/германия-в-пять-раз-увеличит-поддержку-мемориала-яд-вашем/a-77874146?maca=rus-rss-ru-all-1126-rdf
-title:германия в пять раз увеличит поддержку мемориала яд вашем
-seen_urlhash:c56cce16fe3afcdbe22d9e43804ee5d947dc92ee1f4fb1eaf113f2d3bed5ba5b
-seen_titlehash:db7b8f602ce16a33a7f6bc0f0060dbf8796ee95d95e7464478f18df34d0c5a76
-seen_reason:processed_not_published
-url:https://dw.com/ru/испытание-ракеты-в-тихом-океане-что-демонстрирует-китай/a-77874181?maca=rus-rss-ru-all-1126-rdf
-title:испытание ракеты в тихом океане что демонстрирует китай
-seen_urlhash:eae70ad8926169483d76f0c5a244e5f4e5cc630270b6696a9efab769811e5f06
-seen_titlehash:80411278094f735f4daa33d77b5adeff0de9bb25642f290cefaa47f661a80af7
-seen_reason:processed_not_published
-url:https://dw.com/ru/фифа-рассмотрит-возможность-возвращения-рф-в-международный-футбол/a-77876620?maca=rus-rss-ru-all-1126-rdf
-title:фифа рассмотрит возможность возвращения рф в международный футбол
-seen_urlhash:1ed51ea73209a5fff53e0fd03b2d4f345a74d3510c922000fb5a08c21ce9f0c8
-seen_titlehash:2e21fb746c83b3f87eeb7d038b0ccb60178131cda69171710fd915ce487818d8
-seen_reason:processed_not_published
-url:http://ru.euronews.com/next/2026/07/08/ais-biggest-world-cup-star-its-a-fake-erling-haaland
-title:главная звезда чм для ии поддельный эрлинг холанд
-seen_urlhash:47543c750f7463b10f968b441e149779ffb7a4af04bc0975bd747da555e027fa
-seen_titlehash:f35ccca04f4fb728e7a8fb77743b88d306e8755238177cf9c1cc603c051239df
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/gazprom-wont-pay-polands-finance-ministry-blocks-collection-of-multi-million-ruble-fine-ru
-title:газпром не заплатит минфин польши блокирует взыскание многомиллионного штрафа
-seen_urlhash:98c4858423888902c6922f62bd427dbe70aaa2f77986223e1257d601882e3f49
-seen_titlehash:0ce4dec0fc5b828e885a90c6c5edbff138b650a0383fecb7c257854d8672ba49
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/08/nacionalnyj-park-burabaj-prinyal-poltora-milliona-turistov
-title:национальный парк бурабай принял полтора миллиона туристов
-seen_urlhash:8bb90f855f4d4b4ff6c0873e389004e3515c2516c00b861b839e889750bfaa91
-seen_titlehash:ac14636c4bbe86d0d73c0396959ac0e285f65bce8da51e88aa34d565e2252688
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/semena-budushih-peremen-strategiya-prodovolstvennoj-bezopasnosti-katara
-title:семена будущих перемен стратегия продовольственной безопасности катара
-seen_urlhash:af3254dafc3d8fd20e10dcb8503c12fb7fb126a04683761ba0be2fce27b7b47d
-seen_titlehash:793cf3c8f62eb569db3fab82d64f6bd278624d653a9d0c7aed0692fd3f906983
-seen_reason:processed_not_published
-url:http://ru.euronews.com/next/2026/07/08/openai-meta-and-spacexai-launch-new-ai-models-in-a-week-full-of-major-releases
-title:openai meta и spacexai представляют новые ии модели в неделю крупных релизов
-seen_urlhash:f5459bd9e606b8c499e0fe7a6711ad6e782d4affcb169d1c45d1d27869fb8be8
-seen_titlehash:63027a08a24257f426c30256e359c7adb9ded35d239fe69a1b94bf21757d7c67
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/07/08/premier-league-clubs-pre-tax-losses-surged-by-more-than-600-in-a-single-season
 title:убытки клубов апл до уплаты налогов выросли более чем на 600 за сезон
 seen_urlhash:f98881542ccaff76bb19b069a55ca22fd64a2a0c304b9d27d4644fdf215475fd
 seen_titlehash:ca7f049c637eedc6f5673169011234e97cb476b075ea5a762a3ff6f5077ae7ae
@@ -4998,3 +4957,44 @@ seen_titlehash:5a997a283b80d0458828401ab6d79acaaf83eb3647cfe7bbb604511c05243bc9
 seen_reason:processed_not_published
 url:https://aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss
 title:fifa is not an independent sporting organisation it is a political tool
+urlhash:46ec912020ced8bfa47b879215005ce2a0d3cc746b1afbb4507d5079e6d2daab
+titlehash:ae085cf37a94cf0e016525f42cb261d8a5652f5a0b0ae58b8d7d47e9e4895cbd
+published_url:https://aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss
+title:us lebanese delegations meet to discuss israeli pilot zones withdrawal
+urlhash:3bae099f6b5422a74e3397eb0c6ffc509cb6ef1e87f86dce31528c453f10aac1
+titlehash:12a16e181a86314b20accdf2f8d1bf6a398dd63a6e3f5d9a1d751235359132cb
+published_url:https://dw.com/ru/спецслужбы-нидерландов-хакеры-из-рф-взламывают-в-европе-ip-камеры/a-77917675?maca=rus-rss-ru-all-1126-rdf
+title:спецслужбы нидерландов хакеры из рф взламывают в европе ip камеры
+urlhash:ade443bbeb72fd699dfc79fbd67ba82a4c82ccf7015937e6e10d427100328fa4
+titlehash:0cc58d75cd82bb93f8b31b2eb4a63fdd4f12824c505bf605e35cba0d5415338b
+published_url:https://bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss
+title:us democrat ro khanna says he was detained by armed israeli settlers
+urlhash:b9f7a060b8ec93ffd061507d21bdd3aca9d990f902764942348bdf743e1c0328
+titlehash:9666ee26fe2a7f011f845971bad49a74cdcf9503809211a0c166bf8b0a97b883
+published_url:https://france24.com/en/tv-shows/spotlight/20260711-the-rise-and-pause-of-jordan-bardella
+title:the rise and pause of jordan bardella
+seen_urlhash:6d1f2f86753e9db4046041a1e73827fb7f6de7d869a73df326c077e371fa4302
+seen_titlehash:fa1bfb43e6e0d670500693d42abfd6660459a163ded1d73152075a7a92dfb6b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss
+title:noskova defeats muchova in wimbledon final to record first grand slam title
+seen_urlhash:8486c935a541c599b91bb00273cef7a31ef9006f34c6ca9febf9c3d7ad9fee2d
+seen_titlehash:75b232edd32419cf9a264d1fecfd87b2948d05debb9757306991a120cb461a4c
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260711-noskova-survives-tearful-meltdown-to-win-first-wimbledon-title
+title:noskova survives tearful meltdown to win first wimbledon title
+seen_urlhash:337fd9bf8e6ce26900846ad272376847f40ae3cb79f5446bad40d190ba773af4
+seen_titlehash:1a1c9f971dda11b28d0784030952e683eb2886cb6cd95904ef01642dc3361f5d
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-польше-почтили-память-жертв-волынской-резни/a-77918354?maca=rus-rss-ru-all-1126-rdf
+title:в польше почтили память жертв волынской резни
+seen_urlhash:e71e26078a38990641ebb14977dbce3b139fc21762d8e8db9e048f3401e4d8d2
+seen_titlehash:e96027a9744cf07d7c2728e48941c4c70184f18dad9c74c595145db8b3c4620f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/11/vo-vladivostoke-veteran-svo-ugrozhal-zhenschine-pistoletom-pryamo-na-ulitse-kogda-ob-etom-napisali-smi-politsiya-zastavila-ego-izvinyatsya-na-kameru
+title:во владивостоке ветеран сво угрожал женщине пистолетом прямо на улице когда об этом написали сми полиция заставила его извиняться на камеру
+seen_urlhash:3d4828191ea6674158483d59b38d643dcec9811186487e462f129914a6a97cb8
+seen_titlehash:a894bc41b6cbb0442e5f7b9e67477a965b8c0b2f5cc55181c6afab5967d98064
+seen_reason:processed_not_published
+url:https://ft.com/content/b5b32b7e-7d4a-448a-b7f7-ebdc1533c6a9
+title:christopher harborne suffered serious medical issues while donating 12mn to reform uk
