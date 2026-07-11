@@ -1,29 +1,3 @@
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq
-title:thousands of mourners march as khamenei s funeral procession crosses into iraq
-seen_urlhash:faceddce046957852270c02610b73af9152e96317f3b4e3861a5efcd68dae9f0
-seen_titlehash:208c54151a47a1adc67741176dbe1fda88658f5850b28e6db11b42a229b17fa0
-seen_reason:processed_not_published
-url:https://dw.com/ru/бавария-пишет-историю-покорения-космоса/a-77876780?maca=rus-rss-ru-all-1126-rdf
-title:бавария пишет историю покорения космоса
-seen_urlhash:c2842cb1dc496bf584106940007c5ab509ea570f914240cb23675e59e66334b4
-seen_titlehash:594c8d9942976c40a491e58fe79d9b9c51c0426ef8cfd5bbd104a80de24551c9
-seen_reason:processed_not_published
-url:https://dw.com/ru/спор-вокруг-резолюции-еп-по-украине-польша-напомнила-об-упа/a-77879449?maca=rus-rss-ru-all-1126-rdf
-title:спор вокруг резолюции еп по украине польша напомнила об упа
-seen_urlhash:c205930918f2bc2937b242456ef28ca9ed871de53e99e0036705f890ebdc3425
-seen_titlehash:075dba4ddea84ed4130cbe35c5fd2071a62d2f70861f3430c14795886d8eb4af
-seen_reason:processed_not_published
-url:https://dw.com/ru/госдума-ужесточила-требования-к-трудовым-мигрантам/a-77878183?maca=rus-rss-ru-all-1126-rdf
-title:госдума ужесточила требования к трудовым мигрантам
-seen_urlhash:f0ca89c84f360fec03b304cfa333794dd234ebbf91529c4cc0fb8ba76bf84e20
-seen_titlehash:bad2a7a597b46b657543f77b1fe64d7942aeb568ace17a1c559eccd9ea002029
-seen_reason:processed_not_published
-url:https://dw.com/ru/трамп-сша-дадут-украине-лицензию-на-производство-ракет-для-patriot/a-77879448?maca=rus-rss-ru-all-1126-rdf
-title:трамп сша дадут украине лицензию на производство ракет для patriot
-seen_urlhash:edc5a30adab43d8a072b48082fa4832153415ff964309fcc3d569ad7783ea43f
-seen_titlehash:2bb30a11af7eceba0c918d9c5d112e0d69ef4cefd7e29b6fc8977507d3212455
-seen_reason:processed_not_published
 url:https://dw.com/ru/германия-в-пять-раз-увеличит-поддержку-мемориала-яд-вашем/a-77874146?maca=rus-rss-ru-all-1126-rdf
 title:германия в пять раз увеличит поддержку мемориала яд вашем
 seen_urlhash:c56cce16fe3afcdbe22d9e43804ee5d947dc92ee1f4fb1eaf113f2d3bed5ba5b
@@ -4998,3 +4972,29 @@ seen_titlehash:81af9848bf4022a65b4e78cc74c930701d4f5260c77fbf7bc01b0da0f7ce6598
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/11/glava-sk-aleksandr-bastrykin-zainteresovalsya-deyatelnostyu-modnogo-guru-artura-sity
 title:глава ск александр бастрыкин заинтересовался деятельностью модного гуру артура ситы
+urlhash:fd34dd6101d36d8620e459f5d6a2b554d5cfdcd045a39d8e6629e3ef442e79b9
+titlehash:960d818f4b501fa825b93fb150b7a697eb5ccf44d5554b73fa7dfc2f56d67b04
+published_url:https://dw.com/ru/cnn-иран-мог-начать-восстановление-своих-ядерных-объектов/a-77917993?maca=rus-rss-ru-all-1126-rdf
+title:cnn иран мог начать восстановление своих ядерных объектов
+urlhash:9951f7795578d45d9b7a9132d214ea91ef25706026a786da6cb566cd45fe7677
+titlehash:1b44dad707cd8620b1340f52f11e0cf8c3c962b8f1e2e51dabb683afd8b3b231
+published_url:https://aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss
+title:us lawmaker slams israeli army after settlers detain him on palestine trip
+urlhash:3d703f4adc4100173a75da7abd0d04c5fdfda9fcbf3951fa95bd4bf80b1ed7e6
+titlehash:abf7b3974a6318f87d61ea1d63ba550c7278c0e4bb7efaaf79e148be1cfe6537
+published_url:https://dw.com/ru/леворадикалы-признались-в-диверсии-на-железной-дороге-фрг/a-77917982?maca=rus-rss-ru-all-1126-rdf
+title:леворадикалы признались в диверсии на железной дороге фрг
+urlhash:a6d5bec0befea8361f84bde857120ac85b4d9ff88e635812ed5d6c31acc1c186
+titlehash:3935ad5e6b4596771ed857998cb4755c52e36a844e8d179da1721e008e379a6a
+published_url:https://ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b
+title:how ai rebrands fail to deliver a lasting share price boost
+seen_urlhash:68aba2bce39fb918dea84aa07bc2122eccdd04144bcc22f0c116f6632f4d5c66
+seen_titlehash:8ff6ff7962234af196f0d246287435d9a8015eb0a99ea5edd9387b1e6ea21f94
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss
+title:evacuations as landslide threatens indian village construction firm blamed
+seen_urlhash:93663c85b3009a9facbd97fe397bdfad84359495bd7110c25445a36ff5f2c6e0
+seen_titlehash:5a997a283b80d0458828401ab6d79acaaf83eb3647cfe7bbb604511c05243bc9
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss
+title:fifa is not an independent sporting organisation it is a political tool
