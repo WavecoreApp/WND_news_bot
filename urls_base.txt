@@ -1,149 +1,4 @@
 seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss
-title:why have half a million russians gone bankrupt amid ukraine war
-seen_urlhash:8943716a6e423ff3569799da2b6dd6071c610ea8cee773b1bcf80a085cd94717
-seen_titlehash:7795c15fea15fdc9f1b6261ec7e55df45c5741e10bfe5bff8c0a31b047ecc0ba
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss
-title:funeral events for iran s slain supreme leader khamenei under way in iraq
-seen_urlhash:709a823fb558f864c999e44f0b406c674b0c8fbc0bc8d10c899de016aa058917
-seen_titlehash:536cfaac7055f15e649eab72242686ed8d51d4038dd8fbf5d4e76fc9fa61d050
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss
-title:egypt coach condemns silence on killing of palestinian children
-seen_urlhash:d2cc42927373068240d7fb51ad04d29992cb3ee6003c76f4c62c2cba0dd10c04
-seen_titlehash:a85a18d3617f2bdd0cf9d692118a3079424a0d9821f83dfd1e1785c3d7d02dd6
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/where-do-i-get-that-from-uk-asylum-seekers-face-hefty-repayment-bill?traffic_source=rss
-title:where do i get that from uk asylum seekers face hefty repayment bill
-seen_urlhash:09d885ea8328f4e62ccc45aa36faec7966461e8a2056642d1d81b66070908765
-seen_titlehash:ac7ac022e12b05c4de36b9186450c7f91f1c542a4071fa57cd42f196ba05bb54
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-photograph-linking-sa-s-zuma-with-fugitive-indian-businessman-sparks-outrage
-title:photograph linking sa s zuma with fugitive indian businessman sparks outrage
-seen_urlhash:f7edbb5ae321f810d3394088222d557884af17aca20408ba36777af7547af368
-seen_titlehash:4fb8a374a3b045ef3309718f1b8081b53c8aedbd55c72b2890ee4fc38d2e938e
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-ghana-south-africa-presidential-meet-halted-over-migrant-tensions
-title:ghana south africa presidential meet halted over migrant tensions
-seen_urlhash:78316eebeaa33df97bd7ac9abbf3c6680a0b20e880359a0235a2882da9ebd6c8
-seen_titlehash:a4f6f84733ffdbf433b02bb45168eeabc14232fa04a9b71464f82da2bac4bf92
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-wildfires-rage-across-southern-france
-title:wildfires rage across southern france
-seen_urlhash:637bd1b5e3b3cc23c5cd498d8bb74ced0728f8571ff3b86ec1b5e711035f6a5b
-seen_titlehash:f3769c3faa98dd00bc117b0794acec39c51967a79707f5c67a84ef90623a4f82
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-trump-says-ceasefire-with-iran-is-over-after-us-strikes
-title:trump says ceasefire with iran is over after us strikes
-seen_urlhash:73e4d5d45c800e2c76acfbc02e7311b124a48aa66a3165dd060b85ca765bb26e
-seen_titlehash:375f7769149fe16b13d0427db2c3ae81722214aa16b614c7ebe552292e12cc10
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-why-is-france-opposed-to-air-conditioning
-title:why is france opposed to air conditioning
-seen_urlhash:e17cadeb8e806676b9ae359b2f3f7fb99604125cf0d77073d8cdc78ec46e9a45
-seen_titlehash:eaa055051de899ecee0052412fef222c84fbc822176d2341f401ce8795b0056d
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-france-s-le-pen-says-will-run-for-president-despite-fraud-conviction
-title:france s le pen says will run for president despite fraud conviction
-seen_urlhash:b6b9cb0145d30f04884924ad7a48ea811b341e7b590c3e7be099d230b45cb304
-seen_titlehash:16d4a64711a977c8ffa10cf38974d26c6a9f7dc9db8ff1b13c63ff256b7a618e
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260708-replay-trump-says-deal-with-iran-is-over-to-cut-trade-with-spain
-title:replay trump says deal with iran is over to cut trade with spain
-seen_urlhash:32e66d0d5a1298ea9c6f2ee8e586d6db2f6cb9d54101e748839f3a5699da184f
-seen_titlehash:38d5673131cd3ef0e8f89de462dcafe5d500fb6d2f11b29b584b53dbdc70c16b
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/business/20260708-us-revokes-waiver-for-iranian-oil-sales-amid-renewed-gulf-strikes
-title:us revokes waiver for iranian oil sales amid renewed gulf strikes
-seen_urlhash:5b1ce73bf547e6cba1fb6f95b00fa1dd5121371b64de78f695f65c0d5afe880b
-seen_titlehash:52b61c83df2feb927d86aafe6f1049816d7c739aba40f5531dc89edca28ec1b2
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/press-review/20260708-political-animal-marine-le-pen-remains-in-control-after-lenient-ruling
-title:political animal marine le pen remains in control after lenient ruling
-seen_urlhash:fcb028733299a3f2f55bbf58ab8e96973243dcfbc457a11c368e35b988d41c7d
-seen_titlehash:d4066bfd98d456bed57d571d4ca82f680734f6d9cd3c796ca75e94d6d4e5760b
-seen_reason:processed_not_published
-url:https://dw.com/ru/популярный-немецкий-комик-проник-в-оперу-моцарта/a-77862700?maca=rus-rss-ru-all-1126-rdf
-title:популярный немецкий комик проник в оперу моцарта
-seen_urlhash:67250418f3b730a861599cba0a41048b6b5cdd8d30bfe29e1d405e678abf1dde
-seen_titlehash:210fcd39cf7f22cb7ad345311b263d79c43fbd19325964e2f7ec0c79d68b09fb
-seen_reason:processed_not_published
-url:https://dw.com/ru/рютте-в-анкаре-сша-полностью-привержены-нато/a-77874955?maca=rus-rss-ru-all-1126-rdf
-title:рютте в анкаре сша полностью привержены нато
-seen_urlhash:2ae4634cab58298cd5a5fbab61df3adbfb5d2d178055230c5a7850631e91a069
-seen_titlehash:2de62c9ee15ac9409d5ba85020cc5b8c5a4849589dcd5e8337628639b7efb7c4
-seen_reason:processed_not_published
-url:https://dw.com/ru/трамп-заявил-о-прекращении-перемирия-с-ираном/a-77874377?maca=rus-rss-ru-all-1126-rdf
-title:трамп заявил о прекращении перемирия с ираном
-seen_urlhash:98c3e47f2f8ab0dc83005e96eebdeb8b18b09b6cdb2f9064536fc25d3e2c15da
-seen_titlehash:c477e51dfd4da4bca39b1e68d5a3d4e53368ea9bd6891cf5d589bec6c9b4edf2
-seen_reason:processed_not_published
-url:https://dw.com/ru/украинские-дроны-поразили-9-танкеров-теневого-флота-рф/a-77873872?maca=rus-rss-ru-all-1126-rdf
-title:украинские дроны поразили 9 танкеров теневого флота рф
-seen_urlhash:55172244740b41427d3cbfded0d89537929c937387f9bced13fd55160e18fd73
-seen_titlehash:234b4d4e28d7ce18991d1f8ef90b4414b4ab314fe9767b8cdbb84de070842d73
-seen_reason:processed_not_published
-url:https://dw.com/ru/после-угроз-трампа-премьер-дании-пообещала-защищать-гренландию/a-77872228?maca=rus-rss-ru-all-1126-rdf
-title:после угроз трампа премьер дании пообещала защищать гренландию
-seen_urlhash:70048551273a1c9dcf05d6898a1eae4876796b940b2862e04480b3ff8d6c6212
-seen_titlehash:81f4681422a5d887076932fd114c46b196626c93b8de46ec454f62f99127aeac
-seen_reason:processed_not_published
-url:https://dw.com/ru/иран-атаковал-бахрейн-и-кувейт-после-ударов-сша/a-77871576?maca=rus-rss-ru-all-1126-rdf
-title:иран атаковал бахрейн и кувейт после ударов сша
-seen_urlhash:00145d6c995c5ea88b3d4045a70646d27de7272ca958c2cf999455394d51f5cf
-seen_titlehash:d6932f0ed351f4b242104f63a30f9c76edbd15f8b3a9ebe34d59004f4c10da62
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/kabo-verde-pochti-raj-dlya-lgbt-soobshestva
-title:кабо верде почти рай для лгбт сообщества
-seen_urlhash:937ab62a85bc116301babaf0857fe6f2284fb817e6081cc44d8dd746cb5edfee
-seen_titlehash:4ebca7e3d24a1edf7b04a6e1b9b8414335d33d7a44e8e6f3b72277c2e635f9ea
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/gde-v-evrope-tyazhelee-perenosyat-ekstremalnye-pogodnye-uslvoiya
-title:где в европе тяжелее переносят экстремальные погодные услвоия
-seen_urlhash:f6f9e5c6b0d7b3f2e38729fac5eed4e4ae314b5800f92532f64b66dc2dd126af
-seen_titlehash:aec33f768560e7e89288d8ab4131eb315939bc81c21e9cc17e2ee1d7e7be24cb
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/08/the-trump-curse-is-donald-trump-a-bad-omen-for-sports-teams
-title:проклятие трампа приносит ли дональд трамп неудачу спортивным командам
-seen_urlhash:661b12f88232b8cc7eead947ca46162a771eddfdd48ece958e6e56f4ab3836c4
-seen_titlehash:fbc3ff79fb692b4f0191f7881ecd6b3808b794aeb0beb6d4246bcff35e4b656c
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/got-200000-to-spare-this-ultra-exclusive-trip-for-the-2026-solar-eclipse-could-be-yours
-title:есть 200 000 ультраэксклюзивное путешествие к затмению 2026 года
-seen_urlhash:c609fca1864587ab6d35018af2a49b64f176b6d0e58d82f43f09479b386854ca
-seen_titlehash:b470414af4703297eeb150522db536c26b9918430367cc1a0f485d154b5977b2
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/more-than-30000-votes-have-been-cast-so-far-in-the-search-for-south-koreas-top-travel-spot
-title:за лучшие туристические места южной кореи уже отдано свыше 30 тыс голосов
-seen_urlhash:49195b966a6be17f5b8781c36ae3444de153dc759719abda890155e6c72e9791
-seen_titlehash:a50af8b4645fd0fa54a3c7bfdb7ca7a0550fae385e2fdacdb294ca03f284a147
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/florence-prague-and-salzburg-these-are-the-best-cities-in-europe-according-to-travel-leisu
-title:флоренция прага и зальцбург лучшие города европы по версии travel leisure
-seen_urlhash:d522f0fa5d021f6b4b3db5efda19fc277afe48cea3139a8f97d7537aed29f162
-seen_titlehash:a09eb2273a806a4dee84e8fb9500f712e76e135197ffb589da6c08f67b7ac4dc
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/tysyachi-lyudej-razmesheny-vo-vremennyh-lageryah-posle-zemletryasenij-v-venesuele
-title:тысячи людей размещены во временных лагерях после землетрясений в венесуэле
-seen_urlhash:2e0119c2ac9f19dcf906a05c6f97037e8876fef19a739b91bc2992748b763fe5
-seen_titlehash:818191fced2a63364dd8988f681179892e2ca8890bb460693136cfda5d901cd6
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/v-vengrii-posle-porazheniya-orbana-reorganizuyut-gosudarstvennye-smi-odin-iz-telekanalov-ves-den-izvinyalsya-za-to-chto-lgal-vse-eti-gody
-title:в венгрии после поражения орбана реорганизуют государственные сми один из телеканалов весь день извинялся за то что лгал все эти годы
-seen_urlhash:ce305094aacc810dd4b637c142adf406197eb8e03eb6badc849807b5365f5a46
-seen_titlehash:9b7ee250f6f2ef7b74a13ebc2a13a792c12392770674a6258e54ca0c09484631
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/tramp-rezhim-prekrascheniya-ognya-s-iranom-zavershen
-title:трамп режим прекращения огня с ираном завершен
-seen_urlhash:202fa1d38790ba0749a4651c0adbcff301f80d426f4eea561fe444a8546adedf
-seen_titlehash:283d1cf45cab3339328819fc01a9831eb3a5719c836e89edb7848745b4cfa686
-seen_reason:processed_not_published
-url:https://ft.com/content/13ea13b7-b4f7-4ac9-82a0-47778c31a05e
-title:nigel farage s rivals are running scared says reform
-seen_urlhash:8fed86bd12f4657a442a00c3c2ac86e997d8ad6ec6b4cb77ccf4ac1074a08194
-seen_titlehash:46ac05fe2fa5505f30dc57be82db57b16c9921a23ad766052f68c245e5fdc220
-seen_reason:processed_not_published
 url:https://ft.com/content/e201f9f4-e3b2-4c59-8300-e50e9310a554
 title:outspoken chinese economist who doubted official gdp data dies
 seen_urlhash:aef4ee78f061669978a26a88ea0924c507057af2abecb568fec5b4ae1305165b
@@ -4998,3 +4853,148 @@ seen_titlehash:f4bda31cfccbcce16a11eac4d2232233a50e5d76d0bbdd0070be8a05ee643da0
 seen_reason:processed_not_published
 url:https://ft.com/content/5fd74343-7ea1-4770-b711-ad4ad6392508
 title:how parents can best help their unemployed children
+urlhash:be85b79af46863e6ea4f80c825c664a6b3e542003662a610d862e81ddd7e081b
+titlehash:8c68cbe2f33b04435d68c04aab07ce551e81d362ad09e8f4eb19e6498f1cf926
+published_url:https://aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss
+title:russian missile attacks wound 11 in kyiv
+urlhash:702efd14a87407b9693c69d20d55e9f8e416e13aec7bd362a534927a25ce7d5f
+titlehash:dae3467b3feb06305bee0f124c97cd85dc395669e935f1442b56c3b6d3a8f7ff
+published_url:https://aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss
+title:trump threatens iran after chants for his death erupted at khamenei funeral
+urlhash:292440b1424e34a270fcf8adf6be13a1799b0623181ebdc9fb6d7ecd3ae276d2
+titlehash:2a8250b6500f6760a538711981b495b3e9a277fe12cfec6f6b8ff6dd8dae028e
+published_url:https://meduza.io/news/2026/07/11/reuters-rossiya-ostanovila-dvizhenie-sudov-po-azovo-donskomu-kanalu-i-kerchenskomu-prolivu-posle-ukrainskih-atak
+title:reuters россия остановила движение судов по азово донскому каналу и керченскому проливу после украинских атак
+urlhash:598f5a2bcf39f9970bd657274276fb57ed1cfe7ad591a658b0793b7cf9b7747c
+titlehash:98dbc98b591e9e1fdf4f90c95957bc229a23936bd734ceb055c0b40fa8e2f813
+published_url:https://nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html
+title:israel struck an iranian steel facility was it a valid military target
+urlhash:460b5cba0e7d51a0e2be7fd58a4cd6da6342a94ae1b5b1bf19b5af55da29f07b
+titlehash:7c2382dfd8c0672f379345e0d7b6f7b56cbdf60b0eae34f2752b8622709103a0
+published_url:https://france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv
+title:11 injured in overnight russian missile and drone strikes on kyiv
+urlhash:5d93fc4cff3aa3e655d0a6d6a425ef3487f647ae1f29d5c5001c4913bb2c4cfa
+titlehash:890a3cdf4657f9de21211a94a12bcc5c6eb444eb72f77c873ea9fcb410c8df62
+published_url:https://meduza.io/news/2026/07/11/apple-podala-v-sud-na-openai-obviniv-kompaniyu-v-krazhe-korporativnyh-sekretov
+title:apple подала в суд на openai обвинив компанию в краже корпоративных секретов
+urlhash:08aeeb603cca2bf2170d247f21fc234af7a0a28d04b4e78eb4d5e62f9a379451
+titlehash:65a02bf4d285ea0b7eb9e1c3efe277902525563b4eda28cdf05d0b43f3ed7459
+published_url:https://economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers
+title:meet the world s new peacemakers
+urlhash:bc3c8920cc82502dc84392b6fef59034c98b563c7fe47964ebe9c3fccd5e9e06
+titlehash:4b033a9fb26e1058d99caf753e9bc570a7e42ace60beb0218016584aef540b58
+published_url:https://aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss
+title:cuba suffers second nationwide blackout in five days
+urlhash:17eaa3d2ecb6cbb3b70f17960f630f88bd4b2395ad90b0ea701291a0127c71cd
+titlehash:8ac3961c25c1e0d7e1e6a68dce64f3c28b7a322616a5cabb299287004d014044
+published_url:https://france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over
+title:trump agrees to more iran talks but insists truce is over
+urlhash:879c4a4698afe6f5c0dc86f5252e427451687034566b256e75ee0b53cf5263ea
+titlehash:7460b60524a76a9b0b713e9d73a8171a2d3a2ce1a3c502fb952c5eee76d4d331
+published_url:https://france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000
+title:death toll in venezuela quakes surpasses 4 000
+seen_urlhash:6cf0162a4db82009cf311c062c80025c59c7bd2f0c9bf97177ff32afceb81328
+seen_titlehash:a8002994884e73638f639d81de32c431e5a0ee2f2242fe0ad541ae578fdded67
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss
+title:russia trains sights on schools offices and buses in busy ukrainian city
+seen_urlhash:3879d8c0ced627e122b49f1e5475b8a15374b8ffa356e2795f2104872f522ff1
+seen_titlehash:5ddba55f251aca73ed500c2502ae57edc19ef49e553c9b87501416fb96e4d555
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss
+title:really frightening unbelievably quick witnesses describe fleeing deadly spain wildfire
+seen_urlhash:c73193f9a5a62b41afb1123ebaf9e74b3f1c27ac3d563a626eaa2881a794dec7
+seen_titlehash:d36d7c49e8e1e325c371432617dd508f207a9e730842928957092d0b5df88a15
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss
+title:newly released video shows peter falconio s killer questioned
+seen_urlhash:b98be28b94cc937a05e97824d01352abecedeed13634623a303d126b21e07ceb
+seen_titlehash:34d16c2c167257c046daae8265514b9a4a38143050e9e454799ea7add6937385
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html
+title:man arrested in killing of u k ex lawmaker is released
+seen_urlhash:f345ff92137b926c64b3806a2ca7a70915ef0f9ea5b77775b772ccceddf8ac00
+seen_titlehash:591ef80e952173db0f92fe80a398ea1913e8719462ce4951ae3afc10275733fa
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html
+title:hot weather sets off scramble for outdoor swimming in london
+seen_urlhash:7f54cfec4ad09f935c28906e297d54517aee17944eeac200772544bc35fa215e
+seen_titlehash:45662cab760618658a603a918eb5f3e8d6192698c320f697985aebc7a1cf163a
+seen_reason:processed_not_published
+url:https://theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb
+title:pianist jayson gillham very disappointed after losing melbourne symphony orchestra discrimination case
+seen_urlhash:be4bc325e4b357c0f3596d6579761570906293ea8e5879256a9fd8a571d6f99a
+seen_titlehash:365fa70e113e543cbe31b5a9642887665195c37fae579360e0475b638c35b51a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss
+title:indonesia s anti graft prosecutor quits after police seize gold and cash
+seen_urlhash:d4fcf52a54bc31ada57bcc0530b35f6285ae1f5dab2803272f20e6fbdcd36860
+seen_titlehash:ce05821ec2d1b5352484e70d61f61604a2ed1de5eec44faa746c8d69f1cf3ee2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss
+title:russian overnight strikes on kyiv injure ten
+seen_urlhash:377b046af09dacdc0d2768896cfe6365137b1b5bf46ee94223aa9e5fc52b2a0c
+seen_titlehash:e2bef6e4ed33e8722921d38ffd664aca224ebea0a9414b45167374ba9a354465
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss
+title:sealed in blood where does the china north korea alliance stand today
+seen_urlhash:99bcbe144b998a6ae1e65a5621b03ee79c726b210075dd3fba1aea925863a3e1
+seen_titlehash:a2d05d5afe1ed8614c98cf3e31652591d3b6ab8bd2c8aa99396c2ece2c7dbcc3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss
+title:wembanyama signs contract with spurs for five years 252m report
+seen_urlhash:2b9acb19077b9144d73caeba6d9414a4d93fec5bd3ff8c6ce75e46c52b71ed61
+seen_titlehash:bf5721efea0b3c81a4adc117d3dd9c9431a1481b437413e21af835a8ee6d9414
+seen_reason:processed_not_published
+url:https://news.sky.com/story/new-footage-shows-peter-falconios-killer-bradley-murdoch-refusing-reveal-location-of-backpackers-body-to-australian-police-13562460
+title:i m going to cut you short footage shows peter falconio s killer refusing reveal location of backpacker s body
+seen_urlhash:f144db2e15926315d71ae788acc5f444f028868bfeff117c43bb5c7a19dee257
+seen_titlehash:3f89471f67c6d4efa4643ccf9c89b375e60decc19fcaacf6bd75bbd4620cf309
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260711-spanish-royals-mark-minute-of-silence-for-wildfire-victims
+title:spanish royals mark minute of silence for wildfire victims
+seen_urlhash:828b9f865eb897f6f27863f998620acb0fdf228aa8ab76d7d95e64500b48fe08
+seen_titlehash:0fb10aedd2724d57cd78e624570b850e9363d703f3133ac404a5e4e745996f28
+seen_reason:processed_not_published
+url:https://dw.com/ru/губернатор-в-таганрогском-заливе-4-судна-атакованы-бпла/a-77914077?maca=rus-rss-ru-all-1126-rdf
+title:губернатор в таганрогском заливе 4 судна атакованы бпла
+seen_urlhash:4a66b963e28e6200f132e4227df0865053beb0bb9ac988ef995f4c4c0e90c091
+seen_titlehash:7d413c5c1f243996817553a3a6f2459ec3cde932991895ff8e0e422fbcb81dc6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured
+title:война в украине киев атакован российскими баллистическими ракетами и роем дронов 10 раненых
+seen_urlhash:fb991f6fab76caf4502a439eeb42768cef769bd7dd9d979817b9f39fdfe4efa2
+seen_titlehash:f64834166ad9f99f199be009edebaaa1372050d38a8532641aaca1307cbfc374
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/11/volhynia-massacre-anniversary
+title:83 я годовщина кровавого воскресенья на волыни это был геноцид заявил туск
+seen_urlhash:a8fdae2a47deb654ce6c983b389342a592441aebc97d8daf226f4a21113d14db
+seen_titlehash:96685cb8f0a82069f61c23c9c0579d4228ccecb863bd69ae6c7c14a8cb273ea5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/11/belgium-new-road-tax
+title:бельгия с 2027 года введет новый дорожный сбор для транзитных водителей
+seen_urlhash:0cef73354e769c77c3ea75ae17ec9750c853ff75c9d8a42cc205f5b55dfe26f8
+seen_titlehash:a09002cdc1d577862b98a3f4f01268f54e0099157bb5e6372a55faad13778360
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/11/woman-being-held-hostage-in-super
+title:захват заложницы в супермаркете в берлине кассир освобождена нападавший арестован
+seen_urlhash:994b54dd2503a2670e0426405e9da013fa2ec24718c96c18decaf1ef1da9bd1b
+seen_titlehash:ecdf30c2b77a135c70618801ad577be1e95372d4cf389b2d8c81875923cc052d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/11/russia-attacks-kyiv
+title:россия нанесла новые ракетные и дроновые удары по киеву
+seen_urlhash:0a92d2e4b7afaaa52329ff29bff716ff19f2047e68cb1a22d2c8350bbc9b4e85
+seen_titlehash:d082a175867c9d89305493dc7dea53eb0aca571fa123be82185b541275728ec9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/11/georgia-nato-ankara
+title:грузию исключили из списка партнёров саммита нато критики говорят об изоляции
+seen_urlhash:b60afcc5583892f15c7d9fe15cfe0916914dc59735a8a8ef86992b3c07aee984
+seen_titlehash:9455c2f06100832a1169a19b426e1e7904d41f90a151c75622d6160b80d9856b
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/11/samoe-priyatnoe-chto-mozhno-sdelat-v-subbotu-eto-napomnit-komu-nibud-chto-segodnya-ona
+title:самое приятное что можно сделать в субботу это напомнить кому нибудь что сегодня она блогер армен захарян написал книгу о марселе прусте вот ее фрагмент о любимом дне недели писателя
+seen_urlhash:b9eead0d28b3ec002984d294aaaca93dad08ed5d1747643ec704a468515f8398
+seen_titlehash:7ee89194f76d938fe6f5672428e5b5e30d7ab7e3677a1d0f92cdee86d301011b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/11/teylor-svift-zaplatila-nyu-yorku-160-tysyach-dollarov-za-razreshenie-provesti-svadbu-v-tsentre-goroda
+title:тейлор свифт заплатила нью йорку 160 тысяч долларов за разрешение провести свадьбу в центре города
