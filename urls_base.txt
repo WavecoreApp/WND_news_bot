@@ -1,21 +1,3 @@
-url:https://meduza.io/news/2026/07/08/moshenniki-vzlomali-telegram-kanaly-holdinga-ksenii-sobchak
-title:холдинг ксении собчак сообщил что мошенники взломали два ее телеграм канала
-seen_urlhash:12f37a9807b1816f291662e498c646d75a1ed3acaf4d7e1c262076b1702321af
-seen_titlehash:849a202dfd06157bb669b45276ecc06e44729d804b10efa632bdfd0ada316b68
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/reuters-rossiya-nachala-glushit-starlink-pytayas-pomeshat-ukrainskim-bespilotnikam
-title:reuters россия начала глушить starlink пытаясь помешать украинским беспилотникам
-seen_urlhash:3486ca3c48b755f996e84a7ec998861ef827e68c7836e7d3759c8ac887ff4cd8
-seen_titlehash:580bb80a91edda31aee1fa6a27bb64f2b2a18b5c728a694374e7cdface855470
-seen_reason:processed_not_published
-url:https://ft.com/content/e68db443-bbc6-40b2-8ac6-c73691d40607
-title:nigel farage s unusual by election opponent count binface
-seen_urlhash:2eb42f5c5af21bcc60923face76743b3032f15f28c6d58eed9d4a3b8cbef5cc1
-seen_titlehash:a72e45920bf99058823bfc468fb36bde6e0a76ce00f62955bcc9417c87dfd104
-seen_reason:processed_not_published
-url:https://ft.com/content/29318b6b-b683-4e62-a991-54975e9f63ff
-title:jd vance and mike pence two views of faith and trump
-seen_urlhash:e58fb7da4c80d6a50a000cacbde2dcedc53534d80965dbee7985105e96c641f0
 seen_titlehash:86016edf50eb691f624d9a8332030dee4a1aaa4535a8024e09649cafb841fe78
 seen_reason:processed_not_published
 url:https://ft.com/content/759a8eab-7574-4ab3-b6a0-32c895ad7e47
@@ -4998,3 +4980,21 @@ seen_titlehash:ec2ec1e4835b16343f3d69d35242457674cf0c0a90c5e2d7ed259bdb97d8f156
 seen_reason:processed_not_published
 url:https://france24.com/en/access-asia/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china
 title:more than 1 million evacuated as typhoon bavi makes landfall in china
+urlhash:9391eb4c0a40dda90b9a90a474c454f992a45b2810b29c80e1c8997177607130
+titlehash:588993961389f90a9cde80256113244524bbcebf422b4c2d81e7e261f5e10e7c
+published_url:https://theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres
+title:ai companies want to water down australia s copyright laws artists are outraged labor is split
+urlhash:a1a900c2beed46730a63767c8d501aa38255c8b92d97ee70561e0c478ed13093
+titlehash:63fe7c05f3995166fcffe335a81012a2cb79988da4592bedc44e399eff55f8ea
+published_url:https://aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss
+title:what s behind pakistan s mass deportation of afghans
+seen_urlhash:eb97c12444d2a90c8c7498669661e653453a3ebaea51340f7c25dcabf8c7d128
+seen_titlehash:bb4abdb4c94c4ab0d62ccc8c04b85dc92984079dfc1d8c508c708b986429695c
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/jul/12/one-nation-australia-economy-stagflation-impulse-ntwnfb
+title:one nation is capitalising on australians economic pessimism like never before is a stagflation impulse to blame
+seen_urlhash:673bb8c8264825f6e6f3c5c99acfd6496aaaeba378638de98fe34db0f6c8b2ad
+seen_titlehash:a0b4d1feea4236052f124b28f4bddf7a98bbccb29c471e67dbb96bd0ccac2d90
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss
+title:uk police investigate murder of politician ann widdecombe
