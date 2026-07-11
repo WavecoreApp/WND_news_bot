@@ -1,39 +1,3 @@
-title:богиня славы фама вернулась в замок линдерхоф
-seen_urlhash:1750827e262914bd33ad0adcb4c368e6c26b8cba4e30b23ce89f48d23d8ef6e4
-seen_titlehash:f5e3bd1e14e0dd46326b7e494949830c68a45540f7e8dff1239900647b5c56a9
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/08/spanish-strawberries-are-among-the-least-contaminated-by-pesticides-in-the-eu
-title:испанская клубника среди самых чистых в европе исследование о низком уровне пестицидов
-seen_urlhash:84f7886b698c5a57fd8ff2abc1bc2e81c22e2c35726acbcd2a2833df1ce35891
-seen_titlehash:bed44fafda6f992f31b4d90d31c9209280d1e3519d7f0e3ec0543436aac8234a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/etias-after-ees-chaos-will-europes-new-20-travel-authorisation-system-be-delayed
-title:etias отложат ли в ес новый въездной сбор 20 евро после сбоев ees
-seen_urlhash:9cbb94aad8e4dc908a46c2322639dd0059224d968bdb09a8e93695b147d7c105
-seen_titlehash:22ee5570cd839ef924c902595b42b1f9ee6fbb1182f28aabbed3f231e3159f02
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/grenlandiya-ne-prodayotsya-premer-danii-frederiksen-otvetila-na-prityazaniya-trampa
-title:гренландия не продаётся премьер дании фредериксен ответила на притязания трампа
-seen_urlhash:0da71a566b21d122405ae429282454bdbbe556cd5dc466412caec23779487e2f
-seen_titlehash:a9c5798275dcac7e576a9b2e5b9a710a29a868ff5c73d115e1d9116620a86fc1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/07/08/can-trump-unilaterally-cut-his-trade-with-spain
-title:может ли трамп прекратить торговлю с испанией пределы его угрозы
-seen_urlhash:302d8a451956ab6269da66c565e134ddc1e682a6d89fd3f0a2a953cac2f10803
-seen_titlehash:21effcd40f888ccef86748b53fd822fb4d2f10e8943f7e27070e49bebc348dfa
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/this-flight-app-is-making-airport-connections-less-stressful
-title:приложение для перелетов снижает стресс при пересадках в аэропорту
-seen_urlhash:f19fdf5484004aff6c7698be5303b0875ae70a4bea3742598a9e885c7e5e607e
-seen_titlehash:ee634ebb5612e82a2f744e9d5dc68fc789527ab460d62bbad68f3b3e9d1f6069
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/esche-v-dvuh-regionah-rossii-vvedut-prodazhu-benzina-po-nomeram-mashin
-title:еще в двух регионах россии введут продажу бензина по номерам машин
-seen_urlhash:fad1c2478d48136d84fa8cf2452b34aca6b8d39a25b0f8f00d9763ef2aab4416
-seen_titlehash:82f632e4ff95b44bc76e3812bdfaf6c68e4136af37b34151f06464e1c385b86e
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/meta-razreshila-ispolzovat-foto-iz-publichnyh-akkauntov-instagrama-dlya-generatsii-ii-izobrazheniy
-title:meta разрешила использовать фото из публичных аккаунтов инстаграма для генерации ии изображений
 seen_urlhash:0fcd9150e2341a8b229aed1b47111b5b4092bc6805a813fea92b86c19a8a3773
 seen_titlehash:f38539d070910031ed62d0f70fe0bf0ff1680501a719dc5d73ff5d8d244a253f
 seen_reason:processed_not_published
@@ -4998,3 +4962,39 @@ seen_titlehash:16e60e78e37e369c474608e90e6bcfc777370a8e1e603376c403e9b0886fb13a
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/07/11/novosti-dnya-11-iyulya-2026-g-dnevnoj-vypusk
 title:новости дня 11 июля 2026 г дневной выпуск
+urlhash:5d67e63d54ddb513ef12a24701c320ddee73b736ecdd24952590087a79a9d4b9
+titlehash:35ae6f4157614695ee687fe008639a3e600c53b7a71f73cfe4697ee9f9ee4d1e
+published_url:https://dw.com/ru/генштаб-всу-поражен-еще-21-российский-танкер-в-азовском-море/a-77915896?maca=rus-rss-ru-all-1126-rdf
+title:генштаб всу поражен еще 21 российский танкер в азовском море
+urlhash:83e35dc3a4e695e863598f1c025ab92b961d3acb31878cc87a147d8b72433e98
+titlehash:ed663da530e6d4b66d70431ed77e0f2053b3bf776378b6609cc11b9cfcb52448
+published_url:http://ru.euronews.com/2026/07/11/trump-says-missiles-locked-on-iran
+title:трамп угрожает полностью уничтожить иран через день после согласия на новые переговоры
+urlhash:f8ff4f1a7f674c154ddcd782926b37adb7cfae45d10baa4f6f7c73a215028e59
+titlehash:6e0356a2a98e330be6729a3ebcde71db5d1e0fd1c80699d9fa992f02a4b53c1d
+published_url:https://dw.com/ru/десять-человек-пострадали-в-киеве-из-за-ночных-ударов-рф/a-77913361?maca=rus-rss-ru-all-1126-rdf
+title:десять человек пострадали в киеве из за ночных ударов рф
+urlhash:309619e06d09359a9ff18e64d2fdc78cf469b2e64b68ea88a55f1356a0267209
+titlehash:2f847c1084afb399848cbc4b716b7c5a2c937c88cfd38175e907fccf73183c87
+published_url:https://ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d
+title:uk inflation is not distributed equally
+seen_urlhash:bb50c7040abf7189f0831685e2fe9b4ecdd347f213ca7d5bc329a12e2a4912b7
+seen_titlehash:ad68e21c3948867233bc5c53fc34da2885501b46cf64017a776d99a14c5ce91b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/11/bellingham-haaland-bromance
+title:холанн и беллингем самые тяжёлые 90 минут крепкой мужской дружбы
+seen_urlhash:cc80688f3818c0b71a776981e9c85be1e0730ec5745f9658d63b1ec315358cd2
+seen_titlehash:b6e985a9329d0c2003995763f11c74c6ebbaf4606812b774b3aa63b997e1a925
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/11/ispaniya-vybivaet-belgiyu-i-gotovitsya-k-supermatchu-s-frantsiey-final-esche-ne-sygran-a-fifa-uzhe-rasprodaet-so-stadiona-kuski-gazona
+title:испания выбивает бельгию и готовится к суперматчу с францией финал еще не сыгран а фифа уже распродает со стадиона куски газона что там на чм суперкоротко
+seen_urlhash:d253122acf4b28b350c673d759a8ebf424eb11527c84240d8b25e058617f958e
+seen_titlehash:ed6a23f31b6e09b992cbf3a20cb8c7e24969a8368fe1e7cf2d940f57991a4e4f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/11/osnovy-rossiyskoy-gosudarstvennosti-stanut-obyazatelnym-predmetom-vo-vseh-vuzah-rossii
+title:основы российской государственности станут обязательным предметом во всех вузах россии
+seen_urlhash:ff4968e1007d14cca2387b306e3f237d2cd877ef3ccf9b7bfae4ec9490e16943
+seen_titlehash:8630622ff3db71216990f719613e8d0a553d0041619fa831fc1cfc567a088731
+seen_reason:processed_not_published
+url:https://ft.com/content/17c6d9ac-6793-4ef2-90c6-a6a3e9de9fc3
+title:marine le pen s redemption story
