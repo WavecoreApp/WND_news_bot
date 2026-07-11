@@ -1,46 +1,3 @@
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss
-title:trains and emergency calls affected after major outage at australia s largest telecoms company
-seen_urlhash:36fae80cf62075ff38304b121abf68fcf72c0aaabd09faa30384d6a5647a052b
-seen_titlehash:8bc8e0875d41463114753a997b1c78351bff022c3041e5f53f2b0d5df468a290
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/08/high-profile-melbourne-man-called-rapist-and-punched-in-face-shortly-after-he-raped-former-employee-court-hears-ntwnfb
-title:high profile melbourne man called rapist and punched in face shortly after he raped former employee court hears
-seen_urlhash:8f169f5c288bf166c83b73c219afad15b2e8ce600da021b99d4fceb52dfc1f39
-seen_titlehash:609d10d47a7b275c151aa568f49088690501f568e00d6b4d78cf22b0cd4ae374
-seen_reason:processed_not_published
-url:https://theguardian.com/business/2026/jul/08/telstra-outage-mobile-network-stark-reminder-widespread-effects-system-failures
-title:the telstra outage is a stark reminder of the widespread effects of single system failures
-seen_urlhash:ddd62a2ad60621d1a4363dff96caeaacf975007b02fe10d6917a22cd6644ac8d
-seen_titlehash:10ca5271ba61f66d79daf071b37bbab464c4c4c0f8368e828b8765496b58b28b
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss
-title:childhood on hold how gaza s children spend a summer without play
-seen_urlhash:8e85c9af547c4b6d0a8b05014327fecf330defe84e4bc01301232155a290c1fe
-seen_titlehash:a1bd9868d216db34e9fc2e29e5f0be5343e521611ebfd442c2a39900c0941130
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss
-title:syria grapples with unrest as government faces old and new threats
-seen_urlhash:209db87cfad38b6ab154a56e452a28ad2a6555ac15bcc02fa8931f557ed9ea83
-seen_titlehash:ac482bc04f641b5cc0d07a903f8be6c5c37a19993a42738e51d4a6a44256bff5
-seen_reason:processed_not_published
-url:https://dw.com/ru/населения-в-центральной-азии-все-больше-а-ресурсов-все-меньше/a-77866273?maca=rus-rss-ru-all-1126-rdf
-title:населения в центральной азии все больше а ресурсов все меньше
-seen_urlhash:35c417c880f2feaa1b0bd3fd87eaf9a02c8e8631135e095da7792b11e61d0f11
-seen_titlehash:314849c93344e2f6bacf8d8825519d6f5a54b0194e6e28a29dd31fd1aa04c0b4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/konec-epohi-gosudarstvennye-smi-vengrii-nachnut-rabotu-bez-propagandy
-title:конец эпохи государственные сми венгрии начнут работу без пропаганды
-seen_urlhash:3cfc0f0007a13b1f0e2f19ad320dad6d486755a31b248f210bce24bd09acd1f6
-seen_titlehash:43cbb6acb0b778cb1bdf8bdacf1b71b1257fef82233d6b23c4a06ef196474f26
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/submarine-212cd-explainer
-title:суперподлодка германии на что способен новый класс 212cd
-seen_urlhash:685abd181a979fadf11b313fff1bc7be77cb8ee55856b7d615d1ad310f0295c0
-seen_titlehash:9803c2ebd4a769709d451041670dc780e107bfae8b8ca928f3b6f8aa1b816719
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/reset-on-the-menu-von-der-leyen-erdogan
-title:дипломатия за рабочим ужином встреча фон дер ляйен и эрдогана может пройти в напряжённой атмосфере
 seen_urlhash:a31a5517ea41cc57b7c25b547a8c1f568bdd7cd0e035060fc0ea4083d7367b5d
 seen_titlehash:d143f1e45918d8054428b27e6c06c726e44d5693e38c786615f5335aa2e61c5d
 seen_reason:processed_not_published
@@ -4998,3 +4955,46 @@ seen_titlehash:27105eef44dbc1020427eb3de451861cacc0fb2e531d7b5e86aa99420c6dd96b
 seen_reason:processed_not_published
 url:https://aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss
 title:apple files lawsuit accusing chatgpt maker openai of stealing trade secrets
+urlhash:1718b43cb265753c7f3290037f9a90e794eaf13bff653c3160a3d41291d97376
+titlehash:7407f60c360a1bc62f23dee0b7c6e040f38b7e4f7e90010af99dfae066274edf
+published_url:https://aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss
+title:iran war live us demands iran publicly state strait of hormuz open for all
+urlhash:31ac32080457c768747ec33db58c9bf555e66d8d9a5d00288f3bb105b2a6f9ae
+titlehash:fcee78c6eec8a06caccc5ad3d25fcabbf432278e578790e22821d9d16c5b55da
+published_url:https://bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss
+title:at canada s biggest rodeo the starting gun is fired in the fight over alberta separation
+urlhash:ec6516b3db1c337f504b458afb591e1dccd471453d3406d9ea3969f609b87202
+titlehash:f890ef0740c9da3f00526cb439b01898e2b3145f0661b823f2dd3ca6795a9394
+published_url:https://nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html
+title:trump tried to block canada s new bridge to detroit it s opening anyway
+urlhash:bdc042259baba76cfdcdd358c798b8612fcf9b87d49b1d58aae97f3d84f17671
+titlehash:528a1f209e3bcd9a03ce67571f07464c93e74f20d3e3d8aa0686ea5c09c884d4
+published_url:https://aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss
+title:zaporizhzhia s mayor says russian advance reaches city s outskirts
+urlhash:4154a98c1d6ce4ddbcd2b1d24bc20f3bfbd67012c939dea315137ee2e029c9fa
+titlehash:7fde0ccad36206950a00ba885fd0b611a368bf4a0eb4348f5eea20fbd95b618b
+published_url:https://bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss
+title:how a fake presidential council ended up with a budget of almost 1m in nigeria
+urlhash:7b30115ae0dd01a80d970cabc8033757eb556e3641843245535ff28bb0404edb
+titlehash:5878056dfd445790011fbca94d32fbacab499f9e396d63aee9c6b41ad1f3025c
+published_url:https://theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort
+title:venezuela quake death toll passes 4 000 as scale of recovery effort looms large
+urlhash:12e0c6a235f66183b8c65eb293cc4d32f251bc899a0592dd3752c8a287b6bcfe
+titlehash:d93e51524a141226d841468b5c945fef5928f833c0df0ec56672992de7274e73
+published_url:https://dw.com/ru/в-великобритании-убита-правый-политик-энн-уиддикомб/a-77913296?maca=rus-rss-ru-all-1126-rdf
+title:в великобритании убита правый политик энн уиддикомб
+seen_urlhash:1033c8849ad6b61f0e8f61b3097bdaf64f5693fc1bb566947e2f19f0713bd6df
+seen_titlehash:bd5063baf6e328408064cb306091edd7b96c0faf7ca4ccf64a7d0b3fbc110ffd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss
+title:meta pulls new ai image feature after days of backlash
+seen_urlhash:a68482d58cef434694afdd27b42b8f21c0470f61d735092fc3c967a25d40d3a7
+seen_titlehash:9d36d2368b5a9dce68a7f947c591119458e341bf8f4918692e854d8061dd29a2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss
+title:devastating evidence against charlie kirk murder suspect laid out in court
+seen_urlhash:1993a8f93587003b2cc83bfb1d438acf8aefd2e4f2ab1abf7d8f899ca45b9404
+seen_titlehash:9a717088d8739d15044744ca00d7717c1fc377e8290630955b4218d7f02194a7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss
+title:why the new us housing bill won t fix the crisis
