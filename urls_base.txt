@@ -1,44 +1,3 @@
-seen_urlhash:a31a5517ea41cc57b7c25b547a8c1f568bdd7cd0e035060fc0ea4083d7367b5d
-seen_titlehash:d143f1e45918d8054428b27e6c06c726e44d5693e38c786615f5335aa2e61c5d
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/08/dolly-parton-musical-to-open-on-broadway-in-time-for-her-81st-birthday
-title:мюзикл о долли партон выходит на бродвее к её 81 летию
-seen_urlhash:7c924370fe5507f85f8abbfa913b963994baa9421d5dd984b929fd2ebf5b9f13
-seen_titlehash:83344f942aa86f5fff04f9d366e6b02f1a9a8cd11a970708549e4482b2ad09ea
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/air-passenger-rights-vote
-title:бесплатная ручная кладь и компенсации ес одобрил новые правила защищающие права авиапассажиров
-seen_urlhash:f2bb283afa3787167adfb40eb1b5eb9a174b49c9d735d96ca102341aaef00a4d
-seen_titlehash:37cc34205bcb091b62fdde205da593c499291b7688461675bdf6df7c25777586
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/belgium-sued-for-breaching-human-rights-with-the-highest-levels-of-forever-chemicals-in-eu
-title:бельгия лидирует в европе по загрязнению pfas нарушают ли это права людей
-seen_urlhash:2d84913442a8387ba55ab5980519e4a7213cbdc4cacf68e45182fbf6423eb4bd
-seen_titlehash:b5130fa36536192ef22b6256b10c97990211afbfbfaca7d5aff68cf5a19cd0b0
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/08/once-the-curtain-is-drawn-freedom-is-absolute-the-magic-and-mystery-of-old-photo-booths
-title:как только занавес задернут свобода абсолютна магия и тайна старых фотокабин
-seen_urlhash:32d432136030dbb962d1c9a95e3f5f5d66c77998ad49626377673ad1c1e59b54
-seen_titlehash:5faacf4ee376a58fd175eb3d15bc75849fd9bc9b5921c2d66386f727ef0781df
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/08/why-alpine-summer-is-one-of-this-years-coolest-travel-trends
-title:почему альпийское лето стало одним из самых прохладных трендов европейского туризма
-seen_urlhash:33062498a5d5b6d7a1373dfec09549fc6611a3f0c795e6f35680d5b4fe269112
-seen_titlehash:0d8df778cf77b91fe57bbc3b0d9262b0110d94d78649f8405cdaaab5ee46794b
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/08/solar-enthusiastic-germans-turn-to-battery-storage-to-protect-themselves-from-fossil-fuel
-title:немцы увлечённые солнцем переходят на батареи чтобы защититься от скачков цен на топливо
-seen_urlhash:6d41490b88187c97c5b183d5621d82801f3faa184c94463ec6d2c96628829675
-seen_titlehash:d0027b58f4d525f253aea4f8df571142e5ae4ba2bd66a0583dedf71f269ead7f
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/08/blood-test-could-identify-hormone-pattern-unique-to-endometriosis-study-finds
-title:анализ крови выявляет уникальный гормональный профиль при эндометриозе исследование
-seen_urlhash:1bc6a5d18030a3775f7dc08f0db420f32f6455e7a4717e92be99dc045604d0bc
-seen_titlehash:ad3eb236dab8f3919062b9efde60938af372d866b77083945a59268439b15fd7
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/hochesh-na-svo-v-ekaterinburge-muzhchiny-nazvavshie-sebya-byvshimi-boytsami-chvk-vagnera-napali-na-zhurnalista-snimavshego-ochered-na-azs
-title:хочешь на сво в екатеринбурге мужчины назвавшие себя бывшими бойцами чвк вагнера напали на журналиста снимавшего очередь на азс
-seen_urlhash:38f8e513cd18820fb7b64b171915d707eaae6d179b29c661b3bd04a54a81b7d6
 seen_titlehash:b2fe22ebe389cf44c88ea5f28caa544dfa6c802a046af5119205fa72922a74b5
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/08/byvshih-uchastnikov-voyny-privlekut-k-dosmotru-fur-na-v-ezde-v-kemerovo
@@ -4998,3 +4957,44 @@ seen_titlehash:9a717088d8739d15044744ca00d7717c1fc377e8290630955b4218d7f02194a7
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss
 title:why the new us housing bill won t fix the crisis
+urlhash:fb5979b2c3690c8862fa1a81859038d8f173cafc9bcbfc21d27dff29ad6c3379
+titlehash:d46489aedb03641596feeb357e6bc76883ca53e0956564001fb2ccb01e7045ba
+published_url:https://bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss
+title:us wants iran to pledge to stop shooting at ships in strait of hormuz
+urlhash:5c434f71ae6151b8e85cd57c9fa683f94dce808b2716dc0b287643656f893495
+titlehash:5fbac631ac20faa5b9cc466cc1fb97304673088e170f5bdbb8ddc4278edc12f3
+published_url:https://dw.com/ru/шесть-человек-пострадали-в-киеве-из-за-ночных-ударов-рф/a-77913361?maca=rus-rss-ru-all-1126-rdf
+title:шесть человек пострадали в киеве из за ночных ударов рф
+urlhash:133958978ba2976366ea053bff9390178c4ae0ad73bb43348651388844bced46
+titlehash:19e227ffb959dfe85479dc4fcb7f028a585923f9c8fadb5e5b7b41129b532fa5
+published_url:https://dw.com/ru/reuters-рф-перекрыла-азово-донской-канал-после-атак-бпла/a-77913327?maca=rus-rss-ru-all-1126-rdf
+title:reuters рф перекрыла азово донской канал после атак бпла
+urlhash:cf9e2a3832357c9e899f3ca72266994ded16e9ffcce62783e77f7637e563330a
+titlehash:e436d86359c6cbaa8faeed8ab5be7f601423af4a07607010a25097905cfdf3fe
+published_url:https://ft.com/content/fe125b49-2701-460a-a264-79fd0297d6ca
+title:china braces for back to back typhoons as extreme weather risks rise
+seen_urlhash:6a327a3ab35f5b85f5dd30029057d468cb5b864719e8bc82e924e4ef126e2605
+seen_titlehash:ee07bca2643cc9da1eb1d98e8821d9601360f33967d3e9ab2d2c9e6bbfa85abb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss
+title:spain battles to contain one of its deadliest wildfires as at least 12 killed
+seen_urlhash:110cca8fe34da778f4fd0b78f5f0c8982769bbdda50d813f3afdd15c426b3fbd
+seen_titlehash:18421c6312fb413db1307f936269219481c46680cb87928c71a98017b8f8372d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html
+title:they don t need people the workers left behind by china s robot drive
+seen_urlhash:c0571802557d095ae04cff2e246e2f83348e894df11fdc03fea3cf3146ba3f8d
+seen_titlehash:4428db1e929121f6a9ca0f9ee1bfdd4950ceba4a7571ca794b3dfddc870673d7
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb
+title:peter falconio murder 25 years on new footage shows dying australian outback killer s refusal to reveal body s location
+seen_urlhash:c3863902e61f407bfcf9571d538234d4e31813b00f7188342df248bccdc45028
+seen_titlehash:1632b66d32ddf89e66c8e0b6b53f60dd891b3cad38a263d97006b112878b2ee3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329?traffic_source=rss
+title:conor mcgregor weighs in at 170 5lbs for ufc 329 bout vs max holloway
+seen_urlhash:54b701ba97f08c47c319a154a24d41d68712fd079e151b1a99921cb492851b03
+seen_titlehash:c8b1642ace951eb83ec06747e5599e515be2e80e096b4e001d6ce1b3ff37dc63
+seen_reason:processed_not_published
+url:https://dw.com/ru/юрген-клопп-спасать-сборную-фрг-призовут-тренера-легенду/a-77879571?maca=rus-rss-ru-all-1126-rdf
+title:юрген клопп спасать сборную фрг призовут тренера легенду
