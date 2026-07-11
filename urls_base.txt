@@ -1,47 +1,3 @@
-title:убытки клубов апл до уплаты налогов выросли более чем на 600 за сезон
-seen_urlhash:f98881542ccaff76bb19b069a55ca22fd64a2a0c304b9d27d4644fdf215475fd
-seen_titlehash:ca7f049c637eedc6f5673169011234e97cb476b075ea5a762a3ff6f5077ae7ae
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/08/evroparlament-osudil-reshenie-zelenskogo-ob-upa
-title:европарламент осудил решение зеленского об упа подтвердив поддержку украины на пути в ес
-seen_urlhash:34987676b66db041d78eb1f9b197ac0da93642609dc8db4d3ef7b4ca353b7699
-seen_titlehash:e5cea6d00df690deea967c962813f705159c0ab12903c8ca0e5f40d15d11548a
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/rosnano-vyigral-sud-protiv-chubaysa-i-vosmi-byvshih-top-menedzherov-teper-oni-dolzhny-korporatsii-pochti-12-milliardov
-title:роснано выиграло суд против чубайса и восьми бывших топ менеджеров теперь они должны корпорации почти 12 миллиардов
-seen_urlhash:a594c2bf69a1125efae90568af70e799c38d2612415cff1520f5a56f5edb29ec
-seen_titlehash:a2a7655516af27e741c93ab73f739863401bd0ec7aa5945ca9b05a379794928e
-seen_reason:processed_not_published
-url:https://meduza.io/cards/rossiyanku-kotoruyu-presleduyut-za-diskreditatsiyu-armii-deportirovali-iz-turtsii-znachit-li-eto-chto-ezdit-v-etu-stranu-teper-opasno
-title:россиянку которую преследуют за дискредитацию армии депортировали из турции значит ли это что ездить в эту страну теперь опасно и как обезопасить себя
-seen_urlhash:b06510253e44e1029d44c28d80b5ec94bd856c8b316e9063351a9efd91d511f1
-seen_titlehash:22d362f639f56cb84961d8df4e5cf50d5997793d7d544850527f86b1412c83c8
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/08/voyna
-title:война 1596 й день украина усиливает атаки по российской инфраструктуре под удар попал голубой поток
-seen_urlhash:4dc39ee576515462c201c8aa00eec5accf1cdae23448f223b29eb538aedaa2e6
-seen_titlehash:6cc11c7302298dc4519dec2ca4b80090345dfd3051fde2942c1c590d2c5c4169
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/volodin-poobeschal-deputatam-dosrochnye-premii-i-pozhalovalsya-na-nizkie-zarplaty
-title:володин пообещал депутатам досрочные премии и пожаловался на низкие зарплаты
-seen_urlhash:70dbfc292d131d745a913a43fe232238acabb16846a1d5c420e4d2ead4c0479c
-seen_titlehash:d234724b4729aa2ed604b896d65c744e52806e52ff4c496aa357167aba24dbae
-seen_reason:processed_not_published
-url:https://meduza.io/cards/rossiyskim-sportsmenam-razreshili-uchastvovat-v-otbore-na-olimpiadu-2028-a-flag-i-gimn-im-vernut-vo-vseh-li-vidah-sporta-budut-snyaty-zaprety
-title:российским спортсменам разрешили участвовать в отборе на олимпиаду 2028 а флаг и гимн им вернут во всех ли видах спорта будут сняты запреты и ждать ли триумфального возвращения
-seen_urlhash:b261cac7d0047a84cba13a407ddbe73aa72647306657547b4be22fbdab4b225b
-seen_titlehash:cbe0fb67ceefd682017ab038488fda95aaf3ab227a34daf1f8a26a3040db2633
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/08/zakonchilsya-medved-samyy-nervnyy-serial-o-restorannom-biznese-gde-vse-bez-kontsa-drug-na-druga-krichali
-title:закончился медведь самый нервный сериал о ресторанном бизнесе где все без конца друг на друга кричали похоже к финалу герои поняли что можно было друг с другом и понежнее
-seen_urlhash:fb62e4f36cd9548b7fc01909046e4185e7f0ee2afcf1e68dae621638a01f1c77
-seen_titlehash:2afd2c841a30f08f6c57816bd8506324aa00fe7b5f44078ed8cddfbc2346e52b
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/08/gosduma-prinyala-zakon-o-regulirovanii-ii-v-rossii-on-vvodit-suverennuyu-i-natsionalnuyu-modeli-i-razreshaet-obuchat-ih-na-proizvedeniyah-zaschischennyh-avtorskimi-pravami
-title:госдума приняла закон о регулировании ии в россии в нем прописали уважение традиционных российских ценностей
-seen_urlhash:eae36f30b32ac55aa3c0082280b7aed4cf80dacf327cce430fd1025a1fee216c
-seen_titlehash:66c08529b696a858ccdd4f63a3d656628e62fc1003894fa7996159f150746c96
-seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/08/moshenniki-vzlomali-telegram-kanaly-holdinga-ksenii-sobchak
 title:холдинг ксении собчак сообщил что мошенники взломали два ее телеграм канала
 seen_urlhash:12f37a9807b1816f291662e498c646d75a1ed3acaf4d7e1c262076b1702321af
@@ -4998,3 +4954,47 @@ seen_titlehash:a894bc41b6cbb0442e5f7b9e67477a965b8c0b2f5cc55181c6afab5967d98064
 seen_reason:processed_not_published
 url:https://ft.com/content/b5b32b7e-7d4a-448a-b7f7-ebdc1533c6a9
 title:christopher harborne suffered serious medical issues while donating 12mn to reform uk
+urlhash:f55277fe2bb26dca169c191fa06d8f21bfaca9ca212c913a1bb1ccef8218b91c
+titlehash:cc489be5b5bc190d6bf0d69c4593d619632c9f3fae8e5ad83d324b50ec5646d5
+published_url:https://news.sky.com/story/us-congressman-ro-khanna-detained-by-armed-israeli-settlers-in-west-bank-13562598
+title:us congressman detained by armed israeli settlers in west bank
+urlhash:4a540f6c43eba20301a7412d4938a7e9b2dfa5bd2107571acceb0957d652339b
+titlehash:79ee941446701380e234aa6a8be9415fd7aa52e956b0515ab53eb73d0abe420f
+published_url:https://bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
+title:iran supreme leader calls for revenge after father s burial
+urlhash:28d92b5216948095c19f3c9460293d3998cdcf2202c53b38dff93eef802cb46c
+titlehash:81c39fa4547471356280fe006f8fe3fde686dfd915d5b138d57461ca057d44e0
+published_url:https://aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss
+title:all we see is decay covering the human toll of venezuela s earthquakes
+urlhash:69e230d7d93790471a39dee9ec8705be758c9b73ffd9d5c7d931dd91719e2b02
+titlehash:42ac326488f30e320cbbbb4ab7353445b8eec6630df2caf17133d41913ac8530
+published_url:https://aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss
+title:trump administration subpoenas new york times reporters over coverage
+urlhash:1a847b0da2fa84b17786e2116d1f42999583a8d0fc74fdf65d3b9da0546cb001
+titlehash:445560d92420cd2aaaf5fdc335f837863821e01f49d8c18eadc8c51f4449c4d3
+published_url:https://dw.com/ru/в-боснии-и-герцеговине-почтила-память-жертв-резни-в-сребренице-1995-года/a-77919432?maca=rus-rss-ru-all-1126-rdf
+title:в боснии и герцеговине почтила память жертв резни в сребренице 1995 года
+urlhash:157aa02f5f1dbd240b20e2d57ff75df6fbe921f0f675787b43b1243fa6e1f75e
+titlehash:f695ca189c5c378bde226557fceddc64276c8581697ac4c12b323495c5c977f6
+published_url:https://aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss
+title:thousands gather in srebrenica to mark 31 years since genocide
+seen_urlhash:bbe02e675785dc83460c3cecdf32e2deec4213eeebda844ece446be04cd56b64
+seen_titlehash:0fdf93eeaec7189a5ace0d82b6a3f887e9a8fc5546d31edc3c6d8603e090d09c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss
+title:polish pm pledges memorial to victims of ww2 genocide by ukrainian nationalists
+seen_urlhash:b34736ec21c6db36e8002e069bedb89654c0074980bb30c235d2afa3e0eed4f5
+seen_titlehash:4cc6610e9154892a68f133b4eaa757461f71387b067c1d0c7e3e03ad76194878
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss
+title:us rep ro khanna speaks out about being harassed by israeli settlers
+seen_urlhash:aab2da820a3d102eb487761f36f72ca0b5d06e9d60069c6229def5868ddb7798
+seen_titlehash:e308631b76e664c53bdbae4504a1a778573b7829602a36e09525b0402651aad4
+seen_reason:processed_not_published
+url:https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615
+title:more than 4 300 confirmed dead in venezuela earthquakes
+seen_urlhash:9fe8cc3e4267c7610e2bc2642009186389976681d05e0f62972b783465257a2d
+seen_titlehash:ec2ec1e4835b16343f3d69d35242457674cf0c0a90c5e2d7ed259bdb97d8f156
+seen_reason:processed_not_published
+url:https://france24.com/en/access-asia/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china
+title:more than 1 million evacuated as typhoon bavi makes landfall in china
