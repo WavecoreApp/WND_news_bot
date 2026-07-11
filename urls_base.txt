@@ -1,7 +1,3 @@
-seen_titlehash:86016edf50eb691f624d9a8332030dee4a1aaa4535a8024e09649cafb841fe78
-seen_reason:processed_not_published
-url:https://ft.com/content/759a8eab-7574-4ab3-b6a0-32c895ad7e47
-title:europe must have the financial power to match its economic heft
 seen_urlhash:39ca8594112953f3930835c3dcda948e1e0a0a0e9d34d2e1cf712cdae8c1d8d1
 seen_titlehash:50e3860c4633d0761924008d26c9613438432dfe775b71f27a9b143aad88beff
 seen_reason:processed_not_published
@@ -4998,3 +4994,7 @@ seen_titlehash:a0b4d1feea4236052f124b28f4bddf7a98bbccb29c471e67dbb96bd0ccac2d90
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss
 title:uk police investigate murder of politician ann widdecombe
+urlhash:8f80809fd9da96314bfece43e71efa360e9c3cab8b29edfb5cbe74441e0894a3
+titlehash:83a86cf67a7e23e40830cd68cfc4215c04dd02b931dd2f75b59d00e5bd38e531
+published_url:https://dw.com/ru/число-жертв-землетрясений-в-венесуэле-превысило-4300/a-77919854?maca=rus-rss-ru-all-1126-rdf
+title:число жертв землетрясений в венесуэле превысило 4300
