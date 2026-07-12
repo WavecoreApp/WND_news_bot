@@ -1,37 +1,3 @@
-urlhash:c8b1e62d3d87c587ef387e293bf0f67a959d00ab8e9ab6fd479acbf07e259a64
-titlehash:2f66043e094a0c32f3316d582a53ec910b0e8b5f4c1dc1e73afaf9fe52e83b39
-published_url:https://france24.com/en/iran-betting-trump-doesn-t-have-the-stomach-to-go-back-to-full-scale-war
-title:iran betting trump doesn t have the stomach to go back to full scale war
-urlhash:f330616d3c9a953a171c6802dc789f41ef54b3ddd225e2f604bc4be9bfcf0c29
-titlehash:2a74fa1879dc3d53355e1767b95e95a352174b08baf8b0ea7f92f5135b728ec2
-published_url:https://france24.com/en/us-gives-ukraine-licence-to-build-patriot-missiles-for-its-air-defence-system
-title:us gives ukraine licence to build patriot missiles for its air defence system
-urlhash:483144c600bd3c94a20082d7e4a536984666f712bba7496881f09c35cd4cdd42
-titlehash:97fb1df93bc35a7dc6aa2a01733c4f9ab3dad8c6abb4835cce25e0f9dc0b6291
-published_url:https://france24.com/en/the-us-and-iran-don-t-want-a-return-to-full-scale-warfare-but-neither-can-appear-to-be-the-loser
-title:the us and iran don t want a return to full scale warfare but neither can appear to be the loser
-urlhash:7bfa903e8c56c0e72507b4471218ce0ca88d9b5f7421cea907e150944dcb3075
-titlehash:b5e63ae9bd2c2b4d8211708835b1772ea1f8d66c84069b943e339ad2ed341fe4
-published_url:https://dw.com/ru/германия-закупит-у-сша-крылатые-ракеты-tomahawk/a-77885751?maca=rus-rss-ru-all-1126-rdf
-title:германия закупит у сша крылатые ракеты tomahawk
-urlhash:02de2099e591630bcf6674e41793ce1e299669747fdbb466bd610d8b81b568ef
-titlehash:e3b87131631f6b6f1e164d5f941af3a6cfd044ffa42246254623797cf311bcb2
-published_url:http://ru.euronews.com/my-europe/2026/07/09/russia-bans-diesel-exports
-title:россия запретила экспорт дизтоплива на фоне усугубляющегося кризиса из за ударов украины по нпз
-urlhash:6a6169313f94e346e68a530a84e8db3ef249818ecb9a4a54edf9002f4f8b02c8
-titlehash:dfac6f46d16ac8e4c1d064f8bba0b7a8a3c92bf9f844bf87ce9c5c42cf77b77f
-published_url:https://meduza.io/news/2026/07/09/the-insider-rossiya-i-kitay-obsuzhdali-proekty-po-unichtozheniyu-sputnikov-starlink-i-razrabotke-sovmestnoy-sistemy-pvo
-title:the insider россия и китай обсуждали проекты по уничтожению спутников starlink и разработке совместной системы пво
-urlhash:307b59c258f29be96cc0eed5044134532c5554e4b0b6b68364f6f74bc3ad208b
-titlehash:3f6bde9202b0c96290f4535f05408634a85acc99cf341a4888d50724461f65a7
-published_url:https://dw.com/ru/volkswagen-планирует-закрыть-четыре-завода-в-германии-к-2034-году/a-77887663?maca=rus-rss-ru-all-1126-rdf
-title:volkswagen планирует закрыть четыре завода в германии к 2034 году
-urlhash:de17947643bd37d0a97840da101b7b36449a7c12ab274eba51e51ac32286b531
-titlehash:4ac3e79a80a358d35d661e5a622351122ac4ed79c409638b47470068f65e9c9e
-published_url:http://ru.euronews.com/business/2026/07/09/digital-euro-enters-final-round-of-eu-negotiations
-title:цифровое евро выходит на финальный этап переговоров в ес
-urlhash:bdc4b0462e47fac9798050b9c89e4650f26a0c2ec3f3e0a15329f735c1635250
-titlehash:f4970d129aa22682034c5ecda68ef26f35007ef683cf72cf89f97b0bf60d6fe0
 published_url:http://ru.euronews.com/business/2026/07/09/cerebras-targets-europe-with-multibillion-dollar-ai-expansion-challenging-nvidia
 title:cerebras выходит в европу с многомиллиардным расширением ии бросая вызов nvidia
 urlhash:f056dffe9481f163e3e4c4a1ee226f48ba359c0994dde69182db261ef4903cef
@@ -4998,3 +4964,37 @@ seen_titlehash:181083ecf8e83e1d8023461a294cf64399564eee8a53bcae37ed76c315b4bfbb
 seen_reason:processed_not_published
 url:https://france24.com/en/americas/20260712-lindsey-graham-cause-of-death-aortic-rupture-medical-examiner
 title:lindsey graham likely died from aortic rupture medical examiner says
+urlhash:d20eefef62517d4adefce134fd0e570fae25ed333b189031936c48e4c7532c1a
+titlehash:175d4cde5ec3723e606a45cbbd8a28b2dbc0e815e41eeb3026dddc569095bc1f
+published_url:https://nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html
+title:with lindsey graham gone ukraine loses an ally in trump s ear
+urlhash:93fb6ca51deaadea3fda175bb7e0606acb2be9824bdb3367cc595021e9a28d93
+titlehash:7a6bba02069c1df6baad1b7bb09135b1a456e75e3ed7d2641f65e0d17ffc21a0
+published_url:https://aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss
+title:israel releases video of huge detonations in lebanon
+urlhash:fb1f6a596ddbbdab217fd97f8f0dd17076e5c885c802faaf285d554e4801cf08
+titlehash:bd86808f5a947df532db92b983a0d402939518d966e02fa36ec85fb2ac3c2805
+published_url:https://ft.com/content/2ea1acd3-fcf2-4b39-98c7-82af6e1a16bb
+title:firstft us launches new strikes on iran in fight over strait of hormuz
+urlhash:40fbb2ee5aff34a715ce1c690dbffa4a34a755bc776eca338638d6602d52d9e6
+titlehash:2c4d813d79b5f57c420137a917435c7b5d73fffc2244edb93980f026361e7cec
+published_url:https://theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb
+title:australia news live auction clearances nudge up after weeks under 50 state farewell for richard scolyer
+urlhash:d16c2850518807f70b6015b8698ec7bcb14d1df601b61f48f9417a764fecf3f1
+titlehash:b08be8d01e71053e56e9de4f2af045e97a0e9260ee1733e468a5525b8968a6f0
+published_url:https://aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss
+title:deadly israeli strikes pound gaza
+urlhash:4a934a31483d65b3817c1f359a8f38ba6db686253e26b40cfec3419e0890705f
+titlehash:468e9cad9a9aa404f1c3f2babd88a6cf9268599dee423272b3ef153347e48bb5
+published_url:https://dw.com/ru/штайнмайер-европа-должна-ответить-безжалостным-рф-и-сша/a-77926618?maca=rus-rss-ru-all-1126-rdf
+title:штайнмайер европа должна ответить безжалостным рф и сша
+seen_urlhash:0cb7316de04ea7044548e798073758f9f5681ffd2d2a2d5a6571ab5a656b6ae8
+seen_titlehash:e698f0a4f7c312f948f2bcb0e74554c7ae61f82041833b7d5f931921f1137969
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss
+title:detained by settlers us democrat ro khanna now faces pro israel attacks
+seen_urlhash:e643e10fbd50a1ced689d330a9141d25de19837dc44f274adf276007bc64e6ac
+seen_titlehash:7450097bb681ec0de6d030234cd0be10fa0dfbb6f75891b6d751f6b0b121baab
+seen_reason:processed_not_published
+url:https://ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d
+title:us launches another round of strikes on iran as ceasefire teeters
