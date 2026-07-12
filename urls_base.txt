@@ -1,69 +1,3 @@
-seen_titlehash:a767b19f9a8800b5370d9a98424f156376fd9389a7f26a88075f8871e1e708ee
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss
-title:trump departs nato summit on older air force one
-seen_urlhash:3ab073865f07197a7d0ccd53961adbde17c9aa87c3cf1456b2cf3b58135476a3
-seen_titlehash:3e23b4c9b94272b93c22ab655f928d554f320b814d27318e076c44656126f115
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/8/venezuelan-fashion-designer-swaps-dresses-for-body-bags?traffic_source=rss
-title:venezuelan fashion designer swaps dresses for body bags
-seen_urlhash:972930afba0feb1db34270afbee8a9add17dbe71f41091c4103ba5897c02cc99
-seen_titlehash:3ef714fa9804d73b6ab5329f7853f2fe11f87812ce401f0ae39d844461babd44
-seen_reason:processed_not_published
-url:https://ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439
-title:us launches second day of strikes against iran
-urlhash:09e55c16aaea01e11ebc500d3347242bace78fdc3583c2fdc726e79e62c28888
-titlehash:c09cfb9fa4cd45f0c8908b23540bf399c5e25676977db12ac76ea84df56d2d9c
-published_url:https://aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss
-title:us expands military strikes on iran after trump says he ll hit them hard
-urlhash:2dadacf32ccf1797e66ad79b2ae289582863804401c38608d317e97d14ca792d
-titlehash:9dbf478aa4f7a5a226d272edebdb155db3b130214a0d0e72a02b06886ff38b30
-published_url:https://nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html
-title:divisions festered within iran over talks with the u s
-urlhash:d161e68e1d285e07111b545cc2dae6a21e238b37469bcc16ce8be3fb2963db3c
-titlehash:219c446debb9b1f767b78c33b50933b6dc46c741d887fdc355e5c4ccdacb034c
-published_url:https://aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss
-title:us moves to delist syria as a state sponsor of terrorism
-urlhash:11479e05763daead771f67cf5c5b2b24e94aa197c7511df252b9b92cf3a05e41
-titlehash:abad7750ec175f1d4b9c841e7728b8d6f3649aee1bd315f1028b8298faf5300b
-published_url:https://theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update
-title:telstra glitches continue as secondary outage hits triple zero calls and regional trains remain stranded
-urlhash:8bfbc88485298c881d73c01137e6eced5a2269c071d786471fc454e1a95178f2
-titlehash:880fc8fca55434916bbafb1d07ebf638c7570fa99be81b57a95a9673f5a09ea6
-published_url:https://ft.com/content/1527f27d-9d27-424a-b1f4-a0eb4717e28f
-title:police launch probe into donations to jenrick s tory leadership campaign
-seen_urlhash:b4c08c4a76d7d9984b9f19f3ffbbd7dbe32e8f7e5c9e201450802598b6fbdca1
-seen_titlehash:61067b853064f77da149b912be9a67451560b42681cfa0b6594d6a858ada74cd
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/indonesias-free-meals-programme-plagued-by-alleged-corruption-and-waste?traffic_source=rss
-title:indonesia s free meals programme plagued by alleged corruption and waste
-seen_urlhash:be07e38606ad6fc01bd499fb3241c7f053cf25a581407c43b3b460a159380f30
-seen_titlehash:8d11914fa9482026521fa8d5b20bc71f1cf1c78456363466a7807494d2963b09
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/7/8/wildcard-fery-faces-zverev-in-wimbledon-semis-as-kostyuk-meets-noskova?traffic_source=rss
-title:wildcard fery faces zverev in wimbledon semis as kostyuk meets noskova
-seen_urlhash:fc879d484bd58e394f185a7a384428920431a6cc1463612938613da821f5508f
-seen_titlehash:a301ebfc359500ab44a46ae5320e7d4707a1ddcab2cc52c4ca99d834c27b6c3d
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss
-title:family demands investigation after us man killed by ice agent in texas
-seen_urlhash:80502bd9bfc5987f974a78476e0c3fcbaab850dd51808c1341bbf32ebb79c890
-seen_titlehash:b61d3e7d416b369f6d33994e51a03bbab16b3982558bd69f9738d5b9d45be3e4
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case?traffic_source=rss
-title:former wisconsin judge avoids prison in ice obstruction case
-seen_urlhash:6fbe90783b3cd63c09d63000b8a5f26fd31df86af9322b831f2819fed9e56c05
-seen_titlehash:a8b9a7a9f336b29e796d6dfaf80a381dc040e105aac74cf7b47c243ff8fb9a7e
-seen_reason:processed_not_published
-url:https://france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism
-title:trump moves to remove syria from us list of state sponsors of terrorism
-seen_urlhash:6cf63ea0b1bbd1b9ed9573473dfba9c1b3511982fab34c03329c345b525cb3b5
-seen_titlehash:7f4865747b897fe13d5db1804dd25fc148017dfa7f42fe31296ef014bf401f22
-seen_reason:processed_not_published
-url:https://dw.com/ru/армия-сша-нанесла-новые-удары-по-целям-в-иране/a-77882577?maca=rus-rss-ru-all-1126-rdf
-title:армия сша нанесла новые удары по целям в иране
-urlhash:54b3ce1289a8078f4b2781d61f88b9583384b8ee1e9acd569ed9a884e05fcee6
-titlehash:c8651cf7d6c1ea9fbea2ae191114280e26408d2d8b8ccd6fdb25252ddec88cf0
 published_url:https://aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss
 title:iran war live tehran attacks bahrain kuwait after deadly us raids
 urlhash:8c5e19059a4a7588fd577f3f7f7774c30f9777d07d75f09a3d1b5c62145ece17
@@ -4998,3 +4932,69 @@ seen_titlehash:5e908ef18d41730b47a0dfeec99b26336451fbf63d491cde5ad793ee076d6a3a
 seen_reason:processed_not_published
 url:https://ft.com/content/815fe0f4-03c5-4583-9baf-a0cf679624a7
 title:knives out at us supreme court as justices squabbles go public
+urlhash:c2b7b084907183b42cb6e3ab20272fc78a858fc569e87575bbab72c6a8d8319f
+titlehash:c6a0cd1642d06640d7f4334c7136b147c213c6c50b6484186b1f760c9c5a4bf7
+published_url:https://ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6
+title:a three way nuclear arms race
+urlhash:f9be0b0d953b849c9165109845031622ade8576aca283025ac6d3c07abf546c5
+titlehash:77d378493459caa0bc8a5ccbf2fd1ce3db53139ce853a0d8cd8709322693611a
+published_url:https://france24.com/en/europe/20260712-ukraine-s-zelensky-proposes-new-pm-in-ukraine-government-reshuffle
+title:ukraine s zelensky proposes new pm in ukraine government reshuffle
+urlhash:0c70970afedcb6f194248de30aab1f7c2c8111e7de5425b5103224a517add52a
+titlehash:14159181bbe499cbe68fce3f639768e5ca01b031c128b7050cc8aa00416280fe
+published_url:https://dw.com/ru/зеленский-анонсировал-отставку-премьера-украины/a-77923499?maca=rus-rss-ru-all-1126-rdf
+title:зеленский анонсировал отставку премьера украины
+urlhash:d2098b19c97b3c5e61349c486306cc112da38c164ca15da8c603684242ce8c73
+titlehash:02b50263cbf050d50b74fa2856fd4caa95d62fa99cd1f87a539b03580f1d298d
+published_url:http://ru.euronews.com/my-europe/2026/07/12/cuban-cigar-counterfeit
+title:в испании действовала банда наводнившая европу поддельными гаванскими сигарами
+seen_urlhash:3dd77a0c8f8ec66c5b618f044e47b4b7b28156e7c3694a9c09c4fdfb26240fca
+seen_titlehash:80474c978ea87f43fdf4a8c78bf49fc32b6d7e6859d9c52d4e2ccde626f3be17
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/12/new-anti-racism-standard-will-force-australian-universities-to-use-definitions-of-antisemitism-and-islamophobia-ntwnfb
+title:new anti racism standard will force australian universities to use definitions of antisemitism and islamophobia
+seen_urlhash:9ffb0d92a88127c5777c40c0e6899b584677891b1583de8e908262b7ab5b6ce9
+seen_titlehash:31e2b5de2a04a97f944f6d638cec80883606916734a07354000752562b0c8677
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss
+title:british police make new arrest in ann widdecombe murder investigation
+seen_urlhash:c53c14657005291688069c6a124397ddf6aec1acc198aa80aafb532cce5eb1c1
+seen_titlehash:edb33e36501f7fe6fe296e927fe6ed234ebf12933f22368f6d12f3c6573d059d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china?traffic_source=rss
+title:typhoon bavi weakens to tropical storm as it slams into eastern china
+seen_urlhash:8ebe0e362d5d1db860762fb4c8356272f6178b78633eee67d21759f0444480fe
+seen_titlehash:0d6e9ea63bf3e23ae5f5913dc3db9746fdbd567d7b421bbbec0c2554d4da4181
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260712-us-senator-and-trump-ally-lindsey-graham-dies-aged-71
+title:us senator and trump ally lindsey graham dies aged 71
+seen_urlhash:a7ab0a8792e830ccf39aef460aa5b70e4129a8980313e56b24bbd93718bfcd69
+seen_titlehash:cd5ab00cc7aeff0bba2650c83f7b457cb93773d0f12663c520f3720dfca454eb
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-боснии-и-герцеговине-почтили-память-жертв-резни-в-сребренице-1995-года/a-77919432?maca=rus-rss-ru-all-1126-rdf
+title:в боснии и герцеговине почтили память жертв резни в сребренице 1995 года
+seen_urlhash:c12d42635100e8c38768178a4d4b06554922cdc70c9164b254a50f26590b213d
+seen_titlehash:15a42d22821c7a5407c8ebef58bfe68f3bbb55baf5c357a85b5d081e1f781b5b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/12/blue-zone-secrets-how-sardinias-elders-stay-sharp-and-happy-in-old-age
+title:секреты голубой зоны как пожилые жители сардинии сохраняют ясный ум и радость
+seen_urlhash:e0e4133e5f24a4166b4a1c6db40e2f56c34c349556ada7b227195ede4c541a90
+seen_titlehash:c84ee8e0dfea872ec6e711b4d0be022589963d6ff117e2dfa096a8e02e8fffea
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/07/12/from-space-rovers-to-hunger-maps-how-ai-is-reshaping-humanitarian-aid
+title:от космических роверов до карт голода как ии меняет гуманитарную помощь
+seen_urlhash:24915b0202137aecce13b36f36e21efb147cecdad0965321b312907cca810cbe
+seen_titlehash:b780cf3017af050b529b74bb7f100bc6f401d9784a0dda2052c9b9cfc6cdc01d
+seen_reason:processed_not_published
+url:https://meduza.io/slides/a-vy-znali-chto-v-magaze-est-ne-tolko-knigi-meduzy-no-i-drugih-izdatelstv
+title:а вы знали что в магазе есть не только книги медузы но и других издательств от романа о режиссере эмигранте вернувшемся в гитлеровский рейх до историй российских дезертиров
+seen_urlhash:4c3a690fc53e5ba7962d9f4a51bce448cf122bb91b3dc6bdac0f53c051f5f1b4
+seen_titlehash:65185304f39cf2ac5b292d93a8c1ac4b83e629f8dd655ed13ea201cb968f7555
+seen_reason:processed_not_published
+url:https://ft.com/content/77e0f0ec-e537-4452-b978-2f9c5146c82d
+title:police open minded on motive for widdecombe killing after second arrest
+seen_urlhash:b9cf473f442b0d1b68bf62d576592fdd0df3ec6863d26db55f74fa96aef28836
+seen_titlehash:cec0505ce3db65411cbab96c0f8b162d311add883c9d1f00edda47ab4587ac84
+seen_reason:processed_not_published
+url:https://ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2
+title:the great reinvention of hunter biden
