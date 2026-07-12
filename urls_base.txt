@@ -1,39 +1,3 @@
-published_url:http://ru.euronews.com/business/2026/07/09/cerebras-targets-europe-with-multibillion-dollar-ai-expansion-challenging-nvidia
-title:cerebras выходит в европу с многомиллиардным расширением ии бросая вызов nvidia
-urlhash:f056dffe9481f163e3e4c4a1ee226f48ba359c0994dde69182db261ef4903cef
-titlehash:6f0fa6bf1e4869919b251e3bae520692b686dbe8a1b52cb9fa3378b892c37d15
-published_url:https://meduza.io/news/2026/07/09/voennyy-aleksandr-lunin-udalil-obraschenie-k-putinu-v-kotorom-on-grozil-prezidentu-myatezhom
-title:военный александр лунин удалил обращение к путину в котором он грозил президенту мятежом
-urlhash:5f82dfca28d8905a8f02cd76513684bd22db0b890022b104f953c6f4fde14963
-titlehash:e10f20207d6fb8385f9f1953fbe22e274b392ccefddfb694c7a58b77467190f7
-published_url:https://meduza.io/news/2026/07/09/italiya-vysylaet-dvuh-sotrudnikov-rossiyskogo-posolstva-ih-podozrevayut-v-shpionazhe
-title:италия высылает двух сотрудников российского посольства их подозревают в шпионаже
-urlhash:f7d88d642f9f29b3f596a938ac5f138cdcba1260aab466feb2553552916753f8
-titlehash:453a45967794701e102ef28edee43dde6f3b5b984d7e1f25aebc827fc9e95630
-published_url:https://ft.com/content/0306bdaf-4465-4c3c-94e2-44f2c53373e2
-title:china could be the us tech hedge
-urlhash:9c40ee097c25bfdcbbcb2b7093bafd48fc28765d24f183d72d31f5d74afaeed7
-titlehash:8b500449600d4ad24588b3ec6e0a2e47d755e7ebce0de643dd801f5ee1a1aab5
-published_url:https://nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html
-title:at nato summit trump puts on a show while europe gets down to business
-urlhash:27e2ed2db038a36963ef07b2aefb5bde488d7e5db84aafdf7b81c1fb3264d805
-titlehash:cc886a880fe0138f7fb8e51b03fb0b0cb157bb6a9a59729573c61c5d843aa3e6
-published_url:https://ft.com/content/aafbb53c-ace9-4c40-b3d6-9743995ccf54
-title:french commissioner pushes for buy european in public procurement
-urlhash:21c3378cbfb9e2a2b3a0f0c813096afa5b601f346f6fcdab8cea14e46e760c21
-titlehash:4cd163ff3514796d881ca6da77f60c4847e15d4860a1a76c75632c1be7698edd
-published_url:https://ft.com/content/5817f869-7b5d-4260-87b3-1500750172e0
-title:europe s china shock panic is ill informed
-seen_urlhash:9c49ea048afc65b5f666f03368dd5aec2c59c8bb697a60b6f3e6e0ee937d058c
-seen_titlehash:0cdabb53414bf2d8c2abb667017cdc6b9d0b9e33eeb52ac2228f74c7caf021a0
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html
-title:what germany and japan can teach ukraine about patriot missiles
-seen_urlhash:376115c261c9b37432331e1a0163ac8c3e41613c077143340ba9eb0e3c3531a2
-seen_titlehash:2f862bf7399e8ec2b92543c1cf8361d5330aef17ea9d742b30bf298c537421f3
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html
-title:final stage of ayatollah ali khamenei s weeklong funeral is delayed
 seen_urlhash:55fd2fd33a38e95f6a341dd7948ec4ff1cbb707686edd4ea954741b4cea68379
 seen_titlehash:37f010ddd8eac7cbb61b533b476560d6b601875f084e9014137a65da63cd524a
 seen_reason:processed_not_published
@@ -4998,3 +4962,39 @@ seen_titlehash:7450097bb681ec0de6d030234cd0be10fa0dfbb6f75891b6d751f6b0b121baab
 seen_reason:processed_not_published
 url:https://ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d
 title:us launches another round of strikes on iran as ceasefire teeters
+urlhash:5b5d00298d9dd9c026e473ea6c1d50674bddb124800c730384380b487be7e773
+titlehash:405034726ef4095299f71ebbecaaebea26c6130ffdf558b4c74401f3cbcd5368
+published_url:https://france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz
+title:middle east live us strikes iran as gulf states targeted in flareup over hormuz
+urlhash:76a5e919e1b172647457d7a086fd3847482395205beb153274266004e8d6cb6f
+titlehash:88b6b945c5999fc7f4d0f01ada7aa08b5e55efaec61c7f398f759ba5e8976889
+published_url:https://ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6
+title:oil prices jump as us and iran step up tit for tat strikes
+urlhash:06dcd65c925b834ba068e321806a9c138f1fa511c1a2ca46144566214f4b65e7
+titlehash:4b240264aa205e46686b1b15510b1d482f6342212d1be0ef0ed49b57bef802df
+published_url:https://aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss
+title:us launches new wave of strikes against iran aimed at degrading military
+urlhash:95cc661788300d7ed7deba7139c9b978bec059fe59af9f672b6c183d4ebaabd9
+titlehash:4bf92c3aa31f6d9a649c08366ce9816d628d541c57edddbf7f338dc955c371d6
+published_url:https://nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html
+title:fire in bangkok pub kills dozens
+seen_urlhash:b3d6986a6d157185631affcb0b18b69773336a91a960a1080b39279536607f99
+seen_titlehash:1c05b3dc86e8dd5ff43713a77e69078911ac36435a52abcacae1b4e3dc603987
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260712-bangkok-pub-fire-kills-27-thailand
+title:massive bangkok pub fire kills at least 27 people thai officials say
+seen_urlhash:9d0643b304be1298be3a3a76fc1969f3f4790bcd0e459c607a06a43f889fa5ce
+seen_titlehash:1d158ad37cff964e7862ba787c9f8b1c1b2fd2fd5f339ddbc70090fdeaab5aff
+seen_reason:processed_not_published
+url:https://france24.com/en/sinner-wins-second-straight-wimbledon-title
+title:world no 1 defends wimbledon title
+seen_urlhash:0ef752e051efcaf52198a06b5196eecd7aaa9ec048e70aa2de53cf31fca6e13a
+seen_titlehash:1c12391929d7e9125cb0ef84f7ff9bb02fff7b3551f370bd63ee4a63a4fa4a3b
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-наносят-новые-удары-по-ирану-в-районе-ормузского-пролива/a-77926637?maca=rus-rss-ru-all-1126-rdf
+title:сша наносят новые удары по ирану в районе ормузского пролива
+seen_urlhash:ea93367eed968b384517be927b411d31c2f979a44b41972af4f99cc42f067faa
+seen_titlehash:330e7f2db7232f7998fedee79683f761213b821e3530313bc6b1e030157ae03e
+seen_reason:processed_not_published
+url:https://ft.com/content/bdbac7c0-e963-4e4b-844d-0deda384559c
+title:more than 2 700 deaths linked to uk heatwaves
