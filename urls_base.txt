@@ -1,48 +1,3 @@
-title:20 млн сигарет и свыше 38 тонн табака изъяты в странах ес
-seen_urlhash:c757ad5460e3718afc47ac20c0c0679d06da5aeb43f9c340443972835c556acf
-seen_titlehash:b71c9a34d9f3885c76967ed7c9e140beac1a15413d3e1121b6f4fe1cc3ddc88f
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/09/europe-today-le-pen-to-run-for-french-president-as-trump-revives-greenland-row
-title:europe today ле пен баллотируется в президенты франции трамп возобновляет спор о гренландии
-seen_urlhash:ac7c66698a0dd6b91330f4176855108e66840442385d057654d67c10f7d24b28
-seen_titlehash:3315f1077179c2781b66b9cc697042212fa448420055114b3a55370b3fcd51ad
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/07/09/wrestlers-train-for-mongolias-iconic-naadam-festival
-title:борцы готовятся к культовому монгольскому фестивалю наадам
-seen_urlhash:59543cfac527ff6af24e94ec4f04cbf2c64d2c76e31dd949f9938446aabe1c50
-seen_titlehash:0f669abb1d1fda7e94b17b30d5aa52af1a51dd977971b44dc77992ddb90368c0
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/07/09/rio-devotees-celebrate-ze-pelintra-day-with-music-dance-and-prayer
-title:верующие в рио отмечают день зе пелинтры музыкой танцами и молитвой
-seen_urlhash:7d049574eadc840b596dfe5655bbfca8db2d58af40d43d13485af8c3b604755b
-seen_titlehash:3be21f8ec1b251fa652ef717e90088a3f4f83b725528d54ff1fa47c1a4cff38e
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/09/france-morocco-preview
-title:чм 2026 франция сыграет с марокко за выход в полуфинал
-seen_urlhash:fd3ae18fb1f9a1dde36e58a1aca1b8a76d429060ff6b420f4869bd3fcad86c07
-seen_titlehash:026e8419cb7ef1d0f63fc7dbf9369170df11c77857585f7ede59b7989e341bd5
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/09/justin-bieber-joins-madonna-shakira-and-bts-for-the-fifa-world-cups-first-ever-final-halft
-title:джастин бибер выступит с мадонной шакирой и bts в перерыве финала чм по футболу
-seen_urlhash:d90c95ba8208e5bec7c5a9c68da5009dada558a299c8168e24728d42d429ebfa
-seen_titlehash:146ec6ed443b490c869a7c2a16f6920bb445260ff0674d659232304ba429d285
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/09/marin-le-pen-idet-na-vybory-posle-prigovora-raznye-reakcii-neprostoj-start-kampanii
-title:марин ле пен идет на выборы после приговора разные реакции непростой старт кампании
-seen_urlhash:663ecb76b0afe5bddc13e4715edba33c4b133aaf8959a7a2ed5b47ecd8246c83
-seen_titlehash:688fe7a09a3a8e888c6034f8dde49b0a32e4e5ff8194ca267ffb12a70c5992e1
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/07/09/house-rents-2026q1
-title:в странах евросоюза выросли цены на жильё и аренду
-seen_urlhash:cf9588666b2001bfae5e5abb5077e7f624eecb288e03e75f1f04929eab9d23a6
-seen_titlehash:658d8e7425406da8e80381ef3901ff742f096de37006e172d17e16ac4eaed1f7
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/09/elephant-sanctuary-in-alentejo-has-already-received-its-first-occupant
-title:заповедник слонов в алентежу принял первую обитательницу
-seen_urlhash:09294354ff27a9ffd190bb5f942869de30435f54261931e1ff53d68bd6199c57
-seen_titlehash:b4c28563ac145c45e38ba5652c6198d22b264ecac47c3ebad13e0e8b5ab2c322
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/09/obesity-drugs-lead-to-weight-loss-but-do-not-improve-quality-of-life-study-finds
 title:препараты от ожирения снижают вес но не улучшают качество жизни исследование
 seen_urlhash:5998a0beb438b3670204ecf83ecc4de766b9713c2a74279296abcbd9e3d7b520
 seen_titlehash:11b6c727420bb30f22e35656070c42795f02c3bcab9721079edd04294ef24e47
@@ -4998,3 +4953,48 @@ seen_titlehash:e63aa7f135b87a550eb2d4bbc4b790ad79c2d0ffd2629815264f24cb1d1d5cf1
 seen_reason:processed_not_published
 url:https://ft.com/content/4b291727-6914-4f61-b1a9-9396c610117c
 title:a big week for us banks and andy burnham
+urlhash:bf9a57ccd95f1fd1eacabadb98f01201e8119b3b2178d12d2bc59de91634d6a1
+titlehash:b52a2d1e10b74c31c63ee6baa4c6e9fe5ae54294f8c81c000d453b86a78ca124
+published_url:https://bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss
+title:south africa says more than 53 000 foreigners deported in migration campaign
+urlhash:4d796ac716d166fa3c149f9e1caf2e92c0fac4a1d33660e2c2076dd82277db99
+titlehash:b86cfa55d17956cb1cccd5aa28896d63396546ba4b82351b9b65b3745378ea44
+published_url:https://aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss
+title:why the iran us ceasefire is falling apart
+urlhash:a5486560a869943b31124e2b497cc768a14bcb8d4d1f22397006cd9444045ed4
+titlehash:a987b42bf1f8954409c9d89d45ddbc3333957662a544a0c5b4f268210626e05a
+published_url:http://ru.euronews.com/2026/07/12/aznachena-data-vyborov-v-knesset-izrailtyane-pojdut-golosovat-27-oktyabrya
+title:назначена дата выборов в кнессет израильтяне пойдут голосовать 27 октября
+urlhash:432ff51f2ed7f5ac8651d5948fe41e885f23866a5e93709e0cf8b61d52f1cb47
+titlehash:13986951c98d10cf61c098fe7d18877685b271258dc292fc6947520712f132c4
+published_url:https://bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss
+title:at least 27 killed in bangkok bar fire thai media report
+urlhash:87532c59722367e3bd9913f73c83ddab5343dbb831020408fd19c0be83c818e6
+titlehash:2a2a44516a6040b17669f1355f6155f5f72860a8c3e8b0209719880788ecf61c
+published_url:https://aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss
+title:some 30 malian soldiers killed during anefis retaking says army chief
+seen_urlhash:fd5498ebfcc2d7ce5e92a47752dce23f73d85d08ccfe08a0cfa00da9a7494b0b
+seen_titlehash:092767caa784d7644a03e3c32447eba17c7ab825d6246d8c4f29bb42cfa7324f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss
+title:anti migrant display set alight in northern ireland bonfire
+seen_urlhash:7e7cd70303e200e4f3b3703347540c3ac99ea752545ec8179ce7626d7b80a650
+seen_titlehash:1c2901d39b20757919cb559df497a39f046e80f592fb846114ebfd4749f8b374
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260712-jannik-sinner-beats-alexander-zverev-to-win-second-straight-wimbledon-title
+title:jannik sinner beats alexander zverev to win second straight wimbledon title
+seen_urlhash:0210407d9a5351b4d7a046cdbcab5f070d5622199a39dbc839fbac1e12b1094c
+seen_titlehash:82851cf02941f3568aac167ec95659174e971634b21218be318ae46c8279226c
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкий-теннисист-александр-зверев-проиграл-свой-четвертый-финал-большого-шлема/a-77925499?maca=rus-rss-ru-all-1126-rdf
+title:немецкий теннисист александр зверев проиграл свой четвертый финал большого шлема
+seen_urlhash:a91cd3b3aadf4fc64650ecf4d7076d5d49b566c20512da550687e4de2812c50c
+seen_titlehash:1b38bcd04fd4ceab5dcdbfaf517f419bd9068e66a59a0ab151b3a41b9ae4ba53
+seen_reason:processed_not_published
+url:https://dw.com/ru/олимпийская-чемпионка-дарья-варфоломеев-раскрыла-формулу-успеха/a-77902160?maca=rus-rss-ru-all-1126-rdf
+title:олимпийская чемпионка дарья варфоломеев раскрыла формулу успеха
+seen_urlhash:0cdda93bee71c0905d69e30c1c01807100fc4aaaea2e9ce9aac74c7453377ad8
+seen_titlehash:ac227805083fb093ebb737d8ebfe4b51b47472ecadb9e19b8ea23c144b0fe5a7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/12/france-hundreds-dive-into-the-seine-for-pariss-first-river-race-in-80-years
+title:франция сотни плывут по сене в первом речном заплыве парижа за 80 лет
