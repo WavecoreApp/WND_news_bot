@@ -1,42 +1,3 @@
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss
-title:bomb attacks rattle damascus but for most syrians life goes on
-seen_urlhash:d4c40d4e12863b6113caf35ee7933645afa6be17397d82b42d41159052959e38
-seen_titlehash:8bcfddb7f432392c62fde269ca80a5edee5abd5fdc6c2d3f756e624fa740cf05
-seen_reason:processed_not_published
-url:https://aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss
-title:degree but no job the battle against unemployment in gaza
-seen_urlhash:ad19f6e412fd8e610353890c063331ed98e94980222d60bb8380c6346a9e6495
-seen_titlehash:e9284d3264e2d4d31051c93d27ea648807e56d27ba2b26437ea147b882a297d6
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/10/bodies-found-in-cars-as-deadly-spain-wildfire-kills-at-least-12?traffic_source=rss
-title:bodies found in cars as deadly spain wildfire kills at least 12
-seen_urlhash:b5f91388fdef0635b4e183ea5aa12e1d1044f075b831b73920b822e1897114a1
-seen_titlehash:1598bbed17135deb73f17048e5a800576395e8eb70f0ced81d9a2cd65e33e467
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss
-title:administration without sovereignty will not free palestine
-seen_urlhash:0cf74eae95d62b73869783c1921d386e8316049d0f2eb751b813ec9c441d2f0f
-seen_titlehash:d35a6f6729ed25e1601bbeaf963ca815da33453d5d6e4f8eede42d74159ab8f8
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss
-title:bayeux tapestry smuggled into britain for first visit in 1 000 years
-seen_urlhash:d10319d4ff1fc336ddcc5db4e5bc34a601a133270b2f5ecf1fba857ce17f00cd
-seen_titlehash:04db2b49842ad4b7da1c67a7e93667cb805379cae7e6a954fc57cb5c48ac722c
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss
-title:wildfires in southern spain kill at least 12
-seen_urlhash:27d041cc4c74495b27c1002d3bb94a5f08daf4d03cee1860dc6302a5969f7b0a
-seen_titlehash:2fabf3f9c46d0c37109f19128d8a09dade9344563ecadbbbb066f610901dfe39
-seen_reason:processed_not_published
-url:https://aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss
-title:south korea s sk hynix raises 26 5bn in record breaking us ipo
-seen_urlhash:b989a80c33b5e5be5cfb98632bb8676fed42074e9c853db213cafe8de3845f54
-seen_titlehash:3c84a8b13c2f455f6e104de8af48f5528d011d8872ac920289eacc2a81a82a0c
-seen_reason:processed_not_published
-url:https://dw.com/ru/volkswagen-проведет-крупнейшую-реструктуризацию-в-своей-истории/a-77902134?maca=rus-rss-ru-all-1126-rdf
-title:volkswagen проведет крупнейшую реструктуризацию в своей истории
-seen_urlhash:3ec288a7f5b4020d61f54eb28a9db76a7cc3b93e5bbad73323bde7f6da0645fb
 seen_titlehash:8bf47eea5f9432077a7f813663c0fd84af506ea0a6fca4c67550074cf785a0c5
 seen_reason:processed_not_published
 url:https://dw.com/ru/президент-германии-штайнмайер-передал-музею-кусок-угля/a-77893907?maca=rus-rss-ru-all-1126-rdf
@@ -4998,3 +4959,42 @@ seen_titlehash:d2c8823b906b56e86f56ec25986d13dd8700c10b215116fdbceef42bbb609714
 seen_reason:processed_not_published
 url:https://ft.com/content/c98f4108-7bb6-4a05-9742-8d7b56c78c4f
 title:judge says trump s irs lawsuit had no basis in law or fact
+urlhash:d12e99d501e0b1f1548201a0d071817243ece47c2ccf48192baa70ea4f420ca6
+titlehash:58c22ebb6de69c873235a5b17795e0e4316c043ac341afc36e4aae4f0978c925
+published_url:https://aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss
+title:us iran exchange attacks around strait of hormuz
+urlhash:7aa4a8cdc42daf1f800b937a318cf1a0dbaa445cb02f2df549ee8fa4655445be
+titlehash:3b59db6783988f062dd8626be0c20f6fe2b25cb046d09475528da99da327de24
+published_url:https://aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss
+title:us strikes iranian ship with drone boats in first of its kind attack
+urlhash:b4ed7efe9d45a32a13693107c0048f47cc830ff8c0b134f9b2b2e400b0b1cf2f
+titlehash:e88ad5c3609cd7f623cf2506c986b237bfe2a33c70a8a3256bad096e78c91bed
+published_url:https://nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html
+title:israel s regime change plan for iran
+urlhash:511218d5ff8392ae79f2a8bf7e2f6807d4db09e4cc2a724f42d0f182959411f2
+titlehash:b5446bfe7cbb4e10cf04e3eff2393a9a2579bc28339bf83a5a4cb0a15e41f9ac
+published_url:https://theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco
+title:developing countries spend more repaying foreign debt than on education un reveals
+urlhash:79737f1f652d9ec1cf1d5486e0608aa95f15368dc2a420a9cdea8fdb0e84d89a
+titlehash:6f3383d9e04dc05dcfb1d1cfae8072b91c8a1926763190e1732ad2edf6fc9d51
+published_url:https://theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china
+title:weather tracker typhoon leaves people stranded on rooftops in china
+urlhash:df28b788be762436faed5674084c0886c45372567039fe0717ffa4d59bf0a88b
+titlehash:bf0ed1e1d194920f6bbe1e18293ef819f7571bfd66b7c4e0f15864727e2f5ed8
+published_url:https://economist.com/international/2026/06/09/why-strongmen-are-wrong-to-loathe-europe
+title:why strongmen are wrong to loathe europe
+seen_urlhash:2f7030b900c398b6d57c5294d69a1094aba14de1d1c88b09238494c93e268cf2
+seen_titlehash:31a166f3f0c8656d3f90762ff50a4750de750fb0e284664a86bc37b2fde7bae2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss
+title:lindsey graham s legacy israel advocate trump ally iran war supporter
+seen_urlhash:7a7444a6c9d5805d85c568159b172bf3322bac6e37c4c84767fb5412aee52309
+seen_titlehash:f04eb290b55a5228a2f45dbd9bda7c65632e4191cab9e21f75217a32997c3de6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss
+title:how is the us tech industry regulated
+seen_urlhash:b01512f84ff59542c23d1894001641706584ba45d763ca0437dcbe693dbb8f10
+seen_titlehash:d647b5b3a72a07e1bcaeb3233cc4e2bc8da5f93058285f39cd554fb88d9175d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss
+title:andy burnham in line to become british pm after securing party support
