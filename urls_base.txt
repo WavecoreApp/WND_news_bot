@@ -1,55 +1,3 @@
-seen_urlhash:55fd2fd33a38e95f6a341dd7948ec4ff1cbb707686edd4ea954741b4cea68379
-seen_titlehash:37f010ddd8eac7cbb61b533b476560d6b601875f084e9014137a65da63cd524a
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/09/world/asia/indonesia-landfill-fire.html
-title:a landfill in indonesia caught fire over a week ago it s still burning
-seen_urlhash:1dc272c5e8d1f63236c8e719025f4525f03bbc58e54f686496c07c036da07086
-seen_titlehash:c3d4b4a25895ad8bd1b358944d06ac6c3d1499ceb25697f1ad267904a6277613
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/09/world/africa/minnesota-somali-fraud-trump.html
-title:arrest in minnesota pandemic fraud case faces extradition hurdles in somalia
-seen_urlhash:c7712e041d41afa451204b9373e5e20c2f84119c873cb52ae9a5729e2ec639fa
-seen_titlehash:aa2c79304ea94fec80717bf74667d439e9d7368c3a4a0415282c26c0a2b9f2e6
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/09/world/americas/jacqueline-zuniga-venezuela-earthquakes-socialist-revolution.html
-title:sifting through venezuela earthquakes rubble and the ashes of a revolution
-seen_urlhash:5ea28b0e6a0f5877c0a3e0713be48e501da60204796e1ccd55eaf7a7be7b1ae8
-seen_titlehash:8af2416d9d9ac90bc87845890ea64195907ce3a523dc76683be767e0a46352ae
-seen_reason:processed_not_published
-url:https://theguardian.com/australia-news/2026/jul/09/neil-the-seal-returns-to-sea-tasmania-australia
-title:neil the one tonne elephant seal causing traffic jams in rural tasmania has returned to sea for now
-seen_urlhash:43afe5d0475a88f4d9f8720d5fa541bfab348745d4ca014eaefb750b6d6c9d9e
-seen_titlehash:6d190561bac5eb92901ed036026a4a31b186d2e1ba064b2a3614740500053c1e
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss
-title:iran prepares to bury slain leader khamenei after mass funeral processions
-seen_urlhash:8d3fd95a52d3407c6cd5419139062da3c3e284295c9533a32c7f8adc456c17c0
-seen_titlehash:8715a9b7ed6f1b6a115f3c0314af14e528303dbd9cabd93edd011950f241a589
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/9/australia-to-begin-selling-uranium-to-india-for-peaceful-purposes?traffic_source=rss
-title:australia to begin selling uranium to india for peaceful purposes
-seen_urlhash:db6c6c91eb4033b3db30c353d63279cb12328789071683a95e2c1cc2a5c66f8c
-seen_titlehash:e083051a3e690b7a848aef1b7387ea8585775bbcedf13071a2cb91648d226911
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss
-title:air raid sirens in bahrain after uneasy night of us iran strikes
-seen_urlhash:5ae8c49f280285d41019723cb8ee04c9e8ce931ef7f5ae24a0fa7c69790d1aa0
-seen_titlehash:9656e0a30168cf79732711a83e518ffc6145714b0063605f44be7a10f5d07e96
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/9/who-is-zeynep-sonmez-the-wimbledon-with-the-palestine-watermelon-racket?traffic_source=rss
-title:who is zeynep sonmez the wimbledon with the palestine watermelon racket
-seen_urlhash:5fb405f1e6998b2028a1fabcfb3e8a6e9b68e628bfe36b6ab4f1cf6a53e97830
-seen_titlehash:3f14eceee8b52f0ad37bd530e108096c7c64248f79e6e2701a7b3df87492b9f8
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss
-title:australia india strike deal on uranium exports during pm modi s visit
-seen_urlhash:75db73ab5006471eebb73848e39251ec7cb34bd7c5ffce2ee31d1dc55a839d68
-seen_titlehash:2919a6373ba8460a82eeb2dd036522fdce52041d393ae530827cb030f4cf0f5f
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/9/hottest-june-on-record-in-western-europe-as-heatwaves-hit-continent?traffic_source=rss
-title:hottest june on record in western europe as heatwaves hit continent
-seen_urlhash:958b060bcd41be014d64213b7d53d453984976907c668922cb17343003503fcc
-seen_titlehash:2c6d99e8f9fb47d2e2246dd03511d0a2754b6e6888b4df6bb0a105cc1c181171
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss
 title:inside king s college london s crackdown on pro palestine students
@@ -4998,3 +4946,55 @@ seen_titlehash:330e7f2db7232f7998fedee79683f761213b821e3530313bc6b1e030157ae03e
 seen_reason:processed_not_published
 url:https://ft.com/content/bdbac7c0-e963-4e4b-844d-0deda384559c
 title:more than 2 700 deaths linked to uk heatwaves
+urlhash:4637ed46e8203e0b7cb8f3ec097127946389892e94b20f2d7a17108a9c98bc1c
+titlehash:fe41e3e3db8eb134716a59347103eaa4b2317ccb0b5423289fa9b4c0b27d3ed4
+published_url:https://aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss
+title:iran war live us bombs iranian cities again as hormuz standoff intensifies
+urlhash:c4880d0ef95ad25b738625f87c784b957766e28862429b0cd935fd498bc397cb
+titlehash:a8a9818d945173d49f7044fa8c0f298ed32091b9a6a866c87b223749cfd6d9ae
+published_url:https://aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss
+title:can nigeria s drone industry deliver africa s defence sovereignty
+urlhash:1da9d7e7e4370d16041cf0e6be0f017089d5f77ea978783494dd848e968fe92e
+titlehash:cb07fb01b0a46690d07f52534350a57f941e4dcae052fa7590468ce6a7f874f3
+published_url:https://france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire
+title:fontainebleau forest near paris hit by very virulent wildfire
+seen_urlhash:51e3e256c753575e2753f8b255f0de1c5c3f8fbcb45ad0d9674322ac7888ba78
+seen_titlehash:148bd0cb0323d7a34c000311cb3fa2c6cdc8b6c4aa731e1f6bb98aea43d618d2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss
+title:us senator mitch mcconnell says absence due to fall and pneumonia
+seen_urlhash:dc26a52230b7d3e8ef007582dd359aa32f8d385fc0eca04a32ea9fedab097edc
+seen_titlehash:abe0e2fa1a2d51ba2953d98e040cb75188734deedb74b3d90fe40fc5d619fc4f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss
+title:how indian scientists are mapping the brain s last frontier
+seen_urlhash:1b5b88b96683d4f6d8d0ad1e2774e8560250329e9f5e144e0d1c6c4c66e319ad
+seen_titlehash:98f2fd95cb16af09948a0d288f99da4a2463e05a0741e546a90f43d66965cf00
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss
+title:at least 27 dead as fire engulfs popular bangkok pub near chatuchak market
+seen_urlhash:d76f92079245fecaa1127b27e93826699786f70d2320c5e9775dc7e68d1454c1
+seen_titlehash:a81b1e2ba893bbbe08f545369a0f15217264efbb111eafa13a45cf306456e3f5
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss
+title:japan s pet care industry booms as fur babies outnumber infants
+seen_urlhash:0173cb300a3c5d60f099b2f59dfef29740713306a0678e1352d59f78538eef57
+seen_titlehash:a5335db844433989dd112fea3b6ccf3c38ef9a785b314b8e57299c4cf697277e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss
+title:us launches more strikes on iran as strait of hormuz standoff deepens
+seen_urlhash:6760a8fd35f67b7d6ab064c4585e1fbb6abbcdfb789b64728578cb9b3be935c8
+seen_titlehash:59cd42bcb21c0c17358e5da3bb7b394c0817afddc534e713c7951a402cc17db0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss
+title:mitch mcconnell releases health update says he is regaining strength
+seen_urlhash:ffd0a228c9f518925892dabfa717b8035290492b59c854105507d5bf07088dcf
+seen_titlehash:54c72381e75d04cbc51aaee9e7edb2cbb161c74046a1580b0dee9ee17354ca57
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-woman-becomes-13th-person-to-die-after-wildfire-in-spain-officials-say-13562889
+title:british woman becomes 13th person to die after wildfire in spain officials say
+seen_urlhash:7de33ddbb4801c0d9a88a818fc53afc1d7afa31f4611568622fe01e01d631b55
+seen_titlehash:6cb95b763dd53dcb30fd3f7538244ad63227eeea79256732e6fa97e4f8c6a16a
+seen_reason:processed_not_published
+url:https://dw.com/ru/исследование-более-10-000-человек-погибли-в-европе-от-жары/a-77926647?maca=rus-rss-ru-all-1126-rdf
+title:исследование более 10 000 человек погибли в европе от жары
