@@ -1,19 +1,3 @@
-title:путешествуете в центральную азию откройте природные чудеса жетысу в казахстане
-seen_urlhash:f00c32b841ea179c972b3dabfce3786d15eaf54d1c342fa451e7fa256afb44b6
-seen_titlehash:c47a364b8c97da8ec164cfb4a7e6fbbcb63f65b328943093753234018a62a735
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/10/the-sea-off-faro-warmed-up-to-261-c-during-two-marine-heatwaves
-title:море у побережья фару прогрелось до 26 1 c во время двух морских тепловых волн
-seen_urlhash:3219a8df1a5d9fa409af01e6e7d4e7d7991d1921ee5a0240de8b7bd526f913d9
-seen_titlehash:e973e8b6ce04b9b80ac6d9bc78176bb807b0aaae7c87ae00fd3b92942f020d66
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/10/phenyan-obeshaet-usilit-svoj-yadernyj-potencial
-title:пхеньян обещает усилить свой ядерный потенциал
-seen_urlhash:04166155a3db644c72d9d8656fed1be4016514a01ce8e39c243e8641ada83ce7
-seen_titlehash:558ca7eafae07bb23cdfc349f601cad2969f72808c241f008c48e22bcf7d9b61
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/10/ankara-nazvala-rezolyuciyu-evroparlamenta-o-kipriotkah-merzkoj-klevetoj
-title:анкара назвала резолюцию европарламента о киприотках мерзкой клеветой
 seen_urlhash:0486016d0d45f464c9e997ceb869fb7c2978c8bb0536d055eaadcab23a89fcb3
 seen_titlehash:dbb2c524a6438bc2a74a87b9fae7c97d60d9b7dae5437a2c137d9fe067008e6a
 seen_reason:processed_not_published
@@ -4998,3 +4982,19 @@ seen_titlehash:78e0a077d61575ad75cff3713a6dd3f9857e277e217be6b867a920c390b10e38
 seen_reason:processed_not_published
 url:https://ft.com/content/c8298713-4480-4b8a-931a-de29c9d3ba33
 title:andy burnham tells labour mps he will rein in britain s outsourcing industry
+urlhash:56496319514109eb2ded72401da0715a82c369084c0aa6e6ee07324b41439567
+titlehash:153c2ebc3478f69f2c8829f16ed2728ccb7014f6ae769e4c1de36803dfbc6c71
+published_url:https://france24.com/en/middle-east/20260713-middle-east-live-us-strikes-iran-for-third-night-as-trump-says-deal-still-possible
+title:middle east live us strikes iran for third night as trump says deal still possible
+urlhash:0ee7e272d40717f74a993297af716f66d4764aedf95e14427d814d18fa93fca2
+titlehash:2ae217c4da06f3dfe51d7aab59b98b16f126d94a29d98e3ac8171facf2c23706
+published_url:https://france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate
+title:trump says to deliver speech to the nation thursday as iran tensions escalate
+urlhash:7f2d7e33965ea21cdf01f1cb71d3459a4e8c28b8d03015a35fcfe6d0efe346de
+titlehash:e73ee4429d1cc04ecbd97d8a017654be6ed074d305d427674feb2d5562b9d463
+published_url:https://dw.com/ru/трамп-уведомил-конгресс-сша-о-возобновлении-войны-в-иране/a-77942891?maca=rus-rss-ru-all-1126-rdf
+title:трамп уведомил конгресс сша о возобновлении войны в иране
+urlhash:54e5f52865b0cc3e49e8a5cba183f506b034c5ecdf247b41af5592cfa405c63e
+titlehash:76897f5cf0cc9126ae465ed56bd53a7a3ae79479fc879b2aea315c1422236d0a
+published_url:https://dw.com/ru/ес-ввел-санкции-против-vk-и-мессенджера-max/a-77938117?maca=rus-rss-ru-all-1126-rdf
+title:ес ввел санкции против vk и мессенджера max
