@@ -1,11 +1,3 @@
-seen_titlehash:a81a58d0e47d35a7f068aaf1145dc3b36c92d25030896180dd9a52cf5d5444b5
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss
-title:indian tourists among 15 killed as speedboat capsizes in vietnam
-seen_urlhash:b88ee2a3832a863a8f0f82884bfca12c9711a95059a85379a50d4790ed1ce726
-seen_titlehash:4ad9d7c9c498d778d3f8ffdd9e14399853d995189621e6fef06b9c58c91b5330
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss
 title:australian killer s final police interview footage released
 seen_urlhash:fbc359e724b6d033438330a6881790b9ae2240b5abff993297907cb0658a9f5c
 seen_titlehash:424ddbb255bbeb2254bb9a05208426991bfbfc17c6fb3ee9246e07fd1fa06b0b
@@ -4998,3 +4990,11 @@ seen_titlehash:201dcfe687d315cfe4aca486300fbf422d72c6e4450b00f6b5033c6f96b05393
 seen_reason:processed_not_published
 url:https://ft.com/content/3a200651-ff72-4ebb-a5a2-bcf6abb55e7c
 title:miliband trails mahmood in race to become burnham s chancellor
+urlhash:85f1519d1e7f06433dba3e6c4dc88d88c8a3793ac3dee8c76b1184b886759781
+titlehash:0d2338cb62e974b9ce7f546e6e66396c2629624a5859ca484eb771bd9aa58a04
+published_url:https://theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara
+title:nigeria says army has killed 300 bandits in north western state of zamfara
+urlhash:aba710fa1fb42a3c1f3c7bc676eb39051aef12baa975982df101b32f5966a681
+titlehash:a405ef8bd19b03c7c4e2bb432e954460f29c675f779e1cb318e7e88f4f0e866f
+published_url:https://dw.com/ru/борьба-за-ормуз-сша-возобновили-морскую-блокаду/a-77960679?maca=rus-rss-ru-all-1126-rdf
+title:борьба за ормуз сша возобновили морскую блокаду
