@@ -1,192 +1,3 @@
-seen_reason:processed_not_published
-url:https://ft.com/content/0f454436-6e63-4726-b284-04146e33bf0e
-title:iran is seeing through trump s bluff
-seen_urlhash:ff35da2c0c681106efd788c20306ea991340a87fbc953e985abda0c607d144a0
-seen_titlehash:aed78cf3d624134dbf300efc2e6613c716d5c6f60df4ff8ed1747f5cd5afed5b
-seen_reason:processed_not_published
-url:https://ft.com/content/2f15c24e-4284-42b6-a1d1-834fad62f8bc
-title:inside the secretive fifa committee that suspended the us red card
-seen_urlhash:dd5b275993ce65d4c55e445c485816772c575ebb8627ad681faff0e12d7af07c
-seen_titlehash:75496a959ffddcf7dd3c0f390891050528e573d7e3894b6447f329ef913dbcdf
-seen_reason:processed_not_published
-url:https://economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula
-title:america must hope donald trump is not a new caligula
-urlhash:fd485a1c315a868f5247f734b12afbe42f54ef69188a1bdc1cd63584edc8d2ec
-titlehash:23f3f93f4b3f39889df6e656e7923fcf456f1f71f66628ec2cefe3cd031cdf1b
-published_url:http://ru.euronews.com/my-europe/2026/07/10/europe-electricity-chief-iea
-title:эксклюзив euronews большая ошибка думать что европе и миру уже ничего не грозит мэа
-urlhash:9fedcb15f1be74284bcdaf771d4be9572b198c54c126f607d40a45891475510d
-titlehash:d3486e7f6ab141335ae11d13af90b81ab1f06c57e04e021d1cb0820e4f00d3ce
-published_url:https://aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss
-title:russian attacks kill four as ukraine continues to target oil infrastructure
-urlhash:e4b79df1727a0ade45faf0caf620b35a415675a194967b0ec6c81fee7bef088e
-titlehash:e9dc0eaa952c330323b9f67467952fb899c741663ae56cdf518b5177f1fd7b3c
-published_url:https://france24.com/en/asia-pacific/20260710-mojtaba-khamenei-s-absence-from-his-father-s-funeral-could-signal-shifting-role-for-iran-leader
-title:weaker mojtaba khamenei s absence from father s funeral may signal shifting role for iran leader
-urlhash:ea242bf5c9f3f0eea45b85c3c36f1e6f0d4bb9c921b9e04358d1f71d71b3213c
-titlehash:00acda15aa00d4ee7cc51704eabe1a633ec8b3cbe3f98e3759c6553ea1f82ffb
-published_url:https://dw.com/ru/экс-кандидат-в-президенты-рф-борис-надеждин-объявлен-иноагентом/a-77910897?maca=rus-rss-ru-all-1126-rdf
-title:экс кандидат в президенты рф борис надеждин объявлен иноагентом
-urlhash:4cb6752655ef8fdfb1a4416e57ff698409e51199112e9d06c0656a1b4f664473
-titlehash:594ee820111f72bd29aee186e671fcdc13ec1e2d54591f037e93a8f85c0a6181
-published_url:http://ru.euronews.com/my-europe/2026/07/10/energy-plan-electrification-europe
-title:эксклюзив энергетики призывают развивать сети и сокращать роль ископаемого топлива
-urlhash:c0d1b1d919aff6595e2edd3029ddd986942b9e63032ff5c908637b7af390c0dd
-titlehash:6a6dbbe6a64e1dfff5f31c17b0d7a5ca1a91a84fbc514b0f8a2a837b3d24a039
-published_url:https://meduza.io/news/2026/07/10/zelenskiy-sozdal-v-vsu-komandovanie-dalnoboynogo-vliyaniya-na-rossiyu
-title:зеленский создал в всу командование дальнобойного влияния на россию
-urlhash:552362132d34c3221eea9dc5c8c6ece8fc595e0e7861ce7527f393ca0955e9d4
-titlehash:a2cb13f2310c45fbaea62736eb13a4d55d6d591c2b06240f0402cfc51c47c944
-published_url:https://ft.com/content/3c8b250f-535e-44ae-99c6-dc300125d68d
-title:uk to sign up to 60bn eu defence loan scheme for ukraine
-urlhash:dbe5733891f9a01259d1b660099e224803c9021f64085ce4e4d96651229dad56
-titlehash:af8b78e9f958bdff9cd3a60acd9677986ad3188202d9e4e57bc000ca3fef5e2c
-published_url:https://theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb
-title:software glitch blamed for mass outage as it happened
-urlhash:95b3f1d8bfd88997a3fee3293f13b33ed56e724e0d3475e13bf5b9c022c3af2a
-titlehash:94189b610d0a9722172fccfa60a315a165af9760ab7f0b0350938502179d742c
-published_url:https://aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss
-title:trump hints at further iran negotiations after exchange of fire over hormuz
-urlhash:a7901a75d634e8331bf6ec0431ba35455c200bd767a2e256a6784df6ef2846ed
-titlehash:d9329ad51835a2619683cf2daedbfa2b039b7280bb9da76386518899198ea4f4
-published_url:https://dw.com/ru/в-калининграде-производят-пиратские-bmw-из-довоенных-комплектующих/a-77911482?maca=rus-rss-ru-all-1126-rdf
-title:в калининграде производят пиратские bmw из довоенных комплектующих
-urlhash:ae0e7d25c4bdedf36879cb80e51f47e1a6d7c7ecbc83351a53b452f99081016b
-titlehash:e4b4d00ad5530ac16c807cfc15aed4ee03375c1987c7aa2ae8a445105acb03ba
-published_url:http://ru.euronews.com/my-europe/2026/07/10/uk-migrants-trial-law
-title:судья высокого суда решение британии об отправке мигрантов во францию незаконно
-urlhash:b72cd56fbeaa10517cd2e956fef67d25a6b042116ae1acf3baf98150e9d44552
-titlehash:d1afd142e8213fe9f2da192eb114f103e62a2931e4a3941674ab8b6333213510
-published_url:https://economist.com/international/2026/06/30/allies-learn-how-to-bully-america
-title:allies learn how to bully america
-seen_urlhash:c5c25f6cfc6639e5169f20171da67096231ac38c8ba3f4fdd2bd90e18836dba2
-seen_titlehash:c3e8e1f828fbb7424cb6b0f8eaf2625c7173eb73f349fe068fe6572253323631
-seen_reason:processed_not_published
-url:https://bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss
-title:zulu king expresses regret after video captures tirade against his wife
-seen_urlhash:2322c2ac8ffa7b7fafebfe52610ad5cbeaa95afd0c68ea3461befdbbb182b69f
-seen_titlehash:ea6f7690786002e44499e4fa3c18fc0bc4cd502dc179b24bd8cadd5f6dd794e0
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html
-title:sexual assault and killing of girl set off days of protest in west bengal
-seen_urlhash:7f8fe27e6df3d6ee82f274b01621513c6f38e29c075e912bde28e75542076847
-seen_titlehash:bae39ea865f5468b600bdbdfeca87b25e6a2a12140eeb22b83649b2a867e47b7
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html
-title:museum spreads 800 pounds of peanut butter in tribute to dutch artist
-seen_urlhash:3daec4d7d105d31e2b72ea13c0a36d95b565bfd196a4a66c3d7b0c96de5f246a
-seen_titlehash:dd6cc7c1d8518f8686bf4b4d1d4d3ecad128a6ea56ccac237707f68afcf288fd
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss
-title:who is fadel shaker lebanese pop star released on bail
-seen_urlhash:4844e5d7a88466f98dfc10314bbe7fa95e75c7f2bcc6240cbbffa9ee711e17fb
-seen_titlehash:7d98aca6f7473f1417da8a72a64ca71145b4771940f60e1c60867a25bfc40141
-seen_reason:processed_not_published
-url:https://aljazeera.com/sports/2026/7/10/ruthless-zverev-spoils-ferys-wimbledon-dream-to-power-into-final?traffic_source=rss
-title:ruthless zverev spoils fery s wimbledon dream to power into final
-seen_urlhash:d4e7716818f2354d156550650075af339e5bc32f62296ad4356c1b14d71116c8
-seen_titlehash:cb5af7ab0875170f43de2235b89b9ad8cb554c987b911bc64983022123c6bbd3
-seen_reason:processed_not_published
-url:https://france24.com/en/france/20260710-paris-court-hands-monitor-18-month-suspended-sentence-for-assaulting-preschooler-in-abuse-scandal
-title:paris court hands monitor 18 month suspended sentence for assaulting preschooler in abuse scandal
-seen_urlhash:d90464139e1bae4a99b2b876cdf6aff7a58a98f9d4caad313f492a3f45d2c344
-seen_titlehash:b6c13822e9ead04ce2a931b8ed8928066b0ec9dcf6921f62b9a9e0020ae23d44
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260710-heatwave-the-challenges-to-adapting-buildings-and-neighbourhoods-for-the-future
-title:heatwave the challenges to adapting buildings and neighbourhoods for the future
-seen_urlhash:3a1abde631cb623043fe85bde603be0ac10ef82af34045dd1b7ae7efe083eee9
-seen_titlehash:c2c07dbd19a2e96007a53c0ad9cd7db053929410bba43bab3ebff423cb06d706
-seen_reason:processed_not_published
-url:https://dw.com/ru/бундестаг-отказался-от-повышения-окладов-депутатов-в-2026-году/a-77911011?maca=rus-rss-ru-all-1126-rdf
-title:бундестаг отказался от повышения окладов депутатов в 2026 году
-seen_urlhash:d168d54aba4fcc09ff10b5f5a4d9226df05e83ccdc59f2703494f727d481ed32
-seen_titlehash:1e47cab44251d71db75e89238ef7f3b5a3bc42b0c644670fa82732e77ee15a28
-seen_reason:processed_not_published
-url:http://ru.euronews.com/my-europe/2026/07/10/cube-climate-desiformation-changes
-title:от ии до greenlash как меняется климатическая дезинформация
-seen_urlhash:67853d02277c07552163750a461bd4162bfc42b45ba4e7bd948137f3b6dbc975
-seen_titlehash:410c357f208e5e290876c8a9da413ec547b97f1ff21315a20feecfb9152f9d56
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/10/v-anglii-naydena-mertvoy-byvshaya-deputat-parlamenta-enn-viddekomb-politsiya-zaderzhala-podozrevaemogo-v-ubiystve
-title:в англии найдена мертвой бывшая депутат парламента энн виддекомб полиция задержала подозреваемого в убийстве
-seen_urlhash:0843d0548bd44a54dbaa54527e0f9b1e41b78960b49c1a2fc4f33c31ef29e359
-seen_titlehash:87a2e4cdf73c2c16a04ca056050acbb0fe9b27afde022e69689e024599652553
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/10/rosstat-benzin-za-iyun-podorozhal-na-6-9-dizel-na-7-1
-title:росстат бензин за июнь подорожал на 6 9 дизель на 7 1
-seen_urlhash:9a012cf0f8b27da18a7252a5f8cbe353fc1bdf1f9d644c09c23b118122173bd9
-seen_titlehash:4981197d4572874652a1b1b263a5cec8830bc94a0103826aeb586c488482d771
-seen_reason:processed_not_published
-url:https://ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44
-title:it s all about the number how apollo gazumped castlelake s easyjet bid
-seen_urlhash:9f10baf95bd7f22c052597498eeaa61f68c7aa67b641f2d64cefed99ad290182
-seen_titlehash:930b84d3354b856ef32093fc4a0d87f318c289742b9eee753850275f26a58777
-seen_reason:processed_not_published
-url:https://ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce
-title:investors sell longer dated ai debt amid big tech borrowing spree
-urlhash:bea6d31ab532f40f9b99d7c5c82c4cc8df8cedc187ece3e150186a9689e4273d
-titlehash:c9dfae3711630e28ebde039b4662d4b05c220deaf425c6ee9986078d08b94b8a
-published_url:https://ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23
-title:us senators strike deal with white house to tighten russia sanctions
-urlhash:d37bf90fd15d696c3b1f7a84c9bda05da0b078471442d81d68ce3fbf15f4ced3
-titlehash:1d8ad232ddaaffb23e3d6fe276656d18dcea1cedd091f40dd912d3e23498bed3
-published_url:https://france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective
-title:notes from a nato summit an estonian perspective
-urlhash:c0bb684da570f4d0582fa9ddedc90bee0f9209e5bad0fbe8453242cbc3c0d558
-titlehash:fde120b0645649b0ecf39c42729b11d18c55d9f809355c76660ff2dbbf88c209
-published_url:https://meduza.io/news/2026/07/10/evrokomissiya-prigrozila-meta-shtrafom-esli-kompaniya-ne-izmenit-vyzyvayuschiy-zavisimost-dizayn-instagrama-i-feysbuka
-title:еврокомиссия пригрозила meta штрафом если компания не изменит вызывающий зависимость дизайн инстаграма и фейсбука
-urlhash:7bb3b7fe786e2fcf8175acf26b1107b35c28a58a1f0a61e8467021368467f537
-titlehash:2d8b309b84818f368430742ce706a42b7664b4ae7c3940327182b28e9d31e364
-published_url:https://ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff
-title:us sends team to beirut to shore up israel hizbollah ceasefire
-urlhash:5e884b73241c7c8b7f6290622b820cda68518c3d1d72cfd944f2c482b25cb29b
-titlehash:908d9ca8e57e39316b675aad97d8a5a8df3f87568718f8f183165d51830398a3
-published_url:https://bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss
-title:watch what links a bomb in monaco and a shooting in ukraine
-urlhash:0bacf69810500e2064b5af9bf33d48d6ffe910bccd19b8714b6b65eaa36c3d64
-titlehash:659632d3a44b4a3bdf942b2ebb591657a84c6f152e820780b309e38feb09b14c
-published_url:https://nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html
-title:mexico to file criminal complaints in u s over immigrant deaths
-urlhash:c350a91cc507f65d4a0efcc57aa9fbdbb14a024283c7ecd30bcf11af926392aa
-titlehash:388600e1c6f04f03de300193d1eb005bfcdce0bb8bdad53868433cfd8e27d224
-published_url:https://dw.com/ru/трамп-не-звонит-кремль-в-дурацком-положении/a-77911561?maca=rus-rss-ru-all-1126-rdf
-title:трамп не звонит кремль в дурацком положении
-urlhash:053d5de8cf48562d7ac10e0d940abc806704989b15e82377fee00508e44de1c4
-titlehash:498c89c0b607d88ff1007fc82c3b0d6f06f24e6b2d9e856baefbe2faeb382a94
-published_url:http://ru.euronews.com/my-europe/2026/07/10/ukraine-and-moldova-deblocked-the-6th-cluster
-title:ес открывает новый кластер переговоров о вступлении украины и молдавии
-seen_urlhash:47f772027380152a8039ef9321c68e18a768709fd6cfa1e922af5c81b8fcb67f
-seen_titlehash:58c8926e0d93724174c0576186640980d99334884e9843111cf15a502e8c2da2
-seen_reason:processed_not_published
-url:https://bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss
-title:superb sinner ends djokovic s latest bid for history
-seen_urlhash:8a05cd82a40a47ed504fbc51bea3c36aa77be42d714ea76fcb273046d2281f45
-seen_titlehash:49fca048f6362b7009f2629aea74efe79166111efa194f940708ca5ffb8c730f
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html
-title:royal rapprochement harry and meghan pay a rare visit to the king and queen
-seen_urlhash:b1db7dfb7b24f13ca47c86e3af49464b9567c6efaad1016579ed3567c0a85cf8
-seen_titlehash:e5838f0687882ea23e122dfadcd98e2049bf0ed714f7bc0916da0fb0afd5adf5
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/10/climate/endangered-species-act-harm.html
-title:trump cuts habitat protections for endangered species
-seen_urlhash:fb7eea69936389beb0a9ee12f2674894c199362ddc3c5f3888bb523daf6d1178
-seen_titlehash:8126b3b61bf5a77841d5a249b667d56aefeac1e0e3a98cbb7c6b47584041f71d
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss
-title:eu says addictive features on instagram and facebook breach its rules
-seen_urlhash:42ceadb2051d22799022aab4097458ec77f254138a14f1fe22e9f928e44a1e25
-seen_titlehash:386ccc555da6a7e447c528b2da69595d977a1c494f129de0e94ab692d6576508
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss
-title:witnesses contest the trump administration s account of texas ice killing
-seen_urlhash:68e6d4a721043eb1408ab07928ba57102d6637596a645aaf6cb240a78448e44b
-seen_titlehash:5dffe49c4921e302d2725174f13987dbd331f7b047516ff8918371a5aef565e1
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss
-title:can the agreement between iran and the us be rescued
-seen_urlhash:993504adc06c1f74b4d8b63ff28c41a561dce968d6243b2e72c0d6826c6f0707
 seen_titlehash:3fd4aeb6306536310b86a83cdb4260f6b5d06fe70ac026a54338ebeb66ca7c69
 seen_reason:processed_not_published
 url:https://aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss
@@ -4998,3 +4809,192 @@ seen_titlehash:508f969dee4f550758e9cc1a97e5e6ff904e1f2866484c45c5507ca2a86e07ff
 seen_reason:processed_not_published
 url:https://ft.com/content/6deb470e-d152-43a2-be0d-cc1fde4f3db8
 title:deepseek weighs new fundraising a month after closing first round
+urlhash:dedb9e1f3962194d5aaa29a768a9ac80b6afc94a193cea6563201b412bea5ce8
+titlehash:735223d4cb51f7ccde0a2e29b670cbead8dd8c55bf3b853068b7c92d1f418b51
+published_url:https://aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss
+title:how new yemen tensions could complicate the global energy crisis
+urlhash:49864191059cc784f439b529737a28d67b70228193eef75ca8bcb16e879ba633
+titlehash:58fdf227f5caadd522cf6e2e95b9efa9f259809eb4fd61f3adee2429b09e3e92
+published_url:https://france24.com/en/europe/20260714-june-was-deadliest-month-ukrainian-civilians-four-years-un-says
+title:june was deadliest month for ukrainian civilians in four years un says
+urlhash:a427e408ff685c59942230873f6dfeb01db01d53b9d7ff73c42b167fef657ce4
+titlehash:f446c11e25d4df1d20f7b3a5cf9221f84527bd89f7fe371bcce01583d695492b
+published_url:https://meduza.io/news/2026/07/14/verhovnaya-rada-otpravila-v-otstavku-pravitelstvo-ukrainy-vo-glave-s-yuliey-sviridenko
+title:верховная рада отправила в отставку правительство украины во главе с юлией свириденко
+urlhash:e910c15e23be6b2cf43c8d3d2d345a0df65d410c0e0afb4c444c58a8eedf0268
+titlehash:90ff587756f539391f2a2d225f0d92d31e68eb0f35822274954ba0ccc80d3ba5
+published_url:https://ft.com/content/42a27e37-9868-4465-9bde-8b5261088608
+title:washington and tehran send warnings by missile
+urlhash:baa095a8a4b2e698fa3fa28aed76c6e1d8f83935b4f213d29eedc894ff80e369
+titlehash:a69ef8ba4623de1dfbd6205ad59c311631554f39715f80f4a5eb670e2ecbcea7
+published_url:https://nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html
+title:bloomberg loses landmark libel case in singapore
+urlhash:2ed12f9e1fc2725bcbc77bb30f4cc89af73285e84f6a44311f6501fd9f640de7
+titlehash:643efd1763b078561befe7876c833d327d167c4ba7f1331707f29feca03a92e3
+published_url:https://aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks?traffic_source=rss
+title:russia readies to reroute exports from sea of azov after ukrainian attacks
+urlhash:e2d31c827e667f092949069bb0820af87afa93790ed9dedd9a15b9797bc6df5e
+titlehash:15f0dbb31a463516a68f317ec5ddf3a33e56f72ecb4d790c39af8c2a0cbe96f0
+published_url:https://dw.com/ru/верховная-рада-утвердила-отставку-юлии-свириденко-с-поста-премьер-министра-украины/a-77951862?maca=rus-rss-ru-all-1126-rdf
+title:верховная рада утвердила отставку юлии свириденко с поста премьер министра украины
+urlhash:3f41d2f5ae348432a1f39f9becbbdaf1a21941adb70c5670af8d7fd83ac5b1e6
+titlehash:ef904b4d99b3d7445bd271caa576d3ece2ad20b23e3948f5e44e77e24f45b099
+published_url:http://ru.euronews.com/2026/07/14/iran-gulf-uae-usa-tanker-attack
+title:конфликт сша и ирана обостряется после атаки на танкер в ормузском проливе
+urlhash:e2fb3284a9d1d21247c7f85702015aad9a24f54af12bfe6e992700b7699cd038
+titlehash:cfed2a90bf177ed2694de7950f5dc4b937bc7a1fe67b7980990b42088f13ad39
+published_url:http://ru.euronews.com/video/2026/07/14/zelenskyy-joins-macron-and-european-leaders-in-paris-for-bastille-day
+title:зеленский присоединяется к макрону и лидерам ес в париже на день взятия бастилии
+urlhash:5defc5de093d31b98e8367b3fdf24742af4efc53e3f4abe5851fafbd3cbacb5b
+titlehash:e895359088479b2df74313132dcfa5582dc3f776b8478e18bf58e89562b2d3fb
+published_url:https://meduza.io/news/2026/07/14/glava-ukroboronproma-podal-v-otstavku-posle-rossiyskogo-udara-po-skladu-v-vishnevom-pod-kievom
+title:глава укроборонпрома подал в отставку после российского удара по складу в вишневом под киевом
+urlhash:d7b913cb22f91034050dcd0fb644a45361d157d57a426dff3f15efd463ee399f
+titlehash:d057e3825c7573f96ba04808b24bde1b0ab5760de150513f8dc322beeb410fda
+published_url:https://ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d
+title:brussels to propose easing banks capital requirements
+urlhash:c34e29e888b5096461fc69ba0e5db33a26e5bb3b5344cdc28f78f58ec4b86538
+titlehash:d1616d1cb255271ec70d3622d5bffb0f017e75d6edd1b484070c30d570ff309a
+published_url:https://ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b
+title:us inflation fell more than expected to 3 5 in june as petrol prices tumbled
+urlhash:98a6b1ca38b59d5333734e208f1899a099e39c62cbbf252e5c07c0c07304681d
+titlehash:57d4dc45cea2489848d1b1da4c3ca577e1ef502322e3ae321492f496e58f36fa
+published_url:https://theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment
+title:anthony albanese promises fast track approvals for datacentres to shore up ai investment
+urlhash:a71029d3531286999a013c70a0c2f800cf39360711540c0305c19887b901d387
+titlehash:036b56877be0ec2b0ee8885082c5f118d7976bb91f6c29a953335dc325d5b048
+published_url:https://france24.com/en/europe/20260714-what-the-lviv-draft-riot-tells-us-about-ukraine-struggle-send-men-fight
+title:what the lviv draft riot tells us about ukraine s struggle to send men to fight
+urlhash:342d39c3d55523474c5acc70ae9ebc1b2c793e69c437550d9377eebb718c5461
+titlehash:bc808c6a5ee3db6872fd3b1952e52ceae172272a50a6a23e174d0a9b1a798ccb
+published_url:http://ru.euronews.com/business/2026/07/14/google-offers-swiss-android-users-fewer-search-options-than-those-in-the-eu-according-to-a
+title:google урезает выбор поисковиков для пользователей android в швейцарии регулятор
+urlhash:28f9eac95d8093c2cae75ad7939acb233d824ed143e8402e8acfa2f87f04e5fc
+titlehash:fade6bc0a79b077c612131d65dc23f9ca32330c6eb5086026b0bbcd345821fa2
+published_url:https://meduza.io/news/2026/07/14/devyat-evropeyskih-stran-potrebovali-lishit-mezhdunarodnyy-olimpiyskiy-komitet-finansirovaniya-iz-za-dopuska-sportsmenov-iz-rossii-k-otboru-na-olimpiadu
+title:девять европейских стран потребовали лишить международный олимпийский комитет финансирования из за допуска спортсменов из россии к отбору на олимпиаду
+seen_urlhash:dc892d0d28541aaeb68cd615fd98b6355f62e4f73ea92566f9466c2ff1d6aa66
+seen_titlehash:3744d1f014c9811c682283697d06f031d1a067cfef5b84858dcad3e11b199b54
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany
+title:new us ebola patient arrives in germany for treatment
+seen_urlhash:1640a9259681dd18ea2431abb840236bae22523c1799e48f6adea01dba0218c4
+seen_titlehash:9c4b99148e4d248abd14e19fae720998f9de1cdd47c1501bfbe10213f58c1653
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss
+title:sudan sentences rsf chief hemedti to death who s he what s he accused of
+seen_urlhash:727281f06c22ec6a4b2864e75b60a96c2c84cb5bccb83e7c5ba8ebc6a184486d
+seen_titlehash:f710f76582b25053013575259dc71d0a46d50e3568ba844ab29bd29db3adb340
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/14/what-we-know-about-uk-politician-ann-widdecombes-murder?traffic_source=rss
+title:what we know about uk politician ann widdecombe s murder
+seen_urlhash:cbb03655b20be30eb1c0b19c8fe71ac82495e69dc8b0735c3b80047de97e883d
+seen_titlehash:2ec1417636fd52eb9331ad63c2fe63b8293d13dedbec3974c6af817811a499d3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/14/tour-de-france-crash-and-concussion-cases-expose-limits-of-roadside-checks?traffic_source=rss
+title:tour de france crash and concussion cases expose limits of roadside checks
+seen_urlhash:6c56c1dc49a872166b2285551856bfd69184977a1a97adbce97ad01e03f756e4
+seen_titlehash:c1569e2b6f9c607bf7b445a2ca4948d58ba64dc6f2e344a7147a1b7e947c3fba
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260714-scale-dr-congo-ebola-outbreak-could-be-four-times-bigger-than-official-toll-who-says
+title:who estimates dr congo ebola outbreak could be up to four times higher than official toll
+seen_urlhash:6c56c1dc49a872166b2285551856bfd69184977a1a97adbce97ad01e03f756e4
+seen_titlehash:e4f2290554db18330bac9486746ece424c00693207f8c112ae24f0e39d048efa
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260714-scale-dr-congo-ebola-outbreak-could-be-four-times-bigger-than-official-toll-who-says
+title:dr congo ebola outbreak s true scale could be four times higher than official toll who says
+seen_urlhash:1e1ef14a77b596576c7864dead6fd8687fdd8e9e5981168b812db8fe4fe03dc4
+seen_titlehash:7c2edb8048f0848c2257d72a6e5ffd2a0673ac9958b7d1e3ec5290b663c33f80
+seen_reason:processed_not_published
+url:https://dw.com/ru/как-убили-березовскую-после-покушения-в-монако-на-ермолаева/a-77951587?maca=rus-rss-ru-all-1126-rdf
+title:как убили березовскую после покушения в монако на ермолаева
+seen_urlhash:4b0a1e879b22423e2fa1ee56164f79cb5217b2c2dc01fbeee541dfeeb7541d53
+seen_titlehash:ff2374c13a78f5fbb77613ddc59776558f46c943960863eec58bea2c3c59e516
+seen_reason:processed_not_published
+url:https://dw.com/ru/борис-надеждин-не-исключает-своего-отъезда-из-россии/a-77951644?maca=rus-rss-ru-all-1126-rdf
+title:борис надеждин не исключает своего отъезда из россии
+seen_urlhash:c99c57a4f5044f65e60d394fd8f76f3110b68318bcd34932981fe4e37c0ffd40
+seen_titlehash:41f0bd2ae859d0fe07ab6ee9a3d498265e81706d2b9c072cfbd0ff12466f5c79
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/14/ot-teplic-do-semejnogo-biznesa-predprinimatelstvo-menyaet-zhizn-selskih-zhitelej
+title:от теплиц до семейного бизнеса предпринимательство меняет жизнь сельских жителей
+seen_urlhash:b6b7a18037eb6e482c10fa5af5e0e66aac7fdbf73c61f478956e13f854c75869
+seen_titlehash:7f571716f7cadf97e36a4a129bf15d6d4c8d71140b3724d20a33f31a8e13eb23
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/14/lamine-answers-rajoy-es-team
+title:ямаль ответил на скандальную статью рахоя о синих футбол объединяет людей
+seen_urlhash:9e71d5dd7ee391d428f58eac52a15257389644bcce7f585c600196424835ae6a
+seen_titlehash:8491e13ea24032c81711dc68111605c00af0a516d4f5d34e793a892b03dd48f2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/14/spectacular-drones-and-fireworks-illuminate-the-eiffel-tower-ahead-of-bastille-day
+title:шоу дронов и фейерверков освещает эйфелеву башню накануне дня взятия бастилии
+seen_urlhash:fb06135e8cd17c4e72dbcff2a6c13e5128aa57ad5aa3a2dfec90120f23f73625
+seen_titlehash:e208c92adf35b6993da36f081c2b3df8e809208fa0884428913abfb470a55ccd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/14/a-3000-year-old-egyptian-tomb-featuring-vivid-paintings-of-the-afterlife-has-been-uncovere
+title:возле луксора обнаружена 3000 летняя египетская гробница с яркими сценами загробной жизни
+seen_urlhash:240303b622a9489f5ad7d1302b582ac21fe5e3162f006bf9f5578e524b7e772e
+seen_titlehash:a656ad3624125b5722931fba134a40cce5cf16bb72cf5d109a26f9379186dc40
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/14/kilian-mbappe-na-pole-i-vne-ego-lider-sbornoj-francii-ne-boitsya-polemiki
+title:килиан мбаппе на поле и вне его лидер сборной франции не боится полемики
+seen_urlhash:f4e1e3ffe6174201329c029934314868e1104330d82c7a65758152f7c1c592ef
+seen_titlehash:a1cdf348d9a1c8c461a889184281741ae28d6e70000063dc317db4a18d1b8974
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/14/erling-haaland-returns-to-norway-after-world-cup-exit-with-a-strange-new-friend
+title:эрлинг холанд возвращается в норвегию после вылета с чм с необычным другом
+seen_urlhash:a1e496c37b5939f2e212911d6412e3b6a2c57675493985d068c718e100d441af
+seen_titlehash:2fce0569514882bd2b1d4f355b13ff94c1a75f0d92e94e35998f95f164ee385c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/14/bulgaria-is-against-including-russian-patriarche-in-21-sanctions-package
+title:давление на патриарха кирилла может сыграть на руку евроскептикам предупреждает глава мид болгарии
+seen_urlhash:c3de0acd562f0b0b43d95e847d08da26d9a1c36a4054ff749be98eebf487b383
+seen_titlehash:6d73aca649811be900a5d0f11c002a2a5d373f746106c744aa8dc95dab432639
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/14/cube-infantino
+title:проверка фактов европарламент не требовал расследования фифа
+seen_urlhash:eba1e89ef035e0f46109d6a346e50f36fd164c18ddea249b54c221312591a623
+seen_titlehash:cd2c7751562f0029116982c69dc9c634a37834b134b5e9b1033a8a8a0315b278
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/14/v-leningradskoy-oblasti-vveli-limity-na-toplivo-dlya-chinovnikov
+title:в ленинградской области ввели лимиты на топливо для чиновников
+seen_urlhash:0bf7df97a3e026d475d89ae6495f80025654a5d1863a061ac6c207e55ed9deff
+seen_titlehash:b3c2675ecad15b50eec8f2ee1f9222af709b8fbba5447a8c716925283779b389
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/14/verhovnaya-rada-podderzhala-zakonoproekt-o-dekriminalizatsii-pornografii-i-uzhestochenii-nakazaniya-za-detskoe-porno
+title:верховная рада поддержала законопроект о декриминализации порнографии и ужесточении наказания за детское порно
+seen_urlhash:2650bee0fcc60a1d53d8263ea72f057b70c70292f5f0c430ea2c120ae0aa9657
+seen_titlehash:16bf55ed5378765098f33b6b61bfb19d97fe93cd42c9e356190a8e1d5a695958
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/14/uzhe-na-etoy-nedele-vyhodit-odisseya-nolana-samoe-vremya-perechitat-klassiku-kstati-vyshel-novyy-perevod-poemy-na-russkiy-yazyk
+title:уже на этой неделе выходит одиссея нолана самое время перечитать классику кстати вышел новый перевод поэмы на русский язык в нем нет гекзаметров но есть человечина вместо человеческого мяса и ухажеры вместо женихов
+seen_urlhash:8b0ad627bd8515586e8ed07a40e7351a563b2e2e0496c669ef7154eb16ad9214
+seen_titlehash:ac6b1752831ab0be494fe7bf4304d250684a41f8889860eb4763df5022b8c652
+seen_reason:processed_not_published
+url:https://ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2
+title:inflation and interest rates tracker see how your country compares
+seen_urlhash:55de520a36efb73d559f74fcd312aea6ad2df18ea266f07a4f91f0cdc26cd2a6
+seen_titlehash:22def5cad517f6482ee68a56440daaf4fc434f22b442648da7a7ddf5d31b69a1
+seen_reason:processed_not_published
+url:https://ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95
+title:ibm shares set to plunge 23 as customers shift spending to ai
+seen_urlhash:721b9f322b239a559f51985fc038da2aed2771b4bc11ecee9f3a277011d2e3b1
+seen_titlehash:d2e0f7455ceef62d034fea7d9dd6c5a28c35f93303dfe029dcaee1778a2f72f7
+seen_reason:processed_not_published
+url:https://ft.com/content/ef06822f-c107-4286-b35b-71e4bbaba0a5
+title:donald trump returns to escalation against iran
+seen_urlhash:a5dbbcd58367070a2a83bc5815a496858697b3b979252cd9e43143c0af54c68d
+seen_titlehash:b971198a091f73dd083e83b9a6f37026c311802290cf286780b4cbc6b35648c2
+seen_reason:processed_not_published
+url:https://ft.com/content/711be188-c3a4-429e-b87f-6243ed7e6747
+title:dinosaurs are selling for millions do collectors know what they re buying
+seen_urlhash:f0689215bdd749af19b47d1ccf6f31c16d949bc4e30ef5fcfa081422bfd100ce
+seen_titlehash:608e1118090a4054cbdbc179c3805705c8898bb831c1d916cafcd1dd6fc96940
+seen_reason:processed_not_published
+url:https://ft.com/content/38678f66-e226-4acf-b66b-8592ae53fbd3
+title:number of farms up for sale in england hits two decade high
+seen_urlhash:0cfe6f8b3b19e0f2a22b9ca54ff3d3cf16c903ab6340d605f45f61090ea70eb8
+seen_titlehash:9223c3add2958a157059fd5aa32ec5c1f07487e09eeac921b730c225a75c1e1c
+seen_reason:processed_not_published
+url:https://ft.com/content/db0fd0e9-73d0-4eaf-8b49-d21690733b9c
+title:the fed and boe have a trust deficit
