@@ -1,40 +1,3 @@
-url:https://france24.com/en/video/20260711-spain-wildfires-that-killed-12-begin-to-ease-officials
-title:spain wildfires that killed 12 begin to ease officials
-seen_urlhash:892806d8e9ae1fbef54d12af5b5da98defc40a65240f17bdf3e892169ea0ac13
-seen_titlehash:9cb02fe60c4c911a347f93817dceb0c2d29e62ecd29851c53e1e1f0327d1c325
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship
-title:france roar back with 30 straight points to beat australia in nations championship
-seen_urlhash:897236300bcbf59fa6486e5b4420978c6d0a6ee542661b56f0d0e4777c68b21b
-seen_titlehash:096d32a9affdfb187cf60a728f3e81135828a0734298536432d7d8f38e310c69
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260711-kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concerns
-title:kenya s birdman goes viral with rescued birds and sparks health concerns
-seen_urlhash:ed6c9361ac8aa5df58e5ae7b037d8b01290183d09453188782f78a39d37b45e7
-seen_titlehash:0c50c64860145af1f76198f920379a51b7bf792228f426dd4c0429ec0ef83f8f
-seen_reason:processed_not_published
-url:https://france24.com/en/video/20260711-china-evacuates-over-one-million-as-typhoon-bavi-nears
-title:china evacuates over one million as typhoon bavi nears
-seen_urlhash:17407d33322863148e91edfc7d6b6d4a1bfb1edeee654b932095291a4d4335bc
-seen_titlehash:691156c80c827c3d796fd2f7d72428b538e1c117ea8f708c3495415ec19db755
-seen_reason:processed_not_published
-url:https://dw.com/ru/президент-молдовы-выдвинула-кандидата-на-пост-премьера/a-77915819?maca=rus-rss-ru-all-1126-rdf
-title:президент молдовы выдвинула кандидата на пост премьера
-seen_urlhash:430ab1320f781e214c2fad9e20cb71ffd2031c74656bf171bb09eb66d674c1f9
-seen_titlehash:16e60e78e37e369c474608e90e6bcfc777370a8e1e603376c403e9b0886fb13a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/video/2026/07/11/novosti-dnya-11-iyulya-2026-g-dnevnoj-vypusk
-title:новости дня 11 июля 2026 г дневной выпуск
-urlhash:5d67e63d54ddb513ef12a24701c320ddee73b736ecdd24952590087a79a9d4b9
-titlehash:35ae6f4157614695ee687fe008639a3e600c53b7a71f73cfe4697ee9f9ee4d1e
-published_url:https://dw.com/ru/генштаб-всу-поражен-еще-21-российский-танкер-в-азовском-море/a-77915896?maca=rus-rss-ru-all-1126-rdf
-title:генштаб всу поражен еще 21 российский танкер в азовском море
-urlhash:83e35dc3a4e695e863598f1c025ab92b961d3acb31878cc87a147d8b72433e98
-titlehash:ed663da530e6d4b66d70431ed77e0f2053b3bf776378b6609cc11b9cfcb52448
-published_url:http://ru.euronews.com/2026/07/11/trump-says-missiles-locked-on-iran
-title:трамп угрожает полностью уничтожить иран через день после согласия на новые переговоры
-urlhash:f8ff4f1a7f674c154ddcd782926b37adb7cfae45d10baa4f6f7c73a215028e59
-titlehash:6e0356a2a98e330be6729a3ebcde71db5d1e0fd1c80699d9fa992f02a4b53c1d
 published_url:https://dw.com/ru/десять-человек-пострадали-в-киеве-из-за-ночных-ударов-рф/a-77913361?maca=rus-rss-ru-all-1126-rdf
 title:десять человек пострадали в киеве из за ночных ударов рф
 urlhash:309619e06d09359a9ff18e64d2fdc78cf469b2e64b68ea88a55f1356a0267209
@@ -4998,3 +4961,40 @@ seen_titlehash:a6b18aff9f37998d821765c62c68da6725c1449a2196703344fe6dd41dcc0424
 seen_reason:processed_not_published
 url:https://ft.com/content/33ad643c-18d8-41a8-a3a2-b2cfd8303d43
 title:trump pays e jean carroll 5 6mn in assault and defamation case
+urlhash:fb603828be316c30ab319e14b44b16c2a3a1895d27a0a26436428e4da8a388c6
+titlehash:bff05942195e93c47939da1f534530fef5065796dda9b2cffd395adb0f8a4d86
+published_url:https://aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss
+title:sirens blare in bahrain as iran launches barrage of missiles drones
+urlhash:12187d74fe1572ace29948ac14b50fb26e429532c62d2b4a5a17f537977c2b86
+titlehash:dd72c3ea61d7ef5d4d26455b02e73dd2e5fb52fb19119f1754f97aa166d55843
+published_url:https://aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss
+title:palestine weekly israel attacks children hospitals in bloody week in gaza
+urlhash:be6a45c640192dc2efe555c0c90be34cc9c725bc01cdfd2166ea2b91d64a48f5
+titlehash:84e09ab5dd4ee723cfa099dd97f790202f02923242cf4144df585a3e3345faea
+published_url:https://theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb
+title:australia news live top 100 ceos bank 16 pay rise husic warns labor over gaza policy
+seen_urlhash:d326e9d05cf4521727ee8f9781d927663b7d211a4edff6c485c8a845156ab2d0
+seen_titlehash:ca256504991d5aeb1f2bd355c277f431fcbf63e8c29aadfa8c053d6b9aaedc82
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss
+title:are countries prepared to cope with extreme weather
+seen_urlhash:e5c619fe85286f768562db95173ba817e3fc9a2b0f4cfdc9242bebc3507c8e77
+seen_titlehash:65eb522c708db4c4afff96ede1d153ef2dd9a07cb4d649ab35a2e12ad92b9f81
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss
+title:us russian crew launches on mission to space station
+seen_urlhash:9e2338c4042c162ff94dbd7b76e9db35d16ebfbb8a4a28db83e04d94a55de7d2
+seen_titlehash:8c1f60e9b7a8c4a483616c8d051d8a9069823b45e3bec1b9e912c1bfc474dc0b
+seen_reason:processed_not_published
+url:https://france24.com/en/infantino-under-fire-as-viral-claims-drag-european-parliament-into-fifa-row-1
+title:gianni infantino under fire as viral claims drag european parliament into fifa row
+seen_urlhash:b28269d857fb92c5217b078a5b8fce1605b0c1a1f530e805c6f60d96bbd346b9
+seen_titlehash:99ae25bfc27ee8772b9c8310d8b4a968702f388b139b9c67fcdbdc8aadd8d98d
+seen_reason:processed_not_published
+url:https://dw.com/ru/почему-в-германии-зачитываюся-книгой-о-великом-алхимике/a-77905985?maca=rus-rss-ru-all-1126-rdf
+title:почему в германии зачитываюся книгой о великом алхимике
+seen_urlhash:df3fce77e76b31bc96fdf846cc646bf9336d1c70fb67c64c6264b179ccdc7abd
+seen_titlehash:7832ee53dc45213aeb2fa0f90fff4d298b40747b7b86e7483f051dfd79970ffc
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/15/ispaniya-obygryvaet-frantsiyu-v-den-vzyatiya-bastilii-i-vyhodit-v-final
+title:испания обыгрывает францию в день взятия бастилии и выходит в финал что там на чм суперкоротко
