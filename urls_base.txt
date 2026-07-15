@@ -1,56 +1,3 @@
-title:australian killer s final police interview footage released
-seen_urlhash:fbc359e724b6d033438330a6881790b9ae2240b5abff993297907cb0658a9f5c
-seen_titlehash:424ddbb255bbeb2254bb9a05208426991bfbfc17c6fb3ee9246e07fd1fa06b0b
-seen_reason:processed_not_published
-url:https://nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html
-title:boat carrying dozens of tourists capsizes in vietnam
-seen_urlhash:04cc8a384ef1027aa85b0c395773fc42a2fc23bb4367a7cf239389e6add1e6c3
-seen_titlehash:1ed0f646dfe65ede24f1d98755067f1b3283cd99335d9c56010fc471cafc7eb9
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan?traffic_source=rss
-title:china prepares as typhoon bavi leaves taiwan
-seen_urlhash:5cb73db109722a2e3b6cb854480d8c73fdde029802d4cad798a054d4135dd7ed
-seen_titlehash:608e127f258f7e67313bc2b99d329a7da8af88ff943a0b495ba044200d02121e
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss
-title:zimbabweans return home amid xenophobic violence in south africa
-seen_urlhash:0f1c0511c9ec4884bf3c124ec78ff299d2bf90cd6ce039ac18d7618c7c7ccc41
-seen_titlehash:c24c4d613c0980ce2f7a3d297d2c9684c3aa9c8e678841788eb442977db00972
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss
-title:speedboat accident in southern vietnam kills 15 indian tourists
-seen_urlhash:c93b352a6a42edd1119e7e942edad7628013d8b3e95a14ca3c192e058ab7d8ad
-seen_titlehash:a39c0b01480cf3c4830fc270cbf3bbf79e87ea1d679c80209599e91bbf110488
-seen_reason:processed_not_published
-url:https://news.sky.com/story/runner-gored-in-the-face-and-12-others-injured-at-san-fermin-bull-running-festival-in-pamplona-13562470
-title:runner gored in the face and 12 others injured at spanish bull running festival
-seen_urlhash:f2f6f85e2a50fb65b7194026905ef78721620844e457d91b178b3cb4b7c08780
-seen_titlehash:dc151461875fbbbf5d9f6975a1d4afdfa4c7c84d22301e8ac73d75d2bfbe7253
-seen_reason:processed_not_published
-url:https://france24.com/en/sport/20260711-greed-and-loopholes-how-cricket-s-55-million-development-fund-gets-gamed
-title:greed and loopholes how cricket s 55 million development fund gets gamed
-urlhash:bfa69f05b8b0df76a37cb081802dea0be5a6603209f4e837cc5fb7e82e49a2b5
-titlehash:348a6f46c7acc753af258ee59d1afd425e5a33ed868079bb485a35aea5ecfb6d
-published_url:https://aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss
-title:power cuts plunge gaza hospitals into darkness as israel s attacks persist
-urlhash:d93aa0e38437e270ca79e67f299c7326db71572580df4a2655f10c4ca908afa8
-titlehash:0f40a9217ca554b92bab8681a0f18128b8343a46bf236e25c6600a38bbd6065f
-published_url:https://france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12
-title:firefighters gain upper hand on horrific spain wildfires that killed at least 12
-urlhash:a226d193996fa42085ef7ac9768bd00f4eac3059974b1bdce333abd4c3519b74
-titlehash:2ecd2a20374afab21acbda9310a1020b71fc46419cfcaab11e74b47d7bcef52a
-published_url:https://meduza.io/news/2026/07/11/v-sumah-v-rezultate-rossiyskogo-udara-pogibli-chetyre-cheloveka-esche-17-poluchili-raneniya
-title:в сумах в результате российского удара погибли четыре человека еще 17 получили ранения
-urlhash:280232db0b10437b2b164f1e9c8bd57ea46fdc3eff6862208f06c086ed363200
-titlehash:aae4827763416fafe52081b47c24fb56d7f76054c5ccea2984b6f0cde7262da0
-published_url:https://bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss
-title:landmark us housing bill becomes law despite trump protest
-urlhash:f37390a63fafb8e4fd7c39256daab72aa0780e8a94006523f6ad9211ed5483ff
-titlehash:94402a0d021430d6639dab65801cde5f6b032cb751db8a8a04dc1bb9d3bf6fb5
-published_url:https://france24.com/en/video/20260711-france-wildfires-1-500-evacuated-from-campsites-near-perpignan
-title:france wildfires 1 500 evacuated from campsites near perpignan
-urlhash:906d4482b9ebb2e719368d3b95c4091c87d91ac2dbd01eed22122a951f45ce95
-titlehash:b93805cb7cb3539d9f8e9a1846f4067ae4255ea3e70fdafc43e1dfdbbb26dd4d
 published_url:https://dw.com/ru/apple-подала-в-суд-на-openai-обвинив-ее-в-краже-коммерческих-секретов/a-77916559?maca=rus-rss-ru-all-1126-rdf
 title:apple подала в суд на openai обвинив ее в краже коммерческих секретов
 urlhash:6226350c7b1b8905578e5b8e4030e5867d65660ef77f46b0c20b5df575f6c6ae
@@ -4998,3 +4945,56 @@ urlhash:aba710fa1fb42a3c1f3c7bc676eb39051aef12baa975982df101b32f5966a681
 titlehash:a405ef8bd19b03c7c4e2bb432e954460f29c675f779e1cb318e7e88f4f0e866f
 published_url:https://dw.com/ru/борьба-за-ормуз-сша-возобновили-морскую-блокаду/a-77960679?maca=rus-rss-ru-all-1126-rdf
 title:борьба за ормуз сша возобновили морскую блокаду
+urlhash:811c107b2ed77a7a20ff14c1d0d4ff003c7d4f33a168536b4f751b81e60d5499
+titlehash:a73acbf9ddf0fbd90dc59845fc22fc87de8cc7a9b1a7fbbc83eac226b334727c
+published_url:https://nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html
+title:israel strikes police post killing 7 gaza officials say
+urlhash:f097e8d039d0390184b2f5f8b460095df38ce16640671c9cb31701bab0b9d86e
+titlehash:9ac5bc3e4f30a46da49a7962d450e0d5fdb8b1d96b52675b2f4596e0ef2d7273
+published_url:https://aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss
+title:live trump says strikes on iran will continue until i say enough
+urlhash:14191bba7caf229372fb5da2f01840ca246ba48248c731916fadbafbe0b8767e
+titlehash:66fcce8b20913335f14e8a6f4c06d80f725f85f6632a114e06456e19edf80ce8
+published_url:https://bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss
+title:trump retreat over hormuz tolls suggests he is struggling to end iran war
+urlhash:a3891b225377c7f532365302fed2c6c94527a2b519ee8a2776d2c21e3bb86e36
+titlehash:6480ae9282d2143ef1bdf8f67c2b05a66494b5bb773d80884002e6b8a8ec7f06
+published_url:https://nytimes.com/2026/07/14/world/middleeast/trump-hormuz-shipping-fee-dropped.html
+title:trump drops plan to tax ships in strait of hormuz as fighting with iran escalates
+urlhash:7cea1a119ab3660b9faa35bde67e7232f717f7f6ded083ad471df3df08d434ff
+titlehash:91386d9437434379167d5c055d3ae941a56982b5bddec44a46c97f5986417da4
+published_url:https://nytimes.com/2026/07/14/world/china-journalist-expelled-spain-world-cup.html
+title:expelled from china
+urlhash:c52c32b4f437a5743e5d1becb5bcb2a71716cc8203029afdab196df75fbc406e
+titlehash:fc953440c2b811c3c2d0ead9006a6065dde930707aa584fc745055d167903ed1
+published_url:https://france24.com/en/technology/20260715-publishers-sue-google-over-alleged-use-of-books-to-train-ai-models
+title:publishers sue google over alleged use of books to train ai models
+urlhash:2be01573da9fbd6d426951ba58f03a033fc23485a5b812e626edcfd5ac643135
+titlehash:8f74d8318360ad6ea3c59dc54df6a9d59f9a88db4e87976873250a74e3654b51
+published_url:https://dw.com/ru/глава-мид-фрг-призвал-к-усилению-сдерживания-на-северном-фланге-нато/a-77960756?maca=rus-rss-ru-all-1126-rdf
+title:глава мид фрг призвал к усилению сдерживания на северном фланге нато
+seen_urlhash:d978502d294a70af845140735daf0d03f8b6f209b77d62da6acd617add4c9292
+seen_titlehash:fbcd2d0d6ab0325d21bfcbba6633bae907da892a400dd7914527581c6526bb37
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss
+title:seven britons among those killed in spain wildfires
+seen_urlhash:74c7da969596ada6f6440c3ba075ce4e47ca55439c5689165ec8d22c2d753130
+seen_titlehash:aa2f6388373a40c2036036f80256fb6b265310d9aee08594af840391c7cbed2a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss
+title:us congress takes next step to make daylight saving time permanent
+seen_urlhash:6cb11a7f37f47562f4d59486e66d06e652db08e3683c41afe78d8b1d2352b76a
+seen_titlehash:f94f1bb9208a4a46ea1d2ed7e657cc89ad4238eeefc3c781348b638afbc19301
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html
+title:lindsey graham s death leaves fate of russia sanctions bill uncertain
+seen_urlhash:b6dda4734a3e14841abb50ba68a2fa973d1a0195c191c0ab6139f5747989c98f
+seen_titlehash:9b0a50bdb11d800e563fdf38a978fb9929b5e85c96ec64301dd3b55ce740736b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/inside-iran-is-the-war-about-to-escalate-13563438
+title:inside iran is the war about to escalate
+seen_urlhash:dd18b69ee74a2e6eaf715aa041188425fe9ea68e188fd3e489c797001e2941ae
+seen_titlehash:83eb8e9e3b7612447e830eb81077e937b321c2cd444703be6b2babbba763fc59
+seen_reason:processed_not_published
+url:https://ft.com/content/55512248-2d7e-4d77-a476-7484206440bb
+title:city leaders chew over reeves successor at mansion house banquet
