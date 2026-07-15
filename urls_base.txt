@@ -1,35 +1,3 @@
-seen_urlhash:5efcacfddf379f2ad93ad6d9a8bd5ded1009c9e5e0097dffd965d7c3f4f1e9f1
-seen_titlehash:49c806c4c7488bac1a1bb58ea25cedd25b0f70721beb02cf09c3023e6308a6d0
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss
-title:more than 2 700 deaths in uk linked to may june heatwaves
-seen_urlhash:ddb6581169cb54447acfdac8d055f56327fd99e931488f746f003e59be8f974a
-seen_titlehash:b77dd9e70e5b9123c79e24214beeb6e6f0dfede9e573fd47ff2e7a3515c39c18
-seen_reason:processed_not_published
-url:https://aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss
-title:in iran pezeshkian will be the scapegoat for the failed mou
-seen_urlhash:e66b85ca028db6d8bac3c0704e758db26cac711f9fd29020c4398df6b6d2fec2
-seen_titlehash:917a010425a0274cb394113568ec6aaad9fdf09de4a3f5c0427023e0e901d9d4
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss
-title:jurassic park actor sam neill dies aged 78
-seen_urlhash:7fbfb9a6ae0ecae2da306f4c5cb0332dab1c43713fc2f731d4a9cc55a4de7245
-seen_titlehash:b1e0d2af373802c4ffbe4212ddbd833b504067b2071d008d964baf046e00a648
-seen_reason:processed_not_published
-url:https://aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss
-title:how former emir sheikh hamad bin khalifa al thani built qatar s economy
-seen_urlhash:5c8f02c0df4cefae024f59bff52dabed4de26246f43aed456cd49b83a34a9c17
-seen_titlehash:a63c72bae8f55ad5d20988426ef70fc1e1a1356213f4fe4a9b3aaaa63f9a2637
-seen_reason:processed_not_published
-url:https://aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss
-title:elderly palestinian describes being beaten up by israeli settlers
-seen_urlhash:9375402c8ac1504bb9c9f96bc3baecd93f74dcf10e1e44ef05069fbfb5241aa3
-seen_titlehash:c251b9a9fcccacdf5a70f3a92b6b239cd6e72ab9c2e238e14616fbd4f1bc2559
-seen_reason:processed_not_published
-url:https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914
-title:wildfire of exceptional scale breaks out in forest near paris
-seen_urlhash:7ec5d6cd1e129e671a4f76a550270b12898a13763126e3d7d94e801a04133987
-seen_titlehash:1d24d6f3b8550d2ab54e78c9470beccc892ff0e1ff36ac28b1de3f0a4837d207
 seen_reason:processed_not_published
 url:https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906
 title:jurassic park star sam neill has died
@@ -4998,3 +4966,35 @@ seen_titlehash:acd753101494602d1dffa72dd5a521fab6f8ef2ee197db1f39de744c35bf169c
 seen_reason:processed_not_published
 url:https://dw.com/ru/михаил-федоров-уходит-с-поста-министра-обороны-украины/a-77975815?maca=rus-rss-ru-all-1126-rdf
 title:михаил федоров уходит с поста министра обороны украины
+urlhash:db56d8f041c715e6c0068084ca457c1589666cb752fc0f06852b57f12b90979a
+titlehash:c586bbafa3b29f65e690e1f30198403c5cc1ae6d9e649db7b055b4e2e18c27b2
+published_url:https://ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44
+title:us hits tanker heading for kharg island under renewed iran blockade
+urlhash:ed8a51621d8ea1fce9f578ccf043df3121924404ae198a25b284a31d8fe45dc9
+titlehash:21b1023002dd4a4b7bf36275fbb6595aacbc62334a74b38ab4e426dfc45c19bf
+published_url:https://dw.com/ru/в-результате-атаки-россии-по-запорожью-погибли-три-человека/a-77976661?maca=rus-rss-ru-all-1126-rdf
+title:в результате атаки россии по запорожью погибли три человека
+urlhash:7cb4e3e90b53856cbcf8086afb7cbc094b6a06652ae7a81522552a8df4d90ab2
+titlehash:a37efc62bd7f2237cce41a97c166fae0feb490c106f88192f487a10f32805dde
+published_url:https://ft.com/content/64c2023f-48d0-409c-9bb0-2980384a98f1
+title:firstft china s economy grows at one of lowest rates in years
+seen_urlhash:95b02a132b898d5f8dc9a45a31a727f98ebbae6df66ccb409fc78989743781da
+seen_titlehash:a71acb14bfb085df8794aa5c31fea86ba0ab08cad5e8f7e4b6320341ad68d98c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss
+title:families of 43 victims await verdict in genoa bridge disaster
+seen_urlhash:3b702855fd160ea1494c073937c1e314edfb960238a2ea826ab2f8b397bfe33b
+seen_titlehash:c36971d990971ceb13be3784d334196a4f58de06bbeb30aaf20b99e3aa00ca49
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss
+title:new monkey species with orange lips found hiding in drc forest
+seen_urlhash:48ec0ef926947e014bf93735670bd6eda67838c236f770006ae902479fd192e6
+seen_titlehash:46aaf603a61f2d06a41c94c150a4e6c38ee3e603d5d03b8717b6432b5cfb05a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/15/us-justice-department-refuses-new-mexicos-request-for-epstein-files?traffic_source=rss
+title:us justice department refuses new mexico s request for epstein files
+seen_urlhash:366b785ce907e014d0fbf54ed8b540b141e4cdb0deedd966c091c34337dc013d
+seen_titlehash:42824200603ecc4af69dc41498075ad6bf4f5c986439aaf5dacb8d51a7e1c65b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss
+title:really big news what to know about trump s primetime speech on thursday
