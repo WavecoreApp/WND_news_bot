@@ -1,93 +1,3 @@
-url:http://ru.euronews.com/2026/07/14/victory-as-turkiye-ends-major-coal-plant-expansion-but-still-lacks-phaseout-plan
-title:победа турция прекращает крупное расширение тэс на угле но плана отказа нет
-seen_urlhash:36a222f599f13db71aec84a9bedc8cb82f72ea451dfc4b2d0ce040fb27d8b65f
-seen_titlehash:f66b62bc270ed1e2e15ee3cbef32c513040c6f239b0ce1b78587c07de530e654
-seen_reason:processed_not_published
-url:http://ru.euronews.com/business/2026/07/14/oil-prices-continue-to-rise-as-fighting-intensifies-in-the-middle-east
-title:цены на нефть растут на фоне обострения боевых действий на ближнем востоке
-seen_urlhash:d8a0eb5d99bc7bfb0b38ae256c60fb4d28032273ab7b48d70e7e09bd13c1c223
-seen_titlehash:461db2f65a4a2ac4644838fb707e2db65dd664be51125d74cc91cd4d9a963ce6
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/14/chinas-exports-in-june-surged-by-27-compared-to-the-previous-year-driven-by-strong-demand
-title:экспорт китая в июне вырос на 27 г г на фоне высокого спроса из за бума ии
-seen_urlhash:a6d0721e0b7b8e2e63d389c7e486ae7e7d5a6a20cbf35303159df17cb3b62560
-seen_titlehash:fc5e2d57f7f5b57caff96fdd981a74dd74bc3cadb390262162d379e1e6c4bd06
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/14/retired-footballers-show-higher-rates-of-depression-and-anxiety-study-finds
-title:у бывших футболистов чаще встречаются депрессия и тревога исследование
-seen_urlhash:0f6aa04b5e29c54bd21212ea0f22a87b9a58a9e7e533f4dff366ce2014c6e24e
-seen_titlehash:2994a09a8f9d89ccee72f97df56a7f3ec51e8da458892b9b2d6d2b252cbc060b
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/14/solar-power-generated-a-record-25-of-the-eus-electricity-in-june-with-germany-spain-and-po
-title:солнечная энергетика дала 25 электроэнергии ес лидируют германия испания и польша
-seen_urlhash:999214537689f2d768ee5bb674b5a7ca7361abc395c4beb7e672504046a4bdf4
-seen_titlehash:648a635ae2146ac9e8ca1e639f1c4331052477e2eb32d52716c0ebc8188d41d4
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/14/revealed-these-are-the-worlds-most-expensive-tourist-visas-for-eu-citizens
-title:названы самые дорогие туристические визы для граждан ес
-seen_urlhash:271fb2b287b45b23413e0fa620fea9857733fbdf6e7fc8897847fe271314179a
-seen_titlehash:a4e3fb9f982f41079fccb3d0c3520174c886c9fbfe09ee0235f7baccb8fb68c4
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/14/fsb-otchitalas-o-predotvraschenii-krupnoy-ataki-bespilotnikov-v-podmoskovie-ee-organizatorom-nazvali-repera-kyivstoner-byvshego-uchastnika-gribov
-title:фсб отчиталась о предотвращении крупной атаки беспилотников в подмосковье ее организатором назвали рэпера kyivstoner бывшего участника грибов
-seen_urlhash:c97a986854f23edf933ff22262c318f073b8f8f2f7d48c3dc23e47403f4b3c0d
-seen_titlehash:faec5eb40fb7a376251450d84f02dcb4fb74c31aa449e831050fc65bcdfb2ca3
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/14/ssha-pyat-chasov-nanosili-udary-po-iranu-tramp-ofitsialno-uvedomil-kongress-o-vozobnovlenii-voennoy-operatsii
-title:сша пять часов наносили удары по ирану трамп официально уведомил конгресс о возобновлении военной операции
-seen_urlhash:095d7e7348d35683ce1b1c762e30162c97015e67be44f8d5dca530713732e676
-seen_titlehash:e0bf2bb6ffffc73a7b77aaea1366c904a88d5a3494673aa917955d88a2bc74c0
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/14/rossiya-nanesla-raketnyy-udar-po-kievu
-title:россия нанесла ракетный удар по киеву
-seen_urlhash:da27fc3b3d634bfa5605e59d69a117157535fe01dabe3ded0fea16ad6f37b266
-seen_titlehash:0b480becbdfb18ab9282f08dc7718a83622b0f36b2d565fe15ac2a15ad0fbe07
-seen_reason:processed_not_published
-url:https://meduza.io/news/2026/07/14/ukrainskie-drony-atakovali-npz-v-bashkortostane-i-krasnodarskom-krae
-title:украинские дроны атаковали нпз в башкортостане и краснодарском крае
-seen_urlhash:975c2e063572b29d894c52c9167fea9de75faf5df5c34956797171389032d5a7
-seen_titlehash:ba27c0a6f7848a982f39f9943299d2557a40a9b1dd89fd197847b780d74e3512
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/14/pevets-pogibshey-kultury
-title:певец погибшей культуры 30 лет без сергея курехина создателя поп механики и ленина гриба медуза рассказывает историю самого дикого героя советского и российского андерграунда
-seen_urlhash:11af7e9b190be0da3f9054df72eb818fd3385a659ef4df50884e49818cd7d410
-seen_titlehash:9e662b8b4734cfdc4105efe1352e35c36b98bb1abe571c73883de4297e8a7d85
-seen_reason:processed_not_published
-url:https://meduza.io/feature/2026/07/14/ne-vizhu-problem-sdelat-situatsiyu-huzhe
-title:не вижу проблем сделать ситуацию хуже российские власти и vpn сервисы который месяц играют в кошки мышки и борются друг с другом чем это кончится три варианта развития событий
-seen_urlhash:e8009d5f65f528fc14dff72922af6be41d034502230db93c52fd6f85241c2256
-seen_titlehash:94d222517816fdb03c84f64db15c70a2e70ebc78ecf8b968fbc8e022a99517d3
-seen_reason:processed_not_published
-url:https://ft.com/content/c49be701-7fa4-43e3-b40f-4ca9ad563bc0
-title:you should be glad your boss is so well paid
-urlhash:56ffe1c19d24e9487937fb2b02747b1db6202e4d7759193276dfdbec17e58fca
-titlehash:b37d894ec24a2d5b03dc0f9e73bddd5a543e3d7bce3a0047868ed895d1014531
-published_url:https://aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss
-title:us bombs iran again tehran strikes gulf tankers what s the latest
-urlhash:954195a76793a0e418ced3ff9b36fbf32739e9b1666a3a6ca100510587af6048
-titlehash:536ad6f3c7244db62d1c190e15fb29ce4124d49e603527ec51695e97337c9554
-published_url:https://france24.com/en/europe/20260714-kyiv-claims-drone-attacks-11-russian-tankers-in-sea-of-azov
-title:kyiv claims drone attacks on 11 russian tankers in sea of azov
-urlhash:999fb35ce0f23c13e0fe515076d3d1e284c9db068770cd476a1a2110bf37cdbc
-titlehash:bf31868203eca9f4f81f30d15d149438dafcd97fd98a3fb559a5e5c33177141e
-published_url:https://france24.com/en/us-strikes-in-iran-continue-trump-says-reinstates-blockade-on-strait-of-hormuz
-title:us strikes in iran continue trump says reinstates blockade on strait of hormuz
-urlhash:bb715b74f3bdfbe14a8efcef1216c64a8be7c05a591edbae3598627e8b920784
-titlehash:64c13ad0d1dba955ac422a8c55288f48c3aa4cbb85e62dae51c1a7926cfd505d
-published_url:https://dw.com/ru/россия-нанесла-удар-по-киеву-баллистическими-ракетами/a-77942945?maca=rus-rss-ru-all-1126-rdf
-title:россия нанесла удар по киеву баллистическими ракетами
-urlhash:47a30a72392d44a0e97212c7cfb07af69e698e59c2d664bd357f20ac473e4dfb
-titlehash:a9f1ff6207e39746e824dda87a045d27d25cc33d72e339ff4f901f81a6c5b991
-published_url:http://ru.euronews.com/my-europe/2026/07/14/ukraine-on-pow-executions
-title:российская армия казнила сотни украинских военнопленных с 2022 года заявляет киев
-urlhash:217f80d9adb292904c0d53ee3c996c17d6c8de67b7c05c669f753321b3d11948
-titlehash:09f0e867aaf1e6ec95cf0c426c656f0b3dd0e18643bb16038e45a8a61766bd7a
-published_url:https://ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498
-title:oil hits 87 as battle for strait of hormuz alarms energy markets
-urlhash:1c914dde8aca799c9880e72663aeccfa0dacc634b38a3d83dcbb78a872683a6e
-titlehash:26f17615745a58edc172ea5a39bf5b2eea87da7e8bdb5ec0b19783c7555726a5
-published_url:https://theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela
-title:god is punishing the politicians anger at earthquake response grows in venezuela
 urlhash:4f0de9fc80f2e9c791493bff6be760fdf48504c7586c780b6b76612b9cec0d07
 titlehash:f3e894468739477993c8b0d5221f246a6de4f5f1e49ce8af674ce8badc4649dd
 published_url:https://aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss
@@ -4998,3 +4908,93 @@ seen_titlehash:ef75bed927ff5955e9fb531cd95133b4fe41f93ad1deff495a9e7ce66fc1a41e
 seen_reason:processed_not_published
 url:https://ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1
 title:trump set to deliver primetime speech on election integrity
+urlhash:7127c66b0a6baae53534639b3bc9d5f7d47231ef3997966e9587392197da91bf
+titlehash:a139219fc6f834d4ccbd53dac5b67c223440a829a78d41ad4d9df4085b47ae62
+published_url:https://bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss
+title:blasts reported in iran as us launches new wave of strikes
+urlhash:5f3890ba96d9b4c0d627bdaadf809f97d282fd723803fefccbc8d51ee43e466c
+titlehash:ab9f9ce1670604405127a2ee311c2eca081550b951123ebe90ea8b32334130ea
+published_url:https://aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss
+title:us mounts sixth straight night of attacks as iran warns of wider war
+urlhash:4cde5c1bacb24e209c2334bfdd73d4429295048e56692d383e7eaeb2c90ec789
+titlehash:99e0a9ac70a6e23dfd7bd5ae177c9362d0687cdb36c529c76f4695447ce70747
+published_url:https://france24.com/en/zelensky-s-dismissal-of-ukraine-s-defence-chief-sparks-political-crisis
+title:zelensky s dismissal of ukraine s defence chief sparks political crisis
+urlhash:b647e32843ab6126eec26faf33f20316da9bd14f88d1c73cb0ca595c00c5ec6f
+titlehash:7dfc8f18a3ffa17865f2c5fcd81193204f63f5196c1cf986020c094aab906b41
+published_url:https://france24.com/en/report-reveals-extent-of-kenyan-deaths-on-russian-frontline
+title:report reveals extent of kenyan deaths on russian frontline
+urlhash:e722697d4a7b1d7aac169705e22f2992ba75057e2f214b0cda13c67a49e1b7ab
+titlehash:4b49b9d3ed0749fcbfdd7fac53e5e50fbbc4202ecce0bf126efce1b5c0edc349
+published_url:https://dw.com/ru/индекс-мосбиржи-упал-ниже-2000-пунктов-впервые-с-октября-2022-года/a-77996401?maca=rus-rss-ru-all-1126-rdf
+title:индекс мосбиржи упал ниже 2000 пунктов впервые с октября 2022 года
+urlhash:f791a0f96d711a53f04c5e1cbaf26f2a287410dceb2f287d3afea0f5fd2782f4
+titlehash:a096dd7660d9c7cd873126c44c97a559fb10b3bc91760ef1c48301ed232f9d24
+published_url:https://ft.com/content/0dfd1ff9-8c91-4c5d-a37a-8ac7eaefa607?syn-25a6b1a6=1
+title:firstft ukraine plunged into political turmoil after zelenskyy fires defence minister
+urlhash:33da0d036f07a38222ef246d8694a0b752e42ec1ca95879f19542a78630ec65b
+titlehash:0315a7ec02b0ee7e44fc40e603e30825bd14eefa538ca4332501c5b5ea4c1159
+published_url:https://nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html
+title:gay themed mediterranean cruise turned away from turkey and then egypt
+urlhash:a08e4140b587dd93165275b91742b99bfd72ffebb68536bd4147815d2eb755bd
+titlehash:dcf5925b107d428ff2cf74064a2981e3a35bb141e88fd544405a7e4c20884975
+published_url:https://aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss
+title:ilhan omar renews push for us to join icc amid trump pressure
+urlhash:af943984bee69bdb5ece92af5e350ac2cda33f08df085c24bb57807e0a8a6974
+titlehash:4e8b86bc96af2e04a5c32ed23737f81e24d15e4ce1ec73da3f1dad20a0278cf6
+published_url:https://france24.com/en/americas/20260716-trump-tightens-us-visa-rules-foreign-students-journalists
+title:trump tightens us visa rules limits stay for foreign students and journalists
+urlhash:ae11f36c1f6214c64197857361b1289c4df89ef1aa05e03bf8cef80bbbb91bad
+titlehash:076fad777225f69f90b6b24627e3d83fe6362b6857cee8d1f8c32995bf68c60b
+published_url:http://ru.euronews.com/video/2026/07/16/spain-battles-a-major-wildfire-in-aragon-amid-a-heatwave-and-growing-climate-concerns
+title:испания борется с крупным лесным пожаром в арагоне на фоне жары
+seen_urlhash:3602c0aa16cd5eb4b2504d836ab04eaa5d843848af02f29a498c55b6a02fbe91
+seen_titlehash:81b1587ce62f3b4d54011489067ef4fa25d3b423bd37429f06b76c507ead285a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss
+title:jd vance accuses israel of manipulating us public opinion to prolong iran war
+seen_urlhash:dae25ed8e77d00d8cdbda06acfe2ed53d9191741d52a6690bd3c1b99dc2690dd
+seen_titlehash:be2e67abbc37ed4181a8bb9d8475e60f5bb6f389834f6ccd758aa33df3c5988d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html
+title:canada s wildfires are burning through the night
+seen_urlhash:85057b4ee276c5f6b6708be0ef887606fd931e14e840800fd37da1f511d382e7
+seen_titlehash:d2be6cf1ebba89ec6cca967bd02d7de8fc6083446ce7717b7d243733db3cc3fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss
+title:former italian motorway chief sentenced over bridge collapse
+seen_urlhash:50bff6a1bdc33204e688249f5a84b26a237f9041957b17caa80993fab1ea4bd7
+seen_titlehash:d6b9229c2efbe50f3043d037d894d5c26b8f4c0b039ad43da805ca30df5a70fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss
+title:grand mosque of paris celebrates 100 year anniversary
+seen_urlhash:18063e99677953b83d89c499a3a048717d23f2dd5c684182d97d5b0c956810ac
+seen_titlehash:c46a0ee0f1ac0c21550a231b9c052a37a34ce001293ce725354f38386a7f6bab
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss
+title:donald trump live us president to deliver primetime address on elections
+seen_urlhash:e3674879f587bd6ee18fb2d5929f953b26908c8d65385b08ffbf969939a9df8f
+seen_titlehash:153172ee0f1c1a964eb1092d33ff38a4604513ed937029efba958d9c483744ce
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20260716-canadian-wildfire-sends-hazardous-smoke-spewing-into-us
+title:canadian wildfire sends hazardous smoke spewing into us
+seen_urlhash:7368621f1405db108eaa86290c7a8e16d921b692468d7fff8a0284398d0e12a9
+seen_titlehash:3c5bdf07390eebdb369475361bcbc6dedabf0e5f12a302c5ab769b2304cfb83a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/truth-or-fake/20260716-trump-changes-reflecting-pool-gash-size-again-but-offers-no-evidence
+title:trump changes reflecting pool gash size again but offers no evidence
+seen_urlhash:93230c6c36f8e7f0d94ce949f27d7f09b9f2d5391d3f63cfe0c9b599b8e83dc5
+seen_titlehash:4eed32637861114d8d90774e5954f8be6af48dc69985fd741673a31f29a406eb
+seen_reason:processed_not_published
+url:https://france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops
+title:us defense secretary pete hegseth announces testosterone screening for us troops
+seen_urlhash:7094acdb2a72a0ccb1675e7af22accb51e797722cc5c2ac4ef6651b2a2349f21
+seen_titlehash:37746d0a3484363325160bc5d2dc9be6e85c3719b802e5adbde11bda2d68101c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/17/rubiks-cube-stars-shine-at-european-speedcubing-event-in-the-netherlands
+title:звёзды кубика рубика блистают на чемпионате европы по спидкубингу в нидерландах
+seen_urlhash:f9651daad746f84370849e6c332dadc93193cc25f60bedf880526fe332bc93ec
+seen_titlehash:3d5412eda55530de8367411379ae0ea6e214158c5b5b94d31d18619a01d71097
+seen_reason:processed_not_published
+url:https://ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1
+title:us chip and memory stocks slide in fresh bout of wall street tumult
