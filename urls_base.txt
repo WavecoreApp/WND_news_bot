@@ -1,16 +1,3 @@
-urlhash:4f0de9fc80f2e9c791493bff6be760fdf48504c7586c780b6b76612b9cec0d07
-titlehash:f3e894468739477993c8b0d5221f246a6de4f5f1e49ce8af674ce8badc4649dd
-published_url:https://aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss
-title:country grows we grow too 1 million migrants seek legal status in spain
-urlhash:e684a60dfc96f6e571def9de8b5e9f232438e8bb487cf3ebe6fc5f483441432b
-titlehash:14cddcc9abb1d34d8c175a7554fe36573a2446ac9b275ed2dcea29e3f74901cc
-published_url:https://aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss
-title:us military releases video of its latest strikes on iran
-urlhash:d4c5b7582b736805b33c9115a544389d80308d5d5a268a36944988c3393836c5
-titlehash:4ab04790c77f85f4e3b1e5a480ed0d5f90bd0b9fb29c648b4a035e3a7567ac1e
-published_url:https://france24.com/en/sudanese-court-sentences-hemedti-to-death-in-absentia
-title:sudanese court sentences hemedti to death in absentia
-urlhash:7223258d31493717ca55f13aa11bb1b9b0534924b0487425da5c95fda7a489f7
 titlehash:0d8bac1fcf95edd6eb3e297798cef98c16b8083ef18fe4cb937ee209395e9c15
 published_url:http://ru.euronews.com/my-europe/2026/07/14/ukraina-priblizhaetsya-k-vstupleniyu-v-es
 title:украина приближается к вступлению в ес открыт ещё один кластер
@@ -4998,3 +4985,16 @@ seen_titlehash:3d5412eda55530de8367411379ae0ea6e214158c5b5b94d31d18619a01d71097
 seen_reason:processed_not_published
 url:https://ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1
 title:us chip and memory stocks slide in fresh bout of wall street tumult
+urlhash:d9f14fc434f62e628686173e990d17f95e61968bdfe35685a66fc47a46f71a73
+titlehash:b79957124eefb36ce43af3f9c43da5ca7c71e96c13ff6f500051c85d920bb7c6
+published_url:https://dw.com/ru/в-польше-подростка-из-украины-обвинили-в-диверсиях-по-заданию-разведки-рф/a-77996532?maca=rus-rss-ru-all-1126-rdf
+title:в польше подростка из украины обвинили в диверсиях по заданию разведки рф
+urlhash:8ce505edacf7798960a4fdab983dc36e1104517b425e5b0678cc5c51c1c173ab
+titlehash:a630f38b1067172d94d421012ee5ebc7e35e8acf509e6fa703419005e5836116
+published_url:https://aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss
+title:qatar rejects israeli reports of military action against iran
+seen_urlhash:ff2d5916adb565695ed359f44cc023d7aaecc5411ac430cb30fc3aedb9fb6c2e
+seen_titlehash:653346b40a79e126ea8e54a5c92f80297317dc704ce1642712bd0e09c2f5af6b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss
+title:sadiq khan joins house of lords as outgoing uk pm names 26 new peers
