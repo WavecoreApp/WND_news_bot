@@ -1,41 +1,3 @@
-seen_reason:processed_not_published
-url:https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906
-title:jurassic park star sam neill has died
-seen_urlhash:1cb33bfba4699cea4d4fc235178ea772054325cc65243837f755f9abbe07e195
-seen_titlehash:ec4baa086c677a6f15665dc463a56625775b96f6701778052fe2b35dd94ece79
-seen_reason:processed_not_published
-url:https://france24.com/en/culture/20260713-jurassic-park-star-sam-neill-dies-at-78
-title:actor sam neill star of jurassic park dies at 78
-seen_urlhash:dd9c81c17a970762e891707047582b5a40789c3df9114bf706e2860e31b9ca83
-seen_titlehash:36c90df643be6beb5c2a8cbd47b4cac79a9ddc114e3c89868c3ee4c8f80d17ea
-seen_reason:processed_not_published
-url:https://france24.com/en/tv-shows/sports/20260713-jannik-sinner-retains-wimbledon-title-after-victory-over-alexander-zverev
-title:jannik sinner retains wimbledon title after victory over alexander zverev
-seen_urlhash:a482ad641222915a33fd9293583b1f8c17b5772171a403e5b1b2063532ef0ecd
-seen_titlehash:16b68260efcc32dd5a92484736be91186e5b3eebde823dbde6418d75b83e7254
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/13/mind-the-sticky-patch-why-has-this-dutch-museum-covered-the-floor-in-peanut-butter
-title:осторожно липко зачем голландский музей залил пол арахисовым маслом
-seen_urlhash:90c5e9bfd4ef7956498a6bbcd30712626c0bb5e8c0d883fd56567b1ce2210a6f
-seen_titlehash:5807407f146a0f2a22081b4b73f6ae4a08840472f629a30cb50916de31a5cd1e
-seen_reason:processed_not_published
-url:http://ru.euronews.com/2026/07/13/otravlenie-v-kurortnom-rajone-kushadasy
-title:28 постояльцев 5 звёздочного отеля турецкого курорта кушадасы попали в больницу с отравлением
-seen_urlhash:d602d08eaca300a40985d3eea0b5dc17af6d48bacc07a1c4f2b8e7053fed94fb
-seen_titlehash:f6c28106aeda8650e01e79cefe5ddd1d26305dd7b11f0597bf302a9977eb110a
-seen_reason:processed_not_published
-url:http://ru.euronews.com/health/2026/07/13/norovirus-outbreak-affects-more-than-100-people-in-portugal
-title:вспышка норовируса поражает более 100 человек в португалии
-seen_urlhash:0c530da45b34297a434f363b6d7c2eab0d39eaa16cbcabb2652431103271703a
-seen_titlehash:8ff35f2f5206951dd4c8e060bc3bcd6a318d17389e3dd7d403dd79febf9d98cc
-seen_reason:processed_not_published
-url:http://ru.euronews.com/travel/2026/07/13/cruises-worsen-overtourism-and-emit-more-pollution-so-why-are-they-taxed-less-than-hotels
-title:круизы усиливают овертуризм и загрязняют воздух почему их почти не облагают налогами
-seen_urlhash:1edf158cf43bb361e43db4101de0cba52bd6d1f5ff63315047829816e1c5bdf4
-seen_titlehash:ff0115786ec46d75ad1076688f3d01bc78d4fd008fac060c32900bb6a4f25160
-seen_reason:processed_not_published
-url:http://ru.euronews.com/culture/2026/07/13/disneys-live-action-moana-capsizes-at-the-box-office
-title:игровая моана disney тонет в прокате
 seen_urlhash:df4de2cb550d48fd45f4c9461e1a010e936653ea8b42eeff8eede31091a525d3
 seen_titlehash:81f089c14ecd3618013742fb7f331beffd47a96d04ae7ccc70e3c66e41fe0f66
 seen_reason:processed_not_published
@@ -4998,3 +4960,41 @@ seen_titlehash:42824200603ecc4af69dc41498075ad6bf4f5c986439aaf5dacb8d51a7e1c65b
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss
 title:really big news what to know about trump s primetime speech on thursday
+urlhash:97e399a506f4dbc9814bb74fc4b2171a2123f7a7b6b9925268fb8c4467274ef0
+titlehash:55e72f4311140b0ccbf7208744ba950aa27deeadef2f03cc5cb1cdbe5f22cd2b
+published_url:https://aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss
+title:iran war live sirens in bahrain kuwait us disables iranian oil tanker
+urlhash:d3e55cd0242a24e49559f915df72fe456d36040ca7bd9ef1791a18e68845bc3f
+titlehash:a78374045b53a6a22622128783135d3f52c718af41ed13c2e654626335112de3
+published_url:https://aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss
+title:iranian doctor says us strike damaged children s cancer hospital
+urlhash:3e761629e276ff85507bd8e082013a05709d45193bb4b92a59c553fb0d1cfc9c
+titlehash:210b6b2237cd0aa80a0f78ed9def3cfa2e72c0dd8c99d45911cc6b1dfac93378
+published_url:https://ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c
+title:us will not win iran war from the air trump s ex defence chief warns
+urlhash:5c108df64e1ff65b4e6d5d93717e85c0d9dba68a6db7f25c568675d65dbc67b4
+titlehash:b6734405e6b01925fab119a671d630fa5fd775bf32ca533c47909bb64f69da9f
+published_url:https://theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands
+title:how global heating supercharged floods in west africa displacing thousands
+urlhash:f94f2b0467341cccaff97beb08e77e4ba3416423081e9c23c23117e2cabbb3bf
+titlehash:c03d51f583ef7eab014d7b63645549d0b9d6dc8e529936c2693d05f23ebda2ff
+published_url:https://aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match?traffic_source=rss
+title:argentina players brandish political falklands flag after england match
+urlhash:76edd32f1fc1c816de73b5b79022446f26314d4811a52ceb66ed5ef720958478
+titlehash:d0794d79771d807eabad7fff5b67aac7b4b1b44968f6358bd1e025e617a1092b
+published_url:https://dw.com/ru/зеленский-передал-раде-представление-на-нового-премьера/a-77976694?maca=rus-rss-ru-all-1126-rdf
+title:зеленский передал раде представление на нового премьера
+urlhash:af19d1e5ccc4de1e40468f5a6b3d8e2269fa3a48ab7d890198218ea3962125be
+titlehash:2af62c3f255b0f30c270748806448e237871cac0599404c582ad67bd7677b826
+published_url:https://ft.com/content/bb1a1582-c522-4c5d-a769-45ba9f5a3054
+title:south korea stocks slump after first rate rise in 3 years
+seen_urlhash:3ed894e9cdf0c6d2951e952e96018dc3a77b374ff6ba5efff8e0285b0cf1e576
+seen_titlehash:c5e289052608af9ce4681b41f632bc549b309f3cd916ef98f45913122c8b2ad3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/16/moira-deeming-legal-case-victorian-liberal-party-ntwnfb
+title:moira deeming drops legal case against victorian liberal party and makes last ditch bid to avoid disendorsement
+seen_urlhash:8e8f79dc4b5e4d190c3c376decdb22ee2e3c216237a5f61f8835b46d74771593
+seen_titlehash:69988968e4d3864b21f1dfa7cbbbddf101ba952d0c52e667f3e79805bcf28b83
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss
+title:wildfire smoke engulfs toronto canada and turns its skies orange
