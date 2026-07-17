@@ -4998,3 +4998,18 @@ seen_titlehash:7f3f769fa85a5d9439cdc8eede1871b6b339148803110737777c520b3682c01b
 seen_reason:processed_not_published
 url:https://ft.com/content/fa4e24db-9324-47e2-8512-a581ca9c1aba?syn-25a6b1a6=1
 title:trump threatens canada with tariffs over invasion of wildfire smoke
+seen_urlhash:9726e90410969ed0956b39834fa64f3df2d50a1819220a72c54e068b82c69d6f
+seen_titlehash:453e031935e8d4ff8439fcfead87d38fee6ad2e21fd3e31cf0681953acf47a9c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss
+title:us launches seventh straight night of strikes on iran
+seen_urlhash:d9570c9b17f48aaabbcc2c9e2cf997a4767527f38d9d903cda8d54bee00fdeb3
+seen_titlehash:754c613e5ef55c1737c0513690a2bbcfc6ad3b7f39605140f71f3d65dc9eded6
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss
+title:herbert leads british open golf equals record lowest score at a major
+seen_urlhash:120a8fcb8c7376561f17aa7d356e74774f648ab07f7fdd852443a3c3743e5766
+seen_titlehash:a221b9eae3e99ff7aefcef0462450fa2a60ecdd3ba961ad71264a4edfe26c374
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/17/star-speedcubers-square-off-at-european-championship?traffic_source=rss
+title:star speedcubers square off at european championship
