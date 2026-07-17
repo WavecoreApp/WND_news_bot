@@ -5013,3 +5013,38 @@ seen_titlehash:a221b9eae3e99ff7aefcef0462450fa2a60ecdd3ba961ad71264a4edfe26c374
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/newsfeed/2026/7/17/star-speedcubers-square-off-at-european-championship?traffic_source=rss
 title:star speedcubers square off at european championship
+seen_urlhash:574abb148bb318b970afe6ed47a8919d2ec7897f6f9dd0a2df9948defb93108a
+seen_titlehash:b1e28a614040fe39f9ff64ec76bf9671ba7433835dd38a389877268d22e63536
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss
+title:white house defends argentina team over falklands banner
+seen_urlhash:14901607bbdeca69b7502b2f21309ef33dab44d54d8d45fd1bf7b94198676c27
+seen_titlehash:84c8e4978a012f7607dfd2146c4fb4c499c83bedab45b8f7a4c6684f74087ff8
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us
+title:cuban dissident artist luis manuel otero alcántara cleared to travel to us
+seen_urlhash:a6b6d80c369688b89e259247197d1f8cd68f4e3d35198bc646e7dc8d95e854c9
+seen_titlehash:39db74f851ed34f25f324cfaf43621290bc79a1b397379610f6fa725a02d67be
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss
+title:eu urges israel to halt settlement expansion as settlers attack children
+seen_urlhash:c5b5ace78917ee5d2843bec94dab83c418ca4a8ed8ac358613b255b39af1fc68
+seen_titlehash:e72bc16fe415fc87c8ecc58aaebf2b4cf62ec055036b9a3087901ece677c17a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss
+title:trump threatens canada with steeper tariff costs over wildfire smoke
+seen_urlhash:35cd83088067ec7fa962382c024cf16b454be385391639945e0415ac45af95a7
+seen_titlehash:614e92cc2b03cbf78264b5f8eafbe08aae883817830c03964c6b4054c4478623
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss
+title:iraq signs deals with western oil firms including to revive syria pipeline
+seen_urlhash:5f92971a8f3ad764357e765c76484197d5bd926478dadaeaf73ae3a5a6754000
+seen_titlehash:cdca432d2a009984603afdd5a72452e291885e0f853a5d3dace75916dad91f4f
+seen_reason:processed_not_published
+url:https://dw.com/ru/правительство-рф-предложило-расширить-список-допускаемых-к-службе-осужденных/a-78015015?maca=rus-rss-ru-all-1126-rdf
+title:правительство рф предложило расширить список допускаемых к службе осужденных
+seen_urlhash:153b75a91c860ba337014b23e922c33dcf83a4afc20b989cf138d46399301db9
+seen_titlehash:8191e6128fa10eeafa610f9caa3d8174b978ac6cd35fb726988516097794507c
+seen_reason:processed_not_published
+url:https://dw.com/ru/алексей-и-мария-москалевы-получили-политическое-убежище-во-франции/a-78011425?maca=rus-rss-ru-all-1126-rdf
+title:алексей и мария москалевы получили политическое убежище во франции
