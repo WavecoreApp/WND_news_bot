@@ -5908,3 +5908,38 @@ seen_titlehash:aec9ddb27de86b6dcd991ccc4b6aa41cc947dc03edf645cf3acd5948d4f95035
 seen_reason:processed_not_published
 url:https://ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1
 title:trump to fund maga aligned projects in europe as he reorders us aid
+seen_urlhash:f0caaf05f8ffd4d9c3b2fca66c5d507cb65aacb41d297307a78fef79d15fa6ab
+seen_titlehash:411d327096845ddfa691b4113eb65bc8bfb0758e2f258e2e6ddfbb54b2233402
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html
+title:deaths of 2 u s troops in jordan brings american toll in the war with iran to 16
+seen_urlhash:276f9cb2d59c43be8b7045c22db226b7e4dd744382c2a61ca1e2438d7ec55e83
+seen_titlehash:797985d9cb42db413a48196227630ac04280584d81c5913cc569d0c61f529f7f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html
+title:ukraine s top general becomes a target of protesters anger
+seen_urlhash:67b1bcf7aefb8e5d5bfb47c6f64794cebc41ddde0e0575d42d6b41f382f5ef49
+seen_titlehash:378f4f169a9b91a53e4030d0bef464c5142723051f32ba72d30177b655698eec
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us
+title:flash flood warnings strike north east us amid wildfire smoke from canada
+seen_urlhash:e296bc790dfe5fd89736a7b7a00d675837573bbb6ff32ba1ea74183dc98bb74e
+seen_titlehash:86b4f7c5c8de2d77be19445a71e15bdac76727757cf5d2cf44468df6376e2d39
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss
+title:thousands rally in london in support of gaza demand new pm take action
+seen_urlhash:0c3d0b399d285b39b3c86b951e9e5091b8534b45918e685182c71f7c51e970ed
+seen_titlehash:a97bc9b4dc12dfc76cc09a85b480d124a485a6c3b65b29ce7c4e28ed73539542
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss
+title:iran supreme leader warns of unforgettable lessons if us attacks continue
+seen_urlhash:d65379e6e811ea6c918528ee365e7b3848210654ce464d83e33656bafbd5f5f7
+seen_titlehash:dcc229d112c9460035dec50453287bae3b04536a8cba88c174aae05794f21e6e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss
+title:israeli attacks on residential areas in gaza kill eight
+seen_urlhash:2d21e486bf3db89a0ac4e822fc2d250aff178e869082034a3d116aa1c3b7090f
+seen_titlehash:b7e212fd4db5fedb8f457c844bd05ad9407f16192090ded93a040bfd454b8e27
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-венгрии-подписал-поправку-к-конституции-прекращающую-его-полномочия/a-78021378?maca=rus-rss-ru-all-1126-rdf
+title:президент венгрии подписал поправку к конституции прекращающую его полномочия
