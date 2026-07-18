@@ -5943,3 +5943,43 @@ seen_titlehash:b7e212fd4db5fedb8f457c844bd05ad9407f16192090ded93a040bfd454b8e27
 seen_reason:processed_not_published
 url:https://dw.com/ru/президент-венгрии-подписал-поправку-к-конституции-прекращающую-его-полномочия/a-78021378?maca=rus-rss-ru-all-1126-rdf
 title:президент венгрии подписал поправку к конституции прекращающую его полномочия
+seen_urlhash:50c376b90cd87a76d16f6cf2888e78511723987940735defec8fdabab36806e3
+seen_titlehash:4f93476c701e31016f57e4102c0f29536134fc83b1eb68a552905583343a2c54
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html
+title:why jordan is becoming a new focus in the u s iran war
+seen_urlhash:861403763929ee1afde8e02dad6926d10118c8653b32ce347800429f6fd3a6de
+seen_titlehash:d161b4923d7022445b3879baca0d6f452bafa411f90484eae352679d8febc344
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html
+title:canada wildfires what to know
+seen_urlhash:e102a3d4d095053454545e28c04de6bec6dd7743b1f12d9c7030fe94f1459233
+seen_titlehash:e4442234618737fcbdc7c6687981596f06adc4389ddce44a477c8dd60d23a8b5
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments
+title:anu accused of hysterical response to students using ai to cheat as unis scramble to secure assessments
+seen_urlhash:defde6bee8bee0908e564ab91bdb8c220883972bf3f12e96aab9a6ea88373b45
+seen_titlehash:86447330a4a892a045dd903dc5e06631f35f1a5c1e73b77d0053b7e470e184ab
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss
+title:palestinian teenage footballer dies a week after israeli settler attack
+seen_urlhash:e0839dc78fd01f600743a49254ff05f38f266ad2a7ce9a5ac68eeacb65ba9ae1
+seen_titlehash:554100ef7de07a9e61b6cde50bbf368f15e434829db8eb4c4a0283861546789b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss
+title:drone video shows scale of major wildfire in northern spain
+seen_urlhash:520181439b4706d7336ac1ae9e83148d3802fa227625993747ba24e4dde75f74
+seen_titlehash:60cd3177dc54d9581ad75dd21fbe41a6f514cbfe29fd1769b14014bae6b63026
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss
+title:why has the ceasefire in gaza failed to stop israel s attacks
+seen_urlhash:a5838f41832985d3b6a042714f35c52d33efbb567792399148e208c1c5c42440
+seen_titlehash:c4d4ada5803b3aaee54624d4393729d086cecb4a53bcfb8ce05049285796737f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack
+title:khamenei threatens unforgettable lessons two us troops killed in iranian attack
+seen_urlhash:6232843dae6682d0791bd6b96c576a0188033f29be891f19b154441d77865a5a
+seen_titlehash:4f6d97c721c6fe9ce7ed7c61345c86babc65179a6ee2f68d5036285c2c11a48a
+seen_reason:processed_not_published
+url:https://ft.com/content/8f5445ab-dacb-4908-909f-277853ad0f50?syn-25a6b1a6=1
+title:burnham scraps new digital id scheme
