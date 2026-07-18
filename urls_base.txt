@@ -5573,3 +5573,53 @@ seen_titlehash:ecb96f7006479bb79497e2300ec9058770a180b58936733b2d9d1c07ddc4d0e3
 seen_reason:processed_not_published
 url:https://ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75
 title:rise of delivery apps takes a bite out of sales for big pizza
+seen_urlhash:f00ad948101c75433c87bf74756d2e6e938bb9821d09360af065b9265e471a7c
+seen_titlehash:1bc2b95ca0adc072a5eccd2bea368a70c72ed6cebfebccb7f96fb29c6e99d7a1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss
+title:russian online retail warehouses hit by deadly ukrainian strikes
+seen_urlhash:1ee1a446adbdf058fe3ea6effe7c2d083645df6bb85b9e067bbe0aea53ac760d
+seen_titlehash:5da2e4a4b38f78a304014cebb1af2e2361d908adb0f0e6540d0d1688014cb8b9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss
+title:what this desert city can teach the world about tackling heat deaths
+seen_urlhash:342634724ac8d7b4ef65a902bfcefe5e7dc6328b86cc29275fa2204cfb10eda4
+seen_titlehash:3f04719899889b1e2a9af3b73cf1c1f748ae74ea3626759700fc31b9c801f4df
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html
+title:most forest fires in canada are simply impossible to put out
+seen_urlhash:0565661bdb54c1cf5e8e9e87d2aca2442db7a1f2140124553b847511c9943972
+seen_titlehash:78be03dd8e38fac1fbff814ba57525cf96bed60f79d2236e9bd923566142b4df
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/18/europe-should-look-to-africa-for-heatwave-solutions?traffic_source=rss
+title:europe should look to africa for heatwave solutions
+seen_urlhash:2f2e4af9372925b97b8ee298a5b4576a228aaaccde0b6f9bd4b97b3f625a89a9
+seen_titlehash:ef8e99df9b00ca1f1e3f608d807b896402349b969ca2fb51b378a54e3eff7df8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss
+title:india achieves milestone with launch of first private sector orbital rocket
+seen_urlhash:2a930a515621a33add6424c837bcdb8af0ae374d19019e954491a9ca730d7039
+seen_titlehash:d5c381cc4437f3da7a9d810f70b6ca9042452c240a48e9b88179e75abc0075ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss
+title:india s salt workers the human cost of the world s most popular seasoning
+seen_urlhash:b0410fc06a34c90c9747f3e28e4e9ea53bfdcba4f54d01b00829eb7b35c2f26b
+seen_titlehash:0fd519a3a5db24ad1d5de7b0636c160b74d4fb607e6eba3123aebfb699db2f9c
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/scoop/20260718-fight-or-flight-trump-administration-subpoenas-journalists-over-air-force-one-reporting
+title:fight or flight trump administration subpoenas journalists over air force one reporting
+seen_urlhash:a2fdd627afe232435d2ef420322fda756552995e18143dc4ef5529c4ec76ddba
+seen_titlehash:929f3fe90089a534f9e9ba67329c71cff9211576ef0e15cbba5ce77d68cf0e15
+seen_reason:processed_not_published
+url:https://dw.com/ru/лидер-фракции-хдс-хсс-шпан-уходит-в-отставку-из-за-скандала-с-суррогатным-материнством/a-78019506?maca=rus-rss-ru-all-1126-rdf
+title:лидер фракции хдс хсс шпан уходит в отставку из за скандала с суррогатным материнством
+seen_urlhash:525ff52832938b9d6b215dd01aa9425d4650cfe2bcd04d5c4bf544a558bd84d5
+seen_titlehash:7934cbd6bc105c2f529da3c4af902121669c5b2ea356fa6fcabe40490a90922f
+seen_reason:processed_not_published
+url:https://dw.com/ru/удар-рф-по-портам-одессы-погиб-один-человек-ранены-трое/a-78019048?maca=rus-rss-ru-all-1126-rdf
+title:удар рф по портам одессы погиб один человек ранены трое
+seen_urlhash:bb60ee196851fc7faa0fc77e27e9b96123f3d5c46eb336a0d6855ced51b71ade
+seen_titlehash:88ab7ab0faadec52e727076acda1d6df904d655c0db33e873c01e18c88f9d01c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/glava-fraktsii-hds-hss-v-bundestage-yens-shpan-podal-v-otstavku-posle-skandala-iz-za-rozhdeniya-syna-s-pomoschyu-surrogatnoy-materi
+title:глава фракции хдс хсс в бундестаге йенс шпан подал в отставку после скандала из за рождения сына с помощью суррогатной матери
