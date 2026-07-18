@@ -5623,3 +5623,93 @@ seen_titlehash:88ab7ab0faadec52e727076acda1d6df904d655c0db33e873c01e18c88f9d01c
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/18/glava-fraktsii-hds-hss-v-bundestage-yens-shpan-podal-v-otstavku-posle-skandala-iz-za-rozhdeniya-syna-s-pomoschyu-surrogatnoy-materi
 title:глава фракции хдс хсс в бундестаге йенс шпан подал в отставку после скандала из за рождения сына с помощью суррогатной матери
+seen_urlhash:2b6a88141be17103bb33466f215398c8bc05c099564b175b175f0442f878b6fe
+seen_titlehash:e8e164695f5083df57e486b204cd4d0335de1916cb6cfa3e6b1278c78ba51ce8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html
+title:surrogacy scandal upends german politics
+seen_urlhash:675e7fb538a696c26fe48e9619d384edb208b706ddcab3a3817be0a255906a9a
+seen_titlehash:e3250a2e57deb26def75d8888329095b1e3c4391a44a9adfa380b37672683d0e
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink
+title:cuba edges toward breakdown as power cuts and us meddling push society to brink
+seen_urlhash:c1a357f0c17d1833ef139edc962b7f3b20596f33cb542ff4066b635bc2b855eb
+seen_titlehash:0adf1866395f546109ed721fc17c368459092bc9f4ab62526e1dcb30b76cb041
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss
+title:top german conservative quits after surrogacy sparks backlash within party
+seen_urlhash:dfd4965ac1d7625b84cd1001b48e220e37408110e5963cc6df0ea4f9818d2707
+seen_titlehash:525090cc18d3a0061205b3cc2a5ee6b2a538b07a9b520cc5847fc0bf860bdec5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss
+title:death toll from uganda school bus crash rises to 24
+seen_urlhash:020664abd4bd020d69c7c25a85678e703d5eb53d6a175ef0dcb75796cafb4d69
+seen_titlehash:c8ffb6c212a285ddf603913b2cd9a8fa28cfe5cde9d0ebee3a6dc530c3ec5ac8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss
+title:iran accuses us of striking critical infrastructure as war intensifies
+seen_urlhash:fd755d4681f1859ab1c5800fcaac94dc0f972603376754b7db6208c140d11a08
+seen_titlehash:3a4b50cb4c0f385f7ceba0865924bf9d687043683be58d8f2c45a6ffd2d30464
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss
+title:ukrainian strikes hit russian logistics center
+seen_urlhash:4138d53bc07077c156303e3175019dba8f9a0c96b26c95a0b52f2da06950a329
+seen_titlehash:797fa93b2744f556600de5bf15934feff640e3b48b86b4c591d37683e4d9ae18
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260718-german-conservative-parliamentary-leader-resigns-over-surrogate-baby-controversy
+title:german conservative parliamentary leader resigns over surrogate baby controversy
+seen_urlhash:5bfd632205f362eadad51d47243e3df8e9eb8957b1cb63c9e5122f20655173db
+seen_titlehash:ec7c7d8eba87bf7e0f1112c2aa585b872cd346fc095d0e23931ea1f727856af6
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260718-indian-police-shift-cockroach-party-activist-on-hunger-strike-to-hospital-against-his-wish
+title:indian police shift cockroach party activist on hunger strike to hospital against his wish
+seen_urlhash:58d7c27aa85bab0856023c702ac5ac1e0c787d84f88afbd3eddd66e148bdbc4f
+seen_titlehash:7cd6df0872120e492384f4fece6ca1b5c62df3782f9123e3f1ff11909df9462d
+seen_reason:processed_not_published
+url:https://france24.com/en/us-strikes-hit-iran-for-seventh-night
+title:us strikes hit iran for seventh night
+seen_urlhash:267facef8f86c780eac162b3bf4bb23f3a3e8de3e27095124259bdcf86758d72
+seen_titlehash:9880ae09234a7b041cf8ddcdc6af3f5ee32a2457159cffe97929b9ccfbd2b2b3
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-зеленский-рассматривает-отставку-главкома-всу-сырского/a-78019746?maca=rus-rss-ru-all-1126-rdf
+title:сми зеленский рассматривает отставку главкома всу сырского
+seen_urlhash:0a997d1f7811a5bfb77f490575f65b756ba84551e0a1b0188e75999c144841e8
+seen_titlehash:17d9fa5212f947685da498f4203e2508e36c75295b83294c178544069cee84da
+seen_reason:processed_not_published
+url:https://dw.com/ru/добриндт-террористическая-угроза-в-фрг-резко-возросла/a-78019579?maca=rus-rss-ru-all-1126-rdf
+title:добриндт террористическая угроза в фрг резко возросла
+seen_urlhash:09ad1aba69e581a0c6bb75ecaf7a4d76a29bd66d7c07f6e93f69750241c940e3
+seen_titlehash:a01679f07a6bee054367b6a0fa354b7af055312181c3f51cb1e0e2750c4044e5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/18/glava-frakcii-hdshss-ushel-v-otstavku-posle-skandala-vokrug-surrogatnogo-materinstva
+title:глава фракции хдс хсс ушел в отставку после скандала вокруг суррогатного материнства
+seen_urlhash:da19353c0582fbe68c8abc80f4467006987e4bfbe19b95dca970b3d453cec7e7
+seen_titlehash:92490c0331e65bd58f63b64b1314aeecf92a126f09ee3ceeb84ba77b92758733
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals
+title:дополнительные выборы в великобритании у найджела фараджа рекордное число соперников
+seen_urlhash:bed7214f4594236933743baf6c575ffcd726c16dddee74e84bfb2f087ed238b3
+seen_titlehash:6239c72b115e3ffcf9705e2bb13725b3f928d3cbf841745eb0b6838cc8dd9ab4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/the-bell-v-rezultate-udarov-po-dvum-logisticheskim-tsentram-wildberries-postradali-10-15-vseh-skladskih-pomescheniy-kompanii
+title:the bell в результате ударов по двум логистическим центрам wildberries пострадали 10 15 всех складских помещений компании
+seen_urlhash:bd18888d8f261bf3e2d4504cd84074b2a3507f0b577997b5c1cf8b635a3c6152
+seen_titlehash:27bfb4f427a1ba6eef60507740f46085c08f82fc045e0a3550e32ac02bdc4ed8
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/glava-wildberries-marketpleys-ne-obyazan-kompensirovat-prodavtsam-utrachennyy-tovar-iz-za-udara-dronov-no-vopros-vyplat-prorabatyvaetsya
+title:глава wildberries маркетплейс не обязан компенсировать продавцам утраченный товар из за удара дронов но вопрос выплат прорабатывается
+seen_urlhash:f435a516f0bc1afc2b12aba2ecae3c6b2b1d3b95cd5f2061634e32df2797ce50
+seen_titlehash:f79b04eb98c967695e8e262bce52f555639fd1afa12a89b752eaa41312fdab61
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/18/pervoe-moe-vpechatlenie-ot-parizha-muzey-pod-otkrytym-nebom
+title:первое мое впечатление от парижа музей под открытым небом алексей и мария москалевы наконец получили политическое убежище они почти два года безрезультатно ждали решения германии а теперь живут во франции
+seen_urlhash:d419af9faf0cbd78ef4ca0f40cb8d0915f3338332c607ddb1f52af8a01dd7332
+seen_titlehash:0ee7e8e8a8c827826b336ea553e8dd2d026117c7391bf6a964f949e06020b01e
+seen_reason:processed_not_published
+url:https://ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1
+title:big law braces for second fight with trump over capitulation deals
+seen_urlhash:673333925e56e09c4106fac703149f36493f4eec2859db025d79fe09618944ec
+seen_titlehash:ed61dd96da24c617205cd0e2414f8c7af449423f41cc118e54a823d615a07b09
+seen_reason:processed_not_published
+url:https://ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1
+title:iran strikes saudi arabia for first time in months
