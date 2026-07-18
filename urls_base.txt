@@ -5838,3 +5838,28 @@ seen_titlehash:e201da181935b14a791f4e9849b1c93a2f754419f6f6876eb94b45d17919edb7
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000
 title:число жертв землетрясений в венесуэле превысило 5 тысяч
+seen_urlhash:2abc19bbe6cb60d6a7cc3116eddcfc522d9cea7dcbe4c4c743313cb5e4482dc0
+seen_titlehash:8415fc7dd5ae75a8ff62e0eaebded6fbcf9a481168aa9f7f8151ada4ace9777a
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss
+title:uk s josh kerr smashes longstanding world mile record in london
+seen_urlhash:2ca58ae69382ee9271d1e4121718a746af3caafc9dadc6cc74bf56868a3934f3
+seen_titlehash:9de5d7c22f83a4d16712913a34fe0e5ed19001d71eeb0cc128f751c153a848f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss
+title:what to expect after the us reimposes naval blockade on iran s ports
+seen_urlhash:885335b49c2163d0d23beb365b37835003961b37dbbefb5491cb0425bf396f42
+seen_titlehash:cd437341e0b28cb41bbe8fbdcf64fc7febc79b1407f732499ace8a6f47513711
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260718-what-s-at-stake-for-the-eu-s-carbon-market-blueprint
+title:what s at stake for the eu s carbon market blueprint
+seen_urlhash:96c6c60496894d9fc640d9d01bc80c3f83924cf604eafc2b2db62bbc77ad9070
+seen_titlehash:f294adfbd7a52ab069db2fa7c9b254975a2ddb9891e7114cd82467259496acf2
+seen_reason:processed_not_published
+url:https://dw.com/ru/сотрудник-службы-безопасности-в-германии-выпал-из-поезда-на-скорости-120-км-ч/a-78020867?maca=rus-rss-ru-all-1126-rdf
+title:сотрудник службы безопасности в германии выпал из поезда на скорости 120 км ч
+seen_urlhash:b25d09436ccb44a13a789bcd2be5395daed41b61158b629a5d663b5b5f59f05f
+seen_titlehash:7f623ccffd33508791892c575824b34c4b3adb525f3cc48415083c3195ba7bd9
+seen_reason:processed_not_published
+url:https://ft.com/content/784a7d34-e005-4266-8bd4-82f26298b3e4?syn-25a6b1a6=1
+title:surrogacy controversy sparks resignation of merz s parliamentary leader
