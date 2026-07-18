@@ -5713,3 +5713,68 @@ seen_titlehash:ed61dd96da24c617205cd0e2414f8c7af449423f41cc118e54a823d615a07b09
 seen_reason:processed_not_published
 url:https://ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1
 title:iran strikes saudi arabia for first time in months
+seen_urlhash:b1f66ce0e271ecbbef3a170bdd737e86f6b535dc71c5963d35766c7d1416bb70
+seen_titlehash:081121a9298e16df67aa1247159d74a7efc9c228044db6f63a3df0a611cfaeea
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss
+title:german politician resigns over surrogacy child controversy
+seen_urlhash:b569b083270090137641d6f6f4335ff33113417fe4e631b66ad9c81c04059eaf
+seen_titlehash:6fc94be198db35153672db1a3c19f43e9a24d6e73e7cebab696ea5a9381feb8b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html
+title:a very british cpac no costumes and not much trump
+seen_urlhash:b644f00946e3fb83966956289f8b7fe9a3a26b7010491068591bf810ef9864de
+seen_titlehash:70c2e289d287028fc50d756d530e93325f0de11eafe75c610f3b7af608444488
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks
+title:kuwait accuses iran of targeting civilian sites after attacks spark fires
+seen_urlhash:0506189dad1b3635f912953025ae311da6685d4bed8f1945f60ca1f800b99986
+seen_titlehash:c49c7e0d6ad11e5b21188a26fd79716a63a47595432bd7584b426a0f0f5c0e6e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss
+title:iraq signs 48 deals with us companies during pm s visit to washington
+seen_urlhash:bfbb4e55a9172742c8e496e43a96be9f85d254eb167a8bed542ee33fc386676f
+seen_titlehash:1d466b74956de91903207ae29ba5e7b667ac03cfa86212fcd40d78993aeeebb7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss
+title:china warns uk over british steel nationalisation demands fair resolution
+seen_urlhash:db389a4182a7454d0a7f22271cc4b2156270a86db7e688aa0f2c9eb6f5b829d4
+seen_titlehash:ed4235a85549ffe6d8c2803cc8ce445dbb87feec6fafbd3dad775ead3702dd70
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688
+title:josh kerr breaks 27 year old mile record in front of packed london stadium
+seen_urlhash:66daec9166239a34b1f4070170d7e9871a68bbc7b406c6086141b82ef1f8a213
+seen_titlehash:5d3122aecd5ee2a64307c4ced1050cb1a438b231206717fb12a3a6fb0f6403bd
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260718-josh-kerr-smashes-men-s-mile-world-record-that-stood-unbroken-since-1999
+title:josh kerr smashes men s mile world record that stood unbroken since 1999
+seen_urlhash:ab920ea23a90a197d8dcf926ad5f8d41973f3f0b748c9e8e3d86ad3d45f87791
+seen_titlehash:a0d777018a310ded1f67f2db0c217314af9cb718e06847e85a0dcda35db90d63
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao
+title:malian army convoy ambushed by rebels north of gao
+seen_urlhash:688ee9ee04b2419baaf21c2fb372795327d0872557f170448d9e09cbc65d4b7d
+seen_titlehash:32b53510e96792e5a6212dca6e0d45b390e198767bab23d9516f13659c6d1229
+seen_reason:processed_not_published
+url:https://dw.com/ru/обвиняемые-в-диверсии-в-берлине-левоэкстремисты-подают-в-суд/a-78019848?maca=rus-rss-ru-all-1126-rdf
+title:обвиняемые в диверсии в берлине левоэкстремисты подают в суд
+seen_urlhash:bf144835d317b463de7d8b88d69a6ac4aceb576084fcccde734d1a175eec8c93
+seen_titlehash:4980a69fd2afa68c961612dd88498c2b09595260871bf679d6fe3ab438fdac31
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/18/rial-obnovil-istoricheskij-minimum-na-fone-novoj-eskalacii-mezhdu-iranom-i-ssha
+title:риал обновил исторический минимум на фоне новой эскалации между ираном и сша
+seen_urlhash:6dafb5d22bed0ee431673cfbdb61ceb79c613bc63122dbe542f245d91c5a99db
+seen_titlehash:ecbd5e7aa73ce48ca9fb4168734ed5056cae5081649ce774abaffafc08349db6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/letchika-i-z-blogera-alekseya-zemtsova-prigovorili-k-trem-godam-kolonii-po-delu-ob-ugroze-ubiystvom-i-vymogatelstve
+title:летчика и z блогера алексея земцова приговорили к трем годам колонии по делу об угрозе убийством и вымогательстве
+seen_urlhash:b9613446b22a3464d23dcee402be39593c8899b0c629a486fd68a326641d72d5
+seen_titlehash:65a03f7b3ab16a2ba3d8a34d177c275fd6a17ca3125c5292dae547add187af9a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/18/otsenit-zamysel-nolana-nevozmozhno-bolshih-ekranov-ne-hvataet-iz-filma-propala-poeziya-proryva-ne-sluchilos-chem-teper-nedovolny-kritiki-odissei
+title:оценить замысел нолана невозможно больших экранов не хватает из фильма пропала поэзия прорыва не случилось чем теперь недовольны критики одиссеи претензий действительно немало хотя восторгов все таки больше
+seen_urlhash:8cbb35cbac94be550acf8a0a35259f40b6b0974f2c76e19f9cd4df21be5c3d1a
+seen_titlehash:d37a6958c82769cec5eead1fde8bfabd8b48a8c1ba648d2c9fff94d591cf2449
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/ozon-kak-i-wildberries-izmenil-usloviya-dogovora-s-prodavtsami-marketpleys-ne-budet-kompensirovat-utratu-tovara-pri-udarah-dronami
+title:ozon как и wildberries изменил условия договора с продавцами маркетплейс не будет компенсировать утрату товара при ударах дронами
