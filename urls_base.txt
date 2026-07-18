@@ -5333,3 +5333,68 @@ seen_titlehash:e5543b576453fb626ad00b16455142824d8c1301f41ae81d0dfbac279577cf8a
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/18/axios-ssha-perebrasyvayut-v-izrail-dopolnitelnye-samolety-dlya-vozmozhnogo-usileniya-atak-po-iranu
 title:axios сша перебрасывают в израиль дополнительные самолеты для возможного усиления атак по ирану
+seen_urlhash:8a83391391ac2c0c9d4a58e46756386e8b256c5cfdd563314612e156940d47ae
+seen_titlehash:08895e0b3a9fa182e9a70a07a35d34150d3e6c2e2229f586235b9afb2626fa01
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html
+title:indian activist on hunger strike is forcibly removed by police
+seen_urlhash:c38919aa487ca7b85b889bd8b3cb2ee1a11ed2c31411d20f970d1ae0f1a279fe
+seen_titlehash:78852b0e8231f96cec0af269c02102f8a5b83df8a9741f99f52b26096b08937f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss
+title:palestine football fans honour egyptian coach hossam hassan
+seen_urlhash:473ea22b64f3f1d585236658efb653eb62c47f922f531ad26a661158d59b691e
+seen_titlehash:400ac79bb766bf2e0d363406f5130cb2354b3fbc46ef9c39d4328126efd349bc
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260718-venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds
+title:venezuela quake death toll tops 5 000 as imf releases recovery funds
+seen_urlhash:327bd129135a8127b99d85c60f91f92e982673d457c4d0278ee570a520c57cb7
+seen_titlehash:e2a76201e9f3c5b994a750d4254eaf3b4f4b5b09507df54236e3e01d949b6cae
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260718-no-fuel-no-patience-russians-endure-fuel-shortages
+title:no fuel no patience russians endure fuel shortages
+seen_urlhash:eb2d75db064cf361644f25242c5d98f609d9cf94cc7be157e685fc2e1e2e03ca
+seen_titlehash:554a0f8cf9f71485f5858192c6d3064c147e03fb0367f2bcf6e3ee31c56da88f
+seen_reason:processed_not_published
+url:https://dw.com/ru/как-около-берлинского-беверли-хиллз-появился-рабочий-поселок/a-77886965?maca=rus-rss-ru-all-1126-rdf
+title:как около берлинского беверли хиллз появился рабочий поселок
+seen_urlhash:b4cfc74b3ed72ffc04402ee3c8488a059b3691f61b9eac9021a9e69cd1f7aede
+seen_titlehash:7bbf73af595691bb2ddd31879d166d2bc487dba8c1fc24a7f2916a0bec9e3661
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-и-иран-на-грани-полномасштабной-войны/a-78016244?maca=rus-rss-ru-all-1126-rdf
+title:сша и иран на грани полномасштабной войны
+seen_urlhash:743f81982c9f90ed34b728e0bc711fc8b75c1d9c2fe22653bdf4fd3468111000
+seen_titlehash:ec83e00115694fba90dafcf5c24137bdf2270e00b069fb7f911e37e1da8f654e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/18/wildfire-smoke-how-to-protect-yourself-from-poor-air-quality
+title:лесные пожары как защитить лёгкие от вредного дыма
+seen_urlhash:48e282e5c6d26b131538fbc903a1df448a45a3ea57de239067ed34b72df21667
+seen_titlehash:91b2b5c4badd208be05787a1a1384879d0b600246c60b0c0eeaf024f033f121e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/18/who-made-the-fifa-world-cup-trophy-the-story-of-milan-sculptor-silvio-gazzaniga
+title:кто создал кубок чм fifa история миланского скульптора сильвио газзанига
+seen_urlhash:87b3069b4407e6200f248bdc87c7f19e92d8bc62693ed668271a247009b837bd
+seen_titlehash:42932ba26162320f80d5042a5f5c8182961a40a78d1a74125e8d2538b5aa1424
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/18/zemletryasenie-magnitudoj-50-proizoshlo-na-vostoke-turcii
+title:землетрясение магнитудой 5 0 произошло на востоке турции
+seen_urlhash:53ba7e95a422ee1cb8705bf899633178de97339838214e00e482990da8962126
+seen_titlehash:8f890b3657cf8e0310c805eeb8331b7f2daf9bdf6bae75e6ba011366ceb74c32
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/18/ssha-i-iran-sedmuyu-noch-podryad-obmenivayutsya-udarami
+title:сша и иран седьмую ночь подряд обмениваются ударами
+seen_urlhash:4fb437c4bfc88ca31300e3b84622a1813f36b31ca47d720a6972ea76ef266aa5
+seen_titlehash:1434624f77f7d1992849fddf0ff5f95f36177f4cb91f286b1839cbd1971cd212
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/18/shipwreck-in-lake-constance-this-surprised-the-underwater-archaeologists
+title:средневековый затонувший корабль в боденском озере удивляет подводных археологов
+seen_urlhash:3b456a43ad6bcf82810f180fe3c5b48a85f76adf3bfe27fbb452e382fd525410
+seen_titlehash:6ba571b51f085fc2bb6aee3583d003d33de15bc18f569e4972407c3ac93cd849
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/zelenskiy-na-skladah-wildberries-kotorye-atakovala-ukraina-hranilis-komplektuyuschie-dlya-dronov
+title:зеленский на складах wildberries которые атаковала украина хранились комплектующие для дронов
+seen_urlhash:2d46f719fef568e3a49585eb3ec0509a723150bf321c7f9c9893f2869566081f
+seen_titlehash:70f17f28dc507648a94888498d779d29585d0425c13cd61efa21c3099db9cbb9
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/18/voyna
+title:война 1606 й день украина бьет по складам wildberries в московской и тамбовской областях есть погибшие десятки человек пострадали
