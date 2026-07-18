@@ -5983,3 +5983,13 @@ seen_titlehash:4f6d97c721c6fe9ce7ed7c61345c86babc65179a6ee2f68d5036285c2c11a48a
 seen_reason:processed_not_published
 url:https://ft.com/content/8f5445ab-dacb-4908-909f-277853ad0f50?syn-25a6b1a6=1
 title:burnham scraps new digital id scheme
+seen_urlhash:b636e840bce006503af8081feb3d8b1d38be32ca9759b3d2d859d5bd44290d24
+seen_titlehash:1de0703acf1825a041c6bc0b4f08168ee184818f1560a591c63840d4f64a58ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss
+title:cockroach party protest intensifies after wangchuk forcibly hospitalised
+seen_urlhash:1209abca5e457a091d64784943bffb3cb4c0d2e19dfa2eeddbed5f227746cf98
+seen_titlehash:5f0b777e188ec8c0bb39a666a5ae8559fd2abb309136ba0b2b2e37511e38ed49
+seen_reason:processed_not_published
+url:https://dw.com/ru/ракета-рф-попала-по-парку-развлечений-в-одесской-области-есть-погибшие/a-78021430?maca=rus-rss-ru-all-1126-rdf
+title:ракета рф попала по парку развлечений в одесской области есть погибшие
