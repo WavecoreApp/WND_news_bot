@@ -5473,3 +5473,103 @@ seen_titlehash:117100b16cf10f4a521b367aa2006bd0ac0714b51f72dafaddfb57f705ba49b8
 seen_reason:processed_not_published
 url:https://ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1
 title:german army looks to ukraine for battlefield lessons
+seen_urlhash:7344d7b998101c5b386d4917c67ee7501f4aeb48f4125d0bee016e3fee93cd6a
+seen_titlehash:6031f013fbeeddab50f015229e8b6b31f16f1da647f97b21c2f9e27b6b28526d
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz
+title:iran war live updates fighting intensifies with strikes on critical infrastructure
+seen_urlhash:8226f9824ace2d7632dd7f7bd4ef61e0ccf81b586debbafcc059ffabca45cf07
+seen_titlehash:a4cbdc03421b735bc0d8c0b1b7af989419bb5c2a2f1f84d9eb4acde99911a091
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html
+title:israel counters iranian spying by warning against recruitment
+seen_urlhash:c2338c90792301eef37e29747b42c2c0e1fb40ee5ff076d92414127ff0eae2bc
+seen_titlehash:ccfc19f5600c0f29cc3e861641d8f91fbe807d04b5bf2a3c20a57fd35c1e8988
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html
+title:iqaluit canada s most northern city gets its first bus line
+seen_urlhash:3fa02a88be85af95026995e51dac3d12e7295fa4a4b6051ebbcbaf965d5228c1
+seen_titlehash:bba8bbdaa9d0b2303b3c8745bc841884d270e9b1e230f93b921e29280dfd253f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss
+title:ukrainian drone attacks on russia kill at least 8 wound dozens
+seen_urlhash:7f7976b0b12157e7eae14a0311838e21aa8be6bf4ebae64b98ad778b711c1664
+seen_titlehash:8682eb8744fb990eef79ddc21f611fbf73670269a53559cca173edd3a4d1a784
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss
+title:indian police forcibly hospitalise activist after 20 day hunger strike
+seen_urlhash:95b1ac8d2b8c14a4a2e64e7cbd9da1847f52224073f91fda708292584b63848e
+seen_titlehash:ff34a94c0b86dff5865c62e4ab8ac9bec993c1e3473c47ae8a8e8e771de0023c
+seen_reason:processed_not_published
+url:https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607
+title:hunger striker taken to hospital as police launch chilling crackdown
+seen_urlhash:599b69eed4594d04359cde714446f6ea1bafe7c7b84334fb45743e250fe51181
+seen_titlehash:1caa63ac2937b167bbbfaed2ee19226ebc9c7f1b7cd0fe8a08680df3d416351d
+seen_reason:processed_not_published
+url:https://france24.com/en/ethiopian-drill-explodes-on-the-streets-of-addis-ababa
+title:ethiopian drill explodes on the streets of addis ababa
+seen_urlhash:0c71d8a4877044c70b36769f4831b45be790ae2727066d47a9a4687ad0adcea9
+seen_titlehash:fdd2d6117263aacc764991b6d3b7af840c46480f410e2d61788cda8b23a1330a
+seen_reason:processed_not_published
+url:https://france24.com/en/ethiopia-new-refugee-support-centre-opens-in-addis-ababa
+title:ethiopia new refugee support centre opens in addis ababa
+seen_urlhash:84bb49899ced3d596c3660f332eafa401f082ef0f8656b9159ee6ee10f758491
+seen_titlehash:452446b83a527ac4818df199b99b19ce235238f1aa81e1be6914d594dc3652d2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260718-why-is-latin-america-shifting-to-the-right
+title:why is latin america shifting to the right
+seen_urlhash:a7bc20f1accf3a1f9f5e2f924754658481b6b50131eb684c85c71cd2745516b6
+seen_titlehash:5c80e5a90fbdcee499daab1f6c6c88e1afa3a1c08711fbd4d52a1656840af0ed
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260718-france-cruise-to-second-nations-championship-victory-beating-japan-42-15
+title:france cruise to second nations championship victory beating japan 42 15
+seen_urlhash:0a5a9f1717b8e84c4a9285e36d19d1cffef230eaa30d83d7eda9b5f8e73266be
+seen_titlehash:2d916ea595e19f138976ae0a0b0efd9f35a3f09dc57dee588b153c5daf00e181
+seen_reason:processed_not_published
+url:https://dw.com/ru/индия-запустила-в-космос-первую-частную-ракету/a-78018753?maca=rus-rss-ru-all-1126-rdf
+title:индия запустила в космос первую частную ракету
+seen_urlhash:0120eeb1a068531d518c27d8e6e6b013bc157db0d0e9b89d1072b5cdcbac2e1e
+seen_titlehash:179cae907c2d003fac676f8e299fe0ebfdef1dc1384c2747c289abb493277d5b
+seen_reason:processed_not_published
+url:https://dw.com/ru/надеждин-допустил-приостановку-своей-избирательной-кампании/a-78018434?maca=rus-rss-ru-all-1126-rdf
+title:надеждин допустил приостановку своей избирательной кампании
+seen_urlhash:3773fabd181453107ade3b31f1780bae9c6ee124654d842e5d422a5ab6cb4bbe
+seen_titlehash:6443f2b12a88b1557294dfc1908d30e46d5195848eae71d97a8159dbc8370a95
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/18/summer-keeps-snapping-back-meteorologist-explains-persistent-heat-situation
+title:лето снова возвращает жару метеоролог объясняет устойчивую жару
+seen_urlhash:6bf2a1f227f88d7082b2edfd27936b61732105d9aec0842081f13bc476a488bf
+seen_titlehash:89f1bbbb2005929d1b005e494ab17a0e80d6059b2796dde7fe9fdf75b81b16bd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/18/zelenskij-podtverdil-udary-po-skladam-wildberries-i-neftebaze-v-rossii
+title:зеленский подтвердил удары по складам wildberries и нефтебазе в россии
+seen_urlhash:85ae6cfeb38587dd40ccbb08ba20cb949de1beb8766cc66e896b0f9a1873f88a
+seen_titlehash:82a27053c6bc604e9b9304046d47c62374ba266103afc80dd563db5bc061bd8e
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/18/sgorela-esche-odna-illyuziya-chto-kto-to-zaschitit-predprinimatelya
+title:сгорела еще одна иллюзия что кто то защитит предпринимателя зачем украина ударила по складам wildberries и почему компания не будет платить компенсации бизнесменам
+seen_urlhash:005e1ccd8738cd67f8de29ce7c0d04f310c8a45b27c771c76891a9adef9407e2
+seen_titlehash:a820582aeccba6aa22288e768db59e8971b77240af1f291ac12197b6d5bcdaa9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/ft-zelenskiy-rassmatrivaet-vozmozhnost-otstavki-glavkoma-vsu-aleksandra-syrskogo
+title:ft зеленский рассматривает возможность отставки главкома всу александра сырского
+seen_urlhash:cf9d0bc38375f35002876cec0dd37ba57e86e1e56d5e91a1a015a58422ba1129
+seen_titlehash:8c322a40bdaa666463da39144855392adf0b49ee8f945348ca72853f75111fff
+seen_reason:processed_not_published
+url:https://ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1
+title:traders are increasingly betting against spacex just weeks after ipo
+seen_urlhash:5b90ee3993c58d890aa2aabfc7f0679a433a0979e909e3ed2f4a80883092a679
+seen_titlehash:7279d27ff7921074d4af03ae52a39beb5f8f12497d13851d08f82c889c59011e
+seen_reason:processed_not_published
+url:https://ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1
+title:zelenskyy considers sacking commander in chief as protests swell
+seen_urlhash:55ab4170417149673ba3f0fb5c60a106e54686c2e9279d447c322e8cc33826a6
+seen_titlehash:ed843f5e7a25c9c233c463d3b249c4dce2a185e915977ef33370c6219e57049b
+seen_reason:processed_not_published
+url:https://ft.com/content/648094ed-1d1b-4c09-a039-fad5301ad690?syn-25a6b1a6=1
+title:the tranquil spot in rural ireland accused of fuelling russia s war
+seen_urlhash:dcc700cdbf78f8a97b7e92baf5004bc36a75f08f6ebddfac051e0cb6e404b32b
+seen_titlehash:ecb96f7006479bb79497e2300ec9058770a180b58936733b2d9d1c07ddc4d0e3
+seen_reason:processed_not_published
+url:https://ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75
+title:rise of delivery apps takes a bite out of sales for big pizza
