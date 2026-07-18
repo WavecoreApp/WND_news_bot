@@ -5778,3 +5778,63 @@ seen_titlehash:d37a6958c82769cec5eead1fde8bfabd8b48a8c1ba648d2c9fff94d591cf2449
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/18/ozon-kak-i-wildberries-izmenil-usloviya-dogovora-s-prodavtsami-marketpleys-ne-budet-kompensirovat-utratu-tovara-pri-udarah-dronami
 title:ozon как и wildberries изменил условия договора с продавцами маркетплейс не будет компенсировать утрату товара при ударах дронами
+seen_urlhash:83024bfb55f9e85b11aea9d325b615414a6055bb32e761f82c87b719ee1e39cb
+seen_titlehash:aea3a8f44608901bf543ef282dcddb94f43f08e23fe35abe9426e21a8cc99b52
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html
+title:u s strikes leave iranians isolated and scared
+seen_urlhash:08986181fa62906cf78403f6f16ffd8233261cfc756fedd7339dc9152ee2f6fe
+seen_titlehash:4979527ff0665249a0fa7209b3fbe55ff10e807cf75576f55bd78dea4bc40b98
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss
+title:armed groups attack malian military convoy in gao region
+seen_urlhash:30c6d4ab41138dec240c6af7ddf9696ddae65c0b4391e51a59b60ff05bbe41ec
+seen_titlehash:c8cea13f502354dabf251703277f470fee47e53d4ace65b42225a34132a9738c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss
+title:belgium bans imports from israeli settlements in occupied palestine
+seen_urlhash:f7b45698222596d9432fa33d19ea2ba2ab3f2adaec3895f318097a3b20f2ee68
+seen_titlehash:f40635dc2de4c41608eb3c2906d0ac1c4a06ae49a6df483c71c9a1b2eefd847f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss
+title:plumes of smoke rise over kuwait after repeated iranian attacks
+seen_urlhash:2670979749510790f94efc7e597933c5a8a4ffaed73b94ae2fa22a2c3e11a04e
+seen_titlehash:7698191ed2f6fea128e10d2032c335bc6f700a17aefb5da3dbe730726e05062b
+seen_reason:processed_not_published
+url:https://france24.com/en/gulf-council-blasts-war-crimes-by-iran
+title:gulf council blasts war crimes by iran
+seen_urlhash:77a5884585ec578405eae896867d85c72b0bdca8130b42ba7758a0f29a829f10
+seen_titlehash:f3d6fe59d5f3ec41ceefa9b4eddc638b96ed0582491156870baec12967fb483b
+seen_reason:processed_not_published
+url:https://france24.com/en/power-desalination-plants-hit-in-kuwait
+title:power desalination plants hit in kuwait
+seen_urlhash:cd045f7c6a5b54ed71795a99ff364008f50c512969b2ba35b3ca58d3a692d299
+seen_titlehash:7f23b0c1cddd4ae80ee6901a6e54e87b702b85ae0c19964156eba4d4de0230ae
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260718-pogacar-wins-tour-de-france-14th-stage-to-extend-overall-lead
+title:pogacar wins tour de france 14th stage to extend overall lead
+seen_urlhash:4961363ff5ecbf39e2c301459268a42302242a1786c2bf95b93dde9fba7e61e0
+seen_titlehash:f201a8cac275b96b6dfe447f7a0603bbc195e0c37b9b210a9cbd1d0b0fd8f3d1
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-week-in-france/20260718-french-mps-approve-assisted-dying-law
+title:french mps approve assisted dying law
+seen_urlhash:7dec031aab19d08e3b044328bc036323a4ea669e6d06a9948a52710a60c0bff1
+seen_titlehash:bde609dc904774343d08f4c4b214ec814e5939bf149c3d79bfa47dbdfaf2827a
+seen_reason:processed_not_published
+url:https://dw.com/ru/wildberries-и-ozon-отказались-от-ответственности-при-ударах-дронов/a-78020542?maca=rus-rss-ru-all-1126-rdf
+title:wildberries и ozon отказались от ответственности при ударах дронов
+seen_urlhash:67c2a56d3c65aa8b472f716d38d05772cc0d7fd6a51bfb82d5daa361e54b97c4
+seen_titlehash:a5f52129fe0488e9edbff6f159c7dc3f5c2049a90780518c6e1d165c569f5d57
+seen_reason:processed_not_published
+url:https://dw.com/ru/собянин-за-неделю-в-сторону-москвы-было-запущено-1892-дрона/a-78020404?maca=rus-rss-ru-all-1126-rdf
+title:собянин за неделю в сторону москвы было запущено 1892 дрона
+seen_urlhash:503df7839641f101dd3c805797089a2aa0aa10a628f84cd8d93bf9aa3289ac81
+seen_titlehash:17eb17a5cf7d06c8a6dc20522b80adb96dc091ce4c3dc940f55024ebd7c93a3a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/18/the-worst-week-of-the-summer-is-approaching-with-temperatures-expected-to-reach-45c-in-spa
+title:в испании худшая неделя лета на следующей неделе до 45 c
+seen_urlhash:234dc04b4f621d3bbc4d957715c1366948c6babd31934fb020ef818928ba4faa
+seen_titlehash:e201da181935b14a791f4e9849b1c93a2f754419f6f6876eb94b45d17919edb7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000
+title:число жертв землетрясений в венесуэле превысило 5 тысяч
