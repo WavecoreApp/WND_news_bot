@@ -5398,3 +5398,78 @@ seen_titlehash:70f17f28dc507648a94888498d779d29585d0425c13cd61efa21c3099db9cbb9
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/18/voyna
 title:война 1606 й день украина бьет по складам wildberries в московской и тамбовской областях есть погибшие десятки человек пострадали
+seen_urlhash:7c8a3eec983f19676056bfe4d748d15f2015ccd574fa25a07b3d3375ef5707d7
+seen_titlehash:a75b42c87e3c1d468320e9e155cb31bd1e7ac855d8e2649e96fd3c444916b5de
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss
+title:laos says it can t determine cause of tourist deaths linked to methanol
+seen_urlhash:08aa539e1dc8c865d39a93401b0841fb3e87ce940bc95181758d5509c5f4d073
+seen_titlehash:884230d99e54b555fac429ffb64e33adc43717e8cabf5bdbdc61e31361badcb0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss
+title:control threats disfiguring surgery my life inside jeffrey epstein s cult
+seen_urlhash:a0ee21a9216036bf705a8726aa63d71a259a7597a5fa77b8b863c6631ee5362a
+seen_titlehash:839dddf32279d147bac60558e3908d2e15150c40253f279917aef943d21ef3c0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/world/canada/freedom-convoy-ottawa-lich-wildfires.html
+title:freedom convoy leader under house arrest wants to visit the white house
+seen_urlhash:7664ab8c1ac46600167c7a765d6ae0e5528578ab14caa912505f0bf600e3a9fc
+seen_titlehash:d1a07f3dbff91e5e17bdbdff5fde2fe5980c359908e72cda1640d77b6ebbb092
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html
+title:russia bill broadens sanctions but could fuel fears over the dollar
+seen_urlhash:ddfced8547c61e3d87bedf112a647226036b47ed41ef863589225acdcda07764
+seen_titlehash:148a93362541137e07381b0611a83bcf9496793e3c6c7c7742e1af9b45621b90
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections
+title:us democrats divided over support for israel ahead of midterm elections
+seen_urlhash:19dfec6abd4e0402b2b1189f03f91b0c8385e194e59dbcde077411f93a738fbe
+seen_titlehash:89de747490e76825a5c41f3db0e0e1b303a06da752aa5d6ecbe35ad233944f2f
+seen_reason:processed_not_published
+url:https://france24.com/en/france-2-000-hectares-lost-in-forest-fires
+title:france 2 000 hectares lost in forest fires
+seen_urlhash:8f9debc5e7d89db49fa00310daf1556c09ca453cef440abba497b06c5c9dd805
+seen_titlehash:64167c928c97f8055235a0fc488c30887b83cb5576082ac81300a0f1ed45395f
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260718-ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day
+title:ukraine protests over fedorov s removal continue for a second day
+seen_urlhash:56fed88699f1a6b67d3b9e3f6bf6e7fa8fab7c3fcc38485063e490f71079b506
+seen_titlehash:e520606a313b195f2bb0ff8d3ed8a618ae9c87fe698fa272fe251d65b65a151a
+seen_reason:processed_not_published
+url:https://dw.com/ru/крупный-пожар-в-норвегии-сгорели-более-100-жилых-домов/a-78017874?maca=rus-rss-ru-all-1126-rdf
+title:крупный пожар в норвегии сгорели более 100 жилых домов
+seen_urlhash:6ff20c3ef906aaf0e201a2d9467145dca2c9e218a39ca7b67f255936727c1f5a
+seen_titlehash:b699c50f2112c58f119cd01a050132e95e1a097b4356fb312da29cf135547e10
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-склады-wildberries-использовались-для-хранения-деталей-бпла/a-78017779?maca=rus-rss-ru-all-1126-rdf
+title:зеленский склады wildberries использовались для хранения деталей бпла
+seen_urlhash:ae3dc081b636891c87c426e34a9c35eae1db6cf091ce80f96bd8d3dd249a13c3
+seen_titlehash:38796bc9b1dfd79dc5c5851cf89943b03a53687b3c78000f5961615e82c18eae
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/18/donald-tramp-raskritikoval-taktiku-tuhelya-v-matche-protiv-argentiny
+title:дональд трамп раскритиковал тактику тухеля в матче против аргентины
+seen_urlhash:106293ca048c9de50a03a2146dba9fc3d9ae6b0dba8aafe3e65327aaa3414d99
+seen_titlehash:f786535eeb8d86dbc6faa04cc0077c59674b6926853fa28f2cfdbe4922945010
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/18/didier-deschamps-squad-top-scorers-ranking-the-stakes-of-the-third-place-playoff
+title:последний матч дидье дешама гонка бомбардиров и интрига матча за третье место
+seen_urlhash:a00ac30d24d4d200f41d6f2f15304e48b32472758da2fbfd51ab9d7c3b8edddd
+seen_titlehash:f67d177cab14a5dfa7c3d094e9d8164b80f22f13d1b3148326eef075a232d90b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/rossiya-atakovala-torgovoe-sudno-u-beregov-odessy-pogib-odin-chelovek
+title:россия атаковала торговое судно у берегов одессы погиб один человек
+seen_urlhash:2d8d531c72c9d41825f1a8a100466eb3c78bd75f964dfcc5c9c71e47076fd632
+seen_titlehash:0f28bbaf49611d9c8df31d7d3be961cbeeea6107ef4b3cf6c0bd9db7b931c0fa
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/18/udar-vsu-po-wildberries-fotografii-i-video
+title:удар всу по wildberries фотографии и видео в подмосковье после удара по крупнейшему складу wildberries в россии все небо заволокло дымом его видно за 50 километров
+seen_urlhash:3da9ba9d1c2d9eb0dfc472b08df9b4503d056139fcd194607722f5b759d197cf
+seen_titlehash:41dbe31a0451e6fddf2342d12684b331b272d14907e3e4dc38604d37e7d5eb78
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/18/ona-stanovitsya-opasnoy-dlya-teh-kto-v-ney-uchastvuet-boris-nadezhdin-dopustil-chto-priostanovit-izbiratelnuyu-kampaniyu
+title:она становится опасной для тех кто в ней участвует борис надеждин допустил что приостановит избирательную кампанию
+seen_urlhash:0fc58b2efd9047c7c089ecdc15b6ea38b8a965546f72dac15b76a41bc9e36fe5
+seen_titlehash:117100b16cf10f4a521b367aa2006bd0ac0714b51f72dafaddfb57f705ba49b8
+seen_reason:processed_not_published
+url:https://ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1
+title:german army looks to ukraine for battlefield lessons
