@@ -6698,3 +6698,43 @@ seen_titlehash:8ae8fc63070976d757b793e651a5e754f28cedc1d55a7eef42a891dce9c1b572
 seen_reason:processed_not_published
 url:https://ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1
 title:eu faces crumbling support for new russia sanctions
+seen_urlhash:8667d43fcd9d193d4bed73e544765a840a21b2ff3b16c76437981926fd3d1e6d
+seen_titlehash:da508142a31509d7220d0336372ed92e9f232ff7be8670d37600b272dddbcc0e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss
+title:neighbours actor terence donovan dies aged 90
+seen_urlhash:d9c61e55458bdea83f02840274036ac1c6aa8e0fe0231e77b391f0692c2adc22
+seen_titlehash:1d989915ea78708af3287e59a7c33e9a7b9a1b0ce93bca8a29f8ce46769e52d8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss
+title:israeli settlers torch homes and mosque in masafer yatta
+seen_urlhash:0cb1f7f11c368e860d76e2e23015d41decdbe1681bd150d4921f8be797540e5f
+seen_titlehash:f19073683cd8d6d2a91ebadb57617904cf24b14a5645bdc049b9eab317f4fa62
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss
+title:5 6 magnitude earthquake hits peru
+seen_urlhash:70ad4c034bd71ef5ac8802a64a589b2a66fe0ad7857c059f58b36c050e405757
+seen_titlehash:69e9cc4fc453a87f120ac0749df7a6e577abac90c26082c1e941ff027cea52d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss
+title:israel uses law to destroy palestinian education in east jerusalem
+seen_urlhash:32c32fe25d7b8b6a8c51c5f08f075717fc08ceef9d210c5f66382cbcb1cad0f7
+seen_titlehash:29763fa0fc7351744333c6bfddc09e70dfd2b32e9cdff27a83a613350565571d
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260719-olympic-champ-evenepoel-wins-tour-de-france-15th-stage
+title:olympic champ evenepoel wins tour de france 15th stage
+seen_urlhash:a18006f3550be7c8b27059e95998d9578e775edcd96dafb273837cfa64a9d203
+seen_titlehash:ad9410c38859521c858afe68cd79064c1fd2d39c335596193565b83399454366
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-иране-сообщили-о-казни-двоих-участников-протестов/a-78026731?maca=rus-rss-ru-all-1126-rdf
+title:в иране сообщили о казни двоих участников протестов
+seen_urlhash:66e87a8eb0398227ee1a12cb74e34e7bfe28ea2a678332cca31e6af36b44b59e
+seen_titlehash:067688fddd28228c0cca92e33beaeec23aa173303591136eddad73d2668f2168
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/19/greece-mount-olympus-unesco-herit
+title:олимп претендует на включение в список всемирного наследия юнеско
+seen_urlhash:360e3e0b2640d6fc69c8444c4a2951017368c2ba18b255cad87f8211e76c39dd
+seen_titlehash:f56064741b33ef8aed5b7b694d048b27585f046d9d9ee98b2f5fe7c46f021639
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/ostavalos-tolko-smotret-kak-sgoraet-tovar
+title:оставалось только смотреть как сгорает товар после украинских ударов по складам wildberries тысячи бизнесов оказались под угрозой разорения вот что говорят предприниматели
