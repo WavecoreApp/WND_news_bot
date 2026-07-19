@@ -6818,3 +6818,38 @@ seen_titlehash:48816e32569427fa7f04d4f0bdce547b46022fc6c6ad7202d8c66fd15f82352d
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/19/turistka-iz-rossii-rasskazala-chto-v-gruzii-ee-podrugu-izbili-za-russkuyu-rech
 title:туристка из россии рассказала что в грузии ее подругу избили за русскую речь нападавшего задержали по версии полиции конфликт начался из за того что девушки мешали гостям грузинской свадьбы
+seen_urlhash:a6e0f1fbfc78b922a692186a6fc3d3e0e5caf8c9e0a71df8a9b7356f540b65df
+seen_titlehash:03c3cc2322bd6ccb89e4298fbcd74f3c427b2d37fe27d29d4adc3ed7bf862f18
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana
+title:dozens missing after passenger ferry sinks off coast of guyana
+seen_urlhash:bd62cf9940312fefefca33af2e468c59cac5efbcf1bb852c5509947c3d46676d
+seen_titlehash:e462feb4c6b52719e73bb766c31a04a94d0251243f4aa755c4081b305fe55291
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss
+title:the story behind gaza s theyliedtoyou campaign
+seen_urlhash:07c6c7631d1e9059ab66a53a2d8a399b13f7e5a22723d83f2736cdf5c183eaf2
+seen_titlehash:73aedbea1b5a5294407fe1f4a5ef4d2175badea26d915145d0259ec5d5825f8f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/lebanese-food-influencer-sentenced-to-life-for-drug-smuggling?traffic_source=rss
+title:lebanese food influencer sentenced to life for drug smuggling
+seen_urlhash:b5cfacbf14934d9b0e7979355b135c414b0856f41750e4cab96ec257c29da940
+seen_titlehash:53b6715fec09ed0b1e28ac72ee591713c181f0ce6d7f3f8b9012fc996f90e2bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss
+title:sacred unity iran s supreme leader calls for calm amid political divides
+seen_urlhash:6ef57f7394c00b00f13fb7d41bca16b1ea953d887b755c36eddf1701da2b2540
+seen_titlehash:d08820064cb0d617c644a88a6cacdfc72309f173ad62d36f8c3cd27285a124b3
+seen_reason:processed_not_published
+url:https://dw.com/ru/крупным-компаниям-в-ес-запретили-уничтожать-непроданную-одежду-и-обувь/a-78027595?maca=rus-rss-ru-all-1126-rdf
+title:крупным компаниям в ес запретили уничтожать непроданную одежду и обувь
+seen_urlhash:c3ae5efe46bac5708b02f03fbf54e3b619a23172a6d5ab8e40e9b0bb5a6ccc4f
+seen_titlehash:90fd91c7a665e684221bf0fdbba68ebf743674635d2ba0c9c99bea24ee8236e5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/bratislava-pride
+title:лгбт прайд в братиславе собрал 10 тысяч участников
+seen_urlhash:df046e17a4ea5eefe4c95163b67dafd5dad5ff442669e390cab6a91edaaac721
+seen_titlehash:4489ac609e7c8843174e1f871f62a838ce1a38476bbfc912ffbe1464dc041d4a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/heading-to-the-north-pole-for-the-first-expedition-of-the-tara-polar-station
+title:курс на северный полюс первая экспедиция станции tara polar station
