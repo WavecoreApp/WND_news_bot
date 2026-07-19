@@ -6853,3 +6853,78 @@ seen_titlehash:4489ac609e7c8843174e1f871f62a838ce1a38476bbfc912ffbe1464dc041d4a
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/19/heading-to-the-north-pole-for-the-first-expedition-of-the-tara-polar-station
 title:курс на северный полюс первая экспедиция станции tara polar station
+seen_urlhash:5bf966f512add9dd3cb372eedf14b9209f555f260e55b84fdf7979a11b99db88
+seen_titlehash:20c5773f9720e3da0968a33fe23fae97cb0c4245bb756506d88c6df80bc92a41
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/19/world/zohran-mamdani-interview-world-cup-final.html
+title:a conversation with zohran mamdani
+seen_urlhash:67ff084406427376eb451f999e289b2fb8d314d1cd4b91dc7788d314b6975162
+seen_titlehash:7e8dcf9a10784cf5fcd8fa6aa1706f5f361df6b3499ec1d68c095d56d37ae7cb
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us
+title:iran shipped billions in oil during its cease fire with the u s
+seen_urlhash:b8d71ed7d28e28a679b540a0c76a14503b7f829e15f5d8fd42738ab3cd63f541
+seen_titlehash:33f369b9a020fd58263e296b825a01a8c66665e0f93994079336941173383416
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb
+title:news live pm says hanson should not talk australia down overseas private schools cry poor in new ad campaign
+seen_urlhash:a37e6a8935388a55d3632945b4c75b1e162d671a8796f41f1287a8a0893506a5
+seen_titlehash:84de6c519a7e67a8f07653109bfa2bc33f7a74feafb8d8896e4efc26eacc1df1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss
+title:israeli ministers join march to gaza to demand return of settlements
+seen_urlhash:cc393442bfd24146a45c0095ccaf5b293160febe458814dc35e7fe24fd935d9b
+seen_titlehash:3cc94d41795384a512bd78bfe484235aa7300b45114a45c848dfad69a246dbcf
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss
+title:andy burnham s in tray the challenges facing the new uk pm
+seen_urlhash:a199754b8f47cf03c390fc80aa1fe72e291dc250bef9665e5aa4500f4c50640a
+seen_titlehash:41304391e8075daf88f61bbde5a271522a24c2395d4858d16e35d0024a55b08a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss
+title:twin earthquakes strike peru killing at least five
+seen_urlhash:698c73718937373a2963aa4e10d5038a64ead8cb0088b6aab39c26670e9eac07
+seen_titlehash:967df880be89a0a1f48e980fee7eaf8802b312c85d103174774af9840440eeab
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss
+title:the uk gets its seventh prime minister in 10 years
+seen_urlhash:af1054720d3873c9ff8cf6902e09fc556db7862340ede47cd841302a49f205af
+seen_titlehash:05933d597cc368749d64d989a1f4fc56a23f53308f8691f94c38907746f9dd10
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss
+title:five passengers found drifting days after boat sinks in indonesia
+seen_urlhash:3ea8a46eb24ffbfc50286e8ae60d127889ea403f603b62a21fb45b8169316eae
+seen_titlehash:e108b279fee4c769bfe81e7cab1b97dc9bce7d758e0bddaf0bbfee253478f6fe
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260719-india-bans-march-on-parliament-by-cockroach-activists-risking-a-standoff
+title:india bans march on parliament by cockroach activists risking a standoff
+seen_urlhash:abaff9298b1f3d341f7e3cfd79fcb33b826a29928926cb3bff31c322a55bb8f0
+seen_titlehash:3bce42ca56e100159be586f40fb25d13c79cb2b12a17f2b92db475fa98bb4a6e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260719-us-announces-death-of-another-service-member-jordan-summons-iranian-envoy-over-attacks
+title:us announces death of another service member jordan summons iranian envoy over attacks
+seen_urlhash:9f6b33cc694536e9c063c713049d7432a7cf11f09165a4629ca3cacc0ac183fa
+seen_titlehash:7ad2565296b1137b67d45ef684ffa8168e910b59c1788b637fc5438b24049ea7
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted
+title:israel says iran missile towards jordan s aqaba intercepted
+seen_urlhash:c343d54dbc36306d9e60dd05cc55cbf6c7f9a1b6e627d015873f2a8905dd1438
+seen_titlehash:75decef334b7a709f2fc01828c689ba9cfe067560c1946a333759a4769057466
+seen_reason:processed_not_published
+url:https://dw.com/ru/рф-атаковала-иностранное-судно-в-черном-море-6-моряков-погибли/a-78028852?maca=rus-rss-ru-all-1126-rdf
+title:рф атаковала иностранное судно в черном море 6 моряков погибли
+seen_urlhash:4b3f9c99772a058953be32de9961893d15126676e3e8f668bbb9bebadb6eb89d
+seen_titlehash:41023adad5835d1f116254cb4e0f17f28b83bdc763d95b336e15af0130830e94
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/spain-argentina-showtime
+title:шакира мадонна и bts зажгли в перерыве финала чемпионата мира
+seen_urlhash:38022ccf42fd1013c8e09dc7e8e0cb504efc7bd683116c747d643579fa233ae4
+seen_titlehash:268d080cfe66f8653749b8fd7bfc34d44a063e206810111a4313d1e66b31ff7b
+seen_reason:processed_not_published
+url:https://ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1
+title:us death toll climbs as iran war expands
+seen_urlhash:d8345384309ed78de0bff48367e0d05f712c5576e973efe24e1c202c2e0504bf
+seen_titlehash:54caa26c6f9c207db8434ae1856330ca8195f3e99e531ed5118fa1a1e9b25530
+seen_reason:processed_not_published
+url:https://ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3?syn-25a6b1a6=1
+title:andy burnham plans beefed up control centre in downing street
