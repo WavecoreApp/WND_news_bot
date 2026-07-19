@@ -6738,3 +6738,38 @@ seen_titlehash:f56064741b33ef8aed5b7b694d048b27585f046d9d9ee98b2f5fe7c46f021639
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/19/ostavalos-tolko-smotret-kak-sgoraet-tovar
 title:оставалось только смотреть как сгорает товар после украинских ударов по складам wildberries тысячи бизнесов оказались под угрозой разорения вот что говорят предприниматели
+seen_urlhash:854c483196592bd9b7c1fcf4c4e44f6a9d2afb29e6cb2a227d1d1491cc6d889c
+seen_titlehash:a1b1a78c5a46cda9da07a5dc0aa717354c1741b8f6597aea1592e1ad3765d6b0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html
+title:the u s is sending more warplanes to the middle east officials say
+seen_urlhash:67efa0657ce73dfa130d1a198b9acb95d9c1cf84156734083f374d30213e0646
+seen_titlehash:39404e24e509e58d41d4e73bce6b7543bf4107a45416fd72e2fa7f2cd4ac05e9
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people
+title:5 5 magnitude earthquake hits peru s andes region and kills at least 5 people
+seen_urlhash:d45dabd39618d40b143e637eb8448791fcd94e856ccc42a8f695bac9201bf9d0
+seen_titlehash:1395d86cbf22564c52d623a734d9391723c20713cdfddddd7ae435f4159e65ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss
+title:syria s al sharaa reshuffles security and intelligence leadership
+seen_urlhash:2052cea948a74f1a0e291285e6fad4caee6784a015eb6a959025d3bb14ea5204
+seen_titlehash:24e09cf462e2f4194bfd708a04abee5cce57e3ee890c2f24a53b8271e92ad47d
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-с-ножом-на-празднике-в-баварии-восемь-раненых/a-78026870?maca=rus-rss-ru-all-1126-rdf
+title:атака с ножом на празднике в баварии восемь раненых
+seen_urlhash:f36b1c62c5de4469e54c64c1e4fba9eeba44e34cc560cf7c5ef0a9dde62426da
+seen_titlehash:01f36c927fa3deeaa8b7ee62e46284c109f8412b4639ed009a49f5c4a17b2bac
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/etot-chempionat-mira-po-futbolu-okonchatelno-pokazal-messi-velikiy-esli-ne-velichayshiy
+title:этот чемпионат мира по футболу окончательно показал месси великий если не величайший причем независимо от того кто победит в финале
+seen_urlhash:93cf3004d456349b6bfb8f558faf89963e43c246db465f9ae0efc64921def269
+seen_titlehash:9217db7c376b04f23b3cc31e09900d6656c05df37902b4f29b8e344c01b6f902
+seen_reason:processed_not_published
+url:https://ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9?syn-25a6b1a6=1
+title:boeing says it will be ready to fund new plane programme by 2030
+seen_urlhash:7b5444c8cee01a20b20de0bce883123922bc0be4a05f12ec3921227ad1c940e6
+seen_titlehash:b4ba8213c9fa3cdd3c95808331d76ed5f00fe9cf625c6c627f85ea353e7a6a5c
+seen_reason:processed_not_published
+url:https://ft.com/content/0b2af747-f298-4740-a3d2-7165f1f687be?syn-25a6b1a6=1
+title:burnham s british reboot begins
