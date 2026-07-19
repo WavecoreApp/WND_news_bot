@@ -6593,3 +6593,108 @@ seen_titlehash:66e3a8766184d58c408f385a3cc5165d0799ff010f791afa8c4d31b7feff6ae8
 seen_reason:processed_not_published
 url:https://ft.com/content/29985fc4-db18-4799-ae3c-59877a6c5bc9
 title:india s rupee problem has been misdiagnosed
+seen_urlhash:c6e0a1e1913a2d80933a616325cacf1c3ebe6a60e5cc89145bc9ea7550d3f5a7
+seen_titlehash:4d086e67f3e91df508877cfe1a51eb7381a9d7c9e3853a2b7c134cbb88b862a0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss
+title:the 1975 s matty healy marries model gabbriette bechtel in los angeles
+seen_urlhash:e37beb89dc16e61f67d527e0cf250b6f47cab605a82eb8599f787527e8ee05f1
+seen_titlehash:b96cc70b8e8124c68e12471415a51b96f49308e26d108b2320bd9b99bcc82e55
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss
+title:health officials identify source of us explosive diarrhoea outbreak
+seen_urlhash:c8b934998ddc8516e1594a93ed0adb49d07869772dd57fdb984883f5fe4beae5
+seen_titlehash:511ad3fa7dc530d914f729c917ff4d0558ccb300e30c7de12f40c6bc08ed4d91
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html
+title:increased cooperation with u s has put jordan in iran s cross hairs
+seen_urlhash:f00c274d8d04647ded0a128bde1900739cb7c6d206226a9351e141e3b97f3919
+seen_titlehash:f7d43afa1f8e683f32922ac28af09152ee3830d82cf6bbed9da665c9a2ceff42
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs
+title:australia s life dissatisfaction levels double as wellbeing poverty reaches new highs
+seen_urlhash:766e2408ef9c83f74cb02981e749466ef88b682e18da3dd600853c4ddb674979
+seen_titlehash:5e4da4fae8247c19b832bfa4519e4ade28495523b4a6f0a258749c5286d2d2cc
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment
+title:australian and nz safety assurances about asbestos in play sand were based on supplier s own assessment
+seen_urlhash:7e52b856a7633f289e9d68ff6b6d7d645e95128c5a8e160dc904a642b7aeeb15
+seen_titlehash:226baae5985190672de7743b22eb79afeff46a903b69c46e291e4e03d02065b0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/talk-to-al-jazeera/2026/7/19/designing-cities-for-a-hotter-future?traffic_source=rss
+title:designing cities for a hotter future
+seen_urlhash:35eb5d095f63f2592993f645a48f5c54885d10f46618edf1bdbe68f143f6a347
+seen_titlehash:7de9d45fa08c28ceacd1ef2292f15577886a0cceab816b48b859afd613aec899
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss
+title:tate brothers arrested in the us
+seen_urlhash:27ee1e959b2640f078e9d58c376f998631b0e7436292bcf08a43511e6411c2a1
+seen_titlehash:8bdcb6cc41d11fd6b302d2ecb92f4bc003a4861b5b3c544ec403e06f2875756b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss
+title:iran attacks us gulf allies causing a fire at kuwait power plant
+seen_urlhash:f4362d72f937ebc9fe9c4376c80fb674b2507aaec049268c98c703b8f21ea01e
+seen_titlehash:c76e1a5999045daace7c04bde8fd36f0717149edc27efecba80123838b8a9219
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss
+title:who controls football in palestine
+seen_urlhash:6efec929f2cf7b8d50b786d6bddd392b9b8740120b28baace07bab114f985ac7
+seen_titlehash:880a371ac1c202657f4124ccc0c2c756d3d9703186e48f8564793d16273ee46b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss
+title:the story behind football stars messi and yamal s viral photo
+seen_urlhash:6b0809244c13e1c3af1f427c14c43d83e94ed044043269f8b4296537cd6f4639
+seen_titlehash:dd279cf3d90f0ff15f0e85127008cda74ee1fb25d4c126a6bdb97adc9a68bbc1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss
+title:why is china protesting about the nationalisation of british steel
+seen_urlhash:fbf5c6d20cae870be4e336d9b0ca2f5e77fc45a7c3144d595c6ef3dd114c1ae0
+seen_titlehash:36b6b2f5d1e3a1b94164bd331bf12f566be732393894d80d9bab30d0ce55fe1e
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260719-denmark-s-jonas-vingegaard-withdraws-from-tour-de-france-after-fall
+title:denmark s jonas vingegaard in second place in tour de france withdraws after fall
+seen_urlhash:fbf5c6d20cae870be4e336d9b0ca2f5e77fc45a7c3144d595c6ef3dd114c1ae0
+seen_titlehash:36b6b2f5d1e3a1b94164bd331bf12f566be732393894d80d9bab30d0ce55fe1e
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260719-denmark-s-jonas-vingegaard-withdraws-from-tour-de-france-after-fall
+title:denmark s jonas vingegaard in second place in tour de france withdraws after fall
+seen_urlhash:e2bc39733e32d0a2a7a1f1b07fe6a8f49378c39abca9d1e2df57466d2d11abe3
+seen_titlehash:f7c65b7165b0876a3bca7d868b4bb8d9feb788e106b2929ce488ff6446691526
+seen_reason:processed_not_published
+url:https://france24.com/en/russia-hits-kyiv-with-ballistic-missiles
+title:russia hits kyiv with ballistic missiles
+seen_urlhash:defce3648863a1d84b24b5bdebbbf1e170313f267c430a0a7acac71ac73b1286
+seen_titlehash:0a61790791da9d7b3ae2aab83297b0e23b8ec70c92a71a2cf0734c2c9534ed69
+seen_reason:processed_not_published
+url:https://dw.com/ru/власти-ботсваны-заявили-что-ее-граждан-массово-заманивают-на-войну-рф-против-украины/a-78026689?maca=rus-rss-ru-all-1126-rdf
+title:власти ботсваны заявили что ее граждан массово заманивают на войну рф против украины
+seen_urlhash:a59bf9fa55cb53612ad6525a4b87accd8f227497b251fa790bc3548ed5f0eb07
+seen_titlehash:9850fe07ac7aff0cd077a53cdf880cc77af18e2f553d08d66cb1cb49f11a0164
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-рф-арестовали-ученого-физика-по-делу-о-госизмене/a-78026461?maca=rus-rss-ru-all-1126-rdf
+title:в рф арестовали ученого физика по делу о госизмене
+seen_urlhash:67b368282c53bbb3bc6cb00d90e24a92d5decb203f6421aedc6a695c55ed6f2b
+seen_titlehash:24a97c5137b0e3a196652f0df584f7fafeb2c7322b8257d895a4c10fddbef3e0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/v-moskve-po-delu-o-gosizmene-arestovali-uchenogo-instituta-roskosmosa
+title:в москве по делу о госизмене арестовали ученого института роскосмоса
+seen_urlhash:c4f2943ebefbd3b202b7b490a421041276fcd4ac3af4341bb8fced6f46ae8bae
+seen_titlehash:9748019bdb9d1c130256aa9d228834548765655d08f8d02c174a967d943f15a1
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/prodavtsy-wildberries-hotyat-kompensatsiy-za-sgorevshiy-tovar-posle-udarov-ukrainy-kompaniya-v-otvet-obeschaet-skidki-i-lgotnye-kredity
+title:продавцы wildberries хотят компенсаций за сгоревший товар после ударов украины компания в ответ обещает скидки и льготные кредиты
+seen_urlhash:d4c0ba759d90c1479ec017965542ff9d82adadba046e1c3aa2d566acfa8a7da2
+seen_titlehash:6cabd93019fd5274220eac751441351480994f399e52d98c05425b076d25a1fc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/ya-ne-gotov-podvergat-risku-teh-kto-menya-podderzhivaet-boris-nadezhdin-ostanovilizbiratelnuyu-kampaniyu-v-gosdumu
+title:я не готов подвергать риску тех кто меня поддерживает борис надеждин прекратил избирательную кампанию в госдуму
+seen_urlhash:ca73f0f2ed4eaae135d2af98e3fb6756286d7268fc06465d082d4a2d27ace25c
+seen_titlehash:29273a21e8eff83e20c1262f831185ece1c8f0c809f66e36aa562b5e4e349995
+seen_reason:processed_not_published
+url:https://ft.com/content/79160822-5eb7-41c1-b9f7-a2a447ecb378?syn-25a6b1a6=1
+title:uk must focus on insiders vs outsiders not north vs south
+seen_urlhash:2e3392a84d16d7b679fcd6a9e1bed6c74f3a94ecc4764000e313ed6ba78bd786
+seen_titlehash:8ae8fc63070976d757b793e651a5e754f28cedc1d55a7eef42a891dce9c1b572
+seen_reason:processed_not_published
+url:https://ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1
+title:eu faces crumbling support for new russia sanctions
