@@ -6483,3 +6483,33 @@ seen_titlehash:7c14b5609f8ece9c1fcbdf0d8a8a8c720c5e615162e50a464394c4099c7e656b
 seen_reason:processed_not_published
 url:https://ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1
 title:us day traders flock to the most dangerous product in crypto
+seen_urlhash:12365ee307852b8c1151771c6b43eb1db3a035d59bd3dee43fe793abdfab4585
+seen_titlehash:437bc49db81dc6e1867184a2a991d7e47c5edfddc13ee621f97051b22dd45e14
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz
+title:iran war live updates u s and iran edge closer to wider war after u s service members killed
+seen_urlhash:0db0eb9ff5234ab49171dc382eff836c834bf3501bcc3004696770e79c4cd617
+seen_titlehash:3db5ed9a7018e56dffde01177db5bd08ed168af4696a80bdca06576c37a4eda1
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton
+title:government use of automated ai decision making to be curbed under new australian rules
+seen_urlhash:b01503284b2cfa0a9060bce07ec60cb44fe05a28d925e71b9affe60e39f39004
+seen_titlehash:c22b5c90b1d32f59c77ffbc061dbb7b3247a08e94eedf96503c8a455df307fe0
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss
+title:india s cockroach politics is no joke
+seen_urlhash:cf0da5d93c7e9c043bd7bf0b867ce011a883ceeb3183d41a6fd88e4497476681
+seen_titlehash:de3db701e2206b43c70e94068ac0ab7b9b052bad83078ce3ccb2bf8fe50ffa5f
+seen_reason:processed_not_published
+url:https://france24.com/en/europe-extreme-weather-fuels-climate-concerns
+title:europe extreme weather fuels climate concerns
+seen_urlhash:579effc76c430446ad5f8128e31650bfda81e6d0b0b69b0e857da1825e91c8eb
+seen_titlehash:7a6bbc8f784ee713975a1c4d674be17428773e9ea665050a780bf216d0e028c0
+seen_reason:processed_not_published
+url:https://dw.com/ru/надеждин-в-интервью-dw-мне-заткнули-рот-выкинули-из-выборов-в-госдуму/a-78025416?maca=rus-rss-ru-all-1126-rdf
+title:надеждин в интервью dw мне заткнули рот выкинули из выборов в госдуму
+seen_urlhash:69202f0e50513f873722ffcf24c557b24be84ace36f2fee7fd3c21f7ccca8874
+seen_titlehash:6809a597eefdf1abe0e011e6cc8279bf88e61fe5da0551761c52ea90ec248b75
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/19/current-survey-every-second-top-earning-german-is-considering-emigrating
+title:опрос каждый второй высокооплачиваемый немец подумывает об эмиграции
