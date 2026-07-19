@@ -6773,3 +6773,48 @@ seen_titlehash:b4ba8213c9fa3cdd3c95808331d76ed5f00fe9cf625c6c627f85ea353e7a6a5c
 seen_reason:processed_not_published
 url:https://ft.com/content/0b2af747-f298-4740-a3d2-7165f1f687be?syn-25a6b1a6=1
 title:burnham s british reboot begins
+seen_urlhash:516193dc6557abb2600333ffeb4ff305ce2813f692dd7e7965861e0d63f8976a
+seen_titlehash:19723de34a5e788d746f99630cbacb732e8b4adf202c5a048b1d285d98a9002a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/19/world/americas/peru-earthquake.html
+title:earthquake in peru kills 6 and displaces hundreds
+seen_urlhash:aa6dc4134043e68f70e617344b839390405589c74a3b988941c83e5ae75a727f
+seen_titlehash:a7930151b8433efc6e0a5ddcb9aa49a2f1ddaf82a076fcce7d97a07b185dd89a
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates
+title:israel watches tensely as the fighting between u s and iran escalates
+seen_urlhash:5e26dbc50717faa917355d4bffbbb3443c809581c3bd5ad12682d6a89b372d47
+seen_titlehash:c7b6231c56d2754b0c670fc312e7b8a74f75dd2a721b4b6ff7e0cf47956fdba5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss
+title:at least 50 malian soldiers killed in attack on military convoy
+seen_urlhash:1f96dc132e4bafc75888b7b64dad16ed05adb391d4306f3803f1e361bbb6662d
+seen_titlehash:0c0c6ed99c6b756582b574f9fa92e93cf594d91551cbd2f5409f81b2082df92d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss
+title:lebanon s president joseph aoun meets rubio ahead of trump talks
+seen_urlhash:c6afed6560a1aa4de304b87a8fa4561641aefb86d9f6722ef3a5a6e6f913c681
+seen_titlehash:962d3c3588bd1de65bfe209bdb4ec638e58f3af49a8efeb82ef9a0325d798a33
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/upfront/2026/7/19/what-happened-to-the-jewish-left?traffic_source=rss
+title:what happened to the jewish left
+seen_urlhash:15ca5e2c96ac29d13beda754c9a8d7be75e4ffe6625afb22bdd8524504d7c2cf
+seen_titlehash:7fd5baeaf8f7d8770ade36953d9e09027acdc565ffe0cba900797dc0f718cacc
+seen_reason:processed_not_published
+url:https://dw.com/ru/мерц-не-исключил-кадровых-перестановок-в-правительстве-фрг/a-78027209?maca=rus-rss-ru-all-1126-rdf
+title:мерц не исключил кадровых перестановок в правительстве фрг
+seen_urlhash:95dd489f2ac38f5bc5ddd5b63dfaae0354ddbfbb3a77dabb7a5c962b67d4fe09
+seen_titlehash:f69efcd5377358c7f20c3c69ad802ee101a8b1abd0a42e5b09df6c69a31d21d3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/v-ukraine-chetvertyy-den-podryad-prohodyat-protesty-iz-za-smeny-ministra-oborony
+title:в украине четвертый день подряд проходят протесты из за смены министра обороны
+seen_urlhash:277a4b4432f7cd092a3a6cc1d55a3e8f91d7d98bedae4077b7a875d32dea06e8
+seen_titlehash:eb232d716ea1508dddae79d1a18f7de77acf0000fb97242daa46d79c4d3a9b1e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/v-ukraine-zayavili-chto-rossiyskie-voennye-nanesli-udar-po-suhogruzu-s-zernom-pyat-chelovek-pogibli
+title:в украине заявили что российские военные нанесли удар по сухогрузу с зерном пять человек погибли
+seen_urlhash:08f0722bab485929117140e45a44c630ef1b7d16a82622402e03dd4022907b1f
+seen_titlehash:48816e32569427fa7f04d4f0bdce547b46022fc6c6ad7202d8c66fd15f82352d
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/turistka-iz-rossii-rasskazala-chto-v-gruzii-ee-podrugu-izbili-za-russkuyu-rech
+title:туристка из россии рассказала что в грузии ее подругу избили за русскую речь нападавшего задержали по версии полиции конфликт начался из за того что девушки мешали гостям грузинской свадьбы
