@@ -6198,3 +6198,108 @@ seen_titlehash:459161e1a56f6c39658901ba96a833ae6819b4643926f8868f0a49b76a166174
 seen_reason:processed_not_published
 url:https://ft.com/content/fee3f969-f592-4735-8d99-e7ab3049d194
 title:uk seeks extradition of andrew and tristan tate after arrest in miami
+seen_urlhash:e43886576c92dfda77e7f3de18ab8c2e6681bc9f70a425a9da17c75f47bacc51
+seen_titlehash:db375ac8bb364898d4cdbb301bd2dd4c839d993271e1367accce9fa7156e5c70
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss
+title:cuban dissident luis manuel otero alcántara goes into exile in us
+seen_urlhash:2d3b017b55d60da02ae131443ec922fe501eefe80c9094479ddf9ccd8ba5e3d2
+seen_titlehash:acfeb601935497f7741e509b1331b5ef4e7bc654afb0e1b10adae59693931de0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers
+title:victoria announces new social media demasking powers for accounts accused of vilification
+seen_urlhash:93fb5357bbde6dda11245726640bed11c0846dcef6e4b71ad0a037fcbcdb8410
+seen_titlehash:42b2d2555c60f089b9e595e9c4689ced87f1eb48091f1c9966b3dd7fe353d6a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss
+title:israel demolishes palestinian home in masafer yatta
+seen_urlhash:227e6d01f32ea27546d1738be949cec21d358cdaab54fbe38ab94b2a2d321b3b
+seen_titlehash:8d7b890163f4986d7633c425768558e6ad3b5642497bc28570009b9854bd17ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss
+title:russia launches largest ballistic missile attack on kyiv since start of war
+seen_urlhash:915039fdb5519d7c6ad5e6cf344b225ea904969ccb9be9f0c6bca17848a6d506
+seen_titlehash:f3a1926161689342295b710aadbaeaff6354aa74110cb3cd935e6693504c6fb1
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss
+title:the number one health issue in palestine is the israeli occupation
+seen_urlhash:cf1d1566e96c24d4d49f92feceea39f30bb933b185073ada62d33f002e557f03
+seen_titlehash:a87e4fc0580402cdf44b203dd903625be26a89a91e055fd1aaabc2236320d64d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss
+title:us bombs iran for eighth straight night
+seen_urlhash:80d22665661d392c5309cd76e38142ae144689abc53d7eea9881ebb5a98604df
+seen_titlehash:df4e710551629d6a770e9083024be29ee3930d68c221a426d04b00ed37d38245
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss
+title:palestinian teenage footballer dies after israeli settler attack
+seen_urlhash:759d136e1ed77815021f0a7b1e9cd85f08765f94c0684e63ddf888fbc987c9cc
+seen_titlehash:c797aca00c006b43e1150a130f6062a37c405ed187708a9e4d7b942ea0214aab
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses
+title:russia launches deadly strikes on kyiv after attack on moscow warehouses
+seen_urlhash:5ab380b3a9ef0520f487d695a9361cea0b7a157b2bd19be5a08fb1f46a5cb4ed
+seen_titlehash:3ad879fa1bb1978c0241d05ef1bbffbd6cbb796476bca89851522523ceb0fa0a
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260719-radical-misogynist-influencer-andrew-tate-and-brother-arrested-in-miami
+title:radical misogynist influencer andrew tate and brother arrested in miami
+seen_urlhash:1300fa9830897bc51f2c1b7b0d65a61a67b0abf67894acd63e6056fe1c059f44
+seen_titlehash:1ccc57018a7c6c6bc248ceec4b01ef6f4a5db7478dfe9f1b72082eb89e6650d5
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-хотят-наказать-иран-за-гибель-двух-американских-солдат/a-78023719?maca=rus-rss-ru-all-1126-rdf
+title:сша хотят наказать иран за гибель двух американских солдат
+seen_urlhash:46ae8407bd2987099294d1634f566fb4be8ec2f72989ad18dc0c1ccda1dd4a30
+seen_titlehash:c8b07f57243db838c10f265037d87c6f18bf1f4b7f121d41a9df5f0b4781008a
+seen_reason:processed_not_published
+url:https://dw.com/ru/беспилотники-всу-ударили-по-нефтебазе-на-ставрополье/a-78023291?maca=rus-rss-ru-all-1126-rdf
+title:беспилотники всу ударили по нефтебазе на ставрополье
+seen_urlhash:471571c14c53cb0bf1ba4aecf26fbe99d3d6b600f9afa4e107df3dc134850d54
+seen_titlehash:bdb29ec21220cbcf960a4c95742884760c66acd4aead237df9bd14dcd6a7ac37
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/pervye-poteri-ssha-v-novoj-faze-vojny-s-iranom-vashington-otvetil-aviaudarami
+title:первые потери сша в новой фазе войны с ираном вашингтон ответил авиаударами
+seen_urlhash:73414850fc18cfb27bfb88d8274d252bd4186c40a3efc089eafedae9636fc444
+seen_titlehash:9514654a73dfeee6a3d7d549adc5ec551cd74339f2e0bf1be232ea9a629e6ed2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/epoha-deshama-zavershilas-sbornuyu-francii-vozglavit-zinedin-zidan
+title:эпоха дешама завершилась сборную франции возглавит зинедин зидан
+seen_urlhash:c165063b4a973d87989d8f2686fc4457fe7e284c0048c2c8c91dd87c35781131
+seen_titlehash:f6bfeae0582b1e3fc28cbe28b323e8f80962c0ad77ecdc9d7229f1cd134b4aa4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/19/wildlife-holiday-bucket-list-the-new-big-five-animals-that-travellers-want-to-see
+title:список желаний на отдыхе среди дикой природы новая большая пятёрка животных
+seen_urlhash:0556866815a7d08674b59602c8177f6e9b380ee2f9513df9942a106b3aad06df
+seen_titlehash:09f18090881e3fd84a4b6ad82f976e34f611cbbbde63905855297024b4ff378d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/19/home-sales-rose-in-most-european-countries-in-2025-where-did-they-increase-the-most
+title:продажи жилья в европе где они выросли больше всего в 2025 году
+seen_urlhash:c871e7a60f42bd6cdc893e8560a31b0dfb7359c0421ea1077e4f5ca5c9808ecc
+seen_titlehash:928c57cfe8cdbf882fe1660ca871cb0455ebf14efa7b251c22a3e9bac02dc899
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/19/world-cup-stadiums-were-built-for-yesterdays-climate-should-the-games-be-moved
+title:стадионы чм строили под вчерашний климат перенести матчи
+seen_urlhash:36322b34e7093366135f5bbf60fce924ea88f7be5b236a6d95a8367b2f23729f
+seen_titlehash:a2909051c4d68c0db29a1d34a49e89f4cb7d8fc545e9c5904fa0a8b752229d06
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/ukrainskie-bespilotniki-atakovali-dva-tankera-v-morskom-terminale-kaspiyskogo-truboprovodnogo-konsortsiuma-v-novorossiyske
+title:украинские беспилотники атаковали два танкера в морском терминале каспийского трубопроводного консорциума в новороссийске
+seen_urlhash:2917a11f6b9720407d526099534d653fc27a8efe7ae9388c57fed6702c7f3990
+seen_titlehash:37256eca6357730e1b572a32ab5cecf7d535bf6b511a80828a9adf1e7ac61d8f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/140-ukrainskih-bespilotnikov-sbili-nad-regionami-rf-i-krymom-v-stavropolskom-krae-pozhary-na-promyshlennyh-ob-ektah-veroyatno-eto-neftebazy-v-kurske-drony-popali-v-mnogoetazhnye-doma
+title:в ставропольском крае после атаки украинских беспилотников пожары на промышленных объектах вероятно это нефтебазы в курске дроны попали в многоэтажные дома
+seen_urlhash:5457fa204bd0fc3e65a185f47eb00b46a34aae5aa11309892b84bce449a085dc
+seen_titlehash:98964cd48473b3de8f73a1ecef7baa4d2a2558428cfb7aee617ffc0f95dde2bb
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/mir-okazalsya-kak-nikogda-blizok-k-pobede-nad-spidom-i-rovno-v-etot-moment-konchilis-dengi
+title:мир оказался как никогда близок к победе над спидом и ровно в этот момент кончились деньги есть ли теперь шанс справиться с эпидемией
+seen_urlhash:8e9f59c46a99ee6098db3e98abfb73e7e24fbcb863ce5ea55089730f4971ae8e
+seen_titlehash:5ee14dbb71acb3787618bd07e5df12f7acade9fab725f3190d89443b86f4b272
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/19/rossiya-nanesla-massirovannyy-udar-po-kievu-odin-chelovek-pogib-16-postradali
+title:россия нанесла массированный удар по киеву один человек погиб 16 пострадали
+seen_urlhash:e9c8598ec1b48047b53c93cb1ce59769a4e3507ab49ca9c0fbf84b281cc7ec00
+seen_titlehash:171d15eceb4e58e713fcb51c20f236deac9112e7717eeb3d4ed6bc9eb31db358
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/19/kak-ni-stroy-vse-ravno-zagoritsya
+title:как ни строй все равно загорится что происходит в электростали после удара по крупнейшему складу wildberries в россии репортаж берега
