@@ -8293,3 +8293,133 @@ seen_titlehash:25ec65e8f64ba7c13c95e6238ff71de9651484cac7c58a67f4e78f31f8e66c33
 seen_reason:processed_not_published
 url:https://ft.com/content/522fc69e-77df-40fd-8ab4-6726b866d289?syn-25a6b1a6=1
 title:us petrol prices climb back above 4 as iran war intensifies
+seen_urlhash:4d85040feadaa1c5abb881e6c01df9b5320fba2d87483d17625ece665ddab89a
+seen_titlehash:1a2649b6f84b416bf9ee53f49262e84265109f1a6e82a0ab94068f7f65d7ebfb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss
+title:yemen s houthis announce maritime embargo on saudi arabia
+seen_urlhash:41808a59ac38bf119bdaf164ea9a5f5b90413db53052796743d680de53bf084e
+seen_titlehash:4adc509573867eef21ac035303f0608b37caf8f7f4d581dfa425589eaf7c87a2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss
+title:if only people knew what a tick could do the deadly meat allergies caused by tick bites
+seen_urlhash:5993ecc695eb2927b7a697ee4fbcb04d0d3bca386c5b51da71a421fe3443d013
+seen_titlehash:2037b3480da36fbe84df5f908b04d46754be8b5c1005894a9ec1bb1079152272
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html
+title:in venezuela s rubble a search for the family pets
+seen_urlhash:9f38871e2eba0c2a6500472eee779bc999e458ecd2d4dbe5be43cc9e861b10b9
+seen_titlehash:33c1b6a0d8b093c8265c8bf332a98cbf5efec76e062022916b89412c11b48dce
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html
+title:israel s ambassador to u n lashes out at mamdani over netanyahu arrest threats
+seen_urlhash:abb5add5f0054c1b310c39097df13f02a503c3618fe5ffd65f9c5097df580ce7
+seen_titlehash:4f65292b82c286622d9855f8ea319e42be2206f90abd608c684d9beef5f1da09
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html
+title:inside the deadly u s airstrike on a shadow fleet tanker
+seen_urlhash:04088bd978b3a93a9ad5e994d0fe404e6cf160d91685f726a8dd7cc0653e7814
+seen_titlehash:706ac71902be45b62c9a3639367a2ae2e08cd9063901cb308eaec03d8ac91548
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html
+title:outcry in italy after man dies while being restrained by police
+seen_urlhash:70b7322401079801337f1ee97a389162b5b16f0ce615648c53a298ef192d994d
+seen_titlehash:d3cd916753390c9d18ca1a36b219da789899d9fb725ef68a8f02106fce260154
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/20/one-in-15-million-brisbane-woman-gives-birth-to-identical-quadruplets
+title:one in 15 million brisbane woman gives birth to identical quadruplets
+seen_urlhash:c81a4027b5f6521b29e4cd198a59058add2832a9f62b2aa43af2281d2aeaf22a
+seen_titlehash:dccfde5d2d676a14df42035331092d3ebc2afa5ecbfc0f4afbbdae34a234c4b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss
+title:protests in italy after moroccan man dies during arrest
+seen_urlhash:6fafdb8504027399bdf867652c10f79aea09548c35ec8c681c7ae09276afb14f
+seen_titlehash:9a54002578aeb8a35b8aa456d469dec758bf3a44aefa5232c256e049bbdf1510
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss
+title:houthis announce maritime blockade on saudi arabia
+seen_urlhash:8c3b9b7b345812a6583b2db1cb5d3fe1dadc48d3670615e8bd5fb0d30d796c8f
+seen_titlehash:c9831f693b85d9c5ce2bc052a6bf499c59d728848e5b870c3e1e8020dd6b3fc5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss
+title:trump vows iran will pay for killing us soldiers
+seen_urlhash:dda1bce08d012df9fe347c6e4ad2b07c89a5417ed08b47a2eebe24b0657ae52d
+seen_titlehash:18869520580944c37a19ffb833655dde836015c9e911e76265b88e79c0bc59ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss
+title:now or never students defy delhi lockdown to march on india s parliament
+seen_urlhash:9b5492c23ac862c9d28bc4c9b35a5e7c9e39ce7858fef11bc9acbcc13eb86d39
+seen_titlehash:be6566c55757f47cb58a6a32caa82d005b1835d9c3c433cb7dd361da6627cde0
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss
+title:petrol prices climb as us iran tensions disrupt markets
+seen_urlhash:45fd8c9b0fba73f4a938ed20a8db49b8b0476ac1c25ad840e8c6b2c01d7bf23d
+seen_titlehash:f68a347410475dbfce2ca54c9d21046f63d38d3e2e02444210da12f66ebadb0d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss
+title:mexican drug lord ismael el mayo zambada sentenced to life in us prison
+seen_urlhash:c7f9736c098ebd2aff78edb6e5fa0e74ad4c1d24be9d17450cf2b87ef84d482d
+seen_titlehash:1f884665df21e9854af03c180edf9f419b83d19fddfde3676b41ac03d2aedf78
+seen_reason:processed_not_published
+url:https://france24.com/en/mary-honeyball-praises-forward-looking-pm-prepared-to-inject-some-optimism-into-united-kingdom
+title:mary honeyball praises forward looking pm prepared to inject some optimism into united kingdom
+seen_urlhash:8931b88f796418dea7999c378383ac23d4c0c51f119308c467853d40032a28cf
+seen_titlehash:3f5da0c9b245fe8d57afcd2a5f5916d47bf663f90107ca46bd826fccc040b897
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-рф-рассмотрят-законопроекты-с-новыми-репрессиями-против-релокантов/a-78041752?maca=rus-rss-ru-all-1126-rdf
+title:в рф рассмотрят законопроекты с новыми репрессиями против релокантов
+seen_urlhash:141230758c0a52aa0d48e531abf389041ecfb8032886834763eab7192c5b8385
+seen_titlehash:1c524693745a5d2b02da17fa987cd30ac9d47643b9f7ddda4e162dc8659c9a8f
+seen_reason:processed_not_published
+url:https://dw.com/ru/правозащитный-проект-gulagu-net-объявил-о-завершении-работы/a-78040281?maca=rus-rss-ru-all-1126-rdf
+title:правозащитный проект gulagu net объявил о завершении работы
+seen_urlhash:8954a80cd62f2b73f0692127c279f5f5641264267d5421889f5437ef97d56809
+seen_titlehash:398eac1096cc4070b9bcd8f6bb11fe8802bff7a4f7b1fd7bfcbd87a92893c602
+seen_reason:processed_not_published
+url:https://dw.com/ru/око-за-око-хуситы-объявили-о-морской-блокаде-саудовской-аравии/a-78040256?maca=rus-rss-ru-all-1126-rdf
+title:око за око хуситы объявили о морской блокаде саудовской аравии
+seen_urlhash:0e08f1778d842eb6a8d3a99e5093158cc2824aa5a0d2e54b810f630a0c4573bb
+seen_titlehash:38a0ef8c70ce95200cad8b6a6cc23bf515007a1e1632b97f941c07af44b16f05
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/prodavtsy-wildberries-pozhalovalis-chto-ne-mogut-zabrat-tovar-so-skladov-kompanii-posle-ataki-vsu
+title:продавцы wildberries пожаловались что не могут забрать товар со складов компании после атаки всу
+seen_urlhash:05b13c56dc4fab8d52c89768dc3215f2f8c84554dc2b27364c0c62807259c529
+seen_titlehash:02817643465752dcd16e0ada334d9fe542208c3928132170591505f1e63fb337
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/20/ya-ne-znal-chto-u-nas-konflikt-izvinite-esli-obidel
+title:я не знал что у нас конфликт извините если обидел главком всу сырский написал колонку о разногласиях с экс министром обороны федоровым краткий пересказ
+seen_urlhash:deac956a3bdd304c991d3759340e8473baf9e624721d21d16dfb26e7be2fed4c
+seen_titlehash:b6fffbdd14826d32271446891ddfb7e585c20d2158d50fe954a2d782960db4dd
+seen_reason:processed_not_published
+url:https://ft.com/content/9f36df1b-cc5b-4391-ae91-562cf85a58a3?syn-25a6b1a6=1
+title:man charged with ann widdecombe murder
+seen_urlhash:3106eb18e3539742cf2f9275faf4c6c92b761a003f8c7c3f0c5e1ac2bdf55268
+seen_titlehash:67e321dd14c9730c9367ab1065d789093e3583afbc710f78da7d8af3ccd2e042
+seen_reason:processed_not_published
+url:https://ft.com/content/740f0449-f367-46e0-92a6-43251f56f974?syn-25a6b1a6=1
+title:burnham stuns labour mps by choosing healey as new chancellor
+seen_urlhash:343014ad120ba6209a3596c5ba6ffbdfca74f685087bd69b77f86b0faabaf7ef
+seen_titlehash:8d3f83ccc024dba901607cd0f4cc0525b8990ecc3ba386f3e9ae0d17c851bdc8
+seen_reason:processed_not_published
+url:https://ft.com/content/05b20ea3-425b-49da-886e-fd0ac9270fe7?syn-25a6b1a6=1
+title:who is in andy burnham s new cabinet
+seen_urlhash:be1f2954f45d88bd43d05b57611dafe61c0a9027ca6306a40537997a5b9cee23
+seen_titlehash:8d9de9faa74354df26c1a24ae4b8976f2443776405869be46c5904915c5f3886
+seen_reason:processed_not_published
+url:https://ft.com/content/e9563a0f-0a93-4a38-87e1-32b7898522d8?syn-25a6b1a6=1
+title:big tech s ai backstops risk ignominy
+seen_urlhash:436aed01e0c66bc442ecd81376cda0f428c88538f9859429d9d08c5e7b58da97
+seen_titlehash:79ca5422ba8322f2cdc770a57681a2618455debc2923dd01312c18c7c0a82374
+seen_reason:processed_not_published
+url:https://ft.com/content/948861e2-3064-47b7-848b-0bdd633a6c00?syn-25a6b1a6=1
+title:andy burnham s tenure begins with troubling signals
+seen_urlhash:7efb5b49beea4e263be26e12e5c3091f80e4b44f325c84703c80062efc16a3c1
+seen_titlehash:26103b8b7e3a35f09615238179a531301dda483b377e0fc84601d2313075ef0a
+seen_reason:processed_not_published
+url:https://ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1
+title:us judge pauses paramount s 110bn warner bros acquisition
+seen_urlhash:9d497ae4dc71963cbed8c4795fc19b7b36e93edefcaa303e3f35bad6e6893beb
+seen_titlehash:daa72233a204e2bed0e8d1525e72fa1714ffad52eb4f2dd63af610ecbe008cbb
+seen_reason:processed_not_published
+url:https://ft.com/content/13092f23-4b2f-4e62-8aa9-76ab465a667c?syn-25a6b1a6=1
+title:trump to meet lebanon s president as us pushes ahead with peace deal
