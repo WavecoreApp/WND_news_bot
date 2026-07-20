@@ -8538,3 +8538,133 @@ seen_titlehash:a0e064b347675f86489a5c66de1aa7f4dc498e0a3ab44e0032bb90893b6544fc
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/20/bloomberg-zelenskiy-rassmatrivaet-na-post-glavkoma-vsu-11-kandidatov-osnovnoy-komanduyuschiy-ob-edinennymi-silami-mihail-drapatyy
 title:bloomberg cообщил об 11 кандидатах на пост главкома всу основной командующий объединенными силами михаил драпатый
+seen_urlhash:01f9c28a6b91336b879db134f755cd086655bb5de0059ddb9c09864e6b646c93
+seen_titlehash:796719dd6e26955e0b9b68baef37d2dd24b603c8bd5f1247cd726abe63c902a2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss
+title:trump imposes 50 tariff on canadian imports
+seen_urlhash:b2f3ccc42f179c74c51968b3c6e421482558be21111cd6482c525a6e13a62a75
+seen_titlehash:aa3ef3e842d996fa355003de1b56a3da2d6679f618c04004e17ce83103483e5f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss
+title:us launches fresh strikes on iran as trump warns of retaliation for deaths of soldiers
+seen_urlhash:544e23bfe3adde193dc8d837c5ae15819f4d271ac7d30c712f5abfd1eaab0ce6
+seen_titlehash:7efd45156111f98c113e5f1112b8e1e9359905d4b5c75ca4c0496ed97cf72f45
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/europe/pope-leo-nuclear-disarmament-anti-war-message.html
+title:pope leo calls for nuclear disarmament in latest antiwar message
+seen_urlhash:f04a695e988315b22e533782e240ae7cd1fbcecb09f9b12246330106d7363fcd
+seen_titlehash:3d64ac80f0faef89d264b99bd49b510458efdc24e371e4cfb401d437737865d4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/europe/uk-ann-widdecombe-murder.html
+title:u k prosecutors file murder charge in ann widdecombe death
+seen_urlhash:a39dc91ca2a9471c8b6bcab8bb33d0e7d8437dc3106607b56acd6f4b28361bd3
+seen_titlehash:80ce9234e4fa75cf62828e141bc132145152d21db57e20973033d0e5db8ce0c4
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/20/trump-canada-tariffs
+title:donald trump to impose 50 tariff on most canadian goods white house says
+seen_urlhash:a479d53494dc09acd1ecbb3173bc57d85a91d71e21d133c672231e910e3a6ad7
+seen_titlehash:d0bb728c2fd0042db834ac40e72360d5b2748f1e1bb5d2896ff6532bbc402c91
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections
+title:nicaragua s president says country will not hold any more elections
+seen_urlhash:4516b2e7ff9d250427b26f7fdcfdb2234bc44a199120ab88046c8c4a5c1fc0e3
+seen_titlehash:3a4e9706e8d70fde77cd937a7e5305810459d442bc362a1fe74c2807db98eb3c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb
+title:australia news live barnaby joyce dogged by tommy robinson questions and by a dog in spiky abc interview
+seen_urlhash:e6286fb9fd75e437df9ea5506fecb2acdebf0b7f6ad530ae7ebfd65ca45413fb
+seen_titlehash:8eb0936d0aba01eaab5f810423fc55921901be1fcb421c36ce3c2f7978926ce3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss
+title:chaos in india as cockroach activists march on parliament
+seen_urlhash:a0205a4badd8a48c380c1aa8527e3ec8b15bdb5899b8f3fe816e1339ac7e4c6f
+seen_titlehash:f69f33c8ebbf693f60884847294589b8b5b3e99b0dc4c05f6e53cca8456b4fcb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss
+title:war on iran war resumes 30 days after mou
+seen_urlhash:0b85bc5ddffcc0ab8a03603f88647863f61c1cb136cc56746ea07ec747fab6bc
+seen_titlehash:ff002048efa19e1f4e4271c54117430bdea94c8e168fe1d3294a4d018cf0b85e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss
+title:moroccan born man dies while detained by police in italy
+seen_urlhash:29cb38ee7fd6cc07504d052428fc7c56bcd0fac93f85cf3dc2deefe2ca02a486
+seen_titlehash:66547383a98b70241c48d31bdc4f4ef38b7c56428fc984fb8354173b856aa91c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss
+title:albanian protesters pelt lawmakers cars over resort projects
+seen_urlhash:1b92a5f9a0f4f3c60fa002dc96c62b57d81d26cccf7e91539dbe01d8cc64e231
+seen_titlehash:e9fcf1d775ca249b03db90c20fd1261cd01f52db7400715503c1fa9cd02c5c96
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss
+title:trump rejects mamdani threat to arrest israel s netanyahu for war crimes
+seen_urlhash:468bde3f301230f5fd14c6dc011904de29d2849d2d8fcc2b155c30c012b79d79
+seen_titlehash:22f95fafe68cb33e29c16421226a240a386b523cc53116e53f604b43719bc74a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss
+title:gaza residents weigh in on election of new hamas leader
+seen_urlhash:01a719aa1a18268bc2437bc4c305dc9261306ef67121066b26b2dfd4f5e254d5
+seen_titlehash:d7eda3ecc2850bee2da89715147120753e4b6ff799707b10697bb296aaed7788
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss
+title:how will zelenskyy handle the growing political crisis at home
+seen_urlhash:246dc753b25dcb2fdf3d4f5aaac128c1e624ad773c5ec6122486fdfdc567065c
+seen_titlehash:8a97d731743aa5eabaf55df944d7b0cfc28c75128244531bdf6d0b6f76f0282e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss
+title:ortega insists no more elections for nicaragua
+seen_urlhash:a39f2b9611a530232b999a0e34c8811ad5aed7ded4df0550dfea3e10dec008a4
+seen_titlehash:a805f11b10617c7ffee01a3a53ffb5ee05368fa3956bd23b7f3dd5f071a66873
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss
+title:man arrested after fire outside new york immigration court
+seen_urlhash:41b219219babb58d8cebbf0b433a898b9fcca48f2ccd6076057e42c60a24d9e4
+seen_titlehash:958b997a19ebff626eec0f2b60d0c7560d22632ddb06f6240ab438d751bea262
+seen_reason:processed_not_published
+url:https://france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods
+title:trump signs order imposing new 50 tariffs on certain canadian goods
+seen_urlhash:1dc507efe53687e1da3abfafe98672359f3b78841b6390190b8c6eb5ea9fdad3
+seen_titlehash:b7eda34df9c908656242b0f9ca5848b60f66b9e8cd141f220b50a016b5431295
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260720-lebanese-army-south-lebanon-pilot-zones-israel-withdrawal
+title:lebanese army deploys to three southern pilot zones under us backed security framework
+seen_urlhash:7070943576ce89a6ce9cb1dc3e99a917e34045bec24f947767dabe8291c76952
+seen_titlehash:ff0b73511145e445aa52e9d3a57e0b2d7de857a256d843c8576180d458138ae5
+seen_reason:processed_not_published
+url:https://france24.com/en/senegalese-president-assumes-ecowas-leadership
+title:senegalese president assumes ecowas leadership
+seen_urlhash:b1642b403d708ce3a2c51900a7359536e78ff406d8fe4c7aa0499fa0fb2a1ba9
+seen_titlehash:fdade896b9e74c1c55d25dc0c2761a99f383f5cc4a0d837922ac1ed56262c772
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260720-spain-pm-sanchez-visits-algeria-first-time-four-years-ties-thaw
+title:spain pm sanchez visits algeria for first time in four years as ties thaw
+seen_urlhash:27e375172018de9b3657251b5dc25f2dbeb6942957ad56d287a37fd70dcf5112
+seen_titlehash:de938367989bbfb747fb96029fda9c01dd5b42cc936821c16e487abd719709c2
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260720-senegal-changes-course-to-back-former-leader-macky-sall-for-un-chief
+title:senegal changes course to back ex leader macky sall as un chief
+seen_urlhash:02ea93e02196be32501e425b978199fc3ea6481711984297069769bc58e1df16
+seen_titlehash:f7825f47f03f59c0a293a1a61a6abfb52f27d1086e5d8b9733b89730fabf8fa9
+seen_reason:processed_not_published
+url:https://france24.com/en/labour-thinks-it-has-responsibility-to-prevent-the-rise-of-reform-uk-historian-says
+title:labour thinks it has responsibility to prevent the rise of reform uk historian says
+seen_urlhash:6d08f7a4444b63a386e95d6666d07bed0660f3b43271e5566685181dccb1a741
+seen_titlehash:d0b6df8389521a42819ef79dec64c0abfa13cfe323c8d618784d6ffa6a242c47
+seen_reason:processed_not_published
+url:https://dw.com/ru/главком-всу-сырский-извинился-перед-федоровым-и-заявил-об-отсутствии-конфликта/a-78042473?maca=rus-rss-ru-all-1126-rdf
+title:главком всу сырский извинился перед федоровым и заявил об отсутствии конфликта
+seen_urlhash:0a8f1d73224054e3066cf31692a4ec8d047098d16f26915845aea170016f32c0
+seen_titlehash:d93b321e8f7fc734559ef1a2fc298207e39ad3474de7916cab1ec5fbec8a0d7e
+seen_reason:processed_not_published
+url:https://ft.com/content/5874d7d9-7684-4732-b415-dae96c0ad73e?syn-25a6b1a6=1
+title:six things we learnt from andy burnham s choices for his top team
+seen_urlhash:54128674865cb8902f3a2818f24080f2484cfd7f01f48804177cf9abb405f61e
+seen_titlehash:53d9a0e26937b36a252fc411712c755e5460014f79b457d99e87c3b79d9f5813
+seen_reason:processed_not_published
+url:https://ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1
+title:us to hit canada with 50 tariffs on wide range of goods
+seen_urlhash:7043ac26c5afd6d100cc82f3f42a34e1a787e8e5e591c5e64613824ca6eed145
+seen_titlehash:6a6b220d0639876494b9f6f2ccb99fa6d592382d18765bec864d33f6a5ffaae4
+seen_reason:processed_not_published
+url:https://ft.com/content/7875b77a-fede-4472-93d2-a5f2c3f630eb?syn-25a6b1a6=1
+title:firstft indian police crack down on cockroach protesters
