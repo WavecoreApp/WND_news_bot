@@ -7713,3 +7713,338 @@ seen_titlehash:2502044f1f7540935621feb483462cc70de5c60f5649c8356f61720bea8db732
 seen_reason:processed_not_published
 url:https://ft.com/content/13c385e7-600f-471a-858e-6f1970802a10?syn-25a6b1a6=1
 title:eu fines aliexpress 550mn for failing to prevent sale of illegal goods
+seen_urlhash:c241a75f3e168011c0d0cb1d82487fcbbf4c01586955c0345be41d71399a3e46
+seen_titlehash:2d6aa772b5604298c81204f87d4039dd1161eca7259c19a60aa28280ce2c0f58
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss
+title:ten killed as russian attacks on merchant ships in black sea intensify
+seen_urlhash:833680f3a97cbd32c706c19be60a752eae0ced229c02cd683138406a1096e283
+seen_titlehash:9ea17b7bf0909e7cefb7e7fa47dde52ded40d828a536a341707c8dbbc9e1eb8b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss
+title:hamas names khalil al hayya as new overall leader
+seen_urlhash:b32749f42a534ced6bb489cbd49694d2495c761354a72e2041ade57cab79a4e2
+seen_titlehash:ce625dcb15eb52abf66fced773a38b832c9a020a7fa25e32ac7c4219e7a1e31c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss
+title:police block thousands of cockroach protesters marching on india s parliament
+seen_urlhash:14bd3c3c5010146cf16171701e5659587b2d737732ea6e16068c3c565e456040
+seen_titlehash:e6313f5d08ca7794449c6ff1613d79e024d30afd4bc7e69fa832223f3a8c152a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss
+title:rare identical quadruplets born in australia
+seen_urlhash:f8eea7eed178c9e5ec074cf9d7bcd00be56cee6735cf74e2affbb3de8e85474c
+seen_titlehash:f020dd01c71d861dc5c4d56a80fcfc22fb0a12fd15479561ba93b6053cadf956
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss
+title:newcastle liverpool and england legend keegan dies
+seen_urlhash:278091aa320d7e7c3ba8b1129608e4676b49403913593c2aeaa2f46a4927393c
+seen_titlehash:728dd3b4bfebd38126841aa25fd670c0dfc6d2b7901ad6d91276726a070a18f6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss
+title:utah firefighter and four family members killed in flash flooding
+seen_urlhash:bc8ae282f49a2f1a0eedd2fb850db837a0e27d47f8bb1b5431210bf9bb44527e
+seen_titlehash:0d4a4b1af03741a6ff66e0f9e86684575cf93bd7000963c90a3c47266f22cc48
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss
+title:ryanair profits drop as iran war puts off passengers and lifts fuel costs
+seen_urlhash:69758fa1bb1e420768efc0cc52c6eedf36f15f98189596eda306024bfd295084
+seen_titlehash:d01c7bf928123ac1d95514ac668f08f29825cf1eeeea409b48ba62d7482c1b3a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html
+title:aiming for my fastest marathon i turned to distance running s mecca
+seen_urlhash:68a0e408086fc3bc2cacbee59a881f694bc8089d5f124a2c60b3a36aa135eac3
+seen_titlehash:19223b1e143c710aa0b520abb2b73009fe93e08ac614486e36917cdf992cde51
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/europe/behind-the-scenes-downing-street.html
+title:what happens behind the scenes once burnham enters 10 downing street
+seen_urlhash:6919e782010b8e85b2d045484b8d5e986d8ff013b43701ae14b046ff040f72d3
+seen_titlehash:6c649121a08d7e1fa8d4682aa8d4b85d3412676365b0d1d5d8ec4d4065d11017
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss
+title:what are civilian sites in international law and where have us iran hit
+seen_urlhash:27cab4f01d71a17a51450088136b3aef60c054763bb5ad30f03c5f491d8df510
+seen_titlehash:e84143a39da1d6f02722aebe540cf8e2dbc585d56aad6e1444c96b2c03563eb9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss
+title:what we know about us soldiers killed in iran war and iranian casualties
+seen_urlhash:1d5f2efbfe49113cfcd55146bda2a0951f8b745a90d91acd6bbbacf70ee6fd39
+seen_titlehash:50628c88ffed6c68ffc3d8a0ff83046a9a3cdef6dc04dcceb6e71635a39e94d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss
+title:petro to give farewell speech amid colombia transfer of power tensions
+seen_urlhash:7c135c72a1cec1409010b8e9b733b78f024df9beb95ff9138ff9410f5dd3c77f
+seen_titlehash:1ba185386cc9ee85e537aa7299b4ed08854b64d723d725770043d25eca0cf181
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss
+title:israeli ministers and settlers call for return to gaza settlements
+seen_urlhash:825e3fa61311acf7f52c284ad5be9750b5f132c5fb13965af3b47a028a03e00a
+seen_titlehash:5006fae6e7b13cf8601f6c85f0dda4c31d8a246ab86d23fd1a54ff0acb3e3c32
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss
+title:burnham s move to scrap uk s digital id plans earns cheers and criticism
+seen_urlhash:c24f96adbb93910d6823a5df2c8ee0e346cd093425f9c0bf561572887a4917dd
+seen_titlehash:fbcf9a83a512b09d66ca4a4bd4e90b5a687e6f0b7ac9aa31997dedf9805bce17
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss
+title:who is khalil al hayya hamas s newly elected political chief
+seen_urlhash:755da5296ba2b2b79e3a73b5fc1f590548863adbb19486b01da310e31aa32ca4
+seen_titlehash:c95280cf97db4f48697084e85acb1f5f7a3c76be072f07e70f940f0b915e4ec6
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss
+title:since islamabad mou what s changed for the us iran and the gulf
+seen_urlhash:04434836dc70ddbc5fc033cf02483749ad606ec46dc71834dcb8d811decbf238
+seen_titlehash:f1827974af48c2c39e487a40b0cb12da48dd5cc6405c59de5ddba64b1e89edcd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/20/i-want-to-be-honest-with-you-says-new-uk-pm-andy-burnham?traffic_source=rss
+title:i want to be honest with you says new uk pm andy burnham
+seen_urlhash:54af6f4d2bcec96598f6da5bc264b67440b0d949a2bcaa8c3c858d5696fd7349
+seen_titlehash:f0b7568c09ab4a3a833f50de78cf785fafc645015cceab1dab700748055aa5a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss
+title:russian strike on ship near odesa kills 10 ukraine hits moscow with drones
+seen_urlhash:0b3956730e2fbcc65b57512cb4200ba7ce5599716e3b7b211f430253e0bcb898
+seen_titlehash:6475be60111918b161fea49cc8a94ab5150adbc35384f4e38b738402f90d8939
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss
+title:don t believe andy burnham s pr machine
+seen_urlhash:21572532e51de58ad5c69291cdaf054dc1cb69a713d1ad40485078c9e2ebfcde
+seen_titlehash:d10a0d04837912dc5d39c140ba13ec7e4ef63839c860752495684a60054ea259
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/why-is-christopher-nolans-odyssey-so-controversial?traffic_source=rss
+title:why is christopher nolan s odyssey so controversial
+seen_urlhash:e8b69366de4ca603ec30706194bf8d4a3fd6540a5d4ac0f3df3e4d79cdadab46
+seen_titlehash:8671be9febbdcf990e277780f98327aef30f3dedaf024c6b9077bcfbf7f3172c
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks
+title:ukraine fires 400 missiles at moscow after deadly russian attacks
+seen_urlhash:656327d959157085e50828420e2febb85a452e1600f7e5ebf830b168a80be774
+seen_titlehash:cd1c8fab7fe4e6b4759b0a2cf3cd6224469429d941127fda93e36571ca056c64
+seen_reason:processed_not_published
+url:https://france24.com/en/burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-rejoining-the-single-market
+title:burnham advocates closer eu relationship big gains will only come from rejoining the single market
+seen_urlhash:5525abe6940285df32ba18c4208904fac8104f193000edafa8e2bab12d61f45b
+seen_titlehash:372b9925a77e697c890e83bc52db8cb45efa76923ca7a3ecdd49618abdb8de74
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260720-residents-evacuated-as-the-south-of-france-burns
+title:residents evacuated as the south of france burns
+seen_urlhash:f1090a85c0cdb6d12f1538aa65baee3808b0549db2e3df1997588d45dbac358e
+seen_titlehash:721b1f808ccf5289015cca93fb378feb87e93d69d189c5387cff4a67a457be02
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader
+title:who is khalil al hayya hamas s new leader
+seen_urlhash:8541343029a063caa2e380cd46991b3bf0307b1eda925b57ba812bbf24b5eeea
+seen_titlehash:ab426109a03d75686fb8999f075a809f43ec0645a58b48df19c558f0dfe37f7b
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation
+title:how state actors are exploiting climate crises to spread disinformation
+seen_urlhash:0c059f1ea230d1064bc2fa9b46d506ac2472189582da86eef2e85087fd319be6
+seen_titlehash:4fcd477d6e9b6b69fe7f90c6c936734316fb2b840ae849dc1b14982e3c0c64fe
+seen_reason:processed_not_published
+url:https://france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies
+title:after getting a new pm the uk waits for his government and first policies
+seen_urlhash:72adc53b3afc139a62ed34b9fb1efe50e3c388264a05fa3f0a75a467b9d98af7
+seen_titlehash:b443eba12f21c69a7a3c5a8a270126f5e50e8f3263f7d40b00580f2c1af06c4d
+seen_reason:processed_not_published
+url:https://france24.com/en/what-to-know-about-andy-burnham-s-first-speech-as-prime-minister
+title:what to know about andy burnham s first speech as prime minister
+seen_urlhash:73f06fab13b81ce745c31ecaa9da236bd1bb6a98f90a94c9dba43db3386524d2
+seen_titlehash:70b7315605ac15e048097bf4d9717eb91e06099bf11a6aa4ae2d2ff02c06f090
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260720-what-is-outgoing-prime-minister-keir-starmer-s-legacy
+title:what is outgoing prime minister keir starmer s legacy
+seen_urlhash:133d99053511a46ed07b20d25f0435289aa0b157c491d97345c0cec11c944d02
+seen_titlehash:7c5182976b4d1cf9d2238947ff158ca7ae0beeb85fee24ed5de118cde8ce3adc
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260720-replay-andy-burnham-gives-first-speech-as-uk-prime-minister-1
+title:replay andy burnham gives first speech as uk prime minister
+seen_urlhash:9172d793d97c4b428cece91d5ae964119cba13c35240e5d305c6493878e2686e
+seen_titlehash:41d56077ae433a072c253c36061798796e5603e74c5dc9f079ce90457ffcb96c
+seen_reason:processed_not_published
+url:https://france24.com/en/at-least-six-dead-after-earthquake-hits-peru-s-andes
+title:at least six dead after earthquake hits peru s andes
+seen_urlhash:a7b1aaa5cdd94e9091a470f996a4dbb5d476be81b6487647c687bfc7c455692c
+seen_titlehash:0bcd5c5104d123758064c95c4fdca6d979ec303bc74072bc67f5d4bf91ef4bc0
+seen_reason:processed_not_published
+url:https://france24.com/en/india-s-cockroach-party-leads-thousands-of-youth-in-protest-to-parliament
+title:india s cockroach party leads thousands of youth in protest to parliament
+seen_urlhash:7804887a9bcc18d6cfcb00556ff93633ef524340229afc34771055c64c2541d9
+seen_titlehash:bd7d36863452d8e3962bf796634cfd549d6e2e9dfd52c92795e94d27fcfe5e20
+seen_reason:processed_not_published
+url:https://france24.com/en/switch-in-uk-prime-minister-comes-amid-growing-voter-scepticism
+title:switch in uk prime minister comes amid growing voter scepticism
+seen_urlhash:edd2a951fa50c165749dd14ea50a79d3987404ef936b4d84d3a20494214d60e8
+seen_titlehash:9a0c1a3df6c1ada04e72516d67fcfd633a5150b810721b5fcdf28d51a7df0e8f
+seen_reason:processed_not_published
+url:https://france24.com/en/andy-burnham-wants-to-lead-the-uk-differently-how-different-can-he-be
+title:andy burnham wants to lead the uk differently how different can he be
+seen_urlhash:05850652c9da1c467e06a6318d2ed43ffec5e3e395debcc7f89421e672227b7c
+seen_titlehash:54fb1b7e940e496e9e818d82b49155c153a54571cc9edbd62158026256d28111
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/fashion/20260720-haute-couture-fall-winter-2027-big-on-spectacle-and-on-message
+title:haute couture fall winter 2027 big on spectacle and on message
+seen_urlhash:8a2f7ce2d969f5ca268a020a987dba179588657666211b4ce0fcec9144f522d2
+seen_titlehash:325b88b52f4c065a02dc15fa9e03ec4a071cbb5b7635a0d91f4037beea4cb0f8
+seen_reason:processed_not_published
+url:https://france24.com/en/as-uk-s-keir-starmer-says-farewell-his-successor-faces-a-colossal-task
+title:as uk s keir starmer says farewell his successor faces a colossal task
+seen_urlhash:24fe0bc2702e25082a4270c1e6ebb1d23919a0fc622187485f45b705c41d5d7e
+seen_titlehash:90aafb34fc95b139ed29bc6e70b74d1d822da0270c19a9cfe052642014532b2a
+seen_reason:processed_not_published
+url:https://france24.com/en/replay-outgoing-uk-pm-keir-starmer-gives-farewell-speech
+title:replay outgoing uk pm keir starmer gives farewell speech
+seen_urlhash:3e3f77c0ea533c2930d1f724b9559d5a9b2b4583d01c119691db548fa807da56
+seen_titlehash:9ced84a3b5cc9e05c36b95379f9a91db874ec10abfb6f0c4b1982cd065e2adf8
+seen_reason:processed_not_published
+url:https://dw.com/ru/теперь-ваша-очередь-как-в-украине-мобилизуют-наркозависимых/a-78036763?maca=rus-rss-ru-all-1126-rdf
+title:теперь ваша очередь как в украине мобилизуют наркозависимых
+seen_urlhash:bf00dc00461afabacdcb2d8fcba9fad860665804410e40912ce8b42a104810d9
+seen_titlehash:ad25d8d87a97a8bf8032d17bbd5b605c96f0fb7e5954d315ddd6726640f82ab4
+seen_reason:processed_not_published
+url:https://dw.com/ru/лайма-вайкуле-когда-закончится-война-я-напьюсь/a-78035111?maca=rus-rss-ru-all-1126-rdf
+title:лайма вайкуле когда закончится война я напьюсь
+seen_urlhash:e35094519e53fe132d096a3e010073b4971a6e4a3e46a968a4c0a053232abe6c
+seen_titlehash:8b02d4a0efa8924a2668f9dcb76d2f6241da2dbe3ff7b537b15975d15b9fa7a8
+seen_reason:processed_not_published
+url:https://dw.com/ru/чем-запомнится-чм-2026-дорогие-билеты-сенсации-и-трамп/a-78035748?maca=rus-rss-ru-all-1126-rdf
+title:чем запомнится чм 2026 дорогие билеты сенсации и трамп
+seen_urlhash:bf040e77aab2639e48b51d79cee017e95e84795a9eab59fdab750fdc76a14062
+seen_titlehash:6dd66ef75b4f8c1d09584b7b9f3e76ac16e58b5118f9e7c24cfa9054e68155b0
+seen_reason:processed_not_published
+url:https://dw.com/ru/двойные-стандарты-шпана-сыграют-на-руку-адг/a-78037541?maca=rus-rss-ru-all-1126-rdf
+title:двойные стандарты шпана сыграют на руку адг
+seen_urlhash:e24b2bf75fbaf075164e2596967c293de3d16da6d98ca603324083a0c121938d
+seen_titlehash:e8e73f33ad70776ce8364f3e7ece257f8a8ba205ceaf8d485f74bbcd48f85f2a
+seen_reason:processed_not_published
+url:https://dw.com/ru/новый-премьер-великобритании-заявил-о-решительной-поддержке-зеленского/a-78037117?maca=rus-rss-ru-all-1126-rdf
+title:новый премьер великобритании заявил о решительной поддержке зеленского
+seen_urlhash:4e61cf55a8a79f88fc8e368db0a107604b356f0075432c4ddb65205314428938
+seen_titlehash:00f17779be80b36ccd1bd502dd745051c3776d87f85b670595a2342d30bb4869
+seen_reason:processed_not_published
+url:https://dw.com/ru/ес-оштрафовал-aliexpress-на-550-млн-евро-за-нарушение-закона-о-цифровых-услугах/a-78036746?maca=rus-rss-ru-all-1126-rdf
+title:ес оштрафовал aliexpress на 550 млн евро за нарушение закона о цифровых услугах
+seen_urlhash:9af39782952de6459ce8305f8d6bff67842446324611591a8d4c892efe52f96f
+seen_titlehash:424b198ae088b8cde436e06599d74bf962d8864085c4045b4992e71ba536116b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/20/from-following-to-the-odyssey-all-christopher-nolan-movies-ranked-from-weakest-to-stronges
+title:от преследования до одиссеи все фильмы нолана от худшего к лучшему
+seen_urlhash:ee82e42590012ff6c3853dd668a85dfc244c3417ba21be26630cb85099979be2
+seen_titlehash:027b8e6976177c01f7f086d205bf7129812fc3059a197640bc93bde79eb3532e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/20/death-in-bologna
+title:в болонье при задержании полицией скончался мужчина власти начали расследование
+seen_urlhash:9e9d07cad4fe03c1b424794df5fa028347e437e630f72b18d5084529b619d37e
+seen_titlehash:d6ce0c39b4f5d89d6f5a9fd558c3e80b58b8a69d004ad5c02cfdea36af743263
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/20/velikobritanii-novyj-premer-endi-byornem-zayavil-chto-ego-prioritet-zabota-o-lyudyah
+title:в великобритании новый премьер энди бёрнем заявил что его приоритет забота о людях
+seen_urlhash:d17fa32716b87b7650a89b52a12209361ce91f5a62e176d8282f4c5cdf2befe5
+seen_titlehash:786e17a76d51d54a01329d9ced27ae4728999ab9a0c6aa21a320665861893be2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/20/a-trojan-horse-inside-the-eus-weakened-plan-that-could-put-the-brakes-on-carbon-emission-c
+title:троянский конь ослабленный план ес может затормозить сокращение выбросов co2
+seen_urlhash:8592f641e34a1fc9934817c6f46c55232066c6542d7014a6636050a8c74cdd38
+seen_titlehash:cb5ead0ac227f6f3f7b0749f011b3f082b5cf7abfbd8376202d60d2a3496ef3f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/20/libya-joins-chinas-payment-system-reduc
+title:ливия присоединяется к китайской платёжной системе снижая зависимость от доллара
+seen_urlhash:d85dfeac19dfa90bb67daa7432191d82c80f379c9f0df8100b8976f818a06bcf
+seen_titlehash:653b055c28ad7cd8ba278da2b7a4dc0c7dfeb6d875a8ed3c980038c33b6bacd2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/20/polskij-koncern-orlen-oboshyol-rossijskih-toplivnyh-gigantov-i-budet-rasti-dalshe
+title:польский концерн orlen обошёл российских топливных гигантов и будет расти дальше
+seen_urlhash:6edef15c751db9023d10fb32f561797d1ffba3b74eb60cea0a2f9dd1e835b6fa
+seen_titlehash:b90220a86ee891ce95588145542f66308ee66f2862ea10e0254d08152480c262
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/20/ran-rushed-out-6-billion-of-oil
+title:тегеран действует быстро иран за короткое перемирие с сша продал в азию нефти на 6 млрд
+seen_urlhash:2f10e0c33cd0ef7992d9e0f3b61aa801db5a345cec2acb89b0860b0db96d3ccc
+seen_titlehash:b58d714100e0bff11c29572ede4e2f6ec2e1fcb93fb18efdb1201ef788dc8e6e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/20/rost-zanyatosti-v-kulture
+title:рост занятости в культурной сфере ес подписал первую декларацию о культуре
+seen_urlhash:ddb40127c4d365e452caf60584babfcca523b00fc6e05f1c803b8f0a24739438
+seen_titlehash:58c469563495ad4f3b43b6ec52c74622d2c42e178add769861cb2c2d6ff607fb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/20/merc-iozhet-obnovit-kabinet-posle-otstavki-shpana
+title:мерц может обновить кабинет после отставки шпана
+seen_urlhash:9e2083cdd2b3aef5c16fe4bb9fb0cedc45d9971f4e6939e2d1eb77bd7dfbc839
+seen_titlehash:83130d8308d9b35719362e8fc29f3f87c07cd1508a3d38b840f852d17379a04b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/20/azerbaijan-strengthens-relations-with-germany-beyond-oil-and-gas
+title:азербайджан расширяет сотрудничество с германией за пределы нефти и газа
+seen_urlhash:350cc4bebccea0b7f9cf435060e53f430a3789d39321ed239e6b8e95a16aae4e
+seen_titlehash:c26ce4d252d5ab70da6acd9f74fed875a259b95d3992f43d1616efc9cf7d83b7
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/20/mstiteli-lyudi-h-i-fantasticheskaya-chetverka-protiv-roberta-dauni-mladshego
+title:мстители люди х и фантастическая четверка против роберта дауни младшего вышел первый трейлер фильма мстители судный день
+seen_urlhash:fb89e21c86a45fe7df323dfefd31428825ef8975995aa3fad5af848034778c94
+seen_titlehash:9e339fe714cf45d768c4443f1779a53f6af6ab56e86b10d43909799e2f39a2f6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/byvshie-sotrudniki-obankrotivsheysya-shkoly-le-sallay-otkryli-novuyu-shkolu
+title:бывшие сотрудники обанкротившейся школы le sallay открыли новую школу
+seen_urlhash:d16de427a3003d57dadef1e9f45f54d48d2b498b2094c0fd4d28f166f9ed387c
+seen_titlehash:9846fccabaab38dd50e03c16bc523b7574f2230825d56016fb8de0949d1f24b7
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/20/po-moemu-eto-byla-polnaya-chush-futbolist-ueyn-runi-prokommentiroval-shou-v-seredine-finala-chm-2026
+title:по моему это была полная чушь футболист уэйн руни прокомментировал шоу в середине финала чм 2026 он далеко не единственный кому не понравилось выступление мадонны bts и кукольного оркестра
+seen_urlhash:06c00cae31f21bc204cfb80a2705f55c1947e46666abf824365de8ac5e726e78
+seen_titlehash:3b028b10803c67fb8f3392313cd6eb56b47a527fd88dd19c9b2fb30b884c5f7d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/yemenskie-husity-ob-yavili-o-morskoy-blokade-saudovskoy-aravii
+title:йеменские хуситы объявили о морской блокаде саудовской аравии
+seen_urlhash:80372b90434308f2046b7b46474044eb22ba5fb2892d9e14a2ef81308e879bdc
+seen_titlehash:79f703646375434ddae04e126dbb92ebdce89116804146fac8b6377572783230
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/vazhnye-istorii-v-35-regionah-rossii-perevozchiki-na-fone-toplivnogo-krizisa-podnyali-tseny-na-proezd-ili-sokratili-marshruty
+title:важные истории в 35 регионах россии перевозчики на фоне топливного кризиса подняли цены на проезд или сократили маршруты
+seen_urlhash:8e36f35cfb4c1445d0ba53c94df2ad44cfb50d02e2e770a2794a1303b8d82624
+seen_titlehash:e6f4ac7f10e3ea24ae2f2e81cf65b36bf9a09f7875fb3af466cd289191fad697
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/gosduma-vernulas-k-rassmotreniyu-zakona-protiv-rossiyan-kritikuyuschih-vlasti-iz-za-rubezha-im-zapretyat-prodavat-imuschestvo-i-delat-bankovskie-perevody
+title:госдума вернулась к рассмотрению закона против россиян критикующих власти из за рубежа им запретят продавать имущество и делать банковские переводы
+seen_urlhash:8a30d2dbe2129217be96d54b9aeff0ec0ed5d8a1e22bf4740295c95825f2ac7f
+seen_titlehash:eb2775564b2afa9bd9355b2fc4314f685e8b95db043b114827d8c9ee1e1a28c3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/v-belgorodskoy-oblasti-bespilotnik-udaril-po-passazhirskomu-avtobusu-pogibli-pyat-chelovek-bolee-20-raneny
+title:в белгородской области беспилотник ударил по пассажирскому автобусу погибли пять человек более 20 ранены
+seen_urlhash:40e89f048a023db59ce8eb065d7814c77ae10d9ba4fa8e8878353ff198b12809
+seen_titlehash:f864a060abb1cac57fdc015d0dc44c8e7363e41ca7635491c9634497a7592eea
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/20/zhenskaya-tennisnaya-assotsiatsiya-obyazala-tennisistok-podtverzhdat-svoy-pol
+title:женская теннисная ассоциация обязала теннисисток подтверждать свой пол
+seen_urlhash:4b1f8aaaf08826bb09edd87211f9e825071bd7d7203abe941d0c9f1cbd026460
+seen_titlehash:3b7c53955ca21fc073759c0a0171f06bdcfecc3ffcedb873f185e64d0d52f939
+seen_reason:processed_not_published
+url:https://ft.com/content/348530f8-994f-49ce-ae77-3e5d520c7794
+title:the middle east needs its own helsinki act
+seen_urlhash:5b84d36eda7d5367d930d7af866df40ad25b04808a0d7254a25fb703a11dd753
+seen_titlehash:831f773ae9dd9e370489ac2830c365c2fc4ec35f968e707d4c8f18159df071db
+seen_reason:processed_not_published
+url:https://ft.com/content/db8130fc-e5b9-4da7-ad15-31d75376a856?syn-25a6b1a6=1
+title:andy burnham s first speech as pm what he said and what he meant
+seen_urlhash:b207577867a8639d126379d53cd1454c156cf8eee8015bd1555efedaf5616808
+seen_titlehash:3ee412d2e3b02b8f12dfe86f5e645407fa4f9d9968de8d376442716be32f2e7a
+seen_reason:processed_not_published
+url:https://ft.com/content/97389cc7-7c83-496e-a2d2-72a1eb574281?syn-25a6b1a6=1
+title:yemen s houthi rebels threaten blockade against saudi arabia
+seen_urlhash:e4b78b2109d9d50e165965f953922e5d3f819600bcdfb8a457b24a3f90ea3bcf
+seen_titlehash:19e6a88a674002c58d39226fd94d9466a88031cb0547d1d26b4289cff2cdd2c5
+seen_reason:processed_not_published
+url:https://ft.com/content/c45ba698-6b6a-4880-8b36-d81fa61c3cee?syn-25a6b1a6=1
+title:why mullin is struggling to keep ice out of the headlines
+seen_urlhash:32c89fc376a6d1ec0b8be97d67b2c62320ad453dce7edd79632c6659b5e623a1
+seen_titlehash:d6ebc4b7818318c8a04e235ac689ca3e95812d3a2e8329deb46e5b9dfa924a07
+seen_reason:processed_not_published
+url:https://ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863?syn-25a6b1a6=1
+title:uk businesses are not deepening their use of ai suggests ons data
+seen_urlhash:23fd8445d43cd24b1774b76838da624a34111fb3cd23ec545ec2b83746501493
+seen_titlehash:b2c7d5495fdffac7c3a9834500f5b9ab7f30b2689abb8e57f28caaf1734d47c4
+seen_reason:processed_not_published
+url:https://ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1
+title:how i got into berghain berlin s notoriously selective club
+seen_urlhash:2cbf49fe135456fe83a05f4b05f9ce2b4c0925000f26aa2871b1813db8ffb197
+seen_titlehash:bec62d563955a716cec14aad11cc7a84b5109a039fc9c6121cca7e1687d47d15
+seen_reason:processed_not_published
+url:https://ft.com/content/51dad580-487a-43d4-8427-cdd764cbe8f5?syn-25a6b1a6=1
+title:zelenskyy s crisis deepens as ex defence minister rejects offer to return
