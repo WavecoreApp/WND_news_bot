@@ -10648,3 +10648,23 @@ seen_titlehash:083cfd560119c955371ecc54941dca0d085555242e1e232d5a5d1ea2ddab4a20
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/07/21/the-iran-war-could-consume-the-trump-presidency
 title:the iran war could consume the trump presidency
+seen_urlhash:6ea5edc18609207183edb31acf5b0614924ffa1ee8891f7275be0ec1c79af454
+seen_titlehash:f1515e249eed4cc97e9dc22bab7c80ba5dd055d0390d87edabdf3d46ab3b99b5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc
+title:health worker being monitored for ebola in london hospital after working in drc
+seen_urlhash:d7cb4bf5e4c4815c47cb4cce604109b2cd47cfd776d96ac27864e927b0c07e5e
+seen_titlehash:4b66dda91d4e6bc8ee5fee1c61618e392e4e0616db611564ac649f70e59b326c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/22/historic-350m-nsw-funding-boost-helps-launch-new-aboriginal-family-program-to-help-children-tell-their-own-stories
+title:historic 350m nsw funding boost helps launch new aboriginal family program to help children tell their own stories
+seen_urlhash:98ae8e71240214cd4d592691d9b57a442315d04e94f15faf828c43a0e693de8d
+seen_titlehash:dcb01b85563cfda5f2360bf9b1d1dbb6675222ab615b409ec478900f265b34e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss
+title:zelenskyy replaces ukraine military chief after protests
+seen_urlhash:d6fc099ab87e883ed29e72dc80736f0c36756045a2494a24081ac4435fc38f3b
+seen_titlehash:28af591683e6c4140f5d3e28ff207f4607d1d3574fac85be87de7ed1b2b5ab8b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/france-approves-blanket-social-media-ban-for-under-15s-13565790
+title:france approves blanket social media ban for under 15s
