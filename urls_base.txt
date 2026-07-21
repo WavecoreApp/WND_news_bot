@@ -8703,3 +8703,78 @@ seen_titlehash:6efe59b11043f88653b0d3be4bdc99ec126b0ae9a965c56e8bb5fad239a71815
 seen_reason:processed_not_published
 url:https://dw.com/ru/канцлер-фрг-мерц-нацелен-на-сотрудничество-с-новым-премьером-великобритании/a-78042921?maca=rus-rss-ru-all-1126-rdf
 title:канцлер фрг мерц нацелен на сотрудничество с новым премьером великобритании
+seen_urlhash:1c5eeb3afecbdc3d356ce7caa3e19326f52c2b729214967eb16640e25905bb71
+seen_titlehash:974b97a5c9fe3b6948726be3bc5e4f937e9b47727bae18e6cd0a6d342fa26c81
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/americas/guyana-ferry-sinking-barima.html
+title:at least 27 dead in guyana after ferry capsizes
+seen_urlhash:d0f326b9d3f2bdc4733f35b7d2f40798d2f793e2a2939a4378cf7ef619418c7b
+seen_titlehash:0aaa2ff4b8b3fc1823f934e802748707ac757f4a81fb3d9a7b39b09b4e4d6e5f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html
+title:daniel ortega president of nicaragua says he plans to abolish elections
+seen_urlhash:46265bd3bf82f8bf761fd16ed26ac881bda9760e7693fec34672f2d717a4a5b8
+seen_titlehash:a1666e6e1fae074ca5b7ac5705ba04783d9ce588e9dd3f36c2b6214f0f984c0e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss
+title:why protests are growing in ukraine over defence leadership and dismissals
+seen_urlhash:78d42377d537e158e372ea2ebda440a4f7fb22223fd9c47d88cd9ba5374fba44
+seen_titlehash:97e0aee955ac1e916933ef4babd3a5605be15f3b6a2bd69e7a7f4bcb70b061bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss
+title:tate brothers vow to fight extradition as they appear at court in miami
+seen_urlhash:6f72bf9a49f1b04ce3e2c7d6dd4b43cdbd542ac944169dd68cf47b5ceea7536f
+seen_titlehash:d7a7cb5479a36bbe3132e3ea21d30c871554e99092e230f414365878274a93ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss
+title:trump imposes 50 us tariffs on some canadian goods citing discrimination
+seen_urlhash:aca003d5e79a79f236a2acc2eecaa646e372c86306e3b336f026268f80fb7e1c
+seen_titlehash:52554adb06855d59b6f6acf3a36d33264d23bea065e81c63e7e3f8a98f1597e3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss
+title:us attacks iran for 10th consecutive night
+seen_urlhash:2a57efcd1d1d7c6623b88d2bb91f3c879484844a0624e2b3470d8f55497f3942
+seen_titlehash:f31754108287627b73095026a93a0bb79cb708d55c8d80525a186634fc148adc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss
+title:iran war live us launches 10th night of strikes tehran attacks kuwait
+seen_urlhash:71b37012f2d8956f716c21fc2d46f6681dc19a9f032b041875469778725060bd
+seen_titlehash:dc0684b5d04135ad8631f2adf9f9d9d6fdbe1adf9cb058ebc1038baa1085694c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss
+title:msf demands israel release detained palestinian healthcare workers
+seen_urlhash:c7c7bea9afe869d32160160122fb259d5ff057c8098fb9d7927049afa1431ead
+seen_titlehash:9d69503a96d0dde86361256dd3d9c1aa714525220fa800feead1c591aba19fb4
+seen_reason:processed_not_published
+url:https://news.sky.com/story/nicaraguan-president-declares-country-will-never-hold-elections-again-13565457
+title:we ll never have elections again says long serving president
+seen_urlhash:e295a31f8e923bf71bf3b3303ef013c9df9bd6fcc929dcd7f1afb2d48bad7728
+seen_titlehash:1837faf99badf423268118bcc6a3d03984466002e1773eae85ee085a909935c0
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-атакуют-иран-десятые-сутки-подряд/a-78042957?maca=rus-rss-ru-all-1126-rdf
+title:сша атакуют иран десятые сутки подряд
+seen_urlhash:a80794366b969287c3863ea602495b0189772bc8fb30d1e33b316918e8e24677
+seen_titlehash:fdec667ee2afb829124fa21b3528bac3012231c860870768a6b7b9e9c04846c9
+seen_reason:processed_not_published
+url:https://ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6=1
+title:nearly 100 us troops injured in two weeks since iran war resumed
+seen_urlhash:c30c04281399b016022c5148cfce56ab40e3e4b415103481bcba890ad9bbd164
+seen_titlehash:3cca7c8415d65b3ef413629066916d65ef561a15c44b0f5479e339d60076086d
+seen_reason:processed_not_published
+url:https://ft.com/content/42b65531-8d64-445e-bfdf-0d593d4e8c54?syn-25a6b1a6=1
+title:indian parliament starts session as student protests escalate
+seen_urlhash:d8683dbf92a6c3a195b51eccae8515bab539320b1bf08f1907d07512eba7ad6a
+seen_titlehash:ad922300f8ea62ed77c16fd8e6a92ad44a21d70b7bcfef69b981b71940e5b3d1
+seen_reason:processed_not_published
+url:https://ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1
+title:oracle could face 7bn collateral bill for wisconsin data centre
+seen_urlhash:43ceac57416b0622e0a8e1e0e973b2774e6be9169165c629f29dc19be3dd315b
+seen_titlehash:4954d7a60994570cab29d571882ddee9ea8f065bf682cb5f425e39ae80d8944e
+seen_reason:processed_not_published
+url:https://ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1
+title:jpmorgan boss jamie dimon warns of consequences if andy burnham taxes banks
+seen_urlhash:295df31d21ac9e18dbc53e82212b2c7d02709af51ad3acdbc0b481ed21ba1e93
+seen_titlehash:9ded3bb48919d44e78c484907cad869f113f43040c7c86f59780cc575f85f8c3
+seen_reason:processed_not_published
+url:https://ft.com/content/11a512f3-22b8-407f-b913-7ebea1c90d03?syn-25a6b1a6=1
+title:london stock exchange plans to launch round the clock trading next year
