@@ -10523,3 +10523,128 @@ seen_titlehash:6ca8546dfd4bb023cc5990e1590480ad8deaccd90827772e3c08c40eb43e76b9
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/21/pravitelstvo-opredelilo-ocherednost-postavok-topliva-u-obychnyh-zapravok-samyy-nizkiy-prioritet
 title:правительство определило очередность поставок топлива у обычных заправок самый низкий приоритет
+seen_urlhash:6a6ed9542d7e8f7012b87aca94b52b7be0fd0d9b5c338473d4408c23210fe67d
+seen_titlehash:f622d294be7544926fafc9be6b7711e002635bb7c36a9a25167798c6ac1c5315
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html
+title:a wartime rift in ukraine
+seen_urlhash:af9ed6ea42dd7a2798e5d1bcbea62a4096bf2725162a8995b39c4d7d479e34a4
+seen_titlehash:796ed32c326b6d4feff40c3e9ca4336c75e66f564a27f661d1c16dbec4b02578
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html
+title:what to know about iran s pickaxe mountain
+seen_urlhash:4e7cf2d8d700df4dc312ab2662bcd151daab3643faa6b4243dc997b06020100e
+seen_titlehash:02f0d29712a5e28e94e6f5a35b896d86750bc5a5282d587e99ef81556b51cf32
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb
+title:australia news live wong pushes chinese counterpart on submarine missile launch in face to face manila meeting
+seen_urlhash:fb302969d7b15becbb49d48f8299db19f0d00bf82f4a4fc0c7017c397650d3fa
+seen_titlehash:ab30b83f894d2d8658c834ba1272ffd69ab94b2501657f629b528a44f79116a3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss
+title:drone shows scorched landscape after spain wildfire
+seen_urlhash:ef2c64050d80d3d4c1cd3df3df0d8183ee5787803bc4f53c2e0caa9cb443a8c1
+seen_titlehash:4256fef4ee55476ff4540b6fbe40dcaa9f0a87e0ee44968d7ee89cc3cf34bcee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss
+title:us defence chief hegseth puts iran war cost at 37 5bn so far
+seen_urlhash:cefe6e4f38191976a03c630b2714eb9411f747407a93a2109e4f64264b9890a4
+seen_titlehash:03143fed7a9b2971c3f2768bb1d02a4a940856c6c64a4a7097b95dd30fab01e3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss
+title:iran holds funerals for children killed in minab school strike
+seen_urlhash:26aa516fc6e87e273689a08eb754d6ddf45d6e023f9b0793984f4223bfc9e016
+seen_titlehash:14bffd8635bff258ff0ad7f8a848f67b731cba85984910c3fec22f26b352c5a5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss
+title:how will khalil al hayya s leadership shape hamas
+seen_urlhash:8d67aab91ca0255f229adcb7fddd2c7882830a9a367b137dc9e7686ce6029244
+seen_titlehash:d551a2720b8a482061dc526529f2fd5b78b2628b07b86fe064929ca2f73a07c6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss
+title:guyana reports ferry disaster death toll rises to 41
+seen_urlhash:ab0f34fff0ff3a42c0050e96707503da0ba7621c87670497fd55aa1ec7f51e1f
+seen_titlehash:2c225794eba9c71833f20d2f225a04d2c68a7763f2ce59974dc9664779a38bbe
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss
+title:daytime russian strike kills three in zaporizhzhia
+seen_urlhash:e6217f888f17eb2204fb8cc72d28301832037bd57429238ad8480c7f4679af43
+seen_titlehash:a30897016282860e524f5730466478a0d98f5aae02f7750715c5f94d25d9722f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss
+title:french parliament passes social media ban for under 15s
+seen_urlhash:22d64f745215da1e5abba3eef995b8a0f3be82039d6e11978d8fe011282ef424
+seen_titlehash:1c9bf0a791c70650e0fc1db9b94068a8e8976db164bf88fcedd82557025eb5db
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss
+title:us funding cuts deal blow to global hiv treatment report
+seen_urlhash:ac955ccf5b702ade100b196ad32e4c4785f78eb78cefc82d9b52f66f04926598
+seen_titlehash:c74a3b74913684279489c77ebde5d158611835a1498e8e6009ed6c9263546e66
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss
+title:deposed turkish opposition leader plans new party
+seen_urlhash:543bc9102b138cb26501466ad02438acbcab5fa30d28ab9d0edc29221e9f77a6
+seen_titlehash:1f5c41de6d8219c1ee2cad029f062f528329df335769a87ba278b620fa102ee7
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss
+title:carney says he and trump have agreed to intensify trade negotiations
+seen_urlhash:89d6b7e0159d372a072e97753ac30461590a8f6e689a65034caffac3b7fd75d9
+seen_titlehash:693b66fa3bc4f451f5d3183f2befb0d93b0bfa49dd35753d3206d1f48b2b97c9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss
+title:spain battles latest in series of major wildfires near madrid
+seen_urlhash:64cb8b55fdf9bfa609a3d6621c71dd4baf76f8b6187ddc9b77e3bb6e48fb76e5
+seen_titlehash:d821c8cb13147f0f8540da50719c4e64b8c24c2556a425331ddf6e0ed1207e38
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss
+title:kuwaitis ration electricity after iranian strikes hit power grid
+seen_urlhash:1df68bdda4809eecce97b9b5f5215e1242bbc361b58940a268ad8413e828e3eb
+seen_titlehash:a98e42762982dc7352e7dbc25d6e628f467fd73a9ec12b15f31932dea54c9ba3
+seen_reason:processed_not_published
+url:https://france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors
+title:zelensky fires army chief oleksandr syrsky a victory for protestors
+seen_urlhash:0cfb4bfba163286e08bf0d87bfb9a88ee13c50e6b4273b75d487632c07891630
+seen_titlehash:6bef782344f85fddf04c86e328c66b45ec05a192d60dac5d091a034edf4bfa50
+seen_reason:processed_not_published
+url:https://france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un
+title:senegal u turns to back ex president sall to lead un
+seen_urlhash:c1ca2f3c6571d2ff173353aab00070f70f409b38a26ff68b2c553780f32b2304
+seen_titlehash:04dcc2b9af15cb2e2b4708a47673b133ee2989307125e9cbbfa25047c98a21e5
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement
+title:ukraine s zelensky fires military chief after protests and names a replacement
+seen_urlhash:5a0dee42a0fcd40236dac01e9efdfbf7fa0d39394f52c902b931f1e3a75ad62e
+seen_titlehash:8689844ae36ebd383190e0b4b09ec1e4e1c542da5082e044eb6c47d4bb8e2f2a
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-решил-назначить-драпатого-новым-главкомом-всу-вместо-сырского/a-78059682?maca=rus-rss-ru-all-1126-rdf
+title:зеленский решил назначить драпатого новым главкомом всу вместо сырского
+seen_urlhash:a13c1eb4d22015a97d2ec214f1090179cdc732f9b27398d3aa75db412314d997
+seen_titlehash:f8ed4211986055f63c70b8a61f228e55130ee236192d193a10a2400bbfc36446
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/21/two-firefighters-died-tuesday-while-battling-a-building-fire-near-bordeaux-merignac-airpor
+title:двое пожарных погибли во франции при тушении пожара у аэропорта бордо
+seen_urlhash:679e90b2c5110e193b2723e0427d1bf097bd3baf657ddd39ba906902e4ba8f6d
+seen_titlehash:78f865ecab9a355c85cda7335a5e927ec00a7b0782113846e937ec9bee1e35b2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/21/aliyev-says-former-russian-and-german-officials-were-in-baku-for-a-possible-meeting-over-u
+title:алиев экс чиновники рф и фрг приезжали в баку на возможные переговоры по украине
+seen_urlhash:c7260aa8040269203677984bc6e3eefc51b2c3c39ee62c288d5514ff9f32fc54
+seen_titlehash:dc154ec9e38c209547e4d244c88eb42e60292116ae81992f5ba09d6cd9a25327
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/21/ukr-commander-in-chief-replaced
+title:зеленский снял сырского с поста главкома всу а федорову предложил достойную должность во власти
+seen_urlhash:e70d4868f2802313f776f19da485e8b2df94344c2fb556891d8306c07c1bb1ad
+seen_titlehash:ec7c23ed54b3d035ed76a70207ba8f19d12a65597166729c341c05b668ccbf3d
+seen_reason:processed_not_published
+url:https://ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1
+title:zelenskyy replaces top ukraine general after mass protests
+seen_urlhash:bf301b2c2be1fc2719cc9c8083fda20b9b5b58754481c8afc36552270cbf5823
+seen_titlehash:c85dea95e9029b5b03d970d1250680f42a1e8bf724089bc9b9cb70e3e2cfcacf
+seen_reason:processed_not_published
+url:https://ft.com/content/79d588f8-13fa-4a12-8326-bf9250755de9?syn-25a6b1a6=1
+title:us treasury sends warning to hedge funds over tax alpha strategies
+seen_urlhash:befa155453221e45f73d512c39e836042d5f4bd3a78c514ba6041da63ae261b0
+seen_titlehash:083cfd560119c955371ecc54941dca0d085555242e1e232d5a5d1ea2ddab4a20
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/07/21/the-iran-war-could-consume-the-trump-presidency
+title:the iran war could consume the trump presidency
