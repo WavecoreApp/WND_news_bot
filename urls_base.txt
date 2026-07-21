@@ -10668,3 +10668,38 @@ seen_titlehash:28af591683e6c4140f5d3e28ff207f4607d1d3574fac85be87de7ed1b2b5ab8b
 seen_reason:processed_not_published
 url:https://news.sky.com/story/france-approves-blanket-social-media-ban-for-under-15s-13565790
 title:france approves blanket social media ban for under 15s
+seen_urlhash:a3ab70b0f49a6b2ab0fe5fbd684894af7d8700d0898164dba0ca32e85e575370
+seen_titlehash:201da407b4f19621e6c6ee1cf8c3a48dce3ec6daee6dac3a1cf9bd00ad1f41a0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html
+title:mykhailo drapatyi what to know about ukraine s new top general
+seen_urlhash:ed08aa43bb82d78e38d55013f93a8946871f77196f7b93e89b2935aca479e58e
+seen_titlehash:dfecec8f0824dea62e79f9127749cf15d30d0560a05a085645acfb1df2f51b2f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/22/kate-ellis-is-back-and-this-time-the-heat-of-political-debate-is-higher-than-ever-the-incoming-labor-president-says
+title:kate ellis is back and the heat of political debate is higher than ever incoming labor president says
+seen_urlhash:f3ab206bce3182f39c287b6cd39d0a8389380400d2f19ef2399c288816dba67f
+seen_titlehash:2afce848be33cb6ab70fa8fa845e25a9b2ed5e630c7d820ec6a9671c12f6b296
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss
+title:lebanese army deploys in pilot zones under us backed plan
+seen_urlhash:221e97ae8c959a901e1f4eff5fc910ed65f9df2c1f398abd4160a8c7c90097ad
+seen_titlehash:26e38d00621900a7510a2c9b20416badd28c794f82904bdc81b80249d5ec4a53
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss
+title:trump administration attacks us left alleging cuba ties key takeaways
+seen_urlhash:93d6d1e41085a9dd89b7f57b094c0f14ac4ecf3731906a44e5b3bf6c46a2841f
+seen_titlehash:8dae6b0eeee4ab49b274f8e4e8241b6a46eb035f0be0e247e7187f4b29280841
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss
+title:moldova chooses new prime minister as it pushes for eu membership
+seen_urlhash:d49e150e595c881801b9d93637154d6aa9ee93f959a4ea2664e0b88e23033d4c
+seen_titlehash:fe0c2d9255c0619ee1b6c341e1ae87f1daaae452ccd8a11062c441db992355e8
+seen_reason:processed_not_published
+url:https://dw.com/ru/движение-крымская-солидарность-объявило-о-закрытии-из‑за-статуса-иноагента/a-78059920?maca=rus-rss-ru-all-1126-rdf
+title:движение крымская солидарность объявило о закрытии из за статуса иноагента
+seen_urlhash:2794eee2b2572bf95963a2dcc1372ffe04217c73ea0a041f63c31ea4415dddcf
+seen_titlehash:195f9f1c4e8eb9d778ba891ec5f9bea314af7f63d1985a8bd222281f39484b07
+seen_reason:processed_not_published
+url:https://ft.com/content/dafd2342-4322-46bd-9837-73abff063989?syn-25a6b1a6=1
+title:trump reinstates direct us flights to lebanon after meeting its president
