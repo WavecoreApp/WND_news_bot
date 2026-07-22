@@ -10703,3 +10703,103 @@ seen_titlehash:195f9f1c4e8eb9d778ba891ec5f9bea314af7f63d1985a8bd222281f39484b07
 seen_reason:processed_not_published
 url:https://ft.com/content/dafd2342-4322-46bd-9837-73abff063989?syn-25a6b1a6=1
 title:trump reinstates direct us flights to lebanon after meeting its president
+seen_urlhash:9616f5f4cda3be2b16b861ae32b5e0382a586c787c1820863a1d8b0ebb2e1881
+seen_titlehash:6561292dfb995cae22cf811b2cc06b44dc502c41285bddf8c49577a66c9829bd
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/21/us/politics/trump-iran-threats.html
+title:with his latest threats trump signals to iran that he is willing to escalate
+seen_urlhash:97b0d82b4ed1933ef66502c2c103fe867f15d1550237e049a863f890ae674849
+seen_titlehash:82d8d6b1ec93e2910056273e387fd9c9efdc9d947d6ef3960ce0e48d36d84278
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled
+title:canada cancels joint bridge opening celebration with us amid trade tensions
+seen_urlhash:465034fbd807c5a178158acf978a3ef5eac8f32964ce5da5b6d34cf0b49e7eda
+seen_titlehash:d30e72e0c818da33b4baaa24436ec3cd8d79c9bc4589552e39f425917e2e21ee
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/22/perth-bentley-teenage-boy-charged-murder-mother-attempting-to-kill-sister-ntwnfb
+title:perth teenager charged with murdering his mother and attempting to kill sister
+seen_urlhash:9821976db470933c19f0584729ba67530c211bffbda71fafc90fb292d97d8537
+seen_titlehash:9dfd5a87c8fc06c8ac15696c9c983cfec0d3e15c0ae7a3f6bb90feb7fe2bb35a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss
+title:former biden official can t see pilot zones scheme working in lebanon
+seen_urlhash:bcd3476b583a08d1bafe3471d87d899b52babf70acf8cb6adfe5aed3767ca462
+seen_titlehash:907880d5206bd1fd6f7348b9db5cb8f6811f798c7d1a80064f123d4b98bd9004
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss
+title:leopard caught on camera storming into a store in rajasthan india
+seen_urlhash:cf1202afe65294a949d6890ccc4fa8b2091b14f23c698a9f0fa85964648fc0d5
+seen_titlehash:b8b178e12f05146b5275d3b1be27bed651dcfd4b91a69a3392061e740a7392e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss
+title:iran war live us launches new attacks hegseth says war has cost 37 5bn
+seen_urlhash:09115b03cef00b067635bc1eac0f15d0faea4562903910cad5b7f3ec0754cb27
+seen_titlehash:a6cb03b7fc2b2057e8d5e141199f710c2e7b0ad9995d7914d2be918da13e908f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831
+title:zelenskyy left with little choice but to sack his army chief and it s a spectacular fall from grace
+seen_urlhash:1b6e180f9f60e2a6817173ac6f77f6b6f369013385f8edcd56c71fbbaa9c04eb
+seen_titlehash:7b98300fee05cf085a896c7109ec8945434ca0bfcaee23d895049281c4469b2e
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260722-trump-announces-100-tariffs-on-imported-generic-pharmaceutical-drugs
+title:trump announces 100 tariffs on imported generic pharmaceutical drugs
+seen_urlhash:d08d8533b7c464a6c9710caf119152405b482cdc8e335758f1c7aa8bed3c18bf
+seen_titlehash:a0e9461b7a1c284f01f8eeec5b256c003abca86c6413df3e5ecc1b9978af40eb
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters
+title:middle east live us launches 11th night of iran strikes as diplomacy falters
+seen_urlhash:f2bebb36b8633a334843bb29342a10e88426bfebfdd26cbbba7928bebe84cedd
+seen_titlehash:9dc44917e08d815cea8c4df35853985e9c0d34604f5c4af6c027cf42399c890a
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens
+title:trump says us not finished attacking iran as conflict widens
+seen_urlhash:45612fba9082eb59fd4283064b2e3ed93aed31c75092e4ad16a71b6024d3200d
+seen_titlehash:588ad85705df47252ac128ab26f1156264ce88e65eee5e3ada4741fe293cc57f
+seen_reason:processed_not_published
+url:https://france24.com/en/canada-evaluating-all-options-after-fresh-us-tariffs-threat
+title:canada evaluating all options after fresh us tariffs threat
+seen_urlhash:0294c080b5c65d15008ad9af44ce70f2a8a4932d9078aec128fd3fac7dd0c1df
+seen_titlehash:7fff9cc38ae0e11c79588517305409407b97efded288cff93ff8e3ddb53a193a
+seen_reason:processed_not_published
+url:https://france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon
+title:trump says will be hitting iran s pickaxe mountain nuclear complex pretty soon
+seen_urlhash:d742569753e3911d2744b9e3657f963df18774414df403f885c65ba4b194f993
+seen_titlehash:d27364fb5ee069115a38a68b6893624a87f12c78243a9e0005cdd550e47a70f6
+seen_reason:processed_not_published
+url:https://dw.com/ru/11-я-ночь-подряд-сша-продолжили-удары-по-ирану/a-78060240?maca=rus-rss-ru-all-1126-rdf
+title:11 я ночь подряд сша продолжили удары по ирану
+seen_urlhash:73af2eda7bbbc415298d61270660ac6a512c100363bba50925943d971ce42b15
+seen_titlehash:ed20d2989794e618f593f6a8cb904f5de46ab751d55f27a4f2ab25fd1bfadcb4
+seen_reason:processed_not_published
+url:https://dw.com/ru/госдума-рф-приняла-поправки-о-топливном-демпфере-для-сдерживания-цен/a-78060142?maca=rus-rss-ru-all-1126-rdf
+title:госдума рф приняла поправки о топливном демпфере для сдерживания цен
+seen_urlhash:e77e69eb7fd6789496a91bf98c54c4b5d19249d3a0a19a87072eafe214d7f00a
+seen_titlehash:bcdeba9ecf2c584fe7ab525cc44b456d1d26b9889173758a775f5078369f382a
+seen_reason:processed_not_published
+url:https://ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1
+title:investors fear japanese bond bets risk becoming new widow maker trade
+seen_urlhash:844e585eafb0166b0327ea2ceaed37b14a91e4e3ae1f7caf0abddee240e53595
+seen_titlehash:afa4286757f60c1757268a798ed9aaed38476fc192f4c4ef3e5c8ddd67468b40
+seen_reason:processed_not_published
+url:https://ft.com/content/86e0c0df-8280-4224-8db2-81a662164554?syn-25a6b1a6=1
+title:trump plans 100 tariffs on generic drugs in 2028
+seen_urlhash:11405b87e7033569162aaa2c865803fcbe509233405e70b463a7b9d1853b3eb2
+seen_titlehash:b81b8dd33769ad1753b6ccb6480c432502433a280abdd14823eb8aae5762e758
+seen_reason:processed_not_published
+url:https://ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1
+title:openai admits an ai agent caused a major cyber breach by itself
+seen_urlhash:b876f77d598f7f262096bfb5207cf3091c73432b499d6def47d4d034ea53fb9c
+seen_titlehash:5df81660a4391c9bf7df9580a4615c8c3a28846274be30448cf06dca6961b5d3
+seen_reason:processed_not_published
+url:https://ft.com/content/9cff12a5-db1f-4a70-b048-87428c181dbd?syn-25a6b1a6=1
+title:trump taps big tech critic as chief of doj antitrust division
+seen_urlhash:2787c000f1cc574a494da56d85588092d1096f56255bf4f6ab3ee7bfa9c0980c
+seen_titlehash:e36344d109ba545d0d39ff84bf48cce4525b7e546c34a22c2daf41512c255f4a
+seen_reason:processed_not_published
+url:https://ft.com/content/86a7abb4-69b3-47d6-be95-47e76625380b?syn-25a6b1a6=1
+title:japan s trains are getting much faster as moonshot policy takes hold
+seen_urlhash:523ed802071ed42063020f9298d604deedcfd19045a65607f5b4ba3da992cbbe
+seen_titlehash:51b29db344c99826f85b69087c28ee4fc6cb90ff4db230a71f88bdfe8cc31916
+seen_reason:processed_not_published
+url:https://ft.com/content/79e78631-50ef-4149-9054-b67325465eb6?syn-25a6b1a6=1
+title:mps call on burnham to extend employer tax break for under 25s
