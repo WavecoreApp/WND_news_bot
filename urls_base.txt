@@ -12668,3 +12668,93 @@ seen_titlehash:0e712162b904233a0aa709cfc215938776fcb6bf84d062f154f7d0a7e21524ef
 seen_reason:processed_not_published
 url:https://ft.com/content/98b89ef9-f36d-4ab9-8ee3-0c0940ffd734?syn-25a6b1a6=1
 title:taiwan s drone ambitions play to its tech manufacturing strengths
+seen_urlhash:782b9fa0d9815a838fb3f3293290f5998e06b4c9db81c93f3ea3b7a1cb40bd9d
+seen_titlehash:d8fb3a0b9c27ff10192d3ab122da8c4a5733763d52de5f98fb0da9eb57f9f82e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss
+title:blocked by censors china s animal lovers take fight against abuse offline and overseas
+seen_urlhash:cec208de860ac6ca01ec1c302088fee3d6a31ce04c4b08276c42233ce60f2d5f
+seen_titlehash:8709a3fec5e06b6726a199148d94e2f3cf390478ce3e04ee00661ca792fc95c8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss
+title:a year after deadly jet crash at bangladesh school families demand answers
+seen_urlhash:7eebd71747c72e6c6404109153e95547d8cb3b47a6cc8c9333cd750769901795
+seen_titlehash:6cfd014a725c876b73a51278dfc7d0e9414403630612d2fa3209dcb3c94c6459
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss
+title:indian police cracked down on cockroach protesters they went home and made memes about it
+seen_urlhash:8250f5e582879b9b9cbb4cafd1547c1e9aeae76e5a41b8f24251314c607d0927
+seen_titlehash:9d66c21360371a247ee6eb2eb959322491d5fdac57ea61704bd3f6a378b87fc7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html
+title:what visuals show about recent damage to u s military sites in the middle east
+seen_urlhash:3a4596da8cdd262af3b779c032dbb94db112a49834591e87753c84b5015f9062
+seen_titlehash:1090d31574c6068d99baff33b74a467fe45331e67bc9be2b06df467a52cf6f6f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/22/world/middleeast/us-troops-iran-germany.html
+title:u s troops seriously wounded in recent strikes were flown to germany for help
+seen_urlhash:17576815f153e8bba2a260ccc23243a72970edf2e2fed2ac6beabe307d9375af
+seen_titlehash:e4ec4c0814d951e77d7b2e4f9dc5b114e977af563523a04fd230580aa1f6abb5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss
+title:austrian home where hitler was born reopened as police station
+seen_urlhash:8b4c7d3c1bf656d75fbb22cca3f99bdfaa2b1cfd215c183d1385831810b12daf
+seen_titlehash:632c22af1f8e4c43a8a5533c1e82eadacd812e076e1b565540914c3ab2ec0b9d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss
+title:yemen s houthis claim attack on two saudi oil tankers
+seen_urlhash:e2abaf42183634c47feda6e59517527714434e53aad1031e5baed7a7af0d2b3b
+seen_titlehash:7afa1c5f4d971beb5b142e537583647863a476198d4f7496505dc78c47f6ed1b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss
+title:rubio says us china must work through big differences at asean meeting
+seen_urlhash:ea16ee55c537a8e9e6df00a263abd4259d3c6a9f196c8159b72b6bfdade1dbe3
+seen_titlehash:a9d87bf938293ce6eb96379a25fbce0ebf94c2d229573a75939dc1df192c9b36
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss
+title:iranian missiles show deadly precision amid us iran war escalation
+seen_urlhash:429847830f1a29d000ae961e13dae3c688d72ad797eab30fe9772ec9154fb1ac
+seen_titlehash:a2d604a5113ed0b97b81959b2436b2eac622edaa8461561a77923174d529a061
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss
+title:us launches new strikes as iran warns of regional turmoil
+seen_urlhash:57eaf6ff43e38a233a6b4e60ceee3fc6d44217233e6b50f1e4efb4389f994112
+seen_titlehash:7a298c95ba281410d44c2778e181ac0c4bc05c816d820284ec515a4ade6908ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss
+title:wounded gaza journalists call for urgent medical evacuation
+seen_urlhash:5537fd557ed9d71e8067bd22dabfa59c89b369e5f907a1136121f2abd6de1573
+seen_titlehash:a43d5aabf637d620f94b21325a945d074bd95ee1187c1df03e3dd642cc5b2325
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister
+title:ukrainians welcome new army chief but seek return of fired defence minister
+seen_urlhash:28c8c5da8aee05075ff90bb07e013746c52412df0eb916d75f0700339e2008bc
+seen_titlehash:3454dcb583ff98681d2bc76c945aeac0ee00b663c7cdac8a29446759cd7df0e1
+seen_reason:processed_not_published
+url:https://dw.com/ru/ес-не-возражает-против-слияния-warner-bros-и-paramount/a-78077810?maca=rus-rss-ru-all-1126-rdf
+title:ес не возражает против слияния warner bros и paramount
+seen_urlhash:d5c3010c181a7ed275dd53585c18f9727a7830224cb100588bead4a44c05135d
+seen_titlehash:c6a423c5396d89bebc11ad7ceb7ddd6a46d1f7152f5ed37627a292a92eb7957a
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-за-каждую-атаку-в-ормузе-сша-будут-уничтожать-мост-или-электростанцию-в-иране/a-78077761?maca=rus-rss-ru-all-1126-rdf
+title:трамп за каждую атаку в ормузе сша будут уничтожать мост или электростанцию в иране
+seen_urlhash:14731136e8817cb116667c90ad91513033ea83b663460237f8e482e749409906
+seen_titlehash:d57e3aacbdb5a0b1bcc13d6fb8e1c5c981de83ef326a4c05acce3f0ceb6834b0
+seen_reason:processed_not_published
+url:https://ft.com/content/149b3a6e-b004-4e27-a9de-52e41b47404e?syn-25a6b1a6=1
+title:uber founder travis kalanick raises 1 7bn for new start up
+seen_urlhash:729050ff16223f9042d2de357c97f1b13587b37c07eed45fd3787ba510eed331
+seen_titlehash:97fa63b6622bb4df7415cd4c273e7cdfac685801acca86c107813ae6c24135bb
+seen_reason:processed_not_published
+url:https://ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d?syn-25a6b1a6=1
+title:openai hacking incident exposes mounting risks in ai arms race
+seen_urlhash:774cb9d89b48c3fb1459cc5b1ada4e0d78a7abdcad8ac3e4cfd212d448fc6ad2
+seen_titlehash:95796fdfa45286295b542069423c311403af5d6c8d18ca85915f92006b35e434
+seen_reason:processed_not_published
+url:https://ft.com/content/874d9482-dedd-4c53-a6c1-af6f9148bd06?syn-25a6b1a6=1
+title:firstft google burned through cash last quarter amid ai infrastructure splurge
+seen_urlhash:1a665f24c45ad10102f9f00fd36a0ee70d4418149c3414a67059e19438c35cd0
+seen_titlehash:523f8bbd7fd0d6e54f6ef90085804ede5c918628b67eb4a5bf567249af8c2218
+seen_reason:processed_not_published
+url:https://ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064?syn-25a6b1a6=1
+title:russian gas cargoes to remain exempt as eu nears new sanctions deal
