@@ -14613,3 +14613,33 @@ seen_titlehash:b53307ceaaba6a092bdd9535b1d00e2663028c657177b7ba263eeb637a7beafe
 seen_reason:processed_not_published
 url:https://ft.com/content/35b73caa-b173-480c-a00c-bfd5f820ce2d?syn-25a6b1a6=1
 title:dangote secures record 2 5bn investment to expand lagos refinery
+seen_urlhash:bbdd53faebba3e0df711fa3b87e74fa4e04e8314adbdedd9f59e5969c2b7a061
+seen_titlehash:b492d9fed86005e6885b7d9f139c8d91ddad97744f645f489754c182f8010327
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss
+title:is this italy s george floyd moment
+seen_urlhash:8852361fda4a886e33ea339f7a6721309860ced3c75d4813e140e6b4b5f45fb4
+seen_titlehash:46d7e97fb6aeba7506ee9783241ad32e18e0484657293d9c47b946e933440395
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss
+title:us war on iran the 110 billion price tag
+seen_urlhash:e429f121a136bd3306c6cf9a0b817d74e2896e1cb53cf63be5ccc8d3bcef7d14
+seen_titlehash:4b6a1b899f000c127ba42fca42e826c4cfc691c28746279fa989704216c84926
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss
+title:trump warns of largest strikes on iran yet as tehran lashes out across gulf
+seen_urlhash:770baff36de68177c368767c50f75b2851b61fa099117ee9b3432d2303da6368
+seen_titlehash:3d4f62ea74f69961b53e34b3b83054cc9090573fb8eaeab84d83233ea6612ff8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss
+title:us saudi nuclear deal hinges on normalisation with israel
+seen_urlhash:92b3601b09cd7e22c88aefcb860fa61bac27835fab3344fb8f8f907503ad414b
+seen_titlehash:f0db5b0e639327273a05bb8ffd6bea719af0557682962aefebbc442dee26190a
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260723-indian-activist-ends-26-day-hunger-strike-though-student-protests-continue
+title:indian activist ends 26 day hunger strike though student protests continue
+seen_urlhash:23799e011d48f15f90f4cbccee34f19973298cc41ccc8ee27945b7807059844d
+seen_titlehash:ea4c47316cf04b8afc2fa6f07945e334bcb08f71446e84c833ff1466bb9b9144
+seen_reason:processed_not_published
+url:https://dw.com/ru/вступил-в-силу-21-й-пакет-санкций-евросоюза-против-россии/a-78092152?maca=rus-rss-ru-all-1126-rdf
+title:вступил в силу 21 й пакет санкций евросоюза против россии
