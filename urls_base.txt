@@ -14643,3 +14643,53 @@ seen_titlehash:ea4c47316cf04b8afc2fa6f07945e334bcb08f71446e84c833ff1466bb9b9144
 seen_reason:processed_not_published
 url:https://dw.com/ru/вступил-в-силу-21-й-пакет-санкций-евросоюза-против-россии/a-78092152?maca=rus-rss-ru-all-1126-rdf
 title:вступил в силу 21 й пакет санкций евросоюза против россии
+seen_urlhash:67a788be92026a06f4da32fcccb71cd5421f8d101f036da329cf05256ac0c754
+seen_titlehash:e8fa8796aa834e2e44c2d4a69ffcda7c24d13a21f2ad19d6d771dbb342ad157d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html
+title:prominent indian activist breaks hunger strike after 26 days
+seen_urlhash:448b61ba32701f6c9145953798b5971782247665baea50f0fcc2a94e5e3ca9f5
+seen_titlehash:8f267a68c366437ff461f26e8c794c22dfa3ed3d920b45dfc6f353007aca3ccf
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html
+title:iran rejects u s cease fire deal presented by iraqi leader
+seen_urlhash:b000c94df265b1aa5f5f85ae56f4b8365a49b8c7b03d8d583658447f9dee8e4c
+seen_titlehash:6327b8a7319253e3e6b75baa53a41192e8bbcc2a2b7d23bb441d7e2f4a5321a0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss
+title:how the houthi red sea blockade will impact the world
+seen_urlhash:38d4fdee9b156bf8ec3edabbe1d2feb8ab179ec2a1565e9024a2d9b848fcadf9
+seen_titlehash:ddefafd58ee5f964017519a13b3f3f56dde2cfeea3cbec4221560c22032b9443
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss
+title:arab and muslim countries condemn israeli storming of al aqsa mosque
+seen_urlhash:0640d18e044650a2fb98a8926147546720eab4d18a9492edaea418ae21e88b79
+seen_titlehash:dfe6a1f075a4f7c06695bf201c2c8af95e1ce37ffa03cde066fbc6f6b28bda3f
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260723-new-pm-cuts-business-rates-for-uk-pubs-in-latest-cost-of-living-measure
+title:new pm cuts business rates for uk pubs in latest cost of living measure
+seen_urlhash:9f1a132d5415de2c1b6b1347076ca7295cd2895eec1ab5bb9452a43215cc937b
+seen_titlehash:633263cf1779eee7f3d3e340013f8f9b5a670c03231c4ac0f20d8470b22be5fc
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession
+title:fields medal honours four mathematicians as ai reshapes the profession
+seen_urlhash:b743b16e0b3b7f9ca5e1007e5db9c4d601e82b8bcbb2ca1cd731771c658df9cc
+seen_titlehash:75137d7bf96c836355ee94984b2425156b5de8751702277c1ae99326470e0036
+seen_reason:processed_not_published
+url:https://dw.com/ru/вероятный-танкер-теневого-флота-рф-покинул-францию-после-уплаты-штрафа/a-78092242?maca=rus-rss-ru-all-1126-rdf
+title:вероятный танкер теневого флота рф покинул францию после уплаты штрафа
+seen_urlhash:657a47807aecb06f7d8eb1295a996d805726a450ce2ce14b592bbf18badfc8c4
+seen_titlehash:7cd4d8c9b259f6a6120b9419d3019cb33eec5a30dddad521a147a02824a1b6fe
+seen_reason:processed_not_published
+url:https://ft.com/content/1fd567d6-1591-4256-8976-95fac46f522b?syn-25a6b1a6=1
+title:sewage discharges flout guidance near 65 beaches in england since may
+seen_urlhash:6998f7368f3c4ac5d0a475a0f68b89cc2fbab6df942e913050baa6970e91e0fa
+seen_titlehash:fa471b23b6d91c5e04ced866b75561f3da116da0a2a2cc05f6e486057de51879
+seen_reason:processed_not_published
+url:https://ft.com/content/856296a6-abab-4dba-ac39-9b74f9b137f1?syn-25a6b1a6=1
+title:sun football and burnham push uk consumer confidence higher
+seen_urlhash:e66ac81fdcfa6c8e418dd2ca7cc9e8e27701a33140e7dbcb6fd1b92769f85b4f
+seen_titlehash:cea65d2f6ac914f3e8b51cb01330b68b9632779a7709a670dc421c2016b1687e
+seen_reason:processed_not_published
+url:https://ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1
+title:us hits 60 countries with new duties as trump rebuilds tariff wall
