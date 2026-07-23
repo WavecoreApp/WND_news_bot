@@ -14403,3 +14403,108 @@ seen_titlehash:bd1af37053ac8ef866520dacb777be7ab7a95408b00c64a1d1ba1038d7255fa5
 seen_reason:processed_not_published
 url:https://ft.com/content/afeeafb7-2a0c-4aba-a798-cecd2d8c8685?syn-25a6b1a6=1
 title:the nestlé supertanker s turnaround is in train under the surface
+seen_urlhash:6281e07463fbe2a0fc55ab8768ae5273fb346ca918de879ae212aa15eb381ebc
+seen_titlehash:52aa1eedc5563a5b84c2ebdfdbfd440471516e604423feedb86fedd21c10d8f8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html
+title:strikes against saudi tankers in the red sea send oil past 100 a barrel
+seen_urlhash:62bc0083eea0708614e879d2a593582b474f878daa104a338748d8a01d6baeb0
+seen_titlehash:2217b5dcf2a55feb7caad6107695f9c5a6cd5ea164b15f70d6117145a24062c5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html
+title:trump throws a potential wrench in the saudi nuclear deal he just inked
+seen_urlhash:e6b52f04509e5d9004f902df2e83723c6dc6d45d594f35f427c80e78e9584f6a
+seen_titlehash:537e402033dccb45e0fa047c30da8cd207b9c8854956d93c29b29e050c801c26
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss
+title:indian activist wangchuk ends 26 day hunger strike over exam paper leaks
+seen_urlhash:8eeaf25d0da64ab78f06986781101154e2521b67a2dd856a53175a84a6745569
+seen_titlehash:0df8e339b1a0fa458515dd297eb3ff47e84b8109b46b3de6e856aa61e76226aa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss
+title:minnesota man who killed democratic lawmaker sentenced to life in us prison
+seen_urlhash:47240a67649df064f1bd33711b03c2e0030efc3e2d5b21bc7cc6632431c4df00
+seen_titlehash:eea5aa684f6195420e4f9ada7f0341ad91b886678655e2e27de91b73cc6e9e55
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss
+title:journalist killed in mexico after years of exposing corruption
+seen_urlhash:fc9953d7aa7dc5098ca9018cff461e2895aa21825767540f2eef8754112556fd
+seen_titlehash:6b880882c265e78f5f36b99573c71351d82a28879af20453b4b458fef961ca73
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss
+title:resumption of oil exports will yemen recover its economic lifeline
+seen_urlhash:036efa8e31a303394a77f1d37016db4426b237ad79a179a4eeec39e10d208553
+seen_titlehash:a5d4886195dca06334ea221cc8973796a828d745f1a17382b8f5b00d4e8b3c99
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss
+title:can india s youth led protest movement bring lasting change
+seen_urlhash:5f9d6ff3fa42ca726c86193bcdef2049bcf05f6e1673038a149cd3ed533d5c48
+seen_titlehash:7dbf2eeef3c2f9df6823005564b58fc86386749d9931b8f24ae83e31b7bb87fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss
+title:children wounded in israeli strike on khan younis
+seen_urlhash:61018394b4a307f0f00b5c5a5ed010122c34b8833e9cbacd01242835ba5ecfee
+seen_titlehash:f044d2bc0fee439e5a7a2726a2aaa3c765f2d2a1038806195a07ca0aa62d43a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss
+title:world bank estimates venezuela earthquakes caused 19 6bn in damage
+seen_urlhash:bf352b5590cedf0bcf58d7c33cd67d283ab23cc439ebc0d1c513c103b52af3a4
+seen_titlehash:00b1420c9a9db25d767198fdce06110585c0d6f6b50b758ab5e68597deb388ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss
+title:iraqi pm makes first official visit to iran in bid to deepen ties
+seen_urlhash:d49da5b05cb153794ccfbd9d8e0d15616287c48fe53ab9f4190df5e168ff4f4a
+seen_titlehash:0f22bcb433debaa4705fe3b3247668416f13e9039d83761a57ddd508fcd42013
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party
+title:virginia governor abigail spanberger in paris there s no single blueprint for democratic party
+seen_urlhash:5b9022d29667b9a240c2730a9375fd5bba7b92cad3b9b6421d057225fb1bd8d3
+seen_titlehash:e28f13941b716e10fb5c1ead7bae7fb0d43c5fedf71f53433183256ed4e916a9
+seen_reason:processed_not_published
+url:https://dw.com/ru/михаил-федоров-согласен-лишь-на-пост-главы-минобороны-украины/a-78091774?maca=rus-rss-ru-all-1126-rdf
+title:михаил федоров согласен лишь на пост главы минобороны украины
+seen_urlhash:484e2aa9757978654a3713dc3778a1d174f7f182edfd93a5e404f5612d33c515
+seen_titlehash:b89f08f3ca41025013373bf7b4ee0d8f54a60a21371c3a410cb15ded410d1393
+seen_reason:processed_not_published
+url:https://dw.com/ru/конфликт-с-ираном-станет-для-сша-новой-вечной-войной/a-78089351?maca=rus-rss-ru-all-1126-rdf
+title:конфликт с ираном станет для сша новой вечной войной
+seen_urlhash:d1d18c7ffac42af5126a769f848525fa98a31f9dd4861fe29b4c2354cc9e3163
+seen_titlehash:c7d1545e8e77c7d536b6e39c2a82539b71f073d564835ff0a421f4961fac7dd4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/23/the-world-cup-boosts-chinese-tourists-interest-in-spain-trade-prepares-for-a-golden-week
+title:чм по футболу подогревает интерес туристов из китая к испании бизнес ждёт золотую неделю
+seen_urlhash:13c9aa8579d696ef37631f21d4a236cab77855a2895b808a110e39e9589c1467
+seen_titlehash:7048141d07b5a47f07a3c9ab3f098bd0886faeaa4b886d18ff173501c872a7c5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/23/greenpeace-warns-of-an-unprecedented-fragility-along-the-spanish-coast-with-194-critical-p
+title:испанское побережье в беспрецедентно уязвимом состоянии зоны под ударом климата
+seen_urlhash:697ad5c5eebf1701b06aded9c6b6b4f3151f3e292e69fd9d2e0b17dbbe458253
+seen_titlehash:2f24036103d98aac77befa5a3adf58dbabfbfb4f5393e917f51c870a45f93aeb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/23/de-la-fuente-raskritikoval-igrokov-argentiny-posle-finala-chm
+title:недопустимо и неприемлемо де ла фуэнте раскритиковал игроков аргентины после финала чм
+seen_urlhash:7825a35ecd1376905674d03b6e7ff3454d92098407077ac96c6aea9439c8a1db
+seen_titlehash:72f6b45b7a2c14ae80e1ac0b0f0a2e4de4bfb7a3c53504266ebca31e00500ffd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/23/novosti-dnya-23-iyulya-2026-g-vechernij-vypusk
+title:новости дня 23 июля 2026 г вечерний выпуск
+seen_urlhash:05813298985c26bd85dd90922d8c118a3e6e3a98c5216d78c778f72b38a4fd0b
+seen_titlehash:a7613e76423168a4bdb29c89561d7193ff58c31e022417366a998a47ecf032c1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/23/vsu-stali-chasche-bit-po-zapravkam-v-belgorode-i-oblasti-za-pyat-dney-atakovano-okolo-20-azs
+title:всу стали чаще бить по заправкам в белгороде и области за пять дней атаковано около 20 азс
+seen_urlhash:f09605ebfa3c29b75a528b9909a37d1955266a2f67776d2e2da84bcbf24d1807
+seen_titlehash:e50af473e4774c9d33a75a0e8bbca6d555feb251e66309e218bd81c24f81bd1b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/23/rossiyskiy-byudzhet-v-iyule-poluchit-na-60-bolshe-neftegazovyh-dohodov-chem-v-proshlom-godu-blagodarya-rostu-mirovyh-tsen-na-neft
+title:российский бюджет в июле получит на 60 больше нефтегазовых доходов чем в прошлом году благодаря росту мировых цен на нефть
+seen_urlhash:bc9e38ffbbb17d7a91791a6c384c2d8a0ccb26b841d9462c2eef47028937b3ea
+seen_titlehash:4da6e95f77835f297ffda65cdbf101ddb4b793dfb179f7de21a0b2633b1a6b1e
+seen_reason:processed_not_published
+url:https://ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1
+title:intel shares rally after chipmaker posts fastest growth in 15 years
+seen_urlhash:79066b5f7baae6dff91361e1e35d5ac6ca22d875b6dd97c3155fb247955cf861
+seen_titlehash:cffeeb30a8350428ded25d5635182bcbc85155b9bb5ee4937ba0e2fbd3668f29
+seen_reason:processed_not_published
+url:https://ft.com/content/f46bb42d-b61d-4932-a07b-09172b15509f?syn-25a6b1a6=1
+title:how andy burnham s rise to pm was helped by those axed by starmer
