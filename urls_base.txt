@@ -16503,3 +16503,8 @@ seen_titlehash:c37612ae5fb986acec905a12c4257c8d78d84a340d5e4c8b0a4a8ee93956ecb7
 seen_reason:processed_not_published
 url:https://ft.com/content/b99f3302-1c83-4acb-b8e4-28a880c1339a?syn-25a6b1a6=1
 title:icc ousts chief prosecutor karim khan after misconduct probe
+seen_urlhash:3d38fd73584bbc219647e4b7933c8216092b8f25eb27786e0f17181a6c3cb108
+seen_titlehash:e3cb86b106ef070e611f1c4ca808a1fc7f83c09ba3391042526902a828285606
+seen_reason:processed_not_published
+url:https://dw.com/ru/мус-утвердил-отставку-отстраненного-генпрокурора-карима-хана/a-78106813?maca=rus-rss-ru-all-1126-rdf
+title:мус утвердил отставку отстраненного генпрокурора карима хана
