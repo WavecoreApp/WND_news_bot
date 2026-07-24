@@ -14693,3 +14693,73 @@ seen_titlehash:cea65d2f6ac914f3e8b51cb01330b68b9632779a7709a670dc421c2016b1687e
 seen_reason:processed_not_published
 url:https://ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1
 title:us hits 60 countries with new duties as trump rebuilds tariff wall
+seen_urlhash:9873250c7ab334c1cfbc997d6ce5c4f612da815fc5c393722c06c1eaa6b68f25
+seen_titlehash:e270f898e252f2b129dc45556c7f0b1b74dd4e3e740dbea3f559ee72d11ef411
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss
+title:us imposes tariffs on dozens of trade partners over forced labour imports
+seen_urlhash:93de9af6478caf0b8c0530c7deabbf2270a8382e02219bddc9437bf7e6d0b552
+seen_titlehash:46f01043a1b4dbdf31d1ce8be97ef2db55cba89ac331df652de10988570029a8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss
+title:indonesian babies were trafficked to singapore what happens to them now
+seen_urlhash:34270383d5769b22c8b0d05fe03ca074922c169b3dcbbeaf50aafbb4329fed1f
+seen_titlehash:cc0c1ab0e803be79ced4fa4848f4c653eec0d38cc967cca51f03e0e9de78a1b0
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight
+title:qantas tests new ultra long range airbus in 17 000km direct flight from france to melbourne
+seen_urlhash:677442c68d6e8d0859f0a12106375d0d7673204f1fefa949e70de27691d0928c
+seen_titlehash:f4e41fa10f1af43ea5a1e1b5ea9cc1277e47feb1e5edf3143727b35996027f55
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour
+title:donald trump hits australian exports to us with new higher trade tariff over claims of forced labour
+seen_urlhash:0a256635d273a09bc32d209141b86681c389ce238b3d3f749b2b4867ef7ca039
+seen_titlehash:78b1b56d16230280aab6170cff5a74648f8b10dbabfe93f2ed7ff3fe1ee447e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss
+title:mike waltz pressed over al jazeera video during congressional hearing
+seen_urlhash:5a439453561058096fca94e46f79226501fb8578706798f6ce5cf789d521fe1e
+seen_titlehash:bb26e15e1db32d0dc28ed8077f553c382781efceee9053cfcf8d8c759f630dbc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss
+title:trump imposes new double digit tariffs on dozens of countries
+seen_urlhash:a5c9bd8662b4cad1caf5a24c3a673230a1ea67c1f159db772c88dacd8ae54ebb
+seen_titlehash:78b2b6c32b21b7206c60fc45f7ea131a73c856643d93695fd8572b84355bc9cd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss
+title:analyst voting against iran war funding a tough sell for congress
+seen_urlhash:10f2872461aaee27177a558f02fc251a61601e44cded106edd3e60ec766bf6e2
+seen_titlehash:db19a17be03f8645a87964f3d20be021fb22a032e2d7113a341f9d7b540ac94a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss
+title:israel bombs gaza after displacement orders kills two palestinians
+seen_urlhash:1debf2bc8b211659670623f88cfd2f1951473126c7ca25df799342d7fe070788
+seen_titlehash:f872d7922627fab1f4180ecce80b8f157499f2fe51d3b1cd583291acddcb66fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss
+title:un envoy for yemen alarmed by houthis red sea attacks calls for talks
+seen_urlhash:749a057bfb7b133e4773241ef3d3b8e84847e465f9d9d95ec0d1774c67d3c0a3
+seen_titlehash:349add9059cd2057e6039eda66aa338168b32fd85481f9d338e8e9de681438fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss
+title:iran war live trump weighs massive attack on iran
+seen_urlhash:a87017de287eb39a75e69586a107a7ae59958a6d7d92da10553b53f380c2cd05
+seen_titlehash:dc8e6a720b3ba235e9e637f0aa9a48d952b4fc7356c8386e1d800d4f3bfe62da
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/23/trump-expands-voluntary-pledge-to-blunt-ai-driven-utility-bill-surges?traffic_source=rss
+title:trump expands voluntary pledge to blunt ai driven utility bill surges
+seen_urlhash:58f6ebbeb811c1db7ab8a4c5d7f192ea3a167765a0063ac33bc2493619afbfb7
+seen_titlehash:df330c71cd789aa3baa98c4e3f890416bf0e7e77c85465e9db779b9304299e4b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss
+title:two palestinians killed as israel intensifies strikes on gaza city
+seen_urlhash:49f9c5d2c339b512aaad25943c60aa07cc23d63603925122edc62344c00db81b
+seen_titlehash:46ab41bf8a680636fda4057049b90172e2dacc2136b7646b340f1e1efdbb53ec
+seen_reason:processed_not_published
+url:https://dw.com/ru/доход-рф-от-нефти-в-июле-может-на-60-превысить-прошлогодний/a-78092565?maca=rus-rss-ru-all-1126-rdf
+title:доход рф от нефти в июле может на 60 превысить прошлогодний
+seen_urlhash:64ff14ac58f931d5c7823f3ae1a0ee777763f787d6a8b4ec726f35692ba09d47
+seen_titlehash:c9fcdccd94ad7d534e10c0ed4d106099e16c5d38c5d25bd912e6cb7de23c4934
+seen_reason:processed_not_published
+url:https://ft.com/content/c529dc01-ad31-4f1b-a8df-14eff1e4579b?syn-25a6b1a6=1
+title:why india s student protests are different
