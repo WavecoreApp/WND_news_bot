@@ -17313,3 +17313,33 @@ seen_titlehash:110b5e29c0c363fcc7ffc241a7c4715bc8301ac42452a3da555551c55cb142b6
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/25/vse-eto-nado-ostanavlivat-tokaev-na-vstreche-s-putinym-prizval-zamorozit-voynu-v-ukraine
 title:все это надо останавливать токаев на встрече с путиным призвал заморозить войну в украине
+seen_urlhash:1442ed0d93647008c6b072079365a2fbeceaa75b4977844003c63e4d3adf3936
+seen_titlehash:cd3c178078058c792da09b544a7b5cfccbd14c22ef6abad87af7f070b290444b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260725-pogacar-closes-in-on-tour-de-france-victory-carapaz-wins-queen-stage
+title:pogacar closes in on tour de france victory carapaz wins queen stage
+seen_urlhash:7bebe1e28d33c0e706816dae2508269c7032c65ad226251e24971b0cf2d2e6f9
+seen_titlehash:c35c49aeef2f00af32ab89aa034ec3eec3a90224ef0d7f16e8be533d075755cb
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-украине-задержали-организатора-оружейной-выставки-по-которой-ударили-вс-рф/a-78114344?maca=rus-rss-ru-all-1126-rdf
+title:в украине задержали организатора оружейной выставки по которой ударили вс рф
+seen_urlhash:9247059f1ddd02402c7a4762920fa329d19334f87ea6e09229c83ab26897c8db
+seen_titlehash:79f5ca920e7169d4ec72c571bbb943eb4315362598c10e906c8c784047ae14a9
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-запорожской-области-при-атаке-всу-на-турбазу-погибли-12-человек/a-78113619?maca=rus-rss-ru-all-1126-rdf
+title:глава запорожской области при атаке всу на турбазу погибли 12 человек
+seen_urlhash:c610b57e87c2e07c46f1ce22fcb54ee384faeb59ba52a2192abf85a8ce5d5adb
+seen_titlehash:df4b663ebf291b40a0a87c8165a6f61f24c4181ce37dfc68cb17f0937ba03d16
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/the-figures-of-the-tragedy-one-month-after-the-double-earthquake-in-venezuela
+title:статистика трагедии спустя месяц после двойного землетрясения в венесуэле
+seen_urlhash:7a69b63a813be3eff96d28ab245a038d6cd19f15df154d0277f596ef8429a0e1
+seen_titlehash:3a1ba0281ed2d663373bbab785af0d7c64d7d8fae48856bd91739a052db1d159
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns
+title:движение тараканы в индии прекращает протесты после отставки министра образования
+seen_urlhash:5830140b38dfe13ea2b7fe870b03760048ca5d2576c259d04c32d2691f3df06c
+seen_titlehash:5a020f859bfb6d1280c03d10eb8a202e74f47b151e789aab51bf773f5d5c3d4f
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/25/issledovateli-morya-nashli-samolet-pan-american-na-dne-okeana-on-poterpel-krushenie-74-goda-nazad
+title:исследователи нашли самолет pan american на дне океана он потерпел крушение 74 года назад именно из за этой авиакатастрофы сегодня существует инструктаж в самолете от бортпроводников
