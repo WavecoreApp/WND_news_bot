@@ -17548,3 +17548,43 @@ seen_titlehash:47f8881a4027d1ef08b51d79d404942a01e35b01d11bc05f6b9bd04fd7aae18c
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/26/v-berline-avtomobil-v-ehal-v-tolpu-lyudey-est-postradavshie
 title:в берлине автомобиль въехал в толпу людей во время лгбт прайда есть пострадавшие
+seen_urlhash:feb71f795e20049141a579b0355cf337ca982031d0c7bc8832318d6ba9562404
+seen_titlehash:37534e337056437e23c81aa3bd6f030ff1f6d2d2aa93b2653185f4b65312446d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss
+title:smash hit how alex eala s wimbledon run made everyday filipinos fall in love with tennis
+seen_urlhash:f8cec7cd5cdd1f33a1cd6bbdc5525b3839f7cfeda5229c5b7c3c26314bd706b5
+seen_titlehash:d273586c10aaee0ca63bd17f7f9fcbc6116d2d14c1364a3c14043118b93b8bd5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/us/politics/trump-iran-military.html
+title:trump holds off on major war escalation against iran as advisers raise concerns
+seen_urlhash:37321436ac0380276bc17bd9834f95697ddb764875280a0a01a7a7acfd4f961d
+seen_titlehash:7ed22095c224c42c9307ce20489bede2a69179a29156179ae6c1d4572f8882c3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/berlin-car-attack.html
+title:berlin pride event cut short after car hits crowds
+seen_urlhash:0c0625ed29853c11b86fa0256656e664fcfc2448578860679515cca524f720eb
+seen_titlehash:2a20dcdb080cafa37344293483c56dc99d1d0a98ed05af9f37cd7fa3da1e151c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss
+title:one dead 14 injured as car reportedly strikes crowd at berlin lgbtq event
+seen_urlhash:54fe5371d57105937436e8ce4d4afa3c4a335feea58e80b14067253350970a3e
+seen_titlehash:243f91fd4668b8552858d486aa2e8fd35d3545e2ef3d8acdd196bf4a52d59457
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss
+title:israeli forces target gaza s al aqsa hospital
+seen_urlhash:5df77ae6ba951b6b8be6c279f34b4052a8771db59d2ef231668f84382202600f
+seen_titlehash:0921e5302ede64dec1fac61bfa034cc6cc3da4d306dd8984869d23faa6c7020e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss
+title:what s next for venezuela s path to recovery from devastating earthquakes
+seen_urlhash:1d0615eac7acdbe9c63efff203c2419c4191dfb3dabf3d7c9d51562f1b35cbed
+seen_titlehash:b1d187aaf25930fb17fd56f25d2ce08d3ab7b2ce44593e8374fea67b2e0b9874
+seen_reason:processed_not_published
+url:https://news.sky.com/story/anthony-joshua-wins-comeback-bout-against-kristian-prenga-in-second-round-knockout-13567028
+title:anthony joshua wins comeback bout in second round knockout
+seen_urlhash:2f57d3e6ed3251f751501da1ea3c35e07c3efb370b698c93d3cfd86546d508cf
+seen_titlehash:31db78e842fc2b0f2f5a73c792d2ae8ce9c93c424698fcaffe71779143bad805
+seen_reason:processed_not_published
+url:https://dw.com/ru/фургон-наехал-на-участников-лгбт-парада-в-берлине-один-человек-погиб-14-ранены/a-78116150?maca=rus-rss-ru-all-1126-rdf
+title:фургон наехал на участников лгбт парада в берлине один человек погиб 14 ранены
