@@ -16733,3 +16733,128 @@ seen_titlehash:e443bb6d1b959c5ec833aa59326d6368799f5daf0f19b3a8bd6e09ea060c4464
 seen_reason:processed_not_published
 url:https://ft.com/content/4cfed0a0-041b-4052-9fb1-6f5ecfa0b60f?syn-25a6b1a6=1
 title:delivery driver poet heralds arrival of chinese migrant literature
+seen_urlhash:35c5a7c30ff51f501460d082293739e5f89f85431ef5a61e842f10f1c4e9325c
+seen_titlehash:00127de9e1e82fe132007e0328cfecdc8c05833c1031985dbada1d823606b19d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html
+title:canadian intern at nato military hq is arrested on suspicion of spying
+seen_urlhash:f423661ec3a94cf88849029e78a8b84b99b65b5c0967fda66bd21a6d825742d2
+seen_titlehash:880818055b09a13b226536fe48f406a38ad1870248a67bed0d0bb3318b603064
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/asia/india-protests-profiles.html
+title:who are the people out protesting in india
+seen_urlhash:5b7cdaa1647d0495cf81fda6a270a75967edddd8ef5f58d29e8ec96e0757cb8b
+seen_titlehash:f79477c72a904d702931ee8701eedb45bc7abfec82c919e9491608fc91a33bcd
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss
+title:born too soon premature babies fight for survival in gaza
+seen_urlhash:263e351d8f214f94be83036b60b666c91a6ac76b22bebdc97860b43b785bed99
+seen_titlehash:ed5dafc73299989cd04568d1dbdafa8e08365edbe23627dc37c11bb3cde4f685
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss
+title:guterres arrives in syria in first official visit by a un chief in 17 years
+seen_urlhash:db85cd215a7e1d809aee9cf7e2cdce25c97eaa44d977a3ac90862181101c69f0
+seen_titlehash:d8208a4651b4e4d37196ed262dcbf451be09a8016bee758723d854a22e545e06
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss
+title:trump i m running for a fourth term as president of the united states
+seen_urlhash:82a089b5258a399c7426bd64c0da048cd14804709c4933a85078c05b8522662c
+seen_titlehash:854654cb497d10dbe8dc1081559718a7ccf628fd3002ddbbd1012aec33f51783
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss
+title:commonwealth games gymnast langton s headfirst crash leads to concussion
+seen_urlhash:6e12eb922f791e13b9e3d849b849446aa370e1f44ce6d9355eea30e0189d198c
+seen_titlehash:43abf28e8caf13b280d765cb136485362d4decc3831d6becf152a6fe570bc948
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss
+title:venezuelans hold vigil one month after devastating earthquakes
+seen_urlhash:d2cf50b01fe52a05568e431a9d2762ac1b7ba6cce29f8f73c1c521269b45e17b
+seen_titlehash:fb2c0ee94e830fa6f1ca88511c823dc00806352d9347e4e66155659ae6db8c0b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss
+title:south africa s le clos breaks commonwealth games record with 19th medal
+seen_urlhash:58c7084fdeec933789ef3565243b6553af6fc59c4d4b9b0fcb4f99cc834be005
+seen_titlehash:e73b6fda04a447e244124014b775679966f03a8d2d69a58ea9f08ce4629fdc63
+seen_reason:processed_not_published
+url:https://france24.com/en/the-problem-has-been-extremely-high-winds-wildfires-sweep-through-southwest-france
+title:the problem has been extremely high winds wildfires sweep through southwest france
+seen_urlhash:06d907d6cffa56a3cb6761093f1c2e6f971e5a2bf560c9b76ecb209fe79bef3f
+seen_titlehash:1e57ec56576160baad25edd5ba28f0be782055a8763d9261994b4c697ad7a499
+seen_reason:processed_not_published
+url:https://france24.com/en/it-smells-of-burning-thousands-evacuated-as-wildfires-rage-around-madrid
+title:it smells of burning thousands evacuated as wildfires rage around madrid
+seen_urlhash:b10af44ca09de113c8e4459a2dcd4f5405d2be3bf9215caf41fb7b14f449ff1f
+seen_titlehash:9a90e0226af104084934620cf989295e28c1bac1ac8214d9e0b7457a8aac9913
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war
+title:guterres arrives in syria for first un secretary general visit since before civil war
+seen_urlhash:e73d084215d299f8202c39c614b2424bfc296dacc97695513ec3192cbfc52881
+seen_titlehash:baa6dd7b05e4f1744bc81f3518e1d273bc00ddea3f2fe2c5635eeef8d1513efa
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260725-trump-lashes-out-at-fake-news-and-jokes-about-2028-presidential-run-in-press-gala-do-over
+title:trump lashes out at fake news and jokes about 2028 presidential run in press gala do over
+seen_urlhash:b6b473b575e7ae9e5ad675329b3b1ac58e0923178dcab5b4599ea72ac729e69b
+seen_titlehash:b72405f05ae1739a5bd85998ae822a46d7a02b1963fd32044ba55257888acca6
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes
+title:yemen s houthis say they hit saudi arabia as trump weighs harder iran strikes
+seen_urlhash:4b5efb204980e88931c1a039cb2355d184211a352c7a274346c237e5529e6ff6
+seen_titlehash:8cff80b89c79eb75a29ce2e7f121cbbad4a8cdcaa13d387ee64e4e361831904c
+seen_reason:processed_not_published
+url:https://dw.com/ru/промышленность-фрг-ежемесячно-теряет-около-15-тысяч-рабочих-мест/a-78109302?maca=rus-rss-ru-all-1126-rdf
+title:промышленность фрг ежемесячно теряет около 15 тысяч рабочих мест
+seen_urlhash:70d7829cbe154f24dbe684849049af0e5d06bfa166c9cc0ae1db568af571296f
+seen_titlehash:14bebcb4fc491082deac9618579514e0935d725cd3f9b206bb44b25bb4a73b01
+seen_reason:processed_not_published
+url:https://dw.com/ru/reuters-трамп-собирается-принять-зеленского-28-июля/a-78108766?maca=rus-rss-ru-all-1126-rdf
+title:reuters трамп собирается принять зеленского 28 июля
+seen_urlhash:208dd99947d1cfc7fdfa1a6e862c4bba24c5ddd69d19db90e7ab7532ad5a4277
+seen_titlehash:3714008164b7a2422a15bc4d11765bab15488bd696446206f32c005ebaef9963
+seen_reason:processed_not_published
+url:https://dw.com/ru/венесуэла-объявила-о-выходе-из-международного-уголовного-суда/a-78108040?maca=rus-rss-ru-all-1126-rdf
+title:венесуэла объявила о выходе из международного уголовного суда
+seen_urlhash:641251e59c4357552ec8af44d689e920596d603d61d6b072317da3e1220904d3
+seen_titlehash:d53ffc82cd5a8af303d50b5b15f0708cb72b300aca9a062e524ac9481d4f88b3
+seen_reason:processed_not_published
+url:https://dw.com/ru/депортация-афганцев-из-фрг-высылают-не-только-преступников/a-78097359?maca=rus-rss-ru-all-1126-rdf
+title:депортация афганцев из фрг высылают не только преступников
+seen_urlhash:00caa8a31df6a440e068bf1af54342d892a7f581670bd8712764fe35de5f423b
+seen_titlehash:434bf4e122155c3bdd080086d3083750a210ddc14d0dec7f512453ecd51b3045
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/chickenpox-outbreak-spreads-across-gazas-overcrowded-tent-camps
+title:ветрянка охватывает лагеря газы тысячи случаев за две недели
+seen_urlhash:fc740676f60fcb680e79806294127edec93fe496ba868d526e111d26674f919c
+seen_titlehash:969a586f2a7cfb3dce638597791e9c2e5edc8ee257a0a8d5f327fc56d1f3e3f2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/tunisia-marks-saieds-emergency-measures-anniversary-amid-deadly-power-crisis
+title:тунис годовщина чрезвычайных мер на фоне энергокризиса
+seen_urlhash:339e65314494c5b3e60d7c05a7a4be30f9ccb4b7a39935a0ab2865ea2556e57b
+seen_titlehash:6456925af66d6ea73ee31ca3608f9529ccd0eefeb7335dbccb7b3b0cc1a08829
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/25/war-in-ukraine-saturday-morning-update
+title:зеленский предупреждает о крупной атаке россии в ближайшие 48 часов
+seen_urlhash:6203ee5ddf22616b153b49c67bf0233d0eb228abc7e94a3eb66ebe9ce282f955
+seen_titlehash:8afb9c15d7e8cc1e7a5417bb17c12013028ac3245841d79de788035f111c88b0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/25/i-do-not-want-to-replace-models-with-ai-fashion-designer-steven-passaro-plans-industry-rev
+title:я не хочу заменять моделей ии дизайнер стивен пасаро меняет индустрию моды
+seen_urlhash:95dbd2a67be8b7835b20cbbe134a342d7a1350cc7a8625153388a16c36484339
+seen_titlehash:1810aad0df76db656e4dfb4860972397a260586837c7f4fb8190fd524e4e2aa1
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/25/v-rossii-stanovitsya-vse-slozhnee-zaschischat-krasnoknizhnyh-zhivotnyh
+title:в россии становится все сложнее защищать краснокнижных животных кто под угрозой вымирания и есть ли вообще польза от того что их заносят в красную книгу
+seen_urlhash:428f33bdbecddd94bf6ffa53ac95e759972ac88362c64afa47060c196c6ad2f3
+seen_titlehash:e950ef3b9d0dfa919bf8372506ef5cc9b0e22983b2be84325a143ac7c053d6cf
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/v-ekaterinburge-okolo-sklada-wildberries-nachalsya-pozhar-ukrainskie-telegram-kanaly-pishut-ob-atake-dronov
+title:в екатеринбурге произошел пожар около склада wildberries его атаковали украинские беспилотники
+seen_urlhash:baa2f11062fd7b29300802f4a540fd7cb06ed972a3662632736899be33447795
+seen_titlehash:becc837448d3537be83ca02e8923ea9b3f5e81e607acfdba64be42ba6d569b08
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/bolee-300-ukrainskih-dronov-atakovali-regiony-rossii-i-krym-v-rostovskoy-oblasti-postradali-pyat-chelovek
+title:более 300 украинских дронов атаковали регионы россии и крым в ростовской области пострадали пять человек
+seen_urlhash:c2944ca91c01209301a0ca1c8f8320a04409c05caaf28f710c4aa59155a3925f
+seen_titlehash:36ceac17af2b60a65b02860ab2ab4a74343bc5e6be4b87b7476b7ed08efbc703
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/25/umom-ponimaem-serdtsem-nikogda-ne-prostim
+title:умом понимаем сердцем никогда не простим что думают читатели медузы об атаках всу на склады wildberries
