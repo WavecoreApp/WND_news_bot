@@ -17448,3 +17448,38 @@ seen_titlehash:c352ecca3905838bb6dabd8e87548cb9a4837b94b2eb83cea97fb013e65a9386
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-германии-открылся-юбилейный-байройтский-фестиваль/a-78099876?maca=rus-rss-ru-all-1126-rdf
 title:в германии открылся юбилейный байройтский фестиваль
+seen_urlhash:f3a7c9d8f4dabfebf0fd8383232ff508cf84d8164a2f801553fc322b12e185a2
+seen_titlehash:f24103eb257c8457164247a3ad6b6f608e690316deccf8616da8995de733697a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss
+title:ebola deaths in drc surge past 1 300 as virus spreading like a wildfire
+seen_urlhash:5eeb560629cf0787950c916f440031b84e93cd3162619b2f6e427d28201494a6
+seen_titlehash:e392515d8221903f3f850cf5ba06e95ecdc31e30a3dbd4a3c4be7394e9964f4f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss
+title:how netanyahu gov t media reforms risk deepening israeli press bias
+seen_urlhash:30f19c262899ec02c6d04683796d6293cd3440dbe0159e64d41d5805260d5676
+seen_titlehash:88297cea549642dbd71a1e3696ddf3a40b50e6c854959fa1373893fef9126609
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss
+title:why epstein s survivors are still fighting
+seen_urlhash:5e7e658f8872df2eababbe1227048055e8d923a5c5f918424a9b88cbed40539c
+seen_titlehash:b30cd28037a42aec575985e9c22707935b08af500c33f250e78e5856e1c9227a
+seen_reason:processed_not_published
+url:https://news.sky.com/story/man-charged-after-suspected-car-bomb-intercepted-near-irish-border-13566985
+title:man charged after suspected car bomb intercepted near irish border
+seen_urlhash:36218bbcc8545af57e1313da43cc23c66886b1c952268191dfb501c2bfff9ea7
+seen_titlehash:83fcb440f43ec2d03478998294fb157dec325358da941d07b91083d4ec6a12ef
+seen_reason:processed_not_published
+url:https://france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank
+title:war in the middle east deadly violence mounts in the west bank
+seen_urlhash:a63983b1013ff659dae5a8078a3b5eaec5bf933667ad73f851c45881282b26f8
+seen_titlehash:8fc4fcfe922e7e0ceefbdc995162d1049e132216da8e86fca8ab222449ce1bb3
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-заявил-о-планах-рф-расширить-мобилизацию-осенью-2026-года/a-78115444?maca=rus-rss-ru-all-1126-rdf
+title:зеленский заявил о планах рф расширить мобилизацию осенью 2026 года
+seen_urlhash:435ade2b41f9ba30ab1f7221920aa978b1dfae239230bd596bd4ad8f7336a6e6
+seen_titlehash:c243f967e8ac1998748cf9dbe670d5f5acc4d6ce1dd5a6bf74bb6d2be0ae720a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-берлине-прошел-48-й-лгбт-парад-christopher-street-day/a-78114976?maca=rus-rss-ru-all-1126-rdf
+title:в берлине прошел 48 й лгбт парад christopher street day
