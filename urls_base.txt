@@ -17343,3 +17343,78 @@ seen_titlehash:5a020f859bfb6d1280c03d10eb8a202e74f47b151e789aab51bf773f5d5c3d4f
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/25/issledovateli-morya-nashli-samolet-pan-american-na-dne-okeana-on-poterpel-krushenie-74-goda-nazad
 title:исследователи нашли самолет pan american на дне океана он потерпел крушение 74 года назад именно из за этой авиакатастрофы сегодня существует инструктаж в самолете от бортпроводников
+seen_urlhash:a65c66993c893b0d79af6b2efb207105829fabcd69f66983249095d3e3feea27
+seen_titlehash:4a1c2c96fd605e5a5339fad4df78814b0a566fb74d128d3fd0e7e01c03b00395
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this
+title:there have always been wildfires here but never like this
+seen_urlhash:a74b996916d56c35a6b2e82e61137127e992df5b74e35b7c1b9bd774a4fc45f1
+seen_titlehash:97e0ca143957e62ea8141f9db4d034e86af953f4bc5d1e652e3168c73d7c728c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss
+title:india win second t20 in zimbabwe to take series as kishan and varma shine
+seen_urlhash:c24ab5d03fed292183eee15116ea0e4c85846052670bed1b829cd89fb8564432
+seen_titlehash:fb087d679c25e73e0f60ac25bb73763a7f0a30fa07fc7600d39ac7ffdc39f420
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss
+title:we have done it joy as cockroach protests push india minister out
+seen_urlhash:87ccee596c2075f1258d5de8e0bf633eeb4186209f6c04e98fc00cf871183b80
+seen_titlehash:8c5a625884dcc55d6e49774dda0d49732749213fedbaa4819151dc188698b168
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss
+title:syrian fm calls for israeli withdrawal in meeting with un chief
+seen_urlhash:a57449d24d57afcf2648d43011fea0c74bb6775938c537ca1c5c340f22ff2692
+seen_titlehash:2d2e300fa7b087e03b5a8f3dcbdb79bd4566c565c227a153716998de15323c6f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss
+title:the battle over al aqsa
+seen_urlhash:684534538ee82f64b201c92ecbab43e85fb71cd08ace70968bb46d57790daeb2
+seen_titlehash:7920e37755729afd6e81da347e39d02aa6256ec1126c69acebf48419712a7555
+seen_reason:processed_not_published
+url:https://france24.com/en/india-s-cockroach-party-says-ending-protest-after-minister-resigns
+title:india s cockroach party says ending protest after minister resigns
+seen_urlhash:cc3600400fb0c596ca0872e4b4dba1c7dac036d90dd8b8f51ab3a31dfafb5730
+seen_titlehash:b64a6ad1a94cc215a8a8a1c8a7bb239c2768b7c407f3d957e6cc453df7157e71
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260725-pesticides-cadmium-pfas-france-reckons-with-the-hidden-toxins-in-food-1-3
+title:pesticides cadmium pfas france reckons with the hidden toxins in food 1 2
+seen_urlhash:f849b956abaa6653d0269f09c2a896c8aed388c5b8dfc122765e7ca6be455136
+seen_titlehash:0382279065a421ced9938eb7f04b34402df85c6f480d497cc789866078ef6e81
+seen_reason:processed_not_published
+url:https://france24.com/en/spain-wildfires-force-70-000-people-to-evacuate-in-madrid-region
+title:spain wildfires force 70 000 people to evacuate in madrid region
+seen_urlhash:fdf775f0e53dadf980cd63b768e9bf6545658aeebbfcf0bead3f0053d76dba91
+seen_titlehash:0d7d10b147456eec1b256892af30525badfde2668952fec92dae90ded8c05225
+seen_reason:processed_not_published
+url:https://france24.com/en/200-000-people-flee-their-homes-in-france-as-wildfires-continue
+title:200 000 people flee their homes in france as wildfires continue
+seen_urlhash:4292b9750d7ac7e2753c290c153cdc3f80ba298947a950c14bbfe9ae08ff77e6
+seen_titlehash:cc580a2a362df653d035bff10afa929d38d4a19447669ec5ab473bca50b684eb
+seen_reason:processed_not_published
+url:https://france24.com/en/india-s-cockroach-movement-ends-protests-after-education-minister-resigns
+title:india s cockroach movement ends protests after education minister resigns
+seen_urlhash:0d2cd5a7bc33c4f2e32a0a300415a81f45aa82d1d33b89b326062a7cbde6cf1c
+seen_titlehash:e2bfd312952fd99ae224c5fefb3853cc4b614b47e9d8981f7cfdd72d8399e28e
+seen_reason:processed_not_published
+url:https://france24.com/en/nearly-98-000-hectares-burned-in-france-a-historic-record-says-government
+title:nearly 98 000 hectares burned in france a historic record says government
+seen_urlhash:df5022bcafe484ff2465185d7fd9718ead005ce8c58cb6d20f34d61e0b222099
+seen_titlehash:212fc792583ad83e292768eb4f1026ea2c00c03175ab5b2c5b393b11cc4c4f4a
+seen_reason:processed_not_published
+url:https://dw.com/ru/paramount-согласилась-заморозить-поглощение-warner-bros-почти-на-год/a-78114329?maca=rus-rss-ru-all-1126-rdf
+title:paramount согласилась заморозить поглощение warner bros почти на год
+seen_urlhash:5c6384b7429e624976e471ab50a2da989f97b3402674dc4b12c3ac13df1dd35c
+seen_titlehash:fcf0c777ff0ca2a0c79ffeb795f86edd14ad36504760204b7c37557d8ed4f330
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/25/novosti-dnya-25-iyulya-2026-g-dnevnoj-vypusk
+title:новости дня 25 июля 2026 г дневной выпуск
+seen_urlhash:15ae59aeffaa0295cbfa80d2ebe88ad8d96f5248669de2940a0c297b9e0bb057
+seen_titlehash:4cd1a77ab86e8e25f337ee27c61718703880eaf23eb0ce04f81c3fb97e012c3f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/25/novosti-dnya-25-iyulya-2026-g-utrennij-vypusk
+title:новости дня 25 июля 2026 г утренний выпуск
+seen_urlhash:c6c9d5532f0b78368ee37788fdae512de2cb45f023fbfd9688641b961b9c93ce
+seen_titlehash:e1a9c9bcb534fd35345a1c83a080a1e43fdf5a6a11fc9723d42728b4f946c820
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/na-sayte-minyusta-rf-poyavilas-vystavka-o-teh-kto-pytalsya-narushit-suverenitet-rossii-tuda-vklyuchili-lyudey-i-organizatsii-iz-reestra-inoagentov
+title:на сайте минюста рф появилась выставка о тех кто пытался нарушить суверенитет россии туда включили людей и организации из реестра иноагентов
