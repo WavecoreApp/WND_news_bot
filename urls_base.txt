@@ -17418,3 +17418,33 @@ seen_titlehash:e1a9c9bcb534fd35345a1c83a080a1e43fdf5a6a11fc9723d42728b4f946c820
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/25/na-sayte-minyusta-rf-poyavilas-vystavka-o-teh-kto-pytalsya-narushit-suverenitet-rossii-tuda-vklyuchili-lyudey-i-organizatsii-iz-reestra-inoagentov
 title:на сайте минюста рф появилась выставка о тех кто пытался нарушить суверенитет россии туда включили людей и организации из реестра иноагентов
+seen_urlhash:b8fa9779c1305a1d3d12857a0fe722b7371e97bddbdd98af231c9bae53c58af8
+seen_titlehash:c589c825f0cb905eca9a7f90f35925e926c8f65b3162f4cff59916b6950856d6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss
+title:more than 250 000 flee wildfires in france and spain
+seen_urlhash:e443df7335ef914d1cb794418eaca063b0193e03631fdfa16d3c10bbd866b647
+seen_titlehash:7204797dccb6e2791f545e96c5f008e57227a8a1f34a8e3486b83e743ead2a14
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss
+title:india s cockroach protest called off after education minister quits
+seen_urlhash:a4a6cff84f8600bd5809f5720785f216c42eef30924e181d0bdc94ce650ba088
+seen_titlehash:390a5bb1ad0b50ccbea97c33323a3262e4c2e0f4dc8cab173207832b2930245a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html
+title:conditions for european wildfires created by summer of extremes
+seen_urlhash:1ce7d7757eb6913169ba1e4455725ec6e09fcbce509b364ac8a20139a9bc7c13
+seen_titlehash:8b1462dfe4df6df2fa6bbedbfd18ad072577cfa049eb7082b012a6d5640e3de3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss
+title:iran s government spars with state tv as mediators push talks with us
+seen_urlhash:e20d7a02f376bcdd21b38584cc7b0573eda94b0533ed91be0778249a0d4513aa
+seen_titlehash:d502f9690ccd110609ae4dcf43b1219b3af5a2e242f3e4cb6ffb735cc3520d46
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss
+title:worker dies during reconstruction of barcelona s camp nou stadium
+seen_urlhash:a863b83adfef29d2909b328354056d7e7623b26daaccdbe106478ffab0413b02
+seen_titlehash:c352ecca3905838bb6dabd8e87548cb9a4837b94b2eb83cea97fb013e65a9386
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-открылся-юбилейный-байройтский-фестиваль/a-78099876?maca=rus-rss-ru-all-1126-rdf
+title:в германии открылся юбилейный байройтский фестиваль
