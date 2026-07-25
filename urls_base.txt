@@ -17483,3 +17483,28 @@ seen_titlehash:c243f967e8ac1998748cf9dbe670d5f5acc4d6ce1dd5a6bf74bb6d2be0ae720a
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-берлине-прошел-48-й-лгбт-парад-christopher-street-day/a-78114976?maca=rus-rss-ru-all-1126-rdf
 title:в берлине прошел 48 й лгбт парад christopher street day
+seen_urlhash:9ed6c962005857b913277462b05b6748448e63f86abfebc4f3ba8adcd3dcbdac
+seen_titlehash:b2d77d10a23f87eb6402aa38b45f2fe58ffb7f03a22af5d8009d2c95fc7d4a98
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html
+title:brazil blocks visit by u s delegation seeking to question election system
+seen_urlhash:ed5f5686e9f0d8f9c97f8959992cc81339db5b77361ee28b990a812b041f618e
+seen_titlehash:7e6c6467c84245c11083493e2919933c90cd9f4ac88333e821273ce4ade6b180
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss
+title:at least 35 killed after two buses collide in eastern syria
+seen_urlhash:640e8d2b14de90a62ae5eb4607fa1e1767f80831be1c2849008294c3f586c27a
+seen_titlehash:6fb217d585758b1e0819d0d92ab78b6f516c1a3f87ce2bb932d94ea10388a4fe
+seen_reason:processed_not_published
+url:https://ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1
+title:top democrat says trump administration is worsening chip shortage
+seen_urlhash:0c94e69efb5e7cbee9c9a26948b7b67ee6e66d38be26d6a7db920a47a5dbaf49
+seen_titlehash:fbc655c5f18190735f9a10c45e3515961c9ce0cc0810a4b17dad9e1cb24c07aa
+seen_reason:processed_not_published
+url:https://ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1
+title:brazil denies visas to us officials over alleged election interference
+seen_urlhash:b80a3e15bd92e83d3113171348f373b34cc466cbb018f5416f8dc11a8f1260e7
+seen_titlehash:e3ebc7bde4d1421f3be6a9802bda9a93767162ec19a30717d3d8cf8850626387
+seen_reason:processed_not_published
+url:https://ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1
+title:kazakhstan s president urges putin to freeze the war in ukraine
