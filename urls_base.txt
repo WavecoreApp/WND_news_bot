@@ -16983,3 +16983,103 @@ seen_titlehash:5d04fc48a86db1bb6cc3b566474b9acf211df42dc7ac814d8869ce5064cf730b
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/25/v-gruzii-snova-proizoshel-masshtabnyy-blekaut
 title:в грузии снова произошел масштабный блэкаут
+seen_urlhash:35c57840298ef0d5b242a8b656aacd4c9dddca62fee6bb9b2a8799c77f84e380
+seen_titlehash:dee24cab7e6e5b5aa3df498618959d24974038a169d9bc8e76d5f9d52e37ba68
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/france-spain-wildfires-evacuations.html
+title:fires rage in spain and france forcing thousands to flee
+seen_urlhash:30a2e4c12fb0e38389feb805c409386232ccff655fcc225d95a95deca40f531f
+seen_titlehash:50eb97b79cc54d2c72f8545d92c99fe7de0063707436845fc0d4824a061c2dd5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html
+title:india s education minister steps down handing win to protesters
+seen_urlhash:914744538096d2f72c5258150808e568b27eb4a64c5409a0c60a17b69dc4f9a5
+seen_titlehash:688ea25b6f503efcdbdb81f5c5b2fef244063eb22cb5fb218c342d1b02fb0603
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html
+title:what to know about the wildfires raging in western europe
+seen_urlhash:acd679e7f38b288d0b9aa17ad4af7f2c09298e8a573127445a5478dd55254e3b
+seen_titlehash:697367cf5c92be5e8a37e78ce64bcbbce3b0646f4064676e0169cdadfa3d4371
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html
+title:as trump escalates trade war ontario premier doug ford wants to retaliate
+seen_urlhash:e4f1d04fdd5347fce53fc03362389346faecc55d3daa76441d314f17373ca9f0
+seen_titlehash:035ec4dadaa132700b94163fe885628991eb6b16990e48652e69e32b0f3e4807
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss
+title:how volker turk won a new term as un rights chief despite israel opposition
+seen_urlhash:e86da96ba3f03ba6dfac2b7218f94b80dc4ad066d31be206381a56350d682172
+seen_titlehash:a9aa1a93c1f9d0709265ace441e8bb2d9a7ea51d17e774793fae9d85cd5c0aff
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss
+title:israel arrests dozens of palestinians in west bank amid settler attacks
+seen_urlhash:48c315552a781bdf17cc6c30e15531e607740e5296cb0c96f76c70c492066151
+seen_titlehash:ed78088d1f6228eacdd392bef0e9e066f62b375df00b2a409ace96ddfc559af7
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks
+title:indian education minister resigns after mass protests over exam paper leaks
+seen_urlhash:23b48a42dbc6ea1986cb270d3273008686ecd259c4836b49ac0b43bbe8895025
+seen_titlehash:ba6410ff0a05c1e1eec042f8cedd0793c8ca8c197730924a7ef614ea48353681
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked
+title:no this video does not show iran downing a us b 52 bomber
+seen_urlhash:768d90e9b09d2b06dd905929b3b037b5f3bab9b5588f8477832c462740124951
+seen_titlehash:0bb47e3284197ab1df9c0151ba4c982a7d6467ba1f26bf12a7df60c4b75759b7
+seen_reason:processed_not_published
+url:https://dw.com/ru/удары-рф-по-регионам-украины-повреждены-терминал-новой-почты-азс-и-жилые-дома-есть-жертвы/a-78110838?maca=rus-rss-ru-all-1126-rdf
+title:удары рф по регионам украины повреждены терминал новой почты азс и жилые дома есть жертвы
+seen_urlhash:d687451225877dc9440e18215deec9b3f4cab4562413f8c55afefe9815f88934
+seen_titlehash:aae81bfe2b9f6b9f383fa7781bca38fd75e18bd405f9477e672531ef5ab3e66b
+seen_reason:processed_not_published
+url:https://dw.com/ru/румыния-второй-раз-за-два-дня-сбила-дрон-в-своем-воздушном-пространстве/a-78109968?maca=rus-rss-ru-all-1126-rdf
+title:румыния второй раз за два дня сбила дрон в своем воздушном пространстве
+seen_urlhash:9b84ce533c552cc26946af4c989f076e7e2ac1fc7f8a1577d0de51947a91d8fe
+seen_titlehash:5f05061e10c6c080d9d32ed1f26daa03c7cee6ca656725fa380c87c64d11b5bd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/25/second-drone-shot-down-over-romanian-airspace-in-less-than-24-hours
+title:второй дрон сбит в воздушном пространстве румынии менее чем за сутки
+seen_urlhash:f0ff8209e2417169ddb4d9c29dc0043a3d9b37683acea20fa8d71b8a45c8f9d7
+seen_titlehash:fbbd2d0c8f651e8d1fe21e4e3ea82b6c18b2233e445f2f71804a27dac8e509e4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/ukrainskie-drony-atakovali-npz-v-tyumeni-tam-nachalsya-pozhar
+title:украинские дроны атаковали нпз в тюмени там начался пожар
+seen_urlhash:1c097b68a1c9a094c1a66a90452e23547dca183dc50cd8aa56832ed5232eb8ea
+seen_titlehash:9269306b9b2578bba4e32a034aef10bb88e8b8a14c15b57a470b4a938f01b81f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/stranam-evrosoyuza-razreshili-prodavat-neft-iz-yatuyu-s-tankerov-rossiyskogo-tenevogo-flota
+title:странам евросоюза разрешили продавать нефть изъятую с танкеров российского теневого флота
+seen_urlhash:4a900c5ffbdeecda477ea0d527685d70e5f26def08a898ae76b30cb996437f45
+seen_titlehash:c7f9e35e5e5f6e73bcf50b8e5274261e5802b46e5258f8b4c3c01fc0a07b952a
+seen_reason:processed_not_published
+url:https://ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1
+title:investors bet on federal reserve rate rise after oil price surge
+seen_urlhash:b1b7c8244f96973a2be92e8027d2cebe4dfeeae924c1aacec4c8189f34241e59
+seen_titlehash:1ad2fbde6526d79b1b42f68140d14efa2c5b2626599f22c29e72e366f3558ae9
+seen_reason:processed_not_published
+url:https://ft.com/content/952d7583-a177-419c-91bf-3a2f71ec97b3?syn-25a6b1a6=1
+title:macron and merz move on from fighter jet heartbreak
+seen_urlhash:9d3567e73fade1b1f5804233087c012a56235bd98c9bef1c376822468c694ded
+seen_titlehash:a9a1e7697705190b37242871c590e5944ba33da8f0f336831977042c7f3fcb77
+seen_reason:processed_not_published
+url:https://ft.com/content/38a18d43-5b01-4c08-ab85-c1695f10c1e3?syn-25a6b1a6=1
+title:us immigration enforcement caught between trump and public backlash
+seen_urlhash:345e52ecf09cacd4320dc0d8bda7aee7172f37184b84dcf1944f39bc558a9a99
+seen_titlehash:57aae6cbcac2380a7e58c8b7e5431c6d051f63ebe3821a7bfcef282167123c18
+seen_reason:processed_not_published
+url:https://ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1
+title:saudi arabia strikes houthis after iran backed rebels target tankers
+seen_urlhash:18b28dd8c137c7c9874823138c51ee79c2637539428f805ebca1c7ec9942b963
+seen_titlehash:51fef21835a1d2ef7cbd4743031d70de23a4e7d93f5a5ece4b20bd48b9d548ef
+seen_reason:processed_not_published
+url:https://ft.com/content/ec5c4433-b17d-4116-b2fb-0fce61a261bd?syn-25a6b1a6=1
+title:who owns shares
+seen_urlhash:919885ba0c41e6b4c5ecd12fed2e6e868c314dc438e8b83922c641d43fd34794
+seen_titlehash:ad225dfb7f2bbc5f1ff46a2d4706f3e4c17d0506661e612c00f366b06b2efd35
+seen_reason:processed_not_published
+url:https://ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1
+title:intern arrested on suspicion of spying at nato military hq
+seen_urlhash:0e7dd4c7d873d98e3f3c1d8a5540b3a8172a51e183276c61a584548dd617d0ce
+seen_titlehash:334cb6ac698b7b0589fa80de50081dc6260572d390ca5a33f75438f2424a74ee
+seen_reason:processed_not_published
+url:https://ft.com/content/780bc4bb-1916-4fe2-ad2b-22663c66f16e?syn-25a6b1a6=1
+title:blackstone kkr and brookfield take kuwait pipelines stake in 16bn deal
