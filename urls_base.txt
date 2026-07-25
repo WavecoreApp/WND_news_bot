@@ -17208,3 +17208,108 @@ seen_titlehash:0b70ce9bb5345723cab24c8ad639388c35891420b47c55c7ee59c8080441117e
 seen_reason:processed_not_published
 url:https://ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1
 title:india s education minister resigns after weeks of student protests
+seen_urlhash:34d736279c3be67bd2b2397e131003f36017e7f61ef9967c33238736d48d3f58
+seen_titlehash:cb47430dea5d7f0fc3794fe501ab69ec9edb13aaef5d19f1fde9cb429fb537bf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss
+title:protesters celebrate resignation of india s education minister
+seen_urlhash:1ffdcfd484b3e19715944c3a6dd3fae3426f000ed4de1fd9ce367bcaf803c749
+seen_titlehash:5ced44425f5aaf5dfc522b7bb85bda21d4c574b131547b9a04c1ac12c6d45f20
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/europe/saumos-wildfire-france-spain-bordeaux.html
+title:wildfire in france rages near bordeaux a famed wine city
+seen_urlhash:16aec05428f4f78b6ac48bf20e83ae9237f2055aa5053c003b0cee6ca7a4413d
+seen_titlehash:9dbd98fbf1f2cbdc90043ae1ce7d271f8b66e24a5a4982e9917cb19809622132
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html
+title:what s left of the u s iran cease fire agreement
+seen_urlhash:1b81c4c9f064fc4e4f5580bbf96bd81e42dce02c39f3dae156ba4cf452e10cd8
+seen_titlehash:33072b224f545953f869657a927385cef68dbadce67eaa2de1dae013cefa2c52
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html
+title:bus collision in syria kills 35 health ministry says
+seen_urlhash:cec7dd9fe81ae52cc3d0439be2ff4c0687a36911ad00d31f67492dcc443a5c13
+seen_titlehash:1e00a6a5b788cf83902eb122d8ac64baebdd12a8320f8a4833b3f8d657e3deef
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss
+title:the global south is being forced to choose creditors over children
+seen_urlhash:1c930f6ff7ec049da02bc349f22f42ee80fa415c0c1bae1405424204d17dff58
+seen_titlehash:0106677b0a3a4f7be720fb5e0d719a8a82d0905a54b5163b1111d42e0bf4ee17
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss
+title:war on iran phase ii day 14
+seen_urlhash:5601908ed2b88bb5257eabf9763302c36d770fcfb145c99a76483402ece2bea5
+seen_titlehash:d16bb2110faed4844fd679eb157d2db3b5d1d480fb805c03c58d9146802fe3ce
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss
+title:what s behind the icc investigation into karim khan
+seen_urlhash:9ab2b67ff6cd8bc2dadee8e53eeef9a87fd34589a9a65c2eac5b0a7d14a5fd6b
+seen_titlehash:4c8093c7ae6720868c30ae7f7a7db7eb464fab1b3ccf9bfb4d90be1df138b290
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss
+title:iran blames us for hormuz dispute as both sides confirm ongoing talks
+seen_urlhash:d50ab94b5684e9a7ea5c0d5de6a09010d6c1fc5f8fc147309d764224b2bb7e67
+seen_titlehash:aa40b6a0cde14de280dd282434680aea32ba99155184f37bf27a2131d9c642d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss
+title:baby rescued after israeli settlers set home on fire amid raids
+seen_urlhash:64c74bb09022a2fa12ea86589d22ac51bf07e911580e57f59096078321676ddf
+seen_titlehash:d9b905d5b76eb60eae09cf3410b2dfedcb16841ec1a7dee743c84b88012513ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss
+title:at least 11 killed in ukrainian and russian strikes as holiday camp hit
+seen_urlhash:3bfe836ae52e4967e0b0d703ade070623672a9f45ccbc02f38d107f77adcdbfc
+seen_titlehash:e197ead04a40ddd09ce7c1bc626475bbdcf050b7da47800d1a7a38788e1f9fdb
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition
+title:unesco adds west bank site lebanese castles to world heritage list despite israeli opposition
+seen_urlhash:c7bfbe918f76ae6be486070cedba04066c99c43a5a0205c32183a4b338c453b4
+seen_titlehash:c78baf6d32cb822d489e75eb59896f8aacdf07700f1548a1ad1561c1d1da6cb1
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-запорожской-области-при-атаке-всу-на-турбазу-погибли-11-человек/a-78113619?maca=rus-rss-ru-all-1126-rdf
+title:глава запорожской области при атаке всу на турбазу погибли 11 человек
+seen_urlhash:b91223367d0b99569cb146c94747f626ba9a7496abe6c6a0e827cc28ce288edd
+seen_titlehash:01558304311a2b2d403e3b5be3ec0aa2a24d9fa22526bc617e9c1c6cd8c15715
+seen_reason:processed_not_published
+url:https://dw.com/ru/пожары-во-франции-и-испании-четверть-миллиона-человек-вынуждены-покинуть-свои-дома/a-78113504?maca=rus-rss-ru-all-1126-rdf
+title:пожары во франции и испании четверть миллиона человек вынуждены покинуть свои дома
+seen_urlhash:362083845cfa0ac4f9da9a47f8ac268a5ce90c8607659151162cd974908474d0
+seen_titlehash:3015c4c2e437604be71271cdecae4dfe56cc67e77c3223b1c2067d1fb242fd23
+seen_reason:processed_not_published
+url:https://dw.com/ru/токаев-предложил-путину-заморозить-войну-в-украине/a-78113380?maca=rus-rss-ru-all-1126-rdf
+title:токаев предложил путину заморозить войну в украине
+seen_urlhash:a86f4fbd8aa12e8ace248bf25a4f73385c4b25e6dbe6b9b0316fa8133563139b
+seen_titlehash:f6c35d0d156d71acf62e9664e722bd150c6b7b760696594acf080d7d1886858d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/cbr-economy-gdp-inflation-forecast
+title:центральный банк россии понизил прогноз роста ввп до нуля и ожидает ускорения инфляции
+seen_urlhash:3e782e60b45efb49a8054987fa5b30010dc388c51e41d36c54fa5b9bbc295af1
+seen_titlehash:24776786e356356481ab46955139d18b514e152bbfcc0a0b9a3c2245217455ed
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/25/un-chief-urges-global-support-for-syria-during-first-damascus-visit-since-2009
+title:генсек оон призывает к мировой поддержке сирии во время первого визита в дамаск с 2009 года
+seen_urlhash:15889b37c8afb53857da2f018c0e70654e270d284837b779390b2a76401dd757
+seen_titlehash:cedc7976b8a541629101435cb7ea26982b5f5cc28b739049f563b1b89eb317c8
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/25/v-ispanii-i-frantsii-goryat-lesa-evakuirovany-bolshe-250-tysyach-chelovek
+title:в испании и франции горят леса эвакуированы больше 250 тысяч человек власти мадрида говорят о самом страшном пожаре в истории региона фотографии
+seen_urlhash:490f90a7ebe7715231e51202f164186fd1353f17a17d0428d4a5949446d36e1e
+seen_titlehash:7eb3560465e04a62012f047073db9ea720384340ea2c48f2f7a567426eacf7cc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/zapret-na-eksport-benzina-iz-rossii-prodlyat-do-kontsa-goda
+title:запрет на экспорт бензина из россии продлят до конца года
+seen_urlhash:8ce94635e1446391e69cda172c1bfa092b1f7e2082ae4be0cf87611329b269f3
+seen_titlehash:5f1f0c816fab0eb384a6e7df43ee71d1cc3f4b87d7d5355a89d7ef851be996bc
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/25/v-tyumeni-gibnet-ryba-a-iz-pod-krana-idet-voda-so-strannym-zapahom
+title:в тюмени гибнет рыба а из под крана идет вода со странным запахом местные службы говорят что качество воды в норме но рекомендуют ее не пить
+seen_urlhash:30f500ee478409911ccb516b1dea742323b0472a035280ec91406e9509c805b6
+seen_titlehash:1ddce5629ca4e1f6bcaab9f67df09263d939e4396924baf94c4d804c1c6ca1e3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/rossiyskiy-gubernator-zaporozhskoy-oblasti-zayavil-chto-vsu-atakovali-turisticheskie-bazy-pogibli-11-chelovek
+title:российский губернатор запорожской области заявил что всу атаковали туристические базы погибли 11 человек
+seen_urlhash:9f049c0d3f889e929ce1866d7e3b8690142823817c1d1581a88e6a001cfabdd7
+seen_titlehash:110b5e29c0c363fcc7ffc241a7c4715bc8301ac42452a3da555551c55cb142b6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/25/vse-eto-nado-ostanavlivat-tokaev-na-vstreche-s-putinym-prizval-zamorozit-voynu-v-ukraine
+title:все это надо останавливать токаев на встрече с путиным призвал заморозить войну в украине
