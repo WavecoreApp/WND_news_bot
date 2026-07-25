@@ -17508,3 +17508,43 @@ seen_titlehash:e3ebc7bde4d1421f3be6a9802bda9a93767162ec19a30717d3d8cf8850626387
 seen_reason:processed_not_published
 url:https://ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1
 title:kazakhstan s president urges putin to freeze the war in ukraine
+seen_urlhash:c74ee93b55ab2e148dbbfcae4a525d95020deeede3e4c1666f2d63a8678c3e28
+seen_titlehash:ecac004aaf44398aa58c02ab0ad7a1fe05fb943b9917f0b4fbac8161ddab0e6e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss
+title:several injured at berlin pride after reports vehicle drove into crowd police say
+seen_urlhash:731efbca7cc533a3276962a01d165cc335b4e6d592d981b016d4d63dd8f48dc6
+seen_titlehash:68a74a88b96b5a21ebf7f8ca1510097abf2af0f0cfd1110f3b866076b103b38d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss
+title:israeli forces tear gas journalists reporting nablus shootout
+seen_urlhash:ebc7dde4763060a18cd47a078a3b50cdf9ab81756dc72c030940538e2af7bce1
+seen_titlehash:9973d4bb120d3466ee227184f56fbc059b0142837df85b1a498522e0890ed270
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss
+title:how india s cockroach protesters shook the modi government
+seen_urlhash:78a90436ee64671629c2d500cd8f6245bbb24896df979ba66c6958f548f5423a
+seen_titlehash:37f02f0da6bb1c21d8860e4f2f9b40e39ce8337d2d33b7ba3edc2cd328ba469e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss
+title:head of hamas led police in northern gaza killed by israeli strike
+seen_urlhash:0ad261f398bff273d115ca3812ed0807671eb877e6faa21aebbc0a59de451db5
+seen_titlehash:c8b21fa648c7448e87c97262484d00c0c133bd3b8d34bde2ac59fcc49fe263e7
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260725-crisis-hit-flavio-bolsonaro-launches-presidential-candidacy-in-brazil
+title:flavio bolsonaro launches presidential bid in brazil despite challenges
+seen_urlhash:e9a1f9ebd7740a48f4cdb25758e9e4942f93641fd3489f5dbe292addf02fe081
+seen_titlehash:8d60c1ea1d402c09a11fb481fba084bedc2406970da64602c18855fab6306ac8
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260725-kazakh-leader-tells-putin-war-should-end-ukraine-launches-fresh-strikes
+title:kazakh leader tells putin war should end ukrainian drones target siberian oil facility
+seen_urlhash:6b90cc94ef04564357aaf0107d6526434a5fcce6c91d71b8661ba1edc14fd87f
+seen_titlehash:1b48c7010c4bbb27fd583da0dfed375769db04fe757739f8ce7d6691ef770af7
+seen_reason:processed_not_published
+url:https://dw.com/ru/лгбт-парад-в-берлине-досрочно-прерван-после-сообщений-о-наезде-авто-на-людей-есть-раненые/a-78116150?maca=rus-rss-ru-all-1126-rdf
+title:лгбт парад в берлине досрочно прерван после сообщений о наезде авто на людей есть раненые
+seen_urlhash:2d12cd118ceb490cd088036ab489789bcba786aad1e730a8b7fee05db47da596
+seen_titlehash:47f8881a4027d1ef08b51d79d404942a01e35b01d11bc05f6b9bd04fd7aae18c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/26/v-berline-avtomobil-v-ehal-v-tolpu-lyudey-est-postradavshie
+title:в берлине автомобиль въехал в толпу людей во время лгбт прайда есть пострадавшие
