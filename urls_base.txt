@@ -18623,3 +18623,68 @@ seen_titlehash:7e0386e50a83e828fb871f1d62839ea064eed621a360d34b05fff2e270e91361
 seen_reason:processed_not_published
 url:https://ft.com/content/f91661b4-5d1d-4da0-b00d-88c1bc4fe5b0?syn-25a6b1a6=1
 title:the exploration company with spacex ambitions aiming for a 2bn valuation
+seen_urlhash:3feeedba82333648fcc1227a7db5a18ce7818ddd1d1abfabca1596a6003f848e
+seen_titlehash:79fae7f38359c80acc1c5b81368e3bc461da42f57682bc795432209db9e24725
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss
+title:berlin pride attack suspect shot and killed during police operation
+seen_urlhash:ff2f5ddfe40d1d7c0b89e75c8a2871b98a2c8119e20bf387c83a1fcf1f34ba4b
+seen_titlehash:68c94f57f0f339c9d9eceb2e05da05429ae04f7772e5ad4cb4ccb17967e4f397
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss
+title:what lies ahead for iran s economy as scope of us war grows beyond hormuz
+seen_urlhash:3bbe8d3be0bb910f09f236c37f18ada4ff34297990e9b159d29ac92efc82fe64
+seen_titlehash:907ad67cb428afe3d99ac76c2590f76bc5b8015bf3cac8c677cabe025149c2ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss
+title:al sharaa outlines syria s approach to security with israel and lebanon
+seen_urlhash:b876c2a97712e222f04ab0c531446152d855575741d79f31085f2b962e6e3c9c
+seen_titlehash:ad638f4a0525b9214ab4479c7ca8da014061908cdffedb9532614eb1ea746cf1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss
+title:46 people rescued from sunken ship in south china sea
+seen_urlhash:5340cb5c1e4aec71ac3dc9446f12a5d58c83d5d60ebded86623b594282a74075
+seen_titlehash:8e2eed08bdb0395e2763f6db0be714da9a4792b3bfcf4ec6c1df341bf2be9d7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss
+title:cuban president accuses us of genocide seeking takeover
+seen_urlhash:76f3d603c95f6cb4db497ebba482407067d464aaeb88d5a1acf2a54d0bbb2370
+seen_titlehash:62262912f5901d1ebf7b61ce360e9caf98a17107a5bf72689818c12a105381bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss
+title:netanyahu vows to go to new york city despite icc arrest warrant mamdani
+seen_urlhash:4cb75a838ea1e2029e578ae73568e432cdc434dfc61f14c1d1805427ca1a5326
+seen_titlehash:15d62687b6dd0d0de706a4a17305f4f5037369140c1109de38d1f06f4f881179
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss
+title:israeli settlers burn two mosques in occupied west bank
+seen_urlhash:a6bf4a65c38cbcd29eaa546ebe6bb6dd8bd4a1350cdc5929f342bb848b8e091e
+seen_titlehash:459e9f5aed3ae3873f368674002a5eb51e87daacf880834c21af6487913459d3
+seen_reason:processed_not_published
+url:https://france24.com/en/from-stage-6-onwards-pogacar-never-let-go-during-tour-de-france
+title:from stage 6 onwards pogacar never let go during tour de france
+seen_urlhash:5ffc26c3a41c6b387a77f88a8a3eb34aed1a104fc4479996c78991971331ec35
+seen_titlehash:370580171d9d223d473b46367f62ade86d92a6195cd01babeac0df92042cf354
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-в-петербургских-тц-проведут-рейды-для-поиска-радикально-настроенной-молодежи/a-78121734?maca=rus-rss-ru-all-1126-rdf
+title:сми в петербургских тц проведут рейды для поиска радикально настроенной молодежи
+seen_urlhash:7f65599490b1fbec9336a5ff3e3bda00349f37ea8a78c4d700da6ef11695ac86
+seen_titlehash:ce20315ad865f87985b839f00277c6ea67e67177ac721f6102626dd9c9cc36c0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/26/mourners-lay-flowers-and-candles-after-deadly-berlin-pride-attack
+title:берлин скорбящие несут цветы и свечи после атаки на прайд
+seen_urlhash:1993117af679a72dcb7c7fb0180983e7ed488026263de1ee8d83cce03e99c44f
+seen_titlehash:43edbe238835a35e2f710b05da0b6f3ef39d41a57edd7f1c3900909ec62f9b73
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/26/moulin-rouge-dancers-welcome-the-tour-de-france-finale-in-paris
+title:танцовщицы мулен руж встречают финал тур де франс в париже
+seen_urlhash:062db570dc739c7e8a3ac0490a54291ac35e2e8a6ca41c2dfa2a1ea70a62d8dc
+seen_titlehash:039b2307e093c2650ce75e6d18b0b51248241f1f00515d8309d86a0dfd0ea766
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/26/five-percent-of-cantabrian-brown-bears-are-capable-of-lying-to-themselves-according-to-thi
+title:5 бурых медведей в кантабрийских горах умеют обманывать говорится в исследовании
+seen_urlhash:118994a6b80450f63c25e4fc589e87753f27815f4276648803ceccde825b5cad
+seen_titlehash:857068f66d2fffe2cb6d7cfab7873384545b582c2bfac786273fe8be1c9e29f5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/26/tour-de-france-2026-tadej-pogacar-wins-his-fifth-title
+title:тур де франс 2026 пятый титул погачара ван дер пул выигрывает на елисейских полях
