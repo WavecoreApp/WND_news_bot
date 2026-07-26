@@ -17643,3 +17643,43 @@ seen_titlehash:3ab6757025b4b948731e32a4aa93e928ad249768a663ed141d44b11a98da0e47
 seen_reason:processed_not_published
 url:https://ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1
 title:iran says ukrainian attack on vessel in caspian sea killed sailor
+seen_urlhash:17b1aabe41ffde6b1b88fdd433e92edf9fcfa53e17bec3d6c152def61b594d47
+seen_titlehash:49fd4eaccc1616dc2fe01caef52d690f9b1e4a2bc484bf7c6bab11da049fbb0e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss
+title:the notorious cameroonian prison with its own record label
+seen_urlhash:81bd7164aa36f75ca75b391a9b652ddb9e99b9dc251d06f656aaf3395cc85621
+seen_titlehash:41a8ae29a02004f0616fab8d746f1a5fcc176074fcf0a5c80363f8db26b8313d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss
+title:would you pay 58 5m to live in this iconic new york building
+seen_urlhash:2b2e910347b1b0abf20b12a91fe7f32fd503225813c5cf968ca7c227c928ae24
+seen_titlehash:784fe9a64c56ea43ceabd93510c612230cd81923a632a50ac1c391e766bb5618
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss
+title:what love island tells us about the changing face of dating
+seen_urlhash:3e4fd225b209b74d33cfaec28135c05ebc56b89a48f4120eabb3a0e57bf1ab32
+seen_titlehash:3b02ee7c0937d7b0c8c483eb854dc1852367355301b5dfb38abd6ffc1816af93
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss
+title:yemen s houthis target saudi oil facilities along the red sea
+seen_urlhash:c2abbbcdb5779deeb5745a61ee3031d403b3432ac38bb30a6e87398a9578a3b0
+seen_titlehash:4dbb7f3ca62cddd44e86aaedc34d2aeac17297523fa77ae7c225313d5599b172
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss
+title:bolsonaro s son begins brazil presidential bid with netanyahu milei kudos
+seen_urlhash:469a489864792a2760c70d523ab00f531043f462ec6fa59654ff0462ad96b820
+seen_titlehash:8501e1879768bb5f82cffb8236ed9edb8068f6d5a38d92cf8edbe9027de8408b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss
+title:iran war live tehran summons ukraine diplomats over caspian sea attack
+seen_urlhash:1c61a818e86d0f253e59837a9d94fd6b96f8ef9b128ad8b8012cf3887a957d02
+seen_titlehash:c5ee7956675265131c33b0780180a906388e09498a3aa36df2403657a73e8168
+seen_reason:processed_not_published
+url:https://dw.com/ru/удар-по-свободному-обществу-немецкие-политики-о-наезде-на-участников-лгбт-парада-в-берлине/a-78117061?maca=rus-rss-ru-all-1126-rdf
+title:удар по свободному обществу немецкие политики о наезде на участников лгбт парада в берлине
+seen_urlhash:b99affb76904d8c1aa6e953ec1e12e58dad058cf11e224deecd9d3e782ab14e7
+seen_titlehash:b11e9c674ea6ecc9292fa80b92cfe9b1218676b545f79cccdb369e0473e6fdc2
+seen_reason:processed_not_published
+url:https://dw.com/ru/фургон-наехал-на-участников-лгбт-парада-в-берлине-один-человек-погиб-16-ранены/a-78116150?maca=rus-rss-ru-all-1126-rdf
+title:фургон наехал на участников лгбт парада в берлине один человек погиб 16 ранены
