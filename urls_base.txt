@@ -17923,3 +17923,183 @@ seen_titlehash:6ad690911a375b4e952b4efb599a75c19054417c8baf769089cf64fd35e1e45f
 seen_reason:processed_not_published
 url:https://ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1
 title:one dead and 16 injured after van drives into berlin pride crowd
+seen_urlhash:7fe4b89753c32f3a120b945f2fa6d404e9b6e19ac581e75ff2e319dbb036bb76
+seen_titlehash:ddfa1badb3940bffdf2cc728bd60f44428e624897af633f0d4e373329ab3b89c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss
+title:what we know so far about the berlin pride ramming attack
+seen_urlhash:56f33be6ba10cf80cd31de964dcda0b9a58836d2dc558c75e0dc6f7078825a50
+seen_titlehash:e78c94aca26ababa9e1a5ebee86468837f626b0dc8c856f4699db5e098f6858b
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions
+title:live updates firefighters battle raging wildfires in france and spain
+seen_urlhash:071c755f27aa5b3290416d27a869ef2102e0f764f07d22360f196fe4c0a60ee8
+seen_titlehash:044ac1605634c9b3750945977c138a1555eb7796948e6d8af49df034bbbb938a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html
+title:u s iran war pauses for 2nd straight day
+seen_urlhash:2a673b0205df42c78da6b2ee6293c4fd9b5df8422518c35505988c0eb6096b97
+seen_titlehash:a9197ea7195ecc72881c268088e28c0b51682a66530f13bb22d43a880cf21f12
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html
+title:berlin police search for suspect in fatal attack on pride parade
+seen_urlhash:82d44e50dfe8e4eee740beec68b50e29e2a149f6634f50807275c9876d57b5ae
+seen_titlehash:3ef365edfdb553898a53b3e606587a8305c8c479e1f2b05c0387d4d540034e61
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html
+title:e u divided over barring imports from israeli settlements
+seen_urlhash:39ec5602a383c1cb6c4c76ce9d2337d0ab237a859ad726def60fece7548eb771
+seen_titlehash:5b7e76f5532de99b50d80a39ec0970fb8f3fcb30a9075defe48342503df770a4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html
+title:trump is pushing nuclear energy including saudi deal his family and supporters could benefit
+seen_urlhash:1deab062c5a4a63a35debc49fd733219949d3b98782435becb1d3895f21c7619
+seen_titlehash:9fc80178d5bed155f08f4c33339177a0c2040dedaa0964929d1c737ea73958b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss
+title:photos wildfires in france drive 250 000 people from their homes
+seen_urlhash:e35151706956e56011d1ea568857637e5b3c68234d4df98ea5734c1c67ee7515
+seen_titlehash:540d441190809699daa507901bfeabf5a90766a0944a112037d5bf9d49b5848d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss
+title:israeli protesters denounce deadly settler violence
+seen_urlhash:457bcb0876d0834bc033b78826ed8c2b6028348266c762ea816ee1db521844a5
+seen_titlehash:a579608c322889bb753f6373580d7b42f832b1d91b6139ae5a8f8eda865ff1b6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss
+title:the cockroach effect modi vs india s gen z
+seen_urlhash:9dde08ce2231e160869d18cb2865ecf6f3a7df15971be862ce94bb84d24a80b7
+seen_titlehash:da4a7b941ddb98475da4436150e404c062649f01a8712bf4e8c3452721a7f08a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss
+title:thousands rally against tunisia s president five years after power grab
+seen_urlhash:592e0284e69f0933bfc815f819854861a04ff46887f509aeb458d00e5f0940c2
+seen_titlehash:73f4e65970974361b791ef7e2e77f3fc8066b1768c8f6e3d53e5c84c187efcd1
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss
+title:becoming the story injured journalists battle to leave gaza for treatment
+seen_urlhash:10ebec8019c1f2c400a99a912ef47c94ce3beb6522e7f3678154d0ad18d69ba3
+seen_titlehash:6a1519231c5e7b6734d702b76c804db5eef670c012eeb36de3e5c5969528424d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss
+title:israel debate boils over in the united states
+seen_urlhash:6739cd30f0d2a31b90d74e0ca33210ba36791836e34fb23ea29d4eaeb25b8ff2
+seen_titlehash:31d5796a5ec28da8252452d15fdfe4100b9e93f01bfec1d305752bc30f5554d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss
+title:israel raids west bank live dozens of palestinians detained during assault
+seen_urlhash:6718556bb4d0727bc7a54859dafda43016be9b46fe8a54b1b54f18dc46326a2d
+seen_titlehash:1c44d036b6304d28558dc70a336db0f2ea4cacad1cf71e08982134b1dba8563f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss
+title:tour de france final stage shortened as emergency teams tackle wildfires
+seen_urlhash:b3870d74f6e4c1d927bf7121eaa99c3a43530fae9caa2241bfe6ef24b998209a
+seen_titlehash:c383813e2d5ba88152515df31985d5297059a5c4732d8402d095eed2d55353b7
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260726-romanian-jet-shoots-down-drone-entering-country-airspace-for-third-day-in-a-row
+title:romanian jet shoots down drone entering country s airspace for third day in a row
+seen_urlhash:9d672c83a227384db06b9d08f0533cb8aefa94790b76e32a2ddbc4a80dfe6cba
+seen_titlehash:b83138b652b627b78a8d8873b716e64273237dba745c1a1ee47da72dfbc7247c
+seen_reason:processed_not_published
+url:https://france24.com/en/france-fire-situation-remains-very-unfavourable-says-interior-minister
+title:france fire situation remains very unfavourable says interior minister
+seen_urlhash:8efe35654a96cc758a8f7f04b8a84ee71d3495530b54066588fa0c416043ff59
+seen_titlehash:1443b201e5eaf8173fcae926ac19fec9e1d0bc1b8207833931b979499f4040f7
+seen_reason:processed_not_published
+url:https://france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured
+title:german police hunt suspect in berlin pride attack 1 dead and 16 injured
+seen_urlhash:65d14a059740e90d6cb20136bc78c48d55667782a17da6e7290c95177ebe0a6a
+seen_titlehash:1b71dc9eae533d19337b97b828acd4fd7802523e9c97efdd994ee12b79f03618
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank
+title:israel detains over 70 suspects following deadly violence in the west bank
+seen_urlhash:8f18e450f091cc53d8a470013c119e06552888e00dc0d2467aaed0b6f0769de1
+seen_titlehash:8e3e3af344601c9780072ae55f59b01a6804fa03d00b25a48b589f05eae81afa
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260726-women-afcon-2026-tournament-gets-underway-after-months-of-delay
+title:women s afcon 2026 tournament gets underway after months of delay
+seen_urlhash:9dd753e84696e3dd5533c8d5e16cfa759601c586d36d2104aa02dc53c14e1f78
+seen_titlehash:bdfaf1bf7234d75407b412d6f7dd92071f5b9140e6efd6b78959a2c2a00f7dbf
+seen_reason:processed_not_published
+url:https://france24.com/en/wildfires-keep-southwest-france-on-edge-evacuations-top-200-000
+title:wildfires keep southwest france on edge evacuations top 200 000
+seen_urlhash:a687d5af551bd7f8991215a56b805a4be243e58c5ba9588fc6140ff9e174852c
+seen_titlehash:8a48c5158e2911c88e3649f68fc7402855d4c479a1b23aa72a367714f65907b2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260726-spain-struggles-to-contain-wildfires-60-000-evacuated-around-madrid
+title:spain struggles to contain wildfires 60 000 evacuated around madrid
+seen_urlhash:db277b38d8f0503d6798578b45d4f67b5092f87ed1ef77d868b6ff15200391e7
+seen_titlehash:293d6281c7c75b85f770963756a5c42609ee6581d608fff881b87d001f8ae3e2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260726-unesco-adds-normandy-d-day-landing-beaches-to-world-heritage-list
+title:unesco adds normandy s d day landing beaches to world heritage list
+seen_urlhash:db277b38d8f0503d6798578b45d4f67b5092f87ed1ef77d868b6ff15200391e7
+seen_titlehash:293d6281c7c75b85f770963756a5c42609ee6581d608fff881b87d001f8ae3e2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260726-unesco-adds-normandy-d-day-landing-beaches-to-world-heritage-list
+title:unesco adds normandy s d day landing beaches to world heritage list
+seen_urlhash:249d06d6809b4548d9b26f68115d31d65bfda6ece51411297f6715f71419d501
+seen_titlehash:b550dd1f362bed445fc63ed290e01b8928d9b671938a7cea1bf16b761dfe59b0
+seen_reason:processed_not_published
+url:https://france24.com/en/we-see-a-longer-fire-season-nearly-everywhere-why-are-europe-s-wildfires-getting-more-extreme
+title:we see a longer fire season nearly everywhere insight on europe s wildfires
+seen_urlhash:5a08cbbef06a36913a91ce3758798b6032aef69ae4657210edc9ba4cca5edf46
+seen_titlehash:97f2352c60b51606c569b629cce4ea51ad319c83aa4a6be9ef6778da0520670d
+seen_reason:processed_not_published
+url:https://dw.com/ru/лесное-поселение-целендорф-в-берлине-получило-статус-всемирного-наследия-юнеско/a-78118833?maca=rus-rss-ru-all-1126-rdf
+title:лесное поселение целендорф в берлине получило статус всемирного наследия юнеско
+seen_urlhash:77efdb6ce952c0e1e5cca71c1745771c21323d89e9e7d7074514639f2159ba9d
+seen_titlehash:e31a7706a34b602ba6fcebeea3ce4694b2144a5605dee24ff8ca861693407bb3
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-результате-урагана-в-ростовской-области-один-человек-погиб/a-78118844?maca=rus-rss-ru-all-1126-rdf
+title:в результате урагана в ростовской области один человек погиб
+seen_urlhash:d68d96414fd11f1190bec15eb4324878119aa991b94a077cd12b7a768ac05497
+seen_titlehash:7cb560493b075b6b49c6677818e9cb6df4109b9c284db8f07cc6d94cc5a2c399
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-румынии-сбит-третий-за-три-дня-дрон-вторгшийся-в-ее-воздушное-пространство/a-78118595?maca=rus-rss-ru-all-1126-rdf
+title:в румынии сбит третий за три дня дрон вторгшийся в ее воздушное пространство
+seen_urlhash:8c954f77e3e5566f8ea4878bf2ce4f89d2009f1bd4d3d9046abeeec6ae4874d7
+seen_titlehash:3b73115c2ebe5b4230e5c6de0f9cf7a1a4e62e927a750559aa6de652e353b90d
+seen_reason:processed_not_published
+url:https://dw.com/ru/лесные-пожары-во-франции-готовят-эвакуацию-еще-55-тысяч-человек/a-78118445?maca=rus-rss-ru-all-1126-rdf
+title:лесные пожары во франции готовят эвакуацию еще 55 тысяч человек
+seen_urlhash:4a33472e78f27281ac25770fa35364ffd5dd2bd69dd05d37dd4899d895085e7f
+seen_titlehash:83b0ee46b467f4e2b16ce2fd3abef902e4f39fdcc507ff3c4c10025a4cbf836c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/26/in-italy-petrol-prices-exceed-26-euros-alarm-from-opposition-and-associations-government-c
+title:италия бензин свыше 2 6 евро оппозиция бьёт тревогу правительство изучает плавающие акцизы
+seen_urlhash:33320cee7b9ccc0cf8e46feda8d688bce67d899a1461322f0bca946bafda42cb
+seen_titlehash:7c82d65a310218de334afe84866457bbb72cf2408ec23aea7e591ad6ce5d2363
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/26/romanian-forces-shoot-down-third-drone-in-three-days
+title:румынские военные сбили третий дрон за последние трое суток
+seen_urlhash:a0c238866e675a739d325f2f0452e589fcf81e22265cc43b8dc9b3c03351495f
+seen_titlehash:a21fe3f33cb303cdcd8063e91a35dd1c9c9d38266e59b875a35b66914725144c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/26/wildberries-perestal-pokazyvat-voennye-tovary-po-zaprosu-vse-dlya-svo-no-nayti-ih-mozhno-po-drugim-zaprosam
+title:wildberries перестал показывать военные товары по запросу все для сво но найти их можно по другим запросам
+seen_urlhash:2986d423d771123fa3ddfb828410898d584d730a95b5c0285c1f2736d1899b97
+seen_titlehash:355e1be455b4aa67cc032f9d3b0dc16951273dba4b77040e0bbda65fe15459d6
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/26/proyti-sotni-kilometrov-peshkom-po-tropam-piligrimov-takoy-variant-otdyha-vybiraet-vse-bolshe-lyudey-po-vsemu-miru
+title:пройти сотни километров пешком по тропам пилигримов такой вариант отдыха выбирает все больше людей по всему миру почему камино де сантьяго и другие маршруты так популярны и как стать паломником
+seen_urlhash:0c62a820569e2ce923ddb22ae9efeb88d1a67c23a9164268a6378b8d651d5118
+seen_titlehash:218c0ca568478e29b3b006dfc0985e601b1c7e47c2e4ef19aa534c54b7be3ed3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/26/v-rostovskoy-oblasti-proshel-uragan-s-livnyami-i-grozami-odin-chelovek-pogib-esche-13-postradali-zaderzhivayutsya-okolo-90-poezdov
+title:в ростовской области прошел ураган с ливнями и грозами один человек погиб еще 13 пострадали задерживаются около 90 поездов
+seen_urlhash:d8c8443493d898154bd5289997b47346c38a6091f77ef529d465b88988093cc2
+seen_titlehash:3371577f7ee1f77f7376e59f438d108adfafb827e5283e666d1f1e37e2b5c951
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/26/the-new-york-times-tramp-otkazalsya-ot-dalneyshih-udarov-po-iranu-ego-komanda-opasaetsya-istoscheniya-amerikanskoy-pvo-na-blizhnem-vostoke
+title:the new york times трамп отказался от дальнейших ударов по ирану его команда опасается истощения американской пво на ближнем востоке
+seen_urlhash:60aaa0e9d2d475ce1babc6193ade17521f36ebacd7739c47587c7c5313de30f3
+seen_titlehash:7c6362a70b7f2e6f346d38aaa794618ce452d0bce0e3271abf8f0624df7772f9
+seen_reason:processed_not_published
+url:https://ft.com/content/1215a488-9ef6-4538-a190-5c5bfbf10c0d?syn-25a6b1a6=1
+title:us economic anxieties on display in battle over digital store labels
+seen_urlhash:5e7da815caf79d639466b89bf0c420ff9f4c8975a62a9d8b50f445bb24e84374
+seen_titlehash:9a0ec54ceb31fbdc4d7d4f870df6b16682a4fb5e1b32d3b4404486563204eb2f
+seen_reason:processed_not_published
+url:https://ft.com/content/cb14773b-8c05-4434-983f-a10292db8967?syn-25a6b1a6=1
+title:burnham rules out early election
