@@ -18688,3 +18688,68 @@ seen_titlehash:857068f66d2fffe2cb6d7cfab7873384545b582c2bfac786273fe8be1c9e29f5
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/07/26/tour-de-france-2026-tadej-pogacar-wins-his-fifth-title
 title:тур де франс 2026 пятый титул погачара ван дер пул выигрывает на елисейских полях
+seen_urlhash:ce2b36195cbcddad649b88951860052ea56eca620827526f4ea78b7162070643
+seen_titlehash:8ead8b1b18d03840e08b428bd3bdbb4a2fa51e6c3613ba50c7b8747f84869ce0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss
+title:pm pledges continued support for ukraine ahead of zelensky visit
+seen_urlhash:4267c0fe4fc608fb16a57ed1438202701f40e8b93357b0d6819f531cd6c62eb9
+seen_titlehash:faefc889f127869baaebf8c4ad9c064a2eed37daee21955c9cefcd8756de4823
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html
+title:flames advance on bordeaux where evacuees balance dread and hope
+seen_urlhash:06977bccd52bf33a98857c4903f5936000b733d33b3f20f8fdfdf10c873abee1
+seen_titlehash:6bd720556659df5b21f8910e733af58ba813f54f89c4a7fae5ebf4cc4f9244f4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/26/world/south-africa-identity-crisis-wildfires.html
+title:a south african identity crisis
+seen_urlhash:f83a3fe0ffb807ba4a991d5f74d4bc4b5bd2be52cf1ce8319ae868599a7e7ed1
+seen_titlehash:982bc77491834e734fcc90cbf70cff78b46052ee34027d9dae150b5b738c1d59
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb
+title:australia news live jacinta allan loses majority caucus support after meeting of state labor factions national ausalert test to blare siren
+seen_urlhash:b18f2b3364779c7486b3b0cabb0f2231a3dce4e08f38f10df235ea05a57c9612
+seen_titlehash:219d9db32a0110c94b4d5b87fc2ed4d7d0e635d6ce4849a4a804e12cfb6fd0cf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss
+title:what s causing the unprecedented wildfires in europe
+seen_urlhash:863ea0550f7a5fdbe994f66c31b758b8fb0ac7c9f52749ac6ef49d2e2931eca5
+seen_titlehash:e1266c6388a89f5dc172f0ca91b0041536a8d5174357d391f395c5636f85ab2f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss
+title:israeli government nods to international stabilisation force in gaza
+seen_urlhash:9d611c7da7aea57dadcd7c60e921bca7030470077bdc741437d909ba5ab42e05
+seen_titlehash:07b895e361395b3c9117cbc50f3f4530024bb972609655f4be586c3aad85baae
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss
+title:palestinians hope international peace force can rebuild gaza
+seen_urlhash:4d2ee453ec8091e6ccd13abd994960b4cb27b233821af1aae54088ef4844d977
+seen_titlehash:b0e82f9e28bc4236b9a8e9d3759fe49534e8e439582fc0f4790ef661284e2f9e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss
+title:us and iran hit pause on strikes for second day
+seen_urlhash:da6558fa7b70819c6795f7445b825018962c1b256103a56608cf7a84599d54bb
+seen_titlehash:cdc5d47800265b4841ccb012cfc519314ae94b8624285f00354e7aaaaa39d469
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss
+title:former president hernandez returns to honduras after trump pardon
+seen_urlhash:768f2ec9dfda3674d61b028ecdb20a32a3e16171db2b8684150cefe68993fd68
+seen_titlehash:55e073216e60f4733ebd66cd620ec90297b048a2a013518e3daa211db3aff860
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss
+title:houthis claim saudi drone downed over northwestern yemen
+seen_urlhash:0f0737e886830c0741662f926de519fb9a45c3ec3c8ce7ba98da63e3657c7b10
+seen_titlehash:51bd935d0dfed26ea7eeb32be8fa7bcaecec4839573c5ab26cde7a7765d2565f
+seen_reason:processed_not_published
+url:https://france24.com/en/environment/20260726-bordeaux-under-threat-as-france-spain-battle-unprecedented-wildfires
+title:bordeaux under threat as france and spain battle unprecedented wildfires
+seen_urlhash:ef60c5663ad803188a44e6e40c40ed76ef117b7899567202c671e40309c94730
+seen_titlehash:8c6fc062860debadc3f8389c172ccdaae80018044a14df391ce91e135ea71dc3
+seen_reason:processed_not_published
+url:https://dw.com/ru/пять-альпинистов-из-боснии-и-герцеговины-погибли-при-восхождении-на-эльбрус/a-78122980?maca=rus-rss-ru-all-1126-rdf
+title:пять альпинистов из боснии и герцеговины погибли при восхождении на эльбрус
+seen_urlhash:6ba235d5c7d2bc5c37a8fa43d98ff4ba31f7643714d7abffbd90bd33e9a2265e
+seen_titlehash:9f8f1feffcf54aaadb7b3870cb6d53d0366afc298cae7109bc197beca70fe932
+seen_reason:processed_not_published
+url:https://ft.com/content/cb0f0e8b-cb17-4a7b-9875-d34da635cb88?syn-25a6b1a6=1
+title:firstft india s gen z protests dent narendra modi s aura of invincibility
