@@ -18408,3 +18408,63 @@ seen_titlehash:c9c7466f3ac6449e7e757fbe716a0cca3f3f38833c681c69c27606c964722613
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/26/vo-vnukovo-slomalis-lenty-priema-bagazha-zaderzhivayutsya-bolee-30-reysov
 title:во внуково сломались ленты приема багажа задерживаются более 30 рейсов
+seen_urlhash:6bf7ea5726c4528ce0c2f847bd69387fa2b9e45f9822c3143fc46a46b34c63d3
+seen_titlehash:dcf9d5c117eba9b92f00fef44cb5d6db36b8deecb34be2e74cafafc08da24adf
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/27/get-rid-of-them-one-nation-senator-claims-party-will-remigrate-visa-holders-in-resurfaced-interview-ntwnfb
+title:get rid of them one nation senator claims party will remigrate illegal visa holders in resurfaced interview
+seen_urlhash:be2e228995f5107cf07e8053cd5930e935eeb2f5077cf0b5147c4f5edb808dc0
+seen_titlehash:53bd894e2f4601a13c7343316eab4b30d6a0a485fcc46734986a44ac13e2e4a3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/27/israeli-siblings-owed-protection-by-australia-after-vowing-not-to-serve-in-idf-tribunal-finds-ntwnfb
+title:israeli siblings who fear breaking law in gaza under idf owed protection by australia tribunal finds
+seen_urlhash:4aa644607269cea321220e357ff78472024516d3f04b586eb3603ae540588d20
+seen_titlehash:cc0b9b3a226ea499c3d768dfbc46cc1ac39a629d1f9257db2f6ae715bc449de5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss
+title:senator whitehouse netanyahu a walking provocation for americans
+seen_urlhash:41a0951ad37194f6e0435ee743186f3d2d2bb93199ca8464dc575db4028d687a
+seen_titlehash:34aac3f5b49ecde6950a433f0478e64948adecfc4fc655b42350eaed112fd9db
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss
+title:more than 360 000 evacuated as wildfires rage in france and spain
+seen_urlhash:296e1ece8c434432e288d8c13e2614f3400c34de2e88e95867a4d7d63cf5fc25
+seen_titlehash:a73db3a4310b2cc242ce5371a866e5029234431a5f7a65e9c08ec97d164f925c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss
+title:israel carries out double tap strike in central gaza
+seen_urlhash:6a6cbd1e4c74133792026d126d2a63b7292bba96a4ac4c6c52fa0a4b3139fdb7
+seen_titlehash:dab697bc950d47bd991750721172e84c6a341376fc21405eab0b5a3d456b2239
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss
+title:tunisia grapples with five years of crisis since saied s power grab
+seen_urlhash:b4cac204b82253836b7fc623908883e0558c161ed417957012a78c205823ad5a
+seen_titlehash:4d28cd78bdfb4838dabfc9f49829ee53fbca0995a208bbb0efbc365054624b46
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260726-wildfires-in-france-french-farmers-provide-water-tankers-to-help-fight-fire
+title:wildfires in france french farmers provide water tankers to help fight fire
+seen_urlhash:a8e4cf448bd40f3e4a82fd76499130fe7f894596d82d6c4052b18b1bed3e56b9
+seen_titlehash:165c56f1a5a8e3a0abf2d2b6938b3a9b2031d4fc7461018e13817dd82606582b
+seen_reason:processed_not_published
+url:https://france24.com/en/germany-berlin-pride-attack-believed-to-be-an-act-of-islamic-extremist-terror
+title:germany berlin pride attack believed to be an act of islamic extremist terror
+seen_urlhash:3c4061725f1a484d3050e6eae5a80dc8f2ceba3cf1097fd9acde8bc1875cebc2
+seen_titlehash:088606675d59ba649901001f7c07b1e081e69acbde4e89d73040c1783cbd108e
+seen_reason:processed_not_published
+url:https://france24.com/en/fires-in-france-42-000-hectares-burnt-220-000-people-evacuated
+title:fires in france 42 000 hectares burnt 220 000 people evacuated
+seen_urlhash:9a39899ab3122eb3b8fe06b9bb27701d76dbd08ee274bc479350b5f076cccc64
+seen_titlehash:a1416e50dd2b034fa54f52fe54cb3233230bb18aea75bb73757d90ecc4cd6511
+seen_reason:processed_not_published
+url:https://france24.com/en/sea-drones-to-defend-the-sky-as-the-war-continues-in-ukraine
+title:sea drones to defend the sky in ukraine as the war continues
+seen_urlhash:0ac3e276d287450a91699191eb44ce1e1c6cf0fa697bbaf96fa6706cbd60662d
+seen_titlehash:c7067177e6385393c776dd500c5d8d911bb011b8dfc6bf59a3d6b49840186314
+seen_reason:processed_not_published
+url:https://dw.com/ru/сотни-человек-собрались-у-бранденбургских-ворот-после-атаки-на-парад-csd/a-78120744?maca=rus-rss-ru-all-1126-rdf
+title:сотни человек собрались у бранденбургских ворот после атаки на парад csd
+seen_urlhash:2c8664a441572a8bf290bfd82b9e6cc6c6012af150e997462845c00d515f323a
+seen_titlehash:83a15260c855bd4095d107014d8bf969c0152042723c30feec667a1a09cfce93
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/26/megamarket-osvobodil-sebya-ot-otvetstvennosti-pered-prodavtsami-v-sluchae-atak-bespilotnikov-tak-zhe-sdelali-ranshe-ozon-wildberries-i-yandeks-market
+title:мегамаркет освободил себя от ответственности перед продавцами в случае атак беспилотников так же сделали раньше ozon wildberries и яндекс маркет
