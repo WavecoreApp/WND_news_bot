@@ -18578,3 +18578,48 @@ seen_titlehash:d16d82786ced2aa0d0257abba8abb78928017f059de7c8d99fbb6ded6d0f17a1
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/07/26/glava-lvmh-bernar-arno-skupaet-frantsuzskie-smi-chtoby-davit-na-zhurnalistov-prodvigat-pravuyu-povestku-unizhat-svoih-konkurentov-i-konechno-bogatet
 title:глава lvmh бернар арно скупает французские сми чтобы давить на журналистов продвигать правую повестку унижать своих конкурентов и конечно богатеть вот как работает его медиаимперия
+seen_urlhash:901e4d01a5280af0e2823cd90a872e6c40c3f91f60a49f569e8e1f512500b5f7
+seen_titlehash:3f8d7a30d5702699dc92dd0885f6223289240ad749222c7e9e8c3e1b49616e50
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss
+title:romania summons russian envoy as it shoots down third intruding drone
+seen_urlhash:676c0e3b856d5553e029014ff2fb3b965355733b164e373b9dd3a27631114658
+seen_titlehash:893f6e2e1c252cba9a987b06a848a1b56d780062eaf79a64dba2e550f17e307c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss
+title:al sharaa praises trump s decision to remove syria from terrorism list
+seen_urlhash:710eeb270de283ca74e49355feb8a7bc7f34e81e27ca81205eaab562d706f131
+seen_titlehash:7166ea6722fbed3ac30e0dae33585b8ba79ec323a44718fe0af06d4efad72cb0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss
+title:berlin police shoot dead suspect in car ramming attack at pride event
+seen_urlhash:81dda23b8f11694fe60157bdb567133b57a5860a34484f5597babf439142eca6
+seen_titlehash:77edc25739c735a6b6e7969453083b829f2e7f079409790b02f5814e53e7f2a7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss
+title:israel launches military incursion into syria amid un condemnation
+seen_urlhash:81164459a42a7d6ce26cf9eaf9abdf5bdab0c63cc281e60098888b1f0676aa20
+seen_titlehash:dadedc41d608f03145657f6dc267be5b719fab89968918045081d18142ee05f9
+seen_reason:processed_not_published
+url:https://news.sky.com/story/tadej-pogacar-joins-the-greats-with-fifth-tour-de-france-title-13567072
+title:tadej pogacar joins the greats with fifth tour de france title
+seen_urlhash:3773429b0f7f2a76e08281f0c221345e18a65b23f7c62c1d6f22fbf60095bc5f
+seen_titlehash:3d4e1b4e5df1c7f0487eb3829125206f1e724c38323341704cf112f7be342a0b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260726-pogacar-wins-fifth-tour-de-france-as-teen-seixas-seals-stunning-fourth-place
+title:pogacar wins fifth tour de france as teen seixas seals stunning fourth place
+seen_urlhash:3773429b0f7f2a76e08281f0c221345e18a65b23f7c62c1d6f22fbf60095bc5f
+seen_titlehash:3d4e1b4e5df1c7f0487eb3829125206f1e724c38323341704cf112f7be342a0b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260726-pogacar-wins-fifth-tour-de-france-as-teen-seixas-seals-stunning-fourth-place
+title:pogacar wins fifth tour de france as teen seixas seals stunning fourth place
+seen_urlhash:62346a0de59ba045c6c524473461088fa403f2b9d275c7a5d5c4aaf98532fa45
+seen_titlehash:a71307eb7f7e0b347869d02ca1ed2ba93ccc5ccc68485645dcc458224372b261
+seen_reason:processed_not_published
+url:https://ft.com/content/c6c745fc-58d6-4a31-9410-ce4e8f5bcfcf?syn-25a6b1a6=1
+title:gatwick airport apologises after water shortage hits toilets
+seen_urlhash:308ae64fe6a466270495313122de70bc2578e655cef81ba0c6702f549409ee32
+seen_titlehash:7e0386e50a83e828fb871f1d62839ea064eed621a360d34b05fff2e270e91361
+seen_reason:processed_not_published
+url:https://ft.com/content/f91661b4-5d1d-4da0-b00d-88c1bc4fe5b0?syn-25a6b1a6=1
+title:the exploration company with spacex ambitions aiming for a 2bn valuation
