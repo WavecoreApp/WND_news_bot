@@ -20498,3 +20498,18 @@ seen_titlehash:6f3bf280beba15a6cdb25b3799f74a7352cd333a67a7a0943f233937db0699c1
 seen_reason:processed_not_published
 url:https://dw.com/ru/бпла-над-румынией-мид-высылает-российского-дипломата/a-78137370?maca=rus-rss-ru-all-1126-rdf
 title:бпла над румынией мид высылает российского дипломата
+seen_urlhash:516088a7fdce9815d4b28496a012f184fd50c0cc72df771bf0cdcc9b5927dbcb
+seen_titlehash:2cc7be2d07fc8115e862691156642fee55c2848d9d58f486c0422675d8688f09
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll
+title:jacinta allan resigns as victorian premier ahead of leadership challenge by ben carroll
+seen_urlhash:9f87baa66eba016c5371ba8286dfef61930127a6a7c01897fa459a4c8ac5e860
+seen_titlehash:f033f654bad4b6708ada9479016ce4fd76a1147408a5b375a28b1007ca604ce9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/28/sally-mcmanus-michele-oneil-resign-actu-union-leaders
+title:pm praises sally mcmanus and michele o neil as giants as they resign from actu
+seen_urlhash:d98a68afdaefc4c5e5eeeed6280db4340779429d0974342abe1c54a0856d8455
+seen_titlehash:dcde2730b6ff5805bf018ed0747047ca9fb244ed8483731defc8dd6539fdba4a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss
+title:us diplomats walk out as france addresses un security council
