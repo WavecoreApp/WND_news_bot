@@ -18793,3 +18793,58 @@ seen_titlehash:e4ec65bfe6eaca191c0bceece362a5baf1c3cfccec50ca1c810ed92a1f829219
 seen_reason:processed_not_published
 url:https://ft.com/content/42716151-d6e7-400c-829b-7f7165bfda2e?syn-25a6b1a6=1
 title:prosecutors call for barclays protesters to be sentenced under uk terror laws
+seen_urlhash:e3cbfedbe3999ec4b4d72bad9876d4157a37033cc63664fc2154e13e8c9d0fb3
+seen_titlehash:9fb1d0fdd6839c04480f0e162c02e2a46e042850bc37dd9073d15ae79c3116e9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss
+title:netanyahu accuses nyc mayor mamdani of fomenting hate after arrest threat
+seen_urlhash:fcdce6b09a712ec21d8937b9f1c07c7d1cb49c8e72640bea6df6c491d4177cc6
+seen_titlehash:8f62c8fc0eda6770e102e9cb22fb359448de205e4ddfae2673df52047c897771
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss
+title:argentinian leader calls brazilian president a thief and a convict
+seen_urlhash:8e1e3b86403e85947270e2414dc937c700b7f56f8585cccd95bec88f4e2e5a61
+seen_titlehash:987a599ea8abbd445db0a2cd08f2147f7523fd52eb9af3c1c85d9d21164ffdc9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date
+title:ausalert test what time will national emergency warning siren sound on phones in australia today here s what to know
+seen_urlhash:7c275337ac81d609a356685ebe011e60021f0ba254b6e0c8c036db0cf2deddc0
+seen_titlehash:34086fa9341d8939493f3fb3b051cf318a8addc10b7a44a48dd93c121d1db1cc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss
+title:ebola infections in dr congo surge to 3 200 with 1 405 deaths
+seen_urlhash:e7a169e8feca16b9c0f7cea3f1056d1b478c60524752f05f33a55eecd2867dce
+seen_titlehash:e0a192d8a9663a8cc56006037127b8219e168f4b87423d536f4d67cd841ed5f8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss
+title:lebanese return to homes of rubble left by israel in so called pilot zones
+seen_urlhash:399bdd9c2acc1920b8aeba9907904512b31035bcd51cbf80c74a7c165668275d
+seen_titlehash:5150c752f6f775f7410e4fda1d7fe2cf12efd02ddf83020c34269ad9921d82d4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss
+title:guterres tours syria s notorious assad prison in sednaya
+seen_urlhash:7da90a1b2dc82ac79eeef1d82b13ed40e561ef055df8bd8c806cdb8d43c0be50
+seen_titlehash:173ab5d7ba13882a58894ed6a45b50489be66d5c1e1fb1af8c4f2cc7a9cb29e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss
+title:iran war live tehran halts retaliatory strikes after pause in us attacks
+seen_urlhash:905649bf27c874fd0e6b37f7631a91f9aaf2760f4d07f39f052f7671dda34a67
+seen_titlehash:ad48937ccb708e4fb3d6afbd2b625445e368ca42e4ca4c831a3386a3dae34ab4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss
+title:khamenei ties us iran peace deal to israel ending attacks on lebanon
+seen_urlhash:db57f2c0408daba4c4fa2e8d34688b2d11df87701b68248333da63025e1193aa
+seen_titlehash:8dccceccd3a8fc7ab6d8af5f208be8928c631d2e8e094d1900df4f27b58545f8
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260726-france-24-s-luke-shrago-gives-firsthand-account-of-fires-from-l%C3%A8ge-cap-ferret
+title:back from gironde france 24 s luke shrago gives firsthand account of fires
+seen_urlhash:c48d2426adcfd52aa44607f8cd76c66e6987360c80a000c0c45202bee97ec986
+seen_titlehash:9f412610629917572e2a672f76830f2fb39f9a30adcc5c4390b14df5083aa28c
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкие-эксперты-предупредили-о-рисках-из-за-связей-вуза-в-мюнхене-с-россией/a-78123227?maca=rus-rss-ru-all-1126-rdf
+title:немецкие эксперты предупредили о рисках из за связей вуза в мюнхене с россией
+seen_urlhash:c7367a1e0c5b2c1ef006219f32a9f0acdaae71301f2a4bb64d06568942babd76
+seen_titlehash:cdd48a2c381adcab23cb2fcb278c2e90a4cdd4ecf3926268e02f0b6b3a9fe157
+seen_reason:processed_not_published
+url:https://ft.com/content/b52ce5ba-6493-4c0c-9395-c227b9937a71?syn-25a6b1a6=1
+title:asian private credit fundraising sinks to 12 year low amid bankruptcy fears
