@@ -20463,3 +20463,38 @@ seen_titlehash:dd595df3a74d4dd5ff2bedfbcedad52fe31fdcb22bd2c70c3e93bf98190d026f
 seen_reason:processed_not_published
 url:https://ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1
 title:openai hacking incident is warning shot on cyber security microsoft s ai chief warns
+seen_urlhash:3f23e3012924e31551fa51503c514ea2aa486acc4b74fe6e28bc226ba282c68f
+seen_titlehash:628e1da8fb7371ee2d8ea3e5c72875efe6b12dfefe5a971d93147cb3ddddd5a8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss
+title:a japanese town wrestles with identity after protests over its first mosque
+seen_urlhash:ee2491bcd6c2d7cfb69f0b8fa6f8858fe0705b4a844f15b5154b16c81e968c96
+seen_titlehash:852316b0dfbb6624b3a1ad3559e4579ae0732b986b6c7a853e08e4f513101d84
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss
+title:do the right thing savannah guthrie makes another plea to mother s kidnappers
+seen_urlhash:02f3c16248ce2d57e12ca68c0880c9b3b6f06770d65206087e21146098271a1b
+seen_titlehash:d03de0f1991f03bcc3e37a5e0081ff272fe1d37f10ab0a7eea0794548c704ef6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss
+title:as the us pauses the war with iran is trump really running out of weapons
+seen_urlhash:00d65856b4e3dc2240b00d9ac3cf09be3b497219cfaf855432924bd8e2426b1d
+seen_titlehash:3445dc84c4e8fb6a3d8b1671e83851766c31931728bb028e5e80c75751a24004
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss
+title:a nigerian soldier is arrested for tipping off criminals but does it go deeper
+seen_urlhash:41cb283cf832bbd654e177631b5fad62a08c7458d22c001a879030f78a2f9d7b
+seen_titlehash:02763b8398ef4886650b2e415acb91807513e6c3c80c5af9e47547e092b40083
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss
+title:shot fired outside us consulate in canada for second time this year
+seen_urlhash:7cca4b6797197a85ef88039ff1428cf1a4c6191cd95d4aa49c28172b81be1a35
+seen_titlehash:5fde9bef5455505d419c0d3716dfc5be0cbe6feb9049e960d8be5e702cd27f87
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia
+title:yemen says ready for houthi escalation after rebels target saudi arabia
+seen_urlhash:f402551f22670f4c987a56038a9c4a78201274387f6fe18f5ea6a76398060393
+seen_titlehash:6f3bf280beba15a6cdb25b3799f74a7352cd333a67a7a0943f233937db0699c1
+seen_reason:processed_not_published
+url:https://dw.com/ru/бпла-над-румынией-мид-высылает-российского-дипломата/a-78137370?maca=rus-rss-ru-all-1126-rdf
+title:бпла над румынией мид высылает российского дипломата
