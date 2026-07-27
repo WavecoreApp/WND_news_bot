@@ -20328,3 +20328,138 @@ seen_titlehash:64b96989301ce645e18afc362b429526312ef493fca8d3f53572d089ec989ff7
 seen_reason:processed_not_published
 url:https://ft.com/content/2fe22a35-5544-4a0e-b72a-b93e941cbcad?syn-25a6b1a6=1
 title:pm doles out jobs in bid to avert labour unrest
+seen_urlhash:8d592060213b2f1a1ca47ce47091a3d3bee9db8a5af392e2fc19680d0fbbfc83
+seen_titlehash:31133feb5ad10b501171a5ec2f125cd05a0b6a556027e334bbdd5ff9d2fb1a95
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss
+title:trump says iran war talks taking place during lull in strikes
+seen_urlhash:997a38eb7a95e08a480d112ba14f9cfb0c7c5fe369a4d005f92fa2074b8cf8ed
+seen_titlehash:d75ac7bfebe87c75b40f089d02091a9501124f79eb0033b4d8b5b17d180c44cf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss
+title:us singer d4vd to go on trial for murder in death of teen
+seen_urlhash:cb2c40a61f9b6f46c946b3fa761053f07376d5ce3dd5ce7cb5190caa52c940f6
+seen_titlehash:fead7adc0dcc3a30c11abe82bbec5556c47a7965bc045b50bcd656ef3b64c64b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss
+title:wildfire witnesses describe wall of flames fear and stress
+seen_urlhash:54e6b8bce649c50d1deacfaf24f067f5a455dabfb672a657fb30173d71d00dc6
+seen_titlehash:fff75b5e4c85c123342890b6063c3d7d57589c26d7163d82e88418a382febcf6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html
+title:india s cockroach moment
+seen_urlhash:1c5f2c7e29b6a7ed9bf41212fbbdcf6f8b8b235066140a92ee5e04269c971510
+seen_titlehash:8794be51c6f4e43b2ec7f389066ed0ea4f1e7291b5d67f73577456827d395a6f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/27/world/europe/france-spain-fires.html
+title:heat wave threatens further wildfire spread in france and spain
+seen_urlhash:8e933771e40364ce03743358d29e71dbead4022bd10984154356b8a1e7c1ff5d
+seen_titlehash:d52d4ef8c2540df347a163c2023626dc12afc0503fe4641faac69cb13c082654
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb
+title:australia news live anthony albanese praises sally mcmanus and michele o neil as giants as they step down from actu
+seen_urlhash:71e9e9a8b5bada0448a0bbfae4c5a15188df9a35b0831b1bce357fcc051f020d
+seen_titlehash:13e1a2c7f3bc198e8cbd3b0dedef95e6736840372a880ab990aa1698fd8029a0
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir
+title:so how do you get access to the qantas chairman s lounge alan joyce has some tips
+seen_urlhash:fe2c5c5ec58c05338d223e89fe7d590bdab43c8966cde80938645319a8ef6ba6
+seen_titlehash:5e76a70b8bca416a81424f7e737eaf13794c0ba355c3c7f594f4f697f0952b92
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss
+title:video shows man subdued after stabbing three women in paris
+seen_urlhash:47666691fe875f47ceaa51d6ef04a04bc8c379bb9a587614b4567a5d5ef8f97c
+seen_titlehash:7ed22808b60a4f84dbaee0b5cc84fec0332a1b56e2e43d9fa3292d914af07c86
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss
+title:trump asks us supreme court to allow mail in voting restrictions
+seen_urlhash:433617d969c27aa06b2187d9b107bcb16eca636148d48946d1edf29182e163c5
+seen_titlehash:fca7c92271a6d59bddc4651aa51b769bfc034893077fec5855a6f50c6762b93b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss
+title:un slams israel s expansion of illegal settlements in occupied west bank
+seen_urlhash:659b465116631a42f32d9df2b3772840481da0c61109c52beb0f160991ca1789
+seen_titlehash:efceb03c3293315ba8f7433075676221a148dbd92ea6362a214f6d0d9b62c3cf
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss
+title:nvidia plans 250bn push to bolster openai s infrastructure ambitions
+seen_urlhash:4aa01f730d1301f639274bd297602f8691756decbb85d2cfc19fd522477932ce
+seen_titlehash:f762f556da4f41bdff12d48adae0b6846bd2de29006902e63cf8d62efd18c40a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss
+title:hopes of return to diplomacy as us iran hold fire for third day
+seen_urlhash:4ab0ef47d75158783348741710c6630ae144403336c001baf57a45d58b853cf1
+seen_titlehash:e9edb63b2482a9e4e3023ac9114a53397afba3a4f2ad6e83039e8ec5649eb899
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss
+title:will peru s new leader keiko fujimori reject her father s legacy
+seen_urlhash:b284ca7059df713481e91a58a1578a88e0f3f23084b1ddc12f6e9ae40f2e0fc4
+seen_titlehash:cdfc6aa803e5869abf00653a753fdd8e804121f1ea2c31922f75dffe2392bc4d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss
+title:british court dismisses bahrain s bid to block activists spyware lawsuit
+seen_urlhash:f3622d3178527c75f477fd5c7cb697c8aeaa87b47af41e5416c928833be37c1a
+seen_titlehash:a3a1d04a802b40157299659c1cde2a784ed89483d4cf21cf16b5799f24607abb
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss
+title:hakeem jeffries puts affordability at centre of democrats midterm campaign
+seen_urlhash:aad41e0becc9a4547515b398cf101ac4c73b0a3b8f9b8ab8ef297627b6c36dd3
+seen_titlehash:0020bc8a5611fbe1ec6eb4406e92182f672ff43e571b41b584e30884a74768bc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss
+title:trump takes economic message to michigan amid dwindling popularity
+seen_urlhash:5b75d1309d18979e275870f192cbe2bd867c28a4dd3820cec9c85104b3ccdb7d
+seen_titlehash:a1b762d4c76ca1b5cb3db2b7b9b23e9e595e4235c480e24b85c2316c56e6fcce
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss
+title:has burnham kept his promise to do better on israel s war on gaza
+seen_urlhash:f298ff2fd636f2cc8d70a47e875d1d9ca2665d0f5e63d3feab38df1b3212b306
+seen_titlehash:8d77f609ce04fbe5f1b6be2df35c4b29d336f47f935181260d9f0ac78db6529c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss
+title:unreleased footage reveals lindsey graham s push for war on iran
+seen_urlhash:d46b8c8aec26dce8168fa1fc087d345220ecd874f65ed8e4f2819469e0bcd7bf
+seen_titlehash:259b2eaae2471218e2996ef2cb35db445a66874773ef5df960370e743f55d3ef
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote
+title:us walks out of un security council meeting as france condemns rights vote
+seen_urlhash:0a280f5117f4d6672e17c0843614e75260bbc12774a344d7679a816fdf77217d
+seen_titlehash:af983a6ac8feb727d388986481e05cb25220f42d76a0c003966c62bc75ceb678
+seen_reason:processed_not_published
+url:https://france24.com/en/2026-women-s-africa-cup-of-nations-is-underway
+title:2026 women s africa cup of nations is underway
+seen_urlhash:a17bdaff21b2a080dcfa869d6da9047e486299e46d97a0ffc916798f2cfaf5b7
+seen_titlehash:e82cfe5c59b89a6f77d3e9f243e951677fabe1bb612c05fe8ecd9107aeedc967
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns
+title:haiti schedules december presidential election despite security concerns
+seen_urlhash:fa26af6556289afd83bc3aadcba416ae8463fba2653daf93339930487b8638e5
+seen_titlehash:15f63e4b1344d9a900e3fc359ca55b5fe0f3fafc45cd029eb8b79458a41fbed8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/27/berlin-attack-mourning
+title:надо было вмешаться раньше берлинцы критикуют властей после нападения на лгбт прайд
+seen_urlhash:765ccfd7c6e7c7f2cab6a38e6999422ddccdcfe1046e5b40d204be94220127db
+seen_titlehash:c5a362715dcefaaf945d95ef8c04c4f1c92df74ffb68fe69bf581f738b4320c9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/27/v-yalte-iz-za-otklyucheniy-elektrichestva-nachali-ustanavlivat-dvorovye-kuhni-dlya-zhiteley-mnogoetazhek
+title:в ялте из за отключений электричества начали устанавливать дворовые кухни для жителей многоэтажек
+seen_urlhash:b7deb7600a336f5d8cf0a05084b77759268350649e40a27acec603f82829e2c1
+seen_titlehash:def38a8bba142c0a9e3ee006d8771d764ac13942f38bd8d1fc516332768d746f
+seen_reason:processed_not_published
+url:https://ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1
+title:firstft chinese chip champion cxmt surges 466 in market debut
+seen_urlhash:84a6e89fdf9b2b77322dc671d87126ba3526f532cb5fe27f91ab396791d3cb57
+seen_titlehash:a64ffdab5df257371a2b4cbacfc7191ca5c6c3e279c4004bf7e1ea85741f0dfb
+seen_reason:processed_not_published
+url:https://ft.com/content/fbfd2caf-695f-493c-9ea2-56ef39373e4d?syn-25a6b1a6=1
+title:success of india s cockroach protests energises critics of modi government
+seen_urlhash:228b0fd0d589f9d4734bc01c8f972e842bf4e08f34c89beb6dca35e99c9b006f
+seen_titlehash:2817b48ef6bdd70fff969ade62edc970e258be82c274521b5eaaeadb8402eba8
+seen_reason:processed_not_published
+url:https://ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1
+title:big tech credit risks rise sharply as ai spending soars
+seen_urlhash:d62e5e4b0ee34a9f0155a841628de823dd82b2a37cb24ec69cfa6f496111e9ef
+seen_titlehash:dd595df3a74d4dd5ff2bedfbcedad52fe31fdcb22bd2c70c3e93bf98190d026f
+seen_reason:processed_not_published
+url:https://ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1
+title:openai hacking incident is warning shot on cyber security microsoft s ai chief warns
