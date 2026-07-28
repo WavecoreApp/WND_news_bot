@@ -22248,3 +22248,33 @@ seen_titlehash:c66e36957e1125dd528dacd93a0eadec315b58e8e34648238768835275aa7c89
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/28/na-granitse-litvy-nashli-podzemnyy-tunnel-iz-belarusi-ego-mogli-postroit-dlya-perepravki-nelegalnyh-migrantov-v-stranu
 title:на границе литвы нашли подземный туннель из беларуси его могли построить для переправки нелегальных мигрантов в страну
+seen_urlhash:ceea51980e712718a5e8a26cc27df84b07ad0150b488063e4c6969442ece2f8d
+seen_titlehash:43a3447c870ad04efb74dd82da26f25089af053fa2fa277f6d4b8c354c7f5196
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china
+title:fcc bans humanoid robots from china citing unacceptable risks
+seen_urlhash:e7b2242d72847f7dac62ce7b4eaa93fefd944d360fbca77abbc885409e0a9af0
+seen_titlehash:9ce5d45eecadddff08ebcaa0fdaa9e6e701033972ba1673365ca7d1345c9e574
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss
+title:yemen s houthis claim missile attack on saudi arabia oil tanker
+seen_urlhash:47e427102855ef4eac4019d8c1c305550cdde6669cea1b80e50c34ddcaacdf97
+seen_titlehash:9ed63cbd14e89bb41b4d18e758eabf2aedd423ee76fe7bac1b897f68d9cf157c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss
+title:japan kumamoto earthquake what happened damage victims latest updates
+seen_urlhash:30cc8314924b3e9fc4552b9933cec60eebaa38f4d4c4fe452a3be90d561ba30b
+seen_titlehash:8a4dcb579be1b8468cfa7c45351b221cd8888bc70f5d6e4188b244f354b5f73f
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions
+title:france braces for fresh evacuations as spain eases wildfire restrictions
+seen_urlhash:24226dfc2e3d56b6fc48939df70331cfc265aa0e7eedc4896246b8ab8a81016e
+seen_titlehash:3ca6ce324e338338763adfb0bdae66b804a5ed77610098a9879e7bdd81210945
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-на-торговое-судно-ирана-в-каспийском-море-украина-не-хочет-эскалации/a-78152214?maca=rus-rss-ru-all-1126-rdf
+title:атака на торговое судно ирана в каспийском море украина не хочет эскалации
+seen_urlhash:fabc7bd8fc22b998530336176784fdf7f0ee4b9ab1ad46993621fcde205c6632
+seen_titlehash:f30b6de0295f8d8f94b292e3fcd2c41313cec4a49b39cdf6b0d6b98c41b6c761
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/07/28/can-french-nukes-protect-europe-if-donald-trump-walks-away
+title:can french nukes protect europe if donald trump walks away
