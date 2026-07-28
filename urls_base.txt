@@ -22208,3 +22208,43 @@ seen_titlehash:9ef7aebfdfebea011d30a17a5a5954097daa1f0ca78b9267b157f92499350910
 seen_reason:processed_not_published
 url:https://ft.com/content/e18fbfc5-bc81-4758-9a82-cc3d53a590e1
 title:keiko fujimori sworn in as peru s ninth president in 10 years
+seen_urlhash:338d0b56bd0995e413f32313e0318cfd594b2e6a891d6f7ea6f71a59ca30914a
+seen_titlehash:720dada9ecfb050a1c4d5e1aa71b279bfc753695e8e3eeebb768b5360378ea68
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html
+title:houthis claim strike on another saudi oil tanker
+seen_urlhash:3a7ec70dba8a9d8fc5f6b3187672675c750db700467865cc61adfc392a25ee1d
+seen_titlehash:94568fe441ddd399526a11202de1ec7edc8c31d80a4d803bb281961f93ccea36
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb
+title:australia news live jacinta allan was subjected to vile sexism as premier julia gillard says
+seen_urlhash:7c79a7cd1ec8b84ee382ddf92ce2d9bd7d1be09a24bf70d729ec37066c03b5c9
+seen_titlehash:fa986d4d9ccca1acf7fb0b429e4317004e3e7873ae0ce9be944b47c80de8c10a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss
+title:israeli airstrike destroys gaza city mosque near displacement camp
+seen_urlhash:4872c8df3db78a474e56e40ee0297cb3e05b4c62600e9afbd8c308dcfdd5c812
+seen_titlehash:774308da84bfc1d6c8042e355549851f03e0ba2fd78b8ba2f8f9419a51f74225
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss
+title:donald trump and world leaders attend lindsey graham s funeral
+seen_urlhash:1d5cb2bb2421cefd9dbf5dcf447471b257de1cbd87918690c9bf49fbb6b0ee54
+seen_titlehash:3f376b1c674dc5bfa2e13cd29bedfd63b949092dc307b7a1c49eeca303b72837
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss
+title:iran and oman exchange proposals to manage strait of hormuz
+seen_urlhash:d523d6870afab241f44a4571543102889ddae6f76648eb93a3dbda74bcdf31c1
+seen_titlehash:e7d8c5fb495e2d9d8204d40ca484c97fb171b40d3b3e90d9235d695a61c5debf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss
+title:rome s viral graffiti cleaner is taking on an ancient problem
+seen_urlhash:4c31e38bf9c4a31cbb47676f121deaf036cad8f43532cbb726abd76c72e32b7f
+seen_titlehash:90d42d4afb500f4e1fc7f0d34e780009b6a7e81975348315d41bc964bb3332cf
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260728-peru-s-fujimori-vows-military-led-crackdown-on-crime-after-taking-office
+title:peru s fujimori vows military led crackdown on crime after taking office
+seen_urlhash:bbae44c71a5ada4ea1559bebbc165e4f8f04559988a02f01ea77c839a080d326
+seen_titlehash:c66e36957e1125dd528dacd93a0eadec315b58e8e34648238768835275aa7c89
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/na-granitse-litvy-nashli-podzemnyy-tunnel-iz-belarusi-ego-mogli-postroit-dlya-perepravki-nelegalnyh-migrantov-v-stranu
+title:на границе литвы нашли подземный туннель из беларуси его могли построить для переправки нелегальных мигрантов в страну
