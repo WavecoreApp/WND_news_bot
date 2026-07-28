@@ -20968,3 +20968,378 @@ seen_titlehash:73647236382f27e3b151c882ebcf5c868c59af3564f7ce9d3c7484136f828dcc
 seen_reason:processed_not_published
 url:https://ft.com/content/f917cd45-785a-45dd-9826-e8efed7003c0?syn-25a6b1a6=1
 title:tariffs and treasury yields
+seen_urlhash:69f27aa231c6cac42372e527384ea10750f665c47afc62a3248f2588d1afde4a
+seen_titlehash:9f40f4e77ab9239411ab03790dee100dbe43ff5c126a52f65e69e3b2db078439
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss
+title:zelensky to press trump on air defences while in washington
+seen_urlhash:d329fbacba03be209938a650f3930596a8f9cc8679db47e7345a0f9e4c0b331f
+seen_titlehash:a8b2e30b0dd526598b169a1e0987e0598d2337a8315298905fd8085629702470
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss
+title:us walks out of un security council meeting during france s remarks
+seen_urlhash:7bdec9e1196de10d5b8a058ca6752aadef56ceace36fdaa98115bee1bb41fbe8
+seen_titlehash:a3ac3f780e025a406a08a3b77766ad28b8a6a1069461d4a40a4f0d3af02002ca
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss
+title:zidane confirmed as france head coach
+seen_urlhash:2a1fb8aa6501bbdcb55096e78d2223e7bfdc541c23f22b914dd3f98fc7a67b2a
+seen_titlehash:6350a6189b68dad023a86264608631dedf26006a2b247aaddee14246b3f74873
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss
+title:odyssey translator writes scathing review of nolan film adaptation
+seen_urlhash:39d44beec031e9166c4adb9b886e6c0fdfdd216566c524cab6d1f61821ca22f6
+seen_titlehash:e6635e6cff03e7a1fdd21db92e43c0310e04c7f866b4f89a65fafc06ae78a3e9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss
+title:ariana grande sues hackers who leaked music and videos
+seen_urlhash:6d64c0e219e8183813394ba6f2410ad73776d4f26f87e6815f5445f67eaa82ac
+seen_titlehash:edac1f232323cb9093f6b616aaf6e5e5b0ea94ef6ae610abc762a90a8de81b22
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss
+title:hong kong activist allowed to stay in uk after deportation threat
+seen_urlhash:5e1d9db12bf425ed4ec27fad95f2b82fccf3e1006eecb252997378ea7e0c9387
+seen_titlehash:8b26d9594404d2aee986c0b2f23ccdea81f63a876ae91be9d91b6d522f2f70d4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss
+title:zoo staff rescue near extinct snails from remote rock
+seen_urlhash:471b96be0bf7770a52a44fa8a4a97cb11e601511d4d1a4eae1c071680e9ad1e1
+seen_titlehash:0754bc0db35b926ef80fd557ee2bc4468eff989f98ffd671a8efdad4b06541d6
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami
+title:live updates 6 8 magnitude earthquake strikes japan
+seen_urlhash:3564f3ecbfd306c868f6256d7a6c1ebe57b5c304c096993af8ac89e38a1f2b66
+seen_titlehash:d62444576c6463f03470d0957c261e57e6645c2335ee9c1adedcbf487763efe5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/europe/bordeaux-wine-fires-smoke.html
+title:fire raging near bordeaux brings more bad news for its vineyards
+seen_urlhash:09961fcbbe6c463d31f52ad25487c110c0bd91a84dc003efaae8921acc47a48d
+seen_titlehash:679288a4d2a8dcaed3abecc6634e7e881d7348ba4a2adcb746f29b1faf953ca8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/asia/india-education-protests-cockroach-genz.html
+title:we are not learning anything india s gen z rage is a test for modi
+seen_urlhash:4914543edc407d2d57f130e39ec237131a6fdff1e87d14b21243ee0f5747b03b
+seen_titlehash:79b4b609e757dce741de258458e8fee5622ef892cfbadc6748bb25a74bc1702f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html
+title:fresh clashes erupt in pakistani kashmir on first day of contested vote
+seen_urlhash:73425f82cac52c6300a9fbd2eb3c32df079e147fc308bb21746d02c7772a4d7f
+seen_titlehash:bafb0c2e31eed9a578c44fd0bd9c33cb2312b6ef3627e059991a86c698ee166f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html
+title:as u s pauses strikes iran is no rush to resume cease fire talks
+seen_urlhash:e63b1331901967e1ff0d895d974f932700358f387ee8750b6f5b7534b76dd0b6
+seen_titlehash:28fc3a4a0876b02b028b8109ed20ba9bf2d377d63179b692e6080e3bd52dec89
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html
+title:france and spain race to tamp down wildfires before heat wave hits
+seen_urlhash:ca0a637e64117790dd8cbe01ab57beb48d827ee3836cf8648134c5c82af95267
+seen_titlehash:2630dba6b49fbddb2740836ef2805b3448e51706785897ab38d57c4488e407b9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html
+title:how do you move 30 beluga whales with cranes planes and anti anxiety medicine
+seen_urlhash:7818c780745f3fc1c85b2fdebd60701cf1f45ab262c672f247b2fba862ad2288
+seen_titlehash:c58435bfe44452afee8fd255f89bbdd7011888ca9afdc14c4540986b2d6463dc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/us/binance-crypto-crime.html
+title:police say binance is making it harder to fight crime
+seen_urlhash:93a0b396a4396c5ba837710430961b5fd0336d6cdf7e03b349d5f0d762e3dbf0
+seen_titlehash:e73992d2b64322e234c3689e6ab3ff743b67a8540f621981156284d75163fd2a
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/americas/100000011002617/cubans-arent-sleeping-in-sweltering-blackouts.html
+title:cubans aren t sleeping in sweltering blackouts
+seen_urlhash:1ad378c0a436de2c7a50a560653a78831d22c43c405d483bbb7759bf6ec2b411
+seen_titlehash:4443dd38b372b98547eacf4fc30dad9cb015932c4c3b0f13f7d0622db595c0b6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html
+title:beyond amsterdam and venice 6 delightful european canal cities
+seen_urlhash:dbc583e095f6a9ba9ec9bbae476cc8116d92e677012244717d9f0783e33a5ba8
+seen_titlehash:0255123bfb8970b23a2bff350c8741a1d229e6448785adc73093d77d3b073a81
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/28/ben-carroll-premier-u-turn-victoria-labor
+title:after 48 hours of acrimony ben carroll s u turn for the ages needs to set victoria on a new course
+seen_urlhash:59be00760a3afa70b6abe8c49af4049f647e84705b107bc69bea69b4f1bf1bcf
+seen_titlehash:cc41b7fb557f1452c4a88be287087eb55090083e1bcd481afe1773923a5c1a96
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss
+title:moment 7 1 magnitude earthquake rocks southern japan
+seen_urlhash:3267ef9ca776ac7b5a0c35bcd5f2fcbc0dd23ffb685af4655de4a3b54e3fd631
+seen_titlehash:c3a5c8ca50cb8972dd886f6ace6161fbb827720bd0aa8683d61280c156227c82
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss
+title:netanyahu in the white house what s on the agenda and what s next
+seen_urlhash:a58da49dd83f2cb933d4d3484e63c0845e202775a321728ac82961b80a9e2e4f
+seen_titlehash:47153a8cd0a9307f03f8a4038622f07548e9973bed4c910c96e75c6b3ff7b238
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss
+title:future at stake india moves to demolish university muslim leader founded
+seen_urlhash:4da5dde22eefbf48d77dabb4b10b5c6d7f95a00b33ad9252256275f7ceb5fea5
+seen_titlehash:b418a76cd0d96fc7c23951108c8640d04ef234de5e5f1ad5537b767509985170
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss
+title:sixty palestinians detained by israel return to gaza describe abuses
+seen_urlhash:165ea355b18611eb57949cff8a3ef7384f69dc3751b09ff7d8715992357e1d60
+seen_titlehash:51a7f78e573e69602ab458e6f5828a029cd0b982a14c4554858e48bcab63399c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss
+title:colombia s president elect to suspend palestine embassy
+seen_urlhash:9551a237733ad03de3f7cd3846c232fb48d8d248d18157a3ede9a7ef5742702a
+seen_titlehash:5244f753d59962895665138d0d5fd073e1c5749f6aa91b49e6076499067f6291
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/28/ice-extends-lease-on-texas-detention-centre-where-three-migrants-died?traffic_source=rss
+title:ice extends lease on texas detention centre where three migrants died
+seen_urlhash:83d532f7a54be8b6fde14fe429fb48a5960b98944a7010a21b2912b404b0c662
+seen_titlehash:ded6da329a4ec4144ba230d2b24ea65972e20de47f9f1b98d096d32d8ce6cd62
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/28/justin-greaves-sets-new-cricket-bowling-record-with-five-wicket-maiden?traffic_source=rss
+title:justin greaves sets new cricket bowling record with five wicket maiden
+seen_urlhash:bebde42e6707799a765e6ece869c51229759fd2c998010f86486a9c5eaf4817b
+seen_titlehash:553dfd1d1e7fc5126c3791e7ec558c4f7592096367595c88770581f287f6a4e4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss
+title:war criminal protesters confront netanyahu motorcade in washington dc
+seen_urlhash:6ef1ae00466fd62400963e40fdacc29e39c9d9eb4f38694bd4b6b832657c1d37
+seen_titlehash:ed8794638d112f1c38f13eb057d121ca2cdec054def9e6d301f2764579c4ec7b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss
+title:conor mcgregor calls for third ufc fight against max holloway in 2027
+seen_urlhash:edf1b5726ba413b6b0e85268ebc2623e32c557307799e14aa10d19ea17d2ce0a
+seen_titlehash:6d982c2a5c7ac87f1219d14b1108912cc04093c3afe8a60fed020ad93155fc2d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/major-earthquake-hits-japan-13567677
+title:major earthquake hits southern japan injuring at least 50
+seen_urlhash:7916ecf55f472cfeaaf2efa699f203807baa380f01159b94bba0a552aac01aa3
+seen_titlehash:f7b2c6f72b191fbdf840e0de32da106a9fa5548be4d2e3fdb354c5585cced3d8
+seen_reason:processed_not_published
+url:https://france24.com/en/monster-fires-spark-debate-over-france-s-forest-management
+title:monster fires spark debate over france s forest management
+seen_urlhash:c9374b12d79fd0366d997d9ba972559720dc591b504bb009c0b59f4050d3c92f
+seen_titlehash:bc519906e4990f383613d5324460f358e2ddc0a071eb378953878c15343d8165
+seen_reason:processed_not_published
+url:https://france24.com/en/fire-evacuees-start-returning-home-in-france-s-scorched-southwest
+title:fire evacuees start returning home in france s scorched southwest
+seen_urlhash:fe561762bfb13a5a5df10cf958fb4e3708d57346e763e9f09df06b12b9db3e7b
+seen_titlehash:dbad9016414deed36b122df9c3cb6cec6a90d97b37200747e6ce5e6aecf143d5
+seen_reason:processed_not_published
+url:https://france24.com/en/chad-s-population-see-census-as-solution-to-make-grievances-heard
+title:chad s population see census as solution to make grievances heard
+seen_urlhash:47fcbe2d32b7be4861a1e42b87b477f18402149ca10c945574354dd8d3fc0e00
+seen_titlehash:a253004b67ad7641bd2a5e0bd9ce6055b4df7515d9979b22912217971d791a92
+seen_reason:processed_not_published
+url:https://france24.com/en/drone-strikes-and-abuse-rock-sudan-s-el-obeid-as-conflict-intensifies-over-city
+title:drone strikes and abuse rock sudan s el obeid as conflict intensifies over city
+seen_urlhash:5b7e2b8e9906a668e0e6a66de283d854d03aa7eb67247987e452e1ee7aa5564d
+seen_titlehash:7cd57d7417f6a3eca17bea20c58f866b9789eeb76e231837112640bb81b22321
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260728-replay-zinedine-zidane-appointed-france-s-new-football-coach-1
+title:replay zinedine zidane appointed france s new football coach
+seen_urlhash:ad8d5828fe3cd1e06811549f4f8ffd876772e6db5701fcac63fbbf46fdbf5a6c
+seen_titlehash:7bccace80607cedeb5a5f0f5fd2f44337b818e2ea527d63b7dd5a54ab3d87a53
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260728-football-legend-zinedine-zidane-named-head-coach-of-french-national-team-les-bleus
+title:football legend zinedine zidane named new coach of french national team les bleus
+seen_urlhash:3105ec7919e2a19fb313f508fe25eb559ca82c809438c0dd75ed801fb665d514
+seen_titlehash:1aeb61d92e5eeede8453e9c993bc0b51b52c22a77a28021c90ef3756ffad1844
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260728-zinedine-zidane-a-french-football-legend-to-coach-les-bleus
+title:zinedine zidane a french football legend to coach les bleus
+seen_urlhash:18ae98293328375986d0a72bbfea3c8830fe52e9b7a2cda9a0e19ed411b12453
+seen_titlehash:3502e00b95db395cf111b8cd5209ab56e78cf29b8d477ceb2c4ba52080369fd9
+seen_reason:processed_not_published
+url:https://france24.com/en/french-football-legend-zinedine-zidane-set-to-become-les-bleus-new-coach
+title:french football legend zinedine zidane set to become les bleus new coach
+seen_urlhash:7a7069c57c954ef62946d71c30355c8d31e9ffad366328abb81fca969dbcdbdd
+seen_titlehash:37f53c3253a615ab331db450f24e7ddb3458339b26d9572ba12c44e31e7c25d7
+seen_reason:processed_not_published
+url:https://france24.com/en/as-it-braces-for-a-new-heatwave-spain-races-to-contain-wildfires
+title:as it braces for a new heatwave spain races to contain wildfires
+seen_urlhash:7efb7591972c83fb8aa81866d616f842e7834cee2b8c90424dbed919161efc75
+seen_titlehash:033b241b466d60ba3ad16a0ca9db90df99dbf0d28851437231ac8d51c5c8cdf4
+seen_reason:processed_not_published
+url:https://france24.com/en/how-bordeaux-locals-are-volunteer-to-help-firefighters-battle-monster-blazes
+title:how bordeaux locals are volunteer to help firefighters battle monster blazes
+seen_urlhash:ad8d5828fe3cd1e06811549f4f8ffd876772e6db5701fcac63fbbf46fdbf5a6c
+seen_titlehash:24ebd58005e4ed64b237068b04165581c5416057a31672dff4aed3dc224a78a2
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260728-football-legend-zinedine-zidane-named-head-coach-of-french-national-team-les-bleus
+title:football legend zinedine zidane named head coach of french national team les bleus
+seen_urlhash:d4e192caf6591deed12f6d04f2057a8db9d40e35e4f82c0ab444d53c6aa9d3b8
+seen_titlehash:167cb79184f439a21488ff95037210424b026cbb07ed437332e6cd45b89a552e
+seen_reason:processed_not_published
+url:https://france24.com/en/netanyahu-to-meet-trump-at-white-house-for-first-time-since-iran-war-strained-ties
+title:netanyahu to meet trump for first time since iran war strained ties
+seen_urlhash:b6ce3e674acd03c13dae69f4e65808efefc78fad2c82c59e7ea83e0378c93f53
+seen_titlehash:48c3998a94864a6e7e89dc51f6eb380b4ddb9ff20a0f3582ffbe7b1b1356435d
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260728-zinedine-zidane-to-be-officially-introduced-as-france-head-coach
+title:zinedine zidane to be officially introduced as france head coach
+seen_urlhash:48778a7f5775447571828c19b81a7fe0467177c704d3389880ec8cd38a65184b
+seen_titlehash:faf86cd00a194b05836a722d8e081ffa12ace9c760d38f458e817b7c5f84ae2b
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say
+title:live massive wildfire near bordeaux remains stable after calm night local authorities say
+seen_urlhash:c6b580d5bebab3ed5a3f50475dcde3668370f2bf49a4f734d5ad8cd8e6604272
+seen_titlehash:e1ea94a04a343623f6180d6771ed729ae6be4aabacffa5a22a8eb27c689126fd
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260728-how-can-you-keep-yourself-safe-from-forever-chemicals-and-cadmium-in-food-part-2-3
+title:how can you keep yourself safe from forever chemicals and cadmium in food part 2 2
+seen_urlhash:d2e25174c31b293e76f3179077cc33271989ff92b346a581a0340fbcfe2f23c5
+seen_titlehash:ed578fb54b022cc53bf738bb72b544db33eb7ef2f55f56db8230992793453c24
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260728-ukraine-s-zelensky-expected-at-white-house-to-secure-trump-s-support-against-russia
+title:zelensky expected at white house to push for more support against russia
+seen_urlhash:37d87b9d97201aecf560316f7fa45a76999d27de3c17770da58cd19a7c809145
+seen_titlehash:4409b76442b77305f225566aab53eb13b44bd75f0c43167314ed6322a2552434
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-японии-десятки-людей-пострадали-от-мощного-землетрясения/a-78144365?maca=rus-rss-ru-all-1126-rdf
+title:в японии десятки людей пострадали от мощного землетрясения
+seen_urlhash:29ef7ad80c4fc9c108a0f63e5c23e2a7fba55997176ebcbce164eb6107297544
+seen_titlehash:17aacf1d3017ac6e4ba261a4a0f61ba34dc11dc80f1818c4922761910c66d80b
+seen_reason:processed_not_published
+url:https://dw.com/ru/конгрессмен-сша-требует-от-главы-фифа-ответить-на-вопросы-о-трампе/a-78141192?maca=rus-rss-ru-all-1126-rdf
+title:конгрессмен сша требует от главы фифа ответить на вопросы о трампе
+seen_urlhash:1e8c0a5084cf7c15aa92b2039d8df706cd2df3ad524638088eb5fec2f2147f03
+seen_titlehash:61e8e46e31c96832d2cd4273192369f0b09030ba41bee7d148ebdaf7e5cea763
+seen_reason:processed_not_published
+url:https://dw.com/ru/reuters-выплаты-помощи-украине-сша-планируют-растянуть-до-2029-года/a-78140204?maca=rus-rss-ru-all-1126-rdf
+title:reuters выплаты помощи украине сша планируют растянуть до 2029 года
+seen_urlhash:2909158b71c34180b24257490f98418a0624b99ccbebe53d917f727d418640e6
+seen_titlehash:b71fda12b2255c8c6dc92ab0736a3e6a2b3ff00dd719158dbd158d347bfb5b94
+seen_reason:processed_not_published
+url:https://dw.com/ru/где-помимо-кельна-теперь-можно-увидеть-пиксельный-витраж-герхарда-рихтера/a-78129742?maca=rus-rss-ru-all-1126-rdf
+title:где помимо кельна теперь можно увидеть пиксельный витраж герхарда рихтера
+seen_urlhash:3374ab18378421388bdb9266bb3d88ba9997e82214734ba52e0ade79ab073fae
+seen_titlehash:ef032b35dbec75f4b30a812edd3db91909b8f2ca705141ce4ba143120831dfef
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/28/tom-cruise-and-katie-holmess-daughter-suri-drops-her-estranged-fathers-last-name
+title:дочь тома круза и кэти холмс сури отказалась от фамилии отца
+seen_urlhash:87c5bb5214f97c2545ede05a1d26529a9fd46da84f8d120d3f6f1f4c9a82adef
+seen_titlehash:26cb3b4d1d97eb85c9bbfd0b74bae9244c9af28c344481726cc137c14594e8bc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/28/shtorm-kristin-v-portugalii-polgoda-spustya
+title:шторм кристин в португалии полгода спустя стройки не начаты госпомощь не пришла
+seen_urlhash:2904f4ab46f6a3564e940f128b9e21b66d2b282493ecf763ac0062c3e5ab8073
+seen_titlehash:6936a6fec3d5cf896bb5967ce9588a00767c34593047ef37da840abf36d42ce4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/28/europe-is-set-to-miss-the-2030-hepatitis-elimination-targets-a-health-agency-warns
+title:европа не выполнит цель по ликвидации гепатита к 2030 году предупреждает ецпкз
+seen_urlhash:0a74db3eb370ac004e08c65b2565043e9244554d9db1971d190003a993c2f0ba
+seen_titlehash:d2d0606d84b92cbdf75c752b4c40431035ea739df07719da1e108e653345e6ec
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/28/last-minute-holidays-are-booming-among-british-travellers-as-next-day-bookings-increase-by
+title:британцы массово бронируют отпуск в последний момент заявки на завтра 26
+seen_urlhash:dbe8b95df5791de9b92b649e9a779ada9cf2a7defb1dec78c4f810e3ac204e7b
+seen_titlehash:a14a80e9b715729dc1333f66845e68760a63714bbc6d10a50e2118a35e371fe7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/28/v-irane-kaznili-dvuh-uchastnikov-protestov-ih-otpravili-na-eshafot-na-glazah-u-mestnyh-zhi
+title:в иране казнили двух участников протестов их отправили на эшафот на глазах у местных жителей
+seen_urlhash:554eb45ca8fd29870c669b340d47eeade8faf612688c35b5d7ed49c2564c348e
+seen_titlehash:c4bab178cb5e0e798e16d8400bbb0b20764c1caa6acb1adb59efbaefc10252bb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/28/white-houses-rick-and-morty-ai-parody-featuring-donald-trump-sparks-huge-backlash
+title:ai пародия белого дома на рика и морти с трампом вызвала резкую критику
+seen_urlhash:3adb7e088554f6c540662b0df6cc326bc3361c7723237957b27961abc06ed837
+seen_titlehash:b3a499b1a2534e346ad17c81b195a649f2d63b9ee612f430ec6c8a3797c796ad
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/28/italiya-stavit-na-gaz-iz-kipra-ona-poluchit-ego-uzhe-v-2028-m
+title:италия ставит на газ из кипра она получит его уже в 2028 м
+seen_urlhash:896914106d790623d8acd820eeee7591d1b005f25ff91e949bee3e0980ed7f90
+seen_titlehash:90f08f4db28db8bd98155a9c76af55b066c0887b2fb370a6eb05270ddce60ecd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/28/mercedes-benz-cuts-sales-forecast-as-profit-rises-despite-weakness-in-china
+title:прибыль mercedes benz растет но прогноз продаж снижен из за слабого китая
+seen_urlhash:8fe9e50a40545f3aed556ac01d4b9a50981fa05a0ed0ed54049d89e2146511f4
+seen_titlehash:61de0ecc05fcb4099e12a8aceb5e22e787795b4956a65b964a7108dc73917d98
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/28/spain-sets-a-record-for-employment-with-228-million-employed-and-unemployment-falls-below
+title:летняя кампания в испании рекорд занятости безработица ниже 10
+seen_urlhash:82f27807066cf599f950acf3a8d819110f63a6a537c7917e3a2f587e3b3da7f3
+seen_titlehash:c0ddae078cf15db8eed37661fe9e43a69d788e7e053910c05e3773779aeb7cea
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/28/londons-hidden-gems-underrated-landmarks-you-need-to-see-in-the-uk-capital
+title:скрытые сокровища лондона недооценённые достопримечательности которые стоит увидеть
+seen_urlhash:c5288bbc6cd13ae63024c0df53adc258aa925e010e0bebe137e48e85686772e5
+seen_titlehash:89fe1a0271e8d3ac51963b34235aaf3964bbc716be5ffd6d111e7132a09caa57
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/28/summer-holidays-an-unaffordable-luxury-for-millions-of-spaniards
+title:туристические рекорды испании но каждый третий житель не может позволить себе отпуск
+seen_urlhash:cad75cfa4954efd6ad28e2f63892102eb735f8aec819c547df2a8e2cfebde4ed
+seen_titlehash:d3e1f7f168a9c487d0eb672c10bb255fb65d232c53221627ea712163430bf04f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/28/chronic-financial-stress-accelerates-brain-ageing-study-finds
+title:хронический финансовый стресс ускоряет старение мозга исследование
+seen_urlhash:17ea607c302f6185514547c252dd2941854642e149e6306de16fd4e8aacfdb59
+seen_titlehash:e787a3809d83783af46a13faee663e1a298db29a8b686da5a740bc339168c520
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/v-yaponii-proizoshlo-zemletryasenie-postradali-kak-minimum-50-chelovek
+title:в японии произошло землетрясение пострадали как минимум 50 человек
+seen_urlhash:3590cc8646fff409d64eb249ea9057097330ddd441351ea0ef9c40f683eaf1be
+seen_titlehash:d18a16f70a99571e78d981e0b7c5a16c571b7cb9e54fef8d605e5a55079b7b5d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/vedomosti-nazvali-dekabristov-nezhelatelnoy-organizatsiey-skoree-vsego-algoritm-sayt-pereputal-ih-c-sovremennoy-npo-iz-germanii
+title:ведомости назвали декабристов нежелательной организацией скорее всего алгоритм сайта перепутал их c современной нпо из германии
+seen_urlhash:eeee1f7ed94a8c8fbc1451aa09ba49b9ab8659b6ecf6b38aa6a7d2f0e19296ef
+seen_titlehash:effc853e92e2a6cc7596083f8b347beb76f7b3d0d29e8024532f5128c251e58e
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/28/tyumen-zataplivaet-iz-za-silnogo-pavodka-v-gorode-vveli-rezhim-chs
+title:тюмень затапливает из за сильного паводка в городе ввели режим чс фотографии и видео
+seen_urlhash:c11bc891ecbb320f52580076861555672983f2400651c0f9687a92ca74a2809a
+seen_titlehash:df2e9f43f287cfd32f169b32d8cecaf5ba89f200896b37ac5fca89fdf2ce4cd1
+seen_reason:processed_not_published
+url:https://meduza.io/cards/zolotaya-korona-bolshe-ne-perevodit-dengi-v-gruziyu-a-tsifra-bank-v-kazahstan
+title:золотая корона больше не переводит деньги в грузию а цифра банк в казахстан как это связано с европейскими санкциями и какие способы перевести деньги в эти страны еще остались
+seen_urlhash:10b0c7171c04d6992b722bcce83b0fc7896a7f8ee6d9802423ecabcfa42e9e59
+seen_titlehash:1de821a6967a85995e298517292ddab6b95a5143c51ad900cb44759eb3520489
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/v-metro-barselony-proizoshel-pozhar-postradali-okolo-140-chelovek
+title:в метро барселоны произошел пожар пострадали около 140 человек
+seen_urlhash:de41b18a39e6ab329873e1da3f6199145c003fc944ea769a7c514c3a93e1d1d5
+seen_titlehash:f1bcce7116f2529f638dccfa5028fb7c3a55662e18f6f7fcbbc3a97eac8e84b2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/zinedin-zidan-stal-glavnym-trenerom-sbornoy-frantsii-po-futbolu
+title:зинедин зидан стал главным тренером сборной франции по футболу
+seen_urlhash:fef034cc7756b8d42249db0a5444d65c0bf0b0593ca1f794af208e2a7903babe
+seen_titlehash:1ddeb0100fdeecef5ce4b043bd43bd7c381a119d800d66936e5fc0f9b8d08a43
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/verstka-v-armenii-vyros-spros-na-kvartiry-so-storony-rossiyan
+title:верстка в армении вырос спрос на квартиры со стороны россиян
+seen_urlhash:78a988260c64db6bd4a4ae4ff3518024eaef6e320c675a12adaab2d0049eabc1
+seen_titlehash:07da6e3235c66773a18204aaff741e2affdb58a43e6a1ac2049d1fa2e6f629ed
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/bastrykin-predlozhil-schitat-ispolzovanie-ii-pri-sovershenii-prestupleniy-otyagchayuschim-obstoyatelstvom
+title:бастрыкин предложил считать использование ии при совершении преступлений отягчающим обстоятельством
+seen_urlhash:41d007b803e35923eb9d989b958f6d8dc83612e9ec7e9553797276e1cd5473a8
+seen_titlehash:a79ef3a3200ff7a9512e7d680b6196dd3659a446d8f6270d554709379f77d7ac
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/28/esli-vy-seychas-ne-vmeshaetes-to-situatsiya-stanet-patovoy-prodavets-s-wildberries-s-1-3m-v-instagrame-obratilas-k-vlastyam-posle-udarov-vsu
+title:если вы сейчас не вмешаетесь то ситуация станет патовой продавец с wildberries с 1 3м в инстаграме обратилась к властям после ударов всу
+seen_urlhash:221ac383176b7c063184d8952fa2a0e8b55297c7d222393efba5287620585d72
+seen_titlehash:25e5c95c346d0f701023271e97ff70ba1de2591ec7eedca82d2730d2db4ab2c9
+seen_reason:processed_not_published
+url:https://ft.com/content/c73bed01-2386-41a8-8db8-88069b558797?syn-25a6b1a6=1
+title:ai boom raises risks of monetary policy mistakes warn bis economists
+seen_urlhash:510ab681ad2c60c084bd7f4d4006d5a9b6532d7541cb68b1b8fb094f60ab893b
+seen_titlehash:f791c65bda067846c58535ecf0e1c39f4f02bc4837fc1e6cbf8a485f9e7d23ff
+seen_reason:processed_not_published
+url:https://ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134?syn-25a6b1a6=1
+title:powerful earthquake hits japan s southern kumamoto prefecture
+seen_urlhash:57c88337e43536631dcbd6dd1814739e3b86932ef726b66c55c4c9d136c538a5
+seen_titlehash:f325b740cd31c9b06199054bbb4a607de2fe46289970b97ba1f1d730f2eee990
+seen_reason:processed_not_published
+url:https://ft.com/content/895d9928-4b9f-4401-91c0-760752dcb4d1
+title:sorry but spanish olive oil is far superior to italian
+seen_urlhash:b479e19f488affa293087bd628f2c62df2278073c57438ba135d72831b9aebda
+seen_titlehash:626351faf0cc707f7d22c06a1dfb94b303678ba262ddfa266ffff6c12325e7df
+seen_reason:processed_not_published
+url:https://ft.com/content/a71b77dc-35db-49ef-9f60-103fc6c6d98e?syn-25a6b1a6=1
+title:singapore warns of economic risks if global ai boom falters
+seen_urlhash:1e0a7f1d157ca0ad1b5d70b818d036ea9bd21c7d76afe12f90d0b2668e9fda82
+seen_titlehash:b8c7330fa833e3aab837f3bc8905b83dcf237f78ae523e7fd950797c31c08322
+seen_reason:processed_not_published
+url:https://ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1
+title:zelenskyy returns to oval office as trump shifts towards ukraine
+seen_urlhash:2142ce4024bc8f10a2c1bba84b2b53052150e51a4a432e8f357dd1321d4d8030
+seen_titlehash:e2efa61fa8d3751040d874d9c65e84728a265626df6d11d25cbac2244dd87fea
+seen_reason:processed_not_published
+url:https://ft.com/content/cc78fbc5-66dc-4a60-8ef5-e040b8aa7a11?syn-25a6b1a6=1
+title:education is not to blame for england s neet crisis
