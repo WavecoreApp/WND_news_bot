@@ -24213,3 +24213,78 @@ seen_titlehash:eeaf9223d80a19702a3cd3a075a11a95a970321c5bd7fff8ea8c2bef602246b1
 seen_reason:processed_not_published
 url:https://ft.com/content/febdecc9-0c44-4153-9b13-60cb9df357e3?syn-25a6b1a6=1
 title:summer slowdown sharper than usual for uk property sales
+seen_urlhash:37cc6ac39c2eeae872948e14d794dfcbc93481347deda4f173659441369e638b
+seen_titlehash:d53ea5efeb29163995c7f70ef27a97df484929aa86a783b3adca25565ebde8d7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss
+title:trump considering ai controls after openai hacking incidents
+seen_urlhash:8aa82c4556f82a9a4aef4f40cca25bad469a1859349cf804ab48ce06dbacc087
+seen_titlehash:972ba777bb7c59fc4b880f4e1c133b4b50eaafb7c51d8989df14895c96710c2d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb
+title:federal labor mp luke gosling arrested over alleged assault of nt administrator
+seen_urlhash:1c447ffea4598564f9c9be1527c6307bc9df6579c31f65b0e71ba429c424e88c
+seen_titlehash:b8b1311652d92980236d0736e2ae4e1a9e6864645f335b587c40fe479fd5ce09
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss
+title:trump pushes fighter jet sale to turkiye despite israeli opposition
+seen_urlhash:0ae045d1b3ab94ce0174b5775e12d53188252340bae901fef36a108ace498510
+seen_titlehash:57bad111b6fb8421ff9904619ac810451f7cb037ecac5d677498bc701b2dab65
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss
+title:trump cuts who off from gavi vaccine alliance funding
+seen_urlhash:5e4a19ad57d46bbd56267090659d2feb177d37708ce9cd7d4bde345496bd5ca1
+seen_titlehash:fd647f4624cdf86c6c99090a478e60f9283fc21e785963a4c35f7a9330398535
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss
+title:russian ballistic missile strikes on kyiv come after zelenskyy s warning
+seen_urlhash:a07677ab7d6e025245bc9aa3ede94a7140ed05d89ba22ba42f7993a91e62128f
+seen_titlehash:a96e7dd65904faf7d0acb52ca7ceb185c1df0523648acbebc4dcd6a1c3e0e29b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss
+title:iran war live us launches powerful strikes after irgc attack on jordan
+seen_urlhash:af84a81ef067bde346373d4ff7345cc30421825d932268f90efd7d0b0062fa2b
+seen_titlehash:1014dfa70fb067a667e9dc22b5ffd10d3959a074a8a3eb64a39d15750b3e2fac
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260730-infantino-defends-fifa-investment-plan-amid-mounting-backlash
+title:infantino defends fifa investment plan amid mounting backlash
+seen_urlhash:d4ada8b88cb833ec9789bc87e6013acb3a9e075094e1c27272f6bcba42ce94c6
+seen_titlehash:fe5db1b5cf4fbe25aa3cc2ba9f724fc1ef84e4fb235b00ca24802056867f28e8
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260730-spain-eases-evacuations-as-france-battles-fresh-wildfires-amid-new-heatwave
+title:spain eases evacuations as france battles fresh wildfires amid new heatwave
+seen_urlhash:5ad333a4315325b45339c224a93842bf8bcf8693168949982cafbf267a685161
+seen_titlehash:878d96c8c721571fd10a724c11e1ce2c1789e89d58b524030e88257b458299d0
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260730-french-dj-kavinsky-famed-for-nightcall-dies-at-50
+title:french dj kavinsky famed for nightcall dies at 50
+seen_urlhash:0c1f8f6441560fd3eb0b1d83666615126d7c639bf4db264f3f4982a5af2f4323
+seen_titlehash:031dbcd7d8d1c302dc0ef62e309226346a59d0249b9915100f404af926add6d4
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges
+title:deadly attack on pakistan checkpoint leaves 15 dead as militant violence surges
+seen_urlhash:21a468e02e54b7f3f063e9914405d4554dce2a030389dd2dbe37c6592b88cb16
+seen_titlehash:485f28ff08481e99e0dd488f3dfd298cf1601d43ab9ff0e8ca46aa3fa3353c5f
+seen_reason:processed_not_published
+url:https://dw.com/ru/воздушные-силы-украины-потеряли-четвертый-истребитель-f-16/a-78167376?maca=rus-rss-ru-all-1126-rdf
+title:воздушные силы украины потеряли четвертый истребитель f 16
+seen_urlhash:c695110dfb17b2c6511ac1a7520eeb46a939a5396ab30741fdb5975cc177638c
+seen_titlehash:854402c609ea6a5930422507deacf5a4a4f6ae98ea4282d498ec603065f64b84
+seen_reason:processed_not_published
+url:https://ft.com/content/f22b9197-db1e-4270-99c1-dcf867227aeb?syn-25a6b1a6=1
+title:investors warn boj faces test to inflation fighting credibility
+seen_urlhash:3d31ff0951d5058410195339ef7809b2db45b1eb69685b39e6494f3b984ce94e
+seen_titlehash:e1cb9d2b22d655d0d0a737c802f0bb2ef54e056bb3a8b6d31b17fb1c4de2d62a
+seen_reason:processed_not_published
+url:https://ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1
+title:us launches strikes on iran after trump vows to deliver beating
+seen_urlhash:eb99df740c3b673512d01fc9b975948cf288013b2e314154d82ef8cb897a0095
+seen_titlehash:de51e4fbceafc991569558689c1d59ae4d40748575215c19fd6ee6e16900660f
+seen_reason:processed_not_published
+url:https://ft.com/content/b081b88e-5f8b-4a04-9a7f-67cda439e237?syn-25a6b1a6=1
+title:falling stocks a tumbling currency and now bank indonesia s governor resigns
+seen_urlhash:55df9b93f04528e8ad22679c970ce4607fac046f60b8b273fb1bd1e38a646ea1
+seen_titlehash:aedb25205ce6660cf7e4eba4dd5d549916d58c2a078fecec5b698e55c76e2d0c
+seen_reason:processed_not_published
+url:https://ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720?syn-25a6b1a6=1
+title:digital avatar of jair bolsonaro tests brazil s ai election rules
