@@ -25998,3 +25998,78 @@ seen_titlehash:bea0ca2c4687a85f574286d577eee4b53a004405e26bec95aba4133cdb050c8d
 seen_reason:processed_not_published
 url:https://ft.com/content/926bad8a-55e0-4d1d-8612-7ebd0aaef4ee?syn-25a6b1a6=1
 title:saudi arabia announces maritime defence coalition as houthi attacks threaten red sea route
+seen_urlhash:4d76fccc7d54ceabea7f3ebf9ae1026706fbc0a8677c3cbe7afe3c8c2c7ed7e3
+seen_titlehash:49895e109a1d9068cd860a7506a5393850063ef15463170d0e05999a662e740a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss
+title:trump says board of peace has reached agreement for disarmament of hamas
+seen_urlhash:8b212008e8cd5dab80edb36ffb1856fb6c69e4b272054a445526ed538ad2446e
+seen_titlehash:536e37cecb4655c22f314c33140bc2595367d0f4b5750453cbceaf94215f63d5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html
+title:iran war is entangling a growing list of mideast nations
+seen_urlhash:32301d415db312225dbd428147e94bb04703d9e574ed098c0d7281f5fe314856
+seen_titlehash:11eb4a945fdabe0a46d51bc5aa78d4995a4639a568b66c248dafee043a8d5eb2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html
+title:was your trip to europe affected by heat or wildfires tell us about it
+seen_urlhash:f7c53886bd1513b69a2d4c39bd0e89071364da2f431d75cd5fe67fcb59140854
+seen_titlehash:0af594daf54d278b3f843c5a22c1e14a7e2b042a673014ca56b3273a042a89ef
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss
+title:uk left wing mp diane abbott reinstated by labour party after suspension
+seen_urlhash:b7748a371ebaf864512a4b45f0e7499d68f786acac2e919fb85c07bc02872028
+seen_titlehash:996390bf2bad7eeb968d04f968dc5a005ef14b88a2703c202b5da6f23bb5bcaa
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss
+title:pathirage challenges chopra nadeem javelin rivalry in commonwealth final
+seen_urlhash:dded47814931e262cfefe86c8fdab1167c6981594b0e66f89ac367ae937ec093
+seen_titlehash:93b92c40840d4b0bf267569b615dfe157dd036b826d5982f5625aae9e15495c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss
+title:us appeals court rejects trump expansion of mandatory migrant detention
+seen_urlhash:7bcac799ef84017e75438d50bdf84a6be1900a63e9c0d4b1a3b8d1853256b634
+seen_titlehash:63e1526b6b0f8fa881638b224871cbffb4d9672ef050745036c132bbb283ee07
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss
+title:trump administration appeals to never before used court for deportation
+seen_urlhash:ecdda4e31a1a66d54db36abc503e21652eeeecb3344f623edded06bf7162e7f0
+seen_titlehash:5c067b2e9e98dc1b975e0e57f60ac658650a7bce6b8e4cb2f298b85dba79fbe4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss
+title:trump says board of peace reaches agreement on disarmament of hamas in gaza
+seen_urlhash:164edc506a07adebbb4b24879b47d763a62e98b14c70b96cbe79b230b690d160
+seen_titlehash:19e5d7d87c787d765b61fadfcd3d7ca714fd596739499e882524a2ee91ec70ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss
+title:amazon s zoox secures us federal approval for steering wheel free robotaxis
+seen_urlhash:fa779e8b7c6f19168b1a96518b8267dd08d37bdf61af576f4554269f0f23b042
+seen_titlehash:c1e23ecd8417213239acaeb928a282b49ee14c4ce920280753795f9768416e5e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639
+title:climate change fuelled france and spain wildfires experts say
+seen_urlhash:b0432d477c1bcf1c599ddda588e35a60d8718227efcd9cd141f65b04dd078e12
+seen_titlehash:4e56c302510fede2a4d4b7ba5361adcd6d18d7ccc652ee7a7084a7591aa2a04f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260730-middle-east-live-trump-says-board-of-peace-reaches-hamas-disarmament-deal
+title:middle east live trump says board of peace reaches hamas disarmament deal
+seen_urlhash:b0432d477c1bcf1c599ddda588e35a60d8718227efcd9cd141f65b04dd078e12
+seen_titlehash:4e56c302510fede2a4d4b7ba5361adcd6d18d7ccc652ee7a7084a7591aa2a04f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260730-middle-east-live-trump-says-board-of-peace-reaches-hamas-disarmament-deal
+title:middle east live trump says board of peace reaches hamas disarmament deal
+seen_urlhash:9d800ba112ebca95c740b50e92e3ac24676059193954ac3a8e3922b487bdb4da
+seen_titlehash:ade0d001e5590b10eccb65d37970a944e0ccbf739886465f09b1f9e038f88f10
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260730-pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strikes
+title:pakistan says us iran talks still alive despite fresh wave of us strikes
+seen_urlhash:6703cc69adcf97932523d7e77e4322931fc1b8da16fc52273c79b6cf73c8cb71
+seen_titlehash:79bb0f6a802d514da8872884c637629acb939644c8377f9c6b62577e9dbf12b8
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260730-climate-change-made-france-spain-wildfire-conditions-far-more-likely-scientists-say
+title:climate change made france spain wildfire conditions far more likely scientists say
+seen_urlhash:6e0083db753404b7f8cf38a06bcb2e15de8a0ccb1298f9a548dbbe017703fb4e
+seen_titlehash:f3270eb3fe897b4ab38bc116e43488f74c25d828e248131ec528e6936c7b799b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/30/novosti-dnya-30-iyulya-2026-g-vechernij-vypusk
+title:новости дня 30 июля 2026 г вечерний выпуск
