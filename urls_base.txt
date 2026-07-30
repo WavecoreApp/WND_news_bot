@@ -25268,3 +25268,253 @@ seen_titlehash:a86827adcefed7ba47d3c8c7c037e79b7d1d14873bf5db959077724354f9b517
 seen_reason:processed_not_published
 url:https://ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1
 title:warsh s stripped back fed communication already backfiring say investors
+seen_urlhash:63e4d3e951db9bb98857470d0e8c5e2c072075bdb9b34617282a6c8f2bc08c9f
+seen_titlehash:96c7dfa4fec245bfeef8c98dc54b168581a318c9e30c0b741c8c44a7a51e1a03
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss
+title:three children among eight dead in russian strikes on ukraine officials say
+seen_urlhash:0b6d2774d478d78eaf2228c1f61723cb77e1972bce0c046d9284b2d5cd2f6c65
+seen_titlehash:c7a02faf3f311ea3ab17b88b638dba999b99fc4861c5dade47b100d603f1b498
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss
+title:cyanide in tomato pesticide killed 15 elephants kenyan officials suspect
+seen_urlhash:d75c5f2d69e088a9e203529f01363f1cb4a688cb2a6ec9b1f7e6e9c5c77dc6f9
+seen_titlehash:f2f70f256761d1119b37aa0b39087f1251765e7d2fde086e1036b2dd37324484
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss
+title:worth 5m visitors react to renovated washington horse statues
+seen_urlhash:ffbd7fcde243a9f784c408c31688acff293f2d55d3423b745ea3bfb438882423
+seen_titlehash:f10d2c519df3ac7b9f16037976d674fa38682452fb517f5fe1c3ae1f7600f4f5
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/30/world/iran-war-strikes-trump
+title:iran war live updates drone attack in egypt threatens to expand fighting
+seen_urlhash:71fa826a44c65dde6e61155ec267e6bff7367d2bd6286acbbc254672ffffc684
+seen_titlehash:7c2f3813d3d1c1569ecd4c979202d2dd554df5886896725714439a54eb12524d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html
+title:wildfire in suffolk uk breaks out a few miles from nuclear power station
+seen_urlhash:17d88cdc380f935a51f127e92fb1a065a1fcca8c93cbe35fde39a584b4688cd0
+seen_titlehash:58a36b4a4ca2985045d1e5681a7840c284f573c97a546d2ea5929ed073cfe5c1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html
+title:attack on egyptian port shows suez canal s vulnerability
+seen_urlhash:c8f4db6d75eb19df8f7abc212fbc7c99738fbc1999b795765f0a8b933b3322ed
+seen_titlehash:9db986c26882058e9fd9691ac05f0db3bc23190444b11f9e1e14bd854dfc72a4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/business/china-economy-politburo.html
+title:china its economy stumbling signals only cautious support
+seen_urlhash:bb206da85cf82c7d52550f69dd960c5d17d2ff3aa946e6bf46092ecb4a219419
+seen_titlehash:5bb0c848c4e2841c6746f54012edae45cc451e013e0914292ce3221ad7d2bcb2
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries
+title:us government map of africa mislabels every country at global conference
+seen_urlhash:74b224e36a956b2ab86ebe3bfa705a8b4297b4334cbcc86656f4d5c7ae9d30a5
+seen_titlehash:2ee355dd11b356bff0a353e3be363e2e1f504b4d97bc3cbe803ce102d92833e9
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife
+title:fifteen elephant deaths at kenya park may be due to cyanide poisoning
+seen_urlhash:feb61c604ce1aab11608267dcec10c61fbb77cdc5be64b6f9c991fcdc8219c57
+seen_titlehash:f0e74785afa9b36b8f7d8ddf9aee407ea604832c4a4ff76ae0ea00d72661bd97
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation
+title:fifty three days and counting 93 year old leader s record absence fuels health speculation
+seen_urlhash:5ec87d48d602b37eb1d634a7dbd97dced174c83e01655655f3c97d63b6fab55b
+seen_titlehash:ec35ac8f2ac2bc5875e620b042829be36f800f181351bf1bc68cc21919122130
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss
+title:police arrest dozens at london rally supporting palestine action
+seen_urlhash:91d61d57f3bce82e26131992c002cbea05e30762e75a8f9f7d5a2646f75201b1
+seen_titlehash:bef46fbe052b23ff7cf445698a2ac1b0473ef5eafe1f80d3f1b479639384e081
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss
+title:el salvador sentences gang members to 1 000 years in prison
+seen_urlhash:f181cd689d6997dd9a05f0130c12c3758b2049e8c131758a998f707176bd95ad
+seen_titlehash:47d1500523f5e8e17f1e1dccdb65e01afc8a8db19c9e2bfd8c90117b85c43737
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss
+title:go back to your own country nz foreign minister faces backlash
+seen_urlhash:03e5ce6f832d60896ff3723c4f77105bc48af8ce1f304a640fdba2fd7694e80f
+seen_titlehash:22725087bb766c51e55a6fd2482a3c34278493adb114db12634abc1899afd12d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss
+title:islamabad residents rally in solidarity with kashmir protests
+seen_urlhash:1d08299da92b0d4fafda8ae6bf9565e7aab077bc9a6618b0340c02477c4b972d
+seen_titlehash:340d7281a8bd7d51747da50090ea60d2fab09816f506b16326f2bd690f6acbfa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss
+title:sudan s rsf vows to return to khartoum
+seen_urlhash:fcc2dc72ac9f1d18cbc9f1a97315a45c05596e6d91f8710d823efb0dda0ff1db
+seen_titlehash:231f83024e117856e0319bb2f7cd02968b1f928f960aadb10ebc96487749b49e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/30/detained-ugandan-opposition-leader-besigye-in-intensive-care-wife-says?traffic_source=rss
+title:detained ugandan opposition leader besigye in intensive care wife says
+seen_urlhash:99263e89a88ea2f0fe52d61ee546a2f3d45b7ce5e4b1e37c4884d4a3192ab7ee
+seen_titlehash:2bc4f408915cfc21120910b067545b7b86a29b2f6ab2366c9cb6fb436ff115fb
+seen_reason:processed_not_published
+url:https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468
+title:greek police probe foul play in death of british woman found in suitcase
+seen_urlhash:b9dffbfae8aecb770d624b564a8e9ae85ece2c704d282594b11f1f228f6116b0
+seen_titlehash:e58f33fcb9c54404758e65943ac3ac6cd6d749b214c506565be1e7262b7b6241
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260730-france-wildfires-risk-remains-extremely-high-despite-slight-weather-improvement
+title:france wildfires risk remains extremely high despite slight weather improvement
+seen_urlhash:92a27f4c856b5c03d47278524e048e8ec607d290cbab5b711241f9d4420b702a
+seen_titlehash:ad32dc7fd63ee7f06758e831194357fbb98eefa1499e5215b21bcf346c3dceff
+seen_reason:processed_not_published
+url:https://france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme
+title:ai before ai the forgotten soviet programme 1 2
+seen_urlhash:10b69f1577cd0de28b982ae4547db5f765073480a0b072ca82e150ac1cf1dfe3
+seen_titlehash:9e5699ac1a2d60a2bbde66bff4da96afd429bb531b9d346ae1cce6c040476f9c
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland
+title:warsaw blames moscow after a missile crashes in poland
+seen_urlhash:c9522b31360bfdd79129be9d3ac67bbd0d87e0ae82c266add61a062281e9f936
+seen_titlehash:7fa750e51ea1e1a026bd7dab6b2286c216281f055a5d2b7cd870e56258306f59
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260730-french-interior-minister-says-wildfire-situation-still-quite-complicated
+title:french interior minister says wildfire situation still quite complicated
+seen_urlhash:7d05a8be22acc2e8ee53d10fbd7ea6ff7fe02cf1b1f4d2ba84450dd79e8a4640
+seen_titlehash:a54f499ff8774299f2be0848fa67ba9f860150a3151604fc83ab6de32c812a77
+seen_reason:processed_not_published
+url:https://france24.com/en/as-france-battles-unprecedented-wildfires-caroit-urges-collective-global-action-on-climate-change
+title:as france battles unprecedented wildfires caroit urges collective global action on climate change
+seen_urlhash:5836730e0f937d1900f4d506e925b56b2af41f286ce86d3c8b72192f2eff73ef
+seen_titlehash:6a9f558c427e00b55dc3bea7a121734f868e05fc90b8ee7a693f2aac6b93f003
+seen_reason:processed_not_published
+url:https://dw.com/ru/кабмин-одобрил-ии-в-работе-миграционных-ведомств-в-фрг/a-78179251?maca=rus-rss-ru-all-1126-rdf
+title:кабмин одобрил ии в работе миграционных ведомств в фрг
+seen_urlhash:af2067e799512470269c554cbaae3beb59b0b439b0d5507bae0ababa9b9e6e7e
+seen_titlehash:f262fc7897bb017e1e60ebf22caf0f2637b017893ab3572b3585fe03e92e62a5
+seen_reason:processed_not_published
+url:https://dw.com/ru/ждать-ли-новой-мобилизации-в-россии-в-ближайшее-время/a-78169956?maca=rus-rss-ru-all-1126-rdf
+title:ждать ли новой мобилизации в россии в ближайшее время
+seen_urlhash:94d9f90753ebcc51963e1665135731c0f31977f9224477299e8071f24fd13a2e
+seen_titlehash:61220f60fab498a5a1a87c508c860f5ce217bdf1b9d12f84c31a3393833f912a
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-чиновницу-минпромторга-задержали-из-за-махинаций-с-бпла/a-78176982?maca=rus-rss-ru-all-1126-rdf
+title:сми чиновницу минпромторга задержали из за махинаций с бпла
+seen_urlhash:cb35478268107ce9de176cae85ebd498de7ca6528970dcf5cd1507c0844e0476
+seen_titlehash:ca811fd4b76f5c58b2699825a8a0d8a469dd0b0678786bccef29d49de759c5ee
+seen_reason:processed_not_published
+url:https://dw.com/ru/находкой-года-в-германии-стали-фигурки-птиц-в-пещере-ледникового-периода/a-78173262?maca=rus-rss-ru-all-1126-rdf
+title:находкой года в германии стали фигурки птиц в пещере ледникового периода
+seen_urlhash:2f1db62509ed858019355d758150e341c482d97f7570dfa663d90d8902eb7577
+seen_titlehash:3aaddf5ce13dc382335b0e312b88ce5c7c0ce61c0677993730f5695d78c326c7
+seen_reason:processed_not_published
+url:https://dw.com/ru/украинские-дроны-атаковали-склад-wildberries-в-пермском-крае/a-78176189?maca=rus-rss-ru-all-1126-rdf
+title:украинские дроны атаковали склад wildberries в пермском крае
+seen_urlhash:190e1df32458af528017a5877bf61bcd395b951e9e43d1db42f852b11545d13c
+seen_titlehash:333b65c09efd6662b4564b0f874ae77c045480906e7070c01fc7cf418478b341
+seen_reason:processed_not_published
+url:https://dw.com/ru/для-противодействия-адг-фрг-разрабатывает-чрезвычайный-план-для-нато/a-78175114?maca=rus-rss-ru-all-1126-rdf
+title:для противодействия адг фрг разрабатывает чрезвычайный план для нато
+seen_urlhash:82fd079b87eab99a5067d80d0489b3545f91aee24c562c32f7409802d8e37bd1
+seen_titlehash:15d69fb20b2fc553ed6199c17a5fb9862ca80e878c6cb76c06bc051f3a0084c6
+seen_reason:processed_not_published
+url:https://dw.com/ru/не-только-жара-скрытые-причины-лесных-пожаров-в-испании/a-78173087?maca=rus-rss-ru-all-1126-rdf
+title:не только жара скрытые причины лесных пожаров в испании
+seen_urlhash:f4748f58d44f09f626129d66ae8afdf7f35deb6695ab7a66d23790c0fe885863
+seen_titlehash:1c63a1c1909aaee45e4e26c663b89881959d9a756e0fc222f07d50e774226f55
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/30/ceuta-migration-crisis
+title:миграционный кризис в сеуте за две недели в испанский анклав прибыли 1500 человек
+seen_urlhash:f638b0b33b2a58b626df4315641590f7f9b5615e365f658ea44dd43eb2267af9
+seen_titlehash:68afcf7cb79b00762b31bcf2f70465c9158e292b69a6ab5528d9e21c338eda8a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/30/low-water-eu-clears-old-wehrmacht-fleet-in-the-danube
+title:мелководье ес распоряжается поднять затонувшие корабли вермахта из дуная
+seen_urlhash:72ac70fb465e5a28141a554fc2c78c8ba7445572457436251869c0282e09be76
+seen_titlehash:eb8572b53ff27771883ddb826ea6128bbf03551a717c5970a0414cdfedec8e2f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/30/france-wildfire-impact-on-wine
+title:бордо с привкусом дыма виноделы пострадавшего от пожара региона боятся за урожай
+seen_urlhash:0819ebc37364bd79e23843cd4bc6e9f24e760dccae1aa0e1acaa2defed033bab
+seen_titlehash:d93fe600f404a7d7e9c5f68121cf2fc5e5ac892cf237f93651d2a7393a2f6bea
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/30/they-are-lying-teresa-ribera-slams-climate-deniers-as-fires-rage-in-euronews-interview
+title:глава антимонопольного ведомства ес рибера раскритиковала климатических скептиков они лгут
+seen_urlhash:3b5c21a8e0e9897804ca8b0692ac34db720deef29cfd571b369a8f0b31f4a690
+seen_titlehash:1f7281b84514ef8b54853ef450acffcb31768dbd7b6f88f7ed8dde4bff0a84aa
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/30/azerbaijani-pipelines-act-as-critical-arteries-linking-caspian-gas-to-europe-says-socar-ex
+title:азербайджанские трубопроводы ключевые артерии каспийского газа в европу заявили в socar
+seen_urlhash:a0c59a8f41b7a28171e67ff6c066870de19242972de9f1cabbff148542baed44
+seen_titlehash:967a9ac2f6a57696472fdd3ff8b7084dae017eed1c6b4aacd412ccdd145d2aa3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo
+title:как закон ес об ии меняет корпоративные правила от вашингтона до токио
+seen_urlhash:e4183bbe50a9aac523da578408cdf45c0f8012854331f50c8981fe3a17e33c7f
+seen_titlehash:bb18febb7a0dd26ee39ee5b3869a7dd39ef0f13287fd180103d48672eb38f384
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/30/mercury-prize-2026-paul-mccartney-becomes-first-time-nominee-in-thrilling-shortlist
+title:премия mercury 2026 пол маккартни впервые в числе номинантов
+seen_urlhash:100cc34447b5777a5899c16e17462726c16af3e936f804d90f2205fbcfea645d
+seen_titlehash:3dac3bbfd8eece6084326c021fff9476e3db71f2ac62a7be9b7cf9727598294a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/30/drone-footage-captures-a-massive-wildfire-in-castellon-eastern-spain
+title:кадры с дрона показывают масштабный лесной пожар в провинции кастельон на востоке испании
+seen_urlhash:767701bb7cec79bfbf845ef54db696f166819e442976c99766f3b879e1bd5ed4
+seen_titlehash:bd05a6a4699f0279e3459ae4b2f7784541005d1d63033b28d39ec7c7f5354964
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/30/francuzskogo-podrostka-v-singapure-oshtrafovali
+title:французского подростка в сингапуре оштрафовали за вирусный пранк с трубочкой
+seen_urlhash:035f78935e98ca7c2371b7cb93c99a1a37c94fcc6ba9e2d6376592ab7a00a8ea
+seen_titlehash:8043b5b23d97870b347326a6ef4ddae108f6b5997bc896b508528f3c5ae5911b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/30/desyatiletie-rosta-ot-makroekonomicheskih-pokazatelej-k-izmeneniyam-v-povsednevnoj-zhizni
+title:десятилетие роста от макроэкономических показателей к изменениям в повседневной жизни
+seen_urlhash:0d054a48189638fb7c8be837cdb8a0afbedb040cf57f95e71a130e8625969f8d
+seen_titlehash:c3264150fb2203cea0ebae7e4b9e4fcc778716c2ac82867178f181f1e91572d0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/30/invasive-mould-infections-are-more-common-than-previously-thought-a-study-finds
+title:инвазивные грибковые инфекции встречаются чаще чем считалось выяснило исследование
+seen_urlhash:224b5349609981e5c7a356b6d48e9813a26dc3e76b3a110b4e0f43376969f7d1
+seen_titlehash:623e9c02b8a99da438ec4f4357796da86d589b1220d3e5d967d50f9b55dce43e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/30/japan-earthquake-update-thursday
+title:число жертв мощного землетрясения в японии выросло до 34
+seen_urlhash:183e3f3d3e780f25779e47c13ee388c3838d2ecb0f38bc4dbf4c9aaea1b2ad51
+seen_titlehash:570683a94699b6f9b8e51480c3a8787fffccaf98491eb19d4da3bdde87660097
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/30/klinika-predlagayuschaya-eko-so-spermoy-pavla-durova-dobavila-k-ego-imeni-pometku-o-vnesenii-v-spisok-terroristov
+title:клиника предлагающая эко со спермой павла дурова добавила к его имени пометку о внесении в список террористов
+seen_urlhash:fb6ee2a88f465c245c11655d1c9f21e38ca2b00a7142e6bbaf9f03083f43eb95
+seen_titlehash:975870d585c3223861f8f63fe39198031f9883b4ddc48cbc3a56c7958fe2ebf0
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/30/pomnite-bitvu-odisseya-s-gigantskimi-lestrigonami-v-stalnoy-brone-tak-vot-tam-geroya-igrala-kaskadersha-devin-dalton
+title:помните битву одиссея с гигантскими лестригонами в стальной броне так вот там героя играла каскадерша девин далтон мэтт дэймон сказал что у нее самые красивые руки которые он когда либо видел
+seen_urlhash:b0b8febe5f465af2a0ef207ba6c6b05c316b3507596c88c47f00a18174cb703e
+seen_titlehash:b5b30221a8be928c874a237ba3989fddea5c15f9a8e9c998be8cf256c514e3fc
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/30/leonardo-dayvinchik-telegram-bot-dlya-znakomstv-iz-za-kotorogo-pavla-durova-vnesli-v-spisok-terroristov
+title:леонардо дайвинчик телеграм бот для знакомств из за которого павла дурова внесли в список террористов сервисом пользуются более 13 миллионов человек но кто его создал неизвестно
+seen_urlhash:1a905c2af323af57e3605efaed820ee2f2e8a1f4d14d6049fd17973cca2b5671
+seen_titlehash:c14759edb81ac3705d946e02da4fd891ab19f600c61cf14c781d6a9b9890b7f3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/30/zaderzhan-valeriy-kustov-milliarder-i-osnovnoy-aktsioner-efko-mayonez-sloboda-i-maslo-oleyna-ego-zapodozrili-v-moshennichestve-s-bespilotnikami
+title:задержан валерий кустов миллиардер и основной акционер эфко майонез слобода и масло олейна его заподозрили в мошенничестве с беспилотниками
+seen_urlhash:ba7e28cd82d41397b5fb962cd07bec7bdfcf8caba7103b2fee4251a236936d56
+seen_titlehash:e995267edc5023e8e712e9d516db4892ed1cb999588b539f4c0a2c80c13ff092
+seen_reason:processed_not_published
+url:https://ft.com/content/cc3a80fc-128b-4b46-a9a6-1a6a6988f31f?syn-25a6b1a6=1
+title:reform uk stands by farage aide george cottrell amid financial scrutiny
+seen_urlhash:e947e044fc8324d0a24093ca55d815ac6d616f50f075340b54c0a9ab74f03947
+seen_titlehash:27b300ec55128bddea38f29428d00f4fc4947dd3cb4dcec4b0bfee011c2ea84c
+seen_reason:processed_not_published
+url:https://ft.com/content/783dfe9a-4643-4b2b-b69c-a46e5229d707?syn-25a6b1a6=1
+title:us economy grew less than expected at 1 5 rate in second quarter
+seen_urlhash:55ac840540954babb6744dd6a991f4ec68e4f5aaffe589613c00c2727d86aac9
+seen_titlehash:b99902bb3c864c77e87a1d7e05e5d01f1d63dab6314cf0dc68333fdb52e502f0
+seen_reason:processed_not_published
+url:https://ft.com/content/67238e48-57dd-4701-8294-0a11036c8742
+title:can vance square his catholicism with trump s republican party
+seen_urlhash:42d130f751a0a70771be6259ffac94e7fbdd2464a578340c3f8d82bfa90a7ab3
+seen_titlehash:efac72cb45dd89f92cd141440b5e2f0bab6798c339e54963eebafad33895b587
+seen_reason:processed_not_published
+url:https://ft.com/content/aca5b974-1447-4cd2-9d94-f4150c3d4d7e?syn-25a6b1a6=1
+title:antwerp cocaine gangs sentenced in exceptionally large case
+seen_urlhash:8cb87a02c3e768a4540e4e0bbe69aa0c93541312f24d441e2bc65d2fbb35851b
+seen_titlehash:c701da0401415776c23f85e94da62cdaad1dd3cc732245eb27f1019437b92ef5
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/07/30/the-restaurant-business-is-changing-beyond-recognition
+title:the restaurant business is changing beyond recognition
