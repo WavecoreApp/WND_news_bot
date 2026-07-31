@@ -27758,3 +27758,33 @@ seen_titlehash:3128ce8f04a71414a74a9f68319ed484c049da19ccba976cffe25cddf03676a3
 seen_reason:processed_not_published
 url:https://ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1
 title:amazon completes 50bn investment in openai
+seen_urlhash:46b0a59d841dad3545c9bcf13a33ba0a4221e0446047737bcdb6adef66c6e0ed
+seen_titlehash:82aae5d1b898b03d6a9823c219e82323889fc3e5140db4862a38a6369b088034
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html
+title:trump backs away from deal to let ukraine build patriot missiles
+seen_urlhash:63219d7c9aedc16bcab1f242a507a98f8f840ee29bdd2d58430113e06900baa5
+seen_titlehash:9d2dd5bb5860f18f645eedb7157953b3b1edec76e545b7111cd95c17f1b0d186
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss
+title:analyst the us faces a strategic dead end in iran
+seen_urlhash:93e577e05f03a7a9c465e45a7d8b8fe370b35a655c2bc27e1be23db9b5acea41
+seen_titlehash:26fb9446744e2014a6b579b75cca3dea2c6d50fb1b242417a33da18c7b6a142e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss
+title:us proposes cuts to colorado river use for arizona california and nevada
+seen_urlhash:db1177c0ad91e717042895170325a06a01ec7691dbc51b9262c3694f6cbf4076
+seen_titlehash:0fc948a992adf78465abe176edfc8724538dac90b76130874550b15473f8aeae
+seen_reason:processed_not_published
+url:https://dw.com/ru/санчес-прорыв-мигрантов-в-сеуту-нападение-на-испанию/a-78198180?maca=rus-rss-ru-all-1126-rdf
+title:санчес прорыв мигрантов в сеуту нападение на испанию
+seen_urlhash:5ad84c69b00b16c4e6e8f02db8ebf7066b34ce44cf79d9c5ecf245f9161ab310
+seen_titlehash:9abba668bf458016875b5883414c0de168a4b17e33642b03d8f0c2f3fb6eeb99
+seen_reason:processed_not_published
+url:https://ft.com/content/3350e4d1-1568-494d-8567-0363d6ef427b?syn-25a6b1a6=1
+title:trump doubles down on threat to hit iran very hard
+seen_urlhash:01e4dea9f06574ba8ce7a484c544b44c693def9e883364a0b201adc022661238
+seen_titlehash:3922d7db1b30a3c9ec71e47197f3713646966d11f6fb1668d9a83d8076f6d6b2
+seen_reason:processed_not_published
+url:https://ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1
+title:bond sell off sent warning on fed s credibility says top central bank official
