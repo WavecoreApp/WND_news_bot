@@ -27583,3 +27583,118 @@ seen_titlehash:130b1a94b9af245c87966e1ba9cd5359abf47d09a8cfe7983b1ce4071150db1f
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/31/izdanie-kod-durova-ubralo-iz-nazvaniya-familiyu-durova
 title:издание код дурова убрало из названия фамилию дурова
+seen_urlhash:9a94f13d5de54f44c3317445f21ab5b8c6f408f6693765cc717b3db7127b5916
+seen_titlehash:3a08cde086363857a8f820e9754af274fdad432b17f173926c057990ef9dc797
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/migrants-surge-into-spanish-territory-triggering-political-backlash.html
+title:migrants surge into spanish territory triggering political backlash
+seen_urlhash:30ed9f0748725583fe653bad5db8f5ba7061e0469018263e6f0624e17b57d3b2
+seen_titlehash:aff4eed93e6025a8d63d5e90be47807e5e9e9cbde63a5770566023b5d429690c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html
+title:what caused the surge of migrants from morocco into ceuta
+seen_urlhash:1062724b41786985d5fce7ae2c9d54b5ce84076f8f3083375d07c6633a01f806
+seen_titlehash:d3634e248a663d194fe390c94f3dfb5fcecee6c7864dbb02e05d3bd280d6b647
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss
+title:powerful el nino to intensify heat on a planet already on fire un
+seen_urlhash:e6dd03240884ddeac185c2a76707c9d3cf777e5d599b6b04da956ade0f1653ec
+seen_titlehash:7b72f790422ab4b72461156c8778489849672bfeef08681c32fe5feabae54ee1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss
+title:venezuela gov t and opposition to hold talks aimed at path to elections
+seen_urlhash:cd8fc631785bdb3500c7dcc4c1ea248bf76d6bf15e7d1fd350716ea5dfecbff2
+seen_titlehash:2933a8ac8cfe4f79cbfb65cc4d87f7aae28252293d9cb8c3c486515daaefaf01
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss
+title:at least 25 people killed dozens injured in algeria bus crash
+seen_urlhash:6ca2ef67c90134864308c48948c2cfbb166736afa699a0ff4fa54b908f2fa539
+seen_titlehash:8d9ce6956a0992a74e9193673e2aee22d631a0268d0bd12d638572090e649633
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss
+title:does fifa need private investment
+seen_urlhash:2891cd128a08359ce74908657d95f88ce83535be29cc0842fcb40047b6b38e1b
+seen_titlehash:c8d2877b40e16b73d9ff0747a0b98d67457416f8eca64e3cf516bd3181de502c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss
+title:algerian bus plunges into ravine killing at least 27
+seen_urlhash:91a709553327022f0ca549ab0418c9d272d9812398024a0cafe1bc59d3af0ada
+seen_titlehash:aaed0f9a6dae8c96df5d3ac1363ab08300fb32104b8daf212417d35cae03fc65
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss
+title:strategic partner peru s fujimori plans to intensify ties with the us
+seen_urlhash:4db35cd6a1cc7ce0713fc21fbbfd98a9dafe0fb46a7d9cdc0dbfb45e93fd615c
+seen_titlehash:44e32467c33a8ac9e10c3a5093e9127633550e5b98e19fa4f519f774f900aea2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss
+title:poland protests to russian ambassador over missile incursion
+seen_urlhash:4d7fddc68b340505a635ce87e52bb2a6f530e8b0352a389e5e369947d109b7a3
+seen_titlehash:ac8d7018ed9af0d6087aa885dc5d44834178a11461715ab7ed8d6586d656aee2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss
+title:trump says us has understanding with israel on hamas disarmament deal
+seen_urlhash:62cc0aa5c9a1707a2808d044a0b32ac402b70aa5ecfcc7ee8ac3207d5d9b0c50
+seen_titlehash:a918831aa674088832c4e7ddffd0d4006619d204080da871f24b0abef7d188ec
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss
+title:world reacts with cautious optimism to hamas disarmament agreement
+seen_urlhash:16ee167cb75ee8ecfbf3e7200877f718893c78fc204f7a9e4a156de3155db856
+seen_titlehash:ae87a88fdf50e025371f89c53c2e389a44f676b987df146737488754790549fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss
+title:trump says hamas disarmament deal will be complex to deliver
+seen_urlhash:3a9e3c2964ebdedc4ea3af8ce52f322314c788dc92c9d6d91585f19debaa2e87
+seen_titlehash:8817aa44b62d1570223e26d9b47e2276ebd2a0c49cb520ebe7630104326a73f1
+seen_reason:processed_not_published
+url:https://news.sky.com/story/ransom-notes-in-nancy-guthrie-case-released-as-police-hope-writing-style-is-recognised-13568770
+title:do not play games ransom notes released in hunt for kidnapper of tv star s mother
+seen_urlhash:0ece31b35ab5c8472508a11aabcf68256d00a59835020783e0ec5df792298344
+seen_titlehash:339bea2cb56434d38406cf862b09dc1b1ae040dbf2787c27a126fb9be6764976
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260731-trump-says-us-has-not-agreed-to-ukraine-producing-patriot-missiles
+title:trump says us has not agreed to ukraine producing patriot missiles
+seen_urlhash:b65cf283a7defb9776349e2420cac2468bd26a2521614ab8e98dffe750a8d875
+seen_titlehash:b6ceeee65bdcf99b92cc3867408575d92bdf23e2c7bf42561094d76621dfce7b
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan
+title:hamas agrees to disarm under trump ceasefire deal
+seen_urlhash:e87c248b7273a4d5562a163b81052664378563ee66d62850486f78ed43caa382
+seen_titlehash:5d2dc7cbe32d2e48bd44cc0cd62cb1c4420b5b47ab9f6730ca03fff2b48c98f8
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260731-strong-el-nino-adding-fuel-to-a-planet-already-on-fire-warns-un-chief
+title:strong el nino adding fuel to a planet already on fire warns un chief
+seen_urlhash:2c5040b40248a99fd59c3a287f521ae16eae61b83de1a3b11c58a17f03f19b1e
+seen_titlehash:44bcd4362d405fd87e869db03b9f5a54056d52481a2806107293f1170f9badc9
+seen_reason:processed_not_published
+url:https://dw.com/ru/италия-приостановила-шенгенское-соглашение-с-испанией-из-за-мигрантов-в-сеуте/a-78197779?maca=rus-rss-ru-all-1126-rdf
+title:италия приостановила шенгенское соглашение с испанией из за мигрантов в сеуте
+seen_urlhash:1c3dd88993696a87c8172e6b722e256fb23e0f3fb043caddf0d95e5c630cbc40
+seen_titlehash:d1d62ee9c2c258e19807e4ca415ac1eed44e54d06032544572bb773aca979d5b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/31/fires-the-var-department-once-again-faces-the-flames
+title:пожары департамент вар снова борется с огнем
+seen_urlhash:366faad78e7065c053a034509ade9c16d9924c7ab7561cd761a9b0811aed0425
+seen_titlehash:49cbdcc7fb1f3bdba0f710a0094b446e786e705a38315a5869bcac9cb75fd1a5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/pravitelstvo-zapretilo-mayning-kriptovalyut-v-moskve-i-moskovskoy-oblasti-do-2033-goda
+title:правительство запретило майнинг криптовалют в москве и московской области до 2033 года
+seen_urlhash:0372e7f39195e23e817daf3209fd9abbe2409cc458d02490d6b6b0d5afb3c33a
+seen_titlehash:7c0306fd6e198953be9eb5577e27f0011d879f5639b0cf8981ce6b14ff903ce4
+seen_reason:processed_not_published
+url:https://ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e?syn-25a6b1a6=1
+title:kkr nears over 4bn deal to buy medical device maker integer holdings
+seen_urlhash:db522db6742aee17fac8086a9ce8c9dd5a55c72e1341ed3a27641d92ec947d50
+seen_titlehash:8316d90a34e26bfc36a3e27c36f6b6f5a46c6bdcaf2ec7421790d1b052c106b6
+seen_reason:processed_not_published
+url:https://ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1
+title:google earth ai tool pulled after spate of fake satellite images
+seen_urlhash:76a271329e1d609df303ad7487edb02601280dbb8053269aea3a3ca08acd2193
+seen_titlehash:bcb4b1b1a350bfbbddb54e71b39d10d90385122659401460b137efaf13bc596b
+seen_reason:processed_not_published
+url:https://ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1
+title:how 60 000 people swam to spanish territory
+seen_urlhash:15abb63581fc99ce3cdf8501f4fb69373b18a68b0861febc39db973173c11ab2
+seen_titlehash:19e765edf52b2ba1724fbb495c52c7566c5d802ae24191093b6dcee51576db0e
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/07/31/the-war-room-newsletter-the-most-significant-sieges-in-history
+title:the war room newsletter the most significant sieges in history
