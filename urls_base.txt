@@ -27728,3 +27728,33 @@ seen_titlehash:e38c099bc9010f93cd825a63ce4160e244ea03e601281a949c39c56def6e70cb
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/07/31/latviya-zakryla-granitsu-s-belarusyu
 title:латвия закрыла границу с беларусью
+seen_urlhash:6363b74567022c8016693d93870554d3e00df8acee5ee13643c88eded5575302
+seen_titlehash:0049001affb631919d0d9113990a707408179c16b8451fa0e78304be09a32e73
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss
+title:israeli settlers vandalise palestinian cemetery in west bank
+seen_urlhash:f64d46bbf4a6e3ddd74b769f1c048c8a5f8ed33a7d9768deb2fe0b35129a0da0
+seen_titlehash:6d6c42281117d45fffa3123fc26107b7f7b7076b58ec9aad59414aac9599a84a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss
+title:us senate s fauci hearing renews covid origin debate but reveals little
+seen_urlhash:d57e4d8837aa6472407cc7e765f0515644f3107e17a90070bff996a7648fa05e
+seen_titlehash:afd20acd88435a236554a4c6433be4133b333b96e4960e12e8260c84d6b0dd7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss
+title:pathirage beats chopra and nadeem to win commonwealth gold in javelin
+seen_urlhash:859708389174b8e97778ff93c681391f99f3c3a4f646c57ba565d312981a6a69
+seen_titlehash:c51ab2993611986d17c47967a08c1ef753aeba3ef78b123d2af32f5e84f226d3
+seen_reason:processed_not_published
+url:https://ft.com/content/7f552580-4bd7-4124-982e-cb7745921234?syn-25a6b1a6=1
+title:labour holds greater manchester mayoralty vacated by andy burnham
+seen_urlhash:c6f2f7ab485532b39ad8c66847e3d9c4cb25450d509944a2140ec292b3957423
+seen_titlehash:f9b399051e3dbd9af84f2bf2ebde90190510a72396349933ebefef28db0ee66a
+seen_reason:processed_not_published
+url:https://ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1
+title:citadel s swoop on situational awareness helped stem a 3tn ai rout
+seen_urlhash:01bd509f9f09e629bc5dd3f90efc10ab278d4ad2503a3e7caf3c9539ffc7e32b
+seen_titlehash:3128ce8f04a71414a74a9f68319ed484c049da19ccba976cffe25cddf03676a3
+seen_reason:processed_not_published
+url:https://ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1
+title:amazon completes 50bn investment in openai
