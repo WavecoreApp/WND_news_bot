@@ -26638,3 +26638,298 @@ seen_titlehash:39f3dbecf050fe5ca4d8e4937ab2a516484f1118010709538a5b77743e1e6847
 seen_reason:processed_not_published
 url:https://ft.com/content/d4f3134b-1e04-4c0b-a1be-7bdaa6a44c64?syn-25a6b1a6=1
 title:iceland s eu referendum on knife edge as bloc braces for enlargement litmus test
+seen_urlhash:c4696c4cf2c88e32cdf10902a2b783f11e75c1049f4323cdad1052a61c6e1308
+seen_titlehash:37a82a633de524cd59b9c24c4ff000e1da5ce285a170e7f4bd8c519096c038cc
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss
+title:peru s ex president has 15 year jail sentence for corruption charges overturned
+seen_urlhash:2f1aba42d10afa4992d400922035033212d47610689f03cabdf8bfe776a91b55
+seen_titlehash:b5974f1984186399934e1dfecd3fc937e415cafe631aebfdec81cf521d531197
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco
+title:live updates spanish leader rushes to ceuta after thousands of migrants burst into territory
+seen_urlhash:90a1b1250e6bee83b1860331247bd17013fae4b6ee3ea68c7051f7f3e08c5455
+seen_titlehash:4107adafec123cef02fdac5f1013d1f21daf028a1752cf46fd664010652c6b1f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html
+title:in area hit by blaze french officials failed to enforce wildfire rules
+seen_urlhash:2ed174f0b89eb54265dca947395c2ac99d55ed252aee2b49999bc0548ca1ac44
+seen_titlehash:30d3d876a325c0f0402d0dd0fd48f11be2178c5f88193b2498ca757dcfd5764d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html
+title:at least 34 dead from coal mine blast in pakistan
+seen_urlhash:d91e1f48c537a2351d6f4c680092e4984fa35da02b8639f796a23f35a92f4d6b
+seen_titlehash:34e0af890eb598358003bc9a421cfb1ea9fe1302f918f33adc32bcca76382e73
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html
+title:archaeologists find hundreds of ancient glyphs in the amazon
+seen_urlhash:0bbab7f2db6be116749962431cc0129d015d235dff5b6f10c6a2cf182037ee77
+seen_titlehash:15a35c88e363efd9a57b4992ced9a52c4b0a05472d8a5e62c2fdaa50606dffe3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html
+title:german authorities knew of pride attacker s extremism
+seen_urlhash:c52a08b63fd9d9423e209ed43ff721e29a3eb9e4d8cc93cf34332e4ba57de41c
+seen_titlehash:0c2b96eb1ebc87560082997efc89d8bc2d03bf5ceafb6eca973bcdaa23a0f253
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html
+title:trump s announcement of gaza deal raises many unanswered questions
+seen_urlhash:0236b95ca3f5629c6e15f467b95312d3738dbdbe6760f78c7b207dc39b5243a4
+seen_titlehash:9db27f8f1a6696060d4cfec2a2827da55e8b55c3c9182c941ea057a85cca8c91
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html
+title:selling burritos back to mexico chipotle s bold expansion
+seen_urlhash:2be239accf4b980a9e296f54a45345f2e0ddf53e3ea7dbac47225f6cfd521bdb
+seen_titlehash:bd1aac77165c7cddd1fd6958bbcf39397e692623c6cef79240762e492b0d0941
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html
+title:i flew in the douglas dc 3 a wwii workhorse of aviation over the amazon
+seen_urlhash:974efea7aeeb3a10c84e1b2bb51856c6c580534493dee5af0b3524224dd52103
+seen_titlehash:3dbd679cb0256aad7756017edfe2f4929fcd161b76ed23a35a144b38df8c3a30
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html
+title:iran says it targeted u s military in kuwait with drones
+seen_urlhash:2677f479f3d7958c1302dedc1b5da0ddf17af5d0f907a4ed638d084acc45743f
+seen_titlehash:940f210a136a769c2708a343708c9b8567c0b06c959afd5279eabaf610907de8
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez
+title:spain s leader rushes to ceuta after thousands of migrants burst across border
+seen_urlhash:c9903d53555aefda74e5875be6dec5682d9f1cac323d6da0dfbeac0d4fdc9160
+seen_titlehash:3bc4334212e56fbd8a624fb589772c72617ace944f16266d649ee4446f36511b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html
+title:4 bodies found 6 climbers missing after avalanche on broad peak in pakistan
+seen_urlhash:fbd327fe8caa6c8984ebbacbfeea706274c803dc51a76ba59b828b37d09e4065
+seen_titlehash:cd9bfa576adac26f48a5c8a0527e3c4a55b5981911d48ee1d8ba3e142a517cd3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss
+title:palestinians in gaza are sceptical about the latest peace plan
+seen_urlhash:b8aeef1589ecfac7a5b0276dae400a20dfa559acc3f52cd10c358f91d02b3eec
+seen_titlehash:f06528066f86e8ebf932d0e71d3890bb37e4f0b49c81d98ff6b9af10099fa34a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss
+title:spain pm to visit ceuta after 19 migrants die breaching border from morocco
+seen_urlhash:c1527999d86e2652d534d382bb64529452ed67704552597741b0290db36f2cfa
+seen_titlehash:8c93c66d65b3ae8ab53db94bc2064221fd8ce9413221f16fb9f88793ce8719fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss
+title:eleven palestinians including children injured in israel s nablus raids
+seen_urlhash:7a02076a8638de1662bec80f65e9f1822bed7aca06ae6e68c4c5d8a15016e3fd
+seen_titlehash:aa50f46c31b9443a91ffb7fdfa4d3bdbb1bb3132a89e409b00a82db90539e2d4
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss
+title:her mother said no to a phone then came the gaza genocide
+seen_urlhash:cf0d9a87d54e8660480deeae50289f924a2e5c735c6edb7da2c71463d58e66a8
+seen_titlehash:0468237506ddda1be4369478567e2bca8b8f861b1a0fbee619d0de2ac027383a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss
+title:irgc strikes us targets in kuwait a day after us hits iran latest events
+seen_urlhash:3be066f317d1b8e05fa0541d2a9f93c5067de2c1986b91e8cd25a1c756f95ad5
+seen_titlehash:eaa680d6108ee12fd875a5b9da421e342c6bd3699d77b42e4767bd4280876ff3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss
+title:hamas agrees to phased disarmament in gaza
+seen_urlhash:aec53039dd773ea9fb77a77447fe6862db03f8819806b4750a3972bb77bdd89f
+seen_titlehash:808f32acea7051de732394cec697c682cca45bb875ba7d2fc83384d408dd7035
+seen_reason:processed_not_published
+url:https://news.sky.com/story/anthropic-says-its-ai-models-hacked-three-companies-during-cyber-tests-13568706
+title:tech firm says its ai models hacked three companies during cyber tests
+seen_urlhash:4c84b18d5a8fc277c092935beda147e37402388296ac5cf30c2820e9b0ea949b
+seen_titlehash:f733317f8b48764eb7bf97792941d871658d04de8958461b0688c9eabfee37dc
+seen_reason:processed_not_published
+url:https://france24.com/en/what-to-know-about-the-arrival-of-nearly-49-000-migrants-from-morocco-into-spain
+title:what to know about the arrival of 49 000 migrants into spain s ceuta
+seen_urlhash:d3f1d509ab6aaf6389561164c7d0f98568cfaf7c62cda6edce52306dfd83a292
+seen_titlehash:a886c67d7ff4ac0de5d86ad41860e125cf6e7367b76076a6a400cb191b2e1c42
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260731-rescue-operation-underway-in-pakistan-after-coal-mine-collapses
+title:rescue operation underway in pakistan after coal mine collapses
+seen_urlhash:472ce1324b29fc5bf46e8f2ff94aae5eab9951f4c6d8644e2e45886e9f80838a
+seen_titlehash:cabfc880551d73db93caa46968401e524a611b388a7d7e49035a36a5d9ff7357
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260731-how-did-climate-change-fuel-the-wildfires-ravaging-europe-this-summer
+title:how did climate change fuel the wildfires ravaging europe this summer
+seen_urlhash:1785d15a1bc4db37f944fd45a779ddae84acb7951134fc54589d22afb0ccdfb5
+seen_titlehash:caa5bd445bd5a2c4908ab81a29d9144c5ea60941f72ec3cab12de2578778b25a
+seen_reason:processed_not_published
+url:https://france24.com/en/france-s-southwest-faces-optimistic-day-as-half-of-evacuees-return-home
+title:france s southwest faces optimistic day as half of evacuees return home
+seen_urlhash:1edf15c66205b9833247cec58b394bddd0642fa36aa1b479eaf46c1d3d98bea3
+seen_titlehash:c650ca5221a2bdd11a05d085547876799735f866716c7dd0f920613c3888bc19
+seen_reason:processed_not_published
+url:https://france24.com/en/hamas-agrees-to-disarm-under-trump-plan-but-no-word-yet-from-israel
+title:hamas agrees to disarm under trump plan but no word yet from israel
+seen_urlhash:980bac1a645ca99e362d7d155c44d9dd61c7e681a272233da5d169dfdb3dc169
+seen_titlehash:53d83bd2db3d30e5ca63d8cabd91bc805b456887bd9f88b2c4fb84637efa5a0e
+seen_reason:processed_not_published
+url:https://france24.com/en/it-took-me-two-hours-40-000-migrants-swim-from-morocco-into-spain-s-ceuta
+title:it took me two hours 40 000 migrants swim from morocco into spain s ceuta
+seen_urlhash:9003da2dd8dc7da2c6b5f137680a44042774f20eb5d4f90031cd2afdd23dbd27
+seen_titlehash:a5d8231f846570bcd8aece8a4f783e4819a25959c7cdc0491124c4832a677045
+seen_reason:processed_not_published
+url:https://dw.com/ru/фифа-отреагировала-на-критику-решения-о-продаже-прав-на-чм/a-78190528?maca=rus-rss-ru-all-1126-rdf
+title:фифа отреагировала на критику решения о продаже прав на чм
+seen_urlhash:6067f38cbe0045bc9226019b67cd5b6b3261cb4c1b23101e4fa039f482403817
+seen_titlehash:81f8bb15e60bf02f58b8f5f90f5530ab0d3e0ca0cdbfbe9a395169c6d7cb06d1
+seen_reason:processed_not_published
+url:https://dw.com/ru/кельнский-собор-уже-окупает-половину-расходов-билетами/a-78174831?maca=rus-rss-ru-all-1126-rdf
+title:кельнский собор уже окупает половину расходов билетами
+seen_urlhash:80dec018e011b689acaeb53db8918068f5d42bce18f1742f0783a74f927866c9
+seen_titlehash:af71294aa626d6fa9564b40bb4f46b48817f4df95574de5f12d5ce382ad930bb
+seen_reason:processed_not_published
+url:https://dw.com/ru/массированный-обстрел-украины-вс-рф-есть-погибшие-и-пострадавшие/a-78188188?maca=rus-rss-ru-all-1126-rdf
+title:массированный обстрел украины вс рф есть погибшие и пострадавшие
+seen_urlhash:c27a13fc41762c1b1c156e10925b34dfdb20fcb8df79f9e90c3bb2ff56fd2b9b
+seen_titlehash:20165533930fd94e863b9d81524e4b8855574d1a4157e959e07e63f32b892988
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-не-уверен-что-выдаст-киеву-лицензию-на-patriot/a-78187792?maca=rus-rss-ru-all-1126-rdf
+title:трамп не уверен что выдаст киеву лицензию на patriot
+seen_urlhash:f4c220ea6eef1683108dcbd4e6c2be4035f3035cd974d53469cdf7b08f6fa75f
+seen_titlehash:344f8adebbcd4facbb4dd8fd4cb37e8c12bbac91bc55856315643bc7cfabcca3
+seen_reason:processed_not_published
+url:https://dw.com/ru/мвд-испании-в-сеуту-прорвались-49-000-нелегальных-мигрантов/a-78186611?maca=rus-rss-ru-all-1126-rdf
+title:мвд испании в сеуту прорвались 49 000 нелегальных мигрантов
+seen_urlhash:7fb1401fdf5b12500e98e05f26deb6c9b9306d3cf30bdc3b87527a4ea4d833e2
+seen_titlehash:d7f43a7e79c59fdf0470869a504a129b2fa93b1334b155157431717cc23a081f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/07/31/solitude-standing-stonehenge-opens-lottery-for-unique-solo-experience-at-english-heritage
+title:stonehenge разыгрывает уникальное одиночное посещение памятника
+seen_urlhash:af7ae16c4c31c4dc3a08696b3b71eb5d053a66182301d58c8f229d34c1998e3a
+seen_titlehash:21759d8047cc064a9347efbdb8a1c1c541eec37ccba07446cdb75f26654b400e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/ru-xenia-fedorova-france-freezes-assets
+title:франция заморозила активы пророссийской пропагандистки ксении федоровой
+seen_urlhash:8941d0b1eca6d951eabc8363dbbcc55ab78e372af4f8c135688508166a26964d
+seen_titlehash:bd576743f2018c4f70ef3a2efa219a9f426762df8be429753282760bb69d0585
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/07/31/prepare-dont-just-react-eu-advisers-warn-after-16000-excess-deaths-due-to-heatwaves
+title:готовьтесь а не реагируйте советники ес предупреждают после 16 тыс лишних смертей от жары
+seen_urlhash:6dcf189e0afd9d34d83ca9cd95a93b45538c6f16f53d0f3855774f875be67ba6
+seen_titlehash:877b49919a2dd53c0b34f45fafa61baceeaa3168c595c61a40dfaba671b07e57
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/07/31/how-greeces-door-visa-offers-turkish-visitors-easier-access-to-islands-within-the-eu
+title:греческая виза у двери облегчает туркам въезд на острова ес
+seen_urlhash:5751c1da14759b416d628b7287f62e89b763cd5d79dcb9ab3a6288ba4cb40607
+seen_titlehash:c4ae4543cd692f030e09c70615322ef670220c960610526d285d60b733cd4990
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/31/giant-lifelike-sculptures-bring-art-closer-to-chicago-crowds
+title:гигантские реалистичные скульптуры приближают искусство к жителям чикаго
+seen_urlhash:741265b3317b028f3e25684cda7ad73528489803be28144cbc29482fe5918fd3
+seen_titlehash:d1f617a2d2a6c085edad74ff2605e65bb39389358c93424a6cf9468c759ddac4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/31/eurozone-inflation-hits-29-which-countries-saw-the-biggest-increases
+title:инфляция в еврозоне 2 9 где рост цен максимальный
+seen_urlhash:ab141c277d8e49d1c941da93e51dd2af303632368b4c6f13206c76e6f9e74cf7
+seen_titlehash:ad65ff0e8a890993fcb39ca330badd78ae41ed09e8fd7757e51dd3c7806e443d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/v-ispanskij-aklav-seuta-prorvalis-pochti-50-tysyach-migrantov
+title:в испанский анклав сеута прорвались почти 50 тысяч мигрантов
+seen_urlhash:d309782ce1f40f976bece6d96a0be0b72acfe82a56c76997aa6c06e9fb1a1495
+seen_titlehash:ce89ddc3bcaf6f7bed45781b85e92394ff2dd1646862a17fb565fad93d563cb3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/31/behind-europes-mega-fires-would-france-and-spain-still-be-ablaze-if-it-werent-for-climate
+title:европейские мегапожары горели бы франция и испания без изменений климата
+seen_urlhash:400aae2893959d8c733583e5a10914ae35d64640eeda14eaf7f1f5debf1fadc8
+seen_titlehash:9bb84a788dd64bdc261438f98d67abef3c1e7cfeb401f437761d4402b3b2152e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/07/31/british-oil-giant-bp-launches-sale-of-north-sea-business
+title:нефтяной гигант bp готовится продать бизнес в северном море
+seen_urlhash:ad8940124f0bf01d4110884b55e6bf6b89c30fcf35cacb29bbda0fc1592cb492
+seen_titlehash:d8709329f10e59eea3b5c65345bd47654a448f66f676a03fde58bc790f3d9056
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/greciya-pozhar-na-krite-grozit-turisticheskim-lokaciyam-url-slug
+title:греция пожар на крите грозит туристическим локациям
+seen_urlhash:db00db5ce0b4f043a11a9bae8c5afa26745546af20d5c79d6355b1ae9cc17776
+seen_titlehash:22abb34bfe51010a3d8b8224689c3e0b3c3b3c271f9be3d9eb1bd61566d66293
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/07/31/giant-land-art-project-urges-uk-prime-minister-andy-burnham-to-restore-aid
+title:гигантский ленд арт призывает премьера британии энди бернхэма восстановить помощь
+seen_urlhash:c7d1b08d2926ffd53429aad4918dd657169f2ebf02425f504395e3b4ef354865
+seen_titlehash:cd72fb7850902bc1fb1b9c7f32dec1d9171193080ee8a98fcb0e21d82a39a1ee
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/31/desyatki-tysyach-migrantov-prorvalis-iz-marokko-v-ispanskiy-eksklav-seuta
+title:десятки тысяч мигрантов прорвались из марокко в испанский эксклав сеута из за нового миграционного кризиса уже поругались испания и италия последняя грозит остановить шенгенское соглашение
+seen_urlhash:fd5b8cace8d198bfa2f12199e74a1f37ad8fbc8aa2435fc58f24773d82d7ffe7
+seen_titlehash:3445a60dc025f92771428650e83e47ccb858292b762c129daa4a9e9b0087738b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/vspyshka-eboly-v-demokraticheskoy-respublike-kongo-stala-vtoroy-po-chislu-zabolevshih-v-istorii-nablyudeniy
+title:вспышка эболы в демократической республике конго стала второй по числу заболевших в истории наблюдений
+seen_urlhash:0ef03ccf61178b87eb4697f369910daf196535a6ec9cb15afd8e712e2947a8d1
+seen_titlehash:ca03e3016cacf4ae3cdfef71ea51ae03925fd15d4cddf8a481076e40205fc2de
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/zhiteli-penzenskoy-oblasti-gde-voenkomaty-provodyat-oblavy-rasskazali-chto-ih-pytalis-pohitit-lyudi-v-shtatskom-oni-priehali-na-mashinah-mestnyh-vlastey
+title:жители пензенской области где военкоматы проводят облавы рассказали что их пытались похитить люди в штатском они приехали на машинах местных властей
+seen_urlhash:da85352bd8d94d252bf1ca1b9350c09b29e5095ceea6e17fc2bac8a19a0cb8bf
+seen_titlehash:83c9c30bced10e86961accb67908cec56ce115b0228c105b76ae5c271cd6b2b6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/mobilnye-operatory-sdelayut-dostup-k-messendzheru-maks-besplatnym-im-mozhno-budet-polzovatsya-dazhe-esli-gigabayty-zakonchilis
+title:мобильные операторы сделают доступ к мессенджеру макс бесплатным им можно будет пользоваться даже если гигабайты закончились
+seen_urlhash:1cace64091511c680339091fb5a176761954006f4f4f97f262db21f3b52f79d2
+seen_titlehash:9bdc313e2d83f4fb26791cb031b2ffd3de986fb8b413d0466c59570c2b92ba98
+seen_reason:processed_not_published
+url:https://ft.com/content/67e045bb-76cc-404f-a04c-073411eedfc5?syn-25a6b1a6=1
+title:firstft the fight for football s future
+seen_urlhash:f14e7facc08342a62143db0738c9793a14383642fff47519eb70e4ab5a47f40c
+seen_titlehash:632f5db6037d7908b6620d6ad0f6c8ec7e8cb48ae2529923cf31837988e7da43
+seen_reason:processed_not_published
+url:https://ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1
+title:boj governor vows not to fall behind the curve
+seen_urlhash:5c0e0e30a69df7f3c05557b39952935edfc6d6d43c954b687adb7d90a15ba2d7
+seen_titlehash:ba6857d87c08d6b3b8e33fe42d5c3b8cb5dc4da667b8a230dc6be103f63e9555
+seen_reason:processed_not_published
+url:https://ft.com/content/7e0e8281-4f14-4d6f-98c1-ea21b8c0543e?syn-25a6b1a6=1
+title:universal music shares plunge by a quarter on streaming growth fears
+seen_urlhash:3bec23bc1c6e314ef9cc533997968106ece0c475705f5cb3d801fafe6bbbc3f2
+seen_titlehash:79309df3b084fc97b48381211c82d90a08481808b30382fe0c72c4b3ec524bc7
+seen_reason:processed_not_published
+url:https://ft.com/content/a417eb44-bffe-4584-b14e-570e76d3fb23?syn-25a6b1a6=1
+title:chevron and exxon earnings soar as trump threatens price interventions
+seen_urlhash:35b0b6e23b3e670651dec04574a3b7ed6d1eb7345ef58d2c9fad30938c736f65
+seen_titlehash:dcff2a6083bd10a8c1f8a8b457812a784a56791f03553f579cb3592f2abf4443
+seen_reason:processed_not_published
+url:https://ft.com/content/4ee1e8b0-3d48-44b6-8d9a-e71ce5b458bf
+title:rising eurozone inflation keeps rate rise on the table
+seen_urlhash:8d52f6318d4379795530f9d0c92cc7a274c25189aa0e64aadf4d78116ceb844d
+seen_titlehash:619f3d8fc88ce09b215674c41b3c0c7aeb8ae8777190ac2bfce96df0de7a8ae0
+seen_reason:processed_not_published
+url:https://ft.com/content/4b90b384-47d7-40ff-8b0d-7a33420ea29f?syn-25a6b1a6=1
+title:ares secures biggest flagship credit fund commitments in three years
+seen_urlhash:2debd8c0ff4f97651f6b5162bb62c96eb5ceb667dcc355ea26cb579e5f909232
+seen_titlehash:3cf1ca96a9db38ed7396d20449a247bcc414a357988e36378649b94d975059b3
+seen_reason:processed_not_published
+url:https://ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8?syn-25a6b1a6=1
+title:coal back in favour as us plant bidding war highlights rising demand to power ai
+seen_urlhash:e8425adce0a446bc7eaa972342823e61e1cf55cb9dc0dffb57e8d1ec4e2e8865
+seen_titlehash:8b0739d30e4b89762ed825f841c1e6b2b267431c5f3d64c36dbfb03fb5307886
+seen_reason:processed_not_published
+url:https://ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1
+title:spain says 49 000 migrants entered ceuta enclave in one day
+seen_urlhash:49ad87f72e3cb47167993169cb740e1361c5ccf0c91ba145eb9fefb843346091
+seen_titlehash:58e99e0ff9da07a42db605e28f86556fb73e492d016e367237a07744bdb904fb
+seen_reason:processed_not_published
+url:https://ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b?syn-25a6b1a6=1
+title:eurozone inflation rises to 2 9 in july
+seen_urlhash:bf5235c132a587a0954c810993e24f906b32619b5728d2a40f21b492071aa033
+seen_titlehash:ee3ccd12561e1243b7b9d451a07864009dd1628e545b774b1b65da1c61bcbe94
+seen_reason:processed_not_published
+url:https://ft.com/content/cb149846-6032-4883-8695-685e4e8dd886
+title:bank of japan holds rates with hawkish guidance
+seen_urlhash:fb188783bc3b83b341b051f43a0fbe58998c73104e6d50b800568cc55e4a41e7
+seen_titlehash:8a2ede3526d5b1da6576f7dc248e8ea68dd96b37cd33324ac838acd020b067c3
+seen_reason:processed_not_published
+url:https://ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1
+title:natwest chief resists calls for tax rises on banks
+seen_urlhash:41477eaa32045b3cff379a59b8dc931f83b117735cefeb6615cb90dba74e9aea
+seen_titlehash:1141906867fdce08cd0e8d8221158f1cf19e175a809728095fe3feacb5b8c058
+seen_reason:processed_not_published
+url:https://ft.com/content/26da67f5-e630-4552-b327-f01d45b6c7c5?syn-25a6b1a6=1
+title:mayoral scrutiny is a pressing issue
+seen_urlhash:0f4d8085639a7277e5aaa229ee6a36abad42c6d3e6c35c90cf7a7b5a1503deb7
+seen_titlehash:6b4b42f1c26df7df42ec4afbf3ef4b2cd10d08a830b75ec5e32f50cf3b81b590
+seen_reason:processed_not_published
+url:https://ft.com/content/70287eb3-ddfa-4f78-b2c9-392210e9c726
+title:alia shawkat is keeping it crazy
+seen_urlhash:a6724e4f5c12afcbc335256d14fb60c353ef4a2462b2712e2996552c03e5df55
+seen_titlehash:05f50767771d3eff340350dafdacfc441cc3aa0ac2734b06db6e7e3adc4e5592
+seen_reason:processed_not_published
+url:https://ft.com/content/12911916-07af-4220-91e5-53181b4fc6a2
+title:mount penteli inside the coolest quarry in the world
