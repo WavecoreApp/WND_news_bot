@@ -26073,3 +26073,78 @@ seen_titlehash:f3270eb3fe897b4ab38bc116e43488f74c25d828e248131ec528e6936c7b799b
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/07/30/novosti-dnya-30-iyulya-2026-g-vechernij-vypusk
 title:новости дня 30 июля 2026 г вечерний выпуск
+seen_urlhash:8c00bd53b48fe2d34809502a0095c31052078c09fcf776f65ddb0866a38ce847
+seen_titlehash:306cb18437ef833a58fcb53b8a22ab70c592bfe4ee8a2d7e46ee1cd6ca01c516
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss
+title:nirmal purja among 10 climbers feared missing after avalanche
+seen_urlhash:d1023e460b14ae9638c165e529ba1d2452366e5e6d3e927c1a278c61aeb62baf
+seen_titlehash:7174f355b1fe4ef79de549a46c2407eb6d4bf61c21b478542434db6ffff5595d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss
+title:anthropic says ai models hacked three firms during cyber tests
+seen_urlhash:a197a3b7b799c24f9f56ad50494e9c6e60ac7cc041e8b5dce69703e522ee781a
+seen_titlehash:fba94c82d769eaf2ba6bc371c44956c0a88de5c0e48dc804b95a36d1b0edf29f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/world/europe/what-to-know-about-ceuta.html
+title:what to know about ceuta
+seen_urlhash:420e0dbac9b089ae4355f3c4c1fbb0b65f43b79dc946d0e4dacc787b2cca9291
+seen_titlehash:2eb0c35ff52bf0456fc75256ee36952ed4dd328b73146f3d48a5533587a7ee58
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html
+title:mexico s president unveils plan to fight seaweed that is choking beaches
+seen_urlhash:bc340d543fe0d1da7275085403bf3112a67a22a3525a1dda6541e29a06f8fc6b
+seen_titlehash:af6408a94484187d311dd8ee42d62c2641a29ed54410d8285cca81b3abf8f6da
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss
+title:spain deploys military to ceuta after deadly migrant surge
+seen_urlhash:7b7cc2c787deca7e4db9e297b2e72d96e0079dfdc7b13d232c165bce7b29acaa
+seen_titlehash:b2d8925cb475b213340a10348df0caaca1e95e8a1cbd50ea402d9a657b84b934
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss
+title:nepal s pm urges calm as three people killed after hindu muslim unrest
+seen_urlhash:5912550baed510a8542d19f1e14bf498385ae1ed01b25b671a511f979b81d133
+seen_titlehash:ec41787ae6a7d6383ea6e4279fd6bc2c7ac29dc3f699ab1a6759b1b49d15053f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss
+title:london protesters march through streets in solidarity with azad kashmir
+seen_urlhash:3c378147b267054a51257079afabd77e34f5265c8a36a4ec67f5a1709e8b2f6c
+seen_titlehash:26a192c87351d632a708196919166a62396c14096767381ef64bf9f6f128cacc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss
+title:us escalation with iran is pointless warns former us diplomat
+seen_urlhash:a3223988048ab2bbef9dc370fc4f02cdc3ba988052d4c5dff9b1d8573e645b0a
+seen_titlehash:a6c734e7ce0f210c3aefb3ddee4ca7b429aeea5f04ca96f0ccfc88a66ee79d76
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss
+title:iran war live trump says hamas to disarm israel to leave gaza gradually
+seen_urlhash:fa4a30f3676edc0d2b392ad72ae4cc9f9576c1382a0d5377d06a49ed93ffab63
+seen_titlehash:94eb055cd8b053d7ff681b8e93c5810dc130bb678071840501f989515cd6599c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss
+title:trump announces hamas to disarm paving way for israel to withdraw from gaza
+seen_urlhash:e5220bd3198f780ef6fef88c2c66df12d4f166b0cd002e2b3fdbe35283253e92
+seen_titlehash:0ee7693ab313762e1e315a25e0109ad560471c88e3ba1c095f5d22cc4eb708f7
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-россия-и-казахстан-ведут-переговоры-о-переработке-нефти/a-78183633?maca=rus-rss-ru-all-1126-rdf
+title:сми россия и казахстан ведут переговоры о переработке нефти
+seen_urlhash:909654a13839e0cad4b995070af916997ab8f197502067efa733551c05aef40a
+seen_titlehash:4bb8fb2a68202919857362d11a39f5b0b31aa05c331ef997954ec941aba740b0
+seen_reason:processed_not_published
+url:https://ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1
+title:donald trump says hamas has agreed to disarm over time
+seen_urlhash:96488fad7834ae3f4af76798a16cedeb606dffebadde410d5fb6476f85e9532a
+seen_titlehash:9452450ad1f9b1750e113f46da72e82ca416e851c337e33106c3993ea54f6af5
+seen_reason:processed_not_published
+url:https://ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1
+title:how leopold aschenbrenner the golden child of the ai trade was laid low
+seen_urlhash:b39f733ed5abfa6e35ddb6f7fb0355e330518f0afeb563cbe751b0f1ede0a7e3
+seen_titlehash:bde83b3085eb98631cec4ed8fde96d98ae3f787061cc5b9726be9c4c94046da3
+seen_reason:processed_not_published
+url:https://ft.com/content/cfe05113-3565-4497-bd24-c1d93311b032?syn-25a6b1a6=1
+title:chinese student high flyers set sights on police and military academies
+seen_urlhash:e3f026d8a6686f3da3dc3ca337b4ca35b7adf02fa8fd43b04ddfe87ffedf2529
+seen_titlehash:b13fb140aedb91f6a7a9afd3acd6fec701fbbef5519a610ec31e969fdc1dc5e1
+seen_reason:processed_not_published
+url:https://ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1
+title:trump not sure he will let ukraine build patriot missiles
