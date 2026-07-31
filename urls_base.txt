@@ -27698,3 +27698,33 @@ seen_titlehash:19e765edf52b2ba1724fbb495c52c7566c5d802ae24191093b6dcee51576db0e
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/07/31/the-war-room-newsletter-the-most-significant-sieges-in-history
 title:the war room newsletter the most significant sieges in history
+seen_urlhash:6639841e72d4199f5c02d01ca8dacc3051bfed67a79b8032b3756fbe2e909dbf
+seen_titlehash:da50ced186ccb25a72df7f64c9ace9c4c86bb8b98a978502ba5e833bf57feb43
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/migrants-surge-into-spanish-territory-triggering-political-backlash.html
+title:migrants surge into spanish territory prompting political backlash
+seen_urlhash:316d0d9b15bee263874b5e01057acc072bc4cc46353173a803d0c40e92740916
+seen_titlehash:9a4d5abe1d1a14ce81a4a496cba55a41ada818cf7ce036548e483e4592bbbeab
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/31/australian-hiker-wyoming
+title:missing australian hiker found dead in wyoming officials say
+seen_urlhash:52c5109920329a170655ab7f96650d7fd1d9c8617a3c9b2c7e1c58b907c82468
+seen_titlehash:6933cb7d890bd9f5cf99712fef835ab43b01faf45ac80d01c56aa512e9c2a352
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss
+title:children face higher threat of us deportation as legal support deal expires
+seen_urlhash:33a3efac2e4b676b6cadc05f39baa715252d93063d83b3b408435594ea1dfed7
+seen_titlehash:5c0dbe22b92c561cceaa04e16682e7e619368970788524c733e8293a4cae6c8d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss
+title:cambridge students on why they protested at graduation ceremony
+seen_urlhash:b0342685ca59dcdcacdfa17f9fac46cb82bdf3fcf1e6d45291616d4489d8813f
+seen_titlehash:78c685e3228d9863bd874777b1e2d39f66b60f469c012b9cd48d341c59806dcc
+seen_reason:processed_not_published
+url:https://dw.com/ru/латвия-по-техническим-причинам-закрыла-границу-с-беларусью/a-78198100?maca=rus-rss-ru-all-1126-rdf
+title:латвия по техническим причинам закрыла границу с беларусью
+seen_urlhash:a0550af0202d655e7d51ac649115b401aedad9bb1f5d6a455bb1ce30520bc2f2
+seen_titlehash:e38c099bc9010f93cd825a63ce4160e244ea03e601281a949c39c56def6e70cb
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/latviya-zakryla-granitsu-s-belarusyu
+title:латвия закрыла границу с беларусью
