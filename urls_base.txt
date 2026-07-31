@@ -27503,3 +27503,83 @@ seen_titlehash:873738705cb513d2d20a56579538467869827118742a1cc87a51ef1b5b8160cb
 seen_reason:processed_not_published
 url:https://ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3
 title:i helped bring in us bank stress tests now it is time to drop them
+seen_urlhash:c047f93cc3ae0db2de17e70a048e0dc7f59fa568d6fb53865a658f3ae8502d8b
+seen_titlehash:b51e2d4766695fcee224e2e9db0fb315c09de580bf1ff4e336bc7a69ca10394e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/what-caused-the-surge-in-ceuta.html
+title:what caused the surge in ceuta
+seen_urlhash:4dc9892f2f4374213f74377e21dfe084fb83623c971076da4864a080c62e89f8
+seen_titlehash:6b8ae4ca5ceaca5e187225503fb8dd86933c8b40ff1daecfd4ffbb3c6cdd17a3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html
+title:young men poured into ceuta seeking work
+seen_urlhash:25a68f63f4262cc160548e46640624c2f7e8311f42d00c9fa1d27069ac1bf625
+seen_titlehash:889f5566e3cd4df453bc4f6857521724592e3e51d8ac0500c090cd1079c62655
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss
+title:syrian lawyer takes on ex assad official in landmark trial
+seen_urlhash:dee9b58c357548510d2ab9cd416e3b033b7e9242f4ec86326ff731f4c5d2c018
+seen_titlehash:90774589e7c2074c03350061e9bb822d04726e454f96b16283350d8ed4967a89
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss
+title:why is israel arming illegal settlers
+seen_urlhash:4d95f06aebfebc058a956cc38b2eb788e4d6c8fc574842f484c1f37dedeb492d
+seen_titlehash:ecf116315f77bf58758851b010dfa1bf2a61b88870c93e199f2b4b81f9b34ee7
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss
+title:new york sues kalshi says its prediction markets are illegal gambling
+seen_urlhash:6658b08aae1b805697e792085968c3a2034b3b0fb732a7f29324f8ac387c8524
+seen_titlehash:f73f2cc4be503d89e4a7f67edc3e733d49a7e6c661a8e948fc223d4ba5f03078
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260731-george-clooney-s-family-evacuates-their-home-in-france-amid-wildfires
+title:george clooney s family evacuates their home in france amid wildfires
+seen_urlhash:461f2a1570e7bdebf46afbf9e85648f18a98ede818d84a881c61886aca8f6711
+seen_titlehash:b4b1c5339dee6f864116f6948948a97aa9fe3fe7fdbdf5f9d02698d44935a6cd
+seen_reason:processed_not_published
+url:https://dw.com/ru/офис-зеленского-просит-генпрокурора-украины-завести-уголовное-дело-на-лукашенко/a-78197215?maca=rus-rss-ru-all-1126-rdf
+title:офис зеленского просит генпрокурора украины завести уголовное дело на лукашенко
+seen_urlhash:fd5218054656b47d8c97c32bfc3481de4e9522697c063ea7c91ec04140b50c5d
+seen_titlehash:253fdd40b7c0df2850e8a697564efb5c607158032ab3c4def6b078f04c371756
+seen_reason:processed_not_published
+url:https://dw.com/ru/что-происходит-в-испанской-сеуте/a-78197428?maca=rus-rss-ru-all-1126-rdf
+title:что происходит в испанской сеуте
+seen_urlhash:14c3f62d0e2ff0d9ea1e2f5b65d1879a5250d5cbccf5cbca9939e259388b6320
+seen_titlehash:fa234dbedf0e50413592140e6833eb38cdaee2c0d4c54c7b8397e6c2260e17ac
+seen_reason:processed_not_published
+url:https://dw.com/ru/удар-по-судну-на-каспии-иран-и-украина-на-пути-к-эскалации/a-78194775?maca=rus-rss-ru-all-1126-rdf
+title:удар по судну на каспии иран и украина на пути к эскалации
+seen_urlhash:d54d6b58eac46c2ea2ffbb8555aac4870282a7425110cf97b4b85f5b670b3582
+seen_titlehash:39b5d74e24f5ecd393997b65bcb37a5b3e984e4f5bac391a003b4567cbc171cc
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-хдс-заговорили-о-надвигающемся-конце-канцлерства-мерца/a-78190579?maca=rus-rss-ru-all-1126-rdf
+title:в хдс заговорили о надвигающемся конце канцлерства мерца
+seen_urlhash:37d475aa76ecd89802d618045bf55a340043171947dd56a2d7939b90381cc26a
+seen_titlehash:9ab9f735cb793831cce605f0d3c5bb1f31629c09fa6d1d9c07297317b6b140e4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/italy-suspends-schengen-with-spain-over-ceuta-migrant-crisis-closes-air-and-sea-borders
+title:италия приостанавливает шенген с испанией закрыты морские и воздушные границы
+seen_urlhash:3c8feae01b32c7f07e1362b8034b51e55d9608b08ee63690e9ac37a949580067
+seen_titlehash:3c792aea58b4257518dd0dbf7c633c6770ef71a8b83571dc232d4de9d9f6eb0c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/07/31/yemen-houthis
+title:саудовская аравия создаёт коалицию в красном море хуситы обещают ей полномасштабную эскалацию
+seen_urlhash:d777590a1d9e18642e4cf5ca11c8ef759f4154e0eb91a1bb7e01300813ea3889
+seen_titlehash:23005d0423bf85573b46ee44e9b002602892bae93e248667b71fb925fce635ca
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/europe-in-motion-ceuta-crisis
+title:кризис в сеуте крупнейшее незаконное пересечение границы ес
+seen_urlhash:44a2b10845793a0463cca6e5cab5126c00a8214f5a6668d16891b97033739b73
+seen_titlehash:2f8de566cc9b02493f2cba918ab3e34458eff3da841a0b6e63a90216b622d3f4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/07/31/trump-ceuta-reaction
+title:трамп называет ситуацию в сеуте ужасной белый дом обвиняет ультралевых глобалистов
+seen_urlhash:704c463038553347c62fd8d64593d76e7e66d70eda6edb33e32130409013c9d0
+seen_titlehash:d3aeb7609a355cee8ce00fb632a82bd922a697fe58f2f510eb72f539ab33a1b0
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/07/31/pomoch-vam-mozhem-tolko-my-i-gosudarstvo
+title:помочь вам можем только мы и государство татьяна ким обратилась к продавцам wildberries после двух недель украинских ударов по складам маркетплейса вот что она сказала максимально коротко
+seen_urlhash:4c207ac82966446ccffa1378ba3ff245c7548ed602a0558ec09d26640fe4039d
+seen_titlehash:130b1a94b9af245c87966e1ba9cd5359abf47d09a8cfe7983b1ce4071150db1f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/07/31/izdanie-kod-durova-ubralo-iz-nazvaniya-familiyu-durova
+title:издание код дурова убрало из названия фамилию дурова
