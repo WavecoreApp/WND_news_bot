@@ -28588,3 +28588,33 @@ seen_titlehash:ffa8b0af7afdbcb6e8cee0126d825f8a8136f038d7ccb72c5fcec16db00531e7
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/01/ssha-zayavili-chto-popytayutsya-vozobnovit-peregovory-rossii-i-ukrainy-v-blizhayshie-nedeli
 title:сша заявили что попытаются возобновить переговоры россии и украины в ближайшие недели
+seen_urlhash:f3acc416793db6fa4307346e279d491b0814c11f6a0f7c583ba595d8f580b73d
+seen_titlehash:b83b491fd1ab534a1ff59bc9456131fc64c45b10dcdf7d3f44d545032c027526
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html
+title:israel bombards gaza days after trump announced deal to advance cease fire
+seen_urlhash:905cbec58d96a404988fa637fd68de54a42728512897fb5d3c15c8ec64204ac8
+seen_titlehash:3b3827b70e5e97531623e0a0383f8a7559e6014da2ac6ad6f46a38abfe88e4c1
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month
+title:fast access to trump s truth social posts goes on sale for 100 000 per month
+seen_urlhash:0c090ffa16692dfbae20b8e18cbac1f09364f5e3b7ac781b4e3b667b93d65e2b
+seen_titlehash:8c30cfaaaa5d73d05fe729e0b4caa22dd531c2454afd3c169b7f9c59b569b649
+seen_reason:processed_not_published
+url:https://dw.com/ru/греция-франция-и-испания-продолжают-бороться-с-лесными-пожарами/a-78203167?maca=rus-rss-ru-all-1126-rdf
+title:греция франция и испания продолжают бороться с лесными пожарами
+seen_urlhash:1cea0ed88a80779b4197800884bcef233bd2cf1889d7862a24d210526386d3b0
+seen_titlehash:20c22a7aae20949cdd4a823cc9f01425b61c55fd807cf229f012a7fb5299d953
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/01/germanys-small-islands-where-nature-and-deceleration-await
+title:малые острова германии природа и отдых почти у порога
+seen_urlhash:ffd8419d039e21d075e3ab72fc18344c859c501d7682fcb94e930995d62dfcb9
+seen_titlehash:a9df8cf6a20648e447837c353a16b669ab99f6064aee3e9199c0b522d0ee535f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/ceuta-buoy-installed-es-team
+title:на пути мигрантов в сеуте установили 500 метровый надувной буй
+seen_urlhash:8f403c65271b7171b7acd8552b9c1a9ec25bd66ee5d7867034593c84c9df33e3
+seen_titlehash:f7eae5e05a6a3df8233eb7986cfc299b290cc0e42c35dc8c2e667bd6fe8b8717
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/ceuta-ground-update-saturday
+title:испания ситуация в сеуте почти нормализовалась число погибших достигло 67
