@@ -27788,3 +27788,48 @@ seen_titlehash:3922d7db1b30a3c9ec71e47197f3713646966d11f6fb1668d9a83d8076f6d6b2
 seen_reason:processed_not_published
 url:https://ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1
 title:bond sell off sent warning on fed s credibility says top central bank official
+seen_urlhash:6b72c320c04d8f9b501fa5d501e3a66f57bafdedb0d2d8419bb3dda595828c24
+seen_titlehash:7c19acec3c4252b2c9adfd6495135a513687cf597f1bf3df2ac98f35e7d71b45
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html
+title:thousands of migrants surge into ceuta from morocco prompting political backlash
+seen_urlhash:c54eac4603b19ae0896abb0c09a3c1ce601a9ee72ebd7ea4c9301a8a1774663b
+seen_titlehash:e4aeb3f4bdb8477b36aee6c6c3f24208d3cd7b9c68ecb1df230935f98895c835
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen
+title:bessent to do list shows proposal for us to buy 5bn 10bn of japanese yen
+seen_urlhash:55caa03cd9aebe43a7226f66e7987bdf046e8aa633a4d217b2030c76511ebb4a
+seen_titlehash:f219f4030624f5d905144ef6fdf4d7368b5f85512a7c3ef7c0901c556e6b81e1
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/01/adani-to-pay-no-company-tax-despite-1bn-revenue-from-queensland-coalmine
+title:adani to pay no company tax despite 1bn revenue from queensland coalmine
+seen_urlhash:f5172e4f218725913b1509c701f070faff950077a95766734b6066b545b7f120
+seen_titlehash:b741cf2f04d561f5f5e55e6f907eb854df2eadefbaba0922cf669afb3753bbe9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss
+title:russian missile attack kills three in ukraine s kyiv
+seen_urlhash:6a423852569ae5e3236ab33c49147b71675e4e4871fd454df4ada78a0cf6c6a1
+seen_titlehash:cd9f898758d5420b1c2adad6feed4012acd3fce90f8100652f9345eeb3d1caae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss
+title:us military says f 35b jet fighter crashes in california pilot safe
+seen_urlhash:9c3246aa72250ffeed1ea2884e7668be55d23554434a3a8c10b11c1107b4ae9f
+seen_titlehash:516befc020be621ff85e64583252f60227cd9d3b7e0aa667b096868b61e5e5ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss
+title:israel launches attacks across gaza one day after hamas agrees to disarm
+seen_urlhash:765486d6a59bc18007a0c9f65c2b450755875b23915a7aa2fa12c7fd17028bf0
+seen_titlehash:283166ad9251535599591140c71cbbae9e39167758701a974cf28bbf7d4b3d4a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss
+title:trump administration to dismiss reflecting pool charges against david hearn
+seen_urlhash:cbfd17b88df89bddc8334cfefa325e11001ccd3e7b4267a6fec9ea327739a614
+seen_titlehash:e55ef886cb917247970b648afda121c6932b479e5de74933622a9e52fd247408
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss
+title:iran war live trump threatens strikes iran says it has a plan to respond
+seen_urlhash:3206079892762ce6140d5c108580b71e4f9bbb2ec8a0778339ec8eaefbed7854
+seen_titlehash:c69bc50d7f0777b971d8ce6141e6ebb67c29872ab3758ad01e9c0c1d300648b0
+seen_reason:processed_not_published
+url:https://dw.com/ru/армия-рф-атаковала-киев-баллистикой-четверо-погибших/a-78198198?maca=rus-rss-ru-all-1126-rdf
+title:армия рф атаковала киев баллистикой четверо погибших
