@@ -28798,3 +28798,63 @@ seen_titlehash:a324e4b8b7cc3d4dede7088ba2ee138af9d3407bd11b23ae6bec7ce4a95f7779
 seen_reason:processed_not_published
 url:https://ft.com/content/72e4bd53-2e4f-420a-aa44-4de486a0ab19?syn-25a6b1a6=1
 title:burnham says devolution plan paves the way for a written uk constitution
+seen_urlhash:5e9dcec5d7a1247f174680499c259a13b60793ef85e90e2134d582642f51275a
+seen_titlehash:3f3f003500b11fa7dc4195d34ea81a0c47cc53a1a4424134e1c0e46d5826dd01
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss
+title:eu calls emergency meeting to discuss ceuta migrant crossings
+seen_urlhash:ec93ef6a531854d3a26d8e44f657863c34041568edbc9cd4221c8d9f271b642f
+seen_titlehash:d5a2c8bc930e2f45c3d21f7cf1c5825096ee2b85283b817892ac105de077c51d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss
+title:tourist plane crashes in peru killing 13
+seen_urlhash:762b61b918ad260206af47d4f4a5bb4f5cd0e3eb6b548e8eb0923290d5609d92
+seen_titlehash:88c552c2ed3fecae4eb7ecfbd35a6a68daef4e03504f18f97c8c866e88e9847f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html
+title:israel says it killed several hezbollah members on key lebanon hilltop
+seen_urlhash:a35a4eeea48c0d6097602daea2a5ebda99ed643b6fd90773f59e9681967b723b
+seen_titlehash:e28381dc3629bfac6eed5d5b0ab3d1f7160b6233eaf334f7e6a54c1ab10406bc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html
+title:improvised bomb kills 3 at an upscale moscow restaurant
+seen_urlhash:c9a5dd9d8ad32be73670970983f42e42be72be269b44cf39474f10736d41280e
+seen_titlehash:0108d8de8e9994b798251fe6f07ef8e6506b349fa0132cecca71002f9c1a71a9
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines
+title:at least 13 dead as tourist plane crashes during flight over peru s nazca lines
+seen_urlhash:516931cc1a760d5ce91201ca8fa3efdd3f5c7d84318f48a61212642f77b593df
+seen_titlehash:95deacb5dcd32fc02dc2561d46b50ac10ff472d084229cb8bcd408b1397632e7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss
+title:al jazeera reports from ceuta as migrants leave the enclave
+seen_urlhash:126b0d914a36ec4bce1ff78b7019f734c6d2d6c74e4d6ae945d5f11fe95c96a2
+seen_titlehash:9e9d648674faf1387f7b4e92b01bec63de2f9b06d6f95df14998a7aa1b809207
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss
+title:police say 13 killed as small plane viewing nazca lines in peru crashes
+seen_urlhash:b09b906bc2ff5d37c17e338e16e53aef40393a36bd7dfd827ad7ddfea276c58e
+seen_titlehash:02c83ef501a71d81e23a677f47de183af4c5fefed8bf477c27419386f6d88eb2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss
+title:fighting breaks out in western tigray as ethiopia and tplf trade blame
+seen_urlhash:eff0c78c537397ea55a17aaf50bb51faac84bfe74c8c1468c57a4549f1f8967c
+seen_titlehash:c3377aeafc5c0a820d49528b23964cf87304a46672a43063f06fa65af94a1aae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss
+title:greece battles raging wildfires as flames appear to ease in france
+seen_urlhash:07326b310f0db41ab0da38e362fee14fe9da0bac398359b75cae4b543175446f
+seen_titlehash:9a526033e7ade8c6387d9a2e8372f728588413836f83b451a3edc35bd93bf0b6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss
+title:record breaking climber nirmal purja among those killed in avalanche
+seen_urlhash:647677a8770ea5b3508e18c1a0786713079d351f43f58aa2eaa94b572a6c6bc3
+seen_titlehash:bda365d23193559e5599d78ed1bdcf135918966dbbb92a5a1d84c49602cd2771
+seen_reason:processed_not_published
+url:https://news.sky.com/story/tourist-plane-crash-leaves-13-dead-in-peru-13569102
+title:tourist plane crash leaves 13 dead in peru
+seen_urlhash:5b8bebf9e01b1633ca9ac46f55d207ffec914c24743f9a73395b6ea244d5878d
+seen_titlehash:8148748f1571c76544db6c852faf13529632a6117865dfae02d479f0999b7484
+seen_reason:processed_not_published
+url:https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094
+title:hundreds of thousands attend pride events in uk and mainland europe after deadly berlin attack
