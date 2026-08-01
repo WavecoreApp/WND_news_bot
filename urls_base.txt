@@ -28323,3 +28323,78 @@ seen_titlehash:a48fdb42aef850c3b07cff667354eb0837330178a5f7de8a73fc31a61e23f892
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/01/ukrainskie-drony-atakovali-npz-bashnefti-v-ufe
 title:украинские дроны атаковали нпз башнефти в уфе
+seen_urlhash:f3b60992ec60c0bcf2f4f7b93efa1413aba62955fa6b41f26b705df5936cb2ef
+seen_titlehash:9c3f0310a94e8c8ba27bb7662aba049f0df74574cea87cdded090164c73f5204
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html
+title:kuwait says it downed iranian drones as mideast braces for possible escalation
+seen_urlhash:d65fd15832acc99d409ed04c438f2eee0f2ac278997c2105fc0ad5e3650cc8eb
+seen_titlehash:3865f431ccdab599b90de6af305c1403571c4f969b3401c632e1410f1c43c4cf
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing
+title:spanish pm calls for urgent eu meeting after selfish responses to ceuta crisis
+seen_urlhash:62d37cd33d9ba5b3a1d64523921674ab56582e04b8a6e0ede0ae62efbe09a28a
+seen_titlehash:298eb1adacb9b7c31038a048a34a88822cbda037b25a816a15978bebec8c7934
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss
+title:vanishing forests why is the philippines failing at reforestation
+seen_urlhash:a6b32cb340b5d197d0c91c24c7d18d580d502d899789fac45193253baf46e7ec
+seen_titlehash:2d15c1b0fb9449e23904bb10a5126795fb7de14d1af5569d232a629a1708fc3c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss
+title:spain says migrants in ceuta have returned to morocco
+seen_urlhash:29ad95daa5f0f32f27f06eec211013b8d12d341139a8e226caff46af718c2355
+seen_titlehash:03eb569b73c84e353fc9b9bd323f5587b2caf0b4a8bc59ce35a22e0b226d1d82
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss
+title:trump mimics sound of patriot missile interceptions
+seen_urlhash:b1dff69ea56811e88b0d2a7b3fdad3ff0adf7c56eaebb5b5752308980fa9bbb2
+seen_titlehash:1b92ea7f9f260f6b0e4fef4fd6432e72d961e3ce83d2f16b95fb62eda9eda633
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss
+title:india s modi says he forgives students who abused him in cockroach protests
+seen_urlhash:4fcd82b06328df4f4cc6721f741447da621d0756a8f06a27a8267b6cf6bf3d7d
+seen_titlehash:9306c47fe39dc4b79383a696607f2a71f2ff8c0f21e31b9fe56fd4966c4f9ecc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss
+title:omani legend us novice pakistan recovers bodies from broad peak
+seen_urlhash:85f3b075d2e29f07ad68cbc595db477af761d102989e683b55a687a5792d5cbd
+seen_titlehash:3e828069c3220002c922ba5a3d264b2981979969814e68add251c6750fd5bf3e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss
+title:iran the making of a war
+seen_urlhash:2ba3c450134b44dc4bc7e5ca39a50c53d417e83834f08adcb5ba1f9823729136
+seen_titlehash:a6a73c2e0e40450a79256cb9df7c316a805e16f96600cee7fede09f089be6650
+seen_reason:processed_not_published
+url:https://dw.com/ru/politico-пентагон-откажется-от-руководства-группой-помощи-украине-в-нато/a-78201859?maca=rus-rss-ru-all-1126-rdf
+title:politico пентагон откажется от руководства группой помощи украине в нато
+seen_urlhash:03c16f651a3f38f2363d7631652551219012497f55e1aac809d3179bb91c4854
+seen_titlehash:0e6ad09836b2396278a9a35288961d0b1d8603cf4fd478a5cf2700823ee1ee79
+seen_reason:processed_not_published
+url:https://dw.com/ru/рубио-заявил-о-планах-сша-возобновить-переговоры-россии-и-украины/a-78201641?maca=rus-rss-ru-all-1126-rdf
+title:рубио заявил о планах сша возобновить переговоры россии и украины
+seen_urlhash:08a1020ad4505ac5a5c1f288af2951402260b2d289db7744d20855ee482d5f68
+seen_titlehash:2af5710847f5e0e58fdd70bc9062bb08ff54560cbf40d8e3908da5a9f5cf60e7
+seen_reason:processed_not_published
+url:https://dw.com/ru/премьер-министр-испании-призвал-к-спецсовещанию-ес-после-кризиса-в-сеуте/a-78201414?maca=rus-rss-ru-all-1126-rdf
+title:премьер министр испании призвал к спецсовещанию ес после кризиса в сеуте
+seen_urlhash:b98f5eb3cb3c4370bffd88da0847a5ae9c996d82414af58eaa7a493fd4eee27d
+seen_titlehash:49fffc014063193f20400c43311f3384f6b0c663968cf117152b46db65493749
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/01/novosti-dnya-1-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 1 августа 2026 г дневной выпуск
+seen_urlhash:ef7ee56252d0f361be67678ad550a520ce83f0ac8860fdb1d43ffb0d383b9ed1
+seen_titlehash:f8bf17779110a24818dba1ba835f9292e2fa0653c6609091e7bb0b137d279222
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/01/voyna
+title:война 1620 й день в киеве жертвами российской атаки стали девять человек зеленский у нас нет ракет перехватчиков это поощряет россию к ударам
+seen_urlhash:015bb179242b237b36d5870adcd3fb9c8c4822e0f30380c72cebd289697509d8
+seen_titlehash:13d0e6d3080649aead9c4e3702a8bd6da56f6ea1532c46cb21d4d8dbeeff1c70
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/01/premier-tailanda-izvinilsya-iz-za-ubiystva-brata-i-sestry-iz-rossii-v-pattaye
+title:премьер таиланда извинился из за убийства брата и сестры из россии в паттайе
+seen_urlhash:a35f8ab165768385422d85f2d46d918dbd4e05587a829b64f3ddcf798bb985f0
+seen_titlehash:f8fa6c667af770fca120dfb9ef13e33f2953d7e5a9d039ef8b0b741abceef8cd
+seen_reason:processed_not_published
+url:https://ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1
+title:sánchez hits out at eu leaders over criticism of spain s migrant crisis
