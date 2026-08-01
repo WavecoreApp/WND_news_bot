@@ -28763,3 +28763,38 @@ seen_titlehash:cdbff701466886424ba74b2e68b15c40060c125879b721c05bf050d45d7efb46
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-ресторане-в-центре-москвы-прогремел-взрыв/a-78203903?maca=rus-rss-ru-all-1126-rdf
 title:в ресторане в центре москвы прогремел взрыв
+seen_urlhash:24409e456b4e7b97acecd289b3b894bc671e590100ee55f690135f46f59504c6
+seen_titlehash:458cf725a9ad2c150fd242719cdf921851e7159a6e135ead3fad4ba5c7f7733f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss
+title:three killed in moscow restaurant explosion
+seen_urlhash:7303645ee6a2f91f7f6ef3a14b758295181140e617f6c9d8495d0639e40fdf3d
+seen_titlehash:0d1ba094d91fb9376ea1956caf48c20397750fb285496e9e4cb0fbbc0dd315d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss
+title:trump denounces justice department decision to drop reflecting pool charges
+seen_urlhash:77d738138accac9b30cd3e31bb50a958b80ee5062424694ba24b127ea900dca7
+seen_titlehash:4b1814692826b3c263dddca28f2d28b5f5773b4829c1a48774a8b0f190050707
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss
+title:palestinian children among those detained in israeli west bank raids
+seen_urlhash:465b3cab59ab7e91a4d74b1fa1b8d2f7eb0d03380381829d0ecd0cb06cce6e20
+seen_titlehash:5bdd12ecc70c2b926b1152283dfe37943339e9f787d9874841fc4fc55ade8014
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260801-spain-installs-floating-barrier-in-ceuta-after-migration-influx
+title:spain installs floating barrier in ceuta after migration influx
+seen_urlhash:acde43a39909d512dd5bb832338bb956bca26777cb4c796bb5396adbb85e7370
+seen_titlehash:e645aec08043dfc185841d53897bf556c115384d27ae92e9976c77801adecc4c
+seen_reason:processed_not_published
+url:https://dw.com/ru/можем-взять-почти-все-что-захотим-трамп-о-недрах-украины/a-78204224?maca=rus-rss-ru-all-1126-rdf
+title:можем взять почти все что захотим трамп о недрах украины
+seen_urlhash:b69625af2d3475396b11ebae6f6958299fdfb5d1864383dcab137a593c0186f6
+seen_titlehash:0a916838f4c3de9e2bec503ce04994338476697a4f031bf02dfc68c4354a7482
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-днепропетровской-области-дрон-ударил-по-пассажирскому-автобусу/a-78204099?maca=rus-rss-ru-all-1126-rdf
+title:в днепропетровской области дрон ударил по пассажирскому автобусу
+seen_urlhash:e8a59e9c82ded2c91bf5cbfd6c28440ae956fe6a5c106e3a15831496a5f4e870
+seen_titlehash:a324e4b8b7cc3d4dede7088ba2ee138af9d3407bd11b23ae6bec7ce4a95f7779
+seen_reason:processed_not_published
+url:https://ft.com/content/72e4bd53-2e4f-420a-aa44-4de486a0ab19?syn-25a6b1a6=1
+title:burnham says devolution plan paves the way for a written uk constitution
