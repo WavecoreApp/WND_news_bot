@@ -28618,3 +28618,63 @@ seen_titlehash:f7eae5e05a6a3df8233eb7986cfc299b290cc0e42c35dc8c2e667bd6fe8b8717
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/01/ceuta-ground-update-saturday
 title:испания ситуация в сеуте почти нормализовалась число погибших достигло 67
+seen_urlhash:42d398292e997ec6b52bb2b46ba1c06e6fda6aa689de2331f955fd0cbb8275ee
+seen_titlehash:905bdfc3f0a70b0127e6cd7e2ef3a2f3a7ac71ce1d09797c063dc8ca7f5a273f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss
+title:current ebola outbreak worst ever in dr congo who says
+seen_urlhash:e9992c43e22ca1a619f633d5321ae71971e967962b82390c176036718e25910d
+seen_titlehash:4524121886cda34e30adeace1bbde200ca36af0ccc0e54c257fac6eccf429fc8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html
+title:iran plotted wider war with help of its proxies
+seen_urlhash:f54d8506f6ee4aed8dd5e4ab4a4155cabfb5cfcb3dd4365e5506b502d1ab39d8
+seen_titlehash:b10f97ac153d2be5fc81ca370d1b9c4b873b0c9cbeed87cd5be42f3886d59631
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss
+title:moroccan rapper mehdi el youbi temporarily released from prison
+seen_urlhash:fdd826a21b537f530bcd18ead195181221aaa9d546444b1d69614c55a1b5bbd5
+seen_titlehash:ba6a9f7771b06610089d67d630d32e33ec00fbe646db69c9d4b36260f3c2c00c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss
+title:israeli strikes kill four across gaza destroy medical supply warehouse
+seen_urlhash:755127847bde61c8a221362f0991b2c50476c5c5ecdc547f0095c40ac89c2d81
+seen_titlehash:bf9dcad8cbd6a339b73b7270c710e98834cf2930ed11faa0d02832e55a0ca5af
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss
+title:at least 11 wounded by colombia car bomb days before presidential election
+seen_urlhash:50e07dad5d3cec767d985920d3fcef972b38172e725dd26e43d1434b02138506
+seen_titlehash:51bb8d25de8b11b3d863a308693a52e094809119402610befb4809979d047544
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss
+title:two ex sri lanka officials sentenced to death over 2019 easter bombings
+seen_urlhash:98020779a22a95ade93b404e67ad8f50169e129a7c76256701a38fd6042a3d9e
+seen_titlehash:72bb66252b3a03b3004635328065d74c427d659c4dbe4852e88598b12c9ccf97
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260801-wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey
+title:wiebes wins tour de france femmes opener to win first yellow jersey
+seen_urlhash:c7ef4c3d9c1c9443e2172b64bd2b4001e12c0294d0f99568212b58a36664b7c7
+seen_titlehash:9bcb74d06036e91fb48d3daa183273bf9319f9df46795e38b684357e8abf6a43
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports
+title:russian forces strike targets in ukraine s odesa mykolaiv ports
+seen_urlhash:b66f9aa20e6a84d00f4a6409f6e72a87d88cd1903a5589ba8f5d8fd1ae60dfab
+seen_titlehash:485df4880e293f23e5997c1aadefa7b8b7e1539ee64cde4f464a3758ded3b823
+seen_reason:processed_not_published
+url:https://dw.com/ru/мид-литвы-вызовет-диппредставителя-россии-в-вильнюсе/a-78203375?maca=rus-rss-ru-all-1126-rdf
+title:мид литвы вызовет диппредставителя россии в вильнюсе
+seen_urlhash:b32b8e37aafa982fbcbbe66ba9adfb8e3bf630ebe2fbdef27a9e7a42749c7552
+seen_titlehash:cfaf30e984955ba4ecd3130801c55d8bc921f1d7da9e3714f654f88ceaf5063b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/hamburg-pride-parade
+title:в гамбурге под усиленной охраной прошел гей парад через неделю после атаки в берлине
+seen_urlhash:93531d81adecd56bcc741858e95e0f3efbc4ea914539de90ddc9dcfa852b8b36
+seen_titlehash:0f2aece168b73df71015be9ccf8660b16f163b061898534df9e4947d082cfdb3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/01/ukraina-potopila-rossiyskiy-konteynerovoz-v-chernom-more
+title:украина потопила российский контейнеровоз в черном море
+seen_urlhash:736d3086e9e18b68cd4db1f247524b9fa0bf4c8dfa5d49a81c623bca2322e0ab
+seen_titlehash:cc3fd00117dbc604f2454e52ca9e033fcccf94c8e7234bbdc11251bf76b0be86
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/01/samyy-izvestnyy-alpinist-v-mire-nirmal-purdzha-pogib-vo-vremya-voshozhdeniya-v-pakistane
+title:самый известный альпинист в мире нирмал пурджа погиб во время восхождения в пакистане вместе с девятью альпинистами он попал под лавину
