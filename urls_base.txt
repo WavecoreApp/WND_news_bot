@@ -28478,3 +28478,113 @@ seen_titlehash:beae556935924b8c19e346b3ff548b8c1ec723c50d1c0c870ff62815102c708c
 seen_reason:processed_not_published
 url:https://ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97?syn-25a6b1a6=1
 title:massive us tungsten discovery could run into nasa roadblock
+seen_urlhash:3c7d7eec09a753ab9b03e2a48b81da44a3754467875e813a24ff90c69c2fa011
+seen_titlehash:25512de3b74a71429edb83f8ec32c0df5a0781bdcd5894775ac4bf5ab0eff7bf
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html
+title:justice dept subpoenas times freelancer in effort to identify sources
+seen_urlhash:6e3d0eac9c1409317ca901094f9bcf94f7326d79b9f2aab2600c2cd390b52325
+seen_titlehash:2f9309edd9db3be973e10c9d0911418400b722af4bfa02cbb1a747b0c046a378
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html
+title:migration surge on the spain morocco border
+seen_urlhash:6e6a35c67acd5a3ab98118bc4d4ab4a99c25b37c0098cb381a77eabff8137144
+seen_titlehash:b2eb83f3b3856ffaafd7f932d614f3865413f9bb6de7f0db7202e82122bb2dc8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss
+title:india cracks down on protesters accused of abusing modi
+seen_urlhash:065606bb3dd677814710139203eb7b919e5b37df8e469133e59b8ad36223e1a6
+seen_titlehash:4190d0762f716f91ce7f83f713e84caf57d1856f2a22e2a51c9466cdc7bf4c52
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss
+title:israeli strike destroys gaza hospital warehouse
+seen_urlhash:a832ebd2671948fd676017fb29b9b61ddf2bf08a481b5b99f3deef93e65fe5d9
+seen_titlehash:f199d7f8bba624bcd61409252865dca678c943d9c04dd498a895a0395c3b5452
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss
+title:is spain being punished
+seen_urlhash:a4ae072569040b2d571a30697960da63f6e11ce508971e335dc52e0c7eac2d7c
+seen_titlehash:d6401d8eb3cd029a663ae7ce8dfca48070248f205e77765d0b7a62aa1484eee7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss
+title:children run marathon to spotlight gaza s growing orphan crises
+seen_urlhash:1cd0f0f08f43fc847de2cdf5da135aa8d244368ac8b525487baea18d12973b05
+seen_titlehash:e394d7aa724d047ebd5596f2ce1be5bf93e4de4ea02f612ad6c747e290424398
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss
+title:most australian teens still online three months after under 16 ban
+seen_urlhash:960df6af20e88859f78b0122714847dc7985a00abca1b4a0b2c76aa6d618a182
+seen_titlehash:ebe1164c23edb998908b73309d6a0b06e9016cb1832baed3aba51d32ca7f5651
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss
+title:spain says migrants leaving ceuta after mass influx in which 67 died
+seen_urlhash:b9e4f46fdbcd468b824f0e7790e00cabdb70755bbe7f28fbb9b2d89a84135f93
+seen_titlehash:0c3154785b59748c88c51f1ecaa5b8fab88e7a344d703bf0d10fbf84f373a42c
+seen_reason:processed_not_published
+url:https://france24.com/en/ceuta-spain-slams-selfish-eu-partners
+title:ceuta spain slams selfish eu partners
+seen_urlhash:691ea08d4b39585bc78445cb1c1c398fc42ed68c3df1625383164fec7f238aea
+seen_titlehash:ef4129e7e7c774b917fa9de880d4a4198c2c7bf8d4ac6d94c6ab75d9a3531af6
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1
+title:ceuta enclave almost back to normal after migrant influx
+seen_urlhash:5d2fd4342dc636375ba005a1cf91b55fb8adbe7ed7564afde890f15bb6bb4eb6
+seen_titlehash:7357c84e25b07797ba03bff13a080021e8232de127729c3d59f792513bf8b298
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260801-scientists-study-greenland-s-melting-ice
+title:scientists study greenland s melting ice
+seen_urlhash:6af7209ffbd16cd8773d92837edec8e185c9baf8344d119b6375fd23bdd27ec8
+seen_titlehash:c559cf9e2472f24b74a608a517eb6b22dafc8f973a89774920670fc3bb359307
+seen_reason:processed_not_published
+url:https://dw.com/ru/всу-потопили-контейнеровоз-росатома-в-черном-море/a-78203032?maca=rus-rss-ru-all-1126-rdf
+title:всу потопили контейнеровоз росатома в черном море
+seen_urlhash:e37c509eddc2b32a739bbd0121401eb3f11153b92a945b0a811407962029498e
+seen_titlehash:f3160f442938449b84e9828013a1fd1aef159e157b64433117a17c9afa10c49f
+seen_reason:processed_not_published
+url:https://dw.com/ru/уефа-джанни-инфантино-лишился-доверия/a-78202673?maca=rus-rss-ru-all-1126-rdf
+title:уефа джанни инфантино лишился доверия
+seen_urlhash:ce64d4592b1a37d10a58c0248f2c86440c5b4293cbf7d6e63c7c728b8748da37
+seen_titlehash:ded5b6fa46117d43a0eb3202aa6276ddb5f516700d62d1c7bcca5c420f3f8d56
+seen_reason:processed_not_published
+url:https://dw.com/ru/лидеры-22-стран-ес-требуют-немедленного-ответа-на-миграционный-кризис-в-сеуте/a-78202601?maca=rus-rss-ru-all-1126-rdf
+title:лидеры 22 стран ес требуют немедленного ответа на миграционный кризис в сеуте
+seen_urlhash:c7b8fd56846b486ca8badfd75fd441f33f5a54abeb891f02c7cfeb843c062958
+seen_titlehash:311dd55d801517e43e6d31d1f8fc4717b98bf19c6427b04f43f91ba806c5793a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/july-record-heat-spain-es-team
+title:июль 2026 года стал в испании самым жарким с 1961 го жара доходила до 45 c
+seen_urlhash:2f1c3fa47836b8b0292139d2aa7d23d715daa308535ef681f7ddafc3c3e0913a
+seen_titlehash:2cd55e51f19ff7aad6bd843249493353fab7db894bbf6fabf92ac9a68eee24ce
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/01/find-in-a-german-cave-40000-year-old-bird-figures-made-of-mammoth-ivory-discovered
+title:находка в немецкой пещере фигурки птиц из мамонтовой кости возрастом 40 000 лет
+seen_urlhash:08f15553cfe782585cbb77985a4fd4f87c21cf1a0a0aae0647acb73d21ea9a20
+seen_titlehash:5f6eecf38497b41ef91da9902b1a7bea1e28b2c5abcaae90f76e497a4070dcc4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/ceuta-vdl-reax
+title:фон дер ляйен ни один мигрант из сеуты не достиг материковой испании или других стран ес
+seen_urlhash:7c17fa2392477292575b92740a6260905f18029984339a46feeb17702f760ff3
+seen_titlehash:ff1a0dbd4b30aabc8d8b0f83677a01daca1877d26383a6b05e034f5512561327
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/01/lt-restrictions-on-ru-and-by
+title:литва ужесточит ограничения для прокремлёвских россиян и белорусов
+seen_urlhash:feb4865e15b1dad71ab9d607ad9033e60384722b0065eab1e744567575c349ab
+seen_titlehash:fdc3f0889a85ce52309d0e1d874cf0b1eb2da7a11cf2981935e870102c326c65
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/01/na-vse-moi-protesty-oni-otvechali-chto-vse-okey-u-tebya-net-problem-aktivistka-ariadna-litvinova-rasskazala-podrobnosti-deportatsii-iz-turtsii
+title:на все мои протесты они отвечали что все окей у тебя нет проблем активистка ариадна литвинова рассказала подробности депортации из турции
+seen_urlhash:0576a311808906092b065d3b00bdf7367139842c11f655251095fd07880d263b
+seen_titlehash:fe02547c0583db05dfee3bfa911fff738d220680b3098eb86a40b10f98e6cf8e
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/01/zakonnaya-li-eto-tsel-mozhet-yuridicheski-i-net-a-vot-po-zdravomu-smyslu-vpolne-sebe-da-eto-tochno-ne-detskiy-sad
+title:законная ли это цель может юридически и нет а вот по здравому смыслу вполне себе да это точно не детский сад что думают читатели медузы из украины об ударах по складам wildberries
+seen_urlhash:d47e3d7d50b87c591356ba0a591e0554247564c6988117621d3d01700ca3ae3b
+seen_titlehash:d51251bc0be02c8f8d62336cca94c772f45fee8dd8fab6629cacd3c9b9bbed2f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/01/v-volgograde-zaderzhali-treh-mestnyh-zhiteley-za-publikatsii-fotografiy-i-video-sklada-wildberries-atakovannogo-bespilotnikami
+title:в волгограде задержали трех местных жителей за публикации фотографий и видео склада wildberries атакованного беспилотниками
+seen_urlhash:e5e6c550d78ab9bcc2e185c73e6588c2445d5c3aefb6831a410acc3f822bf625
+seen_titlehash:ffa8b0af7afdbcb6e8cee0126d825f8a8136f038d7ccb72c5fcec16db00531e7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/01/ssha-zayavili-chto-popytayutsya-vozobnovit-peregovory-rossii-i-ukrainy-v-blizhayshie-nedeli
+title:сша заявили что попытаются возобновить переговоры россии и украины в ближайшие недели
