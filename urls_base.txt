@@ -28858,3 +28858,23 @@ seen_titlehash:8148748f1571c76544db6c852faf13529632a6117865dfae02d479f0999b7484
 seen_reason:processed_not_published
 url:https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094
 title:hundreds of thousands attend pride events in uk and mainland europe after deadly berlin attack
+seen_urlhash:05db6ed3cc9090c3aa4e6fa716d613436e1383ee7dcc1eba05d430f6deb27316
+seen_titlehash:23756c9a00bbbc2ffc7a56d2f2dca262cce806f03d942bedc9875c27eb4aeb61
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss
+title:how australia combines modern tech and indigenous knowledge to fight fire
+seen_urlhash:76c5e98416a2eea128be72b236954adad9065923795359ba3dad2d76240e650f
+seen_titlehash:ffbd7b99bb1433adff1d22e0dc49de206dcea4b67c64fabc509830c0c2fb0ef0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss
+title:why did ceuta migrant mayhem chill already frosty israel spain relations
+seen_urlhash:cf59db05fe602fc1bfa85496dbbb439c21f74c5e9c4eb3835861fe666a230159
+seen_titlehash:9da4e4d1ca8839d2b2b2ec54c0f7e056e16a86514a6bf03012a6e7010ac45bae
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-вводят-постоянный-визовый-залог-до-20-тысяч-долларов-для-граждан-50-стран/a-78205001?maca=rus-rss-ru-all-1126-rdf
+title:сша вводят постоянный визовый залог до 20 тысяч долларов для граждан 50 стран
+seen_urlhash:b7aab079c37db02350922ce8a711726b4ab676c8281561c6890d8a19560bef41
+seen_titlehash:9a222a49aacae64ace6d006e1535d3e9d5e4dcc8467537f37e5bd5b0d94adf9e
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-ресторане-в-центре-москвы-прогремел-взрыв-трое-погибших-десятки-пострадавших/a-78203903?maca=rus-rss-ru-all-1126-rdf
+title:в ресторане в центре москвы прогремел взрыв трое погибших десятки пострадавших
