@@ -28723,3 +28723,43 @@ seen_titlehash:27ad967af035045fe51bd6aa3e771bd38ab3b0d59a99c5699c3e2e6f4e5fc891
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/01/zhitel-habarovska-umer-posle-togo-kak-sotrudniki-rosgvardii-izbili-ego-pri-zaderzhanii
 title:житель хабаровска умер после того как сотрудники росгвардии избили его при задержании ск отрицает что эти два события связаны
+seen_urlhash:bd6d32706fab83fd72a3118b5a43554612bd7b66f49c93f12fb803aac8a68d0e
+seen_titlehash:3770eaf6c51208573b3923c161ee603917ad23e51aaf22417a8cef446b507e5e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss
+title:italy putting nearly all major cities on highest heat alert
+seen_urlhash:83cfb9ffb6f4f460cb03ea0ad3aae531d2022964475768e3c6ba007cf8db2b33
+seen_titlehash:ba0b2f9ffd0d5f845b507bc018406b68bfbf45383b2b34138f4c3cb7e73fd046
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss
+title:at least three killed in explosion near cafe in russia s moscow
+seen_urlhash:cc8cbd012dc15a6f28698b0b4fb7fab300485abd9fb12e4565542b263187de25
+seen_titlehash:c0be74f11b974d4abcbea21ac3f7390aead79ecdf6bf2385525cb85ad65527de
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss
+title:marathon shines light on gaza s orphaned children and humanitarian crisis
+seen_urlhash:2de752a9ea8a354c0a92d5a98ee1855a2a973b482ba2def87b52bb4b888a3936
+seen_titlehash:60e49d75b9745b3d1a2a26fd3f8ac06d02c3e13615ef887ce93e095f5a28741f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss
+title:trump pledges to pursue anti weaponisation fund amid blanche standoff
+seen_urlhash:27a3db69b0ffb27f3196259f27b125b1162bc56dae1c8b274651de936bb3e2c6
+seen_titlehash:57f723ef793197052a4a6524d75713dbf61bbada00a7313d7d6a92431ed7aa37
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss
+title:at least 9 people killed in russian missile attacks on kyiv
+seen_urlhash:e2118c6794ff9389516bbab7707d2cf2eb2d807004f2751920155fbd4280c432
+seen_titlehash:d4139fa9097679d431efc33c0277884bed8446706b9de07334eaa4e05e6f577a
+seen_reason:processed_not_published
+url:https://news.sky.com/story/tarona-taafaki-boxer-lands-tuvalus-first-commonwealth-games-medal-without-winning-a-fight-13569045
+title:boxer lands country s first commonwealth games medal without winning a fight
+seen_urlhash:c806261910777072b21a228d5aee6e2b681e80bd1b25093b06f16774bfc54a6e
+seen_titlehash:8e80d8a091f2210bb90c553671e019768d5b68c6a0f65889acbc03e9e3319d94
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260801-a-giant-of-the-industry-purja-leaves-behind-a-legacy-that-inspired-a-generation-to-climb-higher
+title:a giant of the industry purja leaves behind a legacy that inspired a generation to climb higher
+seen_urlhash:0ffca22e3c82d281c71bad7f508a7a9559f806df0488693c1969379dd11ff1d2
+seen_titlehash:cdbff701466886424ba74b2e68b15c40060c125879b721c05bf050d45d7efb46
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-ресторане-в-центре-москвы-прогремел-взрыв/a-78203903?maca=rus-rss-ru-all-1126-rdf
+title:в ресторане в центре москвы прогремел взрыв
