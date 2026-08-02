@@ -29898,3 +29898,38 @@ seen_titlehash:4556538bfed1c057ebe7746a826f5e55952f6b2be7679760dcf58f21e66134be
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/02/italyanskiy-voennyy-korabl-dosmotrel-tanker-rossiyskogo-tenevogo-flota-v-sredizemnom-more
 title:итальянский военный корабль досмотрел танкер российского теневого флота в средиземном море
+seen_urlhash:a6531323725f736d330e986be72dfc232296bc5076329beaa3ad466375b2c249
+seen_titlehash:bd73db5040f1dbc2ddd00bd2134442cc7233884c72754af5a7d497760d241519
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html
+title:pakistan police station bombing kills at least 14
+seen_urlhash:ced0c73ee5c6643e971afbbe2a2f9024733ca4472cb55ad1c7923cb4abdb32b4
+seen_titlehash:78db0edbb8875ec59317bd95945dc4debac3bc74b3c5e8dbce059f3ee470c8bb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss
+title:iron fist doesn t work with iran former us hostage in tehran
+seen_urlhash:43d17b4b614e263087efbc7b9295c24b72419ad5b0bc6fb3475cd0ee51fabe26
+seen_titlehash:57fb0d22275ccd305efc931b355a618ef2a166fad6019d5e27cb86dccd51b282
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss
+title:republican senator says former son in law should resign from us congress
+seen_urlhash:fe52d39abafdd38f465688fca3de45df7fce4d73232e404edd8ad2c08acffafa
+seen_titlehash:60ce1d97738baa1626b5b464330c83358d230d7f256cb3b6c668f6e2ec994ad0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss
+title:fetus found among the ruins of a deadly israeli strike on gaza
+seen_urlhash:7aeed92cf0cd41db786869215c01c9c7b79253234a2f64c850fd0b0044d5255e
+seen_titlehash:336f312207f91882f2f0fd80c10d9895de15d1784069fb6ab5dccdfe9c4a40c5
+seen_reason:processed_not_published
+url:https://dw.com/ru/экс-посол-фрг-считает-новую-мобилизацию-в-россии-возможной/a-78208799?maca=rus-rss-ru-all-1126-rdf
+title:экс посол фрг считает новую мобилизацию в россии возможной
+seen_urlhash:7787e9619770a6808213a492169eb2a15c2a79a262899b24e2be080dd37e3498
+seen_titlehash:c5aa0c44e0c64cf769254d9efcf38018e87a2dda0f911c61039f521a027f2c4a
+seen_reason:processed_not_published
+url:https://ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1
+title:monte dei paschi explores banco bpm takeover after merger of equals talks collapse
+seen_urlhash:b41e8a42fb491a7151aa1f1f1ab7058bcc93a6d395257216b3bc27fbaf97016f
+seen_titlehash:28f24644b592adb2bc70c1a6dfb62e3c60a4d653d2f48a1e5e7cd9689898e019
+seen_reason:processed_not_published
+url:https://ft.com/content/21896669-cce4-43cb-8e7b-e40520e9ac91?syn-25a6b1a6=1
+title:earnings season reaches a peak
