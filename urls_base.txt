@@ -29858,3 +29858,43 @@ seen_titlehash:ac4168713652f3369af603ef7696d17ffb23e3f592c1812a6c40463abb5dbb1e
 seen_reason:processed_not_published
 url:https://ft.com/content/f438f3c0-d309-4687-b265-ba775b24044d
 title:how to save the british high street
+seen_urlhash:17b23ca437695f44a1d3828d02cbffa6ea1e99acaf36c093e4055f0c381da9eb
+seen_titlehash:8b54c9794afad3289a29f3ebc023347de39eeca1d5ae3e4237e542a7e9f5a4d1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss
+title:at the scene of deadly moscow bomb blast
+seen_urlhash:bae344df976f8bd87e1ea8bc7c82d93865f48cbd45749d53129649f8369e4f02
+seen_titlehash:c4b05b236f133db6218dfc611c1de88454157191a5fd7e48915475bb2716eaf2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss
+title:migrant deaths in ceuta rise to 72 after border surge from morocco
+seen_urlhash:0bcab1b88576dfea3fc97bdb3c9943824fa3a92df77d9065a6f301ab5f6151f1
+seen_titlehash:2c5e27cfe92262a716cfaff3e96b322b70be61d8e1406f8d583250d9ddc220c7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss
+title:iran war participation trophy mocking trump appears in new york
+seen_urlhash:dfa4e64811e0849dec963bde91a599038887547495e9525a6aa14d7e7f804655
+seen_titlehash:b78b19a6a2d243f47d7822326c566fb0f69e30ce4a4c05838d30158f7a94ab98
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss
+title:deadly floods and landslide hit india s kerala
+seen_urlhash:c8df1a5f706fa3fb661817a7f1fbc5ca0a94569a277412d09e26ca86b646ef77
+seen_titlehash:303ea0208eac30761dd8081f580cf4744294b9c4b09d2e2fe4afb8ad5bf40d54
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss
+title:suicide bomber kills 14 outside police station in pakistan s swat
+seen_urlhash:bddfc1c6215bccf80b0b2980fc46ae53bb9c77696e31128f06b0dbe9e9458237
+seen_titlehash:70459bd1046abbe363dd50799c943d7f9841b1abe800e784b35d261d0cacf3f8
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid
+title:brazil s lula 80 says in great shape as he launches reelection bid
+seen_urlhash:a6f13ccf0d2a9066a4c22f4d7c92978005752e5f1adf75e1fdde244f4cdedfe3
+seen_titlehash:56354cd57e0e599503936f002ea2b96d984406e89bf4b2e533457a900b9f958d
+seen_reason:processed_not_published
+url:https://dw.com/ru/страны-опек-договорились-вновь-нарастить-добычу-нефти-в-сентябре/a-78208648?maca=rus-rss-ru-all-1126-rdf
+title:страны опек договорились вновь нарастить добычу нефти в сентябре
+seen_urlhash:921bc3e4c243516c172b4c98ff7f0e4a3e3e131c3f1b0c1b7bc77e6a2e5e2551
+seen_titlehash:4556538bfed1c057ebe7746a826f5e55952f6b2be7679760dcf58f21e66134be
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/02/italyanskiy-voennyy-korabl-dosmotrel-tanker-rossiyskogo-tenevogo-flota-v-sredizemnom-more
+title:итальянский военный корабль досмотрел танкер российского теневого флота в средиземном море
