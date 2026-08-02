@@ -30048,3 +30048,18 @@ seen_titlehash:58992c51f851c47288c496c0f450a881300ef3221077d163189b990e05ea4e2a
 seen_reason:processed_not_published
 url:https://ft.com/content/43636916-1879-4315-9ed3-9437d7526179?syn-25a6b1a6=1
 title:labour overtakes reform uk in polls for first time in more than a year
+seen_urlhash:9e16d73cb6ddcfe3ea9a617f166526bbd912f6d5c1b1288555160728df2cd836
+seen_titlehash:5cd011794530f78d363aadd697fb775f750f5a73bf846eb0361f660587be8b8a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss
+title:sudan army drone attack on darfur kills 35 rights group says
+seen_urlhash:c0e42204f9ee67d0f5d5ad8fd8a26bd32744ac8061ae3b441de5de487cd6c170
+seen_titlehash:be4739b9c3870d4e63abb7569f93b3344c028a9a84200882aee620ec1b21e672
+seen_reason:processed_not_published
+url:https://france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention
+title:trump says us backed japanese yen in rare currency intervention
+seen_urlhash:aa09c87ae7599ba606574a9da0c18b87f2a8cdfb9006c881426c79b1758c52dc
+seen_titlehash:90a8f221da59e7cb8d521151677f126b0e4ef6f3faa8c751d24b0992386a45ff
+seen_reason:processed_not_published
+url:https://dw.com/ru/новый-человек-паук-стал-самым-кассовым-дебютом-года-в-северной-америке/a-78210181?maca=rus-rss-ru-all-1126-rdf
+title:новый человек паук стал самым кассовым дебютом года в северной америке
