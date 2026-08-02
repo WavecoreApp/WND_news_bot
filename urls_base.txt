@@ -29448,3 +29448,63 @@ seen_titlehash:87b71c5698bebe535e68c77530ff7694f058963f10b56b29338b59e20c01c126
 seen_reason:processed_not_published
 url:https://ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1
 title:trump says he cancelled iran strikes after middle east allies request
+seen_urlhash:d361c8abbdb7bcd6ad4f96e53181053ca8989006b39e7c0aa049e00ed4d08a03
+seen_titlehash:de84d4b48e15d682d960149d1c5a8d81d4df10b41ac3efcec14f8a0e6416b405
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss
+title:it was about the adventure says fastest runner to cross the alps
+seen_urlhash:b6864555d2d65df811fdf1094fbb7147be819cabe1eed5860f65b180abe9e208
+seen_titlehash:7f82c668f5159360a5b8418a7583bd262bdde43a21731cfa816bf26e5dab211f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss
+title:indigenous groups oppose milei plan to open argentina to foreign buyers
+seen_urlhash:f1b0d096c7447de3c902b86f88b475b89ef19d7d18ecce4f7b4902eead8af217
+seen_titlehash:cf8e29249cba8926bc9653f887996f804972a471bd00b95c9415a4fef2f71297
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss
+title:ben gvir mocks palestinian detainee over prison conditions
+seen_urlhash:5d70efef1f01ff36373533e07a75dadaa3dd31635c862993194f53e785abc5c9
+seen_titlehash:2c32960ee62b8407d2a44d3ac46b3e6ccc13c2cfa26bc7430e8122ef129a02c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss
+title:from sudan to spain between war and home al jazeera originals
+seen_urlhash:5d2ba15d3be87796b7858479871027faf04fe3f364939d918e4a108ee2fa4def
+seen_titlehash:374ae1fd58fb007b40eba8716511d5f55645040e2a2b2561594e53a29155890a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss
+title:israeli soldiers jailed over sde teiman walkout
+seen_urlhash:a584bb44e8bc3dfae601e47776881a888b8a2e460baf8f5b506d3c7f5eb10f78
+seen_titlehash:e08526a03ab82ebce198ab3e76a4b44405d2b8f0d772a1f2bd109c6f01940e42
+seen_reason:processed_not_published
+url:https://dw.com/ru/число-погибших-мигрантов-в-сеуте-выросло-до-72-человек/a-78207334?maca=rus-rss-ru-all-1126-rdf
+title:число погибших мигрантов в сеуте выросло до 72 человек
+seen_urlhash:f66c464349cf2c1325a5c56dc678fcc71219ce9d94196ef22c5b31de580af83c
+seen_titlehash:f7fdd49f4d4c3b897f8694c91893b47f1a327c97bf793c16eaae66b70ade751b
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-евросоюзе-заработали-требования-к-маркировке-ии-контента/a-78207083?maca=rus-rss-ru-all-1126-rdf
+title:в евросоюзе заработали требования к маркировке ии контента
+seen_urlhash:82b7c5deeaeb6438048c495838d730980c0207708996727c007523d2cc7ec3af
+seen_titlehash:e5ac7d80cfda4e2dc1f7a8883755e9ec2d20b82675c2400595b10538bdecc903
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/02/grand-designs-tashkents-modernist-architecture-joins-unesco-world-heritage-list
+title:модернистская архитектура ташкента включена в список всемирного наследия юнеско
+seen_urlhash:2c4345a37840867432251b9e90cd69609dc40d0e6758e2256bddb4ef6d522a9b
+seen_titlehash:cb4b9317d1d273c9428b062e3c187d8d82eecd4296da9f5f239c8f24280b805d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/02/fines-shower-beach-spain-es-team
+title:курение музыка и малая нужда 10 штрафов на пляжах испании этим летом о которых стоит знать
+seen_urlhash:7429748236791c44f2a7f2187ae015da0828821cbe657c908097b06c5a8b7e98
+seen_titlehash:81fac504f4d36842e7cf475ce50ff5b9367679e7660ae37dffc544aa9a7dc2b2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/02/sobyanin-nazval-vzryv-v-moskovskom-restorane-teraktom-po-dannym-telegram-kanalov-chislo-pogibshih-vyroslo-do-pyati-chelovek
+title:собянин назвал взрыв в московском ресторане терактом по данным телеграм каналов число погибших выросло до пяти человек
+seen_urlhash:3871bb0e974f87321b1e7f07b6afb052182f7b22786063a8372ed614c95bfac5
+seen_titlehash:60139e5639c16e7335bae400171455e0b6b0f626926d85d3756aba77077b361d
+seen_reason:processed_not_published
+url:https://ft.com/content/889c551a-88ab-451a-87f5-cdec65467a64?syn-25a6b1a6=1
+title:voters have had it influence of pro israel lobby group sparks backlash in the us
+seen_urlhash:018112478a4da6086834f89b6f6623bee318267c0db0420a6232e17563ef66d0
+seen_titlehash:f14ee21d64ee6dd01eb0be5ff4c88d6aec630974bcb625fd5831b1e4a7173a18
+seen_reason:processed_not_published
+url:https://ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1
+title:morgan stanley s ipo after party a wealth management bonanza
