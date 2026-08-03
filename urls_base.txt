@@ -31643,3 +31643,18 @@ seen_titlehash:3bd0ddf7a82bb45edbb295f391b16d37901e62976446e0d24f631440196c5bda
 seen_reason:processed_not_published
 url:https://ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1
 title:palantir forecasts greater demand from us groups for its ai software
+seen_urlhash:f2b6c52a21fbef152c428ff9d65d47db85c3a6a055b43207c51dd7887731a79c
+seen_titlehash:388011c7a70840b32a210ee6b3bc413eda38029525fd0eb459339e1b42a8d514
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss
+title:from donald trump to abdul el sayed us arabs centre palestine in politics
+seen_urlhash:aee93d1944eeb6fbeed9a5470cc6c69b5e45c51c444fde2579afd168e335cd9c
+seen_titlehash:105abdea309e476c4d6fda9f2200656dcef49e238292a716a016f031b207db86
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss
+title:tennis philippines eala wins first wta title fritz claims dc crown
+seen_urlhash:2cc76a82ae1f7ae649fea00276f1ad9d7d4b2df06a9c735356f49e7c4bdc18b3
+seen_titlehash:f0eba60888e86b073e398414e8f40e1485ca2d362eb04e821a7f24e9da550dc9
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance
+title:trump says us iran talks continue warns tehran faces last chance
