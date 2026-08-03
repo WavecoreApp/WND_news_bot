@@ -31513,3 +31513,93 @@ seen_titlehash:cdb710edb9b33ca7eaa116f357c9972ff464125ec4a714df0bd339955546ba09
 seen_reason:processed_not_published
 url:https://ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9
 title:how big was the american jpy intervention
+seen_urlhash:f6df084334088f827d7f168ca92c0026482e7a17433f96d1cb3007e6cf91119c
+seen_titlehash:6ebd32e5ee6294dfc7b19f2fdfe5341873d84ca0079764a2fd07bd38dbe87ad1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss
+title:us reports first two deaths linked to explosive diarrhoea outbreak
+seen_urlhash:24e9eb8d0df1f74d25f4a8cd243db0218414848038a017bb85bccf6912bd0258
+seen_titlehash:501e694f4b0acfafc5c9c6403ab412fd330ecacb4f55857da7f0458b121eac20
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss
+title:infantino opponents threaten non co operation with fifa
+seen_urlhash:da946a5422755093492f25caf5a7fc2c425e5aa14cd6e184a7bc96bb1ec7c960
+seen_titlehash:61a0825f9e80b7d199b8b95a797d1fa61dfff1b9347f312658cb53fec2e02780
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/falling-space-debris-iran-oman.html
+title:falling space junk
+seen_urlhash:74e7dc1ab38973693f432bdf0609537ac4c195f9d1a75ed222bf33bce8431a50
+seen_titlehash:4979cf16654697c0d39759691e95d98e3c83d76aa8405bb536abafb5f0ebf770
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html
+title:russian opposition politician flees to france
+seen_urlhash:a0b0311951fe858d0f846bc3a1f88c006beed7ca6e18021883c924381c5921d7
+seen_titlehash:31fe76beb5841bda459d00da867da2e4ee191498e6c80336d8034a446446f459
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb
+title:australia news live charges laid after alleged replica gun scare in sydney entertainment spot
+seen_urlhash:0c4b7956742f72be4aa8e6d75314195d62f6c85e5abb60a8f46f073653987ca0
+seen_titlehash:69a3ef7cc8dd32d3428b3231ffd2895599945031c2daea68f89d4fe388084dc8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss
+title:hundreds of migrant minors stranded in ceuta after border crisis
+seen_urlhash:7ff0e1bbc9fa88c701daa8fb0e474234df123a2a8b2f653292ce232743a3ff88
+seen_titlehash:01e847915a471c46f22c4e870c8496a300fbb48316af1c9412e708ea11082cae
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss
+title:survivors reach port after deadly indonesia ferry fire
+seen_urlhash:b5856106c0de6159cc65edec1e780ce7386a4edc8fb05a53a35146f5dc335656
+seen_titlehash:677cd262c9da73024d19dcdbe347fa3b7b14ca21686961dc4069823335f4b29a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss
+title:clergy members arrested while protesting at senate office
+seen_urlhash:674fe555a527ee9cd1de8f1e6aa4ee8362819c73860f5dfeeccd7e7324809546
+seen_titlehash:ee82fd0d46e06342582ca7af246788ef5eba333bdba58a86e38a3db22060dbb9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss
+title:trump says talks with iran are last chance to forge a deal
+seen_urlhash:68ec5260f3dd135ba8b8418ce65988af069446ec75750f951d58f8e18e4d0335
+seen_titlehash:7f78adb407a08b2324a9e499be7fbc933f31f2ba3c5e27ab0390d4366c1e581b
+seen_reason:processed_not_published
+url:https://france24.com/en/hundreds-flee-tigray-after-fighting-flares-near-border
+title:hundreds flee tigray after fighting flares near border
+seen_urlhash:bc260a72b043236c734b5fd064c46bd19f31ea747ce6074f3f46d30b38efe473
+seen_titlehash:755e8eef783c8066cc9e6a9551ebcd3944f0e4ac58bc1198745318421517e8a3
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk
+title:europe s record breaking heat sparks wildfires drought in france greece and the uk
+seen_urlhash:1a9da5a79251a53f8dc29985cee07421142267587ee6d4b87e27bce53c33412c
+seen_titlehash:f0c4aa9dbd915c3ea456fe1f264d25bcce503ace3fe66e49262abc4932635a79
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260803-trump-board-reassures-israel-after-objections-on-gaza-pullout
+title:trump s board of peace reassures israel after objections on gaza pullout plan
+seen_urlhash:dc61637b7634de7112f67786ce96457dc96914eb95be5b878fe6dd7117b246be
+seen_titlehash:88b4d96fbdff26af4a76dad4554ae14382d1c8043bfe1387cb3c2cd32cd60833
+seen_reason:processed_not_published
+url:https://dw.com/ru/угроза-со-стороны-рф-дания-усиливает-военное-присутствие-у-фарерских-островов/a-78224208?maca=rus-rss-ru-all-1126-rdf
+title:угроза со стороны рф дания усиливает военное присутствие у фарерских островов
+seen_urlhash:a8ce628abda9ab563b3ccda6c6507d4395ff308c90ed445570b30aa3253f791f
+seen_titlehash:593ac0c8ffb41d7bbf541a2bcfced99a750a72944fe1154584aca6017ab8ff6f
+seen_reason:processed_not_published
+url:https://dw.com/ru/bloomberg-нефтепереработка-в-рф-упала-до-минимума-с-2002-года/a-78224022?maca=rus-rss-ru-all-1126-rdf
+title:bloomberg нефтепереработка в рф упала до минимума с 2002 года
+seen_urlhash:556d2491b232c9ad88ebeaf1bb7af02f5573992355332c28f432b438ec61d466
+seen_titlehash:837228a01e343ad800341122f76d70da502082506750160c7feb0ba1ac00242c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/rossiya-izuchit-sbityj-redkij-portugalskij-dron
+title:такого еще не видели россия изучит сбитый редкий португальский дрон
+seen_urlhash:17bab68f157f5bfde692681a6aeada39c2385384ed6a821578cc56220ab6a15f
+seen_titlehash:8afcab0130ed42a114dcba19a7be7c1e6982869a0d93b1de4ba96b96889077cc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/sayty-rossiyskih-bankov-perestali-otkryvatsya-v-zarubezhnyh-brauzerah
+title:сайты российских банков перестали автоматически открываться в зарубежных браузерах
+seen_urlhash:2583317d189c680ecaa32a4b962f205576399dc06e5a5a43f53ec99ca13e1111
+seen_titlehash:ac9486713ea88c57a5cda704ab9b6aa14331cf7ce3a55f78a0effa2bd211b4cc
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/zaluzhnyy-ukraina-nikogda-ne-vstupit-v-nato
+title:залужный украина никогда не вступит в нато
+seen_urlhash:c4f3195674038a75f0d2dc27f9ffd297cb1efd718a758a1c661706843d93f061
+seen_titlehash:597742b8b4316e98a35000b628de7d73321aaa8397aba831d6560e0a578b61a2
+seen_reason:processed_not_published
+url:https://meduza.io/cards/ukrainskiy-dron-popal-po-plyazhu-v-gelendzhike-kuda-on-letel-ego-sbili
+title:украинский дрон попал по пляжу в геленджике куда он летел его сбили точных ответов нет но недалеко от места чп находится объект который могла защищать пво
