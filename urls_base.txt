@@ -30638,3 +30638,343 @@ seen_titlehash:6c27d1231d25d863ecf5e8ad3111c70869eef96e4762c2f62d6bb696e57349e1
 seen_reason:processed_not_published
 url:https://ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1
 title:team america yen police
+seen_urlhash:f0cc6668c22429c1e974cefff3bcc28529a6d81ec0c38d622bb07bc2010cefaf
+seen_titlehash:500ffada578dee2a7981c92b24b3afbe9b9d1384e5190c9d3a5570954dc1064a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss
+title:moroccan king s letter confirms naming of major highway in honour of trump
+seen_urlhash:32326ed433e3982b1f42e8d5c869a7d042f50b6466610a25bd6666f0c4d07f1c
+seen_titlehash:b16e470710764008dad31289794f73dd60e8fca525dced997e26865170db3a4a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss
+title:todd blanche formally withdraws trump s anti weaponisation fund plan
+seen_urlhash:caf994a18a461802d87b8eb3c8361f72516cf31cbc29aa0ad4fe4c4c8ea3f487
+seen_titlehash:c7fcaff7d4c11cae0d177580aa3366e33372924dba1ca9b1c31b0a8af48c71b3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss
+title:sudan army drone strike on court session kills 35 rights group says
+seen_urlhash:2b74a806a1f6036299c2dcc3d1304337686d37e58ec238f2c74a13fbb23c7beb
+seen_titlehash:cc9fd5bf8bb536e9d465139df846e167bc49bed268cd9293966f1e35ea25eb87
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html
+title:spain s leader is seen as soft on migrants but he acted fast on ceuta
+seen_urlhash:28f335a957fcd803d0c9681ff9347d0b11c3e55ab6cba64de32e63aa6d707f31
+seen_titlehash:cbe5209f9292afde68a43217064339438303d5deac0a36d1b99f1a683db61fa7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html
+title:iran says no current talks with u s after trump cites progress on the strait of hormuz
+seen_urlhash:4e8eaa8cf672b6876a66575a72a3f80632e5eee1e1c57b532d085489fb79eee1
+seen_titlehash:38a20483549d1ae13c2c330857b0bbb721f38402b8c700de8bd231170d7bf17b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html
+title:canada s westjet reaches deal with union to end strike by flight attendants
+seen_urlhash:434beb2bfa53d79a68021023a27236ec1270483c3cf26b6ef5f7cb407c9ca9c5
+seen_titlehash:50b83571fb704bc388251d7177961f3234ecc05ff43e008616fd515005513e88
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero
+title:nauru officially changes its name to naoero
+seen_urlhash:7b37f14fc5ca117ac59301d06f4c3c76cb756f864b0e2a592d8047a50148950a
+seen_titlehash:f1cc826cd64ae02d3bea44b7659b987cc0823a9662e032ab1f2765127086366d
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss
+title:who will shape post war iran
+seen_urlhash:15a9bef1e15d7a31b499a17711038b04a90698ebbd55bc9a001a8c0a3b582e6d
+seen_titlehash:6564db13bc8142df4507d91c3e1a10751bd979bf5d2982420b5f7e7fc61d9ee5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss
+title:palestine s new ambassador to spain calls for deeper friendship
+seen_urlhash:fc1f69fdc14761fb526a655150dfe1dee4aa8d337c2646ec935f9b7f20feb78f
+seen_titlehash:873b425da59b29539d00dc796c308ad2d195aad20c40bfdb213e09d06e610f58
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss
+title:pakistan administered kashmir elections and protests all you need to know
+seen_urlhash:9b8c59af8b874b28c9fad2818fe843f94c1c0e47fcf6b6689690afa024ce0f2c
+seen_titlehash:64d6c81ecaa3ec3e89c6b4dce830312da0ed3a16c6bbe911220fc841a610a112
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss
+title:ukraine strikes russia s biggest retailer again
+seen_urlhash:4ed29d81409fa70bc05e67955e765950da1e3d414068d2c75c08fa15cccc5e73
+seen_titlehash:508c518cd3d4089e5fe0ddcc65def815b31c27370275ad94dd69986d88d6b8b5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss
+title:israel defies trump s peace plan as it escalates deadly attacks on gaza
+seen_urlhash:14f4e9986b44a711278a8794ac467f12a6a5c2c90069a948d163c3b8afaa6d7a
+seen_titlehash:6c4bfaf124ee6d047e00c28e84f4a913325c420bdac028f7657570be32f08515
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss
+title:us cricket player reddy receives eight year ban for match fixing
+seen_urlhash:a5983fd7d088a301fc8f1413706cd9f2b6c8fc09bc304778ef3d3f41b17b5159
+seen_titlehash:352c191c3fc78c32e5129219ec20eed68773f136947316743d7f500366fbcc27
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss
+title:north koreans flood new tourist zone beach amid heatwave
+seen_urlhash:ac1adb672a5bb0679ea3571993e346c3573c45bc469129b3fdd66d38587a9f08
+seen_titlehash:c0cce12ee9803044e3d30b39a993b6a0e1979d9d0789757d17ea7a8b6730ef04
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss
+title:first moments of egypt earthquake caught during livestream
+seen_urlhash:94263d2ebcb406cd646afb6e5c8b87eb21f18c79e68a4f52f8a448ad6004740c
+seen_titlehash:a3e956d7b2cbbb364198bc1334da5fe99c08f5dd7ecca2b288a94cb747f26bb8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss
+title:trump says new iran negotiations starting what we know
+seen_urlhash:6c5df720d8c4f9e744cd5033801574fc8016e20e24a8d050a974d0c71de8ca7a
+seen_titlehash:dd6f69c7d40b903ece62493d2bf39238f9699c1f55b3dcc269ad68252b1d3145
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss
+title:wildfires still burning in france and spain amid fears of more to come
+seen_urlhash:a2906c493a5e41ced3bca12ec3e7ea43d98f565cc0d3df2e1e6885d70ae0d999
+seen_titlehash:640ed89c3662dda58d8fdb8a770ad3ea9d17654b747c16054764da986142d5f9
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss
+title:dangerous summers how heatwaves and wildfires change life across europe
+seen_urlhash:e1703b89861d7bcd8a780b09fd0e144db37c088e9821b1693a6eb33c685ae581
+seen_titlehash:42ad03b04f5b92698ae1c9355374ccdbde6f4cf7244a2c7655114435ed362402
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/he-had-a-lot-of-profiles-the-rise-of-online-drug-facilitated-rape-gangs?traffic_source=rss
+title:he had a lot of profiles the rise of online drug facilitated rape gangs
+seen_urlhash:4fb3ddf406af21609075f6afcb84ebd928a77fbab39d003a13f29848c9f3ed1d
+seen_titlehash:cd5ed34be2ff7694c897c68b8963dc094b665f1a3367bf9955de48515886e756
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss
+title:myanmar releases first images of aung san suu kyi since 2021 military coup
+seen_urlhash:245b92ba2a6cef67000a476ad6481176e2add3a80b009a1d8668b21af1012ff7
+seen_titlehash:9ee3b34316a5012efab49de42963c10230b62efa73ae624a2455557e988c2952
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss
+title:australia warns h5n1 likely to spread after first mass mortality episode
+seen_urlhash:be39304e755ac66c97ca16a46d368b3b6381209c3706059516965c5ea36404fc
+seen_titlehash:c672422af05a7cbbf762226c46f0ec1d1dbbb526d1a3b39ef39ea58462952c2e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss
+title:who is jordan salinas hero bystander who confronted idaho shooter
+seen_urlhash:bcb0cea254681f5799166a0dc9878a3309c680d81c79da9665aa82ffcdc323db
+seen_titlehash:e8f224c19a4148c50569129ad689aa706411c097a046c009b7f14fd2812e947f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/son-of-myanmars-detained-former-leader-aung-san-suu-kyigives-update-13569395
+title:son of myanmar s detained former leader aung san suu kyi gives update
+seen_urlhash:f445118469b1ae8b066c889b1b8e91e2e0bba8b099c3b03904263d6d6c89e71c
+seen_titlehash:db08b105d6eb1d839e86ee4915bc285eec5a4e1c02902f4406209bebdbf89964
+seen_reason:processed_not_published
+url:https://france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant
+title:amid a drought and soaring temperatures hungary shuts down its nuclear plant
+seen_urlhash:94e35e3a9f135da3445700742196a88bd2b3e1fb3d7f2f54ab8a0998f2ce370d
+seen_titlehash:5a8cd1a4401583189cd6ac07b0d643fe9d0a09aec4ca2e2bc985e7ee8dcf7817
+seen_reason:processed_not_published
+url:https://france24.com/en/ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-to-stoke-fear-for-votes
+title:ceuta migrant crisis far right govts ridiculously using these images to stoke fear for votes
+seen_urlhash:28ead44f375b8408b446b165180445291d0eafaa4f734166e6c4650af7d6c983
+seen_titlehash:f03e339518266b14721c5db5857200508da508036fa0c119a2d69001a5d234c2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260803-ceuta-parents-gather-at-moroccan-border-desperate-for-news-of-their-children
+title:ceuta parents gather at moroccan border desperate for news of their children
+seen_urlhash:4558d6e6fd54bc685555f6ccc196c47f4aab39e84e183d2a51054bbeeeaad255
+seen_titlehash:5a786b85e1f0d49054633c3aa0c2a2204bc61bea337cee13e7b2b8bc0a17af93
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260803-spain-expects-solidarity-as-it-grapples-with-aftermath-of-ceuta-migration-surge
+title:spain expects solidarity as it grapples with aftermath of ceuta migration surge
+seen_urlhash:83ecd40aa4b4c0141eac571d431348a0182f77b879a5ab1cc0e7f91be74bed7d
+seen_titlehash:ef7bf311964bbe708a337d95bc447d09f57f17a91fdcabb6efda9d6787656c5b
+seen_reason:processed_not_published
+url:https://france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island
+title:cuba could collapse here s what trump wants
+seen_urlhash:05c50349ecbe508eadaa0631c47c9ac9c9b6eb9444d8f5b4a7ece92f5609c7e1
+seen_titlehash:7728f0f814573467bba516a444d7ffabb497e160a8db19c9d02ec3addf9b0d56
+seen_reason:processed_not_published
+url:https://france24.com/en/after-the-fires-france-s-southwest-reckons-with-their-economic-fallout
+title:after the fires france s touristy southwest reckons with their economic fallout
+seen_urlhash:11ae2d72e58bb59a86495612b77d7183399acd9650c7b41fd06266a3c201afd0
+seen_titlehash:e3d9ebca4464ca4340630f4d81f7aa9899ff9bb153ac5f6b7b45f626a097d280
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260803-french-court-rejects-pro-kremlin-commentator-expulsion-appeal
+title:french court rejects pro kremlin commentator s expulsion appeal
+seen_urlhash:dc226aa0eff94a0449d93d34a746b6f50843d1cf4dfb9bdc21fd1e27e040320b
+seen_titlehash:535476df87db3b85362f69dfaa83edd37a45c600610184f827fa48e0e89adcde
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid
+title:it s going to be a very close election brazil s lula launches fourth term bid
+seen_urlhash:2b00814682f88c0a0df7c725827daf4c015c28e9fed4aaccfe32ea8bbd1919d9
+seen_titlehash:eaab77d6ad56e52feb025b2b6cf9e1dc750aa8ac140bc9048ea49ca9df3a56ac
+seen_reason:processed_not_published
+url:https://france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty
+title:for his seventh election campaign brazil s president focuses on sovereignty
+seen_urlhash:3544b075aad5832e9fdff2f3c1e15dffdb2a6c9e6021a9c9e6add70330806aae
+seen_titlehash:4191372d6cef8e3966278c6ea2d6c1343ad8ef06bc6b3547b5cf1bd18e9d7a6b
+seen_reason:processed_not_published
+url:https://france24.com/en/virulent-wildfires-raze-entire-neighbourhoods-in-washington-state
+title:virulent wildfires raze entire neighbourhoods in washington state
+seen_urlhash:faa13fe6521dd84b4163738de6a41ca5f742fe4703056f332ff2324288c833c0
+seen_titlehash:46eaa861cea751ec04f9631221b46ebbde86df3a26877d74cb863a1c728a4091
+seen_reason:processed_not_published
+url:https://france24.com/en/how-did-nearly-700-000-euros-in-cash-wash-up-on-a-sicilian-beach
+title:how did nearly 700 000 euros in cash wash up on a sicilian beach
+seen_urlhash:0456a3a4f119dda0abd4c6789b42dcf731721a4e0148fdb6acd2fd0a92f119da
+seen_titlehash:be5ef797a3c321151840c3ad025875803c5eea7fdf81ae4b3660dcdd55e1e4b9
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260803-us-israel-agree-to-pause-further-strikes-on-iran-after-weeks-of-violence
+title:us israel agree to pause further strikes on iran after weeks of violence
+seen_urlhash:5a48f027172359eccdfdb8be4dd8c6f72ac366b59421d353ff938c6418860f48
+seen_titlehash:d4c1495f62b35b0deebb757c30d93c8cac0aab92fb387299e2630b65b8584819
+seen_reason:processed_not_published
+url:https://dw.com/ru/от-евразии-до-снг-как-молдова-отдаляется-от-россии/a-78215806?maca=rus-rss-ru-all-1126-rdf
+title:от евразии до снг как молдова отдаляется от россии
+seen_urlhash:c67b10c3f2129a7f6e338a17a3a414298b720fbb661dbcd86619cc029f9242ad
+seen_titlehash:54387c81acd40e513d276ba182c97b7f4c41b049d9c1fd01561c67cf5da811ca
+seen_reason:processed_not_published
+url:https://dw.com/ru/политик-борис-надеждин-уехал-во-францию/a-78217118?maca=rus-rss-ru-all-1126-rdf
+title:политик борис надеждин уехал во францию
+seen_urlhash:717d3f85c294c176fe6fd97b37df4ecf9072116d55f37b0c2f5ddb97fd639562
+seen_titlehash:251855079799b1698c38a3db33636cf33b1d7095ca78c4afa7425f416318bacf
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-германии-встал-на-сторону-авторов-в-споре-с-ии-сервисом-suno/a-78210129?maca=rus-rss-ru-all-1126-rdf
+title:суд германии встал на сторону авторов в споре с ии сервисом suno
+seen_urlhash:457b86411354424d4c9afd5ced9ebadad9c5810d641955b797b3253ce499f819
+seen_titlehash:cad20d3c0787a0fd48e6bec89c891794dcdbb74f3f12097ea30e8c84e01ef73c
+seen_reason:processed_not_published
+url:https://dw.com/ru/ft-ущерб-от-пожаров-в-европе-с-начала-2026-года-превысил-3-млрд-евро/a-78216146?maca=rus-rss-ru-all-1126-rdf
+title:ft ущерб от пожаров в европе с начала 2026 года превысил 3 млрд евро
+seen_urlhash:80e5f9b4387f3ac629d4326ac44e58332af73ae0c7d402b9a07c156399b60f8f
+seen_titlehash:6a81306ae2f8f6b303a295daca0adf5736fc370e23bd4c967278eaf08648eb5e
+seen_reason:processed_not_published
+url:https://dw.com/ru/христианская-церковь-и-квир-как-они-сосуществуют-в-германии/a-77992510?maca=rus-rss-ru-all-1126-rdf
+title:христианская церковь и квир как они сосуществуют в германии
+seen_urlhash:5e9fb8b10ef1cf2dada1f9ef650319d4e822656a7c9a133a108e22941a0e46ae
+seen_titlehash:bd92c1c3825bfed795392329811a4161b579bb9aae43c7e128b13de5055a5e04
+seen_reason:processed_not_published
+url:https://dw.com/ru/низкий-уровень-воды-в-рейне-власти-призвали-к-созданию-оперативной-группы/a-78214194?maca=rus-rss-ru-all-1126-rdf
+title:низкий уровень воды в рейне власти призвали к созданию оперативной группы
+seen_urlhash:df3507ad6807ea5dffe5a4fb4864b8e2b6e055660d76249ed9c61843aa444bd7
+seen_titlehash:bda1cd502ad9b9a95c51236c8ff3358d5303e404e15dd9ab60b7d2f05e979427
+seen_reason:processed_not_published
+url:https://dw.com/ru/forbes-потери-селлеров-wildberries-могут-достигать-280-млрд-рублей/a-78214022?maca=rus-rss-ru-all-1126-rdf
+title:forbes потери селлеров wildberries могут достигать 280 млрд рублей
+seen_urlhash:9e8d11ef48bf1af8b722fe5b082ad9f6258a9173c0a7eee9dafddca6726b38ce
+seen_titlehash:9ffcee4cf4999d06db3d0a1e01c0cdabfb51cb49c9c88d5fc7a1f5fc2b715fcb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/03/forget-proteinmaxxing-less-protein-could-help-healthier-ageing-new-study-suggests
+title:меньше белка вместо протеинмаксинга может способствовать здоровому старению
+seen_urlhash:267bd4565fab3f4cb8df670d24d4b630c6c252adbb09e3c73cca77a26ab1151c
+seen_titlehash:a00dc0a7d382645a4d463a3dedbfff4a11a31733a919d40ee9c30b085e775ab8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/03/v-rumynii-vzorvali-skalu-v-nadezhde-napravit-vodu-iz-obmelevshego-dunaya-k-aes
+title:в румынии взорвали скалу в надежде направить воду из обмелевшего дуная к аэс
+seen_urlhash:778f5906bf5f50a7f2643f2cc94a5a89eec1e7d39312a90edc65bd6a1471f23f
+seen_titlehash:4605520e0134d97b505b8f1aa25fa4f4252fc377f05327b968081820951dfa70
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/italy-heat-wave-monday
+title:рекордная жара в италии в 25 городах объявлен наивысший уровень опасности
+seen_urlhash:d55f010dbd9afe6ba384e10267b31858d04ec286ace86a0ba4685a2d69a221e3
+seen_titlehash:7120f110b899da4261c3aacb74e84cd801512f6c677003ac9e10e319f8bf76e4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/fires-in-gironde-tourists-cautiously-returning-to-campsites-ru
+title:пожары в жиронде туристы осторожно возвращаются в кемпинги
+seen_urlhash:99e366800c51c4aa4d50f831e5b2c508501e195d14523de2d036d2e5729c4fea
+seen_titlehash:adbb42e92f5859e458c0012c2546ca9088ed35ed93e7ae32975ff5f8988c9b2c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/03/matignon-strengthens-control-during-the-acquisition-of-sensitive-companies-by-foreign-inve
+title:матиньон усиливает контроль за покупкой чувствительных компаний иностранцами
+seen_urlhash:6e99fc0a5491903682c8e3b6dfb104b937bf68fa9caed3162a203de6b0212cda
+seen_titlehash:0c549bbad98a69299e64e8aafd680d7e90e684290c51ef289b7bd0bd11c8e6a1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/03/the-annual-bridge-diving-competition-returns-to-kosovo
+title:в косово вновь проходит ежегодный турнир по прыжкам с моста
+seen_urlhash:f59583c8f4e2cd7fdb7dfeedcba736ec4008f19c0b3eb72c5cc5e20a5e88684a
+seen_titlehash:21321a224a392ffae41786b0cf88ba69c840b7746c3b70b6d9f1a84b9bbf92fa
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/03/trains-over-planes-the-european-routes-where-rail-is-faster-than-air
+title:поезда вместо самолетов европейские маршруты где поезд быстрее
+seen_urlhash:c8925376e82c28c315e6a4e8ecc2b1d2aefd00446948264be8330a3b0bd740bb
+seen_titlehash:ec7301c20b7b710039db63a0fa88e0963f031e777f68bcf8bfb23fc21107c0dc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/03/this-baltic-state-was-recently-named-the-best-place-in-the-world-to-relocate-to-in-2026
+title:эстония признана лучшим местом для релокации в мире в 2026 году
+seen_urlhash:0da21bb15017a9b95c6bdca65e45b767a7d8dd59cb1b341ac39eaa1adf9254b1
+seen_titlehash:0d2197649c29b2506bef564a982549e6480d6b8f7e82a294acc5034175d68119
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/03/second-tanker-carrying-qatari-lng-hit-in-hormuz-within-a-month-as-force-majeure-expands
+title:в ормузском проливе за месяц подбит второй танкер с катарским спг форс мажор расширяется
+seen_urlhash:d4ee0553d8182d939c3e000d9a04e617bd3699f4b84fd602f0bf73c18c00bc9b
+seen_titlehash:f43758444127f7bf80768fc1d8d4d046a3607a699307ecfc6bcdff99721e799f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/03/you-literally-cant-ai-startup-orchid-sparks-backlash-over-its-second-brain-assistant
+title:ты буквально не можешь ии стартап orchid вызывает критику из за ассистента второй мозг
+seen_urlhash:2b2a8e9f110c610d022f1f0bceb619a7b5e096231fc11adccb438247b16918a7
+seen_titlehash:c3172866c138ee5d3f37c44ab9d3569793754e74e70c2b57f640a6947e9e9fdb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/liechtenstein-cyberattack-information-stolen
+title:лихтенштейн хакеры похитили данные из реестра владельцев компаний
+seen_urlhash:8dd991538d2b1bb08d61d516a8288da6673279ad636a9a0686b7c00653609885
+seen_titlehash:78fa97443814a40a9f836c975dd201d67777c73d48352a1b613cb25c876df5a2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/03/major-oil-companies-reap-profits-as-us-iran-conflict-pushes-energy-prices-higher
+title:крупные нефтяные компании получают прибыль на росте цен из за конфликта сша и ирана
+seen_urlhash:560af0a343ecf12077f4cff0dea506642c8c9641478e77d84624cc8628fd0924
+seen_titlehash:ed38e376ab01688b35989f42e6249ef87c816ca02d582d307cdb8f5272bc62ad
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/03/cuba-fourth-blackout-this-summer
+title:на кубе произошел четвертый за лето общенациональный блэкаут
+seen_urlhash:4d58a0c095a8f817754ee65354c6ac612ae2a3c00964a0feb52935f103c482ed
+seen_titlehash:55d626bd7e69effb48b64ac1977a74d9b213a06ecf37040eef54d4c809d8809c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/greciya-borba-s-ognem-v-zapadnoj-attike-rassledovanie-stolknoveniya-dvuh-vertolyotov
+title:греция борьба с огнем в западной аттике расследование столкновения двух вертолётов
+seen_urlhash:4e986b56b370cdfa38cff652fe9d55b94264f5ac03c7556e73bde92f67ee8e61
+seen_titlehash:109833d036a64a6fd33f85eba4277f8c6d56133d10b01e678d632167f3d201ad
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/03/spain-ceuta-monday-update
+title:88 мигрантов погибли пытаясь попасть в сеуту число сообщений о пропавших без вести растет
+seen_urlhash:aeb11b642a916e83410f2eb5ea9f28dc060aed4a2e911956b29e865df3068ffc
+seen_titlehash:3283c4eba13efb5462d7b166a0224b3ae212197fa962f49c97b1c150244a35eb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/03/video-shows-damage-after-naples-earthquake-injures-26
+title:видео показывает разрушения после землетрясения в неаполе пострадали 26 человек
+seen_urlhash:6d04e09481bf4de3b7c49f4ebad2da564dbba6234ee424b1fdf7edc5e4b03654
+seen_titlehash:f75cec5c3fbb459e7e0e0c4dc82192da9ec4d2cf830c10302857d18a05362749
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/03/za-dva-goda-na-rossiyskih-generalov-sovershili-ne-menee-shesti-pokusheniy-v-tylu-troe-iz-nih-pogibli-vot-polnyy-spisok
+title:за два года на российских генералов совершили не менее шести покушений в тылу трое из них погибли вот полный список
+seen_urlhash:2f68d88814705ac7faa79d5e54c153e8f83872873a87be156a23b9601ec86325
+seen_titlehash:b4afeb592beef3acc6ea860f9de7c34997f0bebca520276acbec74926ed969e0
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/03/pogib-glen-hansard-muzykant-stavshiy-odnim-iz-simvolov-irlandii
+title:погиб глен хансард музыкант ставший одним из символов ирландии если он шептал то так как будто рядом никого если кричал то так что тряслись стены
+seen_urlhash:48b1ada3277c8b24e5e26fbef10c60cbcb0dbffa1228de903e2d1b98a0e8a8eb
+seen_titlehash:ed0cc8d346b85cda65a00c33040a7df1ca2bf02c40d8e370aaf49a75db2c5871
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/v-gelendzhike-ukrainskiy-dron-upal-na-plyazh-s-otdyhayuschimi-sistema-opovescheniya-ne-rabotala
+title:в геленджике украинский дрон упал на пляж с отдыхающими система оповещения не работала
+seen_urlhash:d619e448fc9d76219269adc1c3a994539d2033504c826126741c61dd8ff9224e
+seen_titlehash:f1689fd3751daf8423a80e9a33d15a6bb701f3f69e048b939a920c9d75eb7cb3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/v-krasnoyarskom-krae-rezko-podeshevel-benzin-vozmozhno-iz-za-vizita-putina
+title:в красноярском крае резко подешевел бензин возможно из за визита путина
+seen_urlhash:48caa7bad4625f4a942fbda62ed8cb3ffd7d67356f92c760bc28b454bb126457
+seen_titlehash:5f4e5fbe8c068c6059d2f8e672a3150101bd2e678954276e8ad6d6712d727657
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/rustem-umerov-peregovorschik-s-rossiey-i-ssha-stanet-glavoy-sluzhby-vneshney-razvedki-ukrainy
+title:рустем умеров переговорщик с россией и сша назначен главой службы внешней разведки украины
+seen_urlhash:0b0021ee3a3a3567c7eb42ebde15ab640a2e3fb4d04e8b0ce3140d9195f33148
+seen_titlehash:f0ca81bb958d0aadff005d6bd6678580d5dcd3d43d5a0f3c07fd935cd0b70fd6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/boris-nadezhdin-uehal-vo-frantsiyu
+title:борис надеждин уехал во францию
+seen_urlhash:c13af907cf7b68ac738df3dd31c0eeb6114c2ec830b92099bf86feef5f5315f7
+seen_titlehash:fd128199f4e2a7c423c8d51e1ad00fe464c3e65ec8585ba9e63e886600977d06
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/03/kievskiie-terroristy-hoteli-pripugnut-italyantsev-rabotayuschih-v-rossii-mid-rf-o-vzryve-v-moskovskom-restorane-balzi-rossi
+title:киевские террористы хотели припугнуть итальянцев работающих в россии мид рф о взрыве в московском ресторане balzi rossi
+seen_urlhash:90926d25766f337adf011dd097b7502ae29d3c7bc88276383b02f3cc7bb40312
+seen_titlehash:cae14237c862d16f51cd0df74aff0b337f95c062ad83c25bed244eb859e62aaa
+seen_reason:processed_not_published
+url:https://ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1
+title:football has given europe a rare geopolitical victory
+seen_urlhash:cc316a64fcea4a34a663d118645369605f37939c54a9fdf381d3b586eaf1dfe1
+seen_titlehash:ded394ad4284992af5becfcefce4ce3320daba87771fd57087872f83da628fb4
+seen_reason:processed_not_published
+url:https://ft.com/content/c519970a-dd04-4f4a-aa1d-3db1a3c9e69a?syn-25a6b1a6=1
+title:plurilateral deals are last best hope for world trading system
+seen_urlhash:82877584edecc4c4e90430d0c8459886e2e6d16491e9d59bed35827be34b113f
+seen_titlehash:e069c7193e81cc14df6205022fc3ce607d7021ec6ac41a74b56bd5ec13ee9fe8
+seen_reason:processed_not_published
+url:https://ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28
+title:reform s richard tice probed over alleged failure to declare an interest
