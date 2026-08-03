@@ -31603,3 +31603,43 @@ seen_titlehash:597742b8b4316e98a35000b628de7d73321aaa8397aba831d6560e0a578b61a2
 seen_reason:processed_not_published
 url:https://meduza.io/cards/ukrainskiy-dron-popal-po-plyazhu-v-gelendzhike-kuda-on-letel-ego-sbili
 title:украинский дрон попал по пляжу в геленджике куда он летел его сбили точных ответов нет но недалеко от места чп находится объект который могла защищать пво
+seen_urlhash:2f5f9f0dadc18815992037f5af9ed7157674a461293a1429b2dfb38b7e8c9962
+seen_titlehash:4d5b06c993f6c013fb50fd347a2ed7f50a6afabeee6e2271833d64fb81ab4ccd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss
+title:eu calls for stronger borders after ceuta migrant crossings
+seen_urlhash:e002fc55d7118e52d5452b468c12a47fc5ec47e2a37c05fb0824901c56c42478
+seen_titlehash:8fb96b5433618e7a90fba3d67b600576ff230d8d2ece86c6712bff138aa8ce37
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss
+title:migrants await asylum in ceuta amid hunger and thirst
+seen_urlhash:59d0867d746869765780d9f6da2924c672eac2520969c0e74e4d6930cdbb4fc8
+seen_titlehash:2d77461e86aa31cf90c84826e2d17f5eebca6fb644ce6c1485a82f46bad2f8b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss
+title:will israel withdraw from gaza if hamas disarms
+seen_urlhash:fa3a55c4062f95a2bec90f1919c721b27ca053e2c6246b36ca99e38940e816b1
+seen_titlehash:432bc96bcbf14af2614f8eb318fd3f8a6d8f676d4389a32c6c83f9f03300c532
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss
+title:el sayed stevens face off in michigan democratic senate primary
+seen_urlhash:ab0bd5d529d5954aa2f631d79b3c785f7658bcf62b25377a08f276d5f9ecfc12
+seen_titlehash:7c34c9786a353974975d67dc14d81af0b578bc01ec33299eeb30568058694657
+seen_reason:processed_not_published
+url:https://dw.com/ru/залужный-украина-никогда-не-вступит-в-нато-ей-нужны-другие-союзы/a-78224746?maca=rus-rss-ru-all-1126-rdf
+title:залужный украина никогда не вступит в нато ей нужны другие союзы
+seen_urlhash:233960289af2facf05d2a95786e332fba9772d8a77fb22aaff686ed939ade523
+seen_titlehash:884a337ba3672af36c0933603ce79430300d9b140942b503d1daa48e9d3a1686
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/03/moment-drone-strikes-russian-black-sea-beach-resort
+title:момент удара дрона по пляжу российского курорта на чёрном море
+seen_urlhash:32cd589ad9239154fce38837c73a4887d30a3466c7c39657ae237fd069047487
+seen_titlehash:ca765d0f1a166b9487f493185c1023cdef0ea79815bda26cd58fd431e55d3dc0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/04/bloomberg-pererabotka-nefti-v-rossii-upala-do-minimuma-s-2002-goda
+title:bloomberg переработка нефти в россии упала до минимума с 2002 года
+seen_urlhash:e91c1cd94c3d6d62633c627c796b730b1ae22b8afe0a684f78b956dab90500a1
+seen_titlehash:3bd0ddf7a82bb45edbb295f391b16d37901e62976446e0d24f631440196c5bda
+seen_reason:processed_not_published
+url:https://ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1
+title:palantir forecasts greater demand from us groups for its ai software
