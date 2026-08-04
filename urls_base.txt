@@ -32188,3 +32188,273 @@ seen_titlehash:b83fb19c4d77d48816afaaddd28612b719860a39583b8dc10db563cc5e933148
 seen_reason:processed_not_published
 url:https://ft.com/content/04b34467-dab0-4646-97dc-8c3d3e44e5e2?syn-25a6b1a6=1
 title:yen intervention us self preservation
+seen_urlhash:36534e694c213df4eeed408edbce60d62ce9e73c592cc1abbf2e98562ad789e5
+seen_titlehash:696ae5d79670865101348979a88f58477a21a15b50e9d9fc60803864b5b41041
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss
+title:more than 150 migrants rescued after boat catches fire in channel
+seen_urlhash:9b2b02b8becdb354c6d39043085e5ff8bd1411532cb08195ccdd56e9f2d1af47
+seen_titlehash:8c05f9965f8ac5de963bec3a225768491312211d8dc22eb1d177070bbe28c51e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss
+title:what will happen when a spacex rocket collides with the moon
+seen_urlhash:aaa3186e98bbd94da68aa29c84dd3e3755662b16fd2bea59cb2be7dba152b664
+seen_titlehash:e28884b1f14db8142a77c3cb8079cbc77849d4ccea64c687302c0b44eb1b77eb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss
+title:what is trump media s truth api and why is it controversial
+seen_urlhash:c9e664e1e11c74c5714f758616a35d27b813e25b8c236a5801f8c8e45d679ed2
+seen_titlehash:ec9d755ced683ae2107de283723a63f44aacc34f166a0a5fa865a539358dd61a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss
+title:arson arrest made over largest of washington state s wildfires
+seen_urlhash:13f471692487198a44aab466b5123fbaaafacd766c1a9c03f0b504e767506aaf
+seen_titlehash:1905098a2089ec5fe238b4bd172b3b157c6cdaf6f8924acbbcdd46c28ab0b8c1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss
+title:soldier kills four in gun rampage in russian occupied crimea
+seen_urlhash:cba1f88b1d841991870ba02a08a32f8d527546a3a7174f59142523e104e851db
+seen_titlehash:7306d6fcdf94921618e3fcb64c34adf3d205027e1e0531cd6c97be5aeedf82ce
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss
+title:deadly landslide hits ethiopia mountain monastery during prayer service
+seen_urlhash:dca45a234b0f502fc14a44bf4ed2dd5e5fd9f6bb4233a23dab5a1f50db4ae2c3
+seen_titlehash:047813451a9d5d9fb398494062e193ca705c292170109d6b1e52f2ad838f5287
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html
+title:russia turns ukraine s gas stations from social hubs into deadly targets
+seen_urlhash:539f980fe24241622ee40a1a3afcd10feaf4ce8053b2a06f6f80db375a2e4d42
+seen_titlehash:3bc03ae38a42289b10028623fa43e98f856094e53a7e0e4e0c62f295b9cf3dc8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html
+title:airport chaos delays as e u debuts biometric border system
+seen_urlhash:58c9559e3a27a3c52638898fa1d7721f9249ea9e3d7e10e6b2b3025ff6cd1dd9
+seen_titlehash:352de982c6d71bebd26f7081b20745a992b63c8a21ce645104604ae065e7ba25
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua
+title:colombia s elephant costumed anti corruption activist sworn in as senator
+seen_urlhash:59e9ac3e30d0f02aa638f4af142e6ab14f2874d60550da468d07a90049d4673a
+seen_titlehash:67bad3256ea49edf7e2479aefd97dc6018f042a38eb42db8c2f8622714a98db0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss
+title:tech giant palantir posts otherworldly growth despite criticism over gaza
+seen_urlhash:ebbdc5b0bbd2a435f2b63df0101f52ee8cd57f75bfa03ef1dea5c5fb895ab660
+seen_titlehash:b832e4c975afa3168dc1f43b44553f4be93dad5d899124620b21c0ea5a6d7bf1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss
+title:palestinian patients return to gaza as thousands still await evacuation
+seen_urlhash:7883a6bb743510577732a008cbed01375a6fb2696ad6b151ee8e2290a035605e
+seen_titlehash:1fddb9e9a2c16eb552ea215e0892973e0a87b5e646a60d17c764d4335970eb38
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss
+title:us primaries what to watch in kansas missouri virginia washington
+seen_urlhash:3a17f963f1ebb275ec4efbb1170e273b4d47755744d3f2d8603bebbf96295960
+seen_titlehash:348d0af36ca7ed568521afa25060a4118772ebdedd5316637da364cb90e49a96
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss
+title:cars burn in reported settler attack in occupied west bank
+seen_urlhash:e023671d6581b3e96f20ad46276eb1f30d9cc61c4aefd01411fa87e01fe78b1b
+seen_titlehash:98be2c6ef2cdda04e3e943f0b54a9bdd49c48e43cb21668543780c837a0d6862
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss
+title:we demand accountability for the beirut blast
+seen_urlhash:7ee72b324dc7975cf4628f617b0fef1bb19d9f025a651f4b62319fb63ff345d5
+seen_titlehash:7e6f79aac4626c90c50238f629e8f3f429aa45b194c352d3083df821aca4a72b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss
+title:us arrests suspect over spokane wildfire as tens of thousands flee blaze
+seen_urlhash:f9d3724b4fd869e861f771bc1943ea24c0ba7c4f390a1e26c5d9f06d7783bd30
+seen_titlehash:8dbe36d6dbe65df82d646f38c2a99e902fb90d57d37d288786eceece658bf94d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss
+title:nascimento ufc fighter dead at 34 after apparent heart attack
+seen_urlhash:ab67189c37a5574d74050402705226fe157e655c6dc848582696532317071329
+seen_titlehash:1c417fd53ba843fa72e60c3fcc9e0fd5a0d7a2ff73fac8167e0927cf4bec2683
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed
+title:nigerian judge kidnapped from his home by unknown gunmen has been freed
+seen_urlhash:bd44a0d78efb7c1d8799afe3bd7b8bfb7f482e513851b1d1ab73a6ca12944e15
+seen_titlehash:a2e4bb61c3d1ceaeef7e45e2474feaec638e3bab2a32703731380da950951545
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260804-157-migrants-rescued-after-boat-catches-fire-during-channel-crossing
+title:157 migrants rescued after boat catches fire during channel crossing
+seen_urlhash:958dab38c4d9b787491d90c1d8502e9f28e6e769d23b11f5306dd0b3bacc046c
+seen_titlehash:295f91dd547e2bafbfcc6ea097a50ad955c75e0fd6e84cc6ef08e32e303bb4b4
+seen_reason:processed_not_published
+url:https://france24.com/en/trump-s-announced-breakthrough-with-hamas-fuels-growing-discord-with-israel
+title:trump s announced breakthrough with hamas fuels growing discord with israel
+seen_urlhash:56d47c5c3de4177e6939b9197504f8218b683a0c4abf8f6dc4e4521f7ac5ce69
+seen_titlehash:a4405fe3a81f68cefdd46c4945433196998f4772ae7181b225f562febbb2f8b7
+seen_reason:processed_not_published
+url:https://france24.com/en/who-are-the-immigrants-that-remain-in-spain-s-ceuta
+title:who are the migrants that remain in spain s ceuta
+seen_urlhash:a722804ae0283e594a1c0d61b29f3cb4e68cc7fc8d41ba6adca681a1c867dd3f
+seen_titlehash:77c46b51a38aadf168c9e695cb561393e9f2a18a8b827a79f97d0ea341310732
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260804-ethiopians-flee-to-neighbouring-sudan-after-renewed-conflict-in-tigray
+title:ethiopians flee to neighbouring sudan after renewed conflict in tigray
+seen_urlhash:6621ca22bfc35acf666b1136d6de55a08695227bb44ca8191c40ba0e4b73acc6
+seen_titlehash:a17c95138dd9454ac09baaf4f7ce4d5bff8fa44e2ce402b595e6dc4fee6e2e5c
+seen_reason:processed_not_published
+url:https://france24.com/en/greece-s-wildfires-claim-lives-as-firefighters-struggle-to-contain-flames
+title:greece s wildfires claim lives as firefighters struggle to contain flames
+seen_urlhash:09b565fe5143316b7167be5b9f0bddd65a5611205841b327ae99d32c7e0bba1f
+seen_titlehash:5d9bab930b4ed175209053d41fe5aac72d37a62a1b0f6614e49fce6be7ced83c
+seen_reason:processed_not_published
+url:https://france24.com/en/arson-suspected-in-devastating-us-wildfire-that-forced-60-000-to-evacuate
+title:arson suspected in devastating us wildfire that forced 60 000 to evacuate
+seen_urlhash:bf560981abfd4f0b516192971ac496c472f1edec5a62cf2db70ef376ebb3355d
+seen_titlehash:7b19c1c5e534b54e6e32a4451a15acd4addebd53c47d8ee29ef5bf9fd6ab3f60
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2
+title:how israel reduced iran s historic rafi nia synagogue to rubble 1 2
+seen_urlhash:c2c2111d5403f5350b8cb90ffbf2c519d6ea152c3f2f969f64ffa0064a5c5b30
+seen_titlehash:f64528bb71376cfe2f82d1db132dfbfad29c5cf2b7eb506da423048c12caa73d
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-strikes-inside-russia-as-moscow-accused-of-increasingly-brutal-attacks
+title:ukraine strikes inside russia as moscow accused of increasingly brutal attacks
+seen_urlhash:7f86cb2735184e547547afb097354ef5049b77fc7a07a0b831f07fc9e758a897
+seen_titlehash:644f36b6e77bae38614ca755436694d6ce236dab6faaf59a27e0c994cc4528f0
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260804-at-least-9-russian-civilians-killed-as-ukraine-war-takes-its-toll-on-black-sea-shores
+title:russian civilians killed in crimea as ukraine war takes its toll on black sea shores
+seen_urlhash:8b9f7a4b4a9ef1323a8f1c280e422ddeb58c436b1b81b15a42fb6785983a9a2e
+seen_titlehash:295d5f4dbbdf1ce1b2a7b396f9a45f58240ef15cd3a59c8562be7eaf6fd9038c
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260804-michigan-democrats-pick-nominee-in-high-profile-senate-primary-amid-record-pro-israel-spending-abdul-stevens
+title:michigan democrats pick nominee in high profile senate primary amid record pro israel spending
+seen_urlhash:3bcaa086c350edd1b7c96b3999d315add5c418aa8d10ce49077e5012dd9175c3
+seen_titlehash:667192a83215373c439e21440f1c6295ab3afd57173991041b42d4c2a2d3d94f
+seen_reason:processed_not_published
+url:https://dw.com/ru/умеров-во-главе-внешней-разведки-что-думают-об-этом-в-украине/a-78228175?maca=rus-rss-ru-all-1126-rdf
+title:умеров во главе внешней разведки что думают об этом в украине
+seen_urlhash:61175f1813c330d8ea39a95af9cf1a019b6490ae90d5ec1b0cfc17c8f5527d08
+seen_titlehash:cde886f8484f440a42a4ace73c3825ea76331ba2b5f9ba314bca0cb88309f6ee
+seen_reason:processed_not_published
+url:https://dw.com/ru/рейн-сильно-обмелел-что-это-означает/a-18918732?maca=rus-rss-ru-all-1126-rdf
+title:рейн сильно обмелел что это означает
+seen_urlhash:0c03ff57fb7db2a46b0d760f5c646a09dfe471837867296cbf09da69db4882ef
+seen_titlehash:0dca22be35946eed58d8fb25b9fbebfd89d940ef9d85ebfcde2541f0dda31de4
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-закрывается-все-больше-пивоварен/a-78228276?maca=rus-rss-ru-all-1126-rdf
+title:в германии закрывается все больше пивоварен
+seen_urlhash:a52e23f7abdb5f01c877e7a11fb40d5d46aeb5f0246bff4a87b891519f22d493
+seen_titlehash:95babad218a372fdb7bd55b5fd19e8cc2cf684409bc147d91ad7caff7978e5a6
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-нидерландах-продолжается-лесной-пожар-на-границе-с-германией/a-78228281?maca=rus-rss-ru-all-1126-rdf
+title:в нидерландах продолжается лесной пожар на границе с германией
+seen_urlhash:a51c87b7df0370343984ae8451c3a8c12becdc25630fb6e51633fdddb4e5875a
+seen_titlehash:59769f0121df05ee13648433c8f2eb9fd819a88929d40229c6626c14b5916a68
+seen_reason:processed_not_published
+url:https://dw.com/ru/военный-рф-в-севастополе-расстрелял-сослуживцев-и-гражданских/a-78226963?maca=rus-rss-ru-all-1126-rdf
+title:военный рф в севастополе расстрелял сослуживцев и гражданских
+seen_urlhash:cd18ddd008fb9ba366de3e3d78b172a857a550fda3ba295f3dfc5418d76226f2
+seen_titlehash:ee9f17abc228f72e558418d2cbb1a297d9693cbf9e094315fe92f89db7e99f39
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-ввели-новые-санкции-в-отношении-российских-военных-структур/a-78226336?maca=rus-rss-ru-all-1126-rdf
+title:сша ввели новые санкции в отношении российских военных структур
+seen_urlhash:4f321aa337d832d384ef897acbb48f3b89e8f830f81cdd645dc385d4772d5b68
+seen_titlehash:cd8e1ae43e51923d48febc776ca2c80bdf8444f4ec785a8bba18f7eb2d9aa109
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/04/the-ebay-of-travel-you-can-list-your-non-refundable-holiday-bookings-on-this-resale-platfo
+title:ebay для путешествий платформа для перепродажи невозвратных туров
+seen_urlhash:42b2c63445155d1f107ff91be50c8e6a4668649309ce410a7c0eca27ad3f9ab9
+seen_titlehash:c08b0e0805a6f4c594065f9eb1a658f6634b17c7a85aa1d4ef0879a680901b3f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/04/seuta-reshaet-kak-byt-s-nesovershennoletnimi-bezhencami
+title:сеута решает как быть с несовершеннолетними беженцами
+seen_urlhash:3332586299b03b8d6dcdfdda0b18b8390851f40553121cdbf8fcfb10ac638b6d
+seen_titlehash:1fb54d8145d8a72152c65c418529b8042898fcaa849d26e3c984add47394055f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/04/bps-profit-more-than-doubles-as-the-middle-east-conflict-boosts-oil-prices
+title:прибыль bp более чем удвоилась конфликт на ближнем востоке поднимает цены на нефть
+seen_urlhash:1a82d8f784b3e2ce8a0073dca2ee28f395b66a80a337130618510e716056ed9c
+seen_titlehash:0aa71c9f3d845d0d8cc4b1bd7c4612f1ec4f08998c6605847cc95d9d2d0290e2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/04/everything-points-to-a-yes-ronaldo-and-georgina-could-get-married-this-weekend
+title:все говорит о скорой свадьбе роналду и джорджина могут пожениться уже в выходные
+seen_urlhash:45879c7336d3b2dece4ade86aa0d476c2ef0b4c36cce6cbb5a74d52341f44f2e
+seen_titlehash:a5e771ba953a74d01c4a7014958844c385552a41fa927bb8d00a7bae4b8dae04
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/04/freedom-safety-and-self-development-the-top-solo-travel-trends-to-know-in-2026
+title:свобода безопасность и саморазвитие главные тренды солопутешествий 2026 года
+seen_urlhash:8b21a006a4cf14f00d58140c4dadb671e42b35f01b3c609af7dea0ff77e8283b
+seen_titlehash:df5eaf48cd7af22c8d9973c549b449a6391063ca3bd1c7caef608d3e75c158b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/04/bartlomiej-kubkowski-swims-baltic-after-55-hours-in-the-water
+title:55 часов в воде поляк переплывает балтику из швеции в польшу
+seen_urlhash:7dfd1a6d390d14d57761ebc23e62d6d23dbdc86403aea4c2a89bd5c18580f400
+seen_titlehash:30018a28269441ecbb836458a0443a9b7e3a953f867e70dd10323afedd6cb4f5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/04/identity-of-new-007-good-bet-that-next-actor-to-play-james-bond-will-be-announced-this-yea
+title:продюсер имя нового джеймса бонда могут назвать уже в этом году
+seen_urlhash:3511830bc361b0137f6d3166173d59649e009c6ff143dc5a18c99b44cf47c9af
+seen_titlehash:8c6d808b8af9b807fb79769b07172fc0d812f4d87db45a05d32ee2b5324d17ca
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/04/iran-gets-last-chance-from-trump
+title:трамп дал ирану последний шанс перед обезглавливанием
+seen_urlhash:f63836f383500db4a684f50e05b2413e4041113e34ae078d626cd7e3ffc55e9c
+seen_titlehash:c6dfb31e0e56e2fb75b3f79d9ec2eb2f6c16d1da28c8ff79349cd7fdecf51f2d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/04/portugal-fashion-art
+title:как португальский портной сохраняет традицию пошива костюмов на заказ
+seen_urlhash:880af2ec41d7e6754a81d41ac9fab6e10219510b8380091b4623073d41daa909
+seen_titlehash:31b6c8276a7d2ed5a665d6b3e1a082910e1bf2d2551ad0b661a345e4c6cb203c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/04/gravity-defying-dogs-and-brooding-bovines-meet-the-winners-of-the-international-pet-photog
+title:собаки акробаты и задумчивые коровы победители международной премии за фото питомцев
+seen_urlhash:dc372bc20ebdac5546f97f2be743bfc93a31fa5489b0a2072966632416a98566
+seen_titlehash:702f0db07a355fe7f992d61a222fd0e0383c6dc268c94322b33ca51329aa67dc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/04/totalenergies-to-acquire-shells-wind-and-solar-business-in-europe
+title:totalenergies купит ветровой и солнечный бизнес shell в европе
+seen_urlhash:c696d9f3ca538591261f296e5aa461421b667c2ae5b553f499a9feb336f20127
+seen_titlehash:24cba753209d1c5160b069d66c728a1a5324c789b498b037e5c048a3a986ad7b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-a-trail-of-destruction-in-porto-germeno
+title:сожжённые дома почерневшие машины лесные пожары в греции разоряют порто гермено
+seen_urlhash:e6d6587fa87f088c1d6bdc9b0d861e4abad8d1f183f461a09280b9071d9bf99d
+seen_titlehash:2d089f381a4bd7ee600fd2777e1033cbde778c4ea928335ff3be6490bd05fec6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/04/sevastopol-soldier-shooting
+title:российский солдат открыл стрельбу по сослуживцам и гражданским в крыму 4 погибших
+seen_urlhash:bf85bb43dc427fbc582fc75b32dd0a6a26bd399ea8fa6728dab8c421209d448b
+seen_titlehash:ba4651ec893c81b3c0c89e714d56ced6c5ba274a66d5d08a2b253ebaf1390cb0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/04/sanction-in-limbo-how-the-eu-hit-a-wall-with-its-maritime-services-ban
+title:застрявшие санкции ес буксует с запретом морских услуг
+seen_urlhash:f9460debb24d5e232f15d82efaf88f99d4184d974c6ca5e7f266f7dd01bbdd32
+seen_titlehash:499cc74557c33d519994cddd370e31fd0269e213960dd5982050e8f77284fc67
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/04/how-the-uk-is-training-its-surgeons-of-the-future-with-robots
+title:как великобритания готовит хирургов будущего с помощью роботов
+seen_urlhash:e2666b26bf1d978bf83994f9542c33ded384308b5ea5f61433439a40d9d01fee
+seen_titlehash:b2cb7c271e5423058056bdf52c15200aeeb5c74d3e0d064109ce8dfb381a07ea
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/04/banyan-trees-new-luxury-mountainside-resort-in-china-features-hot-spring-pools-and-a-bambo
+title:новый горный курорт класса люкс banyan tree в китае термальные бассейны и тропа в бамбуковом лесу
+seen_urlhash:303243b6ef6a173fec618126481ce4dcb64e85a8efa707f154a5d9dce37d0f00
+seen_titlehash:874ae93c33fb12bce955529004b089cc7b6cf0a9068745066fe6b58df50e83f3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/04/rbk-rossiyskie-strahovye-kompanii-perestali-pokryvat-voennye-riski-dlya-gruzovyh-sudov-v-azovskom-i-chernom-moryah
+title:рбк российские страховые компании перестали покрывать военные риски для грузовых судов в азовском и черном морях
+seen_urlhash:9f8ba10792d7f7c8cc6c6331890636ba214059aa8d050c6488efb3613d56a0bc
+seen_titlehash:7954a5022ef2858c984099b7b3ddec77dc5f4134bdd1a99b86f4232dd7e9950e
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/04/v-leningradskoy-oblasti-posle-ataki-ukrainskih-bespilotnikov-gorit-logisticheskiy-tsentr-wildberries-fotografii-i-video
+title:в ленинградской области после атаки украинских беспилотников горит логистический центр wildberries фотографии и видео с середины июля всу атаковали уже 20 складов маркетплейса
+seen_urlhash:41b1c770f1b7ec2f843c915f6681dcea82960db3bda04aabd3bb324d0e62a119
+seen_titlehash:08f7c6b4cd1a60887bb73900f5adf1faae2f19e2deda3230c9bb0669cabe748d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/04/na-borisa-nadezhdina-uehavshego-iz-rossii-sostavili-protokol-za-intervyu-meduze
+title:на бориса надеждина уехавшего из россии составили протокол из за интервью медузе
+seen_urlhash:a2b654f09ab4bb3aa4772a71271001788c4f7e3159d76ba3872e93eac4b4ff8f
+seen_titlehash:e3b51c6a15f89639f787ec8cad498ecc83e2a3c6ff92104fc124e3597263662a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/04/edinstvennyy-proizvoditel-otechestvennyh-televizorov-iz-reestra-minpromtorga-priznan-bankrotom
+title:единственный производитель отечественных телевизоров из реестра минпромторга признан банкротом
+seen_urlhash:5feedd89dce230e2cadbe9a4d7431f7dd17d3cf8f8758a0b3e9386523046ddb0
+seen_titlehash:29992ffe0f3d8efac58356c30d8aeff2eb6838fd211a6d471ca79e5a6fe463a6
+seen_reason:processed_not_published
+url:https://ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1
+title:ukrainian drones hit wildberries warehouses in overnight strikes
