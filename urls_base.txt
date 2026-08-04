@@ -31658,3 +31658,73 @@ seen_titlehash:f0eba60888e86b073e398414e8f40e1485ca2d362eb04e821a7f24e9da550dc9
 seen_reason:processed_not_published
 url:https://france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance
 title:trump says us iran talks continue warns tehran faces last chance
+seen_urlhash:709b5576c99058e27e33e3824826306725ea9f69e885de319d9c8744d734320b
+seen_titlehash:5eebd5bba7b9e981da54cf5691c940162afe05f8e6fb2682fe4e21261b35320d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html
+title:u s sends flight with deportees to venezuela for first time since earthquakes
+seen_urlhash:3294eb7a1daed4fb7b3d4e3ae1b34434f853337f35b70429a8a3653e4e15874f
+seen_titlehash:3cf778decabdf1bd836e244bd3b28d613a9e2a7eb66772deaae0c2be0df31187
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/04/japan-earthquake-prime-minister-visit-recovery-heat-sanae-takaichi
+title:japan s prime minister tours quake hit sites as recovery efforts hampered by soaring temperatures
+seen_urlhash:40c39635328ba4d388b3ea425d20b38a59a5a73a3661ccae3ca21a22671d7ed9
+seen_titlehash:b55cce31bc58e76c0af28c37678307f8d02148449d3d2c13b3c9a2750a14c134
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/04/alan-jones-trial-live-updates-day-2-sydney-court-case-latest-news-ntwnfb
+title:alan jones trial live updates former radio broadcaster in sydney court for day two of indecent assault case latest news
+seen_urlhash:616bf0df31eacda669e967444d71dab9cd17db204a1474c4b4953c2c7e4c61e3
+seen_titlehash:8fb0add861d074665ce6f0c4bca703da9578527fb68270e6f9e48353546f5329
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss
+title:trump administration sued by 25 states over new tariffs on trading partners
+seen_urlhash:5e63a802f194a8057cdad381ad5ff8489862efb719571c3bdd75b54b122d7c19
+seen_titlehash:1e8fad96336a4fe302d21618fc8ed6109cf47d9f58b98eae15dcf8ecb97c836e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss
+title:iran war live tehran denies us talks as trump warns of last chance
+seen_urlhash:f1a378d32437b565a6ea1f60df7b5ed287a3ca8491cfcb302b3c242ebfe28ad7
+seen_titlehash:31d12a56da6c23d35b13e7e2486060f5084dc45f0bd6682b71b835384c62ca2a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss
+title:two workers who died in quake hit japan mall were sent in to get cash
+seen_urlhash:498c61fae308df6170d0a99d817a62c182969f4ed376add2c06443093ee05a8e
+seen_titlehash:6a43c099fe2e4ea227ba619b8f5a0322b579c1824019d5363a7328a285daa3c6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss
+title:death toll from venezuela earthquakes passes 6 000
+seen_urlhash:80ce731480782e6122820212b565cba2d0fffc3aee589eaeb5ab22e8548c98b5
+seen_titlehash:9700f47288fecd5922ac518a9879b6cd0c0ad8c92e6ff8e92ccab27af1f30f58
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss
+title:petrol prices strain us households as oil giants chevron exxon profits soar
+seen_urlhash:b0d30df29289e64e1ad84493a4f07c6ddef32bfec2cbf2051601d85ff6fa8a57
+seen_titlehash:5d89a5002361a01061b828915b376b92a8d3129101de2da9b17208ae19f0a865
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs
+title:25 us states sue trump administration over sweeping new tariffs
+seen_urlhash:8752958d7805dd3ab080088e9beb3e84f4f6048e76b119ac110ac81a151c4fa2
+seen_titlehash:3edcb7fd29bc8e90e984736a6fd276fa959e153621763e0ff68e6c3877f5ce83
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260804-us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-burn-in-spokane
+title:us northwest wildfires force 65 000 to flee as hundreds of buildings burn in spokane
+seen_urlhash:40113786cac6f8752e384bb17961465f0ab7721b196959e1f836f95466f75f06
+seen_titlehash:c9f1dda462ef7375e8b7259e2f7bcde04560fac2cffff6db6f026bedb320032c
+seen_reason:processed_not_published
+url:https://dw.com/ru/сайты-крупнейших-банков-рф-перестали-открываться-в-популярных-браузерах/a-78224776?maca=rus-rss-ru-all-1126-rdf
+title:сайты крупнейших банков рф перестали открываться в популярных браузерах
+seen_urlhash:0e79b6af4054bc1447a0c46ed0425a5b5a7c9125202715686a9dfdd82fd096c7
+seen_titlehash:05e1cc6af1b65a29f6b06bb246c192411c4e5763755677c96e728d8b652d10af
+seen_reason:processed_not_published
+url:https://ft.com/content/2c59d5ca-1a2e-44c8-add2-6eaf74f118d9?syn-25a6b1a6=1
+title:how the millionaires factory might shift under new ceo
+seen_urlhash:3cf8a53da38651f24ee93fe1d0f568bad9bb04b158a4146f89356a45da7f74ac
+seen_titlehash:523e6e6f926599b7e80c69e58cbebb851e628646743bc3848119e623348eae43
+seen_reason:processed_not_published
+url:https://ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1
+title:us states accuse trump administration of sham tariff probe
+seen_urlhash:4822fb3e71d50ce8d798eee115a039597e003aab9699f4f02c2575d4da32155f
+seen_titlehash:ae3165fbdeb3d143b7faf1c56998d40c9d49c9a79350a48fe017abf37f483f9a
+seen_reason:processed_not_published
+url:https://ft.com/content/96f5e56c-a8bf-44ca-8750-0448b19e0903?syn-25a6b1a6=1
+title:andy burnham bars serious sex offenders from early release scheme
