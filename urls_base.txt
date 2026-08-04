@@ -33463,3 +33463,18 @@ seen_titlehash:13f46bc00d93b775cdee0eae85a87363b1905938d0afe942d66b6872f7a7d946
 seen_reason:processed_not_published
 url:https://ft.com/content/7dc728e5-74d3-45e9-bae8-c2cd6284e136?syn-25a6b1a6=1
 title:india raises 40bn from diaspora to support sagging rupee
+seen_urlhash:74c209c90c8c3448ffcf189c8e3f34c61e67a418da28c67f7bb1e3e1215d2b02
+seen_titlehash:b8f087b09668c8cd26171c624d07cb8df6f7c52ef27f488fa123339b09e6b1bf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss
+title:armed man arrested near trump s golf course ahead of president s visit
+seen_urlhash:b7bb0ed9c67a7e698ff6939098326654355818a629dd0820c137ba1f7e3d1353
+seen_titlehash:a2500f9a27a23765d1f00417d40a610b882568bd25693d2d523992e27dd05d73
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/04/novosti-dnya-4-avgusta-2026-g-vechernij-vypusk
+title:новости дня 4 августа 2026 г вечерний выпуск
+seen_urlhash:1eebdcc55ac4e0bf9c67e9a7026942b47d7bdab460881afd88811333494e02d3
+seen_titlehash:8fc027eb7e846d41476e199acff0687e75b2ed18771d8213ef499e479a87a0af
+seen_reason:processed_not_published
+url:https://ft.com/content/42ddc5f7-d29c-4a22-a96f-f20ada108b53?syn-25a6b1a6=1
+title:us revokes visa for brazilian ambassador
