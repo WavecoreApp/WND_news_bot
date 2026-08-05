@@ -35378,3 +35378,53 @@ seen_titlehash:47b9ab0b22ddd89489bd495c97151df5e3e2dd1d4e573dc2c90f04a6e2ec061f
 seen_reason:processed_not_published
 url:https://ft.com/content/86ed4593-b369-4c58-aaa7-240bd48b5c77?syn-25a6b1a6=1
 title:us puts 25mn bounty on top mexican drug cartel leader
+seen_urlhash:0ab23001056c1efad261e1beaa08a83a704cfbaa2663750a2abb64859d72536c
+seen_titlehash:bef1a894d5cddcea05e6220fd2417a3900c04c02b54b6552f6260097854e2bec
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html
+title:c i a sets up secret cuba task force as trump pressures havana
+seen_urlhash:d83b89b5180f70baaeb6f65010f805d565f4b90f7abaa7a143d593b3643a0754
+seen_titlehash:635b95023ae2b5c3192bd481e6a04f9658c21b7d64ed53b019dfb1bb71078b7c
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf
+title:toronto zoo announces birth of pygmy hippo calf third for mother kindia
+seen_urlhash:c0a25099de08fa7aac0ca1b8886209818c72f260655d43c832676a553ab8e5e6
+seen_titlehash:3c54cec4d40abd423664de5b4d5dcb0007b07b6e3f15c4d8b6588538aa7a911f
+seen_reason:processed_not_published
+url:https://theguardian.com/media/2026/aug/06/news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop
+title:news corp subscriptions fall in australia as company takes aim at slimy ai slop
+seen_urlhash:bf372f50838d3d4723ed89c96675b4575fe5a78a0888847fdcf1deb56f08dda7
+seen_titlehash:20f7a0982e31c18a1ed07532942990919c7839ba69bc1729857e506a372556e2
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/06/ed-husic-car-accident-sydney-labor-mp-ntwnfb
+title:labor mp ed husic taken to hospital with fractures and concussion after car crash
+seen_urlhash:596f233ae4bb6b4f15990aa5a97537c0fe0fe89b9f7109d3b1ebd364b663ae47
+seen_titlehash:cae7ca583eb6b1de80539f2137c3681bd10832850b93aca0a2fee132e46c6dd1
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb
+title:man and woman found dead in outback queensland home after hours long police siege
+seen_urlhash:093a7c380c914d24c705ae628891979d91a2e2715dc7d6d9780181f52314b7c9
+seen_titlehash:e94603d80496543ac38f3bddb48e5f79beae831b97568e20fabc9a94d6eb339f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss
+title:erica schwartz confirmed as new cdc chief amid us agency turmoil
+seen_urlhash:bead9fdf6d582f3ff47724d6491634485d8aad7229683d5155409392450f7412
+seen_titlehash:4a182d5eadc4832374191c2af089de9407c7083731f4ca73ee693e05dbd4a002
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss
+title:israeli occupation destroys farmland and lives in southern syria
+seen_urlhash:7e7cdd31866738162403ac7b62d9d9312064f5abbb8ada8f2e856c91ca4503cf
+seen_titlehash:de579e7b1e083e3f6b22ce5f0917e2002a75af690ca8fa8f781687be7b771cf5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss
+title:us officials push back on reports of dangerously low munitions supplies
+seen_urlhash:ed768eb8c2e6e5d4652402b51a7c25f7d5b58bcdb3288079933b819f3471b6d5
+seen_titlehash:799811a8a9e99421b69ed142ee38a9432d7c153304a8fad18a9553da675e895f
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-в-рф-приговорил-гражданина-литвы-к-13-5-года-колонии-за-шпионаж/a-78258787?maca=rus-rss-ru-all-1126-rdf
+title:суд в рф приговорил гражданина литвы к 13 5 года колонии за шпионаж
+seen_urlhash:5c26e185de673e302087c515c17ea56168cd1883bdc65c1f1b4fadf1fa77aa2f
+seen_titlehash:b04195c37654a7e2caf43817cbdb4d1fa31f2412578c02ee8208b32ea68e04ed
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-москве-похоронили-генерал‑лейтенанта-игоря-ерусалимова/a-78258735?maca=rus-rss-ru-all-1126-rdf
+title:в москве похоронили генерал лейтенанта игоря ерусалимова
