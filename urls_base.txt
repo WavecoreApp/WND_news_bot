@@ -33478,3 +33478,83 @@ seen_titlehash:8fc027eb7e846d41476e199acff0687e75b2ed18771d8213ef499e479a87a0af
 seen_reason:processed_not_published
 url:https://ft.com/content/42ddc5f7-d29c-4a22-a96f-f20ada108b53?syn-25a6b1a6=1
 title:us revokes visa for brazilian ambassador
+seen_urlhash:de8b25e15f2c3148d98c0bff711fd34222a212552de0e7a4052c1e7e0389865e
+seen_titlehash:84ec2e508bd24c6fbda67af12773eee49e3ebe8c5426f3ad5d99bb02170f5cbe
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss
+title:russian ballistic missile strike on kyiv kills one and injures others
+seen_urlhash:3b857d650a6f5a39f9043238e410f473e890ff00dbd763cc05aa4b680d5eb639
+seen_titlehash:fd1d1fbb6ee617a0c7fe6a00f5fb70c17cb075b364a9755634ea6c4ecde289d6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html
+title:trump administration revokes visa of brazil s ambassador in the u s
+seen_urlhash:098022f2cdfc45fb182a5b83746e72a247f2402dec45aff3abd15eddc3025edd
+seen_titlehash:af96aaf81d442c6098dddc9ee0e7b3a2f9f4de4773e65bc527980f018faa2541
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb
+title:daniel andrews government engaged in concerning conduct but no evidence of firefighter union blackmail ibac report
+seen_urlhash:f7f3308f49816c6585092e433f100060f6b3eadc087a3f80ab548a112c99b42c
+seen_titlehash:68da60a587fb71c4172f232d0c41e38dcc1f9ac8a19a7bf84c70a28532c394f5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss
+title:armed man arrested at trump s la golf course ahead of president s visit
+seen_urlhash:b4be246173cd6283b797ee8dedff1ed908953435c48530a5dfee51c92d9b0e23
+seen_titlehash:e5d09832ffbbbe3fbc81ab19cb3858216366dda109229b4379f6498752b7c861
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss
+title:ceuta and melilla why europe s african border remains a flashpoint
+seen_urlhash:86d947953b91a610c9981d9db771e33559bd0b9d12653ce826efdcb041d60e95
+seen_titlehash:58dc8266666627d6c2b6e40f1235daa34cc516c88a345e73c9df5495c3908b13
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss
+title:ukrainian man chased by exploding drone recounts his terror
+seen_urlhash:578a0e009fa4b77fb32392ffdea83961aa1327bf7e9d143bb48d4461365ed6ce
+seen_titlehash:7815e4644a8cddfd88f2260d27b5a3660ef674850dbfb77f4df6990f66ee8bd9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss
+title:iran war live tehran oman talks on hormuz positive ship hit in red sea
+seen_urlhash:9aa37a654344725231879ef25b60d582a6b61ebcf7f174560e43a84068af430c
+seen_titlehash:f4b7d28de865e4091612bbf4433d47fa0e08257c059567e9d4a4027b6c446070
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss
+title:us revokes visa of brazilian ambassador amid deepening diplomatic spat
+seen_urlhash:c3d2842f8a43f9e0dff55f241a12b4f51e7755617cbd7727d10c84ee8745e254
+seen_titlehash:05f38c68593350e30d96bf82f39d2a3b14386633ee69300d117490d39b0b3ef5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss
+title:sri lanka shuts schools as floods and mudslides kill 7
+seen_urlhash:5ea7efe8d2fe039f0230641b5c96e5de62a490bdd79ca8c91a917936371b0111
+seen_titlehash:b2c8719d7a39e30c1225bc5d46fd0f505f23ecd0cf8642aab5e5a9fc78ec9e1c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss
+title:one killed 12 injured in russian ballistic missile attack on kyiv
+seen_urlhash:aa921f13fa9a580abdf50720cd0392c7a2cd49db9429281f96b769e115ae71de
+seen_titlehash:fe464b1cb361ec60602ba7d37f12625807a9b1aa46cccdb289274089fb25d222
+seen_reason:processed_not_published
+url:https://news.sky.com/story/americas-biggest-food-distributor-cuts-suppliers-as-explosive-diarrhoea-cases-rise-13569893
+title:america s biggest food distributor cuts suppliers as explosive diarrhoea cases rise
+seen_urlhash:2e50d145988fe84f3d3a660671bce1d3a6cf6fdd294084b0f0605655e9c8df45
+seen_titlehash:becc2ff034da02e06cdea9895e22cf31f13246c218505b4ce1e8cd6968a8e324
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260805-armed-man-arrested-outside-trump-s-los-angeles-golf-course-before-presidential-visit
+title:armed man arrested outside trump s los angeles golf course before presidential visit
+seen_urlhash:17adeb2fba5770b05ef961daf0c1ef208cd87f51769bba4556da826bee62df7e
+seen_titlehash:8984945dd8778668e84652181e6b8f8ec4a9023e025e4530e9344db74bc3acb8
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260805-us-revokes-brazilian-ambassador-s-visa-amid-escalating-diplomatic-dispute
+title:us revokes brazilian ambassador s visa amid escalating diplomatic dispute
+seen_urlhash:0509c3ae36c5c50e3b241a41cc1932c9872907e09117d10d1e9441bd717af1cf
+seen_titlehash:ab0fb8e2e534f741bd9a6becd109866e3df65e776d9b406b89dc7e7286d2c31f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge
+title:us says iran hormuz deal could come today or tomorrow as oil prices plunge
+seen_urlhash:e7293d3e4ec53542b090fadc45dae7d8fb8336a7be8de302556ce8e6c47d2bec
+seen_titlehash:0754d25430393502bc919cd4ac1b12eaf71802d02d02932aaf75634b60b10f07
+seen_reason:processed_not_published
+url:https://dw.com/ru/число-заявлений-на-убежище-в-германии-продолжило-снижаться/a-78238552?maca=rus-rss-ru-all-1126-rdf
+title:число заявлений на убежище в германии продолжило снижаться
+seen_urlhash:90b30be90f3e663a384e59afbcdb8e97308edbb49224cf079386a522458b4d61
+seen_titlehash:da1e0b0bb3551ec158eaaee7d659cc25bcb6949e1d0d7e912df0844e04a33a6f
+seen_reason:processed_not_published
+url:https://ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1
+title:trump trapped between escalation and an iran deal on tehran s terms
