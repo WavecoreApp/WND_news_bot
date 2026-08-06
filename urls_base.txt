@@ -35858,3 +35858,328 @@ seen_titlehash:bc44c91af77e834059a1bd369c3e89cf00df0edf728830f77fe7cdf769403c3a
 seen_reason:processed_not_published
 url:https://ft.com/content/95c0b20c-0f9e-492b-9c0d-64b451654415
 title:more moaning about uk monthly gdp
+seen_urlhash:b4f98f82456c100b10a47c85e23d3ccef16d588abf42640fe728c509b38d3f00
+seen_titlehash:4f4a9cffa1ccf2e66439619d431658d43465158081d6d957b59d848ee5161b13
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss
+title:iranian footballers who defied tehran become australian citizens
+seen_urlhash:21f52c96b03c3a5276484fc93efc8a2849fe43d471eb0dadb7e08956cf5c7fe0
+seen_titlehash:9ae7a3838d6c0b29097b1a71d3991f64706c8f113f2d303935a27f70c2c24018
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss
+title:air india s new ceo faces financial and safety turbulence
+seen_urlhash:271e8c0a8a01ce62297463d1fa10a9165d6e93b4eba1d5e26ea840d3311ebeb5
+seen_titlehash:1ca09f1db15075e5e5ca42f2451aa39f7c932327bf75c01e321c13f370162666
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss
+title:afghan boxer accused of killing scottish aid worker back in court
+seen_urlhash:6d9c9a04f809f3ac59f8e6769ffb5c8a80cb1dfc00f0e4d6212f44f8ea159913
+seen_titlehash:74a9742cac9e2714396bd2d2f417e9090d6687af62fcc0074ba1fff0586b5476
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html
+title:venezuela s response to earthquakes exposes government s shortcomings
+seen_urlhash:2dd942faed204ac97667631d954bf28f76af63eee12a03c21322fda31e272b3e
+seen_titlehash:46801d65aaac264e1d58997ed1caa5d5175dee8c9b496afe8ef0a8ef89c73499
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html
+title:fires wrecked their village in france now they want answers
+seen_urlhash:0b1c1990b8cb689064e2752bfd83ca294ef99dc5908eb7dc1dd3b272a14f11c8
+seen_titlehash:c1810f3d554533fb6e522490dd1bead46b54f3a0c6e72c00b010464860657c0c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html
+title:ukraine is pleading for air defenses will the world listen anymore
+seen_urlhash:259e56759d5ae7adb561a1e479aaad5185d9ba774b7bea0e11a742ba280915a1
+seen_titlehash:229ba289dbb32f9ec28511671e8d5922c086a0d17781fa69ebb78125aea590d0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/06/world/australia/jetstar-overhead-bin-compartment-baggage-fees.html
+title:budget airline jetstar to charge fees for using the overhead bin
+seen_urlhash:9135608d156511f2bb75cc84a2b329ac29d9c03200330d61ce515e6e3bd579ad
+seen_titlehash:09050b1f5d6e139424f0ddbe0c120e30c4f0c412adf33e183315e1665ae50f6c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/06/world/asia/japan-vandalism-doctor-prison-sentence.html
+title:n y doctor sentenced in japan for vandalizing ancient religious sites
+seen_urlhash:3a222b0163fae1d362a3d0573b73585358dddce22a3bb0f8b8ba1584e1aea900
+seen_titlehash:bbc4641f3b96b8809fac4eddcefe8a951d8a33adec77dc9aad3e68d572dd3f4a
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster
+title:morocco feels emboldened trump s influence in spotlight after ceuta disaster
+seen_urlhash:fc9df24b4087b8ce35566eb4082fed902ed1843dc8d66807c870f6fae4b34f7e
+seen_titlehash:02dedaee28386b4959db1e94ee5f2dca165a6bf6864f96921ec96994b9f3b609
+seen_reason:processed_not_published
+url:https://theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo
+title:mamma mia trump tariffs refund ignites 53 profit spike at nintendo
+seen_urlhash:c5a28f2e9d8c0d9b6ba175703afc3d2e6ec938d6717be41bb9ee0ec26d09d128
+seen_titlehash:e794372df72ab9da68efea99d665da6810c2795fc1777a8e27bb99a33d6a45d4
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre
+title:starbucks korea raided by police after tank day campaign sparks public outrage
+seen_urlhash:c7371888bb337dd72af54386e44a33bb6362086fef7b329c0ae79a69ff30c354
+seen_titlehash:766c21d58d8cf0109e753ba9f39c314b5087486962079fb9032c4dcd4abf7932
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes
+title:performative reductions labor mps and business groups urge burke against sweeping immigration changes
+seen_urlhash:2e9b9fb576c58b24c363434274fceaefede4a4a170a28cc82c5ec39b44758c17
+seen_titlehash:95c04e64bcf09317cd640cac195311ac2ad3c30aa367958bddd2b2e99326ace8
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss
+title:south korea police raid football association over hong appointment process
+seen_urlhash:77b7f540a9803922b83e7cbef6e800f935871469f08ab7899e29a02c98ceb74c
+seen_titlehash:e258e452cf05940f22e2d5a4a7a174f9975e19d8237d80f9154e78100c5ff63a
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss
+title:sudan war threatens ancient meroe pyramids a unesco heritage site
+seen_urlhash:57551ab250ca8b86e7d9024b22ac346c7b69697e7a796a55cb0ab25caeec6aff
+seen_titlehash:a4775791596777b5cfc0724211f24b124825d7a01ccfcf02b2e7aef6f34b0c40
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss
+title:us israel war on iran upends europe s summer holiday travel patterns
+seen_urlhash:59fc899801c0aa58a84d5410cdff5bd3a34cf66c172950ed308d6cbebd2e5544
+seen_titlehash:b02179050b829fbb301e9e8c3ea2fd76a89075ef9a0b6689ca910128e29c9885
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss
+title:sheikh hasina vows to return but will bangladesh accept fugitive ex pm
+seen_urlhash:0ad879d56dabcd94c1644ab4f1c647247bb0693527772cc0904d29f5b7ff4875
+seen_titlehash:ca3f54468b5c544db967eeceed154545a94e03540cf9122f76bd6529f2f9d6e3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss
+title:what to know about this week s us primary elections in tennessee and hawaii
+seen_urlhash:eebd8cf2b90a0fdc558e759d8b680cc69c31a140e1f7710cc8f73f6198d4d2ad
+seen_titlehash:af4da75f1280a1fcdc2560bdb6a1ae39f70bc9047b7a9a2376bf5f0c1445c5e7
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss
+title:uk police confirm uganda boxers unaccounted for after commonwealth games
+seen_urlhash:4b224ff574060715fe7c81a24509d3c7d736b904772e9e6567e041b95d30f8bf
+seen_titlehash:4d2e08e70fb53295476facb7340f9e130b28741e3834650cd73c7e8894844d71
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/6/shifting-us-politics-offers-opportunity-for-palestinian-self-determination?traffic_source=rss
+title:shifting us politics offers opportunity for palestinian self determination
+seen_urlhash:63a56ea055ad60170d49d3f2e8a42c8f9cd27010bdf6926df9ce92297b84ada5
+seen_titlehash:7a48a90417633f2fed7d3fbe47ef7cd7ff9a60173e51dcf9876f5bc59daf76ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss
+title:why is france developing a new nuclear strategy
+seen_urlhash:1be32659707675870695cb69fed9d03aef31c4ab2b9fb512b60d25596acb80ac
+seen_titlehash:c5317d90b4e2411d9e63a3dd3c0e114e95d99eacd214170c58d66cae36ee9a74
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss
+title:iran anthem protest female footballers proud to become australian
+seen_urlhash:fcd73ed41a41a1dba2978e77be863dc961103bc1ba1a068300a7d8448cb831b5
+seen_titlehash:14ebcff5430d9e6d8c03f3b55cde5ac930bda0157da417a76be0f9db1f262271
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss
+title:russian strikes kill six in ukraine as moscow intercepts hundreds of drones
+seen_urlhash:29bfda05869d21fbc7728370296a73cd18f216c3a1b3d99ba83403e0db1551db
+seen_titlehash:f8cd2132cb4d1dc34b8277f0cbf9bf423796712fe2381b877fb3fc4241c39a0c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss
+title:ex bangladesh cricket captain shakib s home petrol bombed in hasina fallout
+seen_urlhash:4c94ce51fabc2ff70a7c55e7819760f4169dda1b091e2abf9b971a377e203e72
+seen_titlehash:699a2f0bd7360c31bcc09885f6f3b5490ff38f1f18975bbabb25d7232352b538
+seen_reason:processed_not_published
+url:https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253
+title:boxer accused of killing uk aid worker and putting body in suitcase back in court
+seen_urlhash:6a729527d87f0401bad7efb40e283f5c80365f11204c8c2d46dcddf77cd42732
+seen_titlehash:90726ba0dcc76ed0a6740769028079d93180753390ea38953d16e98da522d3cd
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260806-france-bans-unsolicited-telemarketing-calls-protect-consumers
+title:france bans unsolicited telemarketing calls to protect consumers
+seen_urlhash:966b2f15af4b7afe8de72211e05b370c209033b539ac43a043e4762c330181a9
+seen_titlehash:f3ea5b8dd19408cfb8dc09e8c7770562e1ed9cf31fe1f983cd2a81ffc704d822
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260806-who-calls-for-intensified-response-as-dr-congo-ebola-cases-near-4-000
+title:who calls for intensified response as dr congo ebola cases near 4 000
+seen_urlhash:31e9e1a19c98dadcebb8689ecb9088d4481631e774c7d752127bfd3a23119655
+seen_titlehash:88b218e92fc76d8c83670062e774eb697e90bead56c5e91dfb80d7f73c4f0f16
+seen_reason:processed_not_published
+url:https://france24.com/en/leftist-democrat-urges-unity-after-defeating-establishment-candidate-in-michigan-primary
+title:leftist democrat urges unity after defeating establishment candidate in michigan primary
+seen_urlhash:da7f962b1373fca8ee3c3e37272838a166f3d5805d182f1ab3b776c4b102d5eb
+seen_titlehash:89c166c78c9a66d2c0f56e398f625134b57e3d0eb48040714581775889de1c5c
+seen_reason:processed_not_published
+url:https://france24.com/en/france-s-timber-industry-rushes-to-process-trees-charred-by-wildfires
+title:france s timber industry rushes to process trees charred by wildfires
+seen_urlhash:481d5fe0b94a8f4b0604326b8d26c25c09751e7a4e4f4d4ea4c3475f3dbb483f
+seen_titlehash:1fc719c2dd58408e6927b210b5f252072061b3fd558dea0b61e200d1955c9fc7
+seen_reason:processed_not_published
+url:https://france24.com/en/france-s-dz-mafia-suspected-founder-captured-in-algeria
+title:france s dz mafia suspected founder captured in algeria
+seen_urlhash:54be6be9af3f6b6a051a094f1519a3f7b006a0ae016f53c117439833d26369bf
+seen_titlehash:f9eaeadd4ee0360971c98c4efc766f3fa9f7be81e8cd6d8901eb1819043bb87c
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260806-gianni-infantino-lives-to-see-another-day-after-fifa-crisis-meeting
+title:gianni infantino lives to see another day after fifa crisis meeting
+seen_urlhash:52cd1de63bb29548ec513c0c2b32b9e990744ad25949da711af5d4910b19e831
+seen_titlehash:ced2fc237701b6b0533e35627344a254c91173353479ea008fd43fa76bb2e86a
+seen_reason:processed_not_published
+url:https://france24.com/en/cape-verde-illegal-sand-extractions-for-construction-industry-erodes-coastline
+title:cape verde illegal sand extractions for construction industry erodes coastline
+seen_urlhash:0bda7ba71a891d5573f591d7e75aeddac4160bfca57af5b2c168082acc1891bd
+seen_titlehash:44b755f72e02757f60c7178d7e5c44ed22766cbaa4fffa0644cfc00ae6f4f14d
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan
+title:un warns drone attacks have become leading cause of civilian death in sudan
+seen_urlhash:6ed04ca2bd7a474cb4be74f0345c909e8359c29a564390cf54dbe2ed0719b9c9
+seen_titlehash:1e16c491cf6d4e1d0b613f3be7ee10414a73efa87c6258f0861ab9aa3fa43fb2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260806-germany-arrests-ukrainian-national-accused-spying-defence-firm
+title:germany arrests ukrainian national accused of spying on defence firm
+seen_urlhash:cb677f6ff787763c0c8869582a8bd9aa4a16e9c968d9f131ac16ee815149e798
+seen_titlehash:99111912cb2ab2a2bab009b140a0f07aa20da6b3122c630ff472a8b040754ac0
+seen_reason:processed_not_published
+url:https://france24.com/en/iran-and-oman-close-to-deal-on-hormuz-but-not-with-the-us
+title:iran and oman close to deal on hormuz but not with the us
+seen_urlhash:de1a1fcb74eca0f7da2b8514ebb626432db82a3a67adcf309ae1ee2b8b8b7b0a
+seen_titlehash:4b3243d4568b08a9e9e7cb878b1b1ca2abf35b31797727e4117f52a7a5c541c8
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/focus/20260806-japan-s-leprosy-island-the-dark-history-of-nagashima
+title:japan s leprosy island the dark history of nagashima
+seen_urlhash:b417d1d2cd823a3a5a2f57932e5a62385560a289126429c58c9d6254368f9d91
+seen_titlehash:4430ceb00e151efe6ba8776333c52fb9d568065faaa63d8d08635bc16a2adede
+seen_reason:processed_not_published
+url:https://france24.com/en/bomb-disposal-robot-and-drone-with-explosives-discovered-at-germany-s-leipzig-airport
+title:bomb disposal robot and drone with explosives discovered at germany s leipzig airport
+seen_urlhash:5a7d1f2de8aca64376ed7309b8549ae0a1724dc8fb1296e0c15e184ff26772c4
+seen_titlehash:4056080c408fe2f86c5d6bb81a19cfa37a7409b09348712df7477042b6394529
+seen_reason:processed_not_published
+url:https://france24.com/en/russian-forces-are-now-20km-away-from-ukrainian-city-of-kramatorsk
+title:russian forces are now 20km away from ukrainian city of kramatorsk
+seen_urlhash:dcf76f7418f925867d159417f323326f243f90a52580d11def5d3e119633d187
+seen_titlehash:fd6b3091d8ed5840747b581f98f83be58ecafcde09c60e4280c4ae379ac94ba6
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260806-dr-congo-ebola-outbreak-outpaces-response-efforts-health-workers-strike-pay
+title:dr congo s ebola outbreak outpaces response as health workers strike over pay
+seen_urlhash:386ae421859cfb033c1022771f541b24a88d20bd75ef136a650335d13faf9baa
+seen_titlehash:9e9d41aa4dc00cd69bf49c26f2061c84db776a539ddbaffee26d4807ac2b3994
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260806-astrophysicist-jonathan-mcdowell-explains-why-we-need-an-international-space-traffic-control-agency
+title:astrophysicist jonathan mcdowell explains why we need an international space traffic control agency
+seen_urlhash:8916b13d18ca939fc689cf0a1d0b04278f3570f17069e7ff906de69c8d6dc323
+seen_titlehash:38f08c78d5480d442b44e5d2a58c1af68bbb6af7dd988e75239f8a53fa017137
+seen_reason:processed_not_published
+url:https://dw.com/ru/две-церкви-один-алтарь-как-это-работает-в-германии/a-78221237?maca=rus-rss-ru-all-1126-rdf
+title:две церкви один алтарь как это работает в германии
+seen_urlhash:5ae43147dd66fb7ec9dc2153e347be8fa9c152543f1b4b74dc3ba86f57befc98
+seen_titlehash:028c083f035bac9a9adca6e5ded12086997769ab426b628275f7718ad7836ac3
+seen_reason:processed_not_published
+url:https://dw.com/ru/ии-модели-openai-устроили-сговор-и-смогли-сбежать-в-интернет/a-78262695?maca=rus-rss-ru-all-1126-rdf
+title:ии модели openai устроили сговор и смогли сбежать в интернет
+seen_urlhash:b4bdbd2c730b9e715c3398097ec874207045bdf0d7f5e36fe419bfce27d62f3e
+seen_titlehash:41a0615dd2a7f0b70b230d9b6d96d11cb02ac6bd7938658eacca151922fdfdb0
+seen_reason:processed_not_published
+url:https://dw.com/ru/атаки-на-склады-wildberries-продолжаются-какое-будущее-у-бизнеса-в-рф/a-78256950?maca=rus-rss-ru-all-1126-rdf
+title:атаки на склады wildberries продолжаются какое будущее у бизнеса в рф
+seen_urlhash:37568966be65b3c4f9fdf1fed89cb6bc273924fd03154d26a71716b46897e545
+seen_titlehash:30caf82130facec0e6c4bc99214534294a3bb702a5f93ef33bf0bccbe694ead9
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-потребовал-огбъяснений-от-хегсета-по-поводу-дефицита-ракет-для-войны-с-ираном/a-78261905?maca=rus-rss-ru-all-1126-rdf
+title:трамп потребовал огбъяснений от хегсета по поводу дефицита ракет для войны с ираном
+seen_urlhash:bc90e461b1e7f4bd3e1bd5c9643693e08b053b86ab777db30dc71d51fe8576ba
+seen_titlehash:a1a85ce341dc931c07516b31f3195486d60781e763a46d001a4141e8a0920952
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-в-седьмой-раз-с-начала-года-ударила-по-нпз-в-ярославле/a-78260653?maca=rus-rss-ru-all-1126-rdf
+title:украина в седьмой раз с начала года ударила по нпз в ярославле
+seen_urlhash:cd2263563ffe87eaa92df96d806e420c6fc6f43b0bb427cec8b68eee1682dea1
+seen_titlehash:e2beead6e6c3b98d0528b1b182ede6e5df8af7a62f7f15fc30ab3263ee15b27f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/06/hiroshima-81-years-after-the-bombing-mayor-condemns-nuclear-arms-race-ru
+title:хиросима 81 год после бомбардировки мэр осудил гонку ядерных вооружений
+seen_urlhash:88468cae047cdab6f0fee84268005707d17b701594496a8c01477bb4d74e9b8e
+seen_titlehash:dc418811e0a612723f27884a3e6d95794c3ee25886eea6e3525711fe0eeb6324
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/06/tokyo-porto-and-melbourne-named-the-worlds-best-cities-for-gen-z-by-time-out
+title:time out признал токио порту и мельбурн лучшими городами мира для поколения z
+seen_urlhash:e00ee308f4c2c8981626a59493d8464fbd554dd5adba7368c314bda841a1871a
+seen_titlehash:9ba35e825e3d79d3b07d392abbe615938f2d1bc5935bd9a704ef1efdae93e200
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/06/trump-administration-refunds-100-billion-in-liberation-day-tariffs
+title:администрация трампа возвращает 100 млрд освободительных пошлин
+seen_urlhash:71e72e5746be50525ac055b8f79483786ca71bd913f521e13bfd38b291d93f28
+seen_titlehash:b5e0bc6877fe5497ef6487308066c63086ce5390e51bf8fe4d0e39b9b2a46a04
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/06/farewell-to-francesco-guccini-the-singer-songwriter-passed-away-at-the-age-of-86
+title:умер франческо гуччини автор исполнитель скончался в 86 лет
+seen_urlhash:6a02532e13b29ec5866e3193d98ada25f8e76b2c2164150a58012c6252c2d1b9
+seen_titlehash:52086de5d4c543b1439d26fc13ae0053277ef3bf0b6dd039761c6a55fc8bf3e3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/06/60-years-connecting-shores-25th-of-april-bridge-remains-portugals-busiest-crossing
+title:60 лет соединяя берега мост 25 апреля остаётся самой оживлённой переправой португалии
+seen_urlhash:36aead28b4cfb0873980ba11ea44387613665bbdf510cf9a7d5aebd69446c9ea
+seen_titlehash:93dd50f9426012a4f92db5411d64b2fa8e4e2d4132dba9838cd9a89cfd0be82d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/06/the-spanish-schism-sanchez-flies-solo
+title:красный орбан или провидец кризис в сеуте стал проверкой на прочность позиций санчеса в ес
+seen_urlhash:0d676317f30f1a80018cf5bf9ca8ce360e07d070c631d821a8954f36a0207893
+seen_titlehash:a42d5f9052b3e6bfe1be7f71bd9bdb6401f009150f6cb737397e60d3e8b178be
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/06/former-head-of-myanmars-junta-visits-thailand-for-the-first-time-as-a-civilian-leader-ru
+title:бывший глава хунты мьянмы впервые посещает таиланд в качестве гражданского лидера
+seen_urlhash:54f8be56ef9125e70dd961c8dd870c815ec5b8d3670607bc0b3e6ea6f4c8a5d7
+seen_titlehash:eaa8c831c00c743a21793a55d854225ff50a4156071b690a5155d1e29c1dea2f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/06/fancy-living-in-the-lake-como-villa-from-casino-royale-an-apartment-inside-is-now-on-sale
+title:хотите жить как джеймс бонд на озере комо продают квартиру на вилле из казино рояль
+seen_urlhash:853c691e582472f7f042907d011520fa0bc47b73794f8820ceeba2b80bc1e922
+seen_titlehash:afb363d982837ca4d35417c8c114decb394e38440aea614be78e19a3f4326ae5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/06/disney-and-tiktok-have-reached-a-content-sharing-agreement-allowing-short-form-videos-to-b
+title:disney и tiktok заключили сделку короткие видео появятся на disney
+seen_urlhash:a61b3fde9fcfa59e4ec4f33e2847fd0574d146cb9dc9fcbae30307a163f1b4c9
+seen_titlehash:680b0fd0b107b2dd7c2539604e638c75aaf98902f68cd56e8a27223992c0bd00
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/06/smoke-rises-above-washingtons-forests-as-firefighting-efforts-continue
+title:над лесами штата вашингтон клубится дым продолжается тушение пожаров
+seen_urlhash:4f02bd31aeb45620d11176fa631b12584b43123df324dfb527cb84395e704872
+seen_titlehash:dcb7c8b21e6fce52a0ed167e73d882951c70f043846a9bfc20384934e189d474
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/06/two-uk-universities-merge-to-form-the-countrys-first-super-university
+title:два британских университета объединяются создавая первый в стране суперуниверситет
+seen_urlhash:fddbb1ff1d125a518ed4675509703cf91ce9570eaae6255d0d3f68fb918d2bb8
+seen_titlehash:d1631c0a53b8d0ab5ec9697e50de5602ffc1ed59ca0e1f408acc6e48eb296b5c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/06/budrys-german-brigade
+title:глава мид литвы сдерживание россии должно начинаться на границе
+seen_urlhash:12f8dcc076f34efefcc425353d9ae5210fba2143f65a8d4c0699581bbc899b5b
+seen_titlehash:14baf648ccc0c9fa9810eaa0a0f1905c8edc69aed8b548cd45fdab094bd9ccbc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/06/new-melania-trump-series-coming-to-amazon-prime-after-significant-losses-for-controversial
+title:новый сериал о мелании трамп выйдет на amazon prime после провала скандального фильма melania
+seen_urlhash:1d19a7e81d8ece2c90189c52ef6ebb9687d8a9db1c46d11bb1cffdd8023ac893
+seen_titlehash:fa386c69ee6aa48e9e8f6ae670f4009f70892b545d8ce7cc56a5bc71c19af713
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/06/v-germanii-nashli-derevo-vozrastom-1100-let
+title:он пережил крестовые походы и мировые войны в германии нашли дерево возрастом 1100 лет
+seen_urlhash:59d1d27ed61d3b3fa3b75ec527424e72d3dfe479ac621a43fda778fd1b4435a9
+seen_titlehash:b7160eb38d29eae6eca6e6b5265e06bd5aa4af527e1ebd08b91a832eb0c43179
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/06/the-last-neutrals-can-four-eu-states-adapt-to-europes-defence-shift
+title:последние нейтралы ес могут ли четыре страны адаптироваться к оборонному развороту европы
+seen_urlhash:460a3a6153a1c5819881b233e5ec1d606de4e028a5949ce0f6d04face35cfd35
+seen_titlehash:8b64e8d25709c179af677d5621d09964ac7912a91d47f9fa321a24240ce79393
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/06/na-pik-pobedy-v-kyrgyzstane-budut-puskat-tolko-po-razresheniyam-god-nazad-tam-pogibla-rossiyskaya-alpinistka-natalya-nagovitsina
+title:на пик победы в кыргызстане будут пускать только по разрешениям год назад там погибла российская альпинистка наталья наговицина
+seen_urlhash:e43b754a147095db20927e713ae61dc02522a0fa43848134cd65a653ececb7ef
+seen_titlehash:1cf333ad20e08d064be3db4fa9f6579305e4d3b674b671ba098c8d1996365bba
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/06/byvshego-posla-ukrainy-v-ssha-olgu-stefanishinu-obvinili-v-nezakonnom-obogaschenii-na-14-millionov-griven-eto-okolo-25-millionov-rubley
+title:бывшего посла украины в сша ольгу стефанишину обвинили в незаконном обогащении на 14 миллионов гривен это около 25 миллионов рублей
+seen_urlhash:254cf7a93af37660def262bb71d2dd3393013f37796c4b987e595656f1797695
+seen_titlehash:39db1c8f28b401486566e412b022101c542bb55d39ace9de69e770fc99cb036d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/06/77-srochnikov-pogibli-na-granitse-kurskoy-oblasti-vo-vremya-vtorzheniya-vsu-v-2024-godu-esche-bolee-30-do-sih-por-chislyatsya-propavshimi-bez-vesti
+title:77 срочников погибли на границе курской области во время вторжения всу в 2024 году еще более 30 до сих пор числятся пропавшими без вести
+seen_urlhash:a24220b1c7b53e50f5eb235258011e1a41dba6210a6b9f91f959c8491dc1c6e2
+seen_titlehash:030fa6f229577c0ee8b494bcf428e8458c139b7d77170a914c2b3dc1311b70cd
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/06/svetlane-tihanovskoy-ne-otkryli-schet-v-polskom-banke-iz-za-prosrochennogo-belorusskogo-pasporta
+title:светлане тихановской не открыли счет в польском банке из за просроченного белорусского паспорта
+seen_urlhash:8a882800c7b7c20f3c835eadbd0f27a012e702237257c6defdd92fa1451c44cb
+seen_titlehash:04b51ed526c496fed84f60b32469feb08175da554747033e5c605d7cf366e974
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/06/k-nato-voznikaet-mnogo-voprosov-zaluzhnyy-zayavil-chto-on-storonnik-alyansa-no-rossiya-nashla-protivodeystvie-pochti-vsemu-oruzhiyu-bloka
+title:к нато возникает много вопросов залужный заявил что он сторонник альянса но россия нашла противодействие почти всему оружию блока
+seen_urlhash:15fca2448886e3d09798872d11d6370c9de722854d7fb1a755b317eae2c781ff
+seen_titlehash:dc5e674ce69661eccc4b42b06730e372543594f6baa407e26783809b68e96eee
+seen_reason:processed_not_published
+url:https://ft.com/content/b214e9c8-615b-400e-8c53-97f16d0ddcec?syn-25a6b1a6=1
+title:softbank s 8bn gain on intel stake helps japanese group beat expectations
