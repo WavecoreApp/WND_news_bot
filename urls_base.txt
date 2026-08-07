@@ -38608,3 +38608,38 @@ seen_titlehash:3e37c31bacc8c59448c34c263e31b7417b36747f83dbf9632784a78b2c1c9cc9
 seen_reason:processed_not_published
 url:https://ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318
 title:passing the clarity act on digital assets is a matter of national security
+seen_urlhash:a735b1154d4c9f77d83d9fef6eb3c04fc3ef42ad12cb0e18090ae0005233748c
+seen_titlehash:b63f76d31f79cb8f13d31a65455d6c72642c5b080be9e9046acf19c201a0f3fb
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html
+title:family of former u s marine detained in russia says he is in serious condition
+seen_urlhash:eda8679954243ed771d79681c8f9e02bbc4132c3d7987aed1da5d9a379e9a5a1
+seen_titlehash:80c60f834ab22bc900d304d5bf31cfd8cfe7bc1f8d58e9fae345a1c0c9ce37b9
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps
+title:judge approves trump effort to end south sudan tps protections
+seen_urlhash:c735e30658851c50f254d653336a3f1e5b56a5aa568c8ce72e5247728a05fe3a
+seen_titlehash:0f4c4b4d6a8acb5d23d5d9c556ea5839acd60de14504308c8a5fb5d2599c4ac9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss
+title:several killed in attacks on ukraine as kyiv hits russian e commerce giant
+seen_urlhash:f1c49ec6e54d88ab6597e5529faf603134ffcf400cbae9a06052a646e3aca48c
+seen_titlehash:03a21cb3665e3236df6abd5576e8e4606277c0f62e41d9d251563a5d0c4d6666
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss
+title:war on iran saudi arabia turkiye and pakistan sign defence pact
+seen_urlhash:a40e29923eaec9bb57384fc99ed6e10d8318cdf4769bd48d2463a0708093d227
+seen_titlehash:8b8c28aaabda0aceb5bd889d9f380cbf2cd71355679d96f58c43659142790d9c
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260807-winemakers-across-europe-face-the-challenges-of-climate-change
+title:winemakers across europe face the challenges of climate change
+seen_urlhash:d733f0fa852d2789e162ab0d7cfeeb1abab9063badff7f8c16efde593bb57557
+seen_titlehash:3e6f308c6a9f48542b4fffbbeafcbb9aa2660c728d7dc764e85ea18f8c1d84b1
+seen_reason:processed_not_published
+url:https://dw.com/ru/четыре-страны-европы-опасаются-аннексии-южной-осетии-россией/a-78285833?maca=rus-rss-ru-all-1126-rdf
+title:четыре страны европы опасаются аннексии южной осетии россией
+seen_urlhash:5e5a1159a4850d978c62743d49ce1c38379bb3aeaccccdf9fc781d03a5692d90
+seen_titlehash:b7bed7a13ad673bf6a505904b36537dd89de1061a3054deebb611026e1805ce2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/07/the-atlantic-mask-ne-razreshaet-ukraine-ispolzovat-starlink-dlya-udarov-po-rossii-on-schitaet-chto-pora-zaklyuchat-sdelku
+title:the atlantic маск не разрешает украине использовать starlink для ударов по россии он считает что пора заключать сделку
