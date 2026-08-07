@@ -38643,3 +38643,28 @@ seen_titlehash:b7bed7a13ad673bf6a505904b36537dd89de1061a3054deebb611026e1805ce2
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/07/the-atlantic-mask-ne-razreshaet-ukraine-ispolzovat-starlink-dlya-udarov-po-rossii-on-schitaet-chto-pora-zaklyuchat-sdelku
 title:the atlantic маск не разрешает украине использовать starlink для ударов по россии он считает что пора заключать сделку
+seen_urlhash:28fc3cbfa02b7870119cea503da568b38d57be479f36cc330f89eaf9f4994216
+seen_titlehash:78dbaf2bbe5b484d101cf7bd5615b295f62f0919b04296689f9ba946d9ea8520
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html
+title:houthis claim attack on yemeni military camp
+seen_urlhash:53ac56a7085e8f1c9265879d09f3b96fe30b57cfe5c56d6b75217a5902bc7aab
+seen_titlehash:22caae1f6cd4105fd2c8f2e877ff52b81e099948f87bbe51e2459facaa389856
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss
+title:contaminated water putting gaza families at risk
+seen_urlhash:0d87b34d9dce1e068149f76cd3e2bbc94ec53e6e035f1eb74c25218366e23754
+seen_titlehash:53fba8f618378426c7bd5d36b746fa3f44083b09374505bd83b1bc90b28c2188
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss
+title:dr congo releases 15 prisoners to m23 rebels as part of doha peace process
+seen_urlhash:d637e3ca6e931a29fedf19d69bbd1b79134ce292592c96b9e654459f0380dda9
+seen_titlehash:ae5e037f39762544846a45e232a20d71c9b6e23e1dd46d23efa27229d416da15
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260807-never-speak-about-palantir-leaked-audit-reveals-the-un-s-palantir-problem-united-nations-ai-tech-wfp-iaea-ethics
+title:exclusive wfp to extend palantir contract despite concerns raised in leaked audit
+seen_urlhash:eaeb1e96fc193be92c780365d3d34ee41d74f5cc49eb8aba816ba21ede4b4459
+seen_titlehash:1d056f6637b8a1ac00bcf4f4b32b8913e5abe80238e5631995ea3969f3b2526c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/07/bolee-20-rossiyskih-figuristov-poluchili-neytralnyy-status-dlya-uchastiya-v-mezhdunarodnyh-sorevnovaniyah-sredi-nih-kamila-valieva-i-aleksandra-trusova
+title:более 20 российских фигуристов получили нейтральный статус для участия в международных соревнованиях среди них камила валиева и александра трусова
