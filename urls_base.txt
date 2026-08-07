@@ -38743,3 +38743,23 @@ seen_titlehash:61bbe7e44434c81a4afa571735e87241f5c21626005aa166fdc585222ea40c3e
 seen_reason:processed_not_published
 url:https://france24.com/en/europe/20260807-spain-imposes-border-checks-on-italy-amid-ceuta-migration-row
 title:spain imposes border checks on italy amid ceuta migration row
+seen_urlhash:62a6176943003b1211f9bcc4415bf2b49e274ce31b63921433296c699dd5a9c0
+seen_titlehash:d1a6d763bfdf2a9e28f8414661b0b1d8b7507eb1af0e699026a43571649af35a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss
+title:sophia laforteza steps away from katseye the second member to depart this year
+seen_urlhash:b19ab4d95ee242a0789240e623e2ed815d42a783efd744c176a305123f7b08aa
+seen_titlehash:5694125f4379e3b4bc0b4b75e0ccb72a029b2ddc467e3e7f342e6ae64c0493bd
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy
+title:spain to introduce temporary border checks on visitors from italy
+seen_urlhash:85c919a5ba49b9a5da96c592e5083d8e2270b940c970a27ad8125fba3445a09d
+seen_titlehash:430d8be79490e7f53134265959aa48f37787469facaede5abbd2659eb77721ae
+seen_reason:processed_not_published
+url:https://dw.com/ru/обострение-конфликта-испания-вводит-пограничный-контроль-с-италией/a-78286330?maca=rus-rss-ru-all-1126-rdf
+title:обострение конфликта испания вводит пограничный контроль с италией
+seen_urlhash:2332e3a398099b72ca180d00184b8cc0d4af945e51f14c19d7c162da9d578404
+seen_titlehash:5ae04c7bbc61d209861b24b665f27204df0b1b72a8bdfbf79961fef9cc034818
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/07/novosti-dnya-7-avgusta-2026-g-vechernij-vypusk
+title:новости дня 7 августа 2026 г вечерний выпуск
