@@ -38553,3 +38553,58 @@ seen_titlehash:df80e7d81a5896f1793475a6ae2ecef8140ac94a6a48ac1d3261ed2e9ed4050d
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/07/v-shvetsii-zaderzhali-paru-rossiyskih-turistov-ih-poschitali-ugrozoy-bezopasnosti-iz-za-togo-chto-oni-postavili-palatku-ryadom-s-domom-ohranyaemogo-litsa
 title:в швеции задержали пару российских туристов их посчитали угрозой безопасности из за того что они поставили палатку рядом с домом охраняемого лица
+seen_urlhash:1415071eb2e343caf797cca431974c7e4f9f4a97fe4a70021d0aae4dd246751d
+seen_titlehash:38ecb1bd6e3ec61ae9c7e9cda89ad467a0e41b59bf3b63fd9efba7879a34c767
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss
+title:inside the results how redistricting shaped tennessee s primary election
+seen_urlhash:ed3ffd66594ec0fec611a55fc9feedeff07e51c210f052382ee167705ab081d6
+seen_titlehash:beabda5864491fcc6479b4146be56676fb0af6ec264e8df44cd25f2bae99d75b
+seen_reason:processed_not_published
+url:https://france24.com/en/drc-s-largest-ebola-outbreak-on-record-active-conflict-and-armed-groups-hamper-the-response
+title:drc s largest ebola outbreak on record active conflict and armed groups hamper the response
+seen_urlhash:ed43b3f4b03d60b0ff60bf7aa72db5e8fac37026901f46f132af2d6e5089b34e
+seen_titlehash:d697afaefaaa8c457dc794cc6de21dfa36e5d3f2a050a40993c0222ef25d5873
+seen_reason:processed_not_published
+url:https://dw.com/ru/сенат-сша-одобрил-законопроект-линдси-грэма-о-санкциях-против-россии/a-78285787?maca=rus-rss-ru-all-1126-rdf
+title:сенат сша одобрил законопроект линдси грэма о санкциях против россии
+seen_urlhash:274901dd4ec0638186869801dd1bec7d41bdfdaf25a76f631dd8bfc497d651d8
+seen_titlehash:0b7ec859571230d0aa48aa9a5f5e32f3254865f93bc3df346aa573d8ce654599
+seen_reason:processed_not_published
+url:https://dw.com/ru/isw-россия-формирует-боевые-подразделения-из-украинских-пленных/a-78285722?maca=rus-rss-ru-all-1126-rdf
+title:isw россия формирует боевые подразделения из украинских пленных
+seen_urlhash:1c0c5fa4a44875e7216aab676d69463a8d1e852d34670889595d597abd59825e
+seen_titlehash:5629e2c1e2233300293df24bd49e03f9b5fcd5dea24e89057bd345e40199a1eb
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-приостановил-строительство-бального-зала-в-белом-доме-без-согласия-конгресса/a-78285538?maca=rus-rss-ru-all-1126-rdf
+title:суд приостановил строительство бального зала в белом доме без согласия конгресса
+seen_urlhash:5e1c3b6469d43eba14edff1b89ab94288bb0fd69a534be720b12c13da6d2b48d
+seen_titlehash:7a1171819be1b91899f31bc166e456e8a6806acef553a38343d7596c1f98d3fc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/us-senate-approves-russia-sanction
+title:сенат сша одобрил широкий законопроект о санкциях против российских энергодоходов
+seen_urlhash:126e711ae9e398430273ddc937a55e831cfcb05ec75e703610c8f1fc3532c611
+seen_titlehash:5b20ff19276eba067c3db556f4b5ece11490436f88b010d5a189461099d22bb5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/07/etna-eruption-ash-in-the-air-catania-airport-is-closed-to-flights-ru
+title:извержение этны пепел в воздухе аэропорт катании не принимает рейсы
+seen_urlhash:c5f3d4ace87edcbde487f56f8675b71ba3f6949d5c77b47fcd0ffaa9fbee342f
+seen_titlehash:6af544d13ce069d2c7f96402e4cb09b0de2a6861339c54d97ce9947a64780122
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/07/v-germanii-nad-bazoy-bundesvera-zametili-neizvestnye-bespilotniki
+title:в германии над базой бундесвера заметили неизвестные беспилотники
+seen_urlhash:2b7a39a070c8e6a6e25dc41626e4bd880ccc1e1c1fd835f90a00423dfc304b74
+seen_titlehash:a1475987178304bb947b079282861e6d11b2daee22f40a280e220a0c70d6be1b
+seen_reason:processed_not_published
+url:https://ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1
+title:trump revives threat to sack fed governor lisa cook
+seen_urlhash:2a9b871d8af0f8c1a88f936099095398fb2cf0e9475710abd5e85b81bed33184
+seen_titlehash:25ec382ab13be7247a654dcd894bf7ee599de77e5076e1e573868e9721bea537
+seen_reason:processed_not_published
+url:https://ft.com/content/cf508e70-5bc2-495e-8b9b-21f15e60ad58?syn-25a6b1a6=1
+title:burnham s uk tour to focus on cutting cost of living and helping high streets
+seen_urlhash:9bf210b516030fd91b0c29dc28c644f214873b9c21c647f579ef3c7c8c2cd34f
+seen_titlehash:3e37c31bacc8c59448c34c263e31b7417b36747f83dbf9632784a78b2c1c9cc9
+seen_reason:processed_not_published
+url:https://ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318
+title:passing the clarity act on digital assets is a matter of national security
