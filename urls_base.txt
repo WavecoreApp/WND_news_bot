@@ -37433,3 +37433,88 @@ seen_titlehash:900296b61e0118d98bcb35a3e8b9b1f7105565eec5ffd12576d43e34b354560d
 seen_reason:processed_not_published
 url:https://ft.com/content/c5bdfb1e-6dd5-423a-b89d-b37fc687e4e3?syn-25a6b1a6=1
 title:china s exports jump almost a quarter in july
+seen_urlhash:de2c46dce390a6da1c2a7372ac6c052524a679604fe4fd9fba4a9ca512aafc97
+seen_titlehash:3336378d83e4532e4472e9ccdfe0f4fd21e48409d8024246dd07e44ef45ceedb
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb
+title:alan jones trial complainant wants to humiliate broadcaster by revealing intimate details of alleged assaults defence tells court
+seen_urlhash:6089c0162cf8f3e75752a8c4539ab4a2d8c71ffd49d394c92db3fd3842e3e427
+seen_titlehash:3a42f2d0982a91ca72c23189c76b6be380513a8e40e0314a408e6557df59256e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss
+title:mexico deploys troops to secure avocado region after us halts imports
+seen_urlhash:21044b616a1fd66270dfec4d66126562bcb356621398d9657f9f2f5dffe69788
+seen_titlehash:8f7867a702d6867fa9a3415862299671eb552f2e507c7757fbd4d643eb701504
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss
+title:record high heat soars through south korea
+seen_urlhash:5c36ac9303f4a8a59bf93617b9d62ac8b896c5b2be077e00880d60fef60d1587
+seen_titlehash:e2c69335ad231f86982ca916bbaaa1bb877c8e4c8e5f5f5d5f4716bf3f5aab95
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss
+title:turkiye s erdogan visits saudi arabia what to expect
+seen_urlhash:a09340cdd8573660f35f2418dad03dd896c34b5c357ea7cff079429ec66bbf23
+seen_titlehash:f60259ea039324051e348d75749547332d8d08e2d23ce6c0ef93cca285aa0ee8
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260807-yan-diomand%C3%A9-makes-history-with-real-madrid-move
+title:yan diomandé makes history with real madrid move
+seen_urlhash:5f5e628a18b9e3ac05a95c4c893e2782674d1324291370dc0718e39fdc5419f7
+seen_titlehash:54a839132c33215ce6a52b398f3b418008f1cae7d8ea297d8b08c16415e96eb4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/a-new-mexico-judge-ordered-the-social-media-giant-to-create-a-new-567-million-fund
+title:сша компанию meta обязали выплатить 567 млн долларов за вред причиненный детям соцсетями
+seen_urlhash:0cb95df52374014c38ff072fa62d44991092417c8dc61abb88754c9dadd35f47
+seen_titlehash:4237fb1ea8874578eebfe4dfbab3ccc012ba51a9928f2952ed5acb3c855c6eca
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/two-dead-including-gunman-at-school-shooting-in-thailand-officials-say
+title:стрельба в школе в таиланде два человека погибли около 20 пострадали
+seen_urlhash:b99fb56c653b05b49246b5ae721b590e51768d7271bfb6e29f2315222761a60e
+seen_titlehash:bdbc03e8b6783d275c97f07ed43f35370683c56554336c3c7589439951366a38
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/07/more-than-160-styles-and-a-tasting-that-involves-all-the-senses-the-old-and-new-world-of-b
+title:более 160 стилей и дегустация для всех чувств старый и новый мир пива
+seen_urlhash:c7483f4795e5cf8d5d4d6d407df72709a999bc32d0278650d2ed728c536b650e
+seen_titlehash:9a7fe8e1eee6e62d03ecf8a7d32c65f0f82808c383687342e76a34e7ca08f423
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/the-beetle-that-hears-fire-what-makes-it-so-valuable-for-research
+title:жук который слышит огонь почему он так ценен для науки
+seen_urlhash:9777a57a23fe91993a3044eb46e727fc175342e1b1152b0ca10fa3cbf899bac0
+seen_titlehash:4a3219d65fd10fba4c9ba001f0c96548b8575c9106d5fc829c39cf3b11e479e3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation
+title:саудовская аравия турция и пакистан подпишут совместное соглашение в области обороны
+seen_urlhash:bb5b3b344f0f24c359e366f94a8cab9bd9db0f886d6bc4b402fb99d443b81106
+seen_titlehash:e360daa1ff59421016029b28b520f53ab0bced624b56984b4f877c0767807d7d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/how-europes-drought-exposes-the-weakness-of-fossil-fuels-as-poland-is-forced-to-shut-down
+title:засуха в европе выявила слабость ископаемого топлива польша закрывает тэс на угле
+seen_urlhash:333ca6a39b8a76adf29261df4225abfebd8382a3ce8c5e139776e37e93620deb
+seen_titlehash:2860fd1cc6e6d340f90ddd8cdb19db421f6648703add714bd506129b226fb4b3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/07/stunning-new-hotels-are-set-to-open-on-europes-islands-in-2026-and-beyond
+title:новые отели на островах европы откроются с 2026 года и позже
+seen_urlhash:76b340a6d238146c3824b81ac842b965758dea31f72f58948e8b2594701c44a6
+seen_titlehash:2c0965fc13c75df1dac2053831ba904d0a306ca8a809a34f3e192019b0fb409c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/07/uefa-fifa-latest-thursday
+title:уефа сохраняет бойкот турниров фифа извинения инфантино ничего не меняют
+seen_urlhash:f554ff5bd97b30a8867e0d38bdb5d08731c1579897aa8e5b75a03e8f3669a8a4
+seen_titlehash:3beba9a65633028172010114d84970d334938d495b84d1874ce0431e8286420c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/07/reuters-ssha-poprosili-rossiyu-osvobodit-byvshego-morpeha-roberta-gilmana-kotoryy-otbyvaet-srok-v-voronezhe-ego-semya-opasaetsya-chto-on-pri-smerti
+title:reuters сша попросили россию освободить бывшего морпеха роберта гилмана который отбывает срок в воронеже его семья опасается что он при смерти
+seen_urlhash:f8d2d346e021bc3581e0a337e6f41d012955c8010d0dc6a605699caa708bf0f9
+seen_titlehash:ef2f18ac6e1a9d1997a02f3c9f59b7508f1732a6344d58892002bbb8857f5198
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/07/atakovan-ocherednoy-sklad-wildberries-v-ekaterinburge-eto-bolee-chem-v-dvuh-tysyachah-kilometrov-ot-granitsy-s-ukrainoy
+title:атакован очередной склад wildberries в екатеринбурге это более чем в двух тысячах километров от границы с украиной
+seen_urlhash:f64979ef38daa66b156fbe699e225efcfca7d49ff4993329283c6547dcb244d9
+seen_titlehash:34cc1660381c16cb1e3f3146bc1d865eae128a8e951cc4994234504cc8b043b3
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/07/nikogda-tak-strashno-ne-bylo-kak-seychas
+title:никогда так страшно не было как сейчас лето 2026 года в крыму вот каким его запомнят жители полуострова без топлива электричества работы и туристов фоторепортаж берега
+seen_urlhash:f62eced774da6a13bf88da8b6bfc730b39f1a5017e97c654e560885b9feebd20
+seen_titlehash:8b134200ad1d500490746995dbb858fd30b35a7f74aa5618e93f2e2cf4614886
+seen_reason:processed_not_published
+url:https://ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6
+title:the curious case of the japanese government bond yields
