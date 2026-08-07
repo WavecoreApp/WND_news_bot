@@ -38763,3 +38763,28 @@ seen_titlehash:5ae04c7bbc61d209861b24b665f27204df0b1b72a8bdfbf79961fef9cc034818
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/07/novosti-dnya-7-avgusta-2026-g-vechernij-vypusk
 title:новости дня 7 августа 2026 г вечерний выпуск
+seen_urlhash:0e1544e5b125be750b73944dbce46bba833d83fa64849aad074782e5657364ba
+seen_titlehash:234e407473d5f9b6b486c6b856c099e535587745a75984acda5fea643c9a5d85
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss
+title:democrats gain momentum in pivotal us senate and governor s races in texas
+seen_urlhash:ec2ec87423e8458580418966ca09446d07a2c583e7d1b1703ce79d4e6838ca66
+seen_titlehash:d6ab9f0e869d830b80622a8e4a1218994df53e80c3f27bbf9257591c17e256cc
+seen_reason:processed_not_published
+url:https://news.sky.com/story/infantino-denies-uefa-paid-off-his-alleged-mistress-while-he-was-general-secretary-13570870
+title:infantino denies uefa paid off alleged mistress while he was general secretary
+seen_urlhash:b7f5ba8eefa7ee27ea8a9f449a734e0631a004e6b6845a6af6baa2ac52f9ac1a
+seen_titlehash:5d385e8cd3d4de5fb2c6244ed765b17e21486abfae171edcf6817aed92084fa8
+seen_reason:processed_not_published
+url:https://ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1
+title:moonshot shake up seeks to win beijing nod for stock market debut
+seen_urlhash:dc2e127baefcf8d70a2040eaf134ba6decb6e0cce5588de5d4aa56c96fa8fdcb
+seen_titlehash:8539d0b8bb33ee59786c4093b33c73a1fe1ca0e001b7c47b48c482f3512939cf
+seen_reason:processed_not_published
+url:https://ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1
+title:police investigating ann widdecombe murder reopen inquiry into attempted burglary
+seen_urlhash:68e09e166b68a60739baf2794e3d5a7c6dd6d316ccb26016bf7eb1f867b56588
+seen_titlehash:19d4ec4964b8050a38fcd3c8284ac2f66dff70cbcfdff9b87f0185488ec95d31
+seen_reason:processed_not_published
+url:https://ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1
+title:spain reinstates border controls on italy as tensions rise over migrants
