@@ -39178,3 +39178,28 @@ seen_titlehash:3089e72866bd86de4931a38710b425412d3a49e8db3a487b0deab7cd4054c3af
 seen_reason:processed_not_published
 url:https://ft.com/content/2472ef5a-798d-4e7b-b4be-020855cf387e?syn-25a6b1a6=1
 title:america s new oligarchy
+seen_urlhash:1062aa6b058297faeb8531c9abf8bdd23989a04cfc3d597b82d639a15a2c2ec5
+seen_titlehash:935fbcb7389793d96b8f71600bdf8ca2fe832cb05f63da6b470ec91fb63e8ec7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss
+title:the phone book that led us to assad s spy chief in hiding
+seen_urlhash:b7330672acf4995c5efe6a27e4883251121f45f1bfda68790845307f1abbd767
+seen_titlehash:884fbc22d1c6e572b2ff0719cc711f3915005c9915c05933bce7fb65f5cd46ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss
+title:afghanistan s rashid takes six wickets in odi thrashing of ireland
+seen_urlhash:25e3d326d8743b3c3d58e18c61bdeb980758b319dc7376c365b90f172b2db8a6
+seen_titlehash:706f0cca8782cbb0796c43132c8051dd5f93a5ad1d7591e0b1ec9252f6a10128
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260808-finally-medals-france-open-water-swimming
+title:finally medals for france in open water swimming
+seen_urlhash:7fb61dc6ccccb7f9e84b52bafbed68305b58d4e3159d70769c5e2afff6255f1a
+seen_titlehash:a93d96214e83485c094a04fa5a75d1d68c25db0434ff87063a1bc9575b09b994
+seen_reason:processed_not_published
+url:https://dw.com/ru/украинские-беспилотники-атаковали-нпз-в-сызрани-и-на-кубани/a-78286751?maca=rus-rss-ru-all-1126-rdf
+title:украинские беспилотники атаковали нпз в сызрани и на кубани
+seen_urlhash:b81f98f0bbbb5027214dc0326740956d49dce7090850534e9fbd13675d8c38c6
+seen_titlehash:3c297f2d5bfa1d7e74f52aa05f78b7a61174b2c595b143e7d23db5d04af7df90
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/zelenskij-pribyl-v-serbiyu-s-pervym-oficialnym-vizitom
+title:зеленский прибыл в сербию с первым официальным визитом
