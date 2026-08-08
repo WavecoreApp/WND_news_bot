@@ -39233,3 +39233,103 @@ seen_titlehash:b50a9159bc10acaa22aa90a6d9f1fe50381c621dfe00f2ac7e0dc36e936616ed
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/08/rossiya-24-obratilas-v-prokuraturu-i-sledstvennyy-komitet-iz-za-travli-sozdateley-filma-o-kolobke
 title:россия 24 обратилась в прокуратуру и следственный комитет из за травли создателей фильма о колобке
+seen_urlhash:7ade73f7299adf592a45262227c2a629f235ec9a9d6ec4cd34761a91d14dba0f
+seen_titlehash:bfd094cb3b8e2e1b4e8c3e429866ccc66afd2bc81a0d40e2778ea8c582c06558
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html
+title:italy s heat will spread to western europe ahead of solar eclipse
+seen_urlhash:bda7c0c4df061c56bbc3dbe0092332b5e3644fe82133af643e656dd2f9ebf465
+seen_titlehash:6dee34faf089bc38a7b84693f06a20c774d898d4ed944993bdb906bdf5bb0335
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html
+title:signs of economic recovery while greater uncertainty looms
+seen_urlhash:903a042649f9f71aab714656a73de552b5817abeaef43ccff0e0386bab76f8ed
+seen_titlehash:1c678cf1b32f87c83011559159d01a7afaebf46bcb1d19c23d584672826ccc1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss
+title:mount etna ash suspends arrivals at italy s catania airport
+seen_urlhash:1ed525cb0c35c015edf4894d8f5f7515a71b8f3ffc8e4a9fe592961d524e5c9f
+seen_titlehash:224a5557aec74a965d9bc27b163ba838abb726efafb450d123b65cfaa543db24
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss
+title:us announces 400m investment in australian rare earth mine
+seen_urlhash:1d0efaae3a0022b66b91d6a56ed64401f268aa8b5de986f7504b447fe00f3e10
+seen_titlehash:15328686d5702b4cfbf3698524b8671624f4cd8b1a357a1106bb2d456b92ab90
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/focus/20260808-vietnam-s-indigenous-hmong-people-forced-to-adapt-to-climate-crisis
+title:vietnam s indigenous hmong people forced to adapt to climate crisis
+seen_urlhash:fd9886f9c2a26e905cf857873aeeea31577d70e9ebd94daf84cdbb27661a6e27
+seen_titlehash:dbdd86501f7a0bb5e8ca2b764df43aa8ee089faf48e3dbe0bcffa4d2aef033d6
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260808-spain-to-impose-border-checks-on-italy
+title:spain to impose border checks on italy
+seen_urlhash:f93d957a0986d8cc351ba9a843f84bc4d2fe3e4acfd5d75f3e46933604b9673a
+seen_titlehash:4988e12e1e0c7c17c74dc7bc2d2f01dc37f8ea20b86d9c60599543e54f11561e
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260808-us-senate-confirms-trump-s-ex-lawyer-as-attorney-general
+title:us senate narrowly confirms trump loyalist todd blanche as attorney general
+seen_urlhash:26a1fe8410ef632daea807d15e6682957d4ac7485f7383e1550daad58b20dfe3
+seen_titlehash:397295dadad834d935fa40c7d2b03f916ea3e336a9b496a887d9953805349511
+seen_reason:processed_not_published
+url:https://france24.com/en/trump-vows-appeal-over-ballroom-halt
+title:trump vows appeal over ballroom halt
+seen_urlhash:29b37bcc3fe01ed1d47f34b21e50953d473455af8a8edb6a34dbb503df8e2e30
+seen_titlehash:8f06bb50d49968b07c299d543459c1f8f708c570b09cd98f6821f8fbaffe4880
+seen_reason:processed_not_published
+url:https://france24.com/en/how-turkey-uses-drones-to-tackle-fires
+title:how turkey uses drones to tackle fires
+seen_urlhash:b8798fda2b5304fb8e94c1e3b75d9ff3e21ab312ebea6f8889b040e056821fd6
+seen_titlehash:fc08b88a97f643a88db7bf772dd7f7c075c6fe8c8498ee4af25d3f5421ba761f
+seen_reason:processed_not_published
+url:https://france24.com/en/cuba-no-power-no-fuel-no-internet
+title:cuba no power no fuel no internet
+seen_urlhash:7cdf4900041931b927a1131e206da465bc620ddf6d52a3c653c23d44cd8d4dae
+seen_titlehash:e01cf8c2ff0d46d2bf3a906344b9711a30d745678154a78cc9a48e83b60b81e0
+seen_reason:processed_not_published
+url:https://france24.com/en/crocodiles-attacks-increase-in-kenya
+title:crocodiles attacks increase in kenya
+seen_urlhash:950a2b0445754cb65747f219c69a0eac47197b81a2faf146ebd6cf5354e8bc2a
+seen_titlehash:a2b911b70a952f79fc05b34d6e83087c28308200bae77be10edff97e5d3a5412
+seen_reason:processed_not_published
+url:https://france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war
+title:saudi turkey pakistan deal for joint support amid regional war
+seen_urlhash:b63858d8ce6a2b39c227b4a1a2b10c495c9bd59cbce0539cdc3a0e0f3776d5f2
+seen_titlehash:dea70002289a5b60d8c4e39fcdb4fa9c46b1a4f6c3fe516c4155a11ece0f4e57
+seen_reason:processed_not_published
+url:https://dw.com/ru/верстка-после-взрыва-умерла-еще-одна-родственница-генерала-вкс-чайко/a-78288216?maca=rus-rss-ru-all-1126-rdf
+title:верстка после взрыва умерла еще одна родственница генерала вкс чайко
+seen_urlhash:d4c5b47e5dfee5f8efc17eb6418cda8314ff6f29128d1252aaafcc4b240f46bf
+seen_titlehash:c07f88078f8f69564e4740a4715948552b08424c810e6d54468e63b4547c0fa7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/08/novosti-dnya-8-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 8 августа 2026 г дневной выпуск
+seen_urlhash:ce69e47fce67088115a723215508760b8da5342195b09c0c40c00879f38423b9
+seen_titlehash:6b89453012f2d9b2408e3187a2b55b3c7b7a039885c783782fa5f4cd85256d79
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/08/novosti-dnya-8-avgusta-2026-g-utrennij-vypusk
+title:новости дня 8 августа 2026 г утренний выпуск
+seen_urlhash:963a01f1a878f739da4e40f3fca43022d33fc69eb65171ccd12d9e6816598503
+seen_titlehash:a50d85552ff82ea7d244714116133f247e0c5309a5caee214c736bb4d0f549ee
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/08/erevanskiy-hronofest-edinstvennyy-teatralnyy-festival-v-afishe-kotorogo-est-i-spektakli-iz-rossii-i-raboty-emigrantov-i-inostrannye-proekty
+title:ереванский хронофест единственный театральный фестиваль в афише которого есть и спектакли из россии и работы эмигрантов и иностранные проекты только здесь режиссеры артисты и зрители разделенные войной могут вновь почувствовать себя одним сообществом
+seen_urlhash:3606c8d9b8123613958fc590c37c40d173b3b3f070284129d4dd75f3fc2123f2
+seen_titlehash:ed9abba2cab9e5a2e686961a388eb7b5a9dac8aacedd5fa1883dd748138dcb93
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/sobyanin-zayavil-chto-s-nachala-avgusta-ukraina-zapustila-po-moskve-i-podmoskovyu-1984-bespilotnika
+title:собянин заявил что с начала августа украина запустила по москве и подмосковью 1984 беспилотника
+seen_urlhash:5b5e485e3ec380ca5b1603a5ff5dc92a2633f5b1ba50dc6b7aec38a76d70190b
+seen_titlehash:18b4cf0ba9d4f6fee0e2cf05437499bb2533f23f6622241770e6adb2a9dae9d5
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/08/yabloko-trebuyut-snyat-s-vyborov-v-gosdumu-no-eto-ne-dolzhno-pomeshat-tem-kto-idet-ot-partii-v-regionalnye-parlamenty
+title:яблоко требуют снять с выборов в госдуму но это не должно помешать тем кто идет от партии в региональные парламенты в петербурге в заксобрание баллотируется 21 летняя марина песляк она искала любые методы чтобы агитировать за мир
+seen_urlhash:dc4a8cd378ee987ffae271b78e9952995e60760ea7749a7ab2603252189949cf
+seen_titlehash:b68c0e9d83e7bf058e3f38c979ffcd1293218e4988c2e4d694faee555b4ceef1
+seen_reason:processed_not_published
+url:https://ft.com/content/d2248ee9-edb5-445c-b89b-425e033a19fa?syn-25a6b1a6=1
+title:currency interventions have a mixed record
+seen_urlhash:4e87faa7e0468d62914a6c56ad30f76a5ea93693980463a2b2ad6adb5a35508a
+seen_titlehash:f5dd6532e17240acd8482e858cbe5ad08c1e59100c095bf5edab6811148e8f54
+seen_reason:processed_not_published
+url:https://ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5
+title:us senate narrowly confirms todd blanche as us attorney general
