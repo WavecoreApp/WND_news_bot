@@ -39853,3 +39853,18 @@ seen_titlehash:c7262bb5add8fe99d6e5542fdb2755eaae0557336c206c75c984c659556323a5
 seen_reason:processed_not_published
 url:https://france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says
 title:ukraine braces for winter power crisis after russian strikes zelensky says
+seen_urlhash:83f00765026d8950e9fe2e21f7217e227ffe1a5d06c0aa744ca16990cee92647
+seen_titlehash:2686a9190a302d63e05aa67c823b37322e0cfc87fd297f7643a4ae0fee491301
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss
+title:paris tells e scooter riders to wear safety gear or face fines
+seen_urlhash:9255fb7d7c97e3e420f216f0cbd1ddecbec88398a6a0b4037dfec25ad63998bf
+seen_titlehash:c247d43f50617694596f9dff263faa02a34f28568461423c4c7f0aeadf4caa98
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss
+title:trump s former lawyer is now attorney general
+seen_urlhash:dd545085b66c2bba2250ab703e1e632b60116cc1a8c400068d375b25c00c09ab
+seen_titlehash:31f5cea127650804d1c687784174da8a0def95bf6017d6ebe3f85eb053e2a242
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss
+title:what are the challenges facing the mecca agreement
