@@ -38788,3 +38788,73 @@ seen_titlehash:19d4ec4964b8050a38fcd3c8284ac2f66dff70cbcfdff9b87f0185488ec95d31
 seen_reason:processed_not_published
 url:https://ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1
 title:spain reinstates border controls on italy as tensions rise over migrants
+seen_urlhash:e91c0eecfb3006d9a3bfbe090075a1295767f6d2f5217702a60a93d7f3252cd4
+seen_titlehash:72e0dfd97ab69c6ed5ca0ca887b83c5fec137a336af1d2daddb4882688457c72
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html
+title:canada offers u s concessions in trade talks but demands a comprehensive deal
+seen_urlhash:0d2b2c34d2c7051819fe2d4ff3fc30292c40ba148b03ebde4349d7c180b7c08a
+seen_titlehash:ac95c895360eed1db37a3c57ff0ac26d0a61034041c6999c6d096618e5b1a28e
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/08/senior-managers-at-st-basils-aged-care-where-50-died-from-covid-cant-remember-it-all-grieving-loved-ones-cant-forget
+title:senior managers at st basil s aged care where 50 died from covid can t remember it all grieving loved ones can t forget
+seen_urlhash:edd89ff23da5ec1d8ec4d74bdb36034c83be418e82ce9d99e33e4e965e87e1b5
+seen_titlehash:6b9e644ad53a2fcd70586d698f400638fb89808ff11b25af00debefa7490e49d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador
+title:david brat bound for australia as diplomat confirmed as next us ambassador
+seen_urlhash:cbb4317f4e5535ffb87f0e9390aca58865ccc33f353e3a46e7752cc61bc7c710
+seen_titlehash:97c401e27b6683c9481db060c722acdb6da0592fa298992ed7adf5ce091be11a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss
+title:de la espriella sworn in as colombia leader vows crackdown on armed groups
+seen_urlhash:8ffc86828bd0cbee5906c595b505d6ee6cdb7b57478d75d45020cce559592ea7
+seen_titlehash:730a981b8810ff062bb77ee861270ed47536258b1d9a7707462949c484c33990
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss
+title:sudan s war threatens an entire generation s future un warns
+seen_urlhash:7bd0c9ac189815b5d1533760100af53b8a6002a216d4862fd0caabdb07776b5e
+seen_titlehash:c77ae145847d3ff0ed9d6ade9ee60c48f2de9b0db68ed710310c911d31b1efd3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss
+title:puerto rico rations water as severe drought leaves reservoirs depleted
+seen_urlhash:7cb5cdfee0978d4a4f60d0f9df5b9dec3b854b673751703d626dfa4a9f01abac
+seen_titlehash:0bb5d8cf6b12df17830caf5cb463c259d35311b8884fa814f10645314007b3ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss
+title:us senate passes sweeping russian energy sanctions bill amid ukraine war
+seen_urlhash:4321cdd260fbf708124afde26fdf5b435d9c70a0a3b61d99b59ef95862682bf0
+seen_titlehash:7acfc40b2e7356762b8d22cc957c59682360a904e810c8cad09cc2b62348557d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss
+title:iran war live trilateral mecca defence pact signed as hormuz deal looms
+seen_urlhash:7f749a912c52032a67b0aa9d77424ea46edcd7d5a9577be15ffd3c4c38fa0e75
+seen_titlehash:044edb02e151df947178a778bdbee0a2d47775bb56dbd412047dfb6a551f2b8b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss
+title:donald trump renews effort to fire federal reserve governor lisa cook
+seen_urlhash:9fc14cb7521624f3611a10476d0ebff11704d1d3c3816a52616f6154ffa79fe0
+seen_titlehash:a29f7e15a95be429b19cadabf6ac07a159d8847fcc82bb4d5ad176761cb640c5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss
+title:icc body urges chad and venezuela to reverse course on withdrawal
+seen_urlhash:ec9d887edbd13fd3ea104bc755be613ac97b0c77a0c19ab6d3dc98c5f7b8f381
+seen_titlehash:5035c6afb81a1d4f3f13c5c8e247b4e840d4d0aae9dee1c58e73c49bae878218
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss
+title:will pakistan saudi turkiye alliance actually create a new regional order
+seen_urlhash:a1ba32ebe217e62a5d1e6f2fc32e95a3f79dcaa02fc775f6c33437b9c2321b75
+seen_titlehash:0b14361cef9863f5ec08da75359183a98e41cdc28bd2c3d64c9f7c9d8897c0d9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss
+title:medics among six palestinians injured in israeli attacks across west bank
+seen_urlhash:7e508b04ab174ff3e9608abab1b13be8ac0fdef4cf014426b672a7446ea11862
+seen_titlehash:67fa415c2399116c77286d0a97ef761dd9b0b49293161499dfc9751365243fe4
+seen_reason:processed_not_published
+url:https://dw.com/ru/евросоюз-и-украина-приветствуют-ужесточение-санкций-сша-против-россии/a-78286676?maca=rus-rss-ru-all-1126-rdf
+title:евросоюз и украина приветствуют ужесточение санкций сша против россии
+seen_urlhash:6e42ad6b8584ae10d64c60ce899fafe2038bb8f83f895be7e9ffbf37c1f9031c
+seen_titlehash:dcca69fba888d3915564c8cb814b04f3d0f970fa03c1acfab3b8b856111f51db
+seen_reason:processed_not_published
+url:https://dw.com/ru/над-военной-базой-на-западе-германии-вновь-замечены-неопознанные-дроны/a-78286644?maca=rus-rss-ru-all-1126-rdf
+title:над военной базой на западе германии вновь замечены неопознанные дроны
