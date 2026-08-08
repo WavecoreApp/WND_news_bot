@@ -39753,3 +39753,48 @@ seen_titlehash:48f9331ff441eab91ef32475f211dd0b757b62edfef44cc3243d0ddec2957f1e
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/08/08/umer-horhe-messi-otec-i-agent-argentinskogo-futbolista-lionelya-messi
 title:умер хорхе месси отец и агент аргентинского футболиста лионеля месси
+seen_urlhash:97ffdf4ea5d773d52b72a67368f3c9426db07029f17d39a69d000f5c32082f74
+seen_titlehash:a0705789edd50fc0307f49f943cc252ad5484ba8d3e79a2e85f8aaa058e76414
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss
+title:fast moving canada wildfire doubles in size forcing thousands to flee homes
+seen_urlhash:db1f0d5406f8aef2f09ddb94a6b1536282e2f1094bb614121b2944c9d25b1a3c
+seen_titlehash:1cb43df90fdecad013afea4f33091edd949550041bd661f73379cfdcc8035935
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html
+title:wildfire forces evacuation of 18 000 from summerland british columbia
+seen_urlhash:645c65db394777626907d786b65d83844f0c142f98026032c5acb3faca56be07
+seen_titlehash:42b94b407fac3d1b25a96793b67325468f106450d5e39171b425679dc739cc45
+seen_reason:processed_not_published
+url:https://nytimes.com/article/canada-wildfires-2026.html
+title:canada wildfires what to know about fires in british columbia and ontario
+seen_urlhash:9e5d22ad6a2d83819ee979d664302d4f20acfe2efec1b226d3cc470ed2e708a5
+seen_titlehash:42d518722d69f6ede3595c4d75df40351040637c56c7b9dd1485ccd5442c9d9c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss
+title:the influencers taking on far right leader nigel farage
+seen_urlhash:a577071da51674b993cd37b51e50eabc9f14fde23ed9f9793360df801e18a9b1
+seen_titlehash:6e27913753ed6c84f8c7a83af68155b92317ef2a5be2379e52abddfe1e74fa93
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss
+title:gaza health chief urges action to save dr abu safia before it s too late
+seen_urlhash:ed88738381ad4a5f04d871663131224a0a6a2b7d34a5425277bc254b5037cb03
+seen_titlehash:3ae60f37992aeae7b07f1966a6e1d99b5c6d0708e1dcbcb130875e49bcbd1af6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss
+title:british columbia issues evacuation orders ahead of fast moving wildfires
+seen_urlhash:4159cdfe9b19ea91159050623d7f6f8109fa5cbec40265c2b57d01c576d14819
+seen_titlehash:9e48ec86e02953c40cd52d2f3f02bfea1db2f822ad65808693bfa13b92cb2a65
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-венгрии-на-пост-президента-выдвинули-экс-председателя-верховного-суда/a-78290705?maca=rus-rss-ru-all-1126-rdf
+title:в венгрии на пост президента выдвинули экс председателя верховного суда
+seen_urlhash:672a665a46764c277cf260b54b70c6d2da95d52d8d7b21a69230187272b89e13
+seen_titlehash:77fc435dff2216116fe5c701ef8dc5eff02e65b74d94fb184ca47cf04bb6a2af
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/08/iz-kembridzha-uvolilsya-dzheyson-ardey-on-ne-umel-chitat-i-pisat-do-18-let-a-v-37-stal-samym-molodym-temnokozhim-professorom-v-universitete
+title:из кембриджа уволился джейсон ардей он не умел читать и писать до 18 лет а в 37 стал самым молодым темнокожим профессором в университете сейчас его обвинили в плагиате а к его биографии возникли вопросы
+seen_urlhash:f36dc439eee5d380e5dce963043786cd2ab4a444b7561ffc194340c97f0d0681
+seen_titlehash:f02d9c6baa8677ea6210a0d78eaf4a3c2dd7f2277f37ccddddfa88442cc0dd6c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/isk-o-snyatii-yabloka-s-vyborov-v-gosdumu-rassmotrit-sudya-ob-yavivshiy-memorial-ekstremistskoy-organizatsiey
+title:иск о снятии яблока с выборов в госдуму рассмотрит судья объявивший мемориал экстремистской организацией
