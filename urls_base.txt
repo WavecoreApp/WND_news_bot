@@ -39123,3 +39123,58 @@ seen_titlehash:f42e83b909c8a96fa0b59ad967f14fe7b84f978a46d49ebb9d3fead6e0db42d8
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/08/pochti-400-ukrainskih-bespilotnikov-atakovali-regiony-rossii-i-krym-v-samarskoy-oblasti-i-krasnodarskom-krae-goryat-npz
 title:почти 400 украинских беспилотников атаковали регионы россии и крым в самарской области и краснодарском крае горят нпз
+seen_urlhash:6523619c812e89e1bb59e932148ae9951c79fa96bebb6614cad432a3df04c3c3
+seen_titlehash:513824174a5b6b008e73a6951c8549796c408f5a9c034cabe9457f8dbe755c69
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2
+title:from tehran s walls to the world iran s visual propaganda as an art of war 2 2
+seen_urlhash:b71ec3276aa9c9ae106d609ded9e1faf8b09654b8da430ebbae9edcd5dacfbed
+seen_titlehash:e7dbdd00281ae5b2278638879b7ff3998b1855d656dd53c389bba6e759c0c19a
+seen_reason:processed_not_published
+url:https://dw.com/ru/маск-не-разрешил-всу-использовать-starlink-для-ударов-вглубь-россии/a-78286943?maca=rus-rss-ru-all-1126-rdf
+title:маск не разрешил всу использовать starlink для ударов вглубь россии
+seen_urlhash:54b0826599b54c67412934d8749fea57588c03098506f7068fa97eb5d41cef44
+seen_titlehash:30f528529647ebc83ff56da33937f72c0b6a637a41a79dea71d0ef7e86ccad12
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/08/clash-between-rome-and-madrid-how-checks-work-for-those-arriving-in-spain-from-italy
+title:спор рима и мадрида как работают проверки для прилетающих в испанию из италии
+seen_urlhash:5b4c5596fafa2f04d83dd279cac77fc950aa0eca53973dfe4c0256a49f2b5a96
+seen_titlehash:b5dfc57193ae6b2f1b34b18d0b15eebaa1ea9780054f2cd9164536e1213ea869
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/roditeli-ubitogo-studenta-trebuyut-izmenenij-v-migracionnoj-politike
+title:мариус умер его сегодня зарезали родители убитого студента требуют изменений в миграционной политике
+seen_urlhash:023a48dcfea23338163ce698ce93518d17ebc5d4f06aa811c067d06b7a7856f6
+seen_titlehash:8b6b0578ffcd6962ab18ebe7c7bc5b45ae67dd146772559c9be8c7afb10ca678
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/08/wildfire-smoke-poses-an-increasing-risk-to-pregnant-women-as-climate-change-worsens-accord
+title:дым лесных пожаров все опаснее для беременных из за изменения климата исследование сша
+seen_urlhash:ff36d7ed64149d8973cb14fd9a5086690ae4d37a6641056a1f2c03c7078ade97
+seen_titlehash:0df704bfd59b4b4012affa2009e79452a4b3bb7cc9f5975b3c7823e872adf2de
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/08/danube-low-water-this-wehrmacht-motorcycle-lay-on-the-bottom
+title:мелководье дуная на дне нашли мотоцикл вермахта
+seen_urlhash:22327ca334ec4b78b3e2047a4ef9dbd0fa5916cc1055e42fdc14ba2b14ca0b4d
+seen_titlehash:a738a6c42bcfc07f064cf55ee337147b9ba430f2e5582157147c94c281f6c073
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/rossijskij-udar-po-kievskoj-oblasti-troe-pogibshih-sredi-nih-rebyonok
+title:российский удар по киевской области трое погибших среди них ребёнок
+seen_urlhash:799f53c18fc171b5b12be8dcb959336da456c9d45cb2f886632c6b604068f3b8
+seen_titlehash:ebcceda615f9ca71ecea396fa28a2e7dd71b8507477f4a0bb748461a33c38570
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/ispaniya-vvela-pogranichnyy-kontrol-s-italiey-ranee-rim-vvel-analogichnye-mery-iz-za-migratsionnogo-krizisa-v-seute
+title:испания ввела пограничный контроль с италией ранее рим ввел аналогичные меры из за миграционного кризиса в сеуте
+seen_urlhash:b2805f5d765a564626901ed5491828466a54b712874e3d3a6ab5f411d646c64d
+seen_titlehash:b55f15baa0375a9f599578afe8181fb0aafbeac1c7f27af51c511d87684574f1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/rossiya-vtoroy-raz-za-nedelyu-nanesla-udar-po-kievskoy-oblasti-pogibli-tri-cheloveka-v-tom-chisle-rebenok
+title:россия второй раз за неделю нанесла удар по киевской области погибли три человека в том числе ребенок
+seen_urlhash:88f12cdd9d8f3d9a9c581df950e2103ccc93fea79d9c74b58a6a5fb712abf313
+seen_titlehash:9b763362bce27eeaf92dc2d48db6ab9a8f837cc37fc87b41e9cfb1008d45572a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/08/itog-dela-knigoizdateley-o-prodazhe-kvir-literatury-tri-uslovnyh-prigovora
+title:итог дела книгоиздателей о продаже квир литературы три условных приговора за этим процессом мог стоять аркадий ротенберг а избежать новых обвинений помог владимир мединский выяснила русская служба би би си
+seen_urlhash:81c08406684777b270e0155c325d5ed967944b5bce5fe9313ae4f4e2ce74b25f
+seen_titlehash:3089e72866bd86de4931a38710b425412d3a49e8db3a487b0deab7cd4054c3af
+seen_reason:processed_not_published
+url:https://ft.com/content/2472ef5a-798d-4e7b-b4be-020855cf387e?syn-25a6b1a6=1
+title:america s new oligarchy
