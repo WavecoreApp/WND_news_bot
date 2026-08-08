@@ -39488,3 +39488,73 @@ seen_titlehash:8b8cc8c805d2d0d75d61f73e0bdcf003c81817d0a37f339954582427c09f2343
 seen_reason:processed_not_published
 url:https://ft.com/content/a371dc43-0584-4fcc-b064-80596727d5b5?syn-25a6b1a6=1
 title:pfizer grapples with a world of hurt after covid triumph
+seen_urlhash:da42f7e2dddc40cda6c6c949878daaa48a843c165206c25b99748aee880e33d1
+seen_titlehash:0dfa4f9d9cced80ff3d8b98ef46274da69ef6bef566218e7dac4c6840ee6beba
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss
+title:nba forward clarke s death due to effects of drugs
+seen_urlhash:d02f51ef6c529d0df03909f8a37408ce5731906770c9227439b6cb86c99af9f6
+seen_titlehash:cc2e2c794206ae37ae70c2937fc0018de333076b493c6f86ae522f8dc1191506
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss
+title:ivory coast s talking drum returns to home village after 110 years
+seen_urlhash:6ace7cb67a5173377095c859a48b6f09d486f7cdbade3bea090f2cce5d6efe5c
+seen_titlehash:d62b63146b317e3ba14619f7aa1f775d5b4f30af29e1a70adb11a3faacb34dcb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss
+title:drones spotted in bulgaria and germany raise concerns of russian escalation
+seen_urlhash:c6397d021fb986ec3458f95fd191a631d22de778705466738f6da816e8ed09da
+seen_titlehash:5babdf8b985798b9916f5953ab6cafe69667bd176dedb577520883e1f2c23c88
+seen_reason:processed_not_published
+url:https://france24.com/en/russian-attacks-kill-several-in-ukraine
+title:russian attacks kill several in ukraine
+seen_urlhash:1edd79db8c88c5cf6cbc85f9c60ed53504e102a47cbe9efc5ca1ee714f45e19b
+seen_titlehash:981424a8264af3f9c386c05b48aa157accddc6695685398e779164aa6c96430b
+seen_reason:processed_not_published
+url:https://france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general
+title:senate confirms todd blanche trump s former lawyer as attorney general
+seen_urlhash:d51893e8dc9b98cfca16ce3c0b66bdfbe8ce9f251f4571fdfd0b299483caa504
+seen_titlehash:2e84f6121a919acf226bed003facad9f21fa5e49cdc8dbd9b55ac9f769fea510
+seen_reason:processed_not_published
+url:https://france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout
+title:saudi turkey pakistan pact comes amid us iran war fallout
+seen_urlhash:078ad4a0a699d11bc336fdef14706611488fdcfd5ec02fabc06a9e2b4ddd7fe0
+seen_titlehash:820e473981c4df018709c6258be6a7fc498c1ab1daf53d0a8aa48ade0fa92431
+seen_reason:processed_not_published
+url:https://dw.com/ru/аспиранта-рудн-из-китая-отправили-в-сизо-по-делу-о-шпионаже/a-78289394?maca=rus-rss-ru-all-1126-rdf
+title:аспиранта рудн из китая отправили в сизо по делу о шпионаже
+seen_urlhash:e6aa01ffffe86c49ea5ebce93263837a2bb9c874c45fe0e10d2788e7bb1269ba
+seen_titlehash:31edb0fa5b94e9104962cb7780af42abdc3dd305f75d020195664cb45fa4cac1
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-сербии-вучич-пообещал-поддержать-украину-на-пути-в-ес/a-78289205?maca=rus-rss-ru-all-1126-rdf
+title:президент сербии вучич пообещал поддержать украину на пути в ес
+seen_urlhash:3e2c23ac92955f2302258e87e74dce9aef9128c7e72de2048607c550b0ea73d4
+seen_titlehash:e1bd9fd225cfddc3541d5487317af15476ead37c180abc95a15c223434a6d2c3
+seen_reason:processed_not_published
+url:https://dw.com/ru/премьер-болгарии-сообщил-о-взрыве-дрона-у-границы-с-румынией/a-78289087?maca=rus-rss-ru-all-1126-rdf
+title:премьер болгарии сообщил о взрыве дрона у границы с румынией
+seen_urlhash:cba2c74eaac4fe607f35f5c0b4ba4a0ca57cc4a72d3b4ef07efe857f70358a3a
+seen_titlehash:600b32ba464e74d3a8f9430aa581781828a208d877041203d302d2762df93c41
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-заявила-об-ударах-по-12-судам-теневого-флота-рф-и-военному-объекту-в-черном-море/a-78288867?maca=rus-rss-ru-all-1126-rdf
+title:украина заявила об ударах по 12 судам теневого флота рф и военному объекту в черном море
+seen_urlhash:d0af7f2aff298177923aca5e173011ce35007433455ecc84d77d3268c1bd168b
+seen_titlehash:903148cb4715567ce0af4b5a5611458f44145a31e6695de4bea6de345e806f62
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/08/iranskij-ostrov-hark-fakticheski-ostanovil-eksport-nefti
+title:иранский остров харк фактически остановил экспорт нефти после возобновления морской блокады сша
+seen_urlhash:507901758c986850b3a8e4ca07dbc0c1990a5d6e623ec7c1cbc2a77cc9fb68b7
+seen_titlehash:13ac92ee5ead4e47596080f414192fed3f6cbaa8e60b5543a0e7eed90c7ebbe0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/v-sheremetievo-dve-passazhirki-opozdavshie-na-reys-popytalis-dognat-samolet-po-letnomu-polyu-ih-zaderzhali
+title:в шереметьево две пассажирки опоздавшие на рейс попытались догнать самолет по летному полю их задержали
+seen_urlhash:1947b6a96a72cc2014af93165f2221d6e7d22a7cb49a80608d9b4c27e12a4213
+seen_titlehash:6f2d7fbcbc29dc2e828482e331460309632778ee5b3425c78260a3ef7bf457f1
+seen_reason:processed_not_published
+url:https://ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1
+title:greg abel finally puts buffett s cash pile to work
+seen_urlhash:3837f9da42a41f9eee66f4b3b2bac114bc2f9c380d8d0490f28736e48519c044
+seen_titlehash:9b4c6d84845c3ad2df82eb091fd67e2ccec9b2bd3b7c6a881c7d0dfd1ef68c11
+seen_reason:processed_not_published
+url:https://ft.com/content/06a25d8d-77d8-4dd5-8cd6-a105423544b2?syn-25a6b1a6=1
+title:solar eclipse threatens to tighten europe s electricity squeeze
