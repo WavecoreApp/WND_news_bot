@@ -39203,3 +39203,33 @@ seen_titlehash:3c297f2d5bfa1d7e74f52aa05f78b7a61174b2c595b143e7d23db5d04af7df90
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/08/zelenskij-pribyl-v-serbiyu-s-pervym-oficialnym-vizitom
 title:зеленский прибыл в сербию с первым официальным визитом
+seen_urlhash:6837f1c81ca6accc1927d5325f70ec5bcf158505898816c9d1c3e222a269b6a9
+seen_titlehash:313922a5a5513fa75214d9c132e61e19b6d0cc9bd2fbb7e0927bdf9f51781c4e
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss
+title:messi will decide when he retires says argentina fa chief
+seen_urlhash:7eabe0cd88875449a340902213cf5b9c5e443d9ab431f949a90c3101fc2deba5
+seen_titlehash:adfbe26f347610261341b3c0c8fb4b679696738ea256438b7b4b212a897f977a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss
+title:typhoon dolphin hits japan heads towards china
+seen_urlhash:acc525a0cc876e37f7c707f29e0ccd470e22d8e0b5a0cf42045ae354e4267d69
+seen_titlehash:348d07562635657130c42efbbe481af3e7f1f96fffdf2b5d941dd48a02309650
+seen_reason:processed_not_published
+url:https://dw.com/ru/депутат-бундестага-реакция-посольства-рф-на-инцидент-с-дроном-неубедительна/a-78287410?maca=rus-rss-ru-all-1126-rdf
+title:депутат бундестага реакция посольства рф на инцидент с дроном неубедительна
+seen_urlhash:5f7b8a45205c570f880a0309ef3724cbdf060b39329b78c812fc330a0a3d7038
+seen_titlehash:2d5a82b136ec4b3062d4f459688e8037a652f056647285ce2bd3328c398009f2
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-вс-рф-на-киев-и-область-погибли-четверо-ранены-восемь-человек/a-78286693?maca=rus-rss-ru-all-1126-rdf
+title:атака вс рф на киев и область погибли четверо ранены восемь человек
+seen_urlhash:b942689e8df2df694222e998fdfa2f0021a98fb902dec4b19753e586327221a6
+seen_titlehash:13b0ea0b227e7f6eac21c851424fd13c8d1c4652dd088de5034153e97cc877b9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/v-moskve-po-delu-o-shpionazhe-arestovali-aspiranta-rudn-iz-kitaya
+title:в москве по делу о шпионаже арестовали аспиранта рудн из китая
+seen_urlhash:3d264c05443fbbb535880fcc58995f4b192cac670d25e7dcf38d83731f15fd93
+seen_titlehash:b50a9159bc10acaa22aa90a6d9f1fe50381c621dfe00f2ac7e0dc36e936616ed
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/rossiya-24-obratilas-v-prokuraturu-i-sledstvennyy-komitet-iz-za-travli-sozdateley-filma-o-kolobke
+title:россия 24 обратилась в прокуратуру и следственный комитет из за травли создателей фильма о колобке
