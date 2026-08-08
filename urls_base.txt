@@ -39588,3 +39588,68 @@ seen_titlehash:85097953843faac1a60c6da4d45c46242eea86a50afb96383f7cf5940b9e8e85
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/08/08/voyna
 title:война 1627 й день турция ограничила движение судов в черном море на фоне участившихся атак россии и украины
+seen_urlhash:ea3739058564d29adc18a0a5214a1b3daeaa90bc5b3e0334378b1ad12a5ac128
+seen_titlehash:810d0b72d5f93d9fa851d160ab5db6ea64856dbea04e8aaff0f0272e2400a86b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss
+title:typhoon dolphin batters japan s okinawa before bearing down on china
+seen_urlhash:68a0f7e36916523fd1c05cb99f69bf33abac84b9859ecf8828df91f3af8d5db0
+seen_titlehash:a12cb4b4650d0d06f422a72bd3bab0d8fd3173a3207a1ec93d1d43ea541bd30b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html
+title:iran issues list of demands dampening hopes of reopening strait of hormuz
+seen_urlhash:8822d27072abda5c0ad2a94319c73b904547ee716f22f4fe80829a1c9e8f3752
+seen_titlehash:cb02a7a7b071a29b58cb8e47d567e0601f4f25cd481aa7cfc3d34f927ce11561
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss
+title:uae says iran targeted adnoc tanker in strait of hormuz no casualties
+seen_urlhash:93945a88e4993bdc3061d9f510ecfe1391f0d3a7104ff07ae5229ee7bb46b5f7
+seen_titlehash:7619da8a2409119f602b65f9ab69d1446fc97a688123f90b818eb1a4001b0175
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss
+title:iraq s kurdish region wants to stay out of regional conflicts pm barzani
+seen_urlhash:5c3d34abe0dd0586be2f597d2caf66a412ab740564fa031f4bc68919d00db65b
+seen_titlehash:78b73a786ddea5bb900f60c9c89a56fe2356e4fa81ed728bd0542695be059506
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss
+title:lionel messi s father dies aged 68 after a long illness
+seen_urlhash:507cce16d07d4641525d69ba2b607b7d491210bd1d69364083d5d842c2f8d388
+seen_titlehash:1701e3cc6523fa15b348d1d8df81a3c38db212618af76debfbd6cb4c25320947
+seen_reason:processed_not_published
+url:https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966
+title:irish government jet en route to dubai to extradite alleged crime boss daniel kinahan
+seen_urlhash:a2474b5e79cc90bce65dd4598b1fd8b41eafb1bca64c82d199f2ca8493ff630b
+seen_titlehash:a576237c2638a69bf7e2d0ff75ee6e297f3ad5212d11f0dec65dd8ca64c731e2
+seen_reason:processed_not_published
+url:https://dw.com/ru/openai-приостанавливает-разработку-новой-модели-из-за-ее-потенциально-опасных-возможностей/a-78289634?maca=rus-rss-ru-all-1126-rdf
+title:openai приостанавливает разработку новой модели из за ее потенциально опасных возможностей
+seen_urlhash:dbd98891098ca64fccaf077f3c793fbd597d6f95dfe1d7c809ca9fcd3483b5ec
+seen_titlehash:bb78be2a71ed3845437c0a9a2535b486f52df6755d35fae336cb19a1b1eceacc
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-сша-будут-ежемесячно-поставлять-киеву-ракеты/a-78289674?maca=rus-rss-ru-all-1126-rdf
+title:зеленский сша будут ежемесячно поставлять киеву ракеты
+seen_urlhash:289f4363c9f5fdaa4ec39dbbec0d38e4d32d249805aa3ca305bf2bd6b131f66e
+seen_titlehash:dc4a07cb9f917a517cbef5e993a0bd32432f281c84682ffe5d3b055ecd6bfd8f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/glava-seuty-potreboval-vernut-v-marokko-do-11-tysyach-chelovek
+title:все мигранты должны уйти глава сеуты потребовал вернуть в марокко до 11 тысяч человек
+seen_urlhash:7a795feeddea78ab3c17db45b78f10997e810871d260472667cc092c94ead6bb
+seen_titlehash:3a8a83e2cbaed5476f882a2fc2f266c95a7be237ae1e3861300b344191f41d05
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/vuchich-opasaetsya-tyazheloj-zimy-dlya-ukrainy
+title:вучич опасается тяжелой зимы для украины зеленский заявил о ежемесячных поставках ракет сша
+seen_urlhash:e85d4e858b6b32e26a5937eb1f8e4a31a5936de1729e70eb9c2ac6bf44309095
+seen_titlehash:718b8d1ba131eeb7a1373254d8269947e3bf12a4f706d13a4e0c3de72835fc33
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/08/iran-ne-otkryvaet-ormuz-tegeran-vydvinul-ssha-shest-uslovij
+title:иран не открывает ормуз тегеран выдвинул сша шесть условий
+seen_urlhash:9dc4c10638b50f3ee9ece89080cfdf1513ca54acc87425dc5a44ee60c28ec5db
+seen_titlehash:c9e5d4103c5adf4ce616fd94e750e570d535645e8a6b96af17beb962bd3dfcef
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/wsj-razvedka-ssha-svyazala-s-rossiey-bespilotnik-so-vzryvchatkoy-naydennyy-v-leyptsige-ryadom-s-ukrainskim-samoletom
+title:wsj разведка сша связала с россией беспилотник со взрывчаткой найденный в лейпциге рядом с украинским самолетом
+seen_urlhash:622203c52cd08a694ba4e82640b40188c91ea135f1cfb277813d92c492e3f84b
+seen_titlehash:9bce9d55280212e623f01fa59a64e2ff47f1d65c15575e28956a90e2d16ebd1d
+seen_reason:processed_not_published
+url:https://ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1
+title:iranian missile targets uae tanker despite talks to reopen strait
