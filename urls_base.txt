@@ -39333,3 +39333,63 @@ seen_titlehash:f5dd6532e17240acd8482e858cbe5ad08c1e59100c095bf5edab6811148e8f54
 seen_reason:processed_not_published
 url:https://ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5
 title:us senate narrowly confirms todd blanche as us attorney general
+seen_urlhash:08bdccfa6916a793bf340d18174ee06d37ae474a87d812a4856b309ee2d6c7d7
+seen_titlehash:39b6b1a58e97f6176a9307469fcb425ec10dfd7b58af195542864d971f8485fe
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss
+title:todd blanche trump s ex lawyer confirmed as us attorney general
+seen_urlhash:e6b5bd4d6e7ac52c02e363313c2b8fcffe6069b9ad7cc1290c2f5eee9f684f17
+seen_titlehash:127622bab4e6cd1a726b898a85d6a6ded687b023e34bb45ded8bf8a57bd1afae
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html
+title:yemen teeters on civil war as regional stability hangs in the balance
+seen_urlhash:0115fdae7a07afc4dc5154d8f16fef77b950793838c5ff5a42c5aba622598d56
+seen_titlehash:f0afe3013949d6e95603829fc261233781390e4ad5839619096fe471ae440070
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html
+title:as thailand gets known for mass shootings fresh pledges to fix gun laws
+seen_urlhash:38bced568120862e837a24ccc18380feeb4bafda3fb6704f1792d82e81b06be4
+seen_titlehash:42510f5d675682bb5cb5f01516467eac87d7eb76b63ff5e680950f43dd3452eb
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/08/briefing/edge-of-your-seat.html
+title:edge of your seat
+seen_urlhash:67478b229e66e09c099af19f9ea3cb0cb6aeed2f6839b2d30efdbca07e9b51ac
+seen_titlehash:26d06020c3611eb8958422510703100f558cfe234ac41e7b66edbdd79d5077f6
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss
+title:yemen s collapsing healthcare forces the sick to seek alternative medicines
+seen_urlhash:cc709f24ebdeaa8fc51f11bde446fdb0302a20e6c37a552440002d27897a907f
+seen_titlehash:a3c0b88d53e2439ac194c937f43a0f3a305dc92eb750f344f1be46ab5e9f09bb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss
+title:how israel s occupation fuels resistance
+seen_urlhash:445fe4b6ad138532ca1da7576fb2d67f4fdff79b12e3cd116f8415ff4a056237
+seen_titlehash:7a399997faa58ee8f9c8e39bba2a30c5fe361c888405806dc42e4bce41805fc6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss
+title:trump s former personal lawyer narrowly confirmed as us attorney general
+seen_urlhash:de48ab8b034539b368573f5289fb9b77e4a49e7d16028990023e00101d1b8a04
+seen_titlehash:93881529333bf42be50b26771714a73a904c9b7eb517df4a3bf89ceaba6734ff
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss
+title:fiji rugby player dies in japan of suspected heatstroke as high of 35c hit
+seen_urlhash:a87c829ba0b65da81d26d36f681506c51cde90b7e38294364c74224df01a6751
+seen_titlehash:5d072ba807e38bce9dbfc9dd43c950970481e07e2130281007998ace00b90fa6
+seen_reason:processed_not_published
+url:https://france24.com/en/science/20260808-sharks-tapped-help-with-hurricane-prediction
+title:us scientists turn to sharks for help with hurricane prediction
+seen_urlhash:3743913320e07b8341525f8030ccfc337bbd1a6a2fbee66bc55b1a6730e7aa62
+seen_titlehash:f6b2d7a6dd77124321ed7161ff787b3dae0271d346c94ecb1ba527a6257b2688
+seen_reason:processed_not_published
+url:https://dw.com/ru/welt-am-sonntag-ес-нарастил-импорт-спг-из-рф/a-78288349?maca=rus-rss-ru-all-1126-rdf
+title:welt am sonntag ес нарастил импорт спг из рф
+seen_urlhash:bb2fb7831a9d821f43aa3684932cf2df5ee3cc3a1b6bd2ac1252f371f40a6384
+seen_titlehash:0f0ef19b3059b35c74f891a6e9e0c46c16776490ad54226260398d69709fee66
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/08/krupnyj-pozhar-na-ozere-garda-v-italii-evakuirovany-okolo-200-chelovek
+title:крупный пожар на озере гарда в италии эвакуированы около 200 человек
+seen_urlhash:55d2234bd9391595a99f2014c4ac6841c44521dd523104090c2c7b3c3a9baa78
+seen_titlehash:f305c8ba133618700281859836fc9bd566fdb768ab84ed1778f8d54060f6de49
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/08/plyazhi-gelendzhika-nachali-zakryvat-na-fone-ugrozy-ataki-bespilotnikov-3-avgusta-iz-za-padeniya-ukrainskogo-drona-na-odin-iz-plyazhey-pogibli-sem-chelovek
+title:пляжи геленджика начали закрывать на фоне угрозы атаки беспилотников 3 августа из за падения украинского дрона на один из пляжей погибли семь человек
