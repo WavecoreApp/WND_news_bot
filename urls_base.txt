@@ -39818,3 +39818,38 @@ seen_titlehash:9637ae4c37f00e4abb3dbf093dc23457f01f92b3deb97c18a4071b362a0bbcae
 seen_reason:processed_not_published
 url:https://dw.com/ru/на-прайде-в-праге-почтили-память-жертвы-теракта-в-берлине/a-78291069?maca=rus-rss-ru-all-1126-rdf
 title:на прайде в праге почтили память жертвы теракта в берлине
+seen_urlhash:6a9af7925cd30b57c4b3b97d051a2f185912158936493c3870ceb58716a4c40f
+seen_titlehash:a391e6c25b2eec142f2f9eca04662f2ae0379d2374330f1f3c9a1ce692c31475
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/09/centrelink-pursuing-debts-that-are-more-than-40-years-old-despite-agreeing-to-waive-old-arrears
+title:centrelink pursuing debts that are more than 40 years old despite agreeing to waive old arrears
+seen_urlhash:a4902983af3e28c982c8cead64096b6afed0e33708f0c22129c64755c67f3a54
+seen_titlehash:e4a09c6700493e8c5f89a92ac10e6d56556c478ae41272261910ca92ee6405ad
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/09/hospitality-recruitment-app-supp-gig-workers-contractors-casual-work-entitlements-ntwnfb
+title:hospitality recruitment app supp calls gig workers contractors some users say it leads to casual work without entitlements
+seen_urlhash:5fb8429183b6643ca282601ea00cda59c20c4229d9442852892522484c3dd563
+seen_titlehash:8f9444f657adba017b24ed3cf24dd52ba091df341293b0a34b7c78e1bab87bf6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss
+title:at least 200 people evacuated as wildfire rages near lake garda
+seen_urlhash:fb844e951c7b845338aea30325c4c711bc11d52aa21d126198059cab37ed0d04
+seen_titlehash:07f0e43156bb8e14fe3f854ef3f8cc295bd6b289501b961948216e6f41881e2f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss
+title:lebanese soldiers injured while israeli troops intrude on southern town
+seen_urlhash:2048c01fe86afb1a8dfac0973acd296150581c5fc7529700a96b39c2d9a545fb
+seen_titlehash:a3a1c0c7e49e9e282b11af099a77a70957ddf5983cc8e46363c8fcc3ba4ea01b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss
+title:us slams chinese nature reserve as effort to claim south china sea
+seen_urlhash:6a4ed0e84c6d5929dd7ea199a5e3d4ae0cf3d5d42b15e3549564ae2a33423c3a
+seen_titlehash:af0e1946c22b84c01dd171bdb0819937f4bd74fb833cb9220caa77b22cbb712a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss
+title:debilitating hunter biden speaks out about father joe biden s cancer
+seen_urlhash:440dd7202ec6da1a3e9213c268c7d0bb8e24f1d2c91dc0e2f1cff1c78503f9d9
+seen_titlehash:c7262bb5add8fe99d6e5542fdb2755eaae0557336c206c75c984c659556323a5
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says
+title:ukraine braces for winter power crisis after russian strikes zelensky says
