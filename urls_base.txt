@@ -39868,3 +39868,13 @@ seen_titlehash:31f5cea127650804d1c687784174da8a0def95bf6017d6ebe3f85eb053e2a242
 seen_reason:processed_not_published
 url:https://aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss
 title:what are the challenges facing the mecca agreement
+seen_urlhash:b6dd87cece36fd2606c50ea91bfc482bd7e982903e04377f02ca694b909b74d9
+seen_titlehash:13d0e275b115b220d30f93be4d75ca5bc728c987f7fef9d1fe068773c344b848
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss
+title:will pakistan saudi turkiye defence pact change us strategy
+seen_urlhash:889a752cdd16c019fc818bc3ddb1cffa7360f1fd0dc621f0b43ed4e1e0892d26
+seen_titlehash:5170f71247a95d08231e065bc733eb8ba67b6dc916f13bc46e63df98f5a817ee
+seen_reason:processed_not_published
+url:https://dw.com/ru/сербия-выделит-украине-два-миллиона-евро-на-поддержку-энергетики/a-78291188?maca=rus-rss-ru-all-1126-rdf
+title:сербия выделит украине два миллиона евро на поддержку энергетики
