@@ -39798,3 +39798,23 @@ seen_titlehash:f02d9c6baa8677ea6210a0d78eaf4a3c2dd7f2277f37ccddddfa88442cc0dd6c
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/08/isk-o-snyatii-yabloka-s-vyborov-v-gosdumu-rassmotrit-sudya-ob-yavivshiy-memorial-ekstremistskoy-organizatsiey
 title:иск о снятии яблока с выборов в госдуму рассмотрит судья объявивший мемориал экстремистской организацией
+seen_urlhash:6cde9796998abaee7faf42afc5691322b57bc61e947e2e6df2a91791a8d06399
+seen_titlehash:87fcd0ddc356e7a34a2abf19ce35d7210cb4d049547047dfa5c451583a4af2db
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss
+title:hormuz talks positive oman says as iran warns deal would not open strait
+seen_urlhash:405b5938256e7ec9f1027bd9bb391df1c83ea2e6f679d185441147146186d5fb
+seen_titlehash:0c169025dc30172bdfc8ea152ec3a19f0b323942bdc2f2006c2c77af90529d55
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss
+title:australia is the planet s extinction hotspot but one animal offers a glimmer of hope
+seen_urlhash:b3687ad03ed1eff1da8063dc75ef4552b5cdc75834d68be43578cd50f92eb6d6
+seen_titlehash:b16f71ededd2da0e5949632a63fbc880089a60937bd9896c62d7dec53a79cfb6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss
+title:yemen s government forces attack houthis amid renewed shelling of marib
+seen_urlhash:7a5061e52a65e2717b2cb8e8ff56752e4ee906155aef5c73684653076f0fa6c2
+seen_titlehash:9637ae4c37f00e4abb3dbf093dc23457f01f92b3deb97c18a4071b362a0bbcae
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-прайде-в-праге-почтили-память-жертвы-теракта-в-берлине/a-78291069?maca=rus-rss-ru-all-1126-rdf
+title:на прайде в праге почтили память жертвы теракта в берлине
