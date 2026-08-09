@@ -40938,3 +40938,18 @@ seen_titlehash:d760e139fc4a128b560ad762c9cf90771b78aa85724d0fd87f58aeaa00c08527
 seen_reason:processed_not_published
 url:https://ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1
 title:firstft ex cia officials warn donald trump is dismantling us guardrails
+seen_urlhash:aeca304968eb430d0934d62345a7644ed46a8043e4a496e3d55758bf63ca1cdf
+seen_titlehash:b820dd370ec5a93523d32ec840c49620d0af21b5c684d3bacd61e622507166f9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss
+title:union reports 108 attacks on palestinian journalists in july
+seen_urlhash:1c1dbe5233ecd4eab748c0755ccf4a1df71d78497db0754c028a4404e0c4fecf
+seen_titlehash:5b11995462a3508b826a2fb91b68a6d4d8f3ae0592210f5121124e7233131984
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss
+title:what s driving unrest in pakistan administered kashmir
+seen_urlhash:b5d68d777db4331db24d6e01d16b11d46b7201d029ca6e3b0a938357d83cc843
+seen_titlehash:546aa94e9fab535ec529bb27e145aff0bf622a6cb7e2562aee1f84e83a1ee195
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-склоняется-к-усилению-давления-на-экономику-ирана-вместо-военных-ударов/a-78298086?maca=rus-rss-ru-all-1126-rdf
+title:трамп склоняется к усилению давления на экономику ирана вместо военных ударов
