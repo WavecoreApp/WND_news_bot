@@ -40888,3 +40888,23 @@ seen_titlehash:749174c04f8855e33996a8780b2e963e45df796f254151ea7a213d92780bab1e
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/09/ceuta-sexual-harrassment-children
 title:в сеуте происходят случаи сексуализированного насилия над детьми местный врач
+seen_urlhash:a7befc3b57923e210045f3a254b58541ef844730014adf7d6e7875a44641c897
+seen_titlehash:0974d171457831fc9350ffb3e23b82bfdf6c11c6fbea0459507dee4ea3d22196
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss
+title:nigerian army says it safely rescued 33 people kidnapped by gunmen
+seen_urlhash:d8c663ca59a8b9bb4409faa3bc5177bb54a8bd3d1dd8500ffd53812550c77d09
+seen_titlehash:317cfb7fe692a44a2b3b2fd6d08da142964f99e9b47fa23cb6a78ddef5c21878
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss
+title:palestinians say netanyahu s decision leaves no clear path to peace
+seen_urlhash:564f6dd87e145ea772ecfb1b2201dc79e17c2752c73a9888ac61aaaf460dfea8
+seen_titlehash:422f88870bffb0c84182b7b7891558c2a6faaf7eaddf5ef4f180efa5d5e11662
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss
+title:israel is trying to make palestine disappear the elders
+seen_urlhash:6ab3de7e07f109bad4beaa40c458de43daccbbd1f409d08c6f17e6d165ad430c
+seen_titlehash:f2d315778c0a041d6fb378a4dc4067f4afbcaaf0e7588cf0a245f5df2764779e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands
+title:iran vows to keep strait of hormuz closed until us meets demands
