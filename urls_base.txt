@@ -40073,3 +40073,18 @@ seen_titlehash:b7901d82bdbb08d6edd10e78a63e530a505dd3190959a467aab8176837a515c6
 seen_reason:processed_not_published
 url:https://ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1
 title:china s monthly inflation cools as impact from iran war eases
+seen_urlhash:ad8b1dc4071aad5ea025e29cf25230f724bff589b6c2b9dea5c681f076bc6632
+seen_titlehash:f8d792001abbd3b0cf092e0bbcd0a7669829d60608e79a48f7118f55479e142f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss
+title:lionel messi returns to argentina after father jorge s death
+seen_urlhash:9c6eb229a070240fc70c3afcdfb051f32cd018661f127aa92098ca45848c7fdb
+seen_titlehash:8c7c3abbee76ee94ff791738796cb05ace004c629ed44f009b8bbd00a656fae5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss
+title:iran issues new demands as pezeshkian seeks deal
+seen_urlhash:ace583977970443e3fe51f94746d23a79b79862a0f42a0034cbc7bcf62332472
+seen_titlehash:e802ef4bb2f487042405106de7bdf0f286d541aa0951cf0f37fa4b7633438532
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss
+title:very painful joe biden s cancer has spread son hunter says
