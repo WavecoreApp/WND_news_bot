@@ -40908,3 +40908,13 @@ seen_titlehash:f2d315778c0a041d6fb378a4dc4067f4afbcaaf0e7588cf0a245f5df2764779e
 seen_reason:processed_not_published
 url:https://france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands
 title:iran vows to keep strait of hormuz closed until us meets demands
+seen_urlhash:88c9dd1117d16c24716772201ed75e9fc3ee6a555dc4e701af26f8872c5d2161
+seen_titlehash:1e1cb679ae59750980af545e7bac8b6632fcda0fbfcf49213b9c1abcfd130948
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/gaza-israel-iran.html
+title:still waiting for peace in gaza
+seen_urlhash:a68b13154a9fedf6511b5b07f28184fa09dd212ef16ed8660ee9ff66ef35a681
+seen_titlehash:24f8a675961daef0086a341bade2af8959d4bec7b4ee1dff1315b3600e5e8d81
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss
+title:germany warns of daily hybrid warfare after explosive laden drone found
