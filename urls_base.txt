@@ -39898,3 +39898,38 @@ seen_titlehash:a1936e837dfdc6c085e4ca1997b2fa8f8dfb5c636825f893394d7c84321f59b8
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss
 title:car bomb attack rattles colombia after inauguration of hardline president
+seen_urlhash:ee218620143c846e300310487df39609ac0e10674ce14d48b6d9dd6ca0f9acdc
+seen_titlehash:559744f91799e7d1e5b2fdedc21a1ee1671ab82fbeabe19a569d157b0495dcf4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss
+title:hungary nominates former supreme court chief andras baka for presidency
+seen_urlhash:37a90ae30b455244d91565cdc97ab4e05206dcf978397bb996862abf2309c011
+seen_titlehash:2aec110dd9533013b6366addeb4c56e59a1c036ec5adc9567abf9d77a92f632e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss
+title:iran war live tehran demands end to us blockade to reopen strait of hormuz
+seen_urlhash:2323e7085d6f7904c3d78805593130710201e78855425e064ab171e79286af1d
+seen_titlehash:57cee344668dbd6a4fefe43628f461e17b1aa77581abc7bf7fa7de9dfa469270
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss
+title:turkiye says mecca defence pact not aimed at iran
+seen_urlhash:70b06fc23daff08105128f092ae37ef7e505109fb387a92a36f78c7131382d6d
+seen_titlehash:a2a7d2f0bb698d9a152b7ac1189cf024c08de45e10b6fa52943136a411bfb594
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss
+title:vance says us destroyed iran s nuclear programme
+seen_urlhash:0bd6b9edbb326a7980c80df6d657fa4307806c6c239bc4713e51e808e968d5aa
+seen_titlehash:ad49effec1321b95c009eaf642402af0357b3c7122f9ef179d4e95ed993e565b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss
+title:four killed in helicopter crash in brazil s rio de janeiro
+seen_urlhash:cdc3e5369fd6da475930ea321c741fea2176e19f0c2feb9fded9b765e80d526d
+seen_titlehash:7cef382be1e7b0fe1b0d82d0dd067ab5c8922c837fa34bbc5dbeec6440d1585e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263
+title:fifa attacks critics trying to undermine gianni infantino
+seen_urlhash:d90112099cbf39f19527ecfab22421156aa042891c564ae441c8a616438a1b84
+seen_titlehash:4c18611332970ad38cdc3e33a89e65004925368f8aa04c710e8f2acb7aa06b06
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-результате-атак-рф-за-сутки-в-украине-не-менее-четырех-погибших-и-десятки-раненых/a-78291449?maca=rus-rss-ru-all-1126-rdf
+title:в результате атак рф за сутки в украине не менее четырех погибших и десятки раненых
