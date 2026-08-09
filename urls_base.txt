@@ -40213,3 +40213,83 @@ seen_titlehash:cca7b11b7f4f5d30bd7087d2742379aa9386f93c8d2126d7f21da0340c537ba2
 seen_reason:processed_not_published
 url:https://meduza.io/cards/govoryat-banya-pomogaet-perezhit-zharu-eto-pravda
 title:говорят баня помогает пережить жару это правда а полезно ли туда вообще ходить и кому точно нельзя
+seen_urlhash:0bfed23ff9287ec29fb7fc157cf46e9a8e6c1156f05340ce00ce8f633f66f188
+seen_titlehash:311f5870a37657f46f14d0efff07969aeb5b0587aaa6f89ee331bafba806155e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html
+title:as the climate warms beavers are coming for canada s arctic
+seen_urlhash:098d67ae25c0386190184178b30a4006fef8be98971bed50d0bfc8023b38bae3
+seen_titlehash:44b28ccf42d0989abe78dbdefb67c24dce1db1ebf0541e2dacfbd1762cef2f5a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html
+title:inside the war on hezbollah s finances
+seen_urlhash:dbed4a9c79d34c21a623caa39acd167e0ab59a6aca5a907e07afa480933f92ea
+seen_titlehash:fdc976a0fa2ba2be24b27e07cbb7d3a8c764c9d6ec2507b72dd772a48eea439a
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss
+title:it won t be trump who kills the icc
+seen_urlhash:7d1273c51e0e7989dd8675b4ce1bace155193dccee308f802c361f1906f3d8f2
+seen_titlehash:3111e5ce51699a6e83cc3522b6286376a11df9c6d400f71308454562f27d73e7
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss
+title:women s day in south africa turns 70 with equality still out of reach
+seen_urlhash:72cb4280bccbc6762f0dddd55c97aac0366eabeb4d820435e6cb394b66801675
+seen_titlehash:f691e020a7d71d93ef9f92790e94a9683ead1138daca1a8df81bf700717b8a07
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss
+title:flight cancellations evacuations as china braces for typhoon dolphin
+seen_urlhash:4613e1d85007a73b15525726c18ff41c1715b01259e09952ec68530d5cd51abd
+seen_titlehash:1a9a618ae53481c25d214586021bb692df146e2be198c0c8f3e91616709388b9
+seen_reason:processed_not_published
+url:https://france24.com/en/spain-italy-dispute-grows-over-migration-between-eu-countries
+title:spain italy dispute grows over migration between eu countries
+seen_urlhash:7ed6fee799c6a035cd1443fb03a52bae7fc6f0618a335cd012a95410d2f303d6
+seen_titlehash:193baac79b7b6ba5fa70a16dd6d8f2f626864e8ed035f6595b418e71e844d3fa
+seen_reason:processed_not_published
+url:https://france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity
+title:dozens of nigerians freed after 6 months in jihadi captivity
+seen_urlhash:008197310a1f40d1d5ab55109484707fb8bd5cc2c0f465091c6deba0788709e5
+seen_titlehash:9dbed469e2680f3370fde3dbb99aa81e903b48c3da64f6c2a2f28360ad2bfee0
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-denies-targeting-bulgaria-after-drone-exploded-near-a-gas-pipeline
+title:ukraine denies targeting bulgaria after drone exploded near a gas pipeline
+seen_urlhash:bd75de6d842b58280106e0e2597208127b71b568079add5b1f11e2896eda9bff
+seen_titlehash:789b553db6f7a2b8537273b695d6eaa76ccd7e7a155aa8cc265610551bdcc758
+seen_reason:processed_not_published
+url:https://france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute
+title:spain starts border checks on italy over ceuta dispute
+seen_urlhash:97f81b400c6ba72d8cfd1f4734b7b5b7f1d2764c84638246d54e0f0e559c3aa9
+seen_titlehash:d23d2a06e4d6d5387d842ded19acc083d8f3209fcde9009dcd8f6e9e360abc65
+seen_reason:processed_not_published
+url:https://france24.com/en/wildfires-british-columbia-declares-state-of-emergency-thousands-forced-to-flee-homes
+title:wildfires british columbia declares state of emergency thousands forced to flee homes
+seen_urlhash:be3b12b3f927653eccc5cebfee1f5e73fa569ab47407a1aec67cd6a8088b9da5
+seen_titlehash:b428493ad872e241888f944563e6ceb6d318db1e18a9089ef4ad64511909a6fe
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260809-demi-vollering-turns-women-tour-de-france-upside-down-eve-of-finish
+title:demi vollering turns women s tour de france upside down on eve of finish
+seen_urlhash:1ccf799c35e388a23b63f46fd61b3d65bb3f3ea8e4fb3a2f314b888a16e4ae54
+seen_titlehash:a70abc7349f39151930b56fdabaaa37049a2765f415beddb1e4fa03cc794b1b1
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260809-japan-nuclear-debate-unnerves-proponents-of-pacifism
+title:japan marks nagasaki bombing anniversary as nuclear debate rattles pacificists
+seen_urlhash:f35eb4e23905f0bbd6ed6d1903a9a9e5680a984ca731940130ec6055bf7e2cd5
+seen_titlehash:e0da36d0ca759284f0aa491d4ecc0eba5b115ca30858579b62d23d8b7638e97d
+seen_reason:processed_not_published
+url:https://dw.com/ru/иран-выдвинул-сша-новые-условия-для-открытия-ормузского-пролива/a-78293597?maca=rus-rss-ru-all-1126-rdf
+title:иран выдвинул сша новые условия для открытия ормузского пролива
+seen_urlhash:67a35f1d7e02a69095ffdedeb3d8385dfdc88476a494b8d95b7203b639f0d352
+seen_titlehash:e661ee630dfbfb4d64540e78d7b26f9b8ae74aeb2b8d1cb4786dda3d2729321f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/09/byvshij-lichnyj-advokat-trampa-stal-genprokurorom-ssha
+title:бывший личный адвокат трампа стал генпрокурором сша
+seen_urlhash:d0db79e14fcba2e0886acb5d52a5dfc730ce76757ec6cfe79096ad8f5c09e91e
+seen_titlehash:858758f2ed673dfaabe7b1f94560db21bdfd5c222a3a4a75adb174e99ee68dd4
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/09/elektrosamokaty-opasny
+title:электросамокаты опасны объективных данных мало но ученые выяснили что в случае аварии риск получить черепно мозговую травму окажется почти в четыре раза выше чем на мотоцикле
+seen_urlhash:c6d61e1ad5a80f04afb611ba399539279e7cfda2358c572e117ae46684e6b2d0
+seen_titlehash:ed6833d4941e2f1035d03d6cad4dfcf58acdafc05575046afa43fb07083d0962
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/09/bbc-byvshiy-glava-siriyskoy-razvedki-sbezhavshiy-iz-strany-posle-sverzheniya-asada-mozhet-nahoditsya-v-rossii
+title:bbc бывший глава сирийской разведки сбежавший из страны после свержения асада может находиться в россии
