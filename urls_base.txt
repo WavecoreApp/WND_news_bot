@@ -40193,3 +40193,23 @@ seen_titlehash:c3282c809f6cdcbe733bbc003fadd499a142587f6c31b73f446de0195e1c5620
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/09/rossiya-nanesla-udar-po-odesse-i-harkovu-dva-cheloveka-pogibli-bolshe-20-postradali-povrezhdeny-zhilye-doma
 title:россия нанесла удар по одессе и харькову два человека погибли больше 20 пострадали повреждены жилые дома
+seen_urlhash:fe579c7595096189a88c1b10c58cd96ae04d1c1a2535dd2163ace1d35cd3f698
+seen_titlehash:ebce92a4c76530f015d81ae0a359867ff78fdb8236aedce72b46dae8efd6fa37
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss
+title:saudi arabia says fire extinguished at aramco facility in jizan
+seen_urlhash:515f84efc84990a48e41ca2625fc17ebcefbd3eee7ef92dafd8a2feb1133f665
+seen_titlehash:687628abd18efe6f0fccf12d906c12eef1d038b701bd2b0870215f42295c5282
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss
+title:nagasaki mayor says humanity and nuclear weapons cannot coexist
+seen_urlhash:4ea8ead6f2963b9f694e2f3cfe62f55094dfcfab4a2c1ef5ae480cc7fcd127e9
+seen_titlehash:daec4c147eba5af9ef6dbf3654988c75d48ee7fae88232f873b60f96144c15ff
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-белгороде-из-за-атаки-бпла-повреждены-несколько-многоэтажек-трое-погибших/a-78292044?maca=rus-rss-ru-all-1126-rdf
+title:в белгороде из за атаки бпла повреждены несколько многоэтажек трое погибших
+seen_urlhash:409f15b4e5ca661b45d5a4189627796f17d8c6d99b4e5286e0a37140fdb7e31f
+seen_titlehash:cca7b11b7f4f5d30bd7087d2742379aa9386f93c8d2126d7f21da0340c537ba2
+seen_reason:processed_not_published
+url:https://meduza.io/cards/govoryat-banya-pomogaet-perezhit-zharu-eto-pravda
+title:говорят баня помогает пережить жару это правда а полезно ли туда вообще ходить и кому точно нельзя
