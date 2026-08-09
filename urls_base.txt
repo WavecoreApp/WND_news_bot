@@ -40618,3 +40618,73 @@ seen_titlehash:68c37d83083f1aff199cbb0bf8bd12ebaa0f56b3ffabeb571e2fcbcee765d8df
 seen_reason:processed_not_published
 url:https://dw.com/ru/россия-и-сирия-договорились-о-будущем-военных-баз-рф/a-78296991?maca=rus-rss-ru-all-1126-rdf
 title:россия и сирия договорились о будущем военных баз рф
+seen_urlhash:a0ec5423169c8120f07880867524d2e73cfbbaf11d92f5f6cb534d4633c85793
+seen_titlehash:1cad5ab6c554196b1932735bd5b27cddb192765d76f17d98ca47fe1839a3c753
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html
+title:iran holding firm to hormuz pushes for return to june mou
+seen_urlhash:a2b5bc08f30f90ca551f9b0d83e49ca706c380a56ca31b11732139f75ed46e67
+seen_titlehash:17539cdf01f3978ae428f43f6f3f3046c078026a3d755643aa889dbe93a1b996
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe
+title:chinese ev sales surge to new high in europe putting tariffs under scrutiny
+seen_urlhash:2e7696e58d4b61db88db83ff6bf29f2f14c4f051896c065d6580e06287d99b51
+seen_titlehash:6ce84773f3edf530b3d2777b295eb4be35042fd681b8529d806772dc369c2897
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb
+title:china expresses grave concern as internal documents reveal suicide warning before death in melbourne immigration detention
+seen_urlhash:cecf4dfcc43c34a33911465e2b03398297786d67dbb5dc9c5974ea672afa034b
+seen_titlehash:f86ba6bcd7bba4717465b3dba2c73670ada21d4d5fc0b68b5eb4011d263921c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss
+title:gaza s children still struggling with hunger as another famine threatens
+seen_urlhash:cb7e97caad1ec4a5825dc7a2e7111dcf53b9ca7bee5d5b6fe6138d2a38dae6d0
+seen_titlehash:93a1c987b19e082d25e59fd4fb76669d22eb34b0ec33dfb548f1b1218df4b60f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss
+title:gaza engineer builds animal shelters out of empty cans
+seen_urlhash:0c1f0ae196aa0bcd7699001230ace5091fbfd2f16ed4547125812e9fd1c1ceaa
+seen_titlehash:bf98953287646731f862d1c3c40004a66a205a394a03b575f4c37ea040c7c019
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss
+title:what now as israel rejects trump s 15 point plan for gaza
+seen_urlhash:eea843b448e9153d5257fcaf115ca5c904c4e9ecc2af84cd80fa92f8379d780e
+seen_titlehash:b12478e468b07ab4fa48fbb024ecc0359ac402e811293904029331f6679c41b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss
+title:the mecca pact is not just another regional alliance
+seen_urlhash:b9eb8a13bf72e9373a37ddfdea6238294b8ad75ddb021f02af149083a0986130
+seen_titlehash:fb0f22a4ebdcb1c68aaf68ac5497dd8907aae80d413f381ae945364f5b06a45f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss
+title:syria says it reached deal with moscow on future of russian bases
+seen_urlhash:be7abc8d79b1a13c7e83395767f33f15ddfbf39371abbe9b35d43b0b4a5bfeea
+seen_titlehash:82a5dd0acfade954ab9ec967c0ece3efdfc21c131267f228ec4a95be617e2884
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss
+title:trump targets birthright citizenship again
+seen_urlhash:5b90df1e91da6ea08288243a8555b872a6975970cc074a025973883599cb309f
+seen_titlehash:0e0da2bbb5557f0ca3e8982a0e59dc255574a5292171af8f57b21a66551b117c
+seen_reason:processed_not_published
+url:https://france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz
+title:iran sets tough terms to reopen strait of hormuz
+seen_urlhash:8c8ea59190fac36622e7e607cc27b482a868e94668924f22ed4b6b0970dbd284
+seen_titlehash:7ba1b3db0f55f9e12597b2feb58f5fbd3b7ee007ac038947624d1b058f4b68bc
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia
+title:north korea may deploy up to 50 000 troops to russia zelensky claims
+seen_urlhash:1cf3a0ed48571d9782c75065108f611c1052e84faa495570e4dd5bf0c443c3e1
+seen_titlehash:2293593c74827a3f9031799c36ffb871a054f77bd95a906613ba877017bb6891
+seen_reason:processed_not_published
+url:https://dw.com/ru/росатом-начал-возвращать-сотрудников-на-аэс-бушер-в-иране/a-78297039?maca=rus-rss-ru-all-1126-rdf
+title:росатом начал возвращать сотрудников на аэс бушер в иране
+seen_urlhash:d316ee52ca3d416f45cb469be7be8aa1c3dacf4ffbadbb370df40804981525d0
+seen_titlehash:6483e662d29156d64eb3d3f1f832304db693e92d81fc0734e72e0eb1cf92eba4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/09/danube-nazi-ship-above-water
+title:засуха на дунае над водой показались затопленные нацистские корабли
+seen_urlhash:d6197dcf9d106448641434c0e3ac3c3f1f529f0c994cd64bad7ad7ebf146ad5c
+seen_titlehash:63e56e60cea2c998d206564f22ae88a04e8ba56c85d54e176a9efdb064b3e497
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/09/u-tserkvi-v-portugalii-sobralis-2000-chelovek-chtoby-posmotret-na-svadbu-krishtianu-ronaldu-okazalos-chto-tam-zhenitsya-ne-on
+title:у церкви в португалии собрались 2000 человек чтобы посмотреть на свадьбу криштиану роналду оказалось что там женится не он реакция криштиану
