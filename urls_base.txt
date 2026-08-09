@@ -40763,3 +40763,58 @@ seen_titlehash:26cbf7f390b645b77331f89d17e041cbd97c6d4563dc94a0048676e617d913c1
 seen_reason:processed_not_published
 url:https://ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1
 title:america s hidden m a boom
+seen_urlhash:ecd33d31e5fc452564745937ac6e9bd8b3025ffe58d7eac3abf0482e3ea5a062
+seen_titlehash:68c99630f416f5818e7d1dca1e2426e7b35a1ff490f399d78cbc587a1823526e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss
+title:puerto rico rations water supplies due to intense drought
+seen_urlhash:e15828d8618c0f141366dc4fbc28158689a80eead44af7c777a65e54d59271f7
+seen_titlehash:8046766b79ce0bc7323c701f40421ea98fa7a5b081cb4dbdbd500052dd7da353
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss
+title:jannik sinner withdraws from cincinnati open with knee injury
+seen_urlhash:29b78ad391109b01b97bb8878486adf418efcf484fcad4aabf9824145625d455
+seen_titlehash:48a779aac051d2143d51e7e71e86b0f9cc750c6637829add2feec68afe7ba815
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss
+title:former iraqi provincial governor arrested as graft crackdown continues
+seen_urlhash:6b181d9098a31f85170458a8aaecbc98cf267d46e0816ab3664aa757462127e0
+seen_titlehash:98bee71607f21ef6a473cb6ff297609e228a430a82bb51e64645b89b607d646f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss
+title:wildfires in albania and spain cause hundreds to evacuate
+seen_urlhash:9b4417b11faf66dc02d5a34690d68d2042bf9848c0ed3dc80be89c4713d6ffa7
+seen_titlehash:3a1ed9a0908e3a38cb6d684086a1d12c0892f997487b66626489c1bd89dc9957
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title
+title:demi vollering wins second women s tour de france title
+seen_urlhash:4406fe787c3bf0c7c7fa3b49b6b621873b5eb40c2f7ee94faaf27b412b436dca
+seen_titlehash:b3be3fc0dc6d4085224d41daacef0f7bf2bb7e5e2ba63f8ec7a44d038da9e6ef
+seen_reason:processed_not_published
+url:https://dw.com/ru/нафтогаз-сообщил-о-массированных-ударах-по-своим-объектам/a-78297222?maca=rus-rss-ru-all-1126-rdf
+title:нафтогаз сообщил о массированных ударах по своим объектам
+seen_urlhash:565cf572a4579ef5cd35c06ad08f0e24fccc8941712bc1fb0079f609e9f1b74e
+seen_titlehash:914d3950cbad57551339940a4adf19bae9b85376af7adeb73a109945a300dcad
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/09/war-in-ukraine-belgorod-deathtoll
+title:война в украине не менее пяти человек погибли при ударе всу по белгороду рф ударила по харькову и одессе
+seen_urlhash:2e153f75c1031629dfb86bd008dbe68007fc9c30cfd26ae3d3d8367b8d4e04a2
+seen_titlehash:f2db24c8cd442e10fa484f36c82095aff393d3f1f98a69f5ca1a26802bc07c9e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/09/zampred-saratovskogo-yabloka-rasskazal-chto-emu-ugrozhayut-ubiystvom-i-trebuyut-snyatsya-s-vyborov
+title:зампред саратовского яблока рассказал что ему угрожают убийством и требуют сняться с выборов
+seen_urlhash:6bbe22965a68a89237f3ff4cf01af62a3478e4c3a8463a34fa06a3f377c9a96d
+seen_titlehash:73d2cef4c96d7cc6bbb76d3f0a838cf8f5227aa90b8e59b053b5c07e2cd35cba
+seen_reason:processed_not_published
+url:https://ft.com/content/df62a69e-aa53-4cde-8a02-4d2cd465a370?syn-25a6b1a6=1
+title:syria makes deal to take control of russian bases
+seen_urlhash:7a2018c042e0fd3a3c54402f1523268f90f3b88469433f7d1148f2fa977064fb
+seen_titlehash:6a3c7953ec97312b2dffd487bc94ef72bca07b991618cfe24a50bcdb31e1c0c3
+seen_reason:processed_not_published
+url:https://ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1
+title:trump is dismantling us guardrails warn former security officials
+seen_urlhash:ac60e2fef5f9c2416b15f56223dcd2c41b3a23331cd921224362a91c1eaf247d
+seen_titlehash:c76ae6d84806258582e579e90db50211589a2f908f08fa088cd8b81ab269ecaa
+seen_reason:processed_not_published
+url:https://ft.com/content/03736b77-347b-4e07-bcb2-ced2d36737dc
+title:britain needs to redefine what it considers cutting edge
