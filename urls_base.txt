@@ -40598,3 +40598,23 @@ seen_titlehash:bf658c830c7bacf5d73287eab93f6ac9231efacadf629166ddfbf1f9ae19c7c0
 seen_reason:processed_not_published
 url:https://ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60
 title:holding public servants to account is harder than it seems
+seen_urlhash:a143d063d59d469d3048707cf5df89ff9d1f1478c429c6c03b42c77922bd96bb
+seen_titlehash:e04a881e18385362a4d15fa2c1839425160885c6191aac3cc43a2e8510e9c138
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html
+title:syria agrees to reorganized russian military presence
+seen_urlhash:75cba4990d875a1caf3a69931bff5dbc651a9fda531010d38db5bd4ca795cac4
+seen_titlehash:f7f6548bd8bdfcc1fd6c096eed39d7c1de6ef6b9a89914b868b90d30d254bc42
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss
+title:israel s green rafah plan aims to fragment gaza experts say
+seen_urlhash:f487cde10807e31781d76e9b7c40c8b5daaf94455172eb094adcd2e41ff70cfb
+seen_titlehash:9de52c950424622ecbf0a0343f57e8513e74edcf08acab0ce7aa72c480b7aa5f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss
+title:why does iran defeat the empires trying to conquer it
+seen_urlhash:d72bf6b656d49db55fc84344f377a62e107b39ed57562b25e664632ebf99bdf5
+seen_titlehash:68c37d83083f1aff199cbb0bf8bd12ebaa0f56b3ffabeb571e2fcbcee765d8df
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-и-сирия-договорились-о-будущем-военных-баз-рф/a-78296991?maca=rus-rss-ru-all-1126-rdf
+title:россия и сирия договорились о будущем военных баз рф
