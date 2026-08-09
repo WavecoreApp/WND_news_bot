@@ -40348,3 +40348,58 @@ seen_titlehash:9347f079588c713f009eb2a73e34c18aa255c94ad397e6c590f3d8ac63b2b97e
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/09/v-tsentre-marafet-dikiy-proishodit-v-novosibirske-nachali-rezko-remontirovat-gorod-pered-vozmozhnym-priezdom-putina
 title:в центре марафет дикий происходит в новосибирске начали резко ремонтировать город перед возможным приездом путина
+seen_urlhash:c525a3752011c40b04481e18a4e8c42d3a02c07f8e8486ae40d2fda10e0635aa
+seen_titlehash:e0fb1c51a8c34964d2dcdd8ebc0579be1c81fd83dea4ccd376d26feb6be98378
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss
+title:how a schoolteacher s son became kashmir s first india test cricketer
+seen_urlhash:24a55b0175cc206a6f1252029e219dd5d4ba3f0df790e2bd7abe1cfbbb1bac02
+seen_titlehash:4b6baa398720a1845751ebfcc6157dad2e72150c2f86a4a3103d152969357f13
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss
+title:russian forces kill several in ukraine launch brutal attack in odesa
+seen_urlhash:ce300320930689a743cd880dabce26e67be830e08185b50391f9f5afab329b6f
+seen_titlehash:210e9cc2c349ee746fe5ea2326d11d6c3dcda7b41c765da321a23eff2c450494
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss
+title:yemeni army warns houthis after attacks heighten escalation risk
+seen_urlhash:b76fd553dd7688032fe8c3905d06040f2c26d0fac1a5423b90eb93b0a89b90ae
+seen_titlehash:69dfd593ba0f2cefab6fdd8171463450438559c311fd63b7a5124c43759b1a27
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss
+title:palestinians in occupied west bank hold firm on indigenous peoples day
+seen_urlhash:0b09d71df17c7bffcad2bb2bacc10f84a402a5608a5ad48a8cf3e4056bcd3c01
+seen_titlehash:0b6551a5d77f99cfc4e30e68ef32bc030b49313f4805968788f44e7039edf3c9
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss
+title:fifa decries concerted effort to undermine infantino as crisis deepens
+seen_urlhash:2e1828d55654dbf18d08cc5c309fd523125e7281ccbdc88c2dcb741af46b3dc9
+seen_titlehash:c7319d859c4e665b8301a90ae5f75841b9ad2a86b96cd9816a253cb8ef1044cc
+seen_reason:processed_not_published
+url:https://news.sky.com/story/europes-first-total-solar-eclipse-in-almost-30-years-what-you-need-to-know-13560160
+title:europe s first total solar eclipse in almost 30 years what you need to know
+seen_urlhash:325fb5daa1a195db6a5520a6b3ddb9bad25b7ba9118e676fc9590303e0979410
+seen_titlehash:5ff6e465e65845500325cc96fd2857f6113f7277739d7be30a8a2bbec4af478b
+seen_reason:processed_not_published
+url:https://dw.com/ru/болгария-вызвала-украинского-посла-из-за-падения-беспилотника/a-78294444?maca=rus-rss-ru-all-1126-rdf
+title:болгария вызвала украинского посла из за падения беспилотника
+seen_urlhash:f7bdfe7d3b88fcc6119da5043702c095e285407afc4830c1b5a3060cdb119277
+seen_titlehash:352024f6cf654454f2ba6fe7e12228f7da9e5c7414e7f675d5ce5faec90e48b4
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-приобретает-у-турции-70-ракеты-atacms-и-другое-американское-оружие/a-78294371?maca=rus-rss-ru-all-1126-rdf
+title:украина приобретает у турции 70 ракеты atacms и другое американское оружие
+seen_urlhash:34800cfa4697fb2b6927985907671051cf5cf5be92ee79afa452c3e9f18e3c55
+seen_titlehash:e567159c4de104bbda582e20a8548bd3ed5fe4d92d45c529a3dd648ea225ae24
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/09/nagasakis-81st-atomic-bomb-anniversary-unsettles-supporters-of-pacifism
+title:81 я годовщина атомной бомбардировки нагасаки тревожит сторонников пацифизма
+seen_urlhash:73ecb97b581fc08c2a08ba9a66862ee894318c27fe1a698069740f97b61eec0c
+seen_titlehash:43da026f0eaa2a782d584a0883dd25bf1ef9df045ef22f5b0404ecdf199f4180
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/09/novosti-dnya-9-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 9 августа 2026 г дневной выпуск
+seen_urlhash:3e7419db60161d33de517d9f2105b0182adddb74e8a2daa2d28876c50d86e9bd
+seen_titlehash:b62bfa9a4e17aced58a60298bd2b51b93bc054d6c0582ea028edd46a606b8926
+seen_reason:processed_not_published
+url:https://ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1
+title:asian carmakers cash in as high petrol prices lift us demand for hybrids
