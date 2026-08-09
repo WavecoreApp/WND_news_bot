@@ -40818,3 +40818,28 @@ seen_titlehash:c76ae6d84806258582e579e90db50211589a2f908f08fa088cd8b81ab269ecaa
 seen_reason:processed_not_published
 url:https://ft.com/content/03736b77-347b-4e07-bcb2-ced2d36737dc
 title:britain needs to redefine what it considers cutting edge
+seen_urlhash:dced3e737f4a7b67465e648efdb058ed8923db464f1225bdf773d1fa6b2cc0f8
+seen_titlehash:e5012c9d3c96638d4e76af2cb4abee224d9db98e940685f60b482600bbe1efb0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html
+title:iran taps longtime i r g c commander mohsen rezaei to top security post
+seen_urlhash:c17502f07ab07bc5633011b9b19b5955b9f6a23725bd5731c5de6f66bac5770c
+seen_titlehash:52eebe9ceda5a4fed37686ac6a2a484a02c5b187877f9960b7f141f3c95444ec
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260809-wildfire-rages-in-southern-france-forcing-evacuations
+title:wildfire rages in southern france forcing evacuations
+seen_urlhash:f88254ae8c3af7fe5ea63b42f51ec64b02277855b099ea09119eb1a3af159bb2
+seen_titlehash:4aceb7213cf59e489913a66228c81be5b1b901f0e64ee4911325234a69785c91
+seen_reason:processed_not_published
+url:https://dw.com/ru/у-берегов-сицилии-нашли-останки-древнеримского-корабля-с-сотнями-амфор/a-78297593?maca=rus-rss-ru-all-1126-rdf
+title:у берегов сицилии нашли останки древнеримского корабля с сотнями амфор
+seen_urlhash:50494c4cecd5111a77e6f8021e807355a31cd8836c00a51f916723d14ee1d298
+seen_titlehash:ccb9137b67a959ab668e2cd748dab56383a398a5d55ad7acc49488b55559ac74
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/09/canada-20-thousand-people-evacuated
+title:в канаде эвакуировали 20 тысяч человек из за лесных пожаров
+seen_urlhash:7b97e0b0f1d31816104889e1633365f84f32ab3e67bec675d8ad27779013f4db
+seen_titlehash:3c50aaf36226dcbfa9308a07088c0ee3784e991b01efa96e66c79346ea329909
+seen_reason:processed_not_published
+url:https://ft.com/content/af06cfa1-0ea8-40a6-ad2c-81fe47a63e7b?syn-25a6b1a6=1
+title:a very british by election reaches its finale
