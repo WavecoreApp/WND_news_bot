@@ -40843,3 +40843,48 @@ seen_titlehash:3c50aaf36226dcbfa9308a07088c0ee3784e991b01efa96e66c79346ea329909
 seen_reason:processed_not_published
 url:https://ft.com/content/af06cfa1-0ea8-40a6-ad2c-81fe47a63e7b?syn-25a6b1a6=1
 title:a very british by election reaches its finale
+seen_urlhash:18013bd9cf58f105902ff62a8ec728422fce51b1ceed079aea082cc7ddaf99aa
+seen_titlehash:c1e435c62f77ff2de7f2854d5c28db3bf91a3497f003f2db591d4b5309f6f3c8
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires
+title:canadian government steps in as out of control wildfires force thousands to flee
+seen_urlhash:77f5de99b702f51cee37f915ead21e30035e961913b7a2607a9ff128feda3c40
+seen_titlehash:4f6fbf4f3715c0357a4ff456ee65f08e46273dd20b33c4f817d33b0d9c74baf5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year
+title:typhoon dolphin makes landfall in china as its strongest storm this year
+seen_urlhash:cca0d0878f200392246bf015415e89dabd90e8dcab1954e362a546452fcc16fe
+seen_titlehash:f9fa9f2f9019223078862018bf14695b4e8544e5f913710a0daa254f032032bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss
+title:can the doha framework end the conflict in eastern drc
+seen_urlhash:b920bfbf7ca1f4aaa16612d247a9ab5a7b028df7cb8905a7aef587a87f100840
+seen_titlehash:ac8a4d09851ae9a646a6b522d48608b06863e0aff5651123a844b868979a1ffa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss
+title:hundreds of anti tourism spanish protesters march in mallorca s soller
+seen_urlhash:90ba4ed2ead5a8fe07d1ab8b05ac2207b596e6a0a1a193c2d305fd2f76ccbd4e
+seen_titlehash:9c04270b756e66da935a87ec7678e59694d25cfba78f36e9bd976e054b14eb54
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss
+title:where does iran stand on saudi pakistan turkiye pact
+seen_urlhash:f3e6cbe67b5c96f93f927e140fefe9ae33429268d9c20eb11da40b25a9219c29
+seen_titlehash:7e18bb2442a7137afe012d39b92d1ee27139bd50fa974d16f4f2440a0f79fc59
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-молдове-после-пожара-нашли-обломки-боевого-дрона/a-78297771?maca=rus-rss-ru-all-1126-rdf
+title:в молдове после пожара нашли обломки боевого дрона
+seen_urlhash:f6715faf422c97250f5d4d577e1ba201434c4e8c2d421f49b3b69871f330ff09
+seen_titlehash:00ad52e15dd5a0eee939b074c8c42199ab9df833c54b962e6d46d69ee5296724
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/09/messi-says-farewell-to-his-father-in-his-hometown-of-rosario
+title:месси прощается с отцом в родном росарио
+seen_urlhash:97af7e4153cd2bf0896abdb7089e5a19b2b535d07956c5ee5003126d8374a24c
+seen_titlehash:56c233e44c1982d943eb4752cb318fc5b652be20aa9884f46459ff716998ce37
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/09/suspected-irish-crime-boss-daniel-kinahan-has-been-extradited-from-dubai-to-dublin
+title:ирландский криминальный авторитет дэниел кинахан экстрадирован из дубая в дублин
+seen_urlhash:1f834b280ba00ee529172bd28591ef36e8b779f47aba24bd7a201870d4300c4f
+seen_titlehash:749174c04f8855e33996a8780b2e963e45df796f254151ea7a213d92780bab1e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/09/ceuta-sexual-harrassment-children
+title:в сеуте происходят случаи сексуализированного насилия над детьми местный врач
