@@ -42658,3 +42658,58 @@ seen_titlehash:4f94a4da6fa61eff73bea29dbcea0508976a5c8a07324b7b72a4092f9d82f8aa
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/10/zelenskyy-on-noko-troops
 title:россия готовится разместить больше северокорейских военных зеленский
+seen_urlhash:ac25c08856a417140169a723cbfdfebf167548dc200047f8cc09250383215ae3
+seen_titlehash:ee114eb2ffe5c0734328e0f305a30f959cb7fb6dc3c7a6cadb98e7dae3a32537
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss
+title:canada flight cancelled after child refuses to wear seat belt
+seen_urlhash:a10c6d8781acea1762c67524edf3aeb6010b9b5de090ef9515655623c3f58da0
+seen_titlehash:8acc9f56ecb18bf4e2271d13d5979ba48d994ccfa93767a76ee86f3ff7bf0d43
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html
+title:yabloko russian antiwar party is banned from parliament elections
+seen_urlhash:2872d2d84867ec442c10435a21ce6f4d0d03a2ef413572265ea439f14f867dff
+seen_titlehash:e7fd24531d415fc657c2453ebcb849f1c45f9c683ae9dcf51cc673d30e203f5d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/europe/turkey-law-pkk-peace-framework.html
+title:turkey moves to advance peace process with p k k
+seen_urlhash:094f8946db2ec50390a6df23beaa8040e64773de898af60a0016e5d8d4f1e4b3
+seen_titlehash:42b4ae68d313a9329eb52e2e2424ad6bfbbf28ab6e12f5c223ac69632b8b451e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss
+title:colombia s espriella to lead emergency efforts following bogota earthquake
+seen_urlhash:592c94593ce52707b4c44cac83324fe56ee8ed223c25f77c3010c7a460064793
+seen_titlehash:71ed7f78822aae4dd029788b59bd815c0f169aac902b77532a244f857d0e45da
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss
+title:europe braces for another heatwave after record breaking temperatures
+seen_urlhash:9d63a64251882e43ec049257076e8820c9345229e96c8d3d40f43fea8da3f39f
+seen_titlehash:9d8d007ed80e7404e8a01958032d4b4bc80c712dcbce55e9e864e8542672afff
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260810-trump-pushes-rethink-of-school-vaccine-mandates-and-mmr-shots
+title:trump pushes rethink of school vaccine mandates and mmr shots
+seen_urlhash:1ece27de316db83a2b5e1f5e2360d4df99102b06f2a8ec03240f039b7848de72
+seen_titlehash:929b47f84ce63722c7fa239218708b294c9ccfd9d036c1e9ef72b38122c7a1df
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants
+title:turkey s parliament passes limited amnesty law for kurdish pkk militants
+seen_urlhash:f7e9a2d69040eb1ba985e0eff6a58669b9c30c23c2a96772b4944324513d1f99
+seen_titlehash:3ef3058b66f8cd9c4bb29a039283cc0c74069180a9dc600a6eddd2cc91ef4620
+seen_reason:processed_not_published
+url:https://dw.com/ru/недопуск-яблока-до-выборов-реакции-политиков-и-экспертов/a-78313193?maca=rus-rss-ru-all-1126-rdf
+title:недопуск яблока до выборов реакции политиков и экспертов
+seen_urlhash:4ca0b709a20deb9f777633eb6dd30439edd38bd59feb297471f84bf8ff904e96
+seen_titlehash:5a009aa3a617745c00db28d0c94173ef88c98f3a0f76bca071d9889f40ebb2ee
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/10/europe-wildfires-update
+title:европа локализован пожар под афинами в испанской уэльве эвакуация
+seen_urlhash:53fe13cdd322083fe471bdba92a692a1e00b3248bb73cc32eac6c6489b503972
+seen_titlehash:7d82c0dcceb064b41c4f7787e5e82ff81ddb3887fbac772588609d2b316dfeff
+seen_reason:processed_not_published
+url:https://ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1
+title:iran s supreme leader tightens grip with top appointments
+seen_urlhash:bbb79669e610e50ef81adf159bfd2f600cbc0d24479ff5e49e94a041e12c3e76
+seen_titlehash:89b5ee8781ab2811c6918ba4a81dcc5a0079bf7b151c355c0b2d56688d2adccf
+seen_reason:processed_not_published
+url:https://ft.com/content/7db64d6d-9615-42d3-b53b-03b115080bba?syn-25a6b1a6=1
+title:burnham to crack down on vape and betting shops in bid to boost high streets
