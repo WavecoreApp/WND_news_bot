@@ -42603,3 +42603,58 @@ seen_titlehash:7e7281731ad507a4e52f0f216623ead4db38bb8664ea5c26492d306f5284ffe3
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/10/neftyanoe-pyatno-u-beregov-omana-rasshirilos-do-400-kvadratnyh-kilometrov-ono-poyavilos-posle-vzryva-na-bortu-tankera-tenevogo-flota-rossii
 title:нефтяное пятно у берегов омана расширилось до 400 квадратных километров оно появилось после взрыва на борту танкера теневого флота россии
+seen_urlhash:6a5d5ad9e6103c901e8f9aced77e06435a46f4cbd33d672f48242042e972e340
+seen_titlehash:f63e63393aa6b23d951351664372c37f0d0e70c390f7edff6fe225e9da465b90
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html
+title:colombia quake chases teenage venezuelan brothers from their new home
+seen_urlhash:43770352d610e4c2168522f5ecd52114b8437715e8156577f2f4cf1302781b3c
+seen_titlehash:3a6f64656e8c23a3af5ad1fe2bb79b0b7ad0de7c6f058d0cd6ae5c97063ca2d6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/books/review/jason-arday-memoir-takeaways.html
+title:takeaways from jason arday s memoir
+seen_urlhash:95c61780dd3ff26cae72c4ffb045ab42d9f994bb1425e89b4ebc8c859e5a57b7
+seen_titlehash:a37f34ef490f10370559ce4c974e47b5d711557326b68b928af99d9814ed1363
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html
+title:major quake hits colombia killing at least 111
+seen_urlhash:a0f5aee82a3710ead3ae34a6f5293e21033abf49d5998d564b16923187445a83
+seen_titlehash:d0eff8200493f984c4a72aba2fb43a0f11d87006beda7facc95e44774736b987
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/journalism-us-colombia-quake.html
+title:journalism and paywalls
+seen_urlhash:eca08b9de543c85d5e867d111b4617b6c5b6d59f6a60e8006080c258f05f6cf5
+seen_titlehash:22fcd9e5da4fb21f9197a7107b4fa394c64cf90fce47dbf66f16d7ceeb6bc09d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb
+title:australia politics live parliament returns as labor seeks deals on ndis gambling ads and news bargaining reforms
+seen_urlhash:80e1482246bde6e412b62a7f206fd36e473ac867abd97c1bc4af1e0c07105717
+seen_titlehash:66fd613a01e6f82fe6427c676ddfcd394b0318ca0f53c928fc62098e49aef352
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss
+title:wildfires burn across indonesia as officials cite el nino as a cause
+seen_urlhash:27534a22fdc0b152ac10d1b750217d4bf7cebb351acf58651b3b9c8dbf44cede
+seen_titlehash:d9f51e7193892d4eb1efd02e3f2f2c443a598dd7fc5647bd19cba23d1d4493d8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss
+title:turkiye approves pardon like bill for thousands of pkk fighters
+seen_urlhash:51ed66528457b1b0956dc141aff525edb9e4d68a575d22fb68e23a4c8a6e35bd
+seen_titlehash:1a65dafa2848f8866ab36395aa3bc6c890dd5f15484ad54521a11b8e3ae346fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss
+title:trump says relationship is good even as netanyahu rejects gaza peace plan
+seen_urlhash:601dd45068d6ae0800f360b1e91f3acaebb2114b578b2b98e1d6b7aa72a62589
+seen_titlehash:cfd7ea11617dfcc560f9786ea66d17ff255a62e52be8255afd18474cae793763
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss
+title:us appeals court says social media addiction lawsuits can proceed
+seen_urlhash:fbad65ba3493b3096dc03c7de1b6b5cc130450e8040506fda9fc998bfda7472a
+seen_titlehash:4212deb853fbf3478f874a86ae4eacb399bab633951a9e8138779715aa4724a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss
+title:trump to demand compensation for tehran s conflicts
+seen_urlhash:d3d1b8d76d8e7607909edf0dc01a3893aa20d926753b4d6a4124a64222293943
+seen_titlehash:4f94a4da6fa61eff73bea29dbcea0508976a5c8a07324b7b72a4092f9d82f8aa
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/10/zelenskyy-on-noko-troops
+title:россия готовится разместить больше северокорейских военных зеленский
