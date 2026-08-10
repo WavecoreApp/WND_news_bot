@@ -42548,3 +42548,58 @@ seen_titlehash:02be6dd82cbb53fde5c6a65496f5bf64a7fc6e8a708f3d437e03384421c4d861
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/10/france-drought-water-restrictions
 title:во франции на 70 территории ограничено использование воды
+seen_urlhash:467c4e4b39e51dbad1cf056c9f286250faab662755fd8f183d6f8c94e5dabe74
+seen_titlehash:6b8675bd206601ad2d196558819ab5c020a49dac2ee25c6c741124bee6e472aa
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html
+title:italian diver discovers hundreds of ancient amphorae in sicily
+seen_urlhash:8da442f7e03c9176371342d0e9014200f8367f4027fed6372f610e9c0b1571d4
+seen_titlehash:a435f018ec244dda674c6c5bf23d76102f4c0ee8ce2df4c4b029c66603952d2b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html
+title:colombia s earthquake puts abelardo de la espriella its new president to the test
+seen_urlhash:50ccc21a52c16c11002416bd6fefae0c4be7fb812db08fe10692b06b112d2e1a
+seen_titlehash:95faff9a04d582b5c30f471b41c2851adb959d68dc360d4acc1e745ad7653afd
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html
+title:images emerge from quake battered colombia
+seen_urlhash:9220a57bd7741cd94b3ddb9f5d3c4a00fbcc9eb70e175bfea91d293be5ca8c1b
+seen_titlehash:93d70a7bb27655fbd2113da165204c3856634afd849333e0bc93a674bcc39eb9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss
+title:russia bars only party opposing war in ukraine from parliamentary vote
+seen_urlhash:1fd8b3eedcac78c7b636ddd6a149598891a0c9f3e079ef815d51e47d1c6749ad
+seen_titlehash:791c50926a1466cefc8e6f74479ee40f5aa9c3f1f5864950bd6246425287f26f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss
+title:trump administration has revoked over 175 000 visas us state department
+seen_urlhash:753e854ed8abc78f94fa15cc4c4b3f24cf1e7130ce9c4837fda088d5529c79fe
+seen_titlehash:a4cf1b68813510f04926c18885f94e7596c7847a1a1f742f09c3f4347a04f3f3
+seen_reason:processed_not_published
+url:https://france24.com/en/ebola-started-3-months-earlier-than-official-declaration
+title:ebola started 3 months earlier than official declaration
+seen_urlhash:be11db14fc21d4a899ada5a290d8a08a5f6aef7b8485459f7ada8fd2a86a54c0
+seen_titlehash:cd52fce0643b6aea0d6ee6ec7411bcad9c67c03c0f395603d4d9a38f9e1fc668
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes
+title:iran backed houthis strike red sea port of mocha threatening shipping routes
+seen_urlhash:bae9ec96b0d5d0e59ee0a5bcefce38e4b307795935aa1c1f71b26c3c6dcbc5e3
+seen_titlehash:f0892e23ab46840f9aa386c0fe30f366c12a098c6a840edbba3eccbcdc7ead78
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections
+title:russia bars only anti war party yabloko from september parliamentary elections
+seen_urlhash:7d7b7818d465b82bd0b4a4f345df837e82141de1b28ae9ce752fe0948a45e945
+seen_titlehash:80928231b67944868a55d21c78a1009d547c0a476e55455aa0149ab33e1c83dd
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company
+title:tensions in the arctic greenland issues sharp rebuke to trump linked oil company
+seen_urlhash:49e4fe6b2e14c95d6369edfa7cbfef668afb4490e6196ec1fc27df54b01b609f
+seen_titlehash:8eb62ec2c1e075936b440acd126a7cd9b2a33443d299c9d5b65e3507c153af94
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/10/putin-priehal-v-novosibirsk-za-neskolko-dney-do-ego-vizita-gorod-nachali-remontirovat
+title:путин приехал в новосибирск за несколько дней до его визита город начали ремонтировать
+seen_urlhash:118451e29c8e1091becb374d0086a73b3ced5c4d8ce0bc72c3651621f6d1e590
+seen_titlehash:7e7281731ad507a4e52f0f216623ead4db38bb8664ea5c26492d306f5284ffe3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/10/neftyanoe-pyatno-u-beregov-omana-rasshirilos-do-400-kvadratnyh-kilometrov-ono-poyavilos-posle-vzryva-na-bortu-tankera-tenevogo-flota-rossii
+title:нефтяное пятно у берегов омана расширилось до 400 квадратных километров оно появилось после взрыва на борту танкера теневого флота россии
