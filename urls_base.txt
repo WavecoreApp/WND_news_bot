@@ -42358,3 +42358,83 @@ seen_titlehash:60c5ead082a735a1e26b839f140891ea2a0c238d67caf1ed9efd0788bf8c28f2
 seen_reason:processed_not_published
 url:https://ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663
 title:jacaranda by gaël faye after the genocide
+seen_urlhash:a459d765c8403d4e77c457c1e4f08b289e63ea40e503956b64eafe1be8ba75d0
+seen_titlehash:1e1d90605e7fb21ed930e5faff508e29826b56ad2098952447a49fe4cb1ad688
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss
+title:iran s president says khamenei is in perfect health
+seen_urlhash:f57182c726f78f6884a37ecd9438342ec100f0b165951b6187e46635c1e3af9c
+seen_titlehash:3d273416f59d2da8deb00aaae82c59cea816167179b148b06ca605022e4c99c7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss
+title:colombia earthquake live magnitude 7 4 quake strikes near bogota 69 dead
+seen_urlhash:be0d9682e23fbbd284b7bcfcf7eda25b8bb51be0b8704e2fe78e674d31be4ad1
+seen_titlehash:c74cb2540caf85bc9c91f4670d88209d98338c7997d841098537f25b6d241708
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss
+title:photos 7 4 magnitude earthquake rocks western colombia
+seen_urlhash:138d448c5d529bffab00a5c3378cd75cc71d8770e9b812bb2e779d688e417746
+seen_titlehash:eb935ed45c583a94573d244635a020d99203fd4e89c0a756951f97d5ba3a220c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss
+title:drc s ebola outbreak began months before it was officially declared says who
+seen_urlhash:7bea350a915bc4dd2318b331ad1a78701c5ada39ac8bfdc302cfce5a706997e8
+seen_titlehash:cf099d93e618bc57393234796f44239bec83dcf9993be53e12cf1e049fa35c07
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss
+title:we have no one palestinians react to israel s rejection of gaza plan
+seen_urlhash:833486192af8187775a06d24e36dcabebb87abee9401f047c260634eabd7e03a
+seen_titlehash:9ff696c9f830b6e97cd44e53a4c4f5c95de2c9daf0bef69dc3ca5555b98b2679
+seen_reason:processed_not_published
+url:https://dw.com/ru/правительство-фрг-объяснило-сложность-закрытия-русского-дома-в-берлине/a-78312492?maca=rus-rss-ru-all-1126-rdf
+title:правительство фрг объяснило сложность закрытия русского дома в берлине
+seen_urlhash:3cb28cc277105268b83a99c0a305545e13c982cbb00156c867d7dc2d8cdd59ba
+seen_titlehash:443b69ed38ee57772fddc689850d1d592890a115659e88db3ad713cdcfbaa969
+seen_reason:processed_not_published
+url:https://dw.com/ru/верховный-суд-рф-снял-партию-яблоко-с-выборов-в-госдуму/a-78302178?maca=rus-rss-ru-all-1126-rdf
+title:верховный суд рф снял партию яблоко с выборов в госдуму
+seen_urlhash:c5046b9d25d1ad75ba5d11161a4a20ac38ec9bd7c8f706922de4aab002d3074b
+seen_titlehash:8a36a309e05489efe14ff0d5b897b9ad03dbd0f73462f006f5d1ae6299705952
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/10/the-british-lead-spending-but-the-average-tourist-expenditure-in-portugal-declines
+title:британцы лидируют по расходам но средние траты туристов в португалии падают
+seen_urlhash:29cffd689e35dc3f79a97f380848c285d34f0e8ce15c8b45e1fa6c7c1fe79b45
+seen_titlehash:d5c6645029734f516b9554d1cb2e5d1d6a351a7a4bdfb2cf06d042b06620cc58
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/10/russian-intelligence-op-aimed-at-discredting-sweden-eu-nato-disrupted-sapo-says
+title:шведская служба безопасности сорвана операция рф по дискредитации швеции ес и нато
+seen_urlhash:2c1e45f702de1eecd6489a3a47cb44b4ff82c79a0c0b15f665e9736fe3862b9e
+seen_titlehash:42833247baf6d315147ca050b3b624daf7ce5ef7b708c54129cc76daebdca8ec
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/10/infantino-criticized-by-uefa-and-others
+title:уефа афк и конкакаф раскритиковали джанни инфантино в открытом письме
+seen_urlhash:795987ec4bad619eac51b7fa3af82f49e5b91d85d2380ae4401ecc6c020f1e19
+seen_titlehash:45eff32529a44ab07ab16398ac2f0fcc46b68b0f988a029cedf26ed1f5ef9be9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/10/eto-samorazoblachenie-politicheskoy-sistemy-yavlinskiy-o-reshenii-snyat-yabloko-s-vyborov-v-gosdumu
+title:это саморазоблачение политической системы явлинский о решении снять яблоко с выборов в госдуму
+seen_urlhash:c9f978693db0b2d983534c3d6d438cdf6ce1818d41566948144e1251b25d1992
+seen_titlehash:d0f44f2d8d15c4dabdcd2a81b70ea7d6cbbaf1a876bbd79d75f93b42283b4907
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/10/verhovnyy-sud-snyal-yabloko-s-vyborov-v-gosdumu-po-trebovaniyu-konkurentov-partii-rodina-glavnoe
+title:верховный суд снял яблоко с выборов в госдуму по требованию конкурентов партии родина главное из иска мы узнали что антивоенная позиция это экстремизм а картинки из сhatgpt это нарушение авторских прав
+seen_urlhash:32a6d185201235a5ef268b011780c5c032abbec18b2d12bf2143efea0e4e286a
+seen_titlehash:fdc41f3f8cabdafd4b7b62c9c1437f922a3c6e1eb0c5bbac5166dd4e4d21cfe5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/10/verhovnyy-sud-snyal-yabloko-s-vyborov-v-gosdumu
+title:верховный суд снял яблоко с выборов в госдуму
+seen_urlhash:ae3335cfdeae39712082c9387e6b91d8e65744862a4d71ede101bf392e3fb6d3
+seen_titlehash:a36852a70727de87466ca67d6c2a9607a33aff9a8fb6459e52ca71c409705363
+seen_reason:processed_not_published
+url:https://ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1
+title:glencore backed group looks to rescue cobalt refiner sherritt
+seen_urlhash:97966677da1c7b31da268c02a2bfe02801051403c316644075e81840dca6cc78
+seen_titlehash:5235c78845c882882b3a3fb63eed62be7d040e0a30e522cf192aa7a859249b74
+seen_reason:processed_not_published
+url:https://ft.com/content/689c0487-af77-4e18-8b63-fa26ed373ce8?syn-25a6b1a6=1
+title:fanduel and draftkings hedge their bets with a predictions pivot
+seen_urlhash:bb0f8f8ba8463bf9dcba7a899fcef293d4174b2851b30fc75a4e4cef87c1e568
+seen_titlehash:d3622c5a8611947d3188e3314a1a8e5a4f035324ce3cfc52dac24e1e6bd0957d
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/08/10/the-war-room-newsletter-do-generals-make-good-politicians
+title:the war room newsletter do generals make good politicians
