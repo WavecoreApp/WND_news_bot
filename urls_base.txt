@@ -43083,3 +43083,68 @@ seen_titlehash:b7a79a217e878fb3d5c623e4a2c65226791dd9b8c784b9fc43ae9ad2ea3998ec
 seen_reason:processed_not_published
 url:https://ft.com/content/4026d3bb-b3ba-4ac1-b4dc-7368bf2e5d8f?syn-25a6b1a6=1
 title:spain s migrant crisis exposes serious challenges for young moroccans
+seen_urlhash:0e915946444aa050bccee9416521d5459f8b06affd46b1c41497c40c76f1b0bf
+seen_titlehash:f84036342f5b1764ea8188667806cb5a60bbc0cf2c6623611c7525c86a8ab538
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb
+title:lobbying firm linked to reformers created fake administrative assistant named jessica icac hears
+seen_urlhash:2879dac03a5da71fa5e10ab0371e28ad17e1cecfb94a0375a6f5f16282c41d79
+seen_titlehash:1e9cbe2c834797ae84b84233588a7d366a3c855171d79fa42f751f9b3f60e883
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss
+title:family watches helplessly as colombia quake destroys home
+seen_urlhash:c67540ed9d3b509b93b89fdd881887548e5b2b2e53d0dcb93e7c3032a6884dcf
+seen_titlehash:ea44562cfe70d75eacd24554025198ea26e49e13cb1e9bc449731eceb4b429a8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss
+title:trump s media company reports 238m loss
+seen_urlhash:ea35d3539686545a11d28067da97637ed2c79ab19ac6e40451de7cd268282fd0
+seen_titlehash:318b9793b1bac2261dee5ecb181fa1057cec682484974dd91a5363d50018cb56
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260811-trump-warns-fifa-would-make-terrible-mistake-by-replacing-infantino
+title:trump warns fifa would make terrible mistake by replacing infantino
+seen_urlhash:827eb1c3de0601c21623b569f276408d4d88c1617f296f7283daa4fe4cbb8cf3
+seen_titlehash:a36f615d29808111e2d93bf6cddb83402dd8daefd5c3ae40abbf256546dc5681
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260811-european-championships-thanks-to-l%C3%A9on-marchand-france-take-silver-in-the-4-x-200m
+title:european championships thanks to léon marchand france take silver in the 4 x 200m
+seen_urlhash:39efa7e55895eb181f6f096263f26863f58406364d69d1f97d7acf3909842799
+seen_titlehash:55650a7afe84e713eb3e6be55c7c7f75555c32d5a9df4db28c13b430f3d793dc
+seen_reason:processed_not_published
+url:https://dw.com/ru/как-аномальная-жара-в-европе-влияет-на-работу-аэс/a-78302293?maca=rus-rss-ru-all-1126-rdf
+title:как аномальная жара в европе влияет на работу аэс
+seen_urlhash:0bf88e3a328e1831a281d35cc475c150d5857cfb04622a2f94765a777389067a
+seen_titlehash:40b56f12b88b0de38e36a2a3bbf48b466eba7edc5d0bfabd32a8e6bb84d5d9fe
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-россии-пожар-на-складе-wildberries-и-комсомольском-нпз-один-погибший/a-78313745?maca=rus-rss-ru-all-1126-rdf
+title:в россии пожар на складе wildberries и комсомольском нпз один погибший
+seen_urlhash:da1ee661e476235f1e9b012d9b61b0ba57330486b44c1b17a7c39b0ace2eb4e9
+seen_titlehash:bbde51cb8c19b6a2a972f30d9c7dd3def7c0f0a1d512b4cbbbdae886ae46c760
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/11/germaniya-vdvoe-uvelichit-podrazdelenie-po-borbe-s-bpla
+title:после дрона со взрывчаткой в аэропорту германия вдвое увеличит подразделение по борьбе с бпла
+seen_urlhash:bf700413e885964e3e13fd437b2e0b43f251fdf4515a340079e282f9779992f7
+seen_titlehash:4ffeec142a9ad375cd7abef21ae0f0158525d9ff3810405fec66ddbac3ad576f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/v-zaporozhie-v-rezultate-rossiyskoy-ataki-pogibli-shest-chelovek
+title:в запорожье в результате российской атаки погибли шесть человек
+seen_urlhash:b3c25969a6afa35ee13cdae0a792a84379282ec47a9d6b85bb63cc1cf1c1be81
+seen_titlehash:650c42791430aafa318c9f8938094790c3e5706a9f467737a6ce1a6d2cf78556
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/ukrainskie-bespilotniki-vnov-atakovali-sklad-wildberries-pod-voronezhem-est-pogibshiy-i-postradavshie-v-orenburgskoy-oblasti-gorit-npz
+title:украинские беспилотники вновь атаковали склад wildberries под воронежем есть погибший и пострадавшие в оренбургской области горит нпз
+seen_urlhash:0b83ac74ac16d40239e39a789e7dee90982a40a3e7c7754e4aae0acc1d7c6be0
+seen_titlehash:fab149b341814a0313775a03f8e670c7f317927ad7a822fed3f2bb5890430197
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/11/lyudi-kotorye-reshili-zanyat-osvobodivsheesya-mesto
+title:люди которые решили занять освободившееся место зачем россияне переезжают на захваченные украинские территории и какими их видят украинцы оказавшиеся в оккупации
+seen_urlhash:1dae2468aa4c5e9b25617ea881482c3b3a843ac1dfcc48d7af416b0188681726
+seen_titlehash:bb3ab5e4edacbc6a4d4af77f68f6c801a989962562cf493d752e367b4292cf6b
+seen_reason:processed_not_published
+url:https://ft.com/content/c27150f4-24e7-4def-9461-0a4849a0ea81?syn-25a6b1a6=1
+title:investing in the forgotten lands
+seen_urlhash:877098c1c939af4ca2d349f79d5924152dfe445491a4c9d9e36a3c2549fa0214
+seen_titlehash:40ae2d3369d644760a88493caa7c813ae76e296f7f4049bf7111014bf904891f
+seen_reason:processed_not_published
+url:https://ft.com/content/7c738ae1-39e5-4094-b224-605dcddaa4e0?syn-25a6b1a6=1
+title:singapore shrugs off iran war as ai boom buoys growth
