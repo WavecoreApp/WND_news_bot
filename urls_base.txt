@@ -44518,3 +44518,53 @@ seen_titlehash:134d2b6fb29d9343d0139b1c988e8df0fabe1e576b364bf58c78884720cc6ffc
 seen_reason:processed_not_published
 url:https://ft.com/content/42194267-cda2-4dcc-9487-02c5f239e034?syn-25a6b1a6=1
 title:heatwaves push european gas prices close to iran war highs
+seen_urlhash:1cfeb9c9ed8cfcaba38de4f2ea14c1d58ee9f78ae97ee6655ded24e9a5f73566
+seen_titlehash:f85b2a2fc3e3f8df13ca3cab9d862620eacd5d508d0557f0f87a7da8f3861334
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss
+title:rescuers scramble for survivors with 180 dead in colombia earthquake
+seen_urlhash:3fc6e0e70a7543dbdee36e1763ef4682b2c2b72eca0471a5444ae2ef612fcef1
+seen_titlehash:d91fad58c72da6c746d0d537677c495bfbaf94ded9050342c9905d652ba196c6
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html
+title:searching for survivors after colombia s earthquake
+seen_urlhash:dc070ba22d723322a52d6384a30bfe21f9d92c4459bcc1b7142d5ec3520cbb7b
+seen_titlehash:0fe0e793fb2be315293a1d5c1a2736da1eb2b95fefea35bc312552bff245c4d9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss
+title:truck crash in egypt kills 18 many of them child labourers
+seen_urlhash:988a4bebd624c7f4c81655d719a68476c3d8017c56727fb51abe427873dbd44d
+seen_titlehash:cd9cb483a0d1df95065acbfa77cf2b00a6a12bc412af6c5ff5da6fb4329901ab
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss
+title:unesco says 2 4 million afghan girls denied access to further education
+seen_urlhash:214c7224cf96927032c2a64919d7e1c6fa96214f946fbfc65cbe9597d66003e2
+seen_titlehash:f6b2b06562aaad43dffcd693826d20bdfff5bdaac98f3dda2dcfe4d4109a308f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss
+title:venezuela and israel restore consular ties as relations warm
+seen_urlhash:17d5098b7f17f1bed082ec973e0e7623c94fac127b53854f4b8b9ec67cd71f44
+seen_titlehash:532b0c382769d837bb25306b0ebbc5750b17ba08b04ca41ffb2856e4ec7e4d66
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss
+title:tightened blockade on gaza causes prices to soar
+seen_urlhash:c36ae5250969715b134745d685472eb22f1667fc4642977b5b310df05b97ce37
+seen_titlehash:2973a72e7219552e6c9b94c6b82540c3605c700e72393acfb88738a8fc9f1643
+seen_reason:processed_not_published
+url:https://dw.com/ru/служба-внешней-разведки-фрг-bnd-получит-больше-полномочий/a-78328789?maca=rus-rss-ru-all-1126-rdf
+title:служба внешней разведки фрг bnd получит больше полномочий
+seen_urlhash:870f5362b748bae5f2dd9aa0dd91077e455596e1bc4b695624b57b4b490544c3
+seen_titlehash:a813566f27829a1fa4bf165f9e047d480dfe31e63dfd711590449e782ded39b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/belarus-milinkevich-died
+title:умер белорусский оппозиционный политик и учёный александр милинкевич
+seen_urlhash:20574bbb7ee344b64164396294e3a56398262d5656f55bbad48892dc23bd997e
+seen_titlehash:e41cd6300c1794a785bee65dd650142f211e7918d590cd9c03effa1ff0ee5044
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/robert-gilman-freed-russia
+title:россия освободила бывшего морпеха сша роберта гилмана после более чем 4 лет тюрьмы
+seen_urlhash:135baac2c3c665e3a9fe8ecac52560272a14e8413adf4aa699832ebc64dad859
+seen_titlehash:58ce4f18c0ed4244e942a6ccefc9806c6db23d116e4438c866abb020c4a7ee3c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/tri-yadernyh-reaktora-krupneyshey-aes-frantsii-ostanovili-iz-za-meduz-eto-proishodit-vtoroy-god-podryad
+title:три ядерных реактора крупнейшей аэс франции остановили из за медуз это происходит второй год подряд
