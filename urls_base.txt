@@ -44693,3 +44693,18 @@ seen_titlehash:9c21cc6447d52436d49aff52ef11d334b6e3d3db23d2bbd180c4cd6151d22245
 seen_reason:processed_not_published
 url:https://ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1
 title:us fires on ship it says violated iran blockade
+seen_urlhash:4ea63d3ca3eb7a5553f6479fb0929c16efc0f260e461cf3e4c23872e30830b87
+seen_titlehash:3b61846be195e80f92455989d8307499c2712214900c1aebb35332948b634fbe
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why
+title:male redback spiders invite cannibalism through a self sacrificial somersault during sex but why
+seen_urlhash:e6e545ed0cee8bb9ab5f45b9fce5a28afbe3371be1be01dbcff66c36a1138531
+seen_titlehash:439fa4e66987898bc884f0c620c3c43bb00467d5d02f70127876dd503a7b0284
+seen_reason:processed_not_published
+url:https://news.sky.com/story/putin-sends-trump-a-gift-and-will-hope-for-something-in-return-13572093
+title:putin sends trump a gift and will hope for something in return
+seen_urlhash:aea9ffa51d81a7187b228328c2722b2fd0e9dc16ee2ce2d48c3ec9da465248da
+seen_titlehash:1151bae80d9f893c399fd0254cf18e6f9c4d17a5d497dbb16fa415f02dce3f1d
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-россия-готовит-мобилизацию-после-выборов-в-госдуму/a-78328937?maca=rus-rss-ru-all-1126-rdf
+title:зеленский россия готовит мобилизацию после выборов в госдуму
