@@ -44293,3 +44293,58 @@ seen_titlehash:485de834da8fffbf5c7dd3956a1a001cb344254a9454ed13504893d6a6eb8fb3
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/08/11/taking-taiwans-democracy-hostage
 title:taking taiwan s democracy hostage
+seen_urlhash:1d39cab2d98fd4684fdc2fa3ed69948c733112621c3f9d387282361b95c637ba
+seen_titlehash:fb0deee66453aa0158db04d189107f83f16e6001b15c2ac6b778a9f813ec69f5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html
+title:before trump s catering container ruse other presidents obscured risky travel plans
+seen_urlhash:1f309d7dcd81807675fdc12962601401b8d99baf37075737d2ca26a5179c9ef9
+seen_titlehash:3d2a8b697709635b4682f04e35b31098a1c9832fcdc0c485e5af3b25ad1387e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss
+title:hungary elects supreme court judge ousted by orban as new president
+seen_urlhash:54c41772b2e24795026ca8db0126c01257ab8a94ff5770b510c9f733faa461dd
+seen_titlehash:a484a8a5dfff2af617e1e0abcae368f38e731c09f82dfe036fb4e59e156be2b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss
+title:rwanda the genocide against the tutsi
+seen_urlhash:f0e64c9f7091913486f9a58c1d83a3b7ca46bc89acc40d5ac1d1e6652e515908
+seen_titlehash:5809501f8972859843547e81445d777c49af9d19d0095f3044163d5b9f7a6692
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities
+title:syria sentences bashar al assad to death in absentia over atrocities
+seen_urlhash:78187c4fa9c6b48713ad30c5d94e99dd92a473f07a42c0bcce0db58c63171268
+seen_titlehash:59671bae6e4e9f5816a5241e5b765e77ca80c535176e442ead762934e7899c6d
+seen_reason:processed_not_published
+url:https://france24.com/en/france-drought-s-impact-on-the-cheese-industry
+title:france drought s impact on the cheese industry
+seen_urlhash:8be54b32498d64b8b055b246d00afc0dba5038c4290de14623432e12081fcc44
+seen_titlehash:9d17a16e00e3a83a5f325debec709201d5233f08b78d544cf26fa3d8eba4fc22
+seen_reason:processed_not_published
+url:https://france24.com/en/lunar-light-festival-turns-bulgaria-s-black-sea-coast-into-open-air-exhibition
+title:lunar light festival turns bulgaria s black sea coast into open air exhibition
+seen_urlhash:6b64afd2d9e53030f5feea6776d54da3191b1fcae02cac6b09c13f44e848a083
+seen_titlehash:84f2b61c89edb129a780f967c963365d3c23b68cfabd4b87f2dee8e4e883c250
+seen_reason:processed_not_published
+url:https://dw.com/ru/компания-anthropic-будет-маркировать-ии-контент/a-78326922?maca=rus-rss-ru-all-1126-rdf
+title:компания anthropic будет маркировать ии контент
+seen_urlhash:f15973526ca4e1f6dacb2d4fec4bb08b962a4cd36a708ab88b5a4daf7e1a6ae5
+seen_titlehash:d637d1b695278598ce9263e0004b34101c5b431758590b3f33b71bb4f45fe0de
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/11/hungary-parliament-new-president
+title:парламент венгрии избрал андраша баку президентом страны
+seen_urlhash:585412f75734a15b02cb2f326a73bf8e7b4d7c64b1e0242e0f7758d9e842eac2
+seen_titlehash:906f6141f21022d834af90dbf682cdd1131021b5dd8e58cdb0e1c6b0b5b5410f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/v-moskve-politseyskie-izbili-shkolnika-iz-za-oshibki-ii-sistemy-raspoznavaniya-lits
+title:в москве полицейские избили школьника из за ошибки ии системы распознавания лиц ск уже четвертый месяц говорит что ведется проверка
+seen_urlhash:89c47c01e7de0d8efa8e6151bc0182b2682484c6052aa96c3cca8400f9a167d9
+seen_titlehash:49a42374a26ac1aba95ee3d9c4647c31b6704b4b980a6cc103184d6cfb1cc920
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/11/mask-i-tsukerberg-opisali-buduschee-ii-u-odnogo-poluchilas-utopiya-u-vtorogo-prosba-k-investoram
+title:маск и цукерберг описали будущее ии у одного получилась утопия у второго просьба к инвесторам пересказываем главное из этих двух выступлений
+seen_urlhash:fff638581a0c7cbd457673ee2db6745bffc3c0dda888ff25ee4eaf7ca30cc767
+seen_titlehash:303936ad6a5be70794ab73e7a51ba852071152129bee2c80496601deb0d8cc92
+seen_reason:processed_not_published
+url:https://ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4
+title:will failure in iran reshape how the us fights
