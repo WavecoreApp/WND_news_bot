@@ -44598,3 +44598,58 @@ seen_titlehash:f4348fd95f0b24389b46373f3cf929c0b0008d5eeb9cbfdffc84673678478aa9
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/11/krishtianu-ronaldu-zhenilsya-na-dzhordzhine-rodriges
 title:криштиану роналду и джорджина родригес поженились
+seen_urlhash:586dfd1cf6f4d0e50f023311cc007c52edf5539654304c417f00d74601bfd003
+seen_titlehash:9bba61cd41b8741f7d423f8a74d2e9f9844b1181b706ed21ac7ed2b98e3f8b89
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss
+title:us says helicopter fired missiles to disable ship breaking iran blockade
+seen_urlhash:d68d3af3fbdbec5f98d3e4fbcaa41b1428f5c345a12f08faf0292e8ef1780a65
+seen_titlehash:d3ec1e9ab6e4289391a8f76972dcef7dc56f838c7e420442b464f19c2c5371dc
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss
+title:inside the secret service shell game to hide us presidents in plain sight
+seen_urlhash:7598e681e16913e056d3c52cdc7ef5209b70321c2e3b228f0aaf0d3bfcc2e15d
+seen_titlehash:b3a025a8c6f31a57a5e58030c52c0d2f47dfedafea6373a7301d7bcfb90d1b38
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html
+title:total eclipse
+seen_urlhash:3c1adb1eba3596683954e7bb3e40bdcad84786cba80bdd6d1f42231960e010c5
+seen_titlehash:af45dd070b5902b557745d6ffa8fe1f66b2ceeab5f60d581c735bf7815f64334
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html
+title:deported from the u s trapped in a prison in africa
+seen_urlhash:70b92755ce1608c7f9555a5c51de5ede0c999c5972d1c734fb013a8b2c2a5ebc
+seen_titlehash:40164caf6355fdc57ddba056c059a707545e9827c3a627d6f334d0867a8605b9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb
+title:australia politics live coalition promises to simplify construction code to help speed up housing builds
+seen_urlhash:8f2e7dac6240418b7d0d941148681540575aa00a53331c632c81ce4dec86070b
+seen_titlehash:fcf415e8ecdd7af7de512e90441a267f3b6f62f825b4e45192f6aabc7bbfb433
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss
+title:relatives mourn victims of pakistan avalanche
+seen_urlhash:ff26be0cd84d4757a800e983ffb6983c91382215e623e9cd190de65f5c3944da
+seen_titlehash:3e4a4d86bfa54e7b9f5bcdf3b58d1d9125152989252fc1b8bc2589b719d277da
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss
+title:pakistan interior minister in tehran amid talks to reopen hormuz
+seen_urlhash:59d16d2c3cf7ba43bb4c04f2e126dfd8b7d20f07f50c1b5dde7981f3c67765cf
+seen_titlehash:1b6d273884727e7a08bcaa5b55ece3d5f277af293823923fec0ca039a1836f61
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss
+title:in gaza s tents widows face war s harshest realities alone
+seen_urlhash:90a98a5780e9ed8be82ec0ef09d7d1c639102e6f7cecfd37c7d66ee53f1b7b58
+seen_titlehash:8c781ad5c7ea3376322af11b2520600533290655307dd688b0282e84956e6598
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss
+title:fishermen face deadly dangers as yemen s red sea becomes a warzone
+seen_urlhash:438bd0bf6c00cc787777875b4b6fcd41e1bb81cf0c21be50d655961668a203c8
+seen_titlehash:a5a27424ea751f0fc6870339f322b28b93918aae2d56b59dd91f650dfcd7926e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/colombia-earthquake-stories
+title:последствия землетрясения в колумбии видеть здания в руинах тяжело
+seen_urlhash:ff1d4ef0aed24434bbe00b10c588e45f8ae8e9f069f924640d03d092de5f73b4
+seen_titlehash:811236c5b90328c690b4f40c34a0c78caa66a3ee241f68efc25522ae109ed07e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/11/afghanistan-ex-minister-eu-taliban
+title:экс министр афганистана заявила что разочарована тем как ес взаимодействует с талибами
