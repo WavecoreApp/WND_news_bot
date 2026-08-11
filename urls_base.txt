@@ -44653,3 +44653,43 @@ seen_titlehash:811236c5b90328c690b4f40c34a0c78caa66a3ee241f68efc25522ae109ed07e
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/11/afghanistan-ex-minister-eu-taliban
 title:экс министр афганистана заявила что разочарована тем как ес взаимодействует с талибами
+seen_urlhash:936c78c1b8b16d060d549679721e95f9968b7d73c6499b141be860337619d14f
+seen_titlehash:ae4189623eeaa938ff001fa4752c75cdd5cc0e2dd4e88a3b1f3e6bfdacab7be2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss
+title:anguish of colombian brother at rubble of building being searched for earthquake survivors
+seen_urlhash:e0d066a922355d5255c50cdfd6b128c8ea74ab6feab84e5e1ef31a2d59d7ba7d
+seen_titlehash:54cc28af101579e8db669e4fe7b898774379da376131748e6c164c2fa7d21677
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss
+title:father and sons forced to manually clear rubble in gaza
+seen_urlhash:f9f87bcaac7b70852b3f41a0911c1d11860fa62827761b7e5f02a265cc160728
+seen_titlehash:1ac1cb2f37be3aadb53afe9f9b443dc2d5f3920d734dac2a4e19b8328bf45d98
+seen_reason:processed_not_published
+url:https://news.sky.com/story/luigi-mangiones-trial-over-alleged-murder-of-health-executive-to-be-heard-by-anonymous-jury-13572067
+title:luigi mangione s trial over alleged murder of health executive to be heard by anonymous jury
+seen_urlhash:70ec5871193dac655f3ec6670e5cfa4c4e68b5bb4fec2a0d570295e58a1b2ca6
+seen_titlehash:1e5ac3b92c08da416307a79d278faed1a53474fc266b6b9f60315ad7e6a4d3e2
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-фрг-политики-требуют-закрыть-берлинский-русский-дом/a-78328917?maca=rus-rss-ru-all-1126-rdf
+title:в фрг политики требуют закрыть берлинский русский дом
+seen_urlhash:42cee03a5c9fd1717fac6ac396308d63b77694c55b90f3593dd0ef4ff33c5b68
+seen_titlehash:16df1d8600f8d3bdda38ccc552707ede34ab86e2655c1a340a9b605502be0f5c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/11/novosti-dnya-11-avgusta-2026-g-vechernij-vypusk
+title:новости дня 11 августа 2026 г вечерний выпуск
+seen_urlhash:54060d216fda452e714a0730bf3998745cb1be2a84d888cbc73cb5a0d2c47729
+seen_titlehash:baa8335b02675c2bd53a35929a4ad81dc55ccf96b7339d5e4d7b627223053027
+seen_reason:processed_not_published
+url:https://ft.com/content/7cd5f1c5-1097-4bd4-bd00-8006759da28d?syn-25a6b1a6=1
+title:firstft china tightens grip on europe s auto supply chain
+seen_urlhash:93c6680e574e6f70c5dc57db67fb9ee35846059abfae7e986eebf537d17174e5
+seen_titlehash:419d91a36db2e8fc7c08112a0482766953f06f3fba00cc3d403cca0147706578
+seen_reason:processed_not_published
+url:https://ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1
+title:panama canal fees hit record high as el niño and iran war choke shipping
+seen_urlhash:00e2d9b0731ea897c2d4f4a434e5ecf2d78b7c97356d75fb4cbae9a66fe757cc
+seen_titlehash:9c21cc6447d52436d49aff52ef11d334b6e3d3db23d2bbd180c4cd6151d22245
+seen_reason:processed_not_published
+url:https://ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1
+title:us fires on ship it says violated iran blockade
