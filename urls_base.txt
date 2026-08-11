@@ -43633,3 +43633,88 @@ seen_titlehash:da272490de3ef1ad9f49e35b9442eab5ddc2d26ea89dcf860370112a4f43b157
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/11/donald-tramp-podderzhal-glavu-fifa-dzhanni-infantino-ranee-tot-planiroval-prodat-doli-v-chempionate-mira-rodstvennikam-prezidenta-ssha
 title:дональд трамп поддержал главу фифа джанни инфантино ранее тот планировал продать доли в чемпионате мира родственникам президента сша
+seen_urlhash:d3968c334b7722e0609e3a0a408a4ed78891bcd48b088a1e510ff91672b61c76
+seen_titlehash:9820b108a0650767968e433911dc48a9b3a646e7763026da6c3b387584affd73
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss
+title:what to know about south carolina s election to replace lindsey graham
+seen_urlhash:12543a9cce401de4c717ccae9200ba645730aedd362562e43f5c7497f947dcae
+seen_titlehash:1fd1eacde9c8e8fac5fe6d16a2d6330423e676d3ba0529a7b999e11600945ce4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss
+title:drc ebola death toll passes 2 000 amid fastest growing outbreak on record
+seen_urlhash:029a87165d72b9e8e65766eb704fb2d1b8cfd23b093037520892051999e9a637
+seen_titlehash:d31f418f088a7638f1db6df8a2137267f34854941ab9460792db87ad0cf5eee1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss
+title:east libya military intelligence chief killed in car bomb
+seen_urlhash:f58e48c32384567f6568d9f615924e20c21417078ae68c0b868d00329200ea9a
+seen_titlehash:6c797472db1e7f8d611ba824921a5ddd1d76f983468d97e0ab8015b664feadd2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260811-colombia-eyewitness-films-moment-earthquake-hits
+title:colombia eyewitness films moment earthquake hits
+seen_urlhash:c51b2cb663848ca71b246ad75ab0290f911562b51803d60e94fc133adf50cb80
+seen_titlehash:822393699569cabbd8bc5c6360de49b4899e3b2ca8fdd69dcae14bb2773c732c
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260811-record-drought-in-france-this-summer
+title:record drought in france this summer
+seen_urlhash:00a872b43865690513bf139e88d759638072664541b6770f24c638fcf057f3af
+seen_titlehash:2928918f85c8a838334700db0c65fff57050aa8b4e7585c53efe4e62148bf47c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-др-конго-от-лихорадки-эбола-скончались-более-2000-человек/a-78319498?maca=rus-rss-ru-all-1126-rdf
+title:в др конго от лихорадки эбола скончались более 2000 человек
+seen_urlhash:aeff16dbb62ed03e6f564e662858d4799b65d0dffe2c672ebfba177797ae48dd
+seen_titlehash:287fc5455a0e2cdacc6a93b70eee2480479be4901e9c7e98c20148e0da531d5e
+seen_reason:processed_not_published
+url:https://dw.com/ru/русский-дом-в-берлине-закрыть-или-оставить/a-78310647?maca=rus-rss-ru-all-1126-rdf
+title:русский дом в берлине закрыть или оставить
+seen_urlhash:f761bd3bf8ef106d395c3b689b8d37f1abeeb211171c6cbdd6a1a3ea033983e3
+seen_titlehash:9c77f7236859c3c6621452bb9c9a437aca5d894d011ace9a1834bcac426322f4
+seen_reason:processed_not_published
+url:https://dw.com/ru/как-и-где-смотреть-солнечное-затмение-12-августа/a-78310808?maca=rus-rss-ru-all-1126-rdf
+title:как и где смотреть солнечное затмение 12 августа
+seen_urlhash:e0e5a1bf8308ea5c98ac35bab9c80bd626875779d0151a0aed48ebd8d432eabc
+seen_titlehash:7daa072b6a2c8e26426d2b28308f5ae6f1c9df79e6388ae91588e29c105a8641
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/tajnyj-vylet-trampa-iz-turcii-posle-ugroz-irana-prezidenta-peresadili-na-drugoj-lajner
+title:тайный вылет трампа из турции после угроз ирана президента пересадили на другой лайнер
+seen_urlhash:212dd95ad43fe7e89a1740c638b8ed2a94106a4d71961f31eecf070f491ca9e9
+seen_titlehash:cdd80657d57961e4ac3bb3e1117662292c785aa5b1195989410aa3002f6c513a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/11/have-trouble-sleeping-in-hotels-this-is-why-and-what-you-can-do-to-combat-it
+title:плохо спите в отелях причины и как с этим справиться
+seen_urlhash:eee5934b7517e24148b4c71528cda51e7d0bc5ac6807fedd31ada2957c90a8ea
+seen_titlehash:41ce6848949cf28a4e70ec2eba9c4d11c172fcbc82a10a2e3cac17043617b277
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/11/brad-pitt-supports-specific-uses-of-ai-in-hollywood-it-will-help-these-mid-budget-films-ge
+title:брэд питт поддерживает ии как инструмент в голливуде поможет снять фильмы среднего бюджета
+seen_urlhash:edac3bbd2cd7827d7906a383d5dfa6d98ed279c0eace4f8feed498fa76df366c
+seen_titlehash:55cc3e0455a49d0bbb854acc0225ce7936872f8ea6256c299d36539fd6b88e8f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/11/deadly-earthquake-in-colombia-hits-manizales-damaging-cathedral-and-homes
+title:сильное землетрясение в колумбии повредило собор и жилые дома в манисалесе
+seen_urlhash:7470b106abde20567990a4be997e8ef36f4a38db693203431ed5f016cfc05240
+seen_titlehash:1b2dfc254195cc6282b0151091c6b3f50dd8b68a70e1e20b373d92a86e411371
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/11/exercise-could-become-a-more-significant-part-of-parkinsons-treatment-as-scientists-explor
+title:учёные исследуют связь мышц и мозга спорт могут шире применять при болезни паркинсона
+seen_urlhash:f59baa17f4c37dde484925a57be12f97dc2912c76f9921fb1793eb8ace01af23
+seen_titlehash:0e3e074be4f3e8b13ceb2e009350bf1c92bde6966795d8ae62fc6f5c4e08743b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/colombia-update-and-curfew-es-team
+title:число жертв землетрясения в колумбии растёт в городах кали и перейра введён комендантский час
+seen_urlhash:b82d1cd4955066691f76ea249575558dbc3e32df3549324ba62492639081aff2
+seen_titlehash:7a4dde260e8789ba652e4d91bdad7038189600d744d90f0528ba3902adf62359
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/11/novosti-dnya-11-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 11 августа 2026 г дневной выпуск
+seen_urlhash:b7ef1aac011d98da64ab629147ad3ad6ec8a3b38c650d0c33f66d431e8555643
+seen_titlehash:b6a6c6a1501fce81261b2f308e53dd4abfc370339e65241748cdae28b6ef9923
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/tsb-vklyuchil-bitcoin-ethereum-i-tether-usdt-v-perechen-kriptovalyut-dostupnyh-k-publichnomu-obrascheniyu-na-rossiyskih-birzhah
+title:цб включил bitcoin ethereum и tether usdt в перечень криптовалют доступных к публичному обращению на российских биржах
+seen_urlhash:e2511d5b7626a7a15a88e337d2198dc9b1d96e4f479a7978d6f4c0757d43ae09
+seen_titlehash:6a1eaf38f6c44535e6ba71265cb5ddfc230ac43ed522a2987a5204245b6065ea
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/11/v-kolumbii-silneyshee-zemletryasenie-pogibli-bolee-130-chelovek-povrezhdeny-sotni-zdaniy-v-tom-chisle-samyy-vysokiy-sobor-v-strane
+title:в колумбии сильнейшее землетрясение погибли более 130 человек повреждены сотни зданий в том числе самый высокий собор в стране фотографии
