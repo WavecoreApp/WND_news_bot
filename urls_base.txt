@@ -44568,3 +44568,33 @@ seen_titlehash:58ce4f18c0ed4244e942a6ccefc9806c6db23d116e4438c866abb020c4a7ee3c
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/11/tri-yadernyh-reaktora-krupneyshey-aes-frantsii-ostanovili-iz-za-meduz-eto-proishodit-vtoroy-god-podryad
 title:три ядерных реактора крупнейшей аэс франции остановили из за медуз это происходит второй год подряд
+seen_urlhash:b39d4861757182bd178e01599757d0b48659fd3b92f5a74607f3e31b1f646952
+seen_titlehash:60d8cf66ae28af143924ee586c7bc96097dd448c25bfdbd67ff44acb93016da2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss
+title:israel demolishes home of palestinian killed during settler attack
+seen_urlhash:4be357b8e01f59a07071124bc1287ab3516d1d6722cbccab0b888560d1720074
+seen_titlehash:310223b23efed22e0c4a8ddc69414662e08b4aca1738b67cc59a888914267b1f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss
+title:dr congo ebola death toll surpasses 2 000
+seen_urlhash:fd0a6b2f97bbe847a60820e2ae68f59f7883c26482dc49f6c82c9c8064818b79
+seen_titlehash:38d952e04648074b550766e36f01a9778f5021474e35cd920e233b60db0e31a8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss
+title:trump warns of jihadists ruling in washington as democrats show momentum
+seen_urlhash:8160891b099d5766bcaa483dfa8876059e289db8fd3ed9d30807971ad65106c0
+seen_titlehash:5868b89ef460f89634706ff8a1d86a565c480951cae343ac9c07d5b10f8bca98
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/11/search-for-survivors-underway-in-colombias-earthquake-aftermath?traffic_source=rss
+title:search for survivors underway in colombia s earthquake aftermath
+seen_urlhash:fc67bc652e8f63b3f9fdbd6f4a290ea5899baf1e3f95c41c1a75cf475fd70c6f
+seen_titlehash:6d131e860b62e1504a1cf8878d5dba698bde6b51a9dedc1333b10751266c72ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss
+title:us military fires on cargo vessel it said sought to break iran blockade
+seen_urlhash:bfc8de60535e83a8a355cc5f5bd8cf66769c86868397b86f16db0f6e11ac4f3c
+seen_titlehash:f4348fd95f0b24389b46373f3cf929c0b0008d5eeb9cbfdffc84673678478aa9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/krishtianu-ronaldu-zhenilsya-na-dzhordzhine-rodriges
+title:криштиану роналду и джорджина родригес поженились
