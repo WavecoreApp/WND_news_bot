@@ -44348,3 +44348,98 @@ seen_titlehash:303936ad6a5be70794ab73e7a51ba852071152129bee2c80496601deb0d8cc92
 seen_reason:processed_not_published
 url:https://ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4
 title:will failure in iran reshape how the us fights
+seen_urlhash:8f455300fd350ac0ad542e27eed5aa4ad2e510b718f56fb6deacd4f9566d54d0
+seen_titlehash:f7ef159a5c32f4ea1aa52ca47a74109eb261e224e10dd4628329188965e86122
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html
+title:an electric motorcycle revolution
+seen_urlhash:35a331b8fd39c475726dd1c0f1a037dca11d6f420791c0fc4957bb43b10c6c27
+seen_titlehash:ebbc4a919cbe2bdbad17f7e0f6a288f9f5536a0a72763ae8b0a7fd91ab9e0343
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html
+title:ex marine robert gilman is freed by russia after 4 years in prison
+seen_urlhash:f922e67d8165badd7354de34202c84d78b385455a32fdb70b578394ba5d6b48a
+seen_titlehash:99c6bec4254ba4d6356d325ce07f83b6efa4f92bf33ed33f4269e2e408b77819
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss
+title:us jury in luigi mangione murder trial to remain anonymous
+seen_urlhash:07636672f79e64e4c78d07e571b78b52afa857b5b38418ff6e8070a36e02deed
+seen_titlehash:0b0d1a96614cfe786f156d4ddba5aeaca31eb493cf2883921fa52289b7185f9b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss
+title:russia frees ex us marine robert gilman from detention
+seen_urlhash:c095888218f9f5ef2b64c5edc3fe5cd0fd43153e42378d993dce672552bda085
+seen_titlehash:bdd9fa1e66a097112dc7b1fe78b90b13fbf3632cea48d32c227b237101929bfd
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss
+title:psg vs aston villa uefa super cup prediction lineups teams
+seen_urlhash:dcfeeaaf1f24288dee1c8a63c21ecac560adddd815c77cfe44030945aec5f671
+seen_titlehash:f706e6f9aeaa33f540da4e23198bf76f214a4a39880acff733f92225f70c60bc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss
+title:trump faces lawsuit over push to limit birthright citizenship
+seen_urlhash:c78f59d53a71ff2ad8bd067c0882f99064a884603bc8e3b0417289c45721622b
+seen_titlehash:828e4c1d8a1c2ec73ccbe9f7e8c04ec3c7c0433172e2763c4d17cbc853f09e48
+seen_reason:processed_not_published
+url:https://news.sky.com/story/boat-carrying-more-than-90-capsizes-in-zimbabwe-13572036
+title:boat carrying more than 90 capsizes
+seen_urlhash:a0a8a4fbbe67412f0b7cf4158692b1da42d91dcf675df41a3deb040133ff56b3
+seen_titlehash:1b8277a5d86a3be7b8385e4b9e11cf3dd94d593515e4ccaa5e4b8c9b65180fda
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260811-fast-and-fearless-baltic-defence-startups-innovate-to-counter-russian-threat
+title:fast and fearless baltic defence startups innovate to counter russian threat
+seen_urlhash:9b6b69247312310aaffb504517ce6265d97f960d88021972703d946291cfe516
+seen_titlehash:320c44e43309c24d87186f5950f81b3c4840f66c1adcd709012f797f9ac7bb23
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges
+title:russia frees ailing ex us marine after four years in prison on disputed charges
+seen_urlhash:a4ba03269d4f68b1110d86a9b7413dfdf77b1bf7ce16f31a78c30dc91a603094
+seen_titlehash:0e4f7032c3dcefec955207e2c7607fa097520ad1cff3d92dc971d69aec888e0c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-фрг-призывают-прописать-в-основном-законе-задачи-по-защите-от-жары/a-78328333?maca=rus-rss-ru-all-1126-rdf
+title:в фрг призывают прописать в основном законе задачи по защите от жары
+seen_urlhash:9ef488bde445fe05e17d843adc5be079983b2eaeec95d5aa8334cc421b5eb828
+seen_titlehash:8ffd365a8b7d3f02ea8654a41f358bc6e9c56743d77e373df6cb2d740c142b0f
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-освободила-экс-морпеха-сша-роберта-гилмана/a-78327782?maca=rus-rss-ru-all-1126-rdf
+title:россия освободила экс морпеха сша роберта гилмана
+seen_urlhash:7675a7e0262c86713435cba1f595a5fb57558a10656dc0a2258570f0ad613b24
+seen_titlehash:c16d317202b3930fb0096d9237947a334ebfbe75a38a0a2e620e75143d5250ee
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/11/heatwaves-in-france-thermal-comfort-a-new-real-estate-criterion
+title:жара во франции станет ли тепловой комфорт новым фактором на рынке жилья
+seen_urlhash:bdc04819d6fe4169432134303df24ec81ba9178ef22fa6424f3a5a5efa1a3557
+seen_titlehash:a7dc7dc0502d2380ec762d4c8e27edd33e59b1951bb90aa534e5524308ed9e5b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/11/solar-eclipse-in-france-protective-glasses-are-flying-off-the-shelves
+title:солнечное затмение во франции сметают защитные очки
+seen_urlhash:32b972b93ece26475de4379f70595f8d2bab9b94612f83f889f00ceea7f1df2c
+seen_titlehash:fc53ce3150c40611d16c93bd4b952f4077e03f2524621c94f744300eb18d9e75
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/11/paris-new-rules-for-scooters
+title:париж ужесточает правила езды на электросамокатах шлем и светоотражающий жилет стали обязательными
+seen_urlhash:84a6d870bf9743cb6ec2555a02e65e17d1f92b3ab0f525244ee95788b8675775
+seen_titlehash:55aaf66204ad959b75696c1857986be5adf4578682c1d98c433914b3c985f356
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/11/zelenskyy-kosovo-scandal
+title:слова зеленского о том что киев не признает независимость косова вызвали гнев приштины
+seen_urlhash:ef1cce2ce883d2c54aecb74f6e866c6399e7836a4d89347cfbab5b7cd4819be5
+seen_titlehash:3f22eacf00891bfb492cb61e7c330514fc53dfb3050dedb3ed5ad10d96554b93
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/11/bulgaria-lights-up-its-black-sea-coast-with-a-digital-art-festival
+title:болгария озаряет черноморское побережье фестивалем цифрового искусства
+seen_urlhash:635c9d6bdeaf76f8ba2eaa68f801d9ce8b32f6a262ca50bdd47bd6da326b2bcd
+seen_titlehash:f047a0b9d3caa1cfb3700bd7480e17f3dd8855bd2c0a6f66168ebfadca068c0e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/v-ekaterinburge-lamborghini-vrezalas-v-dom-po-dannym-smi-za-rulem-byl-syn-pravoslavnogo-oligarha-altushkina-a-v-avarii-postradal-uchastnik-voyny
+title:в екатеринбурге lamborghini врезалась в дом по данным сми за рулем был сын православного олигарха алтушкина а в аварии пострадал участник войны
+seen_urlhash:2ecc2ffadd6bd072b3e278ce9e250c6e13765cbcc49f56e71dc2233d88959cff
+seen_titlehash:5399bd30485d0dc8a87be1bc3bb1fda2e0c4c2e7fb2d02ffa162e95d8d426287
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/11/my-vse-bespravnye-raby
+title:мы все бесправные рабы верстка рассказала как женщины из российских колоний отправляются на войну и сталкиваются с произволом и насилием со стороны командиров
+seen_urlhash:2658f0a1b26722f497eab94a5b7db17a5ac5ac6ac12b40dd4d3d9b87bd42ab95
+seen_titlehash:0eba6a1e10f8d9b8146c46a20d644ab8eb9dd227a544251189e802a8dbbcc02d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/11/putin-v-novosibirske-ostanovil-kortezh-chtoby-poobschatsya-s-detmi-ryadom-s-nerabotayuschey-zapravkoy
+title:путин в новосибирске остановил кортеж чтобы пообщаться с детьми рядом с неработающей заправкой
