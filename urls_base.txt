@@ -46648,3 +46648,68 @@ seen_titlehash:d9adda5dc397af97fbf6d80230d43c3dae8e5e31a12255a43fc1a0f8cc76e33a
 seen_reason:processed_not_published
 url:http://ru.euronews.com/2026/08/12/karoline-leavitt-leaves-wh
 title:пресс секретарь белого дома кэролайн левитт покидает свой пост
+seen_urlhash:3950e54896920b51e0bb8ad7e7db14cf6db265e6a8c02b59a8e823ee4f2dc24c
+seen_titlehash:407b2335c1bd8b92e799f0b6bef5a489b56c0f92474e94628c7fd0e786458bb7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss
+title:why are human fridges being sold in japan
+seen_urlhash:09c9c34b4281a87699e61da523a17bf169e04d7ad131bc27d02bbddf00aa6e73
+seen_titlehash:d15feb32bdf9537de56689829a71a5ef86896ba02a579d3a995c5d534b532f3f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html
+title:palestinians trapped by settlers for days as israeli army shows up and then leaves
+seen_urlhash:0208fbe899f689f1512d28b7f52c5196ea205dfa51874524172b56ec371b0e5d
+seen_titlehash:af3e2496b1aee5789ae055deba8d508118a557020fb2e6466fe60c3d2275154f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss
+title:us strikes in yemen killed 153 civilians in 2025 says pentagon review
+seen_urlhash:d60bee54f55f62f31b006cbdc7f4710b37ddc8f199dd276e84c4111d82b1b062
+seen_titlehash:27fb62927aa91f962f58ca652e2d24c48d02bcdbe35b18c0b3ebe497ec00ff9a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss
+title:hegseth cautions that icc may investigate us boat strikes in latin america
+seen_urlhash:308d5bbc482a8c07f559e676f732a99ec71980ad363dc2de49ce708159a6f12e
+seen_titlehash:bdc60e0f425ef8fea31cde698d6bb56f1937354215e3ba09c4a20385a1e81941
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss
+title:psg win back to back uefa super cups with victory over aston villa
+seen_urlhash:74d7cd0d7b9f8df9a0c03d20329f9bf58cbaf3dad88198e1bcae0e93b946190e
+seen_titlehash:9808561b505841c296615485cd039182b2f6d7b2bca501b05587262350d93a3f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss
+title:thousands missing after colombia quake as rescue continues
+seen_urlhash:25063ae331fd9f40178bf68dfbea49203f73241689140529ac01dd292189ac2e
+seen_titlehash:f526eda5194e652f65a968024de42dbd4349cebc7113dd6d906dd44274972f8e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss
+title:morocco says working to prevent potential new ceuta crossings surge
+seen_urlhash:c3a1f2735557f80341c6e3109197a5205ac9ca0808b57e7c00e03d808f7ffc28
+seen_titlehash:85cccf266461b23c342837281d0df5830b844e6da9b4ad890740b8b74f664625
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss
+title:11 year old boy shot by israeli forces in gaza
+seen_urlhash:aa9f3e0b1160e0e4a9f6f33245ac2d26ee30660b2e12547f1fc519b3be405aee
+seen_titlehash:26073694dc5461a769d3372f3a13390b22c3fde7bfc3467e035e6a2bc338c4e9
+seen_reason:processed_not_published
+url:https://news.sky.com/story/way-to-challenge-infantino-is-during-fifa-election-african-football-leader-says-13572391
+title:way to challenge infantino is during fifa election african football leader says
+seen_urlhash:06399fd0c10ee60d3d3e52c30099bd33f3dfd39ea46c81e7ac79565193422394
+seen_titlehash:10c4f1276076f4de0a93663f3650b5a13419e265c41233b4517b62b3d0f218f4
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches
+title:oil spill from grounded tanker reaches oman s mainland beaches
+seen_urlhash:ad23d41d670f7a375c75b5f110b01051bc92979eca7e1df91ea33d28b5a1cccd
+seen_titlehash:24fe114e960a7afc7b98e705b87247e999a89f7214de2dce837bbbddd1e378ee
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260812-white-house-press-secretary-and-trump-adviser-karoline-leavitt-to-leave-role
+title:white house press secretary and trump adviser karoline leavitt to leave role
+seen_urlhash:9299885e3968966def8d646f39ed0609ba64ffa94ae56aa68332478afe522eba
+seen_titlehash:d1c42a381af69d17f857b3678dfa9f25600f522ef69d78173b5b2c205e064d75
+seen_reason:processed_not_published
+url:https://ft.com/content/ec651ee9-0f3c-411a-9cde-d326acf89cee?syn-25a6b1a6=1
+title:firstft taiwan hit by unprecedented autonomous ai hack linked to china
+seen_urlhash:15d2d3f674b2f5dbb08033b069018319526fa27a70c850698afc5935323128fe
+seen_titlehash:085be19a376c3a6ececde460b618c6583e394b21ae43b961dedd922dce821ac6
+seen_reason:processed_not_published
+url:https://ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1
+title:wall street giants bet nvidia s ai chips will defy the laws of finance
