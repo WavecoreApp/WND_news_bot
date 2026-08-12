@@ -46388,3 +46388,68 @@ seen_titlehash:bc2d74f4b58ba7497f985a152d7fc8c03c46045e5c9ab487315103ea17bdbee7
 seen_reason:processed_not_published
 url:https://ft.com/content/7129f44d-460a-49f6-acc7-293d512ad74e?syn-25a6b1a6=1
 title:is university still worth it
+seen_urlhash:f42a7c2903617aaa6ceaa206e29cc1b915457e03ce877f3b3197365cb1949bd7
+seen_titlehash:6023ba34fa66d7beceb831799d817feb99ad48fb874673a7485a51d8830b68c3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html
+title:as europe faces heat waves and wildfires travelers are forced to adapt
+seen_urlhash:907fb2c6d536c22e929506cc9c02dcded9dcb5b752474067c9bf0c17639b398c
+seen_titlehash:34dadb85cf086aac9c4a29a96bdbe69ae921f43c915d7efbab1735edf646dd3a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html
+title:more than 40 dead after a ferry capsizes on zimbabwe s lake kariba
+seen_urlhash:bdf0e9667846096dc8e9bc3f000972666c1bfe1736c0c9a1637f4bc103a4fbb9
+seen_titlehash:4a2ad831e49698b927de2c2fc6f30c8278ce5447d77013c36366674202658042
+seen_reason:processed_not_published
+url:https://theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict
+title:broadcasters to be barred from eurovision song contest if state involved in armed conflict
+seen_urlhash:86e0512788cdf5546395ae02c29a6217cea88704fdd0604a36dea100915ce11d
+seen_titlehash:0ebc24101e908cf26894d637cc8b61d42c78c80d68503cea440c51faaa1e68ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss
+title:paramount skydance mulls cnn sale amid antitrust merger challenge
+seen_urlhash:ee20a241cab0813898ab0d576d5b82320b6224c0e6d774ab8ba0a06dce1510a7
+seen_titlehash:f406ea1b48ff41a04e8e2e837985ef42666bf5d5604e1f07bee1102591aa8f9a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss
+title:dr congo ebola outbreak set to become deadliest on record who warns
+seen_urlhash:1495b959332386967296881f32cffb1c831619503abe3f7d204349d16aa293bd
+seen_titlehash:a1eb293eea1b90ca630fb89902fcab7d07380e06e584195a47070e840d396ab2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss
+title:lebanese families demand release of detainees held by israel
+seen_urlhash:a493f153953e6ce1059850681f10d52830d417d2efead4ccd8c1c506d4e62128
+seen_titlehash:8d5f4224653feb017d2572980aae0360da617cec3aabf6122b12ffe325659c24
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss
+title:mount etna eruption disrupts travel at italy s catania airport
+seen_urlhash:525c27adbee72e06731061ea15946a0c9e8c02e9f5f7fe943f5e38ba94f1a3d9
+seen_titlehash:42da211b6d947c5f064c01fd8d35244b5b70bbfdcd3e7bacb3b23a8875e55d56
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260812-netanyahu-gave-a-victory-to-hamas-by-rejecting-us-backed-gaza-peace-plan
+title:netanyahu gave a victory to hamas by rejecting us backed gaza peace plan
+seen_urlhash:9a76166f4d0d4d46494cacb8077b2b02903253640a576853ee7b4000cb51604a
+seen_titlehash:916997c58d1b4db52aebdafc570a7ba01b9fba09835582f60e65099725646ff2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260812-solar-eclipse-a-rare-show-that-reveals-scientific-secrets
+title:solar eclipse a rare show that reveals scientific secrets
+seen_urlhash:25774c8378f9d07f2d5e2dc4b912cae42dcb27003b79f363ef353bc60a77ac12
+seen_titlehash:61a6dd9305b396bf2147b16f3607157b3eef00ec5343a4ad641b5973b3dc4074
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/12/v-gosdepe-ssha-sozdali-spetsotdel-dlya-borby-s-rodilnym-turizmom-on-annuliroval-uzhe-bolee-600-viz
+title:в госдепе сша создали спецотдел для борьбы с родильным туризмом он аннулировал уже более 600 виз
+seen_urlhash:ccd1f442ee6befb7b34eb927ac36226544b794640f9994310d9389d07ae124bd
+seen_titlehash:af339a60f16ef7cbd9b2c5e765b28e4c6da70e61414575244037dbc5b631738d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/12/ey-bolshaya-shishka-prekrati-diskriminirovat-polskih-polzovateley-starlink-glava-mid-polshi-obratilsya-k-ilonu-masku
+title:эй большая шишка прекрати дискриминировать польских пользователей starlink глава мид польши обратился к илону маску
+seen_urlhash:1c2969ec6838062a811dc3523b5583171256fc1d754acd606b91db2b681173ee
+seen_titlehash:6457e19c2a891006785c5bb48f3abe1bec7c072635422df49a6a8ada79def9fc
+seen_reason:processed_not_published
+url:https://ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6=1
+title:mark walter s insurers rush to unwind affiliated investments
+seen_urlhash:e2ca248f7b76573bde21931edc3b187c235c74facb8c9e459d4163a51cebe7db
+seen_titlehash:4d668be3bc8e08b9233fe209e9a3001f2a5a0812d1159d0bd0ff61aa23f4f33b
+seen_reason:processed_not_published
+url:https://ft.com/content/699929b6-ce31-4d0b-9828-c0fe96e59d9d?syn-25a6b1a6=1
+title:crackdown on zero hours contracts could cost uk firms up to 3bn per year
