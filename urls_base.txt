@@ -46593,3 +46593,58 @@ seen_titlehash:67f667a7452db80f787627247afd259b162985015a4eec0b8a949020a128cb0c
 seen_reason:processed_not_published
 url:https://ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1
 title:karoline leavitt to step down as white house press secretary
+seen_urlhash:239e6a6154fb3402ff5565d710cc3dc246eed80f66f28fff5ec6f7b843e073df
+seen_titlehash:cffa7f069a758e42401710735583ecadba69e980bc25e100396044760aed6fb9
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal
+title:muddling through iceland s rainy eclipse accompanied by clouds whales and at least one proposal
+seen_urlhash:fd46e78dda979c755a9be97cc0a1745e8f346e6e337564ccef9aac937ccc8e32
+seen_titlehash:d64a9384376953e98fe5a1a555bf5339b7e9b2d74a3dfa628b28c5beb9ec792b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html
+title:for trump secret flight was a stunning ruse for putin a regular tuesday
+seen_urlhash:10eec41f14e37058a02be6bc7bce2f2bc0da1f493dc0fcfa2b9ad2ac64355cca
+seen_titlehash:9f2891d63c7e9d6284469cfc5ded4a3bb6a3f192e5ba6c20c0c707d2235371fc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html
+title:afghanistan s unhappy anniversary
+seen_urlhash:23fba214579bb9f211b184d4999e3807aebde498ab7487c572bc12ad8c0d73c4
+seen_titlehash:46117172b838e6f2f3d5ab0b66744e0e2e5975c0249e02fda27d79d85fc993ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss
+title:drone attacks on energy infrastructure deepen libya s energy crisis
+seen_urlhash:70c7e2e431e2d31b8e0c6e7d7be8075782a1c7204957cc14ea5bbd6adc1cba93
+seen_titlehash:537389adb98a69b3dedd57468db1ddabfe57e707e797a40b322a47b709e68ab8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss
+title:israeli air strike kills one in northern gaza
+seen_urlhash:102ea7b1f5fae40372171c28fb6b095d5b876e2d9ee1b618ea60575df94e4209
+seen_titlehash:b4b605f7cbc8608a48b90ed51f9af9bc96d3f54c9c0587db47d91721b6dd142a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss
+title:deadly india landslide kills at least seven in mumbai
+seen_urlhash:2e881b1172b9db248450c8a10b8683bae669418c5a7b94d1bc03c4648ce4e041
+seen_titlehash:fbe3c47b3034b0a2c6e3c9b637726f030b2a502f0f1b8df5609ae3d041d6d696
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss
+title:can syria deliver transitional justice
+seen_urlhash:8dfb7010595ebd4e63fa2fcef8e79ab8472c91f16709dae9419b75fd305dfed4
+seen_titlehash:a3787e271c113f203b56a7504801a49c33f7e57e73f12650d7851fb4ca2b6e2b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss
+title:israel vows to keep troops in lebanon gaza and syria
+seen_urlhash:cb445ffae3c86181ecf822e426a251058996aacb02f20856d686424e29f510c3
+seen_titlehash:3e9c70c12583580d06fa64f14a4f8b3c4a118fa33b2cd6de7337f7189eacfae3
+seen_reason:processed_not_published
+url:https://france24.com/en/partial-eclipse-seen-from-north-and-west-africa
+title:partial eclipse seen from north and west africa
+seen_urlhash:ce3fbee30447eb9da015376646070ecd8c4cbdbe783495b0767dc55e3536b858
+seen_titlehash:343eac5e30aba97be1f10a5b9bc502237e8411038750e19874495cfc6eb48850
+seen_reason:processed_not_published
+url:https://dw.com/ru/кэролайн-ливитт-уходит-с-поста-пресс-секретаря-белого-дома/a-78343327?maca=rus-rss-ru-all-1126-rdf
+title:кэролайн ливитт уходит с поста пресс секретаря белого дома
+seen_urlhash:00d5fe4cb009b4c53e19ec81177833e34cdc8c24f3bebff083590070c197597b
+seen_titlehash:d9adda5dc397af97fbf6d80230d43c3dae8e5e31a12255a43fc1a0f8cc76e33a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/12/karoline-leavitt-leaves-wh
+title:пресс секретарь белого дома кэролайн левитт покидает свой пост
