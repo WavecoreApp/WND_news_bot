@@ -45598,3 +45598,103 @@ seen_titlehash:41b9b1bf2467104acaebe602fdee4704de89f7d7dd29f484163b340c6ebd5454
 seen_reason:processed_not_published
 url:https://ft.com/content/99c86e8e-02d5-4c7c-9eef-27ad9bb5b7c6?syn-25a6b1a6=1
 title:bank of america commits 250bn to us projects in boost to america first agenda
+seen_urlhash:6bfb7694b9787a2ed1bbf8beb06cb37e12074b49aeaa92926ba669edeab4254b
+seen_titlehash:a3869db3ceafe1a9d14e5af2faafb50cd460ff9fcb9d1f95b7594fe6686c7f1a
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe
+title:here s the latest on the eclipse
+seen_urlhash:cca8e9a3c6f4d842fc9cce27c293bf7e86a198f7ca6dc3c8745429fa80fe68d9
+seen_titlehash:b140eb8a73125604ad23ff7d019c249367b4b6d3ad9fc5e8966dfdbee23b2aaa
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/heres-how-to-stay-safe-watching-the-solar-eclipse
+title:here s how to stay safe watching the solar eclipse
+seen_urlhash:6292f9502d255f74b2f88cba099c4b49678063ca89f5fe6721e65201c982bd55
+seen_titlehash:50573cea211e3b2b24f7efdd1c598573af03aec415865287c3fc26d1d89832c4
+seen_reason:processed_not_published
+url:https://theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers
+title:halting the march of the armyworm fungus discovery offers hope to african farmers
+seen_urlhash:7e80a8ffffc8a0bab13e7826dfe5ffb5f4e4b781bafb7ff14b46e12ea69f1967
+seen_titlehash:593b6dcd6f5aee180d68aa9faf5496b7cff837ed8e0ea86117a8ed4f29d658ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss
+title:putin warns of tit for tat seizures of european vessels
+seen_urlhash:4af57dc6143d5cf26d28c2269467c3b58c0c3415fdd7aa959b6f01c1747f97bb
+seen_titlehash:0e610f74f54953b79fbd4d688f66763f7d47db75b6f53264e4840f30d185389d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss
+title:lebanon ends executions where does the death penalty still exist in 2026
+seen_urlhash:6edc7defc51bd52d7371e86c6b6c78999182e63013708753d8a30fdf805ab477
+seen_titlehash:ed9dced6e6248816649e5db6169cb1e7a21b6bb875140bde9608fdf9569d55ec
+seen_reason:processed_not_published
+url:https://news.sky.com/story/north-korea-launches-missile-amid-declaration-it-must-possess-capability-to-counter-strikes-that-would-make-enemy-survival-impossible-13572179
+title:north korea launches missile amid declaration it must possess capability to counter strikes that would make enemy survival impossible
+seen_urlhash:93639af7e4e094719531305a995f611c2bbec4bbf7b02c10ebe1f0b1be035284
+seen_titlehash:f7a14248d748d65e7dde4839c54326e0bd59e242bce724d2b168598b3f156f63
+seen_reason:processed_not_published
+url:https://news.sky.com/story/at-least-37-dead-after-ferry-capsizes-in-zimbabwes-lake-kariba-13572036
+title:at least 37 dead after ferry capsizes in zimbabwean lake
+seen_urlhash:24edcad00decf2b400273aad21ead5c6aa15a1d1c0cca9ce7c6159ad7c840576
+seen_titlehash:2555da888154ec0fc253d4411367bbf854480af7e9b534ff605cf471d53e98f0
+seen_reason:processed_not_published
+url:https://france24.com/en/solar-eclipse-a-rare-show-with-scientific-secrets
+title:solar eclipse a rare show with scientific secrets
+seen_urlhash:b85e0f154da249ae478263755b0dab6672d887343c101dab0a8f039d0e5c9640
+seen_titlehash:31870df9a418167ded8edd3d34558624496b7ec3336c56733890e2c17c4abf32
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea
+title:ukraine seeks closer cooperation with south korea
+seen_urlhash:80b5c3e6a1e94b99ad8e9917e56fe0ed11876e9a078683fe288302737224d55f
+seen_titlehash:3ebe99d6c4fd88fe5178b255dd42314263bdfe404c4c1957cbbde14bcd5becd0
+seen_reason:processed_not_published
+url:https://france24.com/en/meta-group-is-accused-of-intentionally-designing-addictive-platforms
+title:meta group is accused of intentionally designing addictive platforms
+seen_urlhash:cdbe38c02c142017d5b23a035ee8d7e5bf00d5a892d9ce5d99093a1eb77134b1
+seen_titlehash:acaed2f45c9f483ede3aebffb460fd237eb11c28a6eafe2e1ac921cd18e4c7d5
+seen_reason:processed_not_published
+url:https://france24.com/en/solar-eclipse-never-look-at-it-without-eye-protection
+title:solar eclipse never look at it without eye protection
+seen_urlhash:45c994f199e56575e365941b29627d26e00f93ce8409d4f99cb26d4857595004
+seen_titlehash:f1db336d7a42bf11b368a826dfef0ed6789fa1d94fc41391649a5cb92a5112ed
+seen_reason:processed_not_published
+url:https://france24.com/en/meta-faces-new-high-stakes-trial
+title:meta faces new high stakes trial
+seen_urlhash:f156987a99e05f8f5afc080c05a807130504fd50005b92e9412f28a73befac09
+seen_titlehash:31477cb63665b731dc9e68f358bf2a5a3c4cc53e1343225729e53087d0363232
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-россию-поступила-первая-партия-бензина-из-индии/a-78332578?maca=rus-rss-ru-all-1126-rdf
+title:в россию поступила первая партия бензина из индии
+seen_urlhash:125e99852bf2dae2214b3fa9cf445cc3276c20ba0ebc647d45ea419ccd4c9062
+seen_titlehash:f028d96332b854fb5a4fcdccc61298d78f89a2605777b1b355f4dd9686c79cf0
+seen_reason:processed_not_published
+url:https://dw.com/ru/упавший-дрон-тревожный-сигнал-для-болгарии/a-78333014?maca=rus-rss-ru-all-1126-rdf
+title:упавший дрон тревожный сигнал для болгарии
+seen_urlhash:84d48a814e11da8cbabddd5a3e419e0fb9116bd8a84b79cdbe75964f7c351fd4
+seen_titlehash:68984f6c5acd180c71ee30fa40b8f961dbdfa23d89e51019c760698e893ec119
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-колумбии-растет-число-жертв-сильнейшего-землетрясения/a-78332055?maca=rus-rss-ru-all-1126-rdf
+title:в колумбии растет число жертв сильнейшего землетрясения
+seen_urlhash:142b0f50876d9afb033440b38934f1098ba0fb16798a18f9b7a2fdad0d946cec
+seen_titlehash:c107e35a2bad32325943c376fde52416461483559867452febcc6ff8dc4eb1e0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/12/europes-scorching-summer-could-cost-eu-economies-180-billion
+title:жаркое лето в европе может обойтись экономикам ес в 180 млрд евро
+seen_urlhash:7b083732bce9edee78e143ce9dba38497c9ae5c094b8523fdbf776c2341ff9ad
+seen_titlehash:8b1280ee8459a8e4ab840009b749353a9c94124e9b1d9d9a8af93a7c9dd7fc03
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/12/are-you-the-travel-planner-of-the-group-you-could-win-a-free-trip-to-switzerland-itinerary
+title:главные организаторы поездок могут выиграть тур в швейцарию с готовым маршрутом
+seen_urlhash:ea8c8f5224590ed8affd35bcbce43d97f5e332576f5b6ea6054568bceae93089
+seen_titlehash:715e7b2f177c25b8556380e75ca626476fafb04d639a33839d729832b1fbc91a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead
+title:землетрясение разрушило города колумбии в валье дель каука считают погибших
+seen_urlhash:6b5822da89f1282a5bcacad18d658133ecadfee835915e8729dd957c1bce61db
+seen_titlehash:f3ae16162236a20f33dada0899e44da4848180255aafd5e69b06e7d68fda61c3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/12/novosti-dnya-12-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 12 августа 2026 г дневной выпуск
+seen_urlhash:c5efeb3a4cc634a92abda2355f6e327389c25591b0f8511ba5bb4df9f672a23b
+seen_titlehash:7c5031a5881b9e816c1f665d8047a41e66521c4dbeb200f1bc0c9da910cdeb17
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/12/biznes-v-rossii-v-sem-raz-narastil-zakupki-sredstv-zaschity-ot-bespilotnikov
+title:бизнес в россии в семь раз нарастил закупки средств защиты от беспилотников
