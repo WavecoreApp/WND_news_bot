@@ -44888,3 +44888,203 @@ seen_titlehash:17bbdef1a1a0f61267de687f04823a639a94a310045ef968a03f29bc57804757
 seen_reason:processed_not_published
 url:https://ft.com/content/c7ac41f1-d755-4024-9101-e206dfbcddd7?syn-25a6b1a6=1
 title:india plans to tighten rules on foreign funded ngos
+seen_urlhash:f990ff0eaa9ac6d76f3b99002c6cb3da6b08a29b080b36df0fc44dad357d9b7d
+seen_titlehash:abdb1306906b34daa87335f50b9424d1580573877e244adcbe5a3eec2f514330
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html
+title:zambia election president hichilema faces backlash ahead of vote
+seen_urlhash:c3dd5b11b4514c10939dc4ca24413429577412cfed81c39d81af7b0e53d79356
+seen_titlehash:68ad5e7e1fd707167f84a6c8a249dbe7bb5570a1d67331e796762fe9d0cf5a15
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/europe/eclipse-preview.html
+title:in europe the total solar eclipse is hours away
+seen_urlhash:0df4e5ab636c74e20d6cb8aa2f8464f4970e513338d2ceee70216803771e3b20
+seen_titlehash:32c4548a829b7114f0a279d480772df2b32567d163f48e51b111cb49da521d7d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html
+title:in bali a quest to restore the sacred glow of fireflies
+seen_urlhash:d779c2da78de4e78a2f0eefba4540e0a4042f2e4851e0db383fb95c5a803256c
+seen_titlehash:ac07f6092c8d430016ae752e8b115f1df9b8058fc7e22b7f9b2ad2362cf3f9a6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html
+title:how nigel farage ended up running against count binface in clacton
+seen_urlhash:eb82ef5562b7721142a82b72cadf41d1ed213fbbc614dc95cef3f9bdff009860
+seen_titlehash:9df06afa09af787cf693b024e63c119adf6f78808d1937e5f5fd4ceb4cc0387d
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html
+title:why nigel farage is running against a trash can
+seen_urlhash:e078c0273cb6bafed77678ddf27dc0a200aa76bb926102bebd85e981ba0cf097
+seen_titlehash:0f9c88c6b52d2b1038cc6c13a8b7dc1b749ac28a0a62882f2bb4a81071a94874
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall
+title:mass evacuations in beijing as typhoon dolphin brings more torrential rain to china
+seen_urlhash:2904852b767a94f206b9249f8d822edcfed1a784ac5491c74acc7bb5d278acd7
+seen_titlehash:30c83bb304a16df0cc9d9e8066142a98607b73da0a6a5c48fe448f0719f829b6
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier
+title:massive bailout for australia s largest aluminium smelter expected to be announced by pm and nsw premier
+seen_urlhash:f6be4f2beda74b4c510788887f0d47e287397fc3112b20f11defb6c5945ad7c0
+seen_titlehash:5b38cb6a403ca190116d4a506919aa6d011b55f7b008631ec3da8a107e24bcd5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss
+title:can trump keep his irritation with netanyahu in check
+seen_urlhash:87c05354aee79b6caa7e7e05938f897e3968c6665a12737044acef9a4aecd239
+seen_titlehash:2fc872bde2d8f995c72eedd18044f1c175ac3843d1ac98e10b03dc3a83e8ea6a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss
+title:israeli raids demolitions continue as un warns west bank at breaking point
+seen_urlhash:0628cc321f7afc20dc8c3520ac9adab73f56cd845be39df0390870b292d3003f
+seen_titlehash:05e4e0f37843f5406efa88bd802637c591ea7b527964d54ece6d15d33438256c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss
+title:did trump flee an iranian assassination plot on a catering truck
+seen_urlhash:33b3625939e69ebb3a8670ce6e730c3b6c2ebaefeb7fd257cb577d1c4e872890
+seen_titlehash:2f1515fba218c52ee18b0c6f45c10acff361a60f0133f5d9cae437e8db1c80c4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss
+title:trump says secret plane switch up to the secret service
+seen_urlhash:ab4e3d47a3f84d23c7713880924ed1e4ed1234598f98a3bd0318672abc2858dc
+seen_titlehash:2b84ff5a1b2dd7ef3572998127dd63ed7f8de3b5776c6efa7097ddcca6bf3d06
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss
+title:drone strikes power station near libya s largest oil refinery
+seen_urlhash:4a9264db544ab65ee5861cf79e13bbb4b14bcfa7ecce4ac0cdc6aac7e576bde6
+seen_titlehash:769813f92dcc33fc3e48f6e1e446ba68577ee2cb94955fadb793075a2c3dd71f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss
+title:russia frees ex us marine gilman jailed since 2022
+seen_urlhash:693873f08457f4f0a2c61bcd8c551d30e9a3575d97beed0f525d50fe3e8fa30c
+seen_titlehash:37ebf231a6594a8c891713a8df28355d16e6a52d7f6dd828d62df975e1187470
+seen_reason:processed_not_published
+url:https://dw.com/ru/израиль-и-храмовая-гора-чем-грозит-изменение-статус-кво/a-78324504?maca=rus-rss-ru-all-1126-rdf
+title:израиль и храмовая гора чем грозит изменение статус кво
+seen_urlhash:7f333a3b91bda9dc168381202fcfdee43dd78d7e6c049ae6675cf1d6d8478e1d
+seen_titlehash:30a74aa514d605b6fb70e6587980b3397e195221c4ac77845c9bd665dd686ed6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/12/solar-eclipse-portugal-prepares-to-stop-for-25-seconds-in-a-rare-phenomenon
+title:солнечное затмение и звездный дождь португалия ждёт два необычных явления
+seen_urlhash:52298a0077cbf5349ad90820b27011adade5e36ed0c2f958750918e730c90377
+seen_titlehash:674f157a4b1344804d30e2f963b75acc206d24a990e6dbe587ca37655ac00aff
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/12/anxious-dogs-and-silent-birds-what-happens-to-animals-during-a-total-solar-eclipse
+title:тревожные собаки и замолчавшие птицы как ведут себя животные во время полного солнечного затмения
+seen_urlhash:f747977cf6a8fd73b7ae0351a9c6575aef663616032f30b33a88c0009812b405
+seen_titlehash:c4798a84cc64f81f505f604c635937dbce57885684d20ee7ffa29c8e76617c68
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/12/worried-your-child-is-a-loner-a-new-study-suggests-playing-alone-might-be-perfectly-fine
+title:беспокоит что ребёнок всегда один исследование играть в одиночку нормально
+seen_urlhash:54face9b9f12907736431660b683c272ee85b4327dec55c870d7e1b46ea9a86b
+seen_titlehash:360cb96a66bf7cfbfce53657aa3f202e6d71884c331fee67725a5d0b70161dbb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/12/winding-trails-and-coastal-treks-three-of-europes-best-autumn-hikes-according-to-lonely-pl
+title:извилистые тропы и приморские маршруты три лучших осенних похода европы по версии lonely planet
+seen_urlhash:1a6b50a743c079e378ae4930b74bc4233a7e5010140cec7f32b5aafacb880511
+seen_titlehash:afd967d8f95d179d8f19950c89cac69421ae129a0612ee1d7a41210e9c2ce7fa
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/12/remains-of-the-two-wehrmacht-soldiers-from-the-danube-one-was-with-the-waffen-ss
+title:останки двух солдат вермахта из дуная один служил в войсках сс
+seen_urlhash:92ae76d1d4c4b92492ae20944ff29de90368d3aa7c037ab71d5d0ca6b3304f46
+seen_titlehash:5a89a019900edb9c54314742d77adcedb689b6ed5ddb8e423974b7984ac338f1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/12/ukraina-atakovala-krasnodarskiy-kray-v-novorossiyske-pogib-vosmiletniy-rebenok-povrezhdeny-zhilye-doma-i-predpriyatiya
+title:украина атаковала краснодарский край в новороссийске погиб восьмилетний ребенок повреждены жилые дома и предприятия
+seen_urlhash:181bd6a1323ab58e20f8c50ccdf6863fd9f9373a6b4c41b56bfac215e1bb119b
+seen_titlehash:e0c2a6c0c5642b01ce1d681b04d3e91c168f41100bd4b18abcfe63e725306ca1
+seen_reason:processed_not_published
+url:https://meduza.io/cards/segodnya-den-solnechnogo-zatmeniya-gde-i-kak-ego-uvidet-i-ne-isportit-zrenie
+title:сегодня день солнечного затмения где и как его увидеть и не испортить зрение больше всех повезло нашим читателям из испании но эта инструкция не только для них
+seen_urlhash:f8c40d56b97be504014281f1299a9717d8b5be6797bd64a294cce42338417bda
+seen_titlehash:5a4727b8fbf2196321d1841402ca1e3a619863eb234d69e81eaedec0a609ed41
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/12/vremya-odinochestva
+title:время одиночества после 2022 года многие люди в россии оказались в изоляции причем не только те кто против войны есть ли из этого хоть какой то выход
+seen_urlhash:25868d3858ff1d86bb5c65b1bab034386a21e68c91261902b8b1d4e9293aa67f
+seen_titlehash:6de2b4c0af288d3f6ca4a9454191808f03cdf7fd9280fcb2fe87960ef279c149
+seen_reason:processed_not_published
+url:https://ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1
+title:china linked hackers hit taiwan in unprecedented autonomous ai cyber attack
+seen_urlhash:46556c0f564d2a4bc5c546572d1572f196aea88fab9ba2d52143b26719afec7b
+seen_titlehash:263e556447bba32afcb6f146b59c9e71072373a7512aaa629dde02a214d2cf9a
+seen_reason:processed_not_published
+url:https://ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1
+title:poorer americans are struggling to make ends meet top fed official says
+seen_urlhash:d780f14e33e9949083ea8d1259e13815e6289bea4220de571d0a5e935f231545
+seen_titlehash:59bca9478893edf6797cc191bed560bc586c605ea2af1b0111e088963fbbdb5e
+seen_reason:processed_not_published
+url:https://ft.com/content/14b245d4-281a-4a9f-b1a8-a2cb252f4335
+title:britain needs more investors not higher taxes on investment
+seen_urlhash:404b002d0dc456595e99d71c0a4de30fc15860fab925bc80953b58ef96453d88
+seen_titlehash:a303110b088897a2e79c138cb242b74208fbbb3d8f3cd8bbee5941a56a49b531
+seen_reason:processed_not_published
+url:https://ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1
+title:how to stop global warming
+seen_urlhash:ce28d8cc737d53174f2f1084b4939411b15cf29b5dad80907af1fdd6e0b65a9a
+seen_titlehash:7df79c55b49c1afbde08617e4db223b44b3c1b99acf7661ab13c2847a45fd6f7
+seen_reason:processed_not_published
+url:https://ft.com/content/13ca1246-faa7-4a0e-8117-439aee14d3d7?syn-25a6b1a6=1
+title:revolut cuts back wework access for premium customers after price rises
+seen_urlhash:b83969a2e0d10740e80e9a29d47fe990d0ee45a1190bc6c4a71f61d850d62065
+seen_titlehash:ddd3016a53234127258b48986e7876d502cc47feb84ee6a4eb8581ef57e356ac
+seen_reason:processed_not_published
+url:https://ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1
+title:jd vance asked ukraine to halt strikes on tankers using russian port
+seen_urlhash:f50cf51960405c5a2c99389ec3ec79464a4daf077951ac63289eb8fe2140d750
+seen_titlehash:b518403eac36da0b3dc2ce385770c2d7f4dad99e5df56b1964df08eca4c3c4f6
+seen_reason:processed_not_published
+url:https://ft.com/content/add47783-31f8-486f-b073-d547aafe6de0?syn-25a6b1a6=1
+title:private equity can score top marks with education deals
+seen_urlhash:028137585745dd8ac3560b46a0ef1aca214ea6b14320e5fb28a12fbe7072e589
+seen_titlehash:dfd26b99d5b4ca2076c924e40da1e13b380d50eea2dd0a6f896779fc056a1ca7
+seen_reason:processed_not_published
+url:https://ft.com/content/a541a8dc-89df-464a-9b9f-fbffcfe7cca1?syn-25a6b1a6=1
+title:reform uk figure previously accompanied the bnp on the campaign trail
+seen_urlhash:4f0c4095ad3148e5cf95d769f894d96d19d07c51234dbf8fc4f7ca06292da394
+seen_titlehash:0270a07567714a341588760a8f85c57921cf97603d211a42190964a7d9276b4d
+seen_reason:processed_not_published
+url:https://ft.com/content/b3cbe615-5e60-43cf-9685-e64afabcfb30
+title:why everyone wants a one carat ring
+seen_urlhash:7063ce9a5a4618338dc83d1f07cda48b7d5ece693bf229cd0715adef9019e17f
+seen_titlehash:3e4ccc85b2e1ef3fdb86cbbc9aee28fb7264f7e41f838bec255b83df7c6d0322
+seen_reason:processed_not_published
+url:https://ft.com/content/ff77bb63-b1a3-4c9f-81ba-09eced8700e3?syn-25a6b1a6=1
+title:is it too late to save liberal democracy
+seen_urlhash:f36d9e71f9505e1a02906e5754ba790ba52dabc3dfb5cea1ee640020e4b8d2ac
+seen_titlehash:a59ba2165779d490409162919ec868edbc4efa62793f3621f513fe7b3246bb1b
+seen_reason:processed_not_published
+url:https://ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1
+title:china s great jobs squeeze
+seen_urlhash:d88f05061eba16af9c9c19b07ee30e4159ebdd5c8eac3bbba8c72a9bdd4be4d4
+seen_titlehash:cd0bc088ef1e7b38f048088cd359c56fc7767bfc6ae0df9889ae211d4e52aeb0
+seen_reason:processed_not_published
+url:https://ft.com/content/25bc2df2-7ab8-4b1a-a30f-2fe4d47806ce?syn-25a6b1a6=1
+title:how israel is making southern lebanon unliveable
+seen_urlhash:bd23034f891bc6b5c6c5fa84ee06242ea0eb70e9d077e8626f56c18046688df2
+seen_titlehash:0c32dfa21b5fb43a756fa92380467ad9522b733ce615fca81c58658cf5b48be1
+seen_reason:processed_not_published
+url:https://ft.com/content/107b354b-ba03-44f2-9939-517cbcc11cd0?syn-25a6b1a6=1
+title:south africa s eskom targets data centre gold rush for its power surplus
+seen_urlhash:bca2a7baf76e6a768bd3e634d5f9e19b044af5ecfc9de72331d0dcc0f0d80de5
+seen_titlehash:6d507caf829c6990898ef0b15aa6abd522f5929e9b87d44c077dc396d04987cb
+seen_reason:processed_not_published
+url:https://ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1
+title:how a bad trade pushed a us mortgage giant into a 2bn lifeline
+seen_urlhash:301dba04879d68943563da8a64e2f8c99d7627a3274103cbc531f2d259e90fb5
+seen_titlehash:43019d3c02f6b2e2a6231141194aa58f1d1e4c8996f6a317f6fc2903c275167b
+seen_reason:processed_not_published
+url:https://ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889
+title:europe s carbon mechanism is a tariff by another name
+seen_urlhash:1a195e53b72cc4d4955d918c75dde1310e091382a03a7bd80000e41acc8f3406
+seen_titlehash:1be146e3206b9a5ed5b837eadad58f3731a844a66cd947961faad07f69e67d9d
+seen_reason:processed_not_published
+url:https://ft.com/content/618a3ed2-caab-4c58-9685-39cbba874e3b?syn-25a6b1a6=1
+title:europe s farmers move to the night shift to beat the heat
+seen_urlhash:2acc782ddeb4bcbdf78d36a15f912bee7abcacdfd2cadeb178b419ebdb6072ce
+seen_titlehash:1e28c4281539ce3bdd31140caaac0d62a7f320d20917d72a283e2430ae35c039
+seen_reason:processed_not_published
+url:https://ft.com/content/3d165c6a-9822-4dfd-93ea-2eb9bcd12c5c?syn-25a6b1a6=1
+title:chinese students in the uk pressured by criminal gangs expert says
+seen_urlhash:81e9950812cc551e1e8722bd5ff00ea348e3ab3e5f1aebcadb8c5102ae94b280
+seen_titlehash:6d17777a075299d469df6e0412183b0c3d1fabc1232305cee08fc16516cc6af9
+seen_reason:processed_not_published
+url:https://ft.com/content/7eaba120-111a-4beb-b3fa-e367199c9891?syn-25a6b1a6=1
+title:us asks ukraine to stop strikes on tankers using russian port
