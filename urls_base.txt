@@ -48488,3 +48488,28 @@ seen_titlehash:8ba0033e5f3de11b1d5f63d37d2268cc5b61099bdba3458ca97e24b791a6d644
 seen_reason:processed_not_published
 url:https://ft.com/content/3b67ce5d-3f1a-41a8-8d87-7356876ede14?syn-25a6b1a6=1
 title:eleven people injured in uk train derailment
+seen_urlhash:e374d2e680214e778409dede1d80ea9c1d2fd1e13bedb728a4e6f62c9ca56c61
+seen_titlehash:f89b8e3e1aff6a500eb2ec5f5085d32e011d9b696ee6230658d1cf34d91eb2c2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html
+title:electric thrills
+seen_urlhash:12bbeb43de8f3af73476069b157469e631f5e69eaa436982136c303c4125fdc2
+seen_titlehash:9b3b6df30cb031f7932dc27bc68382ac6994928ecf33da8e89b12be175350621
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb
+title:australia news live kpmg apologises to whistleblower as firm fronts inquiry over ethical failures
+seen_urlhash:38f116cb0a7c1be51e3789d1c18e1bd31df5a2b1ba05c9b57c4ec52c0aca7ca5
+seen_titlehash:9b767e8232a1e443d2cf1f1840fe0feda64854387f090a357460e97f5865dcd3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss
+title:sudan army says rsf advance on key town bordering ethiopia
+seen_urlhash:3ffb64938a5dfdc2f89e2decfb8893dbc3eee7dea3492ac1de77a01f3fd309cb
+seen_titlehash:2c1f950eb497c6df57892b5774076bf1726e905a85f56e7256f3384b22090f32
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss
+title:passenger train derails injuring several in southern england
+seen_urlhash:63a20a16c5935ab90aa0b9ab12071d9d94befd0769db3735612002f9bbc7d9ab
+seen_titlehash:94d9b4dee7ec66198fa90d39efd8142e6cdc74386d2d9e81002dfa38b722614f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss
+title:israeli forces order families to evacuate homes in qusra
