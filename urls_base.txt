@@ -48608,3 +48608,28 @@ seen_titlehash:538abcb622fb8b4cb8845c2a263138b758bc7c83d96983f4a208848dac24e5b3
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/13/novosti-dnya-13-avgusta-2026-g-vechernij-vypusk
 title:новости дня 13 августа 2026 г вечерний выпуск
+seen_urlhash:d2ecfe875963cd861e597b20803544a1ed5dc93925cff7d826b8d2b03b51db7c
+seen_titlehash:19ab3abde0a7359ac40c55390d54e7994b6125cb0dbc06e6faeddf163c6fbf59
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html
+title:engine blade hit window on jet when man was partly sucked outside report says
+seen_urlhash:6c0b4901cc4713faac108626855027b2956910e180a444588ae90ab55b0c65dc
+seen_titlehash:3f87fe264df77410d51d2c8a9e63aca2a61d05e5a2e7a7cc963543ca85beb408
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event
+title:raul castro makes rare public appearance at fidel centenary event
+seen_urlhash:b3b732ff0c74c983ef5adb7dae5a483d680db7a0e6ccdbc45d3a7c55563a03af
+seen_titlehash:23f0f931192e380c8698ea700096dd79c6694d60f70bdb36659454a1a9bf592c
+seen_reason:processed_not_published
+url:https://france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims
+title:ceremony to pay tribute to capsized ferry victims
+seen_urlhash:74418cdc986cbb388b8c31bb8c9ca01a3e497151c6060a33f0bc07852b78d6c4
+seen_titlehash:71a78a6a94883f2b7a33101dba76469c0a07fdd189407d4aff8223e86477c3c7
+seen_reason:processed_not_published
+url:https://dw.com/ru/эстония-продлила-ограничения-работы-кпп-на-границе-с-россией/a-78360428?maca=rus-rss-ru-all-1126-rdf
+title:эстония продлила ограничения работы кпп на границе с россией
+seen_urlhash:8fdca6369cb430545823d0924dcdf37060a4f870c628377f5535d97ced1198dc
+seen_titlehash:dd99856ba18c367dff9a3024c1dc1162fae9d95434e508d3f5d9d1dff5d56f46
+seen_reason:processed_not_published
+url:https://ft.com/content/a650dbf4-1028-428f-a4cd-e4ee91f3498a?syn-25a6b1a6=1
+title:firstft the battle for control of india s biggest conglomerate
