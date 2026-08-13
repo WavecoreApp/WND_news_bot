@@ -48438,3 +48438,53 @@ seen_titlehash:61c14d65181f7e0b19cb4dc159523588636948b58753ee2d81833d2401155912
 seen_reason:processed_not_published
 url:https://ft.com/content/f3f3c945-6a75-4663-b8ec-d5251438c1c5?syn-25a6b1a6=1
 title:seoul soars past dubai as world s busiest international airport
+seen_urlhash:39f263c5964ec0ae3a4efbe74d92bfa2b77ad2a6afc012c1b68a1dce5d463d86
+seen_titlehash:30aeb28d25621ae7359154bce453bde056872e95415c49f5afc95c2b7f9dab68
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss
+title:family of irish plane crash victim awarded 29m in damages
+seen_urlhash:ddd73f922065b4beecc3f5887ed2f56f9b33a75098cb1389200d92d099fb1258
+seen_titlehash:7b50ac0c37afdf6a738f75054e96bf171a33c24d9bb8ed121da78b617328e6e3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html
+title:israeli settlers resume west bank siege after eviction
+seen_urlhash:2620064db3b5e6bec490b07df2adcfbe2950d50f15cb536d53e8e55389b18e69
+seen_titlehash:e4c419a41feeec2856582f826108de5a5df91551bad60f8239fc1681c76d9a11
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/climate/el-nino-effects.html
+title:early onset el niño
+seen_urlhash:0013f69178c9d3aa1030c816b158ba058d5cddb3d494d0c91944c9c56a80fd30
+seen_titlehash:bf21c3b936e746eb29b242f8a478a7d0cda07f143472b5e133687c4873fd4540
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss
+title:colombia earthquake hospitals adapt to save lives amid widespread damage
+seen_urlhash:a2bb15b048cca25893393efe5e0700d11300b97934647084dfb89f865f082d2b
+seen_titlehash:65879b52e90a081f7e6a62122d71706ecea660289468ed4c64501097cb8da9a5
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260813-if-you-can-move-say-rome-s-viral-dancing-seniors
+title:viral dancing seniors inspire italy s ageing population to move
+seen_urlhash:b48993a440e27d6b09d787888c7220fa089ece6b72f904a37649052cd0864422
+seen_titlehash:be2e48019847f4ac1f416d37bc21ae001fd3b5550e2419f1d1026ebf20e261d0
+seen_reason:processed_not_published
+url:https://dw.com/ru/фрг-не-исключает-депортации-новоприбывших-украинцев-призывного-возраста/a-78359578?maca=rus-rss-ru-all-1126-rdf
+title:фрг не исключает депортации новоприбывших украинцев призывного возраста
+seen_urlhash:e673d9135368caf7480d262f037e807b99a152b0047807cf34018c0b1bdda8e2
+seen_titlehash:5a78088787add0e965f1bcd393e8a0272a8982c33b3e1d8953c537017f5b0431
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-италии-произошел-взрыв-на-поставляющем-оружие-в-украину-заводе/a-78359540?maca=rus-rss-ru-all-1126-rdf
+title:в италии произошел взрыв на поставляющем оружие в украину заводе
+seen_urlhash:27d35b6c862ebb89393f84e8fee0564346a7b88a4206477f63f945aed75bd919
+seen_titlehash:207c644f3b1b3e2dc6d5c2b054df35a8f433145ab6440d72a5660a52ed19ce39
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/13/in-our-country-abandonment-is-normalised-animals-continue-to-be-left-behind
+title:в нашей стране отказ от животных стал нормой их продолжают бросать
+seen_urlhash:5036c6a4dc4aa3469e145211d3fa87904408ba25c5dbe76b5058b28f463b083d
+seen_titlehash:8516272634d72d29edf8ca267abd8cbe9da1015741fe559ab7c7747f293263ad
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/13/finlyandiya-otkazala-v-ubezhische-semie-rossiyanina-kotoryy-donatil-fbk-i-uchastvoval-v-protestah
+title:финляндия отказала в убежище семье россиянина который донатил фбк и участвовал в протестах
+seen_urlhash:e3eb13196cb8899452b60c48650df91e2839f914c165519a6ebf8eb2487e56fc
+seen_titlehash:8ba0033e5f3de11b1d5f63d37d2268cc5b61099bdba3458ca97e24b791a6d644
+seen_reason:processed_not_published
+url:https://ft.com/content/3b67ce5d-3f1a-41a8-8d87-7356876ede14?syn-25a6b1a6=1
+title:eleven people injured in uk train derailment
