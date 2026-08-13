@@ -48593,3 +48593,18 @@ seen_titlehash:e20d1c3aff93f17b95c3c4a19d730e338f65d3cea2e72f697f477ed57f8799bd
 seen_reason:processed_not_published
 url:https://ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890?syn-25a6b1a6=1
 title:uk houses caught up in wildfires during hottest day of the year
+seen_urlhash:b6832ba33bb9f26f1b23570f6d757daa4c892e2c3dcdafdfa80772a9e7dbefdc
+seen_titlehash:e99f41325be69a24da4e3fe7727020b9d058378611c7e3c52acddb5c9d5cee60
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss
+title:engine parts smashed ryanair window that man s head was sucked out of report says
+seen_urlhash:9b5d8ab1978dfcc61b23bbe6c020904488c20d8817d48c1e57d6bed22e828160
+seen_titlehash:f436ab5cd19163714a02d902cccfb897d43b9ea9a7afcd7fd3f8e43f9b0fbb0f
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-польше-задержан-россиянин-который-мог-готовить-убийство-гражданина-сша/a-78360181?maca=rus-rss-ru-all-1126-rdf
+title:в польше задержан россиянин который мог готовить убийство гражданина сша
+seen_urlhash:3516cf197adc4f7576ff1e58b1e95ccf640fdb31ee4731edc2bcc3720e96a1b0
+seen_titlehash:538abcb622fb8b4cb8845c2a263138b758bc7c83d96983f4a208848dac24e5b3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/13/novosti-dnya-13-avgusta-2026-g-vechernij-vypusk
+title:новости дня 13 августа 2026 г вечерний выпуск
