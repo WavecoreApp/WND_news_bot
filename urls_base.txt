@@ -47668,3 +47668,133 @@ seen_titlehash:6df12eab48407d3a2f68792beba1a0bf34903500048a96dc399899ec4852cab8
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/13/aktivistku-dvizheniya-agrarnyy-sovet-arestovali-za-prizyvy-k-terrorizmu-ona-osveschala-zaboy-skota-v-novosibirskoy-oblasti-i-podderzhivala-svetlanu-ladu-rus
 title:активистку движения аграрный совет арестовали за призывы к терроризму она освещала забой скота в новосибирской области и поддерживала светлану ладу русь
+seen_urlhash:3ad0792b9801dd5ceace75431e05c6aad6ed1cfdcc859a902a17030e2623f0dd
+seen_titlehash:3814d33b0721ffaaa492a6b5492fa74b055cf206d0df9538e239712975ad641c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html
+title:hundreds of flights canceled in sicily as mount etna erupts
+seen_urlhash:7f6b1ca9d05c2ce2d74e3949e0ea1a2ed81a7ad10c5acdf45d23839c501dfbcb
+seen_titlehash:02754ac9023244143d2e2473110f99985ce907fb674efd23682c7f6d3ff711d3
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport
+title:transport watchdog investigates third near miss at sydney airport
+seen_urlhash:dd775a9f7c8545b25a4703c21f405b3459329cdb4088739f911fbafa5b3ece82
+seen_titlehash:283c2e294b910c917ead99d720a192682f6ba50c05adee07152f181bc263bdbb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss
+title:five charts that explain the high cost of living in the uk
+seen_urlhash:873210beb8e42d9ebc42c2eafc045119d4a212e7a6a36e76cc7170eac79f2f4b
+seen_titlehash:0868f8d6d5681370765b91daa053c0460688304a914f11fb88f9389a601eca19
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss
+title:us iran talks in deadlock what s the latest
+seen_urlhash:dc21f8ab6db4b0bb7695a3e990856b3069032edc952c26ccc550fe9b1faaaa42
+seen_titlehash:11f21e989e479ef68d84cb240e0b0ae0b9e58c09b0013be8e5c56821eb510e11
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss
+title:colombia earthquake response tests new far right government
+seen_urlhash:6c0d2b19df5dbf67d2d27c1f179fd3dead61be9f9c4e44cadccae53013f69231
+seen_titlehash:3e4f71aa9edb0224e1ac2add486065af287d55f21a928411e0c948e22bb04f35
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss
+title:more than 135 million people in europe set for temperatures over 35c
+seen_urlhash:f74fbf500ad0751ee364be8d3d5178b814bdb1e84e948913eedffb2678421000
+seen_titlehash:a26c16e56c829c31080c17592542eac56ca645c5c56ef7d4477796660af40292
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss
+title:israel trucks out gaza s rubble to hide genocide and redraw the map
+seen_urlhash:2867c2d146faff5d99a1920f78b5460508b4f3364da3ad386caa2372e9120b19
+seen_titlehash:c76ab1777b42664e544e27752e652641bef31ef074f4190b69e00deb2de85506
+seen_reason:processed_not_published
+url:https://news.sky.com/story/siege-of-palestinian-homes-in-west-bank-a-horrific-act-of-terror-says-us-ambassador-13572508
+title:siege of palestinian homes in west bank a horrific act of terror says us ambassador
+seen_urlhash:95562bfdf37c82885f46a40bd7101163ecd0cf8f7bfb81cfc8c32ce02870733b
+seen_titlehash:236e673947aa7bd62f298052abf45166211fa09f6d321e9ae4c7bc666af79042
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260813-jury-selection-begins-in-meta-youth-harms-trial-in-california-federal-court
+title:jury selection begins in meta youth harms trial in california federal court
+seen_urlhash:f29f07b0137dcc823129f17f1b17022c0ca47ef3e6aac74b721b6419fb2aaf2f
+seen_titlehash:30811f7580bd91c12efec44163b7a3e968b17648181b33561505054aed6708cd
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260813-farage-face-off-against-count-binface-he-s-been-the-subject-to-many-jokes-in-the-uk
+title:farage face off against count binface he s been the subject to many jokes in the uk
+seen_urlhash:cf27f556d0adda625a0c0629f808786be3d4fe6ca99c1fe7b03f794edf430f1b
+seen_titlehash:50602467571f3b76dfc5349ce9e110c2a312549549cc4aa12282a5b9a86d2780
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260813-earthquake-in-colombia-the-government-didn-t-accept-the-help-from-foreign-rescue-teams
+title:earthquake in colombia the government didn t accept the help from foreign rescue teams
+seen_urlhash:ed59eda18748e3fb51b93934eb03d68bf8fccd5a54ba2cd987a8b17e5c278157
+seen_titlehash:806a77948b28a6c73d10b9e26518a1e3423ae59ee6dad712d97c31c4d1655c16
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-севастополе-взрывами-убиты-российский-военный-и-сотрудники-мчс-рф/a-78353191?maca=rus-rss-ru-all-1126-rdf
+title:в севастополе взрывами убиты российский военный и сотрудники мчс рф
+seen_urlhash:e387c0b175bdbc09345b478029e1bb938aa41991f6da2c0a463f8a22cef68fe9
+seen_titlehash:75d4c37a5b5dd4c7ee3d751ff4e995fce57c656700d2957513f2e6358aa7cc4a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-баварии-прошла-эвакуация-из-за-находки-на-ж-д-похожего-на-взрывчатку-предмета/a-78352036?maca=rus-rss-ru-all-1126-rdf
+title:в баварии прошла эвакуация из за находки на ж д похожего на взрывчатку предмета
+seen_urlhash:b18705288d1945c6f6bb9b757f33149c13cf0b5729f87bc3db7bc286d06d6b85
+seen_titlehash:76b538775267eaac521c8ec4ff65bc227e94edab03e42540ae6651823ee7f78f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/13/euronews-cultures-film-of-the-week-the-end-of-oak-street-putting-the-jurassic-world-franch
+title:фильм недели euronews culture конец оук стрит посрамляет jurassic world
+seen_urlhash:4c1bfaf4a8e238ee7bea8fb7b9ede6e1c98e8c99fdf68962f3a3ceb567e9414e
+seen_titlehash:ddf0090c55fd74d350d58529f5245ea631b25db11efe2041cf5d803ca1c914ca
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/13/amias-accused-and-unsuccessful-presidential-candidate-in-irans-supreme-national-security-c
+title:кто такой мохсен резаи новый глава совбеза ирана разыскиваемый интерполом
+seen_urlhash:aa04d48cd75a2b1fe1ec79b333852d48fec2f996ff97b5a0db6421adb80d899d
+seen_titlehash:de26820fc9ba1e734b1b24542bca82dbe76601bff6627524ee2271465caedc93
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/13/massovyj-prinuditelnyj-zaboj-svinej-v-tyumenskoj-oblasti
+title:массовый принудительный забой свиней в тюменской области лишает местных жителей источника дохода и пропитания
+seen_urlhash:bdf1814777b4562ece698b74b983515f6f918e93caa71f570f878df75c353d4b
+seen_titlehash:6073476fc43ee2cd7de9ccd364b5abeb8f781f0186f87a2bd0d13068ae0a90ff
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/13/eurovision-2027-a-guide-to-burgas-bulgarias-sunny-seaside-host-city
+title:евровидение 2027 гид по солнечному приморскому бургасу городу организатору в болгарии
+seen_urlhash:7ab36dd7618259dcbed30228d6171327971d48f2ef99a9cd088a613b7efe8c3d
+seen_titlehash:3f3e3cb85e562d43b1a870871e1f756ca02d228b8b81e8b1a1d31ffbc981ecb0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/13/putin-watches-russian-navy-drills-off-russias-sakhalin-island
+title:путин наблюдает за учениями российского флота у сахалина
+seen_urlhash:2fffb560d5df21ccd5669fa2427d70781a08cd1dd7ebcffb660050d7c9c6e39a
+seen_titlehash:c5928900495641d7c593923753d28ce0de0955fd79c0c40539e0955b7540c5a7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/13/chinas-lead-in-orbital-data-centres-risks-leaving-europe-behind
+title:преимущество китая в орбитальных дата центрах грозит отставанием европы
+seen_urlhash:58624449c202a6ea92ac56d993e707e8cc1eabb05714f40b317f8eb402a524fa
+seen_titlehash:434fcfe7e55b2ff97b4d5047839b57aea777ac53cdfd497605c74839cd2d35c5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/13/rabat-grozit-priostanovit-dogovor-ob-ekstradicii-s-ispaniej-i-trebuet-vernut-detej
+title:рабат грозит приостановить договор об экстрадиции с испанией и требует вернуть детей
+seen_urlhash:64d894e46ae49d4737470587740f18fe2a8e10d344d10bdc980fc3e71117f77f
+seen_titlehash:92b4b0692f9e67e183182e6975ea87fd7baf99a07827c426cabc3f00c8942398
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/13/rossiyskuyu-strimershu-fasoollka-deportirovali-iz-kazahstana-v-odnoy-iz-translyatsiy-ona-nazvala-stranu-shtrafostanom
+title:российскую стримершу fasoollka депортировали из казахстана в одной из трансляций она назвала страну штрафостаном
+seen_urlhash:853968da60cc41d92136cc303c3323aee437e733d9aebbf84f78f0b3838328ec
+seen_titlehash:3e46760df6369c356e6496e6d7bae50d2701f8fbab88d2d80a7f3c898d599eec
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/13/pokushenie-na-voennogo-v-sevastopole-po-neofitsialnym-dannym-ubit-komandir-ukrainskoy-podlodki-kotoryy-pereshel-na-storonu-rossii-glavnoe
+title:покушение на военного в севастополе по неофициальным данным убит командир украинской подлодки который перешел на сторону россии главное
+seen_urlhash:83a111acf8e8e06cb13d0720f2f5a57af2a867c104ddaee05d6dd6e2225649b7
+seen_titlehash:2a50f33c5688f8ee6a9173f057ebe0db05ffdbe3ea5c793b7257beb1548ceca5
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/13/voyna
+title:война 1632 й день порт новороссийска закрыли на учения после удара всу большой вопрос куда теперь убегать черноморскому флоту пишут z каналы
+seen_urlhash:296dee2488ba0c7f4b8f5de029419208c8138194dff38c3c35294e2336f452e3
+seen_titlehash:ea666ddc0161af3a95e6594a7667b09b1d508f397d11d729b63b7418a822c373
+seen_reason:processed_not_published
+url:https://ft.com/content/fdf1b9fc-3179-409e-9f07-949a78392f4b?syn-25a6b1a6=1
+title:the right must fight its own woke wing
+seen_urlhash:e342accd8f84c254e6cd3d313b5f8e7b2ccad39c6173f18e918f8f5d71e7687e
+seen_titlehash:ba9cfcfde01ed74db07b3cf02e343c295172319dcfe11a556b6f9bd6c8d702dc
+seen_reason:processed_not_published
+url:https://ft.com/content/395650e6-7963-428b-9d86-b39c36453f5d?syn-25a6b1a6=1
+title:price of niche rare earth jumps on fears of renewed chinese export controls
+seen_urlhash:4ca84a1343a126009a578b0e2352b647cb03bae5ba05e66fc70095e139a8a629
+seen_titlehash:e1df8ea9a0d453ebc0aaca6a1a344f59b3dab87e382cc0f1f067eac9af0a9c1a
+seen_reason:processed_not_published
+url:https://ft.com/content/1545729c-d9c0-431b-a045-eb71cdd0c261?syn-25a6b1a6=1
+title:takaichi slams putin s visit to disputed pacific islands
