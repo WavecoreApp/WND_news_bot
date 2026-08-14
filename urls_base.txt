@@ -50503,3 +50503,23 @@ seen_titlehash:75769fc002a573004e48fbac76f915e30d25ed7aabbb54e35c89d419c0631dce
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/14/byvshego-professora-kembridzha-dzheysona-ardeya-nashli-mertvym-on-uvolilsya-iz-universiteta-posle-obvineniy-v-plagiate
 title:бывшего профессора кембриджа джейсона ардея нашли мертвым он уволился из университета после обвинений в плагиате
+seen_urlhash:b76e8d0733ba50f3311318a57c20464ff7169225f5df7234781cfe706dbbd673
+seen_titlehash:3e8e2dbf2c2af83be948d0413b6edfebac46af4fdd862224c312bd9534d8a308
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss
+title:trump dismisses mental health concerns on uss lincoln aircraft carrier
+seen_urlhash:c3ece2312a3d6883fd38da99bed40982e9d3af07dde88d068643c436efc0e25f
+seen_titlehash:61528f8c7601f709239fec077ab9c35ac438164265cd72f19cce15b158b3a4be
+seen_reason:processed_not_published
+url:https://dw.com/ru/посольство-фрг-в-украине-ужесточило-предупреждение-о-поездках-по-стране/a-78377684?maca=rus-rss-ru-all-1126-rdf
+title:посольство фрг в украине ужесточило предупреждение о поездках по стране
+seen_urlhash:81a84c2fac01466245ee56fb68b0f778298fd128da2e165bedcd3fa15917da91
+seen_titlehash:e885ffac73176e9b11263f6d5ce2552abf0dd87c0056de8daf7dc5f4068d3a12
+seen_reason:processed_not_published
+url:https://ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1
+title:jane street suffers 15bn hit after meltdown at situational awareness
+seen_urlhash:39f871c6ff12e1dc10fcf75f6fb64ccf687820f043bd6094e7945a58021e71e2
+seen_titlehash:3639faf5d4552e7718c93f36c0cb0d7b36c757fe4696f15ec5223a24d96b59ba
+seen_reason:processed_not_published
+url:https://ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1
+title:former cambridge professor jason arday found dead
