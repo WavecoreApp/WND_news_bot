@@ -50523,3 +50523,43 @@ seen_titlehash:3639faf5d4552e7718c93f36c0cb0d7b36c757fe4696f15ec5223a24d96b59ba
 seen_reason:processed_not_published
 url:https://ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1
 title:former cambridge professor jason arday found dead
+seen_urlhash:f7c4421b2b87d9f005e65d3b6e2917c91f0607c69d23a029922bccbcfac93201
+seen_titlehash:223bd962c10114aab87b4f611713d9576b0444f66c393655f7d3caa6c675816b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss
+title:mangione admits killing healthcare ceo and pleads guilty to federal charges
+seen_urlhash:bb5655d94094da31d7fdfd25a8933f3559686f0531ee6e739f967358db85033a
+seen_titlehash:e6bf178fe68520a84a915dee37ec1c9217d96ca5d6b1c3bc1fe7c640571b4767
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss
+title:yemen s government says houthi attack on al makha kills at least four
+seen_urlhash:773e1f39837a2fbe26e2f21273692d4e338978833b400b0e39ac54e1b90dfeef
+seen_titlehash:550ef78ab2ee0fdc495878492faa34a28236806349eae3f9be166f76cdfd11ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss
+title:trump says he will declare strait of hormuz a us territory amid iran war
+seen_urlhash:d02f221bed3da64744f3be707f40c4083a58a195de78705afbc822ab560d2d20
+seen_titlehash:d4ebc0bd618819f0d0f258ecc49d062a2c1a32c9a48d67ffd7178d40a2d3721a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss
+title:wildfires rage across europe as heatwaves drive record temperatures
+seen_urlhash:082b19c41ca560db234191b1424e1234e041924d4bfda850cfe84611e13ae37e
+seen_titlehash:143fc427c41405c620d0e85f6506fa8b0d8ebe547ac34c18683a3741741d49ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss
+title:israeli soldiers accused of supporting terrorist settlers in qusra
+seen_urlhash:f857006de2a1a0f4b53b8b83761dd6434a76a51d96e9bc7c3e21f30f0d53e77c
+seen_titlehash:ddb667ac532079abaa7cca3c2f61189c54bfd63feaa02298aee4d36f299e6604
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-сша-планируют-объявить-ормузский-пролив-своей-территорией/a-78377885?maca=rus-rss-ru-all-1126-rdf
+title:трамп сша планируют объявить ормузский пролив своей территорией
+seen_urlhash:97c80875d5322d0fc9e0e3a57116a2bdc03d40d8fc19fd5a64a57bfa4d99ea80
+seen_titlehash:674aeaca23bfa997ee791ee3c1b520a1043c75660dfac46388f5675dd5be7340
+seen_reason:processed_not_published
+url:https://ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1
+title:nvidia discloses 21bn stake in spacex
+seen_urlhash:8121ded25a2aa4defbaabfb6088b115853a35ce6823fd08c6e45777ee44e4670
+seen_titlehash:40bc4044c4f6cf38fdbd40de0d56c94fa0910a8a3978802a46207a33d9d7eeba
+seen_reason:processed_not_published
+url:https://ft.com/content/ace83fb4-a0cd-405a-a2c6-f6499a83e983?syn-25a6b1a6=1
+title:trump family s crypto venture granted conditional approval for bank licence
