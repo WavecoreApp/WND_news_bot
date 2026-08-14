@@ -48633,3 +48633,53 @@ seen_titlehash:dd99856ba18c367dff9a3024c1dc1162fae9d95434e508d3f5d9d1dff5d56f46
 seen_reason:processed_not_published
 url:https://ft.com/content/a650dbf4-1028-428f-a4cd-e4ee91f3498a?syn-25a6b1a6=1
 title:firstft the battle for control of india s biggest conglomerate
+seen_urlhash:828e733e38888c5bd3475e0246b6ed83c0d18a98026a83c05c808ae611f1d561
+seen_titlehash:7d88efc4cfdedd4c2273aa2cb5a6d36b9357f4d1f287283adfccc52131d553a6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html
+title:after 2 plasma donor deaths company pauses clinics in canada
+seen_urlhash:0108da83790ca3fba014cbd73b70fc8f56447f543e72da4987d0a4770af05e0e
+seen_titlehash:457ab010f3aeda951f03e969b66fccc35e65cfaee81214a7f857f08e91273274
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss
+title:israel s katz hails settlers for holding onto palestinian land
+seen_urlhash:2b2b3257a05d0a5c0bcf04f63334a5b7281b676525f18b99773c8f419d98061e
+seen_titlehash:3c0f9b868ac2693dc6b3de35beb85ca3e4e7052251fb4f1e4fbbb39e31c48264
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss
+title:uae accuses iran of attacks on two adnoc vessels in strait of hormuz
+seen_urlhash:0de3295b40b9f59ef1909735d88e2fff738f461ed7713949697e7f600326a8aa
+seen_titlehash:2fa72b1f6179cafb88c07be13830b69cf52086b40800f24b25b79f1b3a8c809c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss
+title:yemen faces highest risk of returning to war since 2022 truce un warns
+seen_urlhash:0a2ce328b0746eb46b60446c8318e0043b009910ddc9add62dc9e1c441167c19
+seen_titlehash:aaaee973150caaeb1b716e0e29c05fa228449883b85e1138c536c28d64726c5a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss
+title:iran war live us eyes indefinite iran naval blockade
+seen_urlhash:466a655f83f62365cf16126b2f753fee08c6b62385f602ce8081e1976f8c3e20
+seen_titlehash:c73f6ccc080885228a42c496b5ac288ff562193ff6c31a2743091b85e943a545
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss
+title:gaza city police chief killed as israel pushes on with deadly strikes
+seen_urlhash:25dd6522340b776fd7d538cc60d6e988494af7328f175878fa81a8476aca8fdf
+seen_titlehash:6df5fb0608461bf1d995fac7f8740df542b02f8a15ae72660075cbcb07907b9f
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones
+title:donald trump imposes tariffs of up to 100 on imported drones
+seen_urlhash:bf5df42d446bfef1cf1ba39ddb415e7ba0fb7f5e0d8db41cdba4b0c5e6e4794a
+seen_titlehash:59b8772dad0e557e8af1a6138d5135c8af332bbc3e8151325d5c78fc6e960232
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-ударила-по-краматорску-есть-погибший-и-раненые/a-78360559?maca=rus-rss-ru-all-1126-rdf
+title:россия ударила по краматорску есть погибший и раненые
+seen_urlhash:578903cc05e76985b0fa96f0a3623aaae6220560b789236c80cb78265f2b96fe
+seen_titlehash:1148db31bb004a0deb8e1b45a54d0378b6ba203938d6bf5a643d10471fee4791
+seen_reason:processed_not_published
+url:https://ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e?syn-25a6b1a6=1
+title:trump launches tariffs targeting chinese drone technology
+seen_urlhash:e289bbbc2c65489467f92b6fe99992d012db279e47164710a1741fc12729f14e
+seen_titlehash:314e2e7c2625dd0e5cbea6cfa6a2d608e04a9933a411b91c25f922b96f37e2f5
+seen_reason:processed_not_published
+url:https://ft.com/content/7a9808c3-0d3f-4c85-a8d8-1156e4a6230e?syn-25a6b1a6=1
+title:bp joins big oil return to post maduro venezuela
