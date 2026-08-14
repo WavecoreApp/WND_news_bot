@@ -50403,3 +50403,58 @@ seen_titlehash:cd8a88db36ce4de954c92bb50fad37ebae9525e0b4bd4d7ef2ac07b9730eaf6d
 seen_reason:processed_not_published
 url:https://ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1
 title:sheinbaum slams us for revoking visa of former mexican president s son
+seen_urlhash:d993129b1c37f459bd5ca30d95486de2883b622556034ea8bc2eb2b5c319f1fc
+seen_titlehash:3c236e118ff56c4268a8cd69b2fb597d3a9ae2c33406468162caf8bcb71fa311
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/europe/jason-arday-dead.html
+title:jason arday cambridge professor accused of plagiarism reported dead
+seen_urlhash:23c387ced55b8a1fa5e1e06181d2f76cae4dffc9526f5f4a131b20697a20b6ec
+seen_titlehash:74e7ac374ab01db8463e61ee8ff40843b51e57c8164acb5f861b1e0a61868bff
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html
+title:as army fails to protect palestinians israeli leaders sympathize with settlers
+seen_urlhash:09aa2913d42b4805236e3f6467bdbd861232dff84e39153755267973ab2f342e
+seen_titlehash:6ecd2466b017058fd8d51b1ded4d36ccc964c81d32c548a72a45af71b4355f1b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html
+title:when a rare wolf got too close denmark faced a conservation dilemma
+seen_urlhash:3510ea20741860876e10fa385853d2294d82d373742aaf404281c9e238f16409
+seen_titlehash:e717b1c3e1139d4f672b3a8accf73f933384d5e03059584bc0c769e8d2bce2d5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss
+title:son of mexico s former president amlo alleges us revoked his visa
+seen_urlhash:4e188b779a0d3463e3a31bb77c57ed8ae2bdf3c58c87cb44f423f228b4d4a7d2
+seen_titlehash:971eed49ea4e03d14157bad3c65636a57505f165d3a18ce435515b7aa2e030ff
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss
+title:new aerial video reveals huge scale of oil spill off oman
+seen_urlhash:1cd0346a4990ac50e17f4cdd6af4d9b6dee30f31acd3e53ca7280bb38efcbae1
+seen_titlehash:f9d4b032349ed369bff8205e8d8bce96f839e61cd2de60dfba0aa82f2e77d12e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-cyclist-finlay-tarling-19-dies-in-serious-incident-in-volta-a-portugal-race-13573071
+title:british cyclist 19 dies in serious incident in volta a portugal race
+seen_urlhash:c7fc451f223897f7ce88b206b106db97d5623ce39a8b0bc1c7b7309e96189a92
+seen_titlehash:53b0b30e8b78b8544b3f24f8da50a72ff780a598ae135a89346e1f5c97cd43f1
+seen_reason:processed_not_published
+url:https://dw.com/ru/турция-сократила-закупки-нефти-рф-с-терминалов-на-черном-море/a-78377408?maca=rus-rss-ru-all-1126-rdf
+title:турция сократила закупки нефти рф с терминалов на черном море
+seen_urlhash:16e7da770444cbd6fcdbc08df8773bb5c92ad37d731526fea9a3cbec27b84f38
+seen_titlehash:c3f7f36a3cfcd2a5706ade88711ba0bbff26b4b67682bae04c8789a25258dc9d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/14/dzhejson-ardej-figurant-dela-o-plagiate-najden-myortvym-doma
+title:бывший профессор кембриджа джейсон ардей фигурант дела о плагиате найден мёртвым дома
+seen_urlhash:450d2166aff83f52d97e41eecf0b0545100326bcad81890d6d8ebc8b8dd95bfa
+seen_titlehash:76d2859b96af63f7e58da6d43765869044ff0c7f4d11a5cc59fb4b25cd83aacb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/14/novosti-dnya-14-avgusta-2026-g-vechernij-vypusk
+title:новости дня 14 августа 2026 г вечерний выпуск
+seen_urlhash:0e76f03e43b86a819518ad76dd51fccf697053de27f7c331563701e87c1123de
+seen_titlehash:5de216de41cda399292baf34e90f5fb3732be668fa41c8c3e8622711292de011
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/konsortsium-bezosa-kupil-dolyu-v-futbolnom-klube-liverpul
+title:консорциум безоса купил долю в футбольном клубе ливерпуль
+seen_urlhash:392af54d6e2347b21b5f8cfddacdaba95b983a126b8f427a6e99331f1e5ec47c
+seen_titlehash:68d3186a766a066c37b9d69c6c90b0c301bb8a759f5e1b962070ed3ed7954f8d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/v-moskve-proshel-obysk-v-klinike-vasiliya-generalova-tam-lechat-autizm-izgnaniem-parazitov
+title:в москве прошел обыск в клинике василия генералова там лечат аутизм изгнанием паразитов
