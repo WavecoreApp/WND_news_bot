@@ -49958,3 +49958,158 @@ seen_titlehash:7b94b8723af09429f5a5b41466c66089ec5c166ec2098db0e24d08e4ede04f45
 seen_reason:processed_not_published
 url:https://ft.com/content/90fab751-5a8c-4d6c-97a9-5d725e50cc74?syn-25a6b1a6=1
 title:bird remains found in engine of ryanair window blowout plane
+seen_urlhash:d0feeedaee97ec20ee8661589f5b677c716b0c0316373a2c8220362eba8634f7
+seen_titlehash:d45b4fbb844df8af6312814059d24015fe62dd2edb4482ffa8aed0307410ce3c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html
+title:zambia halts presidential election vote count over violence and fraud allegations
+seen_urlhash:c01a53946800870d6faa763b5cf6da91e2d5529fd5ffcfa6dcdaff74d1d627cf
+seen_titlehash:e3925400287424edb945063ea79668129337d6944d69adef63cab4deeba6a986
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html
+title:stolen cézanne renoir and matisse works are recovered police say
+seen_urlhash:ac43656532cf59f90d7814ac0f7a18d73214a9b895e84651a046ff6881e4723e
+seen_titlehash:89d904bf4029a5752de062bd4ee29636507cb152f1852898db2fd4730e860d15
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump
+title:bp to develop offshore gasfield in venezuela with firms linked to trump administration
+seen_urlhash:9272177e7a4ab5cd2b16c23ede9da775a524735af72588db94cd223e14885e5d
+seen_titlehash:59650281a5da1846fefb8fd1ffcb5e7fbbc7ccfa0ba6cdad9bb17a167226eb4e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime
+title:a queensland man enjoyed soaring profits from a crypto trading app then his money started disappearing
+seen_urlhash:60ba9b35d76ab17ca7e7214d4cb5f26117f976c2f3f51efbbd21bc24227dd03f
+seen_titlehash:c92907fef4f14ebbcdf098cafff3dea3034c76c343721b2b40f2b7532b397ffa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss
+title:ahmed al sharaa a new vision for syria
+seen_urlhash:93fdc540a93072985fc7caef12ee69da9add5a2da4bd70d2353ad1d1404394bd
+seen_titlehash:7a579cecf91d095a66fd9248ab4978d64d15ce4abed1785cc00e2df12cd5f956
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss
+title:kushner to visit israel after netanyahu rejects gaza board of peace plan
+seen_urlhash:73efb99cfa244f29f45dd25af86fe78ff5ac0785347a52bf9f7af2f224315697
+seen_titlehash:89b64c5c66dddd805c45f1fff5e7280119278406ee5f73b2cd9f3feff445bc95
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss
+title:mutual defence the alliances that preceded turkiye pakistan saudi pact
+seen_urlhash:5bada722129fb9152c2b072ae3748f2619efaec6016db391aa44424b48cec7c1
+seen_titlehash:8aa77ffe20fdf13663496c51307c65e03b3afae1802e174b3588ac6c32d2ccb8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss
+title:us missionary kidnapped in niger released after nine months in captivity
+seen_urlhash:8a1d82bf4884eadbec624e0bfc6e15df2c7fabed1f7185c8deb0c1a44d0dd46e
+seen_titlehash:0fd8e99927c314056681cc514d5669a99792fe8f84a9d15639ca7e11abb65a68
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260814-west-bank-washington-condemns-siege-of-palestinian-homes
+title:west bank washington condemns siege of palestinian homes
+seen_urlhash:e09a08adf9b35e6be006bdae1b83af955a23a5f37e2e9705519b6e8eef26d7f0
+seen_titlehash:0b062bcde7a108c90c275c9b2866804e5a6dd2f9ccf170321f87d4a28d90d792
+seen_reason:processed_not_published
+url:https://dw.com/ru/план-б-какие-кандидаты-от-яблока-еще-могут-попасть-в-госдуму/a-78374913?maca=rus-rss-ru-all-1126-rdf
+title:план б какие кандидаты от яблока еще могут попасть в госдуму
+seen_urlhash:259fa0e210f676c2fd4d9f5e0d3e55a264e129df558d1d1407742e60b06c260e
+seen_titlehash:8969f4aa9b2a2279f07e35339303823e4bfb75ff3a265d0cd3a21b0f018d345c
+seen_reason:processed_not_published
+url:https://dw.com/ru/кино-об-украине-в-конкурсе-локарнского-кинофестиваля/a-78348772?maca=rus-rss-ru-all-1126-rdf
+title:кино об украине в конкурсе локарнского кинофестиваля
+seen_urlhash:0784c8b80df7feeec305437b245acee868ad19b66393ef457a8433643ce10f79
+seen_titlehash:c0a01f808a8341dc4118ffdd4510aa80934a3b4967babba12b04e44a8995747a
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-целью-покушения-в-варшаве-оказался-украинский-рэпер-kiyvstoner/a-78374471?maca=rus-rss-ru-all-1126-rdf
+title:сми целью покушения в варшаве оказался украинский рэпер kiyvstoner
+seen_urlhash:0c14a5855f485ce176e954e7fe92673b3602135451da39edb6d3f4a0206329c9
+seen_titlehash:051ca12e76b328bcc3fa2b7ccab0c93cd2bc86106f50a22fa93f2279dbab927c
+seen_reason:processed_not_published
+url:https://dw.com/ru/кукурузу-оставят-в-поле-последствия-блокады-черного-моря/a-78370188?maca=rus-rss-ru-all-1126-rdf
+title:кукурузу оставят в поле последствия блокады черного моря
+seen_urlhash:d7ec45b731a2d6bb0c8cd9ff81f7e098bc0f2a154c3b0921e49486e87963a7f4
+seen_titlehash:9a891cbc8ee128d345e6ab0f5c62062605e8b32deaed37cf2933b3d4ad9d0a63
+seen_reason:processed_not_published
+url:https://dw.com/ru/блэкаут-сразу-в-четырех-странах-центральной-азии/a-78373847?maca=rus-rss-ru-all-1126-rdf
+title:блэкаут сразу в четырех странах центральной азии
+seen_urlhash:8c00f62c77f1507bfbc9ba7c8181887b875752fd1619554455e2f9088cf45895
+seen_titlehash:e7e5a62711510b7ea8d54380103c6e0bbfaebfc6679e436bfebd41e673be24b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel
+title:пожар в хорватии возле омиша ранит людей и срывает отпускные поездки
+seen_urlhash:424cb38ce4936ea12a4b17d7c25c5cf88bcaf8847027953b8e410691b20d383a
+seen_titlehash:6035cd5b5ca1e48efcae8af4dab756a21fb00d51d4d483404660b375f4b13bbd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/14/brussels-central-square-transformed-into-giant-japan-inspired-flower-carpet
+title:центральная площадь брюсселя превратилась в гигантский цветочный ковер в японском стиле
+seen_urlhash:664ffd6fad61b33f46ea2c442a657f58b5ded0b608b49f3e8fe112d12c0273b2
+seen_titlehash:c61d3ff1bb9506ce223420ab74973988c5643e254f8c3a73058f028ac332950c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/14/italy-etna-airport
+title:извержение этны главный аэропорт сицилии закрыт в разгар турсезона
+seen_urlhash:3db2967653ce4f6fdc7e3aef8df20f7824ca2457d2e6c892c2a8bb03cfd5e61d
+seen_titlehash:323549b53e38f1870271fea54e44713d123e7e2b12c1a2b79dcc3dea56669d5e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/14/kyivs-forces-retake-26-settlements-and-over-600-km2-in-southeastern-ukraine
+title:всу вернули под свой контроль 26 населённых пунктов и более 600 км² на юго востоке украины
+seen_urlhash:009e682e1e51e4283d9bfff603665205908db5bc3d5527e68166eac520e5730d
+seen_titlehash:83836771121bafabf0cf01c5c19009936ffcfad32ecaa422f1ea9f129c430089
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/14/ash-clouds-lava-flows-and-fertile-soil-what-are-the-effects-of-mount-etnas-eruptions
+title:облака пепла лавовые потоки и плодородные почвы как извержения этны влияют на регион
+seen_urlhash:3d1a1e8e557dc32f1a7d27420f5dd776c6069c2d23526d1270fb30aa60a73eac
+seen_titlehash:9f298f15c79e5059bf4d3e8cdfb0c563bf39179525ca8cd2ef26c0ccc85de5ca
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/14/war-in-ukraine-deadly-russian-air-raid-on-kramatorsk-leaves-one-dead-and-17-wounded
+title:война в украине российский авиаудар по краматорску 1 погибший 17 раненых
+seen_urlhash:0beb786b1f9dcb8a490cab1c73bb6243e4be689428e2a25c5ce801dcb385dfd9
+seen_titlehash:a910250f06721d207606f6b1b3f422643e57c63e4f1901deddb5a40d089e3357
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/banki-stran-belarusi-kazahstana-i-kyrgyzstana-kratno-uvelichili-komissii-za-priem-nalichnyh-rubley
+title:банки стран беларуси казахстана и кыргызстана кратно увеличили комиссии за прием наличных рублей
+seen_urlhash:e241ed4cf2ccd38369dbf60292aef6e8e6db573232c45c912c5695a40c433e06
+seen_titlehash:d51b56f5dd19fea9132198d663ca2a1d60d7a3485800b8de503d52a971d62b6c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/u-nekotoryh-rossiyan-perestala-rabotat-neyroset-gemini-dazhe-s-vpn
+title:у некоторых россиян перестала работать нейросеть gemini даже с vpn
+seen_urlhash:2e6485f9969eb4f8eb6bdd82cea3fe087ff6d32fb23b31dcbaef90eed1c24769
+seen_titlehash:ba7aadc56851745e8b2b175681756e4cf898eb8c18307258230c5d9c25be937b
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/14/pomogite-verblyudu-meduzy-otrastit-vtoroy-gorb
+title:помогите верблюду медузы отрастить второй горб так донаты мы у вас еще не просили
+seen_urlhash:19726767b156e175cf73ba5b809066e54b66103a59a76e2f7c3c04b9213fc8b3
+seen_titlehash:82c02bcf7ea1387563d67558076b255b2c48d46b5482676dd8a21f6acd2c6cb2
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/14/v-rossiyskih-tyurmah-sidyat-sotni-ukrainok-u-kotoryh-pochti-net-nadezhdy-na-obmen-vot-istorii-dvuh-takih-zhenschin
+title:в российских тюрьмах сидят сотни украинок у которых почти нет надежды на обмен вот истории двух таких женщин одна из них приютила военного которого считала приемным сыном другая прошла через страшные пытки и уже семь лет не может вернуться к дочери
+seen_urlhash:a314d339cd54b794c4b512b72234e483bda3ebdf81068092db4ab261519bcccf
+seen_titlehash:b914d5f1abf0db42798b3123b5ea7e91fe112f05578d6b4a1f6f11c33d7077af
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/apple-predupredila-polzovateley-v-110-stranah-ob-atakah-s-pomoschyu-shpionskogo-po
+title:apple предупредила пользователей в 110 странах об атаках с помощью шпионского по
+seen_urlhash:06f6008f42a5fbeeb5a1416a3a6c806d4d55f2c69cc1e83eeef9971e963da859
+seen_titlehash:5915ef05eb61afd7fa37ddbc78ee95ce24a88201379167e3857a07364e10926b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/konstitutsionnyy-sovet-frantsii-zablokiroval-zakon-o-zaprete-sotssetey-dlya-detey-do-15-let
+title:конституционный совет франции заблокировал закон о запрете соцсетей для детей до 15 лет
+seen_urlhash:215e69bd10a5fe4b8159264c78d3c6a55f844be061a39eb63f52297620f787db
+seen_titlehash:25acfdd70aa2cb02feea6158c76c422afebb9e821b43ffc64043eb6d52f1b97d
+seen_reason:processed_not_published
+url:https://ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1
+title:luigi mangione says he will plead guilty over death of unitedhealth chief executive
+seen_urlhash:9ab074543a4ab035cdb710b4584c1787295cbe8f98ec6aa58b568b3292993001
+seen_titlehash:8e68317ab081f50a0990b247677bb094379ed1a2deb244c4749f1fad07d4e126
+seen_reason:processed_not_published
+url:https://ft.com/content/e288709a-36f2-459e-9d59-f9a59a3891c2?syn-25a6b1a6=1
+title:farage wins and donation probe resumes
+seen_urlhash:4cd667270e7cad9c7d12d64304575b5e87ede6b0fd8d79d739dbbd99529ec8ee
+seen_titlehash:23fd2e90d88d55157208b72ca8b652b20a3d2073e71cf14a03d1278b942629f2
+seen_reason:processed_not_published
+url:https://ft.com/content/7cd266e7-8278-4e26-945d-d7412afa9152?syn-25a6b1a6=1
+title:top french court blocks social media ban for children
+seen_urlhash:e03b0ff9ddd0608db4b7078db29fe4c824b25da742a0eb16c12635ca72062399
+seen_titlehash:b06c510ad63a1dcdf64de7ae1696952e640bfb936d43714b807e0502a13402d9
+seen_reason:processed_not_published
+url:https://ft.com/content/e95e8b45-474b-4305-b3b5-83036fa3a06c
+title:warsh and wait
+seen_urlhash:7177e4864b1e3bdcae6949bab349fde45e7f7a406b4163eb4ab277ca303df9a7
+seen_titlehash:c831e0436618f11cfa35840f1b19b8d8c3a813749fb22f0dd7fb5dec280d2f3f
+seen_reason:processed_not_published
+url:https://ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1
+title:investors pile back into us stocks as bullishness returns to wall street
