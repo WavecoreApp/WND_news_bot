@@ -50458,3 +50458,48 @@ seen_titlehash:68d3186a766a066c37b9d69c6c90b0c301bb8a759f5e1b962070ed3ed7954f8d
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/14/v-moskve-proshel-obysk-v-klinike-vasiliya-generalova-tam-lechat-autizm-izgnaniem-parazitov
 title:в москве прошел обыск в клинике василия генералова там лечат аутизм изгнанием паразитов
+seen_urlhash:fb009f117db8ed875583df066a296f318e092cc714179774a8d7d962334aace8
+seen_titlehash:9dda12677e33432893f8f804b32c19c641b5ff1cd4fb795ed3ff4d32189b6df4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss
+title:dozens injured and thousands evacuated in croatia wildfire
+seen_urlhash:f20b38a0f58cc601d376e9aff07eba075082c082858192650955da1149fdfc92
+seen_titlehash:1f73b6f7c895e4be54ee5d257af81ec0cfb953d44d8312125997a4b6e0b0820d
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules
+title:ontario free to axe toronto bike lanes region s top court rules
+seen_urlhash:255d0c080f60ccc1b3d1fd079c71b133e8c926660ffce6c0a21bf84f4afe6e71
+seen_titlehash:bc8a42bc84c7b88f7e6f6f1b1be5fa5a23c4baa8acb9c18ddf5de146922f75fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss
+title:mount etna eruption and volcanic ash shut sicily s busiest airport
+seen_urlhash:8743ad4e9f079dd85b16d1501945f0d504eb757e23a8f833bc9635ffe7fc947e
+seen_titlehash:dd65d9240d6422af87a1bdd8413d050c9afc2d404f34b65c591e9f9e8002da0e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss
+title:former cambridge professor accused of plagiarism found dead
+seen_urlhash:64961354abd0c9316b1295feeee4ff16c8e9ab0331e7a9b079a764de87b9bd37
+seen_titlehash:1eb20384ef1d98fd4cc4f5e5a77b30b4a812530b36a2c8c72f65ed6823d25777
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough
+title:trump says record navy deployment in iran operations not nearly long enough
+seen_urlhash:ea151563008accf79cefbd26769cfdaca27b3fc9343906666759e0d31e4bb734
+seen_titlehash:055ffcebf1ee12e902ea3ae45b885e1a59d91704902a913332fc126757b555f5
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260814-israel-s-new-west-bank-settlements-bring-chaos-to-palestinians
+title:we never leave palestinians besieged in west bank fear israeli settlers will seize their homes
+seen_urlhash:8a0251a4f6861c9436b1875d02525fff0dad852f1d338bb1e6d03da7a3f059a8
+seen_titlehash:0307ff5d5b7897c8a0e85b8f6430e5d3e046560d63936104d5ce2fcdf7695e8c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/14/russian-government-acknoledges-fuel-shortages
+title:правительство рф признало что в стране есть проблемы с поставками топлива вызванные ударами всу
+seen_urlhash:8df9183f9023b9be1dbdeacffddcd0a7e5decfb5bcae732e6bf9da5d50449064
+seen_titlehash:e57a28355a31995b4248d116466683515754df59ec44072a086ba5b7d73e1e17
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/iz-google-play-udalili-prilozheniya-ozon
+title:из google play удалили приложения ozon
+seen_urlhash:ec4b2bd46a0d655e37b519c834733540f6a0e1dd60422c4e27be85fb612a9061
+seen_titlehash:75769fc002a573004e48fbac76f915e30d25ed7aabbb54e35c89d419c0631dce
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/byvshego-professora-kembridzha-dzheysona-ardeya-nashli-mertvym-on-uvolilsya-iz-universiteta-posle-obvineniy-v-plagiate
+title:бывшего профессора кембриджа джейсона ардея нашли мертвым он уволился из университета после обвинений в плагиате
