@@ -50333,3 +50333,73 @@ seen_titlehash:9627d4f67423c77a025f9f8490f5a50c47a26f373366093f3269f7eac8b0c27d
 seen_reason:processed_not_published
 url:https://ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1
 title:burnham warns of tinderbox britain after week of intense heat
+seen_urlhash:7d0bf89ab057da6080060f9ddbb4b8a806cc17f3b72a575a85e3f9af11c85f5c
+seen_titlehash:8bfb2f033b29ecb9665de4493b539df0f20b14ac55b91db3c7ce2288f2ee9d11
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss
+title:afghan women tell the bbc their lives are unrecognisable after five years of taliban rule
+seen_urlhash:a88d50e7d0ea0bc8ffcee83e0df08379743eb5acb71be2195759e09687a45a11
+seen_titlehash:ed6776d4f40646431ea82fb00a53c8910c56c5752f758e432a60d9ab5410194f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html
+title:a prominent mexican politician says u s revoked his visa
+seen_urlhash:0a33c8a1c197bfa5fab5218c74ddbc5042b6534690cebcf800ea257b099a82d7
+seen_titlehash:23be5c77302c51ce845d39ef6f8d85035f366ed52a66161513ce8a817334eca8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss
+title:trump asks us supreme court to allow 400m ballroom project to proceed
+seen_urlhash:1320d17d91d47db4c69ec8eaaa74b4658ff2149fb741df464abea80f97760d5c
+seen_titlehash:d48a20cf4c670766e1075f5733918faac23292e7e8a34e00733d40e2e2e6a5c4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss
+title:woman charged over vandalism of world war ii memorial in washington dc
+seen_urlhash:ece48d3ea362c81baff740aeb90dc241f4c0e07e0c09493effa1743156c882f6
+seen_titlehash:dc8b3d26ed6c85ee861797d0257ea14092a1f66794e61593f0c332c17109f6f9
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss
+title:art offers young gaza survivors solace and escape from war s devastation
+seen_urlhash:cfb5be8612c164c221132454124b37e99931f05064ffda2e094727edaf4e3daf
+seen_titlehash:9c77c0c65e17100eb7fd05c895666728285396843ba2e826c34d329d9d875707
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss
+title:italian police recover stolen paintings worth over 10m
+seen_urlhash:8097920abffb4d9079713ef6b70b54236891c58edd8a7a682ff520aee981398e
+seen_titlehash:9090a1337665a1342fbfa61beaa14405b95eb3c3ae34b3f78dc85abfb1f3a0a2
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss
+title:ceo pay skyrockets in 2025 amid growing income inequality in the us
+seen_urlhash:576af7adfd30a79f4583406bb30f70f5872d8cb5395b9466bab073e7ba721304
+seen_titlehash:d41d1c0824fb90d3fb51deb00a92a47f057c2f40dbafa911d07530fa28f6ec31
+seen_reason:processed_not_published
+url:https://dw.com/ru/заплатит-ли-путин-за-базы-в-сирии-головой-асада/a-78377135?maca=rus-rss-ru-all-1126-rdf
+title:заплатит ли путин за базы в сирии головой асада
+seen_urlhash:d1314fd5e6d53da867a442f52455c3598b898f9ae03482cc390757c772540cac
+seen_titlehash:234e5d2579f08e38fb3689b65022eef996fea36e09c321882079f8b721de7859
+seen_reason:processed_not_published
+url:https://dw.com/ru/правозащитники-суды-в-рф-штампуют-дела-за-терроризм/a-78377180?maca=rus-rss-ru-all-1126-rdf
+title:правозащитники суды в рф штампуют дела за терроризм
+seen_urlhash:402f6ea19eed3a2d6ea1e2d1abe308c00edf1395e7ecabeab49b6dc033ac511e
+seen_titlehash:13275e28c0f21a391de864c5c27d059a4043c64ba48994be15c38426465eb9b9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/14/luidzhi-manone-priznal-sebya-vinovnym-v-ubijstve-glavy-strahovoj-kompanii-brajana-tompsona
+title:луиджи манджоне признал себя виновным в убийстве главы страховой компании брайана томпсона
+seen_urlhash:97c6baf637cc3789aa26df85f3b27c973aa6dbf8ba8707095d59aee0109b4a26
+seen_titlehash:37cf26448211e9618af0ee94a74a4f966dfa614804314061f6ee5c740bd14de6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/14/italian-police-recover-stolen-renoir-cezanne-and-matisse-artworks-worth-millions
+title:итальянская полиция нашла украденные работы ренуара сезанна и матисса
+seen_urlhash:3c892cde806331f5c8dc3580f8a69bb268a313be4ace5973a90f328c12fb46eb
+seen_titlehash:409608aa79f3297e43051cff5d06b0fb2102932fb8d584a1199b826e04bdab76
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/14/luidzhi-mandzhone-priznal-vinu-po-delu-ob-ubiystve-glavy-strahovoy-kompanii-unitedhealthcare-brayana-tompsona
+title:луиджи манджоне признал вину по делу об убийстве главы страховой компании unitedhealthcare брайана томпсона
+seen_urlhash:be51eedd1611a4598fa9a8d25ac752e16f587e4d1cc11a3e024c868e13deb588
+seen_titlehash:6a9ad91c32dd847495c25ddc5b652b8ab21cb10f3fcbc2bd84fe5a1352c13aec
+seen_reason:processed_not_published
+url:https://ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1
+title:americans sour on trump s economy as affordability strains intensify
+seen_urlhash:c9a799a74e471726f64c026dcb4ef1a8d94eeb0996b6482c43cbb8f65e624b97
+seen_titlehash:cd8a88db36ce4de954c92bb50fad37ebae9525e0b4bd4d7ef2ac07b9730eaf6d
+seen_reason:processed_not_published
+url:https://ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1
+title:sheinbaum slams us for revoking visa of former mexican president s son
