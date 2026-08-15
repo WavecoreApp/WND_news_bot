@@ -51308,3 +51308,48 @@ seen_titlehash:331a4fa3b9857c7ad84c6c1792e4a6a390b9ffffe9b7667862a74550acc3f7d2
 seen_reason:processed_not_published
 url:https://ft.com/content/1c5f8995-ee2f-47cf-977b-69e65f0a8ccc
 title:labour s rental reforms disrupt student market and lengthen lettings process
+seen_urlhash:3bdff3712dbb805e5898e3c6f53ed6748dd2fef64df1f811c3de594711310df5
+seen_titlehash:423f13eb04eee183f93694219ca72ff527db8c9acb5d04567cfe486acc8ed540
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss
+title:afghans mark five years of taliban rule
+seen_urlhash:4a3f97882255173ea472026b094b7f6ee17c87b0d48d4f49b94ceeeca5e44067
+seen_titlehash:6970e95bb3011e0ed3dabfb11390ec30231fd85f1d9010d4f384e16fa006b587
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss
+title:black professor at centre of cambridge plagiarism row found dead
+seen_urlhash:75e61f747f9f7c0377140602981bc6b57cc54af20a5824d2d7ef628db59d078a
+seen_titlehash:690ca627166ef0e9e5749d28d96f55c6b75bf2e1a1cd2f66b3ab176c2810b4c3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss
+title:vienna woman sues city for discrimination over toilet fees
+seen_urlhash:d140c56b1e5a5862eb560bf8eb16ba8bec51b474b8019ba296a92818beebab49
+seen_titlehash:c0a83c32b906cb393011040758b91cc2d47b07812c3ae179fe4851f77411f020
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss
+title:five wounded in shooting at virginia state university
+seen_urlhash:8bf1827045540e341494ea52a2f9aa65f3d874ade7c1ea2df6e9755954457ab9
+seen_titlehash:7cf83ed0635be4b72df0e0a14e14e9a4e4ea49ccaf5d9c2e6321f867d99bd44b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss
+title:five years on how will taliban deal with armed opposition
+seen_urlhash:ca37f77cf48e1106e3f3deff6345280bbfccdfe7286fbffde4d93e1f1b00fe80
+seen_titlehash:9fc1bad1cc99f87c585f201eb6e881e559afc35661f6030c4e6f7f0b04a7c1e8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss
+title:afghan refugees face an uncertain future as europe shifts to the right
+seen_urlhash:6cc9ceecbd60e8a1e84036070eccbe9e526fb4d9dc017b4dd5b113accc1da9b2
+seen_titlehash:89b769d056471368247b3c6886d13be030855f860d61c19da213d7623cfe1902
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-для-ночных-ударов-по-россии-всу-применили-ракеты-фламинго/a-78382488?maca=rus-rss-ru-all-1126-rdf
+title:зеленский для ночных ударов по россии всу применили ракеты фламинго
+seen_urlhash:67be6399c19f1751135f167d4e8f4ab69a2957dc2fd9c903079d13ac9044cbbc
+seen_titlehash:478072eaab9d5a23dea7865b1e1c2394f833515ffff1e238ee81e56698ebae4a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/mihail-zygar-reshenie-o-snyatii-yabloka-s-vyborov-v-gosdumu-prinyal-lichno-putin
+title:михаил зыгарь решение о снятии яблока с выборов в госдуму принял лично путин
+seen_urlhash:43fb8685c86f7b86653a1cf4fca2e62cbab24320f516f2951c33711fda549c5a
+seen_titlehash:9aaf82965a594680e3cda121b7f0bf9b58938cadc4a16752b13e64ee3e70931d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/u-glavy-partii-rodina-alekseya-zhuravleva-nashli-nedvizhimost-na-300-millionov-rubley-aktivy-raspredeleny-mezhdu-ego-byvshey-i-taynoy-zhenami
+title:у главы партии родина алексея журавлева нашли недвижимость на 300 миллионов рублей активы распределены между его бывшей и тайной женами
