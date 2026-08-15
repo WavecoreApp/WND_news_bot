@@ -51633,3 +51633,43 @@ seen_titlehash:f3345341a947d135bfc6f4163897ec4e7d59cc5b04cf64db883d5027a565ed0c
 seen_reason:processed_not_published
 url:https://dw.com/ru/авиасообщение-возобновилось-в-аэропорту-бендер-аббаса-на-юге-ирана/a-78384560?maca=rus-rss-ru-all-1126-rdf
 title:авиасообщение возобновилось в аэропорту бендер аббаса на юге ирана
+seen_urlhash:27eb8a80f3767ee6d86af7c5ff83903fd0848cd59852a7fcf77a2faa46d0867f
+seen_titlehash:df695ff215e2242bad0a3eb6cddec16aceb9b7acc0576829382d62f0849f1b4f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss
+title:morocco detains dozens of migrants trying to cross into ceuta
+seen_urlhash:cf8d2a1ac3af6606d2c5df73113ea18fbc449daeffcb6bf70af940f2566d8152
+seen_titlehash:b6fcaa4ab41c8272b76a99980cdece969d8f46f4f617c2ff16b23a96bc0a865b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss
+title:liechtenstein changes succession rule to allow women to ascend the throne
+seen_urlhash:3b8701b59b7d152fff8c81bfbee94a0e2c36ec003c213aba725dd1afeb821fb5
+seen_titlehash:d3e01d57682bd02a6b8e2d292da9c09ba005958d436e91ac9508cce4686d17be
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html
+title:10 million in gold found buried under former brewery in belgium
+seen_urlhash:a5c66f8a6932daf69c4f615b7a4857822f50002f78e464bfd641423924c91a1a
+seen_titlehash:6f3003a2347b3a5f5b935eb1beae0609909fb01aeeb352658de6572b2bac3de2
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident
+title:twenty two more bodies recovered after zimbabwe boat accident
+seen_urlhash:ba1f3bb72ece5f475167d88e22829e1e667bdef1ecb8913606eb684de94a88c9
+seen_titlehash:d334f636b401e901ac908c1be1f8e081014de7e9071f63a432e075155b99c17c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss
+title:moroccan police arrest over 100 migrants trying to reach spanish enclave
+seen_urlhash:816ffb2d59c9741a8e706819d084cf6f25888c1cd9501c6b72698c8aab7d24b9
+seen_titlehash:d76efe7a30b50691e4647e08a4bd2ff66445eeda528e1f64daadd2e3446ea04c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss
+title:death toll from zimbabwe ferry disaster rises to 69
+seen_urlhash:9b360638e4c49f7f5f97bed99d9251c164624a81b68d5c8829a8692a03a218c4
+seen_titlehash:6252cf17ab54f1d8c69260deb830606da8448c0c077ed0c4df5e3b18e62744b8
+seen_reason:processed_not_published
+url:https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534
+title:more than 100 arrested in morocco after call for another migrant mass crossing to ceuta
+seen_urlhash:49da2f7faced8a2b8875efec932175bd7b69240590ab594f546dc6e4b6becff0
+seen_titlehash:6a7a0bed7dde2ef7a3869de27754da6ae9f99df8101e2df3daf661741f9ddccc
+seen_reason:processed_not_published
+url:https://dw.com/ru/у-гимнастки-варфоломеев-золото-чм-2026-в-личном-многоборье/a-78385466?maca=rus-rss-ru-all-1126-rdf
+title:у гимнастки варфоломеев золото чм 2026 в личном многоборье
