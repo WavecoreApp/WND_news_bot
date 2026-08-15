@@ -51518,3 +51518,38 @@ seen_titlehash:161447090b7e9e1d13a9927b182fa48a3f38f3b6ca96d5d261580d1b520aa9e3
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/15/nevrologa-vasiliya-generalova-arestovali-po-obvineniyu-v-moshennichestve-v-ego-klinike-lechat-autizm-dietami-i-izgnaniem-parazitov
 title:невролога василия генералова арестовали по обвинению в мошенничестве в его клинике лечат аутизм диетами и изгнанием паразитов
+seen_urlhash:0aa80736846e30a8ee10506d324510680e6db717415c53d09e29199108284498
+seen_titlehash:b60bc02551e8d4323dd73d6c61b35ae54ab4f7fdddf664996f3bd97ae20c45e4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss
+title:one killed dozens injured after wildfire hits croatian coast
+seen_urlhash:77ff22b642b43d7306dab22e6783d8d7cb7a70ef5d50eeafdad85b64d46032c0
+seen_titlehash:ae682f1fc098bdd8956c02180249b7ddf9b0d5846a0ef0b10d456796f66c9a81
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss
+title:sudan s al burhan pledges immunity for dialogue rules out hemedti return
+seen_urlhash:3d5cc70634eb362305a41ccffbd9bda2f63dabc2dc26ee9dd3110469ad954ea2
+seen_titlehash:f25aced61924769a5c39b23ed5cbd0290a7a48b31820308dfa05d19311367081
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships
+title:france s léon marchand wins 200 meter butterfly final at european swimming championships
+seen_urlhash:3d5cc70634eb362305a41ccffbd9bda2f63dabc2dc26ee9dd3110469ad954ea2
+seen_titlehash:7ebe99762410b689fecce0569cb8ad7c537ef124c887428f90f5342b096e0305
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships
+title:french swimmer léon marchand wins 200m butterfly for first euros gold
+seen_urlhash:00f60e51e46e4302c4e0755f36326fa75b9b0fcf0196637af477c759c7ff4b62
+seen_titlehash:8418b677ad0501a14e1811d04448361832ac30344388e069d54578ac1290069b
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-у-главы-партии-родина-журавлева-нашли-недвижимость-на-300-млн-рублей/a-78384509?maca=rus-rss-ru-all-1126-rdf
+title:сми у главы партии родина журавлева нашли недвижимость на 300 млн рублей
+seen_urlhash:685b8d1f7486ce017e69fe715310fec50bdddbd89757497fccff9557a19d2897
+seen_titlehash:3cc1760e1dc9b7ddc27ce494be0da5cc51c69d89ebaf9d83168b061d6c88de3f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/15/the-family-of-the-late-academic-jason-arday-has-criticised-what-they-describe-as-a-campaig
+title:семья покойного ученого джейсона ардея заявила о кампании травли против него
+seen_urlhash:105845a36761d5f6c33b476246af90a84be2b21063867d329fade9861d45369b
+seen_titlehash:f9b133cc220bcd6ca3e2b8809cc9fb168586fe4b791d29cffddde9c0c299353b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/otkrytye-ii-modeli-alibaba-group-v-2026-godu-skachali-tri-milliarda-raz-eto-bolshe-chem-v-sovokupnosti-u-vseh-amerikanskih-kompaniy
+title:открытые ии модели alibaba group в 2026 году скачали три миллиарда раз это больше чем в совокупности у всех американских компаний
