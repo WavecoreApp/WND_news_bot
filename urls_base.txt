@@ -51718,3 +51718,48 @@ seen_titlehash:d39139ad6690ac68bbe4c7dbdff68b0ecf51addfc08854623e1ab5b3291adcb1
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-a-polish-village
 title:в польской деревне открыли самую высокую в европе статую девы марии
+seen_urlhash:1d4f38a552a0fd1d28e15946cb9cfc019d8c3d3579565f24f824aced073e7a44
+seen_titlehash:ebc5da5a90722a5d76d54416618678af1a6083e9b85c4fad3e434cc3cf7a6e6a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss
+title:rescuers search for survivors of powerful indonesia earthquake
+seen_urlhash:ca41072f9d3e4dcab41cc12fa0511d601207d82178e7891d10d0740b6c490c0e
+seen_titlehash:dc44b012e4d6c7c352a53282f3d903c315537dcd0cceac0dbe7d2c99b404a70d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss
+title:qatar denies capturing three iranian pilots after downing fighter jets
+seen_urlhash:c735c30b32bf2064b7f0cb74031738ff54effc164e30a373e4c0f114f03da1ae
+seen_titlehash:cf4b3016e8cc793899ad3350d7c5260863d96a9f0714ff0af48772fa8e16fd80
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss
+title:hawaii braces for potential first direct hit by a hurricane in 34 years
+seen_urlhash:aa575bc01ea57ad24783e71ffb3c6f3f843f5114c9597c1b7222ac30943fcd97
+seen_titlehash:b07d35386e851756db89834168d76cb4ff469966efa826804fe6fe8032ef6c27
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss
+title:australian state to launch gun buyback after bondi beach attack
+seen_urlhash:c04f5c4475871de91e1f313566981a24ab714670fda7c9499be8a67d87421089
+seen_titlehash:0c2e926eaae14f0a9781f0056d7e89921ee818f2bd795706ac70e43563b1c7e3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss
+title:why is australia s mushroom killer back in court this week
+seen_urlhash:c08f19320298bad55cb1da88cb916f3a6009b78db2d0d92aaa3aa19c5b1f67d7
+seen_titlehash:0bfe5755395c7ca61097cf06c9e76ea20b0add090a63c3fd5d693eeaccb979b0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/15/world/asia/bou-meng-dead.html
+title:bou meng rare survivor of khmer rouge torture house dies at 85
+seen_urlhash:6806ee79d3c68ce9011671e39959915330b57e81d170093188ba221bd8fc2e5a
+seen_titlehash:ee3b5e8350effd6bd7be910fce7e047e22433bf398e7027cfd7af6bf98328042
+seen_reason:processed_not_published
+url:https://news.sky.com/story/more-bodies-found-after-lake-kariba-ferry-disaster-in-zimbabwe-as-number-of-deaths-hits-72-13573572
+title:more bodies found after ferry disaster in zimbabwe as number of deaths hits 72
+seen_urlhash:c803ed9726178c39d73c51317272971f4b4b4517d061fd991ad06bd06c1e70ca
+seen_titlehash:c9f67ddc05e47fbd497f399ba7e6c5d448c8ece37578fcc493a530576ed32175
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкий-пловец-установил-мировой-рекорд-на-дистанции-1500-метров/a-78385587?maca=rus-rss-ru-all-1126-rdf
+title:немецкий пловец установил мировой рекорд на дистанции 1500 метров
+seen_urlhash:f58f62bceeaa6a9afd774aa01fa8b59b03ecfd746134dbdd61b6c45ee588af3a
+seen_titlehash:b2117b82178ebf760d5a0f1de5f5edcc30e795c114a9edc7c7161008dbcb6acc
+seen_reason:processed_not_published
+url:https://dw.com/ru/землетрясение-в-индонезии-десятки-погибших-и-обрушения-зданий/a-78379562?maca=rus-rss-ru-all-1126-rdf
+title:землетрясение в индонезии десятки погибших и обрушения зданий
