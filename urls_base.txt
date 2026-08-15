@@ -51223,3 +51223,28 @@ seen_titlehash:00fd683c06b589018e709e6ef88f98800ecce9a18c4722e6f1ca306438d51231
 seen_reason:processed_not_published
 url:https://ft.com/content/57d098e2-7cb7-426b-90b9-38bbd2a37eb3?syn-25a6b1a6=1
 title:south korea s inverse correlation
+seen_urlhash:fa4bdf61014d0cb31766b25b3121b64ea70d27356cc06b3da9f73a87d273cd03
+seen_titlehash:b08bac9a0952b0796c0238287a881d827ee72a87fd2ac961534b9433d0487c65
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss
+title:family stranded at sea for 16 hours after jet ski capsized in thailand
+seen_urlhash:70fd4f2ab16ece5f867d07d8c90cab34a323d03aacbb240952037bc9989c6c0a
+seen_titlehash:90a2dc3f2008f911bc521ea45ea782ba0f52b7653ca12d12195fcaea832b5887
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html
+title:israeli strikes in lebanon kill 9 health officials say
+seen_urlhash:eb5fac8dde9aaaa21a9659717f9bffb697d7fdcfa8b0eb809d848b9bb9019bcd
+seen_titlehash:c9672e9c59c53e25ee05679041f7e19626ca52485eb2ea226285e0b5f341329c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss
+title:at scene of deadly israeli strike on lebanon home
+seen_urlhash:a883860db350076b7ceb0a727a78de7d057e5cedd8a30f8db2da9e2b34c315b3
+seen_titlehash:ae1da759e8393c725181acd102531f3ca395760a4a1cf69d386aaec678249927
+seen_reason:processed_not_published
+url:https://dw.com/ru/ночь-прошла-хорошо-крупный-лесной-пожар-в-фрг-больше-не-распространяется/a-78381568?maca=rus-rss-ru-all-1126-rdf
+title:ночь прошла хорошо крупный лесной пожар в фрг больше не распространяется
+seen_urlhash:8475daf6fb534b2fb3a23acf4db8c5e600f91eb8eb2e079dfd88bf3852a66719
+seen_titlehash:9bee5d41158c6fd57ea9680a8202cd03d2c71c76b82bab12c888298554426641
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/vlasti-usilyat-kontrol-za-poezdkami-rossiyan-dannye-o-fakticheskih-peremescheniyah-budut-popadat-v-dostupnuyu-silovikam-bazu-cherez-polchasa-posle-okonchaniya-poezdki
+title:власти усилят контроль за поездками россиян данные о фактических перемещениях будут попадать в доступную силовикам базу через полчаса после окончания поездки
