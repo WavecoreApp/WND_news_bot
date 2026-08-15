@@ -50563,3 +50563,53 @@ seen_titlehash:40bc4044c4f6cf38fdbd40de0d56c94fa0910a8a3978802a46207a33d9d7eeba
 seen_reason:processed_not_published
 url:https://ft.com/content/ace83fb4-a0cd-405a-a2c6-f6499a83e983?syn-25a6b1a6=1
 title:trump family s crypto venture granted conditional approval for bank licence
+seen_urlhash:a8335a92ace60dd12423e2867f396053d0fd5fe989bb00850b405d752a64bde0
+seen_titlehash:34111548d83073b783554b59521e2b5a0b2770f469c5d8178770abb1bc5febdb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss
+title:us aircraft carrier on way to relieve uss lincoln after issues reported on board
+seen_urlhash:c4a5e6f3520cabf8a0be2d01fb012e8de602b9518f16035e3bdf487ef4d7c5fd
+seen_titlehash:135bb612b936964a60429d266168ac9d5dc54a215c688e12c099d9546ab0c57d
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/15/indonesia-earthquake
+title:strong 7 7 magnitude earthquake strikes eastern indonesia triggering tsunami warning
+seen_urlhash:b8188cec17f41895ecbb9ed6d7f3f902ed73470fdf2205b359026c8dc33aeebd
+seen_titlehash:879b4aa4235ec7590da2bb6e571b6ccdac479cfad193bd45fba7bf11f8a37fbf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss
+title:lula holds slim lead over flavio bolsonaro ahead of brazil election
+seen_urlhash:fffe293af827fd525fe0fd4166ff9acfb82be25e3f1ee00bd972d2efc6199cf3
+seen_titlehash:9ea359a2b3dd34cabd5638ad2d8765aff06ef610e14294af54ed854f42e9df1d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss
+title:un urges support for afghan women s aid five years into taliban rule
+seen_urlhash:02f108247fc1510f4136097dbcd3a368734693e8174545ff2aad69096f457089
+seen_titlehash:62e7fdad31a6a6780f2e34cb22d98094df6e1c1109e32fec4a100a3ad5b7278d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss
+title:families angered by slow search for loved ones after colombia quake
+seen_urlhash:460978972fc13d48895192f7f1b6b879f90503011d4a7b401d1e88da60e85d29
+seen_titlehash:3de0553ef2fc5e5f82c4b42eeba73c8266d31b2c2894b36b90b5e1608f8acb6f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss
+title:iran war live trump vows to make hormuz us territory pretty soon
+seen_urlhash:ec6ac1b4bc97e1d2e2e27b61949c50a3b0f35b3154069277a89ed47502b49d0e
+seen_titlehash:b63fe6d05fbdc3968f92107181fe45b24f565609913919f3bde19482704845d5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss
+title:lebanon s pm urges timetable for israeli withdrawal as hezbollah slams deal
+seen_urlhash:c56716b9cc2bfa4e5787db0f689750c1483a00de986f3fd8d2c1e87084441ebe
+seen_titlehash:021fa16144250354a5fa8449703ef4a87ad2dce06f7e34724665cf39043a0e8b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss
+title:houthi attack on port kills four eroding truce with yemen s government
+seen_urlhash:d3e1c44262b62692bd56e57456c3b6541ca3092c7e3541daf240211e9ed7287a
+seen_titlehash:8b57fbe5eb75a8373efc792e4c26b24803a9ec1c623998421af320f6a5fec973
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/eye-on-africa/20260814-dr-congo-ebola-outbreak-spreads-to-sixth-province
+title:dr congo ebola outbreak spreads to sixth province
+seen_urlhash:409cc4e4e27b9ef8462e1e0264464ee3d8279f35460ed5124ffa86b54fa480c9
+seen_titlehash:5d0ac68e8f4ceb6ff76de8423759547a5daed1c8e7c912e3878e20f4c3b9d78e
+seen_reason:processed_not_published
+url:https://dw.com/ru/киев-ввел-новые-санкции-за-незаконный-вывоз-украинского-зерна/a-78377989?maca=rus-rss-ru-all-1126-rdf
+title:киев ввел новые санкции за незаконный вывоз украинского зерна
