@@ -51413,3 +51413,53 @@ seen_titlehash:2f68e7b61b18809034cc3315cb96430debc67076037aa5a1266be9bbbb37041a
 seen_reason:processed_not_published
 url:https://ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1
 title:ukraine left exposed as patriot launchers run empty
+seen_urlhash:517a9726c6f1de0e4e90a0ad4e0325791b3b3a78bb3e8c801d7792d9ab225551
+seen_titlehash:5f1025527683b990a7c1d4df4407d440517cfa71b2f3538cf75d14734226b918
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss
+title:five injured one critically in shooting at virginia state university
+seen_urlhash:6b7d0c565b5893b45a0e58289ad3d677d38387655873d944c946b5c4f5a59ee9
+seen_titlehash:1cb11df239b89ddbe3a3445afeda385c0298f2e50ce10133b13762093afdc11e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss
+title:secondhand book sales are booming is it because of ai
+seen_urlhash:5d78a0279703eaac8f12120e19224362fa2895c349bce92fc86f5d57e060a306
+seen_titlehash:92f10fbbc1c6dda4cbf4c290bf0f370362caa7aa186ee359d577a90a4d6f60fa
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html
+title:iran says qatar captured three of its pilots early in war with u s
+seen_urlhash:cd1e3f1d09f0ec0f6adde0215eb374f9135cccaf1fbdad3108fd6bc3adf37e9f
+seen_titlehash:c942a8cc9a8d792838e55bdb600bd0ca165262461f92dd04cd075e918e1e1161
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb
+title:naidoc awards honour fearless brilliant promoter of first nations culture rhoda roberts
+seen_urlhash:00345e304539c3e1f2f4270afcc2ecef7436eb20237637d43483cc1a7128fdc9
+seen_titlehash:f88b53a270a0bd6640009e0987260df7f4c51e9f43b59f3ff3841201da12a0ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss
+title:the next yemen war might be different
+seen_urlhash:dcc40bb7a5c799d42a4b99d5786ab04b50b042d56509674b8c946330d5973b95
+seen_titlehash:0b80f1673e6c18dc424a1a5837cb004c20d9f2a4ae8914ed0704436e417af334
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island
+title:french father and two children rescued after 16 hours adrift off thai island
+seen_urlhash:e89e636ab061b3d397a17e15f9435cc5bbd41e04acb876b181152c36648acf56
+seen_titlehash:958fa1a0abaf246ed8b9c62ce7545fc491cb94718848eb9541c26e624cfae3af
+seen_reason:processed_not_published
+url:https://france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes
+title:ebola outbreak in dr congo one death every 30 minutes
+seen_urlhash:8f8a85a321a7a1cf15776bef1876578223a8374ea250452dc7ef97374cdce851
+seen_titlehash:c6224cde28a1fd5fcc6850c8109aad1c29d26b6b60c33bea19cb5bdd3c3d1248
+seen_reason:processed_not_published
+url:https://dw.com/ru/уровень-воды-в-реке-рейн-опустился-до-нового-рекордного-минимума/a-78383381?maca=rus-rss-ru-all-1126-rdf
+title:уровень воды в реке рейн опустился до нового рекордного минимума
+seen_urlhash:6113a1e4bc907463528a07beefa00d298fe538f39ed4899522a9cb031351f84c
+seen_titlehash:cd0096c320c5d5089567f1d080b49a1619ec19d597df77df9712fd5e275ef20c
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/15/voyna
+title:война 1634 й день кремлю все тяжелее заманивать добровольцев на войну но о мобилизации пока речи нет утверждают источники the guardian
+seen_urlhash:36d0006fde8da07a331d6210516343a48a7791d98b3bf331668cafb8e67fc426
+seen_titlehash:f49ddff28ce879e94e611d99a71bc30c4b18e8d70bfa8954b91a9f43f8163742
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/nemetskiy-zhurnalist-sprosil-zelenskogo-kak-evropeytsy-mogut-pomoch-ubit-bolshe-rossiyskih-voennyh-rossiya-otvetila-ugolovnym-delom
+title:немецкий журналист спросил зеленского как европейцы могут помочь убить больше российских военных россия ответила уголовным делом
