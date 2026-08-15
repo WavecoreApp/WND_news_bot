@@ -51613,3 +51613,23 @@ seen_titlehash:f20d741f261fdc604f915eda8134e519f3d78d223f8ac8e01f4262a072c3a1de
 seen_reason:processed_not_published
 url:https://ft.com/content/1bd69e67-266f-4a4a-9c49-eb3c83bcb295?syn-25a6b1a6=1
 title:israeli strikes kill 11 in lebanon two months into truce
+seen_urlhash:9524dba13a7e823f6f415368cb61869baa834142f26956867b8265ec55ffb6bd
+seen_titlehash:352db629a8339dac70ca51e620c2b524e03de81e939172e8069b6d96b0ff97ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss
+title:la liga real madrid key talking points heading into new 2026 27 season
+seen_urlhash:a7b76549907c2e2c30f6af3f20267ac7af98991fc51e05d842a5541b9c162517
+seen_titlehash:d5808f04ba07b845f67c229ceeeba6639a890b90f24f677c1586dfb19ae17c72
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss
+title:cleanup underway as russian oil spill reaches oman s coastline
+seen_urlhash:51cd8c8730d4ce8a639227c4e9b431076ea0baf06e1439e08d813ceefa89e94b
+seen_titlehash:a51af82671391e475702c01cc5a2259cb3ea42d5094067538d8fa8d149cb8074
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-россии-пропавшего-адвоката-шамиля-ахаева-нашли-мертвым/a-78385232?maca=rus-rss-ru-all-1126-rdf
+title:в россии пропавшего адвоката шамиля ахаева нашли мертвым
+seen_urlhash:7cb6826c7293d46997b56e38cbb3c6432f47d34688270049cb3cd89bb44bf6cf
+seen_titlehash:f3345341a947d135bfc6f4163897ec4e7d59cc5b04cf64db883d5027a565ed0c
+seen_reason:processed_not_published
+url:https://dw.com/ru/авиасообщение-возобновилось-в-аэропорту-бендер-аббаса-на-юге-ирана/a-78384560?maca=rus-rss-ru-all-1126-rdf
+title:авиасообщение возобновилось в аэропорту бендер аббаса на юге ирана
