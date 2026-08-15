@@ -51463,3 +51463,58 @@ seen_titlehash:f49ddff28ce879e94e611d99a71bc30c4b18e8d70bfa8954b91a9f43f8163742
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/15/nemetskiy-zhurnalist-sprosil-zelenskogo-kak-evropeytsy-mogut-pomoch-ubit-bolshe-rossiyskih-voennyh-rossiya-otvetila-ugolovnym-delom
 title:немецкий журналист спросил зеленского как европейцы могут помочь убить больше российских военных россия ответила уголовным делом
+seen_urlhash:cfbbaeaf78a668b13f035cf36b09cb745626660217303cdebeb354ff4e7f5f1f
+seen_titlehash:7170a8aef9a13f70150418615f520200330eaec3b9e41a91bd8e5041a7cfcfd9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html
+title:syrian convicted in austria of civil war abuses is detained in syria
+seen_urlhash:639317b2b337fc8794870a947357b002a5005eaa37348d0fd56052acdd28c90a
+seen_titlehash:48d67cd86cde52331959302d6be3eb911967798e1173d59055c61eb8a62afcb3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss
+title:ukraine hits russian starlink style network moscow tracks arms package
+seen_urlhash:a5d4ec87f35000c387e94a49715c87d53e91385639ace9cd1d4d2418c665f2f5
+seen_titlehash:6f713f238aecef02e7315aadcea7352890f18b0c82bf65398b63d71add237857
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss
+title:israeli settlers besiege palestinian families in occupied west bank
+seen_urlhash:86eb1241d18592d582248a96dafc5eca68c9c79ebf2d95cc7eab6624cbaf0231
+seen_titlehash:17a44763f1848cebdbd744d22172715b0f25c3a9e03f23728ad0cd1f986ebac8
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss
+title:sedition to anthem many lives of azadi chants in india s youth protests
+seen_urlhash:9dec8e1a5e561566800b5638473dac585121ed7540f21c2b7430328c837a24a7
+seen_titlehash:b007b606a74821a76ec7e58d81466145dbf1707140948966623ad1def001a005
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss
+title:how blind football is helping women overcome barriers in mexico
+seen_urlhash:4947e942f474cb2f11233dbf3f2fc2934ba601efd904636177dfe6b5e082511c
+seen_titlehash:8ffee7825d26177ccccf31b0306a4758a8c0113559ecdcf5d446b33cd8a2d57b
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war
+title:south korea president proposes talks with pyongyang to formally end korean war
+seen_urlhash:5a75acec217e0eb4e0fe4ad7cc4dfecb45582580f2620f54c779fba2df4b65a5
+seen_titlehash:e0b37e0ed0398b680506cafaf39e1c2595041f58f7abe230d48c5ce06e0223c4
+seen_reason:processed_not_published
+url:https://france24.com/en/deadly-israeli-strikes-in-lebanon-put-peace-talks-at-risk
+title:deadly israeli strikes in lebanon put peace talks at risk
+seen_urlhash:97ff26a31a56f63f3aa5af7f60436acff51fa19c262d11497a9efb18fc4f0745
+seen_titlehash:feeb3d40a96d6cd0a2370d9d30cfc259665c3276278f132815f6fc184a81cc47
+seen_reason:processed_not_published
+url:https://dw.com/ru/оман-и-иран-борются-с-разливами-нефти-у-своих-берегов/a-78384301?maca=rus-rss-ru-all-1126-rdf
+title:оман и иран борются с разливами нефти у своих берегов
+seen_urlhash:b885a938d016645f0d6f6465fea0b75eaa684922c9d686a9362f649bac23a9b3
+seen_titlehash:3c8f05534227c9a87aff0abf711481633f3f1593e621d92dd23eb6368d153f7a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/15/wild-fires-france-spain-germany
+title:лесные пожары продолжают опустошать европу тысячи людей покидают дома
+seen_urlhash:7957d14407c7e2153b0697bd982da6b4882ce0f324a78a8e31ef46c793906f99
+seen_titlehash:960c9a988f0fd48aa581b4b4a426b300fbf83dddd231c9b43ff753e7fe495eee
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/15/ukraine-russia-war-attacks-base
+title:украина заявляет об ударе по российскому ракетно космическому центру
+seen_urlhash:f12e440f58b38807768b07d0b5f2ab762fbbb955b3599cfbc8b74768ab4d129f
+seen_titlehash:161447090b7e9e1d13a9927b182fa48a3f38f3b6ca96d5d261580d1b520aa9e3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/15/nevrologa-vasiliya-generalova-arestovali-po-obvineniyu-v-moshennichestve-v-ego-klinike-lechat-autizm-dietami-i-izgnaniem-parazitov
+title:невролога василия генералова арестовали по обвинению в мошенничестве в его клинике лечат аутизм диетами и изгнанием паразитов
