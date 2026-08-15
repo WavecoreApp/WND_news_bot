@@ -50613,3 +50613,33 @@ seen_titlehash:5d0ac68e8f4ceb6ff76de8423759547a5daed1c8e7c912e3878e20f4c3b9d78e
 seen_reason:processed_not_published
 url:https://dw.com/ru/киев-ввел-новые-санкции-за-незаконный-вывоз-украинского-зерна/a-78377989?maca=rus-rss-ru-all-1126-rdf
 title:киев ввел новые санкции за незаконный вывоз украинского зерна
+seen_urlhash:df658d1948ca2fe71236e0c1f89cae75f2eaf473343338cc8eabf6f77bf4763d
+seen_titlehash:92cfb57108905b79a9d4a1935ebe03eba467d261160e8fb73428b515c4371748
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/15/fears-for-missing-sydney-teen-who-hasnt-been-seen-since-leaving-for-hike-on-wednesday
+title:fears for missing sydney teen who hasn t been seen since leaving for hike on wednesday
+seen_urlhash:020db8323de49eebafbd2e878a463e83c1656ae22119db2c0ff5e945bba6be64
+seen_titlehash:21dcffbfdb19fc94802388f98c5ee53cd70ca84f7f9bbb162b2d3418e694ea64
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss
+title:at least two killed as magnitude 7 7 quake hits indonesia
+seen_urlhash:b472b79ff1b17cebba466c171b2b685e5825e1639a871410827075688189490e
+seen_titlehash:df1698b90c683c124552a09ba5bbf2b9a4409caf8fec5d7e7f729c5c9fd8b050
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss
+title:mangione pleads guilty as polarising ceo killing reaches new phase
+seen_urlhash:72f2b40a9014b01bb5c325bea710340deaaad242bb7cc0122683d59bc8227aa1
+seen_titlehash:a7748d5e3daea17cd5c67c78a9bec41ec0c4d6c5516afad021e8a4182ffb18be
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss
+title:buenaventura residents criticise state neglect after colombia s earthquake
+seen_urlhash:9098a9be2418d3894e625655c40e1b039d735fad93a31c7bb964958337c10c09
+seen_titlehash:463ea864f0449b35f45b08bd3bccb7b477dd4d3d1e681c6462cc459ea22fa380
+seen_reason:processed_not_published
+url:https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197
+title:powerful 7 7 magnitude earthquake strikes indonesia
+seen_urlhash:ed18fb7bf230c229672fe8c1db5164e4897154475ec8a6e774f323ea3588ed96
+seen_titlehash:2deb63b854655b3acacc829ef8403fb2193ecd5f03c1e8e6ed7c34cb11e16324
+seen_reason:processed_not_published
+url:https://dw.com/ru/власти-венесуэлы-освободили-131-политзаключенного-после-переговоров-с-оппозицией/a-78378040?maca=rus-rss-ru-all-1126-rdf
+title:власти венесуэлы освободили 131 политзаключенного после переговоров с оппозицией
