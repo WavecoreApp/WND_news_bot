@@ -50788,3 +50788,68 @@ seen_titlehash:937ef3ba3fe475ef38530e7a0f13224d3678927a4a48291dc88191eddd34cdab
 seen_reason:processed_not_published
 url:https://ft.com/content/19b608a1-a32d-443a-9319-b3d9d5c7d2be
 title:should you bank on a banquette
+seen_urlhash:e82f681c76e47042b50c616b1cf2a83c52d506c588a01d153388dc8ea45b348f
+seen_titlehash:2d8d6a629580ecfb692a5cb5a383ccb1d7e807552a1d65d09f9385b5ebafb503
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss
+title:bbc seeks to subpoena trump s family members in panorama lawsuit
+seen_urlhash:75fe4e4043bef5345a12a88ce04ee20ceaaf71940656e1305bb98a67e82b8599
+seen_titlehash:e2ad7d9ff4fec83ae6f40e896af3aacbbeb0de3c3ac92f5a241a32f1222417ac
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss
+title:europe s scorched landscapes seen from space after summer heatwaves
+seen_urlhash:a54e74f8cea3a733af5ba1355108510f4efef4180a48cd61956653d307db21ca
+seen_titlehash:8e786fc89752e86ed2e776e2e1ffecea613f92eb0739d0c6c25850333189996c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss
+title:the polygamist s creator says women see themselves reflected in her netflix hit
+seen_urlhash:95272964f75957dc6d59e8a5035e4d068fa41652491e92473b1371546cbe6331
+seen_titlehash:db1a8ba93ed9277f8756aecd49601be84fb02c4953f0862ce142b0f9321d4b22
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss
+title:air india pilot s reported cannabis test what it can and can t tell investigators
+seen_urlhash:383c17a703c3bb2f7b4115f2bff29f8f26786354f0a7d20a4efc5b02dcb7357b
+seen_titlehash:558024a34676aa4e84aefad6cc152ab60765ac7e558c5580e68292089879b7f3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb
+title:my heart breaks into a million pieces emotional tributes to kumanjayi little baby at alice springs funeral
+seen_urlhash:831109247ab2c382c7e9fd303618cc410ce7472dc2ac14fc97f59c5c4bffb068
+seen_titlehash:ea32f258c1892a9369707d632cb3aaaa9bfb45b59d74cc3e38ef5f3061b10c72
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss
+title:morocco boosts ceuta security amid calls for mass migrant crossing
+seen_urlhash:7f7c3f5bfbbb3af71c34b59b4ab42a2f9cd9f2f82fbe3fd02aafc1f4be07e966
+seen_titlehash:38dfc567de66acd9f0fdc8d7cf9ab0ea5a98f7c23a509697a2ec5b02d987f96b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss
+title:on the ground in indonesia following 7 7 magnitude earthquake
+seen_urlhash:972e600b9df486d4066b0e07f03c1ff40f0a95b4597751a544b8577ff4bf3322
+seen_titlehash:1b8b147be4178bb62cf743a32a49a77f23501787ed1d6ed67cd1a53325f3fa9b
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss
+title:taiwan passes defence budget after record delay retains drone funding
+seen_urlhash:251fbc6ef65f4ba2e1b3d992b0f1427e61614073a2df6cde6ffaffee8280f858
+seen_titlehash:2c781cd3d3c032d2ea474dffae0b5082525899bcec9234f89cf0d51497caa077
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss
+title:iran says no decision yet on a return to talks with the us
+seen_urlhash:03760c41fffe9eaa3a3fd8902f2ac2223350b37e81af669841f8b39b7c5baede
+seen_titlehash:a4feefbcdf97c1d1f3fc448488bf57d3edc1785f7a78c0793de01fb22d80829e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss
+title:what we know about the crisis aboard the uss lincoln
+seen_urlhash:fa69089d03c7603ba55c5e76a3ad2b5cc4cf4b04b47de8a2fa18fee08e462904
+seen_titlehash:f1540439fb73f6a7a946852d823bc164e38e4b91b916a7ec2f13e9b6e3d0ec7b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196
+title:trump dismisses concerns about conditions on us aircraft carrier
+seen_urlhash:5d38a876d7c490bf400f31181546d1ae4861c868606860515bccd187417971a2
+seen_titlehash:1437c03b0732b027c4e6affabbc377a51381863aa94e1971669f88035645fa7a
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control
+title:middle east live trump threatens us takeover of hormuz as iran vows to retain control
+seen_urlhash:4ad0869b297140079f33c04c8951c6455d9a1003665472f09a1de3a3a4e524f7
+seen_titlehash:94d5b126bd10626c9644e1e25fffe8127d593ebb981cd338a600e4a216dd5b4a
+seen_reason:processed_not_published
+url:https://dw.com/ru/5-лет-после-прихода-талибов-к-власти-фрг-не-принимает-афганцев/a-78350869?maca=rus-rss-ru-all-1126-rdf
+title:5 лет после прихода талибов к власти фрг не принимает афганцев
