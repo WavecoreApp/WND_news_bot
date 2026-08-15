@@ -51763,3 +51763,23 @@ seen_titlehash:b2117b82178ebf760d5a0f1de5f5edcc30e795c114a9edc7c7161008dbcb6acc
 seen_reason:processed_not_published
 url:https://dw.com/ru/землетрясение-в-индонезии-десятки-погибших-и-обрушения-зданий/a-78379562?maca=rus-rss-ru-all-1126-rdf
 title:землетрясение в индонезии десятки погибших и обрушения зданий
+seen_urlhash:93780dcf4bd55b04d0b1e310773c28ba1674c404eb756d3d918acb458c01d162
+seen_titlehash:db049c546d4766d494d929cd053276cd3bad73d20c45160b05085604ab3d9459
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb
+title:australia news live pauline hanson opposes major gun buyback agreed in wake of bondi terror attack
+seen_urlhash:c2a41ba8d3dd1f544536cff72a8c7faa2aec702310eacde440d059df64efb2dd
+seen_titlehash:945f5e3b70c5781d2f9a532c3c4f78c09d9f678b87a1a447188d843e70036351
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss
+title:us democrats finalise major shakeup to 2028 presidential primary calendar
+seen_urlhash:02eb43c9074a3c1c1f9544acc90822f363971b7f258891f367bce0d694158aec
+seen_titlehash:4ad6cef49b2fc2078743a0090b974652ed637d8a204329fb709a5eb56993b918
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss
+title:why is the latest ebola outbreak worsening
+seen_urlhash:a2498f40bc18e9b5e20a14e13cf85587e423aaaed5fb18e84ae0f317ed9e332e
+seen_titlehash:225a1a8e728ec3dc887a4353a615db4939403421057356f893d250b748024ed0
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-берлине-прошел-технопарад-рейв-во-имя-планеты/a-78385754?maca=rus-rss-ru-all-1126-rdf
+title:в берлине прошел технопарад рейв во имя планеты
