@@ -51838,3 +51838,58 @@ seen_titlehash:b3bc6c196bb5c0fa8c23aae915d0208963f4d08db0f9b082414bfc47ca151086
 seen_reason:processed_not_published
 url:https://dw.com/ru/россия-атаковала-киев-и-кривой-рог-есть-погибший-и-пострадавшие/a-78386243?maca=rus-rss-ru-all-1126-rdf
 title:россия атаковала киев и кривой рог есть погибший и пострадавшие
+seen_urlhash:461a2caca8cb22cf62f736da23cc607cff46d807f675fa4f3cd6198897036b1c
+seen_titlehash:78ba13467f96416b7e217041ffb2733e70fb25887f99be7e52e2a0482bf34fb3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html
+title:after women in india joined protests online harassment followed
+seen_urlhash:b531898e340a4ab1bf640c88277a356a368d3ccf1fcf8c5024c22e2548c8162b
+seen_titlehash:cb4151a7eb3bce0c4b2e93b7f94b888f92547e538b709c9a4d0e23bec145b653
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html
+title:with priests scarce in rural italy an african pastor is filling the void
+seen_urlhash:f931a9afb659cb61b2bb4f0a52b9a6116fa2ca3ca28ce5535a5311aa9536b4b1
+seen_titlehash:1ccc42c607390fb11767ce9fc42d7f17e57077e48b25326b16d044cf64e9e256
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake
+title:rescue teams search for survivors in indonesia after powerful earthquake
+seen_urlhash:7142c23f9fbda8fa9f1627b98558e6d734ca483812d230648e482d923c0ad925
+seen_titlehash:e7a18d33226431ddd6f6a211b4d7c6af1ce830546b954ab0f29325418c8c1634
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss
+title:yemeni government forces hit back after new houthi offensive
+seen_urlhash:372ba768ae9e2a77fa0b9dada76d548af0443a1efff9666efaba02948ecad297
+seen_titlehash:fa72aa9e4e46a50bc43d90b481cb5e5e71e53105394a064f710804ac4a5f565f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss
+title:who killed tupac what to know about the trial of duane keffe d davis
+seen_urlhash:39d2c408ca554458e2789f0ea3eacef398e00f6d352d236fd230663d7b7c836e
+seen_titlehash:d30c754a581923f08da20c96a34a6612abf067ac56e5612b30af8241e25e9ee7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss
+title:observers say zambia s election marred by reports of intimidation violence
+seen_urlhash:39a7ea20868fda16c1974b66fae1fedccef6627a18744daf35b0355e7d9c042f
+seen_titlehash:a92b067714f4d7ea9d710db5e35907f9795dfef32d87d738b25c731482205a9c
+seen_reason:processed_not_published
+url:https://dw.com/ru/опрос-поддержка-правящего-блока-хдс-хсс-в-германии-упала-до-уровня-2021-года/a-78386319?maca=rus-rss-ru-all-1126-rdf
+title:опрос поддержка правящего блока хдс хсс в германии упала до уровня 2021 года
+seen_urlhash:d6a32518729fa8531ded20cd0ae9188ce8fa1caa029060fffb248a2b20a3f57a
+seen_titlehash:7faaadabd0bfc1062507d79d726c49b7deeb4df43a8e0b073aa7ef0bce915e8e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/15/novosti-dnya-15-avgusta-2026-g-vechernij-vypusk
+title:новости дня 15 августа 2026 г вечерний выпуск
+seen_urlhash:81a30aded6dd24206e4d3d0fd429cfa247285d41979cd9faabb57eb0ac6e9171
+seen_titlehash:3c784a8678a248caf18927f5adcdc8c12300ecd741edb91059b7ce59e23be53e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/15/novosti-dnya-15-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 15 августа 2026 г дневной выпуск
+seen_urlhash:dc9da484225902a2c3b226b23852e2d44bb75713c89de9913535d68f29a4e3c9
+seen_titlehash:2a40799d0745a6ce550254a3e8c1379cc5a59f9be71342982472c0a48e193188
+seen_reason:processed_not_published
+url:https://ft.com/content/f063b38e-61c0-449b-aca3-968b903091a1?syn-25a6b1a6=1
+title:malaysia profits from data centre boom
+seen_urlhash:457ba5c41164de6b32a0c3e5f9382d5e403b902daee512318022c5ca3ebc2287
+seen_titlehash:c782b95f370fd8a21c8a9575c91daa9f6d64ea0ceef059d0d41f2712b1274a82
+seen_reason:processed_not_published
+url:https://ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1
+title:singapore inc hopes ai access will stop finance high flyers moving to hong kong
