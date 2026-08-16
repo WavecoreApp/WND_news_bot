@@ -52728,3 +52728,43 @@ seen_titlehash:22a717eba63da6b04520b314689ef380942a65066ed6cefc89cdb4273e230ec9
 seen_reason:processed_not_published
 url:http://ru.euronews.com/culture/2026/08/16/thieves-bypass-security-to-steal-four-renaissance-artworks-from-a-museum-in-sicily
 title:воры обошли охрану и украли четыре произведения эпохи возрождения из музея сицилии
+seen_urlhash:7e2f35473c24e8ad876b000fced6b3e243bdd0ad8e7fe4928722ed6f78c6d89e
+seen_titlehash:916f5e07b17924eb9c42d7a68de3070c7d09243d33479058807440f5da29243f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss
+title:trump envoy kushner meets hamas leader to push gaza peace plan
+seen_urlhash:363bebf7047996a6a7adf5b0d75a708a060127f3e2818e38286df612a4797257
+seen_titlehash:5e7fb68ce493b0e98ad7ceadbdad8fb9b7407fa865955e9e937755cc38beae86
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html
+title:kushner holds talks with hamas to advance trump gaza plan
+seen_urlhash:fc27378a4706f94f2e10bf8f9074dde67a48d963b8def9772920326982ff7a86
+seen_titlehash:0e35c511bb2c3c29197f8b783b1b4afc57f62ac7b1944a0074eb29a964afe420
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss
+title:erdogan says israeli attacks on lebanon are a serious concern for türkiye
+seen_urlhash:387d1881a6b343ac3e7a9d735103dfb8af0df35b78d9130f83950c4875d3a787
+seen_titlehash:136b019d63b619df0c4195cfd670faa2bb6a448003a6d46d9a659b800443f0f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss
+title:kushner meets hamas leaders in egypt to push trump s gaza plan
+seen_urlhash:981f5fbc40375888b370a91dcf7c70277c0f0bba4ac4d690fdb4cd4b2bf74e2c
+seen_titlehash:80111f2880bbb2935d7dd3a02b38fb4ff6bfae424c534b119ee5ece15490533c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss
+title:erdogan calls for strait of hormuz reopening amid oil disruption
+seen_urlhash:4df26ad36578bf3b66737e6e237f28f13d559af28c5fd835b6bb96f0328587b4
+seen_titlehash:862cc92a52e7930c77e1654611470926091bd40918acd55e6d935605bd45f803
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine
+title:drone and missile strikes kill 19 in russia and ukraine
+seen_urlhash:49af643b4046469b5111a6439d3a2427c5d9106f74ec1693bc76c6e7aa0d2684
+seen_titlehash:cdf5550678f44b61c120bbff0b281395f8354303e473db50c8748069b8c9879a
+seen_reason:processed_not_published
+url:https://dw.com/ru/бербок-обвинили-в-участии-в-церемонии-на-которой-почтили-память-боевика-хамас/a-78390027?maca=rus-rss-ru-all-1126-rdf
+title:бербок обвинили в участии в церемонии на которой почтили память боевика хамас
+seen_urlhash:435ad120532fb8df9d4d3ed3934b1744f61eb7d36604861e8342f854a38e5e14
+seen_titlehash:2491e3c7497c365ad4f16ceaf13b1b6d5a877a7b3a3ccbdf5da8e4c4a6afffaf
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/16/2-chelovek-pogibli-v-ukraine-i-rossii-v-rezultate-nochnyh-udarov
+title:12 человек погибли в украине и россии в результате ночных ударов
