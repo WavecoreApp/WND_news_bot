@@ -52803,3 +52803,58 @@ seen_titlehash:0f10bd6276f57014af720e5268a17b95a623e8b3fbe16fa6b69e19f8a9eafe6c
 seen_reason:processed_not_published
 url:https://ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1
 title:far right israeli minister advocates killing 30 to 40 gazans each night
+seen_urlhash:9f1bc49041ec5fab75eff1c233c0e21d2d95dfc705395db5f9fe46983afa678f
+seen_titlehash:c1cd216d68214aeefcb9dd49f6fdd70ee501e07e50ac4a82b9a046db58b6fcb4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss
+title:trump says us to scale back military drills with south korea after it stayed out of iran war
+seen_urlhash:f9b5b07b847fda862c6a6789e6dcef7beafeb0c31be88d6e52bcf0cb3e8f2815
+seen_titlehash:901fa80ead374b233d1045c3ed06f5cdf83dd2dbb13450109548e10579812dbb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss
+title:us commander says mental health a priority on uss lincoln
+seen_urlhash:1d807dc8fac09bbf113431f6163f760af1944ebfcea942b625fafbf22de65e92
+seen_titlehash:5392b212f79473fa9d3e22f8dc6918c1305fcea11a19dc89fd901089f4eb439c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb
+title:australia politics live nationals argue gun buyback is against constitutional clause featured in the castle
+seen_urlhash:a82d8957e2933dab933b4678713d3c01c8afad98f5d8fb2b1d3bd34073dd9dfe
+seen_titlehash:12ae9a21828aca0e66f81aba95946baf22282998c9662e303d9c63521cf166da
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss
+title:hundreds of migrants arrested near ceuta border in latest crackdown
+seen_urlhash:b2f154f666f98b51c84d11e640ce276186e4bbada721246ddef273c4bfb09ad8
+seen_titlehash:f729a379764093ab5a4fba34c1fdf0fb3b9038a035f3f7d9ba9c95073d0178ab
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss
+title:anwar ibrahim malaysia between the superpowers
+seen_urlhash:3074bcb11208065daae8ea4e47c45003bd2bb11c8d259c83b79a01a364e5d38a
+seen_titlehash:501eff8dc652ebe5c859b6526e5fc1d8c94eea3b2e3b83e445915e81f4962326
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss
+title:death toll rises to 84 from capsized ferry in zimbabwe
+seen_urlhash:4fb18fd7a1000269e5108698230d1fc23e199d778dd3c560fc61997644edd15f
+seen_titlehash:4626301e7dc3e035e41ff52a209a94cb54f019ef3b95faf9234e8c3fe359737d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss
+title:israelis harass palestinian owned cafe in iceland tear down palestine map
+seen_urlhash:d5ddafed1b49da46b2bed83c0ba13db130c0b89938c2afc6215588a61fde5fc4
+seen_titlehash:548b229f036196ca7f63ae0ab63f91296059785df465e4f8668fae1030c3e06f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss
+title:erdogan says hamas acted sincerely criticises israeli attacks
+seen_urlhash:b8ae097f7c15fccda2234de1dcd2a40b2747e354212a1ecd36d8343a1cac4e61
+seen_titlehash:5a16304fc9c4dc532bf304b9b46804daf190ea38a94506066ef3efaaeb69fe6b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time
+title:cameroon beats malawi to win women s africa cup of nations for the first time
+seen_urlhash:b8ae097f7c15fccda2234de1dcd2a40b2747e354212a1ecd36d8343a1cac4e61
+seen_titlehash:5a16304fc9c4dc532bf304b9b46804daf190ea38a94506066ef3efaaeb69fe6b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time
+title:cameroon beats malawi to win women s africa cup of nations for the first time
+seen_urlhash:8388a2aef469417bfb4f6aad0381550cd950e53be2a83b57341e09a57a194222
+seen_titlehash:3ea7c4bb316d453c540f54b16c3a97e8a12282dc734a8010492a1c70159328d8
+seen_reason:processed_not_published
+url:https://dw.com/ru/лесные-пожары-в-греции-и-испании-унесли-жизни-трех-человек/a-78390529?maca=rus-rss-ru-all-1126-rdf
+title:лесные пожары в греции и испании унесли жизни трех человек
