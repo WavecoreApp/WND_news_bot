@@ -52008,3 +52008,33 @@ seen_titlehash:4652a8da32f07b3f729629d85e9c4d952e103ab58db8f941734b91d528183c5c
 seen_reason:processed_not_published
 url:https://ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1
 title:can we stop with the public blasterbating actually
+seen_urlhash:a9aa80caba4b9a442be8a7a85da9285e192f17a915cdfaa52b8f6b5a9c82ec2f
+seen_titlehash:7de0f547de460da0d7ce3e5287d336d4e13978570c4081f2d9e18eba16caab65
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss
+title:twelve killed as polish bus veers off hungarian motorway
+seen_urlhash:e279fa89ee9e6b85f17b6fc4bfc8f3b70e26bd9b39ef79af6567abee27b44687
+seen_titlehash:38d6fde29ae0511310d5a97b790243331b090794e14c40400512744b7c234633
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss
+title:ufc 330 makhachev secures record setting win against machado garry
+seen_urlhash:6c7ad2cc03dc91409e436eaf7863e4787fb634b8bce3224c8a206dc158980cfc
+seen_titlehash:cefc95d31e24da3395614e2f0c1436bdc64d9ff2c4af50f329e4d7dd6acecc9f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss
+title:bangladesh make history with first ever test cricket win in australia
+seen_urlhash:275b12266d37bf4d4767a3b6b1100a8ebbf3ee542fb1c032b721854defde9f4b
+seen_titlehash:8d22e891ba3e16ff869a68d6a775e1c8f82354127727170dbbeb16ddcb59be5d
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake
+title:thousands of evacuees await aid after deadly quake on indonesia s flores island
+seen_urlhash:92f5fa52467d3fefd9eb61190cbf6a406c7d05ff42aaeb4dbfd3e8f708a55dae
+seen_titlehash:383c13d95182f04961b1603595cee3d2b24a2be8d2fbb3a253c44fcec4efa1cd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/16/pranger-linden-tree-of-grossporthen-900-year-old-tree-with-a-creepy-history
+title:дерево позорный столб из гроспёртена 900 летняя липа с мрачной историей
+seen_urlhash:7185ebe31a4955d8eb6e902a3f4a646e6b800dccd27d0b5c9f9b5760290187e2
+seen_titlehash:ece9ceba402f59880df4c92642c7c5e47c44277e2ce78d8ffc30ea066a3e6e7a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/rossiya-atakovala-krivoy-rog-i-kiev-est-pogibshie-i-postradavshie-minoborony-rf-utverzhdaet-chto-porazheno-proizvodstvo-komplektuyuschih-dlya-raket-flamingo
+title:россия атаковала кривой рог и киев есть погибшие и пострадавшие минобороны рф утверждает что поражено производство комплектующих для ракет фламинго
