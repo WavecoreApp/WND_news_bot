@@ -51928,3 +51928,83 @@ seen_titlehash:9907b24421cf4c694d4606f76585003e4c4323d560ee77fe2a800565a8b0032d
 seen_reason:processed_not_published
 url:https://france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv
 title:live moscow targeted by 600 drones overnight explosions heard in kyiv
+seen_urlhash:68fc706426e3373d8e107bc58d94edd16eba5f359533d1f72d580e8b2b08f0c0
+seen_titlehash:faf87f40ac9314cbb18c69c0e24d4bf6a757553a85d24fa945be18b330109bc4
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss
+title:how a simple lighter has become the backbone of life in gaza
+seen_urlhash:112ae0335ed28f444b1989d03bf142fffaa16bc5283427cb6253da2e13265110
+seen_titlehash:2a353933e25969a39bd2baf5c68f0c3e43a93f6a71d190f90a80478456cb16f3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss
+title:a nation divided what do israelis want in october s elections
+seen_urlhash:2e9d63e355b87e8874cf5f7e7011bbbe8a37f415ada1e1d2c4f2f9aca35f75ae
+seen_titlehash:a25401e1fb98b282e80fc4adcc3ba6e6e7004a3d284d73090f0109dee28b9268
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss
+title:indonesia s magnitude 7 7 quake kills at least 51 displaces thousands
+seen_urlhash:2910a09e9e2b46b543d5c0394e0c5c7904d5ff4e2c02519471454c3f47d45a00
+seen_titlehash:6ea6db07fac0310b8341727be68a1afebdb3f47b91ca805c3d20b7807dc08711
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire
+title:eu sends aircraft and villagers evacuate as belgium battles record wildfire
+seen_urlhash:0f6842cbe10ad617fd5b2c1c9b3d68fb0aff39a8fc5cd2b3128294449aac0f9d
+seen_titlehash:8d98288bd2b3fba2dd215a996b9786a763eed6376197a5c84213711ce2a6681a
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake
+title:colombia s new president asks trump to suspend tariffs after deadly earthquake
+seen_urlhash:09a485dd6103661ae9aeed5d323df4c7c34b777d0c27297909477db3be4e4656
+seen_titlehash:a348e3342f3da5b9c1869facc6f15c8cd3c0b4ee1331a98565fcd1a18e2e5975
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-нанесла-массированный-удар-дронами-по-москве-и-региону/a-78386764?maca=rus-rss-ru-all-1126-rdf
+title:украина нанесла массированный удар дронами по москве и региону
+seen_urlhash:7b52b44138014207d9ae64196fb44fb90793cce0f0f33f874822de427f80c263
+seen_titlehash:9a5f959e6b3a50964c1086af8f9152972a66c0823a8b4cb91d50e4c1b814b74f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/16/exploring-andorra-the-best-things-to-do-in-the-microstate-aside-from-skiing-and-shopping
+title:андорра помимо лыж и шопинга чем заняться в микрогосударстве
+seen_urlhash:810ef905eb0e452ab1639474576ef432412ff5f2028174fec0e304317235bd4a
+seen_titlehash:c1f5557f9c94dc3892eb04d61655bfc62e7147a07637a7e7ab7aac8675d4e553
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/ukraina-atakovala-dva-sklada-v-podmoskovie-v-rostovskoy-oblasti-v-rezultate-ataki-raket-i-dronov-est-pogibshie-na-moskvu-letelo-600-bespilotnikov
+title:украина атаковала два склада в подмосковье в ростовской области в результате атаки ракет и дронов есть погибшие на москву летело 600 беспилотников
+seen_urlhash:aefa44278eca7ca56f505697d6d32535c1cb118d0ac2475a74d1823f67bc9ff1
+seen_titlehash:1b854a9469d65790e80bad6b509ffe5463b01c8a511cbfefed366519e7c5d394
+seen_reason:processed_not_published
+url:https://ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1
+title:most us voters say they are worse off under trump ft poll
+seen_urlhash:97af2bb904ee2ed70c71004f1200fcba0fa28d3e1a9e3dd1618b8fefd6f57500
+seen_titlehash:acbdea7995ffcd9ebd960e9571d5709ea39d93e2eeef7eadfda56e7ae26a7a3e
+seen_reason:processed_not_published
+url:https://ft.com/content/729477cd-3551-4345-8c7c-33603b293556?syn-25a6b1a6=1
+title:harvey nicks deal hints at department stores hidden potential
+seen_urlhash:019811b2a104bcaa1ec8b0d3663b749a0cc9dc375f57ba1a98d8c67d1ac0882f
+seen_titlehash:1146e64ca7882a0b836cb2fae01c4d0bb190e8d58090a1f59745c65ba6f1a2fc
+seen_reason:processed_not_published
+url:https://ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1
+title:world s largest carmakers seek to avert motor oil crisis
+seen_urlhash:3ee60111eb2a026aeea6eb3bf144d8834898bc512906a6b7b1425d3e536ff8bb
+seen_titlehash:e3b801dc6f4f1b2ef383ad2c6990f93814feb1722c85c3f599b7215204b46c8a
+seen_reason:processed_not_published
+url:https://ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1
+title:are americans making peace with the spectre of socialism
+seen_urlhash:32c6f9ed17e932590add46bf524902e25ceb43339218410adb435106928d66ab
+seen_titlehash:0ca143c050e145d21294311175ca0419c60c4f0ef2c45709c5cdb60f56919d6c
+seen_reason:processed_not_published
+url:https://ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1
+title:european companies count the costs and gains of extreme heat
+seen_urlhash:8ec70c0cb5de9d2ed7a59f9f1a3c5b9110189e4e31f35461c48a1dcbdca00bba
+seen_titlehash:1a20a724f3da9addb92c72e48d596a8f6d001abf5d8de83d826b1aae97b8a8b8
+seen_reason:processed_not_published
+url:https://ft.com/content/1b318ce4-75ef-4f68-8db5-f148dd00fe9f?syn-25a6b1a6=1
+title:miner ferrexpo caught up in dispute between oligarch and kyiv
+seen_urlhash:d502bbad04446023ed07fb2e9e9254560291937f4e6a836da0c5a563ab9d3118
+seen_titlehash:9eeb137433176b9fcb4fa99264c17eb43663672e841f9f9e08046584494a78b3
+seen_reason:processed_not_published
+url:https://ft.com/content/ec03d429-acd7-4121-a22e-daeff3d84cf4?syn-25a6b1a6=1
+title:the italian university benefiting from the post brexit student shift
+seen_urlhash:b170adc7f26d9c0bcad5e2d6c92f0eace5be23e7ab8f8bb68273b456f132a78d
+seen_titlehash:4652a8da32f07b3f729629d85e9c4d952e103ab58db8f941734b91d528183c5c
+seen_reason:processed_not_published
+url:https://ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1
+title:can we stop with the public blasterbating actually
