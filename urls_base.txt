@@ -52518,3 +52518,88 @@ seen_titlehash:81fdf2d58933fdfad2c94e47ebac2e56b03a8dc735f296e506b7d40f9d8a6be6
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/16/the-times-ukraina-nachala-ispolzovat-britanskie-bespilotniki-dlya-udarov-po-tselyam-v-glubine-rossii
 title:the times украина начала использовать британские беспилотники для ударов по целям в глубине россии
+seen_urlhash:9f078564051ea5421186f28448efa6130f62b5e513ebff644de816b711361441
+seen_titlehash:3610bf17f8cf048f6d469d45aa9413bac375e359c9fa184c9d0e0745d016d361
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb
+title:nazi artefacts still being sold online years after trade outlawed across australia
+seen_urlhash:eac795eb525074d3680d4c5adf32a5f6991df00b4e38d07651262e9aa2eb311a
+seen_titlehash:22463d8f76f90763757ae02084f26752823d447018a78d5a74d54bb35d7791ad
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella
+title:australian health experts fear us vaccine scepticism is catching on as anything trump says filters through
+seen_urlhash:d86b279b71b4050c5daeb7d5e78ead5e1dd167b6aa5f5edad4234969ab537326
+seen_titlehash:c173038dba3bcce2ae2845683c9c77edbe2e6dce36175c0a020462a767b983d0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding
+title:the pm called sally mcmanus a giant of the labor movement now she just wants to go birding
+seen_urlhash:6f4122f0c6f3c2c84a118cfb22d0f7956ed3e4f47027e24177a731055d32811b
+seen_titlehash:4d17b102c5ef0f6e425d33ded50ef5895f481982e3c2ec487ce28389f3c195b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss
+title:moroccan migrants stage sit in as thousands remain stranded in ceuta
+seen_urlhash:8e3dc8815d9320fc14e1781b96e31b036d43f6b967e0c328d3f63e857f0d97a7
+seen_titlehash:6accf6f1f6ac537240e542f4c43918da3257befa2f870a3ac3a08f54ffc9cf88
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss
+title:largest ukrainian drone attack on russia moscow says 822 drones shot down
+seen_urlhash:a22c91c0db615dfbda9df1918290aecde9c3c42dcc960c92208ee67a758117c0
+seen_titlehash:4d5ed4b126df3d883a0842f7ea9b01d9c4918eb02bb7173ddd075be88128ba60
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss
+title:hurricane lala weakens to a tropical storm but flooding persists in hawaii
+seen_urlhash:a5b308920c2d1ac010597147655ade713653264dd9dcfe31c461b96723b2b448
+seen_titlehash:c985145e057ddfa83b0ed2f375f0ff5e9678eb90b2fed8b6969b77137080e756
+seen_reason:processed_not_published
+url:https://news.sky.com/story/two-die-in-spain-mudslide-as-belgium-battles-largest-ever-wildfire-13573708
+title:two die in spain mudslide as belgium battles largest ever wildfire
+seen_urlhash:52d5218c895adda7dabf880e62af0fb0d4867079e5aa2bfc50ec99e07e9b6b70
+seen_titlehash:cb647670404bb9fc6ce3f99b44b871f9da020aebc5698f14d1d2abbca3b08de1
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers
+title:iran offers 30 000 bounty for killing or capturing us soldiers
+seen_urlhash:47b7c86336b120f9ba62cde5616361676d13540bdff7e79eee890672e0bcf7bb
+seen_titlehash:1a5e3ee02f37aa5bad2f5e85e4ea7b49708a419bc46b9a2ca0dea93bc9d56450
+seen_reason:processed_not_published
+url:https://france24.com/en/india-modi-courts-youth-amid-growing-criticism
+title:india modi courts youth amid growing criticism
+seen_urlhash:7d0f579f23827637f0e24d6b0731eb2e5146667b96c924672bf395b20d680eaf
+seen_titlehash:eacd19f88720ed5205b11783511040529572b44604442f68f8fa7069c0e12217
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market
+title:ukraine russian strike destroys kyiv book market
+seen_urlhash:2dff085e9effa7cad6923b58e07285b7b2348409668aaf319dfbb97bef2403f4
+seen_titlehash:33d5002c30a956c6d4d496c4b1ee01ee6a04ddbd709a3a2fb9afe16b78dd9a47
+seen_reason:processed_not_published
+url:https://france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra
+title:west bank activist recounts life under settler siege in qusra
+seen_urlhash:7e8c8eb064163b991332805e2d891ea495140ca0aae1ab7406346a8c87d20238
+seen_titlehash:25ff06f8c49dc6851b1c0da4dd770ec8efb17fe2b8c55e7c4d69176c51da9b65
+seen_reason:processed_not_published
+url:https://dw.com/ru/хамас-обсудил-с-главой-управления-разведки-египта-соглашение-по-газе/a-78388961?maca=rus-rss-ru-all-1126-rdf
+title:хамас обсудил с главой управления разведки египта соглашение по газе
+seen_urlhash:4b56efe81f6f0954b5031fbe495a63654304373f6fa2c0cc2391e5430bda3c35
+seen_titlehash:f6419099413f0df88c2b65f800b58ba4f4aabf9cf1b9fcf93c4ff924ade10c5c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/16/fires-europe-belguim-germany-france
+title:европа в огне в бельгии крупнейший в истории пожар движется к германии
+seen_urlhash:16906aebdef61516af39300f4cfbac86f71ac775e3d8e428c5f76295fe2c45e6
+seen_titlehash:aeccd4d229fc33ac8c803ba84412bfd47317f5488556885218a7713c579a2dd6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/16/britanskaya-policiya-sluchajno-raskryla-dannye-po-delam-mohameda-al-fajeda-o-nasilii
+title:британская полиция случайно раскрыла данные по делам мохамеда аль файеда о насилии
+seen_urlhash:f3c4e17d113e95ce1843fb70644303c60524664fdeb6a5e3fe41097643646220
+seen_titlehash:55ae67f1b165d97dc617a6b2dbdbb1822f07403d2a53c4914d13831d353adca3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/the-bell-veb-uvolil-glavnogo-ekonomista-andreya-klepacha-posle-togo-kak-v-smi-razoshlis-ego-vyskazyvaniya-o-porazhenii-rossii-v-voyne-na-istoschenie
+title:the bell вэб уволил главного экономиста андрея клепача после его высказываний о поражении россии в экономической войне на истощение
+seen_urlhash:a366b5e0fe91f6db2032b6ba6d2cfa09259270265f951263012165f3ab81e003
+seen_titlehash:022462b15be056a336a0fb38180516cc67240e058541bee06d3e2dbc464c4c3a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/lihtenshteyn-izmenil-pravila-nasledovaniya-trona-teper-ego-smogut-zanimat-zhenschiny-no-uzhe-ne-v-etom-pokolenii
+title:лихтенштейн изменил правила наследования трона теперь его смогут занимать женщины но уже не в этом поколении
+seen_urlhash:6840541f999138aa9216bd6db8a4a37a01be713ab747388165aa77288a005900
+seen_titlehash:3d271fbcf608384483538dcf76a9469b2144828702969868f2b9834e0ca56e70
+seen_reason:processed_not_published
+url:https://ft.com/content/c2ee0910-ee7d-4a36-bf5e-697c7ade93a2
+title:don t dismiss the mini middle powers
