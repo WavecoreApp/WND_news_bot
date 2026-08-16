@@ -52193,3 +52193,68 @@ seen_titlehash:fb752629229652f9acd7fd1d85319399ad292b85ae23f56160f1c3fdc81ead11
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/16/strany-persidskogo-zaliva-nedovolny-trampom-potomu-chto-on-ne-mozhet-dogovoritsya-s-iranom-i-dumayut-otkazatsya-ot-razmescheniya-amerikanskih-baz
 title:страны персидского залива недовольны трампом потому что он не может договориться с ираном и думают отказаться от размещения американских баз
+seen_urlhash:7c2497a419b122219770f5fcd68f4b806b9f65b0917b5c04481c8f42148d752f
+seen_titlehash:3dc1068a98b20d0ddfd5d4cbb658ffd03934c4a39560f951bd744f25eeea65a0
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss
+title:mohamed salah s trabzonspor debut ends in draw with kasimpasa
+seen_urlhash:6975e85681db11fee15b5ab8a5fea33a6cb735cb9dc5f50ab8f5f87c4e73e9f6
+seen_titlehash:84a6a75ce613acb0809b52137439625a0b7f96c0cd503a6f660566390ef5ba96
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss
+title:live video captures panic as gunman opens fire at park in kentucky
+seen_urlhash:0c66c570e1b96894bf92f7d7e7a9e5a68d02991174479b9ddcc7699f406ba646
+seen_titlehash:8e2e1560eb08fec7c42283544573dada77ebe2b4bd29c01b32eb0cd8d02b4bdb
+seen_reason:processed_not_published
+url:https://news.sky.com/story/multiple-people-killed-and-others-injured-in-motorway-crash-in-county-kildare-irish-police-say-13573112
+title:multiple people killed and others injured in motorway crash in ireland
+seen_urlhash:74ebafd1670c07b50db920da5fc00c07fc2679bee38f03c0a05707c5856d9aff
+seen_titlehash:45075e6029dbe62c107e40c5aca6943af45e0036661997d7178f1d338c3c9a4d
+seen_reason:processed_not_published
+url:https://france24.com/en/south-lebanon-doctor-describes-escalating-humanitarian-toll
+title:south lebanon doctor describes escalating humanitarian toll
+seen_urlhash:78183d5c24c382c0d3f7eefc42aa39205bde23b8ba4dd931c7bff0dd756eac2b
+seen_titlehash:40c557274e89a145ac72997eebfaeb902d10fdf24c1d651eeead3486132f4332
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260816-chad-opposition-figure-succ%C3%A8s-masra-speaks-to-france-24
+title:chad opposition figure succès masra speaks to france 24
+seen_urlhash:f10a4ae4a6546dec157aeee5ee4e60179a2f71878c1b6149d7f9dbc87cacab8f
+seen_titlehash:1d7817cb4798529194886c8bebb4966b39efb89218fd2b6c01486d9f08ee6655
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown
+title:wafcon malawi and cameroon face off for historic first crown
+seen_urlhash:a4ad1ba7e5bd0a4b41c9a64589e1dfc48588e8a4f7168ca63d30e64e308c4ed7
+seen_titlehash:8898cad07ce6037bd8797942f4f117c02f3c1665d91dae74a1c7061c2b9d5beb
+seen_reason:processed_not_published
+url:https://france24.com/en/why-france-s-under-15-social-media-ban-was-blocked
+title:why france s under 15 social media ban was blocked
+seen_urlhash:0105791451d7377d752e294eef7f1f1ef916f46dcf2d7dedc5d7d912186ddca2
+seen_titlehash:4f9a533bc345635750664ab21d850fde831c08af4434f196d96372abe6d3ae1c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-все-больше-сирийцев-лишаются-статуса-беженца/a-78387504?maca=rus-rss-ru-all-1126-rdf
+title:в германии все больше сирийцев лишаются статуса беженца
+seen_urlhash:0eecde4faa628a15915422d21dec6c26def30d73cb3f2d53522b6d778915188a
+seen_titlehash:59c2221767a8854c533c85af7687421e081595421c215a5d8ac3093627df47c5
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-аварии-с-польским-автобусом-в-венгрии-погибли-12-туристов/a-78387097?maca=rus-rss-ru-all-1126-rdf
+title:в аварии с польским автобусом в венгрии погибли 12 туристов
+seen_urlhash:bd80a5b4c8b30fc759ba7d1fd4681487b17f0d5c646d3e5e0e6c7aec95688402
+seen_titlehash:5fdd5988a65abf434c9c61a626e0f50b3fcb4c14c9e12b13eae8ef1f582998ca
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/togda-snimayte-vseh-yabloko-nashlo-u-parlamentskih-partiy-bolee-milliarda-rubley-pozhertvovaniy-ot-donorov-s-zarubezhnymi-svyazyami
+title:тогда снимайте всех яблоко нашло у парламентских партий более миллиарда рублей пожертвований от доноров с зарубежными связями
+seen_urlhash:a16dd6871f13a6aafa391f55a18e22b04c35ff7c9d518ff79dacf9b14eddfec4
+seen_titlehash:ec490d331cb3f6fdeda0372e055b438d4da240d75c063152b1622d1af0ad0236
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/16/na-krayu-ouk-strit-devida-roberta-mitchella-nostalgicheskiy-trip-s-yuenom-makgregorom-enn-hetauey-i-mehovymi-dinozavrami
+title:на краю оук стрит дэвида роберта митчелла ностальгический трип с юэном макгрегором энн хэтауэй и меховыми динозаврами антон долин посмотрел на тираннозавров птерозавров и аллозавров
+seen_urlhash:2316d921fdad07a4b392c3477b72c0d6e6b8b29b74fb65496b8afa73e88accff
+seen_titlehash:6780975e2f413d15cd4009bc57252e02c787ad4e4d4616bdc7346e12a843ccba
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/16/pyat-let-nazad-vlast-v-afganistane-zahvatili-taliby-posmotrite-kak-seychas-tam-zhivut-zhenschiny
+title:пять лет назад власть в афганистане захватили талибы посмотрите как сейчас там живут женщины показываем кадры из фотопроекта кианы хайери no womanʼs land
+seen_urlhash:e94900df3816d43522a47227b1c2f44b50d3488965a5687fd28eebd53d664625
+seen_titlehash:a79d1331870e6f177108393a44d57479453d72a3075c6c8922e9119fa8095f59
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/olimpiadniki-v-etom-godu-zanyali-bolshe-poloviny-byudzhetnyh-mest-v-luchshih-vuzah-rossii-a-na-nekotoryh-napravleniyah-vse-mesta
+title:олимпиадники в этом году заняли больше половины бюджетных мест в лучших вузах россии а на некоторых направлениях все места
