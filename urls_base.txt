@@ -51808,3 +51808,23 @@ seen_titlehash:268f1dac364c33740dbe48b712b6614635bd97d29c21c3b046e46e478e5571d4
 seen_reason:processed_not_published
 url:https://dw.com/ru/главный-приз-кинофестиваля-в-локарно-получил-фильм-румынского-режиссера/a-78385786?maca=rus-rss-ru-all-1126-rdf
 title:главный приз кинофестиваля в локарно получил фильм румынского режиссера
+seen_urlhash:f7e5a8fc09852a45cdf3c3d1339084eed41a73ecadfaa9349ac7db6136fb2a73
+seen_titlehash:8539a77bb2232186d87f07fa75dbfe00a41d8b033c6b3af75e8f71f204beb297
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss
+title:as petrol prices soar electric bikes gain ground in nigeria
+seen_urlhash:0acf598cbec5380f56b3ac81922e10ab26fc49dc488b60033ffbcb5306a73cc4
+seen_titlehash:8059aa2ae0732b838ae289f34825c64956303617dc9e29ba7f86b294cb3dcf31
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss
+title:army drops roses on syrian crowds in a far cry from war
+seen_urlhash:2abb3c255396d50ddf51f36e457d45926263a30cd43a1451dd0ada006a45dd2b
+seen_titlehash:b8fabafed111c272d14f1166278cae960cb12da111764c6793b9cf1d840b1df6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss
+title:hamas leader heads to cairo for gaza talks ahead of kushner visit
+seen_urlhash:ef510460e1e1da360d451b6ed4320cc2230b083453c5c53f42a88e7edc39858b
+seen_titlehash:e308c701a57a167e043402d3c90a08cc459d135614d6e0fd4e56fd15db1550d2
+seen_reason:processed_not_published
+url:https://dw.com/ru/власти-марокко-задержали-более-сотни-мигрантов-вблизи-границы-с-сеутой/a-78386150?maca=rus-rss-ru-all-1126-rdf
+title:власти марокко задержали более сотни мигрантов вблизи границы с сеутой
