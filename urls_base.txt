@@ -52858,3 +52858,38 @@ seen_titlehash:3ea7c4bb316d453c540f54b16c3a97e8a12282dc734a8010492a1c70159328d8
 seen_reason:processed_not_published
 url:https://dw.com/ru/лесные-пожары-в-греции-и-испании-унесли-жизни-трех-человек/a-78390529?maca=rus-rss-ru-all-1126-rdf
 title:лесные пожары в греции и испании унесли жизни трех человек
+seen_urlhash:ce993781bc8483668353efe31313fb76d8b8fdf6cd6becf33bf986ab996a4dea
+seen_titlehash:7457d11c5bdceded7a533510c018a93b771c31ae23a15ed9d0960dccd091f3d7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss
+title:thailand has a gun problem 10 million of them
+seen_urlhash:a545e4e473019569847dc28c7958a4fe2f4d0141746506ad13ebefaf522e917b
+seen_titlehash:7cca59f0019410bc52e88a82f9cb208f2336e67df4630641d76ebde314441c95
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html
+title:liechtenstein changes its law to allow women to ascend the throne
+seen_urlhash:b1e33288ac82fb4f594683de493ea0934d9dda1ca3e037dce0ccbab2558f77f7
+seen_titlehash:825f7dff3a11a2ff25c0603f932ff2953cf82b424d47be3092cd467edba92738
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss
+title:what could stop israeli settler attacks on palestinians
+seen_urlhash:86a242428d88d5f2d5e6f5c929ace67636e9f07c8c58ee3931633bd2d37e6662
+seen_titlehash:495d666cc46d0f2eceeedccb3402d072449b58ced2922b44b71a32f80a45d20b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874
+title:ebola outbreak in dr congo now deadliest in country s history
+seen_urlhash:725db82fb69e56fb56229fdee772a26fe111c73ba1175b0ebd4ad9291ed6357b
+seen_titlehash:6bb29321cc383db8bdb5b803a46b2bdbbb87b1119cabbf5ef7b860d06b075ac0
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-киеве-снова-прошел-протест-в-поддержку-михаила-федорова/a-78390580?maca=rus-rss-ru-all-1126-rdf
+title:в киеве снова прошел протест в поддержку михаила федорова
+seen_urlhash:25428c1f32eccfb9c9dde423093a2d4856b336f014c5e800a8692e110629c1a1
+seen_titlehash:8cbc3507d67df23e106677c60361b86a559da77f5cbd1053e54453d0b91c859b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/16/novosti-dnya-16-avgusta-2026-g-vechernij-vypusk
+title:новости дня 16 августа 2026 г вечерний выпуск
+seen_urlhash:ed889b0f56099e0393b8f3d37fd8da9600c77ae6f55be60c588aa0f8f5e7a0fd
+seen_titlehash:b160ba023471c7cc6a267385b5c6159db9bac9b9a9c60a94bd95bf7f287b52a9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/16/novosti-dnya-16-avgusta-2026-g-utrennij-vypusk
+title:новости дня 16 августа 2026 г утренний выпуск
