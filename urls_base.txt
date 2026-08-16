@@ -52478,3 +52478,43 @@ seen_titlehash:dbcafcb47f986d8de085c1f4d6b9b3d18ec7d931f6c582ad2691d5c30773cbe6
 seen_reason:processed_not_published
 url:https://ft.com/content/757c4938-614c-4829-9d8f-7320917e6753?syn-25a6b1a6=1
 title:farage s fruitless by election gambit
+seen_urlhash:fa08367e662f3298e560be22212791138ee3587ad1f0a7a90c21acf256f91f6d
+seen_titlehash:78e6b221553c00f71b8b800ef292b708069fb236be1db71be1f0c7374e05a2f1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html
+title:art heist 4 antonello da messina paintings stolen from sicily
+seen_urlhash:d8f4f0e08e3b27473400a85d9e481faedc64222099143760f17c70d03a2bb03b
+seen_titlehash:aa783056ffc9c26333d17b1514bdae99aae106d22b611d97ae4fa858efbe6f20
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns
+title:deepfake anthony albanese used in celebrity scams duping australians out of 7 4m asic warns
+seen_urlhash:b8be1ab2f0c30931f015a55b50d2848f4ab57da9d5f61aeb360fb95d65664f1c
+seen_titlehash:c9c3b8f8ec7ea43c901e9789710a374df62ba786699c0a3e857fdd6dd8ec7ee3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss
+title:the mediterranean is a bridge not a border
+seen_urlhash:d27f34d2b4903a1c572efa08fbb0e8f1b8598d9d7295d59a4097a5519c61679a
+seen_titlehash:14751497b141253569d60b746209f3d5f5779067e087b675ffb49be435b0627e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss
+title:ben gvir calls for nightly killings of palestinians in gaza
+seen_urlhash:10556dd3ddae8c0c6a946a74e6088509d21ce14583b1cf7d7a1ee316d79204fe
+seen_titlehash:3e9fe660bd5b5fa1e15913400e92c8d58649ee281d2319cb3c4aea854fbc7cb1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss
+title:what is tokyo s yasukuni shrine linked to japan s wartime atrocities
+seen_urlhash:f8babc9f26aaaeb8591dd05157aa8bed8e05c0d06a1dac8c19c3f7d306e78ed9
+seen_titlehash:4eb7b57789dec8f341dd20e61f85c40f6c95e6b309400dd4f3faf812e6a317c5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss
+title:who is dei critic and jason arday accuser nathan cofnas
+seen_urlhash:e0aa88b7c5f734754aa6ffb6067a34bbc5abd486601a835a3b9eea02dfeed620
+seen_titlehash:bcd2c86dd8119bcd45ac8e4848c426a1293e518e091c36521ff16a2c9ef05a1c
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-сицилии-похищены-четыре-картины-художника-эпохи-возрождения/a-78388877?maca=rus-rss-ru-all-1126-rdf
+title:на сицилии похищены четыре картины художника эпохи возрождения
+seen_urlhash:fd2ae544a80c78160cb90ec6d5c52debd191faa196280408d840a160cd2696cc
+seen_titlehash:81fdf2d58933fdfad2c94e47ebac2e56b03a8dc735f296e506b7d40f9d8a6be6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/the-times-ukraina-nachala-ispolzovat-britanskie-bespilotniki-dlya-udarov-po-tselyam-v-glubine-rossii
+title:the times украина начала использовать британские беспилотники для ударов по целям в глубине россии
