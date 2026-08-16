@@ -52603,3 +52603,43 @@ seen_titlehash:3d271fbcf608384483538dcf76a9469b2144828702969868f2b9834e0ca56e70
 seen_reason:processed_not_published
 url:https://ft.com/content/c2ee0910-ee7d-4a36-bf5e-697c7ade93a2
 title:don t dismiss the mini middle powers
+seen_urlhash:1ec1bba3a1905565534c5ba26c70505cff21ad014b1207be5ba3d50afb64aa53
+seen_titlehash:b3b4502813eabe5d47138f62ec3085ad26996f6d584519f033a05a0daddcb4f1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss
+title:two dead and evacuation under way as fires break out on greek island
+seen_urlhash:c5889646a53f0b202dba472600fdb6b8f168cab4103d83d92986853038261165
+seen_titlehash:a2cc732c8b210cb4f04029085bf9c248206db943a00ed6e668df6f1c6eaea2ff
+seen_reason:processed_not_published
+url:https://news.sky.com/story/cristiano-ronaldo-says-it-is-probably-his-last-season-13573763
+title:cristiano ronaldo says it is probably his last season
+seen_urlhash:8ab628f64537c64f92df7d37292a85625f5c88553dff4ea5dd3142b961d324dd
+seen_titlehash:31393f46671da096409d8e597f8ae0689b516ec3677d605485d285d9407409d5
+seen_reason:processed_not_published
+url:https://news.sky.com/story/four-renaissance-paintings-by-antonello-da-messina-stolen-on-italian-national-holiday-13573714
+title:renaissance paintings stolen on italian national holiday
+seen_urlhash:dcf0c8ce58c8f5e64eca0e212da683818a645591660313ca0226fe72d9feb1bb
+seen_titlehash:3966d130a348e01e0ee1acf9c1f13cfa7efe4012c79ab9556cfd1137182eef3d
+seen_reason:processed_not_published
+url:https://france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition
+title:senegal saint louis centuries old pirogue racing tradition
+seen_urlhash:2add73b683da5eab0e4e8da579c4ad21f7e452c57ee70da8ebc5e332d6d84067
+seen_titlehash:b269e03861e822ff7f299a69f729007cddedfc2a897a3c72c7b9e2ebe4bb6cb3
+seen_reason:processed_not_published
+url:https://france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily
+title:italy four renaissance artworks stolen from messina museum in sicily
+seen_urlhash:72e7f3300d7fb909d15ab218a633a8fcc3797ae3debd89a2d7fe8aa9c2753325
+seen_titlehash:705cc9d86c2e053ce508772e8faa68282ba98459f8578bee924714b6d19de0e9
+seen_reason:processed_not_published
+url:https://dw.com/ru/ранхигс-учащиеся-девятых-классов-в-рф-все-реже-переходят-в-десятый-класс/a-78389146?maca=rus-rss-ru-all-1126-rdf
+title:ранхигс учащиеся девятых классов в рф все реже переходят в десятый класс
+seen_urlhash:73be6b83e0d1b38bf3e7d18095f5de4556a42620dce1d92531b44b535400ce48
+seen_titlehash:334634ea35fa3e0696e24367e5f58a3f5902024ea6154b5142fa23d5d5ea7804
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-россии-в-автобиографии-папы-римского-франциска-скрыли-части-про-лгбтк/a-78389006?maca=rus-rss-ru-all-1126-rdf
+title:в россии в автобиографии папы римского франциска скрыли части про лгбтк
+seen_urlhash:180b36f79bf43cd2bdd6efa37158ba225df99df9f6b0b77d76c793a634f7685e
+seen_titlehash:93dfcbaf8a8b3b664f651786d4487b2e6d79e054158ce9ff58bd53e097f23b6f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/rossiyskie-sportsmenki-vyigrali-komandnoe-mnogoborie-na-chempionate-evropy-po-sportivnoy-gimnastike
+title:российские спортсменки выиграли командное многоборье на чемпионате европы по спортивной гимнастике
