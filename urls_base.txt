@@ -52038,3 +52038,33 @@ seen_titlehash:ece9ceba402f59880df4c92642c7c5e47c44277e2ce78d8ffc30ea066a3e6e7a
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/16/rossiya-atakovala-krivoy-rog-i-kiev-est-pogibshie-i-postradavshie-minoborony-rf-utverzhdaet-chto-porazheno-proizvodstvo-komplektuyuschih-dlya-raket-flamingo
 title:россия атаковала кривой рог и киев есть погибшие и пострадавшие минобороны рф утверждает что поражено производство комплектующих для ракет фламинго
+seen_urlhash:4dbe83158796dadac7c7ecb6716e77e03b4923686808a7e8fd5b3888018b1567
+seen_titlehash:238d6acd3896e250dc89cf1e1af2d80eb41973707b67fc172e5a939027780b93
+seen_reason:processed_not_published
+url:https://news.sky.com/story/finlay-tarling-fury-over-death-of-teen-british-cyclist-during-portugal-race-13573615
+title:fury over death of teen british cyclist during portugal race
+seen_urlhash:e66cf0af7563e9893bd8490600ec30c8b97cf337a0540181a4f3e2cdcbad52da
+seen_titlehash:074fe64eb9aa4963fe7c08ca82ba64dcdf0f4c5782c00a5df65b11d126152498
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace
+title:spanish fighter jet downs drone breaching romania s airspace
+seen_urlhash:91cd6976d3a35f54b8c94f4044b3fdf02f366b0a9e4e5842eadd2305757059f1
+seen_titlehash:360e2327b277f63df01febebba552067d4157da611e9162a8b6c05a801387f3e
+seen_reason:processed_not_published
+url:https://dw.com/ru/над-румынией-сбит-дрон-нарушивший-ее-воздушное-пространство/a-78386832?maca=rus-rss-ru-all-1126-rdf
+title:над румынией сбит дрон нарушивший ее воздушное пространство
+seen_urlhash:489d7f3d43f43dfaaf82abb5b5b2505b86e58ccab4a4c3e25538332c831d92c7
+seen_titlehash:abb7e5938f98a5075881fee02806b7b74998844d483b5a4deecc5dbf6c57f533
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/16/uehat-zhit-v-v-druguyu-stranu-eto-odno-no-kak-tam-vstat-na-nogi-i-vystroit-svyazi-mozhet-postupit-na-phd
+title:уехать жить в в другую страну это одно но как там встать на ноги и выстроить связи может поступить на phd инструкция о том как стать доктором наук и точно ли оно вам нужно
+seen_urlhash:e9d038ceffe4365ee69a30e5da30b79654f101c868958fb53d733c2eee97c19e
+seen_titlehash:a847930b22ab79068e8baf6406714f38a739fd0730e68016c14a5e521858dfe7
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/16/komary-ne-prosto-nadoedlivye-no-i-opasnye-nasekomye-oni-ubivayut-sotni-tysyach-lyudey-kazhdyy-god-i-borotsya-s-nimi-vse-slozhnee
+title:комары не просто надоедливые но и опасные насекомые они убивают сотни тысяч людей каждый год и бороться с ними все сложнее
+seen_urlhash:618e52f7f827a5e306a078a5066924c77dea1fcc5a91b0862f9d0213c0fe6425
+seen_titlehash:ada92e61c2b25cf93f8ab27aaa9575be6622790a0c2378abcd633322641932c8
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/16/v-rumyniyu-v-noch-udara-rossii-po-ukraine-zaletel-bespilotnik-ego-sbil-ispanskiy-istrebitel
+title:в румынию в ночь удара россии по украине залетел беспилотник его сбил испанский истребитель
