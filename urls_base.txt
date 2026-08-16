@@ -52768,3 +52768,38 @@ seen_titlehash:2491e3c7497c365ad4f16ceaf13b1b6d5a877a7b3a3ccbdf5da8e4c4a6afffaf
 seen_reason:processed_not_published
 url:http://ru.euronews.com/my-europe/2026/08/16/2-chelovek-pogibli-v-ukraine-i-rossii-v-rezultate-nochnyh-udarov
 title:12 человек погибли в украине и россии в результате ночных ударов
+seen_urlhash:54288a2899c33dad5b804e125302360c91ff013a79acd4ceaae7ca465a540eb6
+seen_titlehash:096284be7dfd347566e4e46e7bf1f709dc3ca718d0c87ba615b622141cbfe3eb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss
+title:us admiral praises uss lincoln crew amid reported mental health concerns
+seen_urlhash:8c85493205caeb56c4a83391256c0fcaa19848a4ea48d01d17163ab1ffd8946a
+seen_titlehash:bfd4da07f02ab67b713f15af4ad2dc05cdad4781fb5f636266beccc8a7cc585a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss
+title:brazil lula bolsonaro return to strongholds to launch runs for president
+seen_urlhash:9f280bdf80c32b6746418cf1e44b2ef5131af2bd3b739809ab84a97c165e5cf0
+seen_titlehash:079b3f9b60a459205e85632d0bda03aea2d6b0212dc62164da53e21cd6e46a07
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss
+title:us iran mou is set to expire what to know
+seen_urlhash:0548954a87b656a242b9b7688c35a7a930f66deeda445924fb051673f1186419
+seen_titlehash:73689721462bd6537676617df1046dc54d853fe4693c6915af5f24c6908a6ab1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss
+title:senegal s saint louis regatta keeps centuries of tradition alive
+seen_urlhash:542c8168fe81ff705f7ef46d63df2c736c884d49b48d8765ca25d6458e685fbc
+seen_titlehash:1d0317e99af51305add2dd96187c2368fee574088db4ee5035b66fd95fedbb0f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss
+title:anti corruption raids in baghdad as dozens of officials arrested
+seen_urlhash:00fb730a15210809ed80f3ee58e3d65eff571c1cd276e201f01fcbbd8f552e91
+seen_titlehash:ceb3d805da7760be857c909d2a765be6bad5a2f5b3ca038267ad46d86237a90c
+seen_reason:processed_not_published
+url:https://ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1
+title:jamie dimon warns uk chancellor against higher bank taxes
+seen_urlhash:5bf8f70e98b340bab291b251d495d88b42738bdb268d50a65aa8fcbab44300f4
+seen_titlehash:0f10bd6276f57014af720e5268a17b95a623e8b3fbe16fa6b69e19f8a9eafe6c
+seen_reason:processed_not_published
+url:https://ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1
+title:far right israeli minister advocates killing 30 to 40 gazans each night
