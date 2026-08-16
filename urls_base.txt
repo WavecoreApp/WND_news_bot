@@ -51893,3 +51893,38 @@ seen_titlehash:c782b95f370fd8a21c8a9575c91daa9f6d64ea0ceef059d0d41f2712b1274a82
 seen_reason:processed_not_published
 url:https://ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1
 title:singapore inc hopes ai access will stop finance high flyers moving to hong kong
+seen_urlhash:741f29b08138d80d851263776d047a1da75dbf12e64cd651490632110c781f82
+seen_titlehash:db6c76a57b03ebc568b4955de850912debff58d4fdaf49a2bff041a731bef2c6
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy
+title:japan s defence minister heads to australia to meet marles in wake of melon gate controversy
+seen_urlhash:bc07b653bf19b632ca2e56430b7d1de76f1926981aabdeb004d074e97cc30ac8
+seen_titlehash:1f7677aa03be3af832253f012e804207a630930af00727273c91556f388ce155
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss
+title:russian strikes kill ukrainian woman as nato jet downs drone over romania
+seen_urlhash:4679236b3dce5cc88db72cf43044762cce1d72b2dd2ca3e04acf27c45c41d9ae
+seen_titlehash:7c3ccadeaab2733639194e531aa4706c9e2a93da35760fcc0104db407d438a98
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss
+title:israel strikes south lebanon again as families flee north
+seen_urlhash:6599cf51e66dcb0248812c2d285cec47bf134f539083eeb73288e3726272c31c
+seen_titlehash:eb904694f37c3612a132edcee63f1f62e2515e50b3126b44f46f6a0b1e6151d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss
+title:australia gun buyback spurred by bondi attack to start in november pm says
+seen_urlhash:31bf1710a2c77b1da80845d2bd21bb7218be48adb4a5bdf06e7bebe6b328b290
+seen_titlehash:3aadb1c4fbcfb32c62f5e2404c53362fd85b8e33c6dc7d80e0956a80729e1dcb
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies
+title:spain flood and landslide kills two injures two babies
+seen_urlhash:9aed6ec056579a886ab15fa16c5f677cf8847de5d6df3433a2844bbd81a6db67
+seen_titlehash:18366a54cd7fab765c31fde5d6c22d4ef2aabffb7608b71543b5217c9bb8cfbf
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260816-france-s-l%C3%A9on-marchand-wins-first-european-title-in-front-of-home-crowd
+title:france s léon marchand wins first european title in front of home crowd
+seen_urlhash:3174d1fe4babc76ef9aa79aa559acac5fd003f707d1497d01a5f0e04e4949e54
+seen_titlehash:9907b24421cf4c694d4606f76585003e4c4323d560ee77fe2a800565a8b0032d
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv
+title:live moscow targeted by 600 drones overnight explosions heard in kyiv
