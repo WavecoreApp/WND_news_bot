@@ -54223,3 +54223,53 @@ seen_titlehash:ca633a6be97f04fefa89f394235157e547f81f6b80c6725ea798462941702f6f
 seen_reason:processed_not_published
 url:https://ft.com/content/9472e6dd-7b51-48e9-91fa-1f59412e0093?syn-25a6b1a6=1
 title:ebola outbreak becomes dr congo s deadliest
+seen_urlhash:d0c8efffd291743ac93647dd826f263c8aa81213a8e8b642b285955a313c22be
+seen_titlehash:ae68a9cf83df978b5be026525a7067ad5668a04d1a1ab9efb55dbc540bc6c59f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss
+title:russia s prominent anti war politician jailed for 11 years
+seen_urlhash:b6eccfb345a86cfbceca24645770be8138a110839ed5563a5b41c836ec135aa7
+seen_titlehash:d4133ebceb4f0671fcc4d01e46df0d51899dc59cab65ec863f7bd41cce491425
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html
+title:trump orders pentagon to curtail military exercises with ally south korea
+seen_urlhash:64b9150556bb7afca5b8a1d332d4c8c9616fcbe25cce4dccd7da6ab181a742e0
+seen_titlehash:38e2977a9dd08b5b0e33798bf507bc775b1e6f06cc728c133ddc9041c87283fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss
+title:somali army clashes with rebel forces for control of key city baidoa
+seen_urlhash:a7f5792d3ab6f2eedb43d3a018b5b2472ca4ba91918659251446f4497e904b92
+seen_titlehash:734ecca000c4874e97f41bff1d0673feb63426bbca31b85c2eae8918b2375521
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss
+title:democrats rebuke trump over scaling back military drills with south korea
+seen_urlhash:3884878010e8059088515f4aa9b11aba3aa348e861cdeab54a8b201ac01766b5
+seen_titlehash:a78dc1dba886eb9c3e1375aa6fb8711d0b8299403cdd6786027763a5829eec88
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight
+title:токийский фестиваль превращает улицы в грандиозную водную битву
+seen_urlhash:5e2e38ca5c6a35bc30e505b89666c12cea2d052a67faf97b4c31d5f9e5628e6a
+seen_titlehash:3b9d60b530ef7767caea255df0aa91c9429c3ef0e8fa8c8cd7cc738b56fd06c0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/17/stellantis-recalls-955000-cars-the-new-blow-to-the-groups-credibility
+title:stellantis отзывает 955 тыс автомобилей новый удар по репутации концерна
+seen_urlhash:3069cba38631893ef93b6f297c5f8a6fc87838f51f79048b49708af6f81914d8
+seen_titlehash:5328740d36b74a29c2eec3d4954fcc212d6e739a0940fe47f08065bbe37d4b5c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/mintrans-utverzhdaet-chto-dokument-usilivayuschiy-kontrol-za-poezdkami-rossiyan-nuzhen-dlya-sbora-statistiki-chinovniki-obeschayut-ispolzovat-tolko-obezlichennye-dannye
+title:минтранс утверждает что документ усиливающий контроль за поездками россиян нужен для сбора статистики чиновники обещают использовать только обезличенные данные
+seen_urlhash:cb1c60aadfe3e566812c893aa6503ae82c4891656a146c06a702f1cfd484bd4f
+seen_titlehash:5129a8748be72b2e27ce82e2ad838227995d5547efe7fc8bb1891c2f06dc66fd
+seen_reason:processed_not_published
+url:https://ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1
+title:chelsea shareholders walter and boehly in talks to sell stakes to clearlake
+seen_urlhash:7c64e52a9e1dcb5caa1ee373256aca3a117927db6e9f50865e1bbd95d7904b54
+seen_titlehash:72ffaadc3b182915b83550859e8cf73ecd4b3e20f6a99ae4ce8ecdcfc3d164aa
+seen_reason:processed_not_published
+url:https://ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac
+title:crime and punishment in the middle east
+seen_urlhash:ab0d0a1c1bbce7c1d0de47a596d1b8feb28d73c27092d7e1b482d6a287583f40
+seen_titlehash:a52c81b35cf1ff6517ac386192b5ff2c7185f8254158e1a49105c7468e079998
+seen_reason:processed_not_published
+url:https://ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1
+title:russia fires economist over ukraine war warning
