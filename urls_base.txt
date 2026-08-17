@@ -53998,3 +53998,123 @@ seen_titlehash:6dbc4abcf3272de19c26e7857db3a303082e6c05548552de98257619d1a39452
 seen_reason:processed_not_published
 url:https://ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1
 title:nvidia to invest 100bn for openai data centre in ohio
+seen_urlhash:166ba41f2b9ce89be0d13b17bd4673f031e1ae4b71b703eaefcf59184a40e558
+seen_titlehash:51077666c0bccd621b0fc641e197f2cc0528231a31e3bf8ab62569c41ebc3afb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss
+title:trump threatens to bomb oman if it gets in the way over iran issue
+seen_urlhash:37d824b367f30e76fd34ed4a7e894891c3f4562bb620c5ad58840ea39b46a02a
+seen_titlehash:324a94e4d52881f4e4f8d91e8bc489ab1fa27df6dc3aa4e16dbb0c954c759c7a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss
+title:us hiker dies after being struck by lightning on mount etna
+seen_urlhash:0c8b3aa9e36a579631c2de065ea29d2e119aaa6ecf1137bd61900db7c61fd3ba
+seen_titlehash:8988346ddc269def0c6ba4979c914768d0f64dd42fc8ae89d7f3a129a904c71e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/17/world/europe/mount-etna-hiker-lightning-strike-death.html
+title:american hiker dies after lightning strike on mount etna in italy
+seen_urlhash:b6596fadc31b9f18fb4c37c3c5827dd26d86e885ec9a4c99fab385b060192f34
+seen_titlehash:3fe9ea8789f6158a7ac0b94857af7b69750041f9c98b78c01fa1516ac344fab1
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/aug/18/3m-knew-for-more-than-50-years-that-its-products-could-harm-humans-australian-government-alleges-in-court-documents
+title:3m knew for more than 50 years that its products could harm humans australian government alleges in court documents
+seen_urlhash:d2bbe04de8e317d7b3220bbe241706c8b5ca4612ae49d8744e338062b7a23b24
+seen_titlehash:93512b316ee50d6d2690a8a6347a70c43802be1f1cef7ad6d74357e2987aa7d6
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/18/why-rightwing-critics-are-wrong-to-say-the-australian-super-system-is-broken
+title:why rightwing critics are wrong to say the australian super system is broken
+seen_urlhash:02db095cf3af0b58326d9fc7f36e028251444b5293cff6e4702fbfb2da8d7b18
+seen_titlehash:8728fab142cef1395d13903c4cd7b1787dc9c02f1d307877095de54523d1d1af
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/18/concerns-security-privacy-facial-recognition-technology-coles-woolworths
+title:alarm raised over privacy dilemma of facial recognition technology at coles and woolworths
+seen_urlhash:da3d94d1f7da25a01a5e49cd198946ce4070c183fa85fb62567f6cb496c388f5
+seen_titlehash:d0f8353278d0f7cf3bf96a0ec00a1efad2ea3306c762b52aae93e022ab579b6f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss
+title:police execute controlled world war ii era mine explosion
+seen_urlhash:4fb0faddd7a7f5f8513d5f6759a6e7c5ab91c2220ecc4d279b8134df53b69f8e
+seen_titlehash:069b76a6799ee61531339ea671d108a7a7c26c5946a20265bc3ba78abcc400c4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss
+title:trump demands iran put up the white flag of surrender as mou expires
+seen_urlhash:2e028537bb77594129f70833e74b50a3c23603d7c8a40c82480cb12d9eafc518
+seen_titlehash:a7ab2970eb5cdf3f54515d8937e3adefee1762b55f13669cfb30ecd930ad9c87
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss
+title:iran signals readiness for us ground operations as mou expires
+seen_urlhash:c6a247edf89f8388578821d38d0867766243f5df4c2ec291e5b0ac834732ce56
+seen_titlehash:fa780b11a4bbe75a38bf1e0e8f65fabf061ac80b4f20a45dc9274590be356653
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss
+title:boat sets sail from bristol aiming to break israel s siege of gaza
+seen_urlhash:696af2793e198e135a82dc22043c7e961db3743441923dd2b8312aa795b507d1
+seen_titlehash:9742e327d6ac22cc89833c3d290bd874c448e69b981032fb00cbe0c68d2fa3a8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss
+title:lula and bolsonaro s son launch rival bids for brazil presidency
+seen_urlhash:673e6cb85deff68a48d6f308c44177fe0f88bf0a80abcfa96351d5ef1926a719
+seen_titlehash:6a846e2ea88ee3bf639cc9e768555b8c66cc743e9fcbbd53f3e48e77ef9fe37b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss
+title:global condemnation of israeli settler violence against palestinians
+seen_urlhash:7044078cf955310905b9aa173e39f1b6ca4e461a8f220a9f9a3c03ed83d50e80
+seen_titlehash:aabe66ce0c85dcd65e34bfa1688f4c2c51f03e4bd6786b7cb0abf9ef8a6044ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss
+title:trump hails mecca pact can it replace the region s us security umbrella
+seen_urlhash:8edb47c6eea6d1064245c1d1cc0f7454cc657908af5ff05e57344e4247e505c3
+seen_titlehash:869e06c799b7c4cf856fe5dcc25530b2e211b08b8e75a45102d420e4ed974393
+seen_reason:processed_not_published
+url:https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041
+title:us tourist killed by lightning strike on mount etna during hike in restricted area
+seen_urlhash:a8222ee83056d69fee6bc3e6849f5e63f286fb3369db38349d5e23b4be60b429
+seen_titlehash:559162c3c18baf59fcc49682ef86530672b4a0f557022f0c18b09d0f62ca30cb
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity
+title:russian strike on kyiv book market an attempt to annihilate ukrainian identity
+seen_urlhash:fedf28b25f57b664040077dfe469054bae66e8f11ab5aee344c295619c321850
+seen_titlehash:ef50af010c61a3af98e9548a42d06b3e5eb61c91dc24ebb8ab661ef506bee441
+seen_reason:processed_not_published
+url:https://dw.com/ru/фонтанка-в-санкт-петербурге-из-за-доната-фбк-задержали-гражданина-фрг/a-78401322?maca=rus-rss-ru-all-1126-rdf
+title:фонтанка в санкт петербурге из за доната фбк задержали гражданина фрг
+seen_urlhash:2723a8d7d2b18ffef77316f3497b519207296366bacea533d7a612fd80137d1b
+seen_titlehash:824e54d8f044d61425e39f3dff092a82b74487199b5fcd6f8ba9feddad21ea5f
+seen_reason:processed_not_published
+url:https://dw.com/ru/вс-рф-отклонил-апелляцию-яблока-на-снятие-с-выборов-в-госдуму/a-78394522?maca=rus-rss-ru-all-1126-rdf
+title:вс рф отклонил апелляцию яблока на снятие с выборов в госдуму
+seen_urlhash:d46774af2dd2ebc62ddd4ab8aa6203d329ae40daa076bd5d6a3106f219a6032e
+seen_titlehash:2786925d9e0dd5411658cf24393966dee3e9991dac555609656e4700db79ca01
+seen_reason:processed_not_published
+url:https://dw.com/ru/правительство-фрг-отвергло-угрозы-лаврова-партнерам-киева/a-78401333?maca=rus-rss-ru-all-1126-rdf
+title:правительство фрг отвергло угрозы лаврова партнерам киева
+seen_urlhash:ffe92f0918b42fa56381d886f96224c372aee596fcc59dcda4bcc963f8554171
+seen_titlehash:ec716967c91d38eeb01610e34e6fc406d1ac34b9739b493e5223ff1033dc3e7a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/17/trump-oman-warning
+title:трамп грозит разбомбить оман если тот помешает переговорам сша и ирана по ормузскому проливу
+seen_urlhash:f31a06f72d49a87a24ce39b8d3ca54cd80154e607f60a139ae9d764f02fdbe4a
+seen_titlehash:f1920f523a46f63b51e6a4b53040ae920b2e18414054f3b051b52115646f4612
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/17/being-attentive-can-affect-what-happens-inside-your-body-study-finds
+title:внимательность влияет на процессы в организме показывает исследование
+seen_urlhash:817cddd747ad83f6c8d08d83f5d574b8ae9d930b8f168b7187a721d3991536c2
+seen_titlehash:86e2ae5936d166200c5063002476bcb96c9480aa78b602025df34d9530d75fc7
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/17/nelyudi-chto-tut-skazhesh
+title:нелюди что тут скажешь первые реакции на приговор льву шлосбергу
+seen_urlhash:dbc24f03ffb30a0785f1dec2515489b595c6ad097a61915f3e9d41b37a72612a
+seen_titlehash:9bc4378b83ef9f9adb05de1145887e70e2a2f657d87f7c5348fe23cecdff91a7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/verhovnyy-sud-ostavil-v-sile-reshenie-o-snyatii-yabloka-s-vyborov-v-gosdumu
+title:верховный суд оставил в силе решение о снятии яблока с выборов в госдуму
+seen_urlhash:85d2ad3d01ce5339a9221f58c3cd3b42b077cb7ffa7d8458d5709c5f65aebd25
+seen_titlehash:ee0bf0d82bd0464ebe68865ca305ba5262026259e8dc6ce1af36a9c936511594
+seen_reason:processed_not_published
+url:https://ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1
+title:us tech stock correction likely warn ecb economists
+seen_urlhash:b97420d148b7e347f90aa40fdd49a493aec374d26ef7cea188abaf4fe733ff15
+seen_titlehash:43c47073fc952f63e814f62b5e29d066805d9eda3507c265dbe383e9f33baeba
+seen_reason:processed_not_published
+url:https://ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1
+title:the realignment of the middle east
