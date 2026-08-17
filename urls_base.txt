@@ -54438,3 +54438,63 @@ seen_titlehash:4604948b6deb83076a5bf4a9e2a4c78ff769940f26cde7626e2a5e3f724c5a80
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/17/bloomberg-grecheskiy-tanker-popal-pod-udar-bespilotnika-posle-pogruzki-v-terminale-ktk-v-novorossiyske
 title:bloomberg греческий танкер попал под удар беспилотника после погрузки в терминале ктк в новороссийске
+seen_urlhash:dd93eacf29f042db37ee4dfac2b1686ff02f00a3c0620681e8a44987d28077fb
+seen_titlehash:e46306e6b9c26c71ab1095ca79f7ecaef5ad49bd62d7f525732ef7daec7cbea7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html
+title:after the earthquakes
+seen_urlhash:16abba940530858cea2f007928c3e8668d032ad489e27d18a6b00c8b85132746
+seen_titlehash:7d4383a7cd1855c237cf1d22f4383c853a0061aa1406498189e6cc994ff25982
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb
+title:australia politics live greens say labor and coalition deal on gambling ad laws a smokescreen
+seen_urlhash:5f6ad90746c66ccce489acaadf47c50b96b7c60b54e6f5a3209aacf437b36748
+seen_titlehash:1604cb9bde9bbe8e03793d606f1de5e8b791a8765cb38f353da8b02105ab94ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss
+title:palestinian american reunites with family under siege in west bank
+seen_urlhash:f3a36213bf3553b9b4640b26bcdc2e80fb87034c82ccfd0ad6f642d6e7d74725
+seen_titlehash:aeb285bb8554f2663a40a7bcf40fb56e8615ae12160eda881495d7d66ae8747b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss
+title:civilians pay the price as israeli military activity rises in lebanon unifil
+seen_urlhash:9c9074fb4f726991e5c17b04bd38ef0d6a9a416132e27b841be9c015a168d7be
+seen_titlehash:57087a98791ae60f944c9b2cbed5160b902116eaf6d6ca8a59e694c4de7dac1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss
+title:trump says iran will not make the deal he believes is necessary
+seen_urlhash:a5838f6c6ab319a83f21b8aa7588b3b9a4f27dbabecafa4d9f4aaf6972bfebbc
+seen_titlehash:b836e4b65560b64efdd0da669e3087363ed60bdcad20386c71e197f8a4f0fba2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss
+title:trump loses second supreme court bid over e jean carroll sex abuse case
+seen_urlhash:6fd5d7865ff57b3b509cbf3b1eb3acb212e5ba7dcdcb1805fdb01344ed6ea50e
+seen_titlehash:0d17a029077c95ad31c74c09bd9f956b7598ebe059db606d7199c46ffd370c3d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss
+title:torrential rains flood homes and roads across lima peru
+seen_urlhash:83d9f01f34d50b897abaf30048cff0acba1763356fe9482326c16b88f5907091
+seen_titlehash:067a04136e98f27bfa6939c2e788d4d41880791437c5d6b733c0c07480d38a43
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss
+title:trump s approval rating sinks to new low
+seen_urlhash:285530ebf8e5c83fc7b316acf15229ad8cc3aef70a431d873efc6c516daac27d
+seen_titlehash:ca25fba5eedd79d110fb88ac2aeebd3dc11ea20088326fea6011cce31c5bca3c
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-сотрудницу-совы-составили-протокол-за-цитату-ее-доклада-сторонним-проектом/a-78405458?maca=rus-rss-ru-all-1126-rdf
+title:на сотрудницу совы составили протокол за цитату ее доклада сторонним проектом
+seen_urlhash:cb91aa1f34af847ee17f0703e5002f37d8045f56ca2b850704d0f3ce0ddd7a74
+seen_titlehash:0236399e21c1a50460776c90bd149981a57a3a34b902ce564e8e554e242db321
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/na-elbruse-propala-gruppa-iz-vosmi-alpinistov
+title:на эльбрусе пропала группа из восьми альпинистов
+seen_urlhash:8acea9e096ee4b8fbf57661461e6586957a580e52c610c7c37d6d3c3e6079fad
+seen_titlehash:e6f7d7aa098505dcf285a4b6d1cea42ca2062fdc0e2a764ca96580df5b7ae093
+seen_reason:processed_not_published
+url:https://ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1
+title:firstft trump s eleventh hour demand to reduce drills rattles seoul
+seen_urlhash:f7f782cac8e2fbfbfc3a15c181c458b406778aace32e712546f84227d0c401a9
+seen_titlehash:524f98a801a50d0fe687cda78c4cde3e9d32ce338f61a58371107928313b1e00
+seen_reason:processed_not_published
+url:https://ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e?syn-25a6b1a6=1
+title:mark carney in last ditch effort to avoid trump s latest tariffs
