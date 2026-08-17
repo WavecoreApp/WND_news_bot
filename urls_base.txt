@@ -53948,3 +53948,53 @@ seen_titlehash:db75e96dbbc23e1bab57372fdd6e6e6db424244e8090eaf5e38ff8107fa8e688
 seen_reason:processed_not_published
 url:https://ft.com/content/b9b1c9d7-a7a1-4b6f-bcb0-910ceb025f2b?syn-25a6b1a6=1
 title:uk government to pay kpmg and ey up to 456mn to train civil servants
+seen_urlhash:b8a14e2dfb4ec0ae078081446ff85cc5f301306398b8d017c316543b6b25bce9
+seen_titlehash:60812cd085e67d6282f3b7a212ea3c6a23480aff297745542fc3f70b97f2f01b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss
+title:french serie a footballer yael trepy in intensive care after near drowning
+seen_urlhash:9777eb9a122391075dd7f2971a9bfc981e3f957d9f07a2ab17b81939d7f90a1a
+seen_titlehash:d043588086aa7d98d6ade5e672270f773f1d866693a2f261a823cc3877dbed3a
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260817-new-generation-catalans-tries-rekindle-independence-movement
+title:a new generation of catalans tries to rekindle the independence movement
+seen_urlhash:f13ac68bdf1082a29e4197d5972140e18ea64b8102024d2791e3625374a4c86d
+seen_titlehash:4649f418fd69f2ad4b219db749fae6282a25355e63e8af09e71691cfeed6562a
+seen_reason:processed_not_published
+url:https://dw.com/ru/из-за-санкций-немецкий-брокер-отказывается-от-граждан-рф-и-рб/a-78398928?maca=rus-rss-ru-all-1126-rdf
+title:из за санкций немецкий брокер отказывается от граждан рф и рб
+seen_urlhash:cf2fb789abcab9491329360e1ff1bc18a59e77ad01d8d8bf385aa9156917876e
+seen_titlehash:6b1e0b2dd177cbbdb11e46a9f6d6d0d234b6a35bef3055ce9411176f3156e7fc
+seen_reason:processed_not_published
+url:https://dw.com/ru/исландия-перед-референдумом-сближение-с-ес-разделило-страну/a-78373679?maca=rus-rss-ru-all-1126-rdf
+title:исландия перед референдумом сближение с ес разделило страну
+seen_urlhash:4f87180a4044672367b4112219e9abc503f62052dda77782164c5472fd95b61c
+seen_titlehash:c919292813f6fd80b1d2aee5d656e95deea8220998e4a33ac2211c11d8f8c262
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/17/the-geoid-why-nasas-gravity-model-makes-earth-look-like-a-potato
+title:геоид почему гравитационная модель nasa делает землю похожей на картофель
+seen_urlhash:91f557c08ab28bdc2c2ebbba098dbaa7ed853974248335b98c862b8b00de5ba8
+seen_titlehash:5fcacebacda6800adde375b3548416e3d081691a09d8047a20fbef10a263a5bd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/17/un-on-yemen-war
+title:верховный комиссар оон по правам человека йемен рискует вернуться к масштабной войне
+seen_urlhash:c09a22ee7d20ea0a50468a01e1d3bbfff41cd32907b4dd3cd84e93801d045dd8
+seen_titlehash:56074e9342a247f70f3157edd718dcb2c3badb614c94b765097a301792bdb7a5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/17/watch-viral-footage-of-actors-from-beatles-biopics-recreating-the-iconic-abbey-road-album
+title:актеры байопика о beatles повторяют обложку альбома abbey road кадры стали вирусными
+seen_urlhash:da5b95ab2cb1fc8426bfc378ee1efede381f36e2b3ea33b317513826c8d35899
+seen_titlehash:7073d60d53aba75d7ed9f061a2dff2cf107d9d2af2ee9bc31abb17d7d5136be9
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/17/andrey-klepach-odin-iz-luchshih-ekonomistov-rossii-on-lishilsya-raboty-v-vebe-iz-za-slov-o-tom-chto-stranu-zhdet-ekonomicheskoe-otstavanie-i-sotsialnyy-krizis
+title:андрей клепач один из лучших экономистов россии он лишился работы в вэбе из за слов о том что страну ждет экономическое отставание и социальный кризис
+seen_urlhash:9fda185278198f62e3104f3612348ae4dbb452c4a601527f198f3f61dbf65eeb
+seen_titlehash:e98e2164d46ebd3827811bc18b11202fee1108f50236cb79cdc790d0e817db60
+seen_reason:processed_not_published
+url:https://ft.com/content/49eac9fc-1b9c-4e80-8ed0-c52afc3aa376?syn-25a6b1a6=1
+title:reform s deputy leader tells britons to enjoy heat amid record drought
+seen_urlhash:bd3eb994575bdbf9063288f573dbbbdb7956ca731458ebc0bd89daf8e018830d
+seen_titlehash:6dbc4abcf3272de19c26e7857db3a303082e6c05548552de98257619d1a39452
+seen_reason:processed_not_published
+url:https://ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1
+title:nvidia to invest 100bn for openai data centre in ohio
