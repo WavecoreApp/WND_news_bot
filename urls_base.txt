@@ -52893,3 +52893,43 @@ seen_titlehash:b160ba023471c7cc6a267385b5c6159db9bac9b9a9c60a94bd95bf7f287b52a9
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/16/novosti-dnya-16-avgusta-2026-g-utrennij-vypusk
 title:новости дня 16 августа 2026 г утренний выпуск
+seen_urlhash:af8454ee17b5daf35592e6ae020c32967fa5df829c1add2a28bf4195b1bd11fc
+seen_titlehash:4bfc66cdc5d8d370fef0c1d1891dafab25d3fea8098e212610bc510f537796e6
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history
+title:ebola outbreak in democratic republic of congo now deadliest in country s history
+seen_urlhash:071e4ae90701b73681b5bde67185a93dbcaec3b76fe93e59b0321cc158bc68d0
+seen_titlehash:3f4afaf791faebdccec72fb94b6220a2acc08bec760c37cb766dab52b475a864
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un
+title:trump orders cuts to south korea joint drills despite warnings of north s growing battlefield experience
+seen_urlhash:0e3fb4dccc15d484ee355e90736c4b4569d6b72179490944884cc41e8f970d97
+seen_titlehash:f6cf4486712d138f0372e47a81fa38e4753105f9e404f8bc35b8d9afe01a9879
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss
+title:trump says us to substantially reduce military drills with south korea
+seen_urlhash:2c347b2d0fcd22c18e3b23754011da9cddbb493b327c3529fff460de77c83eaf
+seen_titlehash:50bc07cd1c47cc6f91f53a2813a00f4881caaa57efa8b7c3398116709761e84b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss
+title:israel releases 35 palestinian prisoners back into gaza
+seen_urlhash:693f09e04cc5be4ef06705c280958eff9e4e8b4160e9dc1fe71fb43c188bbf93
+seen_titlehash:8f65d77dd411174517ea1e759fbb1e4a0c63d43c961a4ff44dc32d1b7822ae5d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss
+title:iran war live tehran us mou set to expire hamas s al khayya meets kushner
+seen_urlhash:52929d802fa6371ae835d30bcf3186b01cc1d914cae74ab8fe653e1d5adba5da
+seen_titlehash:05e7bc6faafa2ad69670c1fb610fb99b74985b5e5f5a224a6425ecb0bf2dca4d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss
+title:un s albanese israel outsourcing coercion to settlers in west bank
+seen_urlhash:18055472591ee6a9f8db1a82c53416741da1c98d3d61f90fe10c5e906100fb91
+seen_titlehash:c6ef5917f13c5ea84dfea82da7abe365792b647a2d633243b69431bcd8925e34
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss
+title:israeli minister calls for killing 30 to 40 palestinians in gaza nightly
+seen_urlhash:ad248dabd2ad7c5aa65208524e07ff3e33132156faf64113efbb64f9e16c9681
+seen_titlehash:71a86dfd8fa989b7fb7495c067f00ee4ac47df8389fb5801e469fff5aaf1ea0c
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-объявил-о-существенном-сокращении-масштаба-учений-с-южной-кореей/a-78390621?maca=rus-rss-ru-all-1126-rdf
+title:трамп объявил о существенном сокращении масштаба учений с южной кореей
