@@ -52983,3 +52983,28 @@ seen_titlehash:4d7bf8ca13735efdc756127a911ac43291194028bd9a2a67db242fa822d1f505
 seen_reason:processed_not_published
 url:https://ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72
 title:china s energy strategy vindicated by iran war
+seen_urlhash:88b21748b76eb3da3931a75690663284d9803346cc0e2bae7cc033dd1f323bed
+seen_titlehash:150c0ea7b66206aee3ed741c42000b616f1b1dd443ec2b54e1a5953ce60ca6c4
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/alan-jones-allegedly-kissed-driver-in-wardrobe-james-packer-personal-suite-crown-towers-ntwnfb
+title:alan jones allegedly kissed young man in wardrobe of james packer s personal suite at crown towers court hears
+seen_urlhash:621d02164a4e8939d35236db278d91631c5daa22abbd9aba1b7a41660b0e2c2e
+seen_titlehash:e0b14b64dd34dd99cb96551e32aa86ec3ce0e97964ec3dbfc1c4ea4dd1986ac9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb
+title:report supporting australia s teen social media ban appears to contain ai hallucinations senate hears
+seen_urlhash:42ca493e0c48f99bd788aeded8a5543ac82e8ec09722f108955b729ece83152e
+seen_titlehash:fd8908a97cbd7116298e78a44874843e435ec6a36ddbe859ea1a30cd831444c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss
+title:rare pallas s cat captured on camera in northern iran mountains
+seen_urlhash:b18e629a62cea08ac6aa9dfc492cf021c457ee1afc28a89601a6f313be766404
+seen_titlehash:7ecc3a9c2761912591a0609c4dfe98790240641123bcc56b68c7d10c86e7eca3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss
+title:zambia incumbent takes early election lead as opposition alleges armed raid
+seen_urlhash:1eec054b362834e0e9af67cd7b046d43b1091ca8b4bb929a9a1527ac817adb28
+seen_titlehash:22ca43c1b165f08855531f6ad82cd8303935a070b7744229478eda5843b55bd0
+seen_reason:processed_not_published
+url:https://dw.com/ru/спецпосланник-трампа-кушнер-встретился-в-египте-с-представителями-хамас/a-78390667?maca=rus-rss-ru-all-1126-rdf
+title:спецпосланник трампа кушнер встретился в египте с представителями хамас
