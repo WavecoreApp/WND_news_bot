@@ -54273,3 +54273,83 @@ seen_titlehash:a52c81b35cf1ff6517ac386192b5ff2c7185f8254158e1a49105c7468e079998
 seen_reason:processed_not_published
 url:https://ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1
 title:russia fires economist over ukraine war warning
+seen_urlhash:508a53e0227b97977f2a474f0441efcc5b7ea35c4d96296f172a721347af54ab
+seen_titlehash:066d1a608593060d7ffc69d580fd0913c604aa30406b84a8b062453577718dbe
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss
+title:french pm heckled over wildfire response as blazes continue across europe
+seen_urlhash:8ed80c8db47cf5fd33968889a90a070fcf47064f61d545463744092ea7fc3494
+seen_titlehash:c55819be6670fb5efa0254726f2e8b84b04bfc599f13fdbe60c44419d35c3909
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance
+title:trump s move to gut south korea alliance is inane haphazard decision lawmakers say
+seen_urlhash:1086245848bb89d116e52e4b8a28371a658343e6483195409b8ab42b8ac8dd3e
+seen_titlehash:14285b8a92c90ed31d21fe8b833ca1ab81dd4540df3c9bf6437c5014d87222d3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss
+title:cair slams texas governor s anti muslim stunt on airport washing stations
+seen_urlhash:78be2a571392fb9073237e87842e63650febcc4cbda8f6891641d9337f9b5fe6
+seen_titlehash:64a1f6f7fff4aab0849a779294668140071872b5a815c220aa64ac1d56e82908
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss
+title:clashes between government and opposition fighters in somalia s baidoa
+seen_urlhash:9eb3fe9b71b734d928af34ac02903bf5e52266f5a23bc96e71deff006d062390
+seen_titlehash:6219fd680fd225e2b5fad4b275b0ed4564f0091b56879a865a26b4c0630e0407
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss
+title:syria launches probe into death of white helmet rescuer in police custody
+seen_urlhash:b7b7d2fedcd07095799168e872e2d7293f1f9da48914fd0fbd0a6c44639cb9e1
+seen_titlehash:3b76b49cb4420abbcfae06824564e4ac2cd7f66393450ecc20920d2ad6885189
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss
+title:explosion reported at school in afghan capital kabul
+seen_urlhash:2f76fc9a8e3d9ac76e602b652150b6d2adf86cc3abbe50ebdb52f70a97b2a584
+seen_titlehash:f04d43638ad6b695517895ce75bba96f1b2cd5c8470e7668414ab1e841337a60
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss
+title:britain deploys military as wildfires spread across europe
+seen_urlhash:2dc5a347ebad3499b24af7186f91494c7a15c247d7bec2f1a2910bb78142a5d0
+seen_titlehash:d7cdb0d29b8740d0f245a4111799847b9e9cde47aa9b98da66c0871b1b92e7ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss
+title:netanyahu s likud party holds primaries ahead of israel s general elections
+seen_urlhash:2cf405c65d1c926f03922ca56efe24c598e9d91c1448b37fdfbb790085c3c9d0
+seen_titlehash:6db0c9936ec1ee58aa1ab8589b7058082af0164df3d917e6870fdf4bf095931c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss
+title:palestinians israelis sceptical of gaza plan as kushner visits region
+seen_urlhash:fac5e737d9292867786addcfd845479c40eafea33115ec2d6d14015484feb0c2
+seen_titlehash:631a6162f979e903a43dbefef1ba74c75afad58cf8e82accc0de2af0f6550d6c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss
+title:british pm burnham duped by white house impostor
+seen_urlhash:827413d6db9553fc17c09811b7193493f33c65bd4ba0491284f786c1f06f2d98
+seen_titlehash:e7ba44ba8101e355a61cd178c5f1f3ec40d40a271a37359cac7d5a5e4b1601d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss
+title:war on iran phase ii day 37
+seen_urlhash:00629216b3361c8f67261573f586a92918716b8d580724862d084a52e1a57826
+seen_titlehash:10cbcaa89c88d8100c2859ccaf19d2b885407947d9351e82d08f73a51a1dacf1
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-молдове-разбился-второй-беспилотник-с-начала-месяца/a-78405192?maca=rus-rss-ru-all-1126-rdf
+title:в молдове разбился второй беспилотник с начала месяца
+seen_urlhash:6d007c027cb3cc6a1352f42d5f8c0832514255d749af89ca6ce04bc9968f3a79
+seen_titlehash:3b11cbd4b430964d94e8c217c2c33720e8e329f8872c50d5986b45578f3d0e1d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/17/novosti-dnya-17-avgusta-2026-g-vechernij-vypusk
+title:новости дня 17 августа 2026 г вечерний выпуск
+seen_urlhash:9ba6afa61c61bb79b9edeac30d5c5467290a8cd0eba05683ecff104e6143f61a
+seen_titlehash:d3da6ad89e4f350345c2555387caccda005e369f8909cd9e2d9ff823bc4455fe
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/rosteh-nachal-seriynoe-proizvodstvo-mobilnyh-elektropodstantsiy-na-sluchay-blekautov-pri-atakah-bespilotnikov
+title:ростех начал серийное производство мобильных электроподстанций на случай блэкаутов при атаках беспилотников
+seen_urlhash:e632f92a6284dba57f48022ff81c6ce90fe064c48d0c6268cd235a092f5afbb8
+seen_titlehash:db61c5c7b3c5a0c54b1aed07675700da681b791461a1302c7af86d2bc2bb43fb
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/17/kanie-uest-edet-v-rossiyu-teper-ofitsialno-on-dast-dva-kontserta-na-gazprom-arene-v-peterburge
+title:канье уэст едет в россию теперь официально он даст два концерта на газпром арене в петербурге фанаты стремительно раскупают билеты доносчики грозят отменой выступлений депутаты требуют от рэпера поддержки сво
+seen_urlhash:81b582a8c2a5270c7ac4e9fba72caa948c8c5a0aa39e6bd4d4a3b796eaf443db
+seen_titlehash:e7d7ede812753c2edf48f93ebc44f07c9a14c35f2b4c61812de614fbb27753c3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/rossiya-vydvorila-glavu-azerbaydzhanskoy-diaspory-moskvy-azerbaydzhan-ob-yavil-v-rozysk-treh-rossiyan
+title:россия выдворила главу азербайджанской диаспоры москвы азербайджан объявил в розыск трех россиян
