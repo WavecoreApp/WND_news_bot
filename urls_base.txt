@@ -54388,3 +54388,53 @@ seen_titlehash:9db10fb28a15f7d9b4d6429f51dbc8268afaa43d4a67a000ac5e25faf4088cac
 seen_reason:processed_not_published
 url:https://ft.com/content/fc94e1f6-3f22-4fb9-b4a5-682c425e4d49?syn-25a6b1a6=1
 title:the uk is going the wrong way about protecting pubs
+seen_urlhash:be43fc3340b98c023b2633efe59064e73ebe4c4f139aa62980796e3ffe03e92b
+seen_titlehash:cedfd86051456c02646828c09be94314610ce85456c9d3d73dcb107bdfbdc8bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss
+title:why did trump scale back war games with south korea
+seen_urlhash:2ce84fc8e293a34517cb37e440de5f9409730b4b9409f8133c23e8cd20c9ac2b
+seen_titlehash:25fb12c2290b1a5b261881f3e3b3e41093700b2ebb7a75193e853afab8d3d43c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss
+title:gaza flotilla sets sail from the uk in bid to break israeli siege
+seen_urlhash:15c6185daf23822df08fd5cdb8150b67524702128680a1bb31071db0e300531a
+seen_titlehash:91f5b7a8150f2d9d3ad99f02c4d9304ab4024fd957041c9a8403e329dc8cff12
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss
+title:photos search for indonesia earthquake victims continues
+seen_urlhash:787a0139be13f546aea76a0c30175ccab07d76fc084a26f0fdebe6a01b54eca2
+seen_titlehash:8ada3879e4ece95de89edc36c2beee4274cc794626d7a9ea56fe184b5c63a905
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss
+title:death toll from capsized ferry in zimbabwe rises to 92
+seen_urlhash:2fbc34f38eac913874311bb3d4724fd4d7a5bd1c57beebd088693c549b70a96f
+seen_titlehash:78fe8d46505989ca42f104c54dadbd34b19771d28d068cf40556dbfb5c8eca37
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-сотрудницу-совы-составили-протокол-за-цитату-ее-доклада-госдепом-сша/a-78405458?maca=rus-rss-ru-all-1126-rdf
+title:на сотрудницу совы составили протокол за цитату ее доклада госдепом сша
+seen_urlhash:16d79ba0a90a8684f1884b39b78054784eed9d13a7f0c22241da8d3092d8e97d
+seen_titlehash:a2a3b19fc648decdf362597b6cb22583ee396266a6be09259d0c15ecf3bffcea
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/17/rhine-river-remains-low-amid-ongoing-drought-in-germany
+title:уровень рейна остаётся низким на фоне продолжающейся засухи в германии
+seen_urlhash:3fb5b21dcb6772177e9ad06ce3fb0149a9382f099ed0b14de0d278f2889c68fe
+seen_titlehash:748ca851fd0507f5a6ed14e2f2f9ed798d986075c83cc26b10922d12b8ca6f87
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/17/israel-hamas-disarming-latest
+title:переговоры кушнера с нетаньяху по мирному плану в газе завершились без прорыва
+seen_urlhash:45d07ec1e077fbb561c372d7a16805d05d910b39c34384334ab1c3ac865c86a0
+seen_titlehash:39d5585a45155dcd8b7f516d58c79f4470a2d4880bfa7b4f6c50d39df412107c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/17/hayden-panettiere-cause-of-death
+title:хайден панеттьер власти выясняют причину смерти актрисы сми пишут о передозировке
+seen_urlhash:98f506fdaf384b5978c2e132a74814aad692981fb559f549a960c5a24d31096d
+seen_titlehash:2d3b1b16750c1f628c55eded7e7e05decf857bad78c995117ad85df36c6e2967
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/17/reform-uk-promises-to-cancell-social-benefits
+title:партия reform uk обещает лишить пособий всех иностранцев включая граждан ес
+seen_urlhash:6af7deb30b85b68a2d5d0dff07c30b6bc82cd9a49570600b95b952588dd7682d
+seen_titlehash:4604948b6deb83076a5bf4a9e2a4c78ff769940f26cde7626e2a5e3f724c5a80
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/bloomberg-grecheskiy-tanker-popal-pod-udar-bespilotnika-posle-pogruzki-v-terminale-ktk-v-novorossiyske
+title:bloomberg греческий танкер попал под удар беспилотника после погрузки в терминале ктк в новороссийске
