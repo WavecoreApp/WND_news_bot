@@ -53343,3 +53343,38 @@ seen_titlehash:1a371ac65f4771898df8a8d99e53a7258bc6275d948caea48a6b7902f175c914
 seen_reason:processed_not_published
 url:https://ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6=1
 title:china s economy shows signs of weakness in july
+seen_urlhash:2899b07fc195abe6f88b77fb9716c2adf823ac7e6fb370206394909049c73648
+seen_titlehash:1ebbdda3078791494ad11d0814292739c7ed8df4f68266920a8cbc75eefa9913
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss
+title:top zambian opposition figures arrested days after presidential vote
+seen_urlhash:79291dd2095fa88fd1a27a1935d746a64e2668031c9ea9918fc82833f86ac066
+seen_titlehash:449fa37be7b1cf604a5fd1b635f7d10c5a11aea491d02a742b42126ef15bafed
+seen_reason:processed_not_published
+url:https://theguardian.com/media/2026/aug/17/who-is-hasan-piker-and-why-are-some-conservatives-outraged-about-his-return-to-the-abc
+title:who is hasan piker and why are some australian conservatives outraged about his return to the abc
+seen_urlhash:7365b4dcb6bbb2edc63814afbe457ea32987ed071ff50eb993fbecf0ba9969fb
+seen_titlehash:d819678b5aec8c0f733a7050d39184dfdc94a79eff60f1e85027d74f4af78566
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss
+title:kushner to meet netanyahu to push trump gaza plan
+seen_urlhash:d727dd67f4d2e297167e9a38b53bed61ed12f714243c871163089c3e57d1da98
+seen_titlehash:c1a6d7ce6231f34460dab449f4af03208b2c67b608323041df3b995533f3717d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss
+title:at least six people killed in ukrainian missile attack on russia s belgorod
+seen_urlhash:2f0983bfcd1b58903f96e4e2b5c6d630956a487d57e6bbda7f1b2067bd69d75b
+seen_titlehash:e92015a639a4562254aeabd084b39111bcfaba09f877507e6fca3a8789d696c7
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-сша-скончалась-бывшая-невеста-владимира-кличко-хейден-панеттьер/a-78392725?maca=rus-rss-ru-all-1126-rdf
+title:в сша скончалась бывшая невеста владимира кличко хейден панеттьер
+seen_urlhash:5a145c2e00000206809cecd8e55e1a4d44e109098653ab613806df362a7c1f9f
+seen_titlehash:174daf5ec294209ad35ae1b08ba82c2fb3612730595027960b7c07e61b5cfd6c
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/17/kriptobirzha-binance-peredala-rossiyskim-silovikam-dannye-ob-aytishnike-kotoryy-zhil-v-es-seychas-ego-sudyat-v-rossii-za-donaty-vsu
+title:криптобиржа binance передала российским силовикам данные об айтишнике который жил в ес сейчас его судят в россии за донаты всу
+seen_urlhash:abd2a88cce4cb78a862e34b7c717aef3c900711c399f0564149752ea8a918b03
+seen_titlehash:23543e722c75237ddc0a43b9439f4fa454f5be39cfbf37ba8583bb3b42bd0994
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/17/yle-yandeks-dorisoval-les-na-kartah-chtoby-skryt-voennye-ob-ekty
+title:yle яндекс дорисовал лес на картах чтобы скрыть военные объекты
