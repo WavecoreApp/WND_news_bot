@@ -54353,3 +54353,38 @@ seen_titlehash:e7d7ede812753c2edf48f93ebc44f07c9a14c35f2b4c61812de614fbb27753c3
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/17/rossiya-vydvorila-glavu-azerbaydzhanskoy-diaspory-moskvy-azerbaydzhan-ob-yavil-v-rozysk-treh-rossiyan
 title:россия выдворила главу азербайджанской диаспоры москвы азербайджан объявил в розыск трех россиян
+seen_urlhash:916dbefdbdef7d7eb0209abac75e2dafe7284f819fc6bd0524db143766858a11
+seen_titlehash:b7fe5140f3287a2708721ec9204d9339e3046425c9f4019ac9e766c58f94366e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss
+title:mushroom murderer erin patterson is appealing here s what you need to know
+seen_urlhash:fbec1d7e73ec455fee0aec7c4a4f3cce61e3b88e894f091acf59aab6251f02db
+seen_titlehash:b3d38cfbb7bba08b586b8205cb36b707c14ddb8280621e5cab3c20413eab588b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html
+title:barred from ballot a party becomes a vessel for russians discontent
+seen_urlhash:b5798f87eaf9e0bb5a5e9bab4d3f71f196dfd4f786304be443f7012a058b8810
+seen_titlehash:9ac576e1186b3df5906d3896d27f7c7d7e44004c48db1a59071d2e2256118eb4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss
+title:russian politician sentenced to 11 years for opposing war in ukraine
+seen_urlhash:b908fd948988972ccdcb3c665a78a41e79b7fd2bd64a6f61c24aea092f7a5073
+seen_titlehash:cdceaf1779793863ca27cd288a6ba8d9570f89913e9d153a6af5d3c978206d00
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss
+title:russia maintains election ban on opposition yabloko jails deputy head
+seen_urlhash:78061bcf3a3631f1ac74ced68c935f34885c6041f35f8316847add125aad670a
+seen_titlehash:98747c9bff35e37c55a87f7d4b7265c8a21e7417775c2027252c66c9cded425e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza
+title:netanyahu kushner agree us general to verify hamas disarmament before israel withdraws from gaza
+seen_urlhash:364bc9ee4a1bf9e30cca3e270fad82d164a32e339319edbb92585db23b8ff399
+seen_titlehash:de0b4ae5d74a3f16cb2c751f20f099b800942d0bd99aec2b3307e8eba5807d04
+seen_reason:processed_not_published
+url:https://ft.com/content/b3ad4338-21a1-42ab-86ce-4912c7df2f96?syn-25a6b1a6=1
+title:labour mp suspended amid investigation into covid loans
+seen_urlhash:96128c08fec5d19a60625fc42199cbe08ddbfec4f8fe65609b344c23bddfa1e4
+seen_titlehash:9db10fb28a15f7d9b4d6429f51dbc8268afaa43d4a67a000ac5e25faf4088cac
+seen_reason:processed_not_published
+url:https://ft.com/content/fc94e1f6-3f22-4fb9-b4a5-682c425e4d49?syn-25a6b1a6=1
+title:the uk is going the wrong way about protecting pubs
