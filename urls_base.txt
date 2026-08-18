@@ -56093,3 +56093,48 @@ seen_titlehash:91d234d8e1d5efe043de00147af26c47560413ba998dd296c9faeb8d2adc16e7
 seen_reason:processed_not_published
 url:https://ft.com/content/ca2a00fc-5af0-49c1-aae9-8a04c546a836?syn-25a6b1a6=1
 title:can burnham save britain s high streets
+seen_urlhash:364ef086f705bee52bce92453bbdb0fc405020adf790d211ad4305c42bd3c67e
+seen_titlehash:2e1cb80616b1da4b3df330f2427ceb1bde4b3f1c8a7958af76ad3d1f120fb8e4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss
+title:earthquake rocks spain s historic granada injuring three
+seen_urlhash:6328750184b7ecbefe2d96741ff5c625b4a42026399c7f7c1f9e56283a993f6b
+seen_titlehash:a0e508bba52f1dacf79eda3af0c25fe4dcbdb3e9e69b1ed16718740088957688
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss
+title:us judge says government can revoke deportation protections for ethiopians
+seen_urlhash:36f897d31981defb7f1a5157898a841674497b67f588fbca0490702406eb1f68
+seen_titlehash:ea453e0938cc218b8c1ba36afbe646aaab903893f517f2ff09f40667bc7e6992
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss
+title:landmark trial on meta s impact on children s mental health begins in us
+seen_urlhash:eb5a1bc9f002f9174052c75f6b288be6dcd6a050e7940551f3fa4b3c3ef383c2
+seen_titlehash:12424dbfcd810a5465d0ba5bc3b8759fe34ccdb25914906a789a186de8afb4b1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss
+title:israeli strike on gaza city cafe kills six including child
+seen_urlhash:15b70e3d6dbcdd57acfe6fcca6534dd18d186aa684397794236e57965cbde14a
+seen_titlehash:68f45b19e71e9b391d1ae55f42a9847b3ba391165707249c184630b7566b930d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss
+title:police attack indonesian student protesters arresting at least 21
+seen_urlhash:53bb2f70c253eea51723a361053b99853ec7fb8250aaf0e93058ebbea3e86db7
+seen_titlehash:3cfe5d9ef8bf168dbb075984dc23c881fe5f0810d084da584f92ac770655bc75
+seen_reason:processed_not_published
+url:https://news.sky.com/story/irelands-tiktok-joyriders-the-young-men-dying-for-likes-13574501
+title:ireland s tiktok joyriders the young men dying for likes
+seen_urlhash:73e3433ef17a921f95a0d00445ebcc4978c23cb2d3505004adb2ab0463626ec4
+seen_titlehash:b1557531b5fa4d8752b381aff562eaa47a5c22580bde43b63c069568024e82a7
+seen_reason:processed_not_published
+url:https://dw.com/ru/лавров-удары-британских-дронов-по-целям-в-рф-прямое-участие-в-войне/a-78420071?maca=rus-rss-ru-all-1126-rdf
+title:лавров удары британских дронов по целям в рф прямое участие в войне
+seen_urlhash:9b4c7c94c40af95de64348ce2ccf59008f7d2f255dbb9d2a732cff8bed1f97ad
+seen_titlehash:e589345f9486074f3071d07a0aad21a5b46d0d59e37b970f4aa06e5f16505e63
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/belgian-and-ukrainian-foreign-ministers-meet-in-a-kyiv-bomb-shelter-amid-air-raid-sirens
+title:главы мид бельгии и украины провели встречу в бомбоубежище киева под вой сирен
+seen_urlhash:9358d31e41c50f07af45441d0c23c348832992f3369ccbb24d19903af7b37110
+seen_titlehash:aa44cf5d5625732b3c2c571129a7731822a0f28ecef86b7fdb75f863b100a604
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/polzovateli-po-vsey-rossii-pozhalovalis-na-rabotu-runeta-veroyatnaya-prichina-sboya-avariya-na-krupnom-uzle-svyazi-v-moskve-v-etom-rayone-otklyuchilsya-svet
+title:пользователи по всей россии пожаловались на работу рунета вероятная причина сбоя авария на крупном узле связи в москве в этом районе отключился свет
