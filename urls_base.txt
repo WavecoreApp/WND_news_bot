@@ -54898,3 +54898,108 @@ seen_titlehash:ec7950417d19b04e700d6e5abdb5a66ae9336cf8a25b92ab6da701c9bab08b5b
 seen_reason:processed_not_published
 url:https://ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1
 title:ai like a debt machine
+seen_urlhash:0ba4ebfef3aba386ffef3c284aaf16be03ec56a7d01244f947a48506f00c7be5
+seen_titlehash:2eaf5e77e76e0f3d9527926c973f9e8843b0733edf1c1155c7cbacb2a93f4a81
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/18/victoria-moves-to-expand-definition-of-corruption-before-state-election-ntwnfb
+title:victoria moves to expand definition of corruption before state election
+seen_urlhash:ff4552b5740612f91b5c5c6c381e9db677c2ca7ded54c5694cd40edd5242d6c7
+seen_titlehash:efc0184e491cbfe943be7ce2cbe42dc46b537e20237df3215ed40a272f569248
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss
+title:russia says more than 600 drones targeted moscow region
+seen_urlhash:c2643918a7c877e8d62a59f15b7585d646c8c9981ea38faa6f54a06e3ecce075
+seen_titlehash:a72093751118a0356d81a8651f588a43a91e14fcb52932261bb1ca893ac63f18
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss
+title:vessel hit by unknown projectile in strait of hormuz ukmto says
+seen_urlhash:44a0ea9f6bec8f78f37b974aeb129786ad99f46b2cd6866cd2f464e462099829
+seen_titlehash:c2cc698ac7ae8251dd086e6f575ec0081622564d4c90655a0bddb63fdea41e6d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss
+title:can china s new arctic sea route to europe replace middle east chokepoints
+seen_urlhash:64618bcf697672687dbbf0000e9f1be752ada4d24fe9a70d1e22dd1b4fbb0739
+seen_titlehash:2915c6835a5760f54e4de56f60110d3b419879a0b594111fab12ada31efe1fae
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region
+title:war in ukraine several wounded in drone attack on moscow region
+seen_urlhash:46e11c43804ceecdc6f53939433f420503965def6ee4f84b8e6a77c810409c21
+seen_titlehash:312de3cd53abc65afa54859b842aaf9f846e9285cc7410ab59de63d966f0868b
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-печенегах-харьковской-области-ударом-рф-убиты-10-человек/a-78407339?maca=rus-rss-ru-all-1126-rdf
+title:в печенегах харьковской области ударом рф убиты 10 человек
+seen_urlhash:920e32a8bd03cb23ef956a2d036192282515859595cef851e026a98c5b1419b2
+seen_titlehash:c72ec9cea8cdfd8813f2949fae59391383fc70ba52f04e0df401b7e324dc3546
+seen_reason:processed_not_published
+url:https://dw.com/ru/италия-не-видит-признаков-причастности-рф-к-взрыву-на-оборонном-заводе/a-78407015?maca=rus-rss-ru-all-1126-rdf
+title:италия не видит признаков причастности рф к взрыву на оборонном заводе
+seen_urlhash:326a6b0c7ca2c64714f7e9001282c4231222d101a5df3df7be56b2dfd21c94a4
+seen_titlehash:fc696a1aeefc4185f7cea1d981ed537f4b241414df323128cd639cf1e166f55e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/18/shakira-and-a-son-of-warren-buffet-announce-the-reconstruction-of-several-educational-cent
+title:шакира и сын уоррена баффета объявляют восстановление учебных заведений в чоко
+seen_urlhash:eb1f04cb977d3207366b3544170b36a816a0279d2c16424ba261021fb96ac596
+seen_titlehash:e44c4594a0e856c42128306748c45c05999756cd129144399301dd08fe85c2e5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/liechtenstein-changes-rules-to-allow-women-to-inherit-principalitys-throne
+title:лихтенштейн меняет порядок наследования женщины могут становиться правящими княгинями
+seen_urlhash:081a8db00855d61882f1ab52f7bf4251db70a25e5f71805e7970a82d8a95a698
+seen_titlehash:8ba8d6c0cbb25962e0c0eccd4de1cc910d79341eaa9512dd2553c58323a4e9ae
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/18/canada-wildfires-update
+title:канада на западе страны пожарные все еще ведут борьбу с огнем
+seen_urlhash:189d4d7769d9d37bd30d05d884c0c204346f5142ef8fb310f16a686590c0a0e1
+seen_titlehash:edb9ee63ce4c6506b2f79cbfb2a3c6c59721529dce4e9f09d2724ec9d879714f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/18/kanye-ye-west-to-perform-in-russia-a-first-since-the-invasion-of-ukraine-in-2022
+title:канье уэст выступит в россии впервые с начала вторжения рф в украину
+seen_urlhash:6baa72496cf4c8177fc2b5b64d2e6503d3376a188fd31664a480bc93ef845901
+seen_titlehash:289df52d4a9e9f8822f6ed0f21b295533d3190f725e14c262190eea320d00159
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/18/brazilian-restaurant-adapts-menus-to-climate-challenges
+title:бразильский ресторан адаптирует меню к климатическим вызовам
+seen_urlhash:a596b460baaa2c24cf09985dee31c147f4e04718e60b7ae140a4caecff3a71b3
+seen_titlehash:25169f146af1433d29cdd451417eff3e5f1153103cb7315043cf2aa48ba1aac1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/18/luigi-mangiones-state-murder-trial-effectively-postponed-after-federal-guilty-plea-in-dou
+title:суд на уровне штата по делу луиджи манджоне отложен
+seen_urlhash:25a2da2f9ed1cfcf4d4b7228e6cd650528cb2b81b88f6309b47be6d6cda39d0d
+seen_titlehash:5b95a107ac0102861373315ba7575bcec8016d91bcf8ad13c1c27b75ee2b6d86
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/18/mount-etna-erupts-a-day-after-a-us-tourist-was-killed-by-lightning
+title:этна извергается спустя день после гибели туриста из сша от удара молнии
+seen_urlhash:23025dc586d0f58fad15cc5acca15abfab019e44ef9249e5ae2f651bd8931c1f
+seen_titlehash:937756808ce449e5952441a2b77b4c715921aabca6ecbb668933b866f88b5b8e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/v-moskve-umerla-pensionerka-podzhegshaya-kvartiru-kogda-ee-prishli-vyselyat-pristavy-v-2022-godu-ona-prodala-zhilie-i-peredala-dengi-moshennikam
+title:в москве умерла пенсионерка поджегшая квартиру когда ее пришли выселять приставы в 2022 году она продала жилье и передала деньги мошенникам
+seen_urlhash:40962230fe404480180a7c7f5b2ec7bc8f6de440b3ce55e7432549a8edbb09df
+seen_titlehash:bc8705e63adc71570507e6228013e078423bc532f5f6a6cd045c4173ed8158d4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/ft-kurator-stroyki-balnogo-zala-v-belom-dome-vo-vremya-vizita-na-pmef-provel-peregovory-s-chinovnikami-kremlya
+title:ft куратор стройки бального зала в белом доме во время визита на пмэф провел переговоры с чиновниками кремля
+seen_urlhash:767edcfd072c85d6ff85363781b9ecc8655fdb7a2249da0f675cdd9c849ac28c
+seen_titlehash:a94ce967e67717f3a5f5b5f447638608b7661af87a1830b3129e17fc4b10e1c3
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/18/zhurnalistka-katerina-gordeeva-rasskazala-istoriyu-anny-arhipovoy-figurantki-dela-molodezhnogo-dvizheniya-vesna-poluchivshey-samyy-bolshoy-srok
+title:журналистка катерина гордеева рассказала историю анны архиповой фигурантки дела молодежного движения весна получившей самый большой срок вот главные цитаты
+seen_urlhash:070402cca6e290b1f52cdf9242f98f3e2d42cda033e849f9dc8e81eb4b01452f
+seen_titlehash:3d2bde45f1a7703b5604c37deaf0b6e232f665af1c0ef962b0aaec3033f4513a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/dobrovolnye-pozhertvovaniya-biznesa-v-rossiyskiy-byudzhet-s-nachala-2026-goda-dostigli-rekordnyh-384-milliardov-rubley
+title:добровольные пожертвования бизнеса в российский бюджет с начала 2026 года достигли рекордных 384 миллиардов рублей
+seen_urlhash:39f1232428e46ce9b171482b1efb58d6743114463ef71d611f81a839a3d12800
+seen_titlehash:a52a2296f4b80d4b2e0d573bdef3922cd56db7325ec20bc409bcbdf9d20e7bc7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/zhitelnitsu-volgograda-oshtrafovali-iz-za-uchastiya-v-kollektivnom-obraschenii-po-povodu-defitsita-benzina
+title:жительницу волгограда оштрафовали из за участия в коллективном обращении по поводу дефицита бензина
+seen_urlhash:15b37697eeb37508ffa0efa7ad0d83226c79bc1f2ee02af4b37ae25a69851b97
+seen_titlehash:048d6bc2fc7e29bca4da7bf75729be4abc4499b365f988d7af74d0264f783275
+seen_reason:processed_not_published
+url:https://ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1
+title:uk employers shed jobs as labour market weakens further
+seen_urlhash:02c9774dc84e5790a7649f795704191ac4a4fdb91dfa0fab4838b0ddfed81e1f
+seen_titlehash:4023c0fa7b364f8f2b239ccaec399d5a209f8adb9f60b0afbd034823d0aba2a5
+seen_reason:processed_not_published
+url:https://ft.com/content/351cf8e1-cdef-46a9-ac32-b2e76c72ed1a?syn-25a6b1a6=1
+title:chris hohn s hedge fund bets on italian luxury hotels
