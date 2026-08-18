@@ -54803,3 +54803,98 @@ seen_titlehash:16f8eceb894ee00bce412c91acea3e1e7ae59fead48d26bf9b2dfa389f5809d1
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/08/18/rossiyskaya-ekonomika-nachala-rasti-bystree-prognozov-no-eto-vryad-li-prodlitsya-dolgo
 title:российская экономика начала расти быстрее прогнозов но это вряд ли продлится долго война не позволяет ни спасти от спада гражданский сектор ни закрыть дыру в бюджете
+seen_urlhash:587ef34d078a4ec02c1e8f3c95a12aa274d8ff934a2ad1d6a8989c3f1df0a891
+seen_titlehash:f08347b560a148b9ab6ee9d8e3a45637103288c34113246730afa57393fc93ed
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un
+title:south korea president calls for military independence in wake of trump call to cut joint drills
+seen_urlhash:8c74869ada7fae347d4bd21f6b4477b9ddde91cf3c8b23ab3f6b47e9f063b292
+seen_titlehash:2c70e793d3b0fd9d4404ab978fefcbe544799210e071ad11e64ac1a5c37397a7
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal
+title:coalition mps cross floor over weak gambling crackdown as major parties strike deal
+seen_urlhash:2260b4027964d1193a12f0ffb490a2778410692c21472c57c7923c6e1b8805d9
+seen_titlehash:cc7ee4d1392cb2015218285bdefc9818bfd4a772d3f27d4146dc01f9b07aecc8
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/18/alan-jones-trial-alleged-victim-groomed-10-years-cross-examination-indecent-assault-charges-ntwnfb
+title:alleged victim tells alan jones s barrister he was groomed for 10 years and to get real during combative cross examination
+seen_urlhash:267b1fa0433a68a4851aa2c6b6f5ce70fc751e5769760aaefae03ec3fb248814
+seen_titlehash:ef769f342a12a84ebe61953056947db245e4c18ea72b63e6d8a923992526d26f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss
+title:trump says n korea s kim has responded to his request for a conversation
+seen_urlhash:616a4039bf2a69952094533508b8451ca361b7bc8f070e7520f209ec2ada3855
+seen_titlehash:2ca29c78420b019310211670a43948d696a10fe625639657c011e1d94ecc0372
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss
+title:can trump limit birthright citizenship legal experts are doubtful
+seen_urlhash:352bb178fb11c0d2dce030df3c072a815d9a70fdfde057e19815b9e7b7f7470e
+seen_titlehash:a76e417ced6b3bbaa5e6f1735c01baa0bb9bcc6d8c5116bedb92854ffed2d62e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss
+title:a hero s welcome as cameroon parades its first women s afcon title
+seen_urlhash:ccac4907bd8a0d0c7b8650d9b9a0d0d05784dc17e5c0ce52be624c08a2faf6d4
+seen_titlehash:0b73ac706f4c32118ef87ec70c67f8e35a0c2f3ae9c74f04b1cb32eeaa94b7c1
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260818-clamping-down-china-tightens-exit-rules
+title:clamping down china tightens exit rules
+seen_urlhash:58fcc70eeb6190ce6dc812798b01a94cd240874df9b563f496cdc3b083ef171a
+seen_titlehash:5271c8ae869b09b42eb321a515feb3fde13b1ba481412d83c8ad41568c7d8ac6
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260818-fifa-chief-of-operations-kevin-lamour-leaves-after-criticizing-gianni-infatino
+title:fifa chief of operations kevin lamour leaves after criticizing gianni infatino
+seen_urlhash:0d44e8d832c0a2a25c663b27106184b1fb427387a98c478eeb292a3175f7309e
+seen_titlehash:15b1e3d1749e7070004b5f85c31936ba9bab3c211b8e8d900e3d8d6791dd0079
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260817-tupac-s-accused-murderer-out-for-revenge-las-vegas-jury-hears
+title:tupac s accused murderer out for revenge las vegas jury hears
+seen_urlhash:88eeb9937e21699a006c9ad9f07accd0e0b1f2eff4f984b3d8898bdad34a6bf2
+seen_titlehash:e03b60e94b668deb0911a95a0f6a08cce85db7d024e808f6fbb1ac1b1d6d97f0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/italy-spain-seuta-shengen
+title:италия сохраняет пограничный контроль для въезжающих из испании из за миграционного кризиса в сеуте
+seen_urlhash:2d6d2f69b33faa1a4c84ce309ee758216b0437e6d379f5ed796e6b5a2cfd56dc
+seen_titlehash:1a6baa6639ff9e614e8dab18d744e3e2369140cb6a8671cc39e047f253c99650
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/18/the-great-grandfather-from-cordoba-of-the-spice-girls-leader-was-executed-after-the-civil
+title:прадеда джери холливелл из кордовы расстреляли после гражданской войны
+seen_urlhash:b521dbfcbe176bf46305c8604d0f06f0abf92b88d1b198e5dcd45ee23bcf236b
+seen_titlehash:c373e7764327686c679a3abd4c8a6234732a75de5c86ba3d40b720450901aed5
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/18/pocket-sized-sensors-and-mobile-apps-are-transforming-how-londoners-monitor-air-pollution
+title:миниатюрные датчики и приложения меняют то как лондонцы следят за загрязнением воздуха
+seen_urlhash:a6b64b261a07abbefb5d1d519c2bec6682bf1fdf032d6dbd73cdbc798b3d51d4
+seen_titlehash:0d7b710ef97e2a6d7bb04417338a2709e8ed5cc1709d5df644334f759baf2b86
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/18/this-stunning-new-retreat-focusing-on-wellness-music-and-gastronomy-has-just-opened-in-ibi
+title:в ибице открылся ретрит посвящённый здоровью музыке и гастрономии
+seen_urlhash:6bb2906fa3a9b31fab57c5567fd5cf59704a4b645891d41380d9e9c601b04d8d
+seen_titlehash:7bc2372f515510af3e20f3baf9aa7453033d70ffda9f73de0d4767bff9ccf83d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/18/want-to-retire-in-your-40s-young-workers-are-turning-to-fire
+title:пенсия в 40 лет молодые выбирают движение fire
+seen_urlhash:e9da28d73898cf659a3f76e0b5261f73f5f7aec272a9bf8dd1f67b33b0f8af82
+seen_titlehash:323b0b3e995ff421872421e5fff3da204d5a43bb5b7641b15ddab1e23a64bc86
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/a-bus-carrying-polish-tourists-returning-from-bosnia-and-herzegovina-overturned-in-hungary
+title:чёрная серия паломничеств в меджугорье трасса ставшая дорогой смерти
+seen_urlhash:1191afc46a3270286ca01aac0cbac5066fc17f1e2a3a5bc942e8cecac99a96ef
+seen_titlehash:cb4fb1976143b2aa80381cbc10307a3237357d9ec12134204f65e505a586168a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/reyting-trampa-upal-do-minimuma-za-dva-sroka-na-postu-prezidenta
+title:рейтинг трампа упал до минимума за два срока на посту президента
+seen_urlhash:f4654b3ce48d79c215a0638ba3d686f9719c5f712fd2699ada1dbe9e9a889573
+seen_titlehash:f85ff8514a3fa0bf7a474586421c43836a4df97ecb43ea452cd7cbec2012d346
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/ukraina-zapustila-bolee-600-dronov-v-storonu-moskvy-v-podmoskovie-postradali-tri-cheloveka-povrezhden-sklad-wildberries
+title:украина запустила более 600 дронов в сторону москвы в подмосковье пострадали три человека поврежден склад wildberries
+seen_urlhash:69271335a20e7d91189ac30d61befeaac6291cc08315a1d890ec2518bc276993
+seen_titlehash:5e813599e18af3a7f67500c109ffd6ca193489aa20991200480e1073f6e5d85c
+seen_reason:processed_not_published
+url:https://ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1
+title:china s 10 year bond yield falls to 13 month low
+seen_urlhash:672e75fdc2a069cd622b91a450a58b033d547cc7e6c36bef74829db48fd3c515
+seen_titlehash:ec7950417d19b04e700d6e5abdb5a66ae9336cf8a25b92ab6da701c9bab08b5b
+seen_reason:processed_not_published
+url:https://ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1
+title:ai like a debt machine
