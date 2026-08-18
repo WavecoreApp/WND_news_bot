@@ -54533,3 +54533,33 @@ seen_titlehash:161346404524e61fcb0d3dd62fde185dad97890fe72db9b1b2a358bbca758730
 seen_reason:processed_not_published
 url:https://ft.com/content/6aafe865-0bd0-4b18-bf9e-5073fcd91c35?syn-25a6b1a6=1
 title:us pauses construction of border wall through national park in texas
+seen_urlhash:d13c07f43e0e2c7331833e1afd8ed535ce20a0fff6db62f3a50a69b931d451c5
+seen_titlehash:a52ce0349162f52270137a0382fe36b6c7beeaa920bcb56d6fb1c65dc7f7a1c1
+seen_reason:processed_not_published
+url:https://theguardian.com/sport/2026/aug/18/sydney-swans-coach-extremely-disappointed-as-club-faces-call-on-standing-down-players-over-alleged-sexual-assault-ntwnfb
+title:sydney swans coach extremely disappointed as club faces call on standing down players over alleged sexual assault
+seen_urlhash:38cd6177812df65c8e84842fb0f16d99f21caff050c022cca2d5180a1cb062b3
+seen_titlehash:ad3a360adf21bee6e0065c2e37efeec11abea81120076c17f3dacf8fe683eb78
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss
+title:iran war live trump rejects mou extension as us claims control of hormuz
+seen_urlhash:0b754eb82bedf3cc5fbe5d4c8e15c55a8dea17e22c18c37ce6e5ffd92dc95566
+seen_titlehash:bf469e33121ba8c0f1ac62fd87cc89d8435690c1fa75775aeed494cf420aaa40
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss
+title:we will not allow gaza to be rebuilt until hamas disarms kushner says
+seen_urlhash:27ac6ce31f26f93a4e6a9aaafebe923b84dff4ae5bdbbafbf05e3cd3983dee31
+seen_titlehash:1dd1d9d00e1d53a613aaee9e341e8ebffe6cd3dfc3411aa1c434b2951cb51da0
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260818-trump-pauses-controversial-border-construction-in-texas-national-park
+title:trump pauses controversial border construction in texas national park
+seen_urlhash:61b995d24ce0c73d587b96ab59e28c53c3a3d42ddf3c0bd8f5b16ceda848bc0b
+seen_titlehash:925d012c98140380861ad7b5e92ed8c8ba535cd154e002c6176d190c6ce8f87b
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260817-fifa-chief-operating-officer-leaves-after-criticising-infantino-investor-plan
+title:fifa chief operating officer leaves after criticising infantino investor plan
+seen_urlhash:9b8af2fd34e5f04c0faf632bb2227885508d96e5cff898f20a0258a85e82f11f
+seen_titlehash:c52f55e34374b159950c3c3a2ec079b4bf758117457ea83e152b65b80c9bdcfc
+seen_reason:processed_not_published
+url:https://dw.com/ru/война-в-иране-трамп-пригрозил-оману-бомбардировками-из-за-ормузского-пролива/a-78406068?maca=rus-rss-ru-all-1126-rdf
+title:война в иране трамп пригрозил оману бомбардировками из за ормузского пролива
