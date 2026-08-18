@@ -54633,3 +54633,28 @@ seen_titlehash:4a346d478e2d9801dc2b120b6abf92c869cec9bf84f31b2ef5a2e61199d1bdbe
 seen_reason:processed_not_published
 url:https://ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1
 title:seoul rattled by trump s threat to drills at heart of us alliance
+seen_urlhash:71a19272ab211e6260faf6ef2dc317098b0b7d0ce434f5fec615e8e9126328c1
+seen_titlehash:94fbdedd19e01f8aed77ba603712c951e1142dc7c64f5f123f7d914890d6a6c6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html
+title:zambia says president won re election after tumultuous campaign
+seen_urlhash:d291bf05d9acf2bd65347c642c2929029980746ce69cce9b03394a380a678a8d
+seen_titlehash:518e207557f7ac1583e69dea60b130f18f25dcd7a195a73e8dbafdc0c05d267f
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss
+title:thousands mourn jason arday in london blaming racist press for his death
+seen_urlhash:306ecddf0500267349afeec48b7da0893855b248779f12b3213018a87dbbd8a6
+seen_titlehash:0c15174cd678c05dd0e2301d590978de3084355f3d74a258de3c0daae65cb25b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss
+title:two killed as gunman opens fire at philippines high school official says
+seen_urlhash:ebe9a1110855f6bc64519ce784c254728a2871929ca8ed93b46f5b4b10ed9a59
+seen_titlehash:306c0623f9e06cecc5e23128de5dadec4a03bd4edd75200fb3d00185095abbc4
+seen_reason:processed_not_published
+url:https://dw.com/ru/собянин-сообщил-об-уничтожении-под-москвой-более-180-бпла/a-78406326?maca=rus-rss-ru-all-1126-rdf
+title:собянин сообщил об уничтожении под москвой более 180 бпла
+seen_urlhash:71d0b76f1a193bdd068467a7f1e0980dbbb97bfc9e18187b8ec57d1ab4c2756f
+seen_titlehash:0a163a26dccaefe1445bfbee6747fc9ddc73f39ccd646b26ff843ad06e2bde3c
+seen_reason:processed_not_published
+url:https://dw.com/ru/памфилова-высказалась-за-лишение-эмигрировавших-россиян-права-голоса/a-78406274?maca=rus-rss-ru-all-1126-rdf
+title:памфилова высказалась за лишение эмигрировавших россиян права голоса
