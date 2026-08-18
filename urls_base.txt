@@ -55378,3 +55378,128 @@ seen_titlehash:9ec44318d6807d7c397770f4af4db6bfcd057f7e786dcb9f5ac32f2b31f52259
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/18/v-finlyandii-peresmotryat-delo-o-deportatsii-rossiyan-olgi-i-nikity-belovyh-oni-pomogali-ukrainskim-bezhentsam-a-zatem-im-otkazali-v-ubezhische
 title:в финляндии пересмотрят дело о депортации россиян ольги и никиты беловых они помогали украинским беженцам а затем им отказали в убежище
+seen_urlhash:87722f1a7beb4bb2aea020c3a17d09be2b5d1583fd7f262bca8bedef0fe2f6a9
+seen_titlehash:f66156034b73f3efa50049fd80a0fbea215b3e76dcdae48c0b477c082e9d056d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss
+title:tupac shakur murder trial begins thirty years after his death
+seen_urlhash:6df3ff40073fb8a6b7cbb4d308d010ad316caeb138cd68ae7eb72b359db5287a
+seen_titlehash:f495d87dda44041c74194a9bb9e6e08dca4aae33228e1801239c15bf76251a32
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss
+title:deaths mount trauma sets in as russia ramps up missile attacks on ukraine
+seen_urlhash:0b087b334b78871c7575cc1f99777204987e82b1a2b32041f72a4378131f9f2d
+seen_titlehash:cc35734218e75454aea81b58104ad271d1841f6403165be109a4499a41b2060d
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss
+title:india s cockroach movement makes schools next battleground against modi
+seen_urlhash:f0ce19e37d658d2a0a41e45ef294509b2036c90a20335b106d714a3c5eb3658c
+seen_titlehash:a63cf611499148a5e908f505e275a4b8828926d0aaa5b5c64b9b229aed470c25
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss
+title:eight air strikes hit airbase in syria s idlib
+seen_urlhash:f0215615d116d55e42ccc693e8faed00c601d4bf628395fff6cbbeed3bd386c0
+seen_titlehash:6c473b689b45423d3df6b7fa6f81567070e5d0fbe2d537c690e6a64f470caf38
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss
+title:brazil s president says amazon oil is passport to the future
+seen_urlhash:cb6b65a49bbafe2e92750f1be094eeb9d67dc6ccb14ba0100b9d9b46c14a3019
+seen_titlehash:a767523bfc102145d390b15e49e4f4ccf2176e5119df58a0932cf63b19543e22
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss
+title:syrian man dies in custody after alleged abuse by security officers
+seen_urlhash:c675917a08941181b07b00e414c797a03b18b00c7e86f3b8b1a1091f5733b04f
+seen_titlehash:e82fd237bcd01c2ad63c5d69120c820cb7f3f4051b6fb54e119c433efd3e258c
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-couple-killed-in-greek-helicopter-crash-while-on-honeymoon-named-13574179
+title:british tourist and wife killed in greek helicopter crash while on honeymoon named
+seen_urlhash:bb5c5164e62bc841b205cb70a3c09feb7056cc5202e56087b5bace954d0c9691
+seen_titlehash:a715cc414bcd340d3bcbf34e8c52c6b316bcf20237099d901c0d8d510ebe9c6a
+seen_reason:processed_not_published
+url:https://france24.com/en/ebola-in-drc-deadliest-outbreak-on-record-outpacing-the-response
+title:ebola in drc deadliest outbreak on record outpacing the response
+seen_urlhash:b0643d5b673532928096851f2b68a6b738372844ce23d88d2689afb2f1c9f1a2
+seen_titlehash:4dc3432045bdc644e81e1a3b6bcfafca3e23aaf57db91891451ef4fdc8630966
+seen_reason:processed_not_published
+url:https://france24.com/en/heatwaves-damage-monet-s-gardens-in-the-north-of-france
+title:heatwaves damage monet s gardens in the north of france
+seen_urlhash:d12be1d7e10baf6cb0a4eee35614208134be7ee0f8bba9c8d8375ffc9beb16a3
+seen_titlehash:5bb7b6453eea8c6da97f6b7f41bd6d4cfa1b38b01027d8ee8967fddb4dabc712
+seen_reason:processed_not_published
+url:https://france24.com/en/is-meta-deliberately-making-children-addicted-to-its-social-media-platforms
+title:is meta deliberately making children addicted to its social media platforms
+seen_urlhash:09dec3dd152aaca8d5c11ed6c957b61ffc18768caf73eaffc6f870c4d7a8da3d
+seen_titlehash:6e343c443193bb338d33f698e664c586dad7e545362e5c881f67f2fb6a65df8b
+seen_reason:processed_not_published
+url:https://france24.com/en/west-bank-village-of-qusra-under-siege-by-extremist-israeli-settlers
+title:west bank village of qusra under siege by extremist israeli settlers
+seen_urlhash:2482e1087543d544afc167b6642c884faf9fdb948b58c8ebb0f7fb1f5cc6f3d3
+seen_titlehash:eaedf3e40a8d37c73af51ea9fae7ac03c950e58cff1118402c9a421ec697b9ad
+seen_reason:processed_not_published
+url:https://france24.com/en/at-least-20-elephants-died-in-kenya-theory-of-cianide-poisoning-contested
+title:at least 20 elephants died in kenya theory of cianide poisoning contested
+seen_urlhash:6d7ebb153420174ee862d5e01d2446a59f22bcf10591099a5273b9aae8316135
+seen_titlehash:94279ed0ddbdb4d22f841be5ec5bb67b976d052cfc91c713b989e8019929a7d3
+seen_reason:processed_not_published
+url:https://france24.com/en/come-fetch-your-people-300-anti-migrants-protesters-call-out-to-sadc-leaders
+title:come fetch your people 300 anti migrants protesters call out to sadc leaders
+seen_urlhash:e5476bf55dd15cbec533cf8b58820fb82a86b2aed597c5cd3ae99a2d67eeb8e2
+seen_titlehash:fa120ba98d0d5f0341e1091f6921f81f66ff9d667524330f1a33e353758f424b
+seen_reason:processed_not_published
+url:https://dw.com/ru/крупный-бизнес-перевел-в-казну-рф-почти-400-млрд-рублей-по-требованию-путина/a-78411477?maca=rus-rss-ru-all-1126-rdf
+title:крупный бизнес перевел в казну рф почти 400 млрд рублей по требованию путина
+seen_urlhash:15abe67989f50df7561bea6212ad0d308ccadf556eaede4eb92a2a50aa436c93
+seen_titlehash:8ea4e28fbb68bd22ac5adf2e624c7eb82e777ff58f6e23fd6bc7af9ae9a8d45e
+seen_reason:processed_not_published
+url:https://dw.com/ru/кто-и-как-хочет-защищать-традиционные-ценности-в-грузии/a-78409793?maca=rus-rss-ru-all-1126-rdf
+title:кто и как хочет защищать традиционные ценности в грузии
+seen_urlhash:b7cf21cfa9ba032cb76c055ccd30eff9ba2d4bbb8147a39303ca26f0ca67b7ef
+seen_titlehash:aa80c2ffe2d9308dfa8daa9cee5f916617a4d731250abc3b04553a355d8d2608
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/rescue-video-goes-viral-fire-chief-too-short-woman-jumps-from-11th-floor-in-berlin
+title:вирусное видео спасения женщина в берлине прыгает с 11 го этажа
+seen_urlhash:03e3116a65a5b3c1afccd07542ff7681b0c589013d96d96610417ed891770a6c
+seen_titlehash:d8238ca0ab903418d2eca73a09f8d6dd12a30ac58da33041a50b198fd1d5589e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/gde-provodyat-letnij-otpusk-lidery-evropy-na-fone-prodolzhayushihsya-krizisov
+title:где проводят летний отпуск лидеры европы на фоне продолжающихся кризисов
+seen_urlhash:5a10443ffb7b63eab6c8b39efb055525bdd0ec8cf73550130b9d85129cfa4217
+seen_titlehash:519028af1210cdfe8bfec41dd69932bf8f4aac099f29c4e466d571ebcd15b4b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/18/zambia-hichilema-elex-win
+title:президент замбии хакаинде хичилема переизбран на второй срок сообщают власти
+seen_urlhash:54d5b5fd222469716e1ad6db764ce43f44394ce2f71970748d0cb9df8686b56d
+seen_titlehash:ad88e1b311da474e99bc3b5a6929d6c34e61de0c62864808e90b69cc0ebd8d03
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/18/european-bond-yields-reached-multi-year-highs-due-to-inflation-fears-linked-to-the-war-in
+title:доходности евробондов на многолетних максимумах из за инфляционных рисков войны с ираном
+seen_urlhash:c6ac09d6d83c757b03d99f11f47bdc40419ff4176e92d7c4f006b8f033ee4c36
+seen_titlehash:90c1e59a08601a1e46e2d91c95573dd30a95b0b62896647b320c1350796e68ed
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/spain-earthquke-south
+title:в гранаде новое землетрясение магнитудой 4 7 эпицентр в альхендине
+seen_urlhash:a45eace969198ed59bd40f14427bc07fd1e652b2b3804bcbc255acfb12c006bd
+seen_titlehash:50303a5d262d0cfb05e10f567a4f7040f23b7ee54abf2ee5aba90cc6a9dce83d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/reforma-evropejskoj-sistemy-torgovli-vybrosami-ets-sut-i-spory-vokrug-nee
+title:реформа европейской системы торговли выбросами ets суть и споры вокруг нее
+seen_urlhash:d7eca5b5d328c4f7c553ce967cfef52c1efcff796bc577a9da5d4ece407eb430
+seen_titlehash:48234eb8b7f31f82e524251cc25e684724c6c502cc7da98b1fbaf0c4473f2ba6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/18/these-are-the-worlds-best-airlines-according-to-flyers-and-asian-carriers-dominate-the-ran
+title:лучшие авиакомпании мира по версии пассажиров азиатские лидируют
+seen_urlhash:b09bf8b2e9c937c1684c3acc18983e97d67be48c659d77490b18e8602fab995f
+seen_titlehash:eac0e62bf3ae7d0ab9c54701bf1fdaed1e4f5f17c961b325d7023a72e7882d2a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/v-peterburge-vpervye-oshtrafovali-za-publikatsiyu-video-s-posledstviyami-ataki-dronov
+title:в петербурге впервые оштрафовали за публикацию видео с последствиями атаки дронов
+seen_urlhash:41629762ad36c05f9f19e9453e8922f49edc9de90f109de0b9d524cfff57fa3d
+seen_titlehash:651f3141ca4ba44182afc863afb284cb9d1d339c5f6410fe60850716b3796ed1
+seen_reason:processed_not_published
+url:https://ft.com/content/3a96c015-2c9f-4897-97ea-d3f13571aa71?syn-25a6b1a6=1
+title:russia warns uk of consequences over ukraine s use of british made drones
+seen_urlhash:f66a50885ced7e6fe9d1dd8f4cc5528deebc724631a313ffeb7c15e2a61127e6
+seen_titlehash:c0964f74583faa024348330bff871c65c805bf30bf3fb334d368372f9e01c533
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/08/18/introducing-our-latest-newsletter-the-economist-for-you
+title:introducing our latest newsletter the economist for you
