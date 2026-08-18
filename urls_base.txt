@@ -56138,3 +56138,78 @@ seen_titlehash:aa44cf5d5625732b3c2c571129a7731822a0f28ecef86b7fdb75f863b100a604
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/18/polzovateli-po-vsey-rossii-pozhalovalis-na-rabotu-runeta-veroyatnaya-prichina-sboya-avariya-na-krupnom-uzle-svyazi-v-moskve-v-etom-rayone-otklyuchilsya-svet
 title:пользователи по всей россии пожаловались на работу рунета вероятная причина сбоя авария на крупном узле связи в москве в этом районе отключился свет
+seen_urlhash:dd0423b03f871d114bcfc131b1ebedd5ec466dc79704a3309ba541fe0d2750df
+seen_titlehash:89c72b6aaea0259e556288eb6b38a2b6ce4e58b50dcb6a3692a851161fe09709
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss
+title:judge swapped in trump s defamation case against bbc
+seen_urlhash:44a280d385d16f28767c75059dd7eb05d7c2989a53b8def3d81c753e4692f255
+seen_titlehash:2889790830d2f76e80f76328e21b22bd775cf99d564f6fb4d64489694ef4d504
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss
+title:man in doll mask chases and threatens philadelphia residents police say
+seen_urlhash:f8bddf1d82c4951f831a9caec089b4c8ff7d62576d2a3a2a891e43cb02da9b5c
+seen_titlehash:4c118362c1a0583f0e06ced1f9cd140249fe3c2da9b6d726e38ae9657e9bc0b9
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html
+title:a rescue mission in remote colombia
+seen_urlhash:5e9e3ce1ad8bc4766b26117d7985c894a4660145a53e8fbd1a6fe7a3153f318f
+seen_titlehash:ce92a159476e69ae31473dc5606c0c5a96ef10a0774b14debcb91c94c1687181
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss
+title:us seeks to revive criminal case against kilmar abrego garcia
+seen_urlhash:605d40ef73c6282d49f04d222548905a51d3d981ec238845790992565d4ff9f9
+seen_titlehash:602969982c49b1b1f7c719c4fad7fda5b968f1db28b4a5b7dfbcf0887cab1430
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss
+title:the witch hunt of jason arday
+seen_urlhash:6a9d17c8b6fe12415c23dd19107ed4016ee694a1eb8cf4ada9bb31e646f977b2
+seen_titlehash:281efa95875e7a9e778078066d91cb9e5186384436b0da79cdbb2d10bdc8473d
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens
+title:france to expel two iranian diplomats as arrests row heightens
+seen_urlhash:a07d26d74e51d73ded2568250e2ae1af887ff17493fcd14d608961bea29df10a
+seen_titlehash:45cf9260419a749dace286e1f5863b6286bdcf367146c4ff7c22ab4b7901ebf1
+seen_reason:processed_not_published
+url:https://france24.com/en/you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-international-space-station
+title:you have to be careful to go slow fast inside high risk mission at international space station
+seen_urlhash:b7de52982ff70b0d2e934a34f56795bd78ef1410352be0949fd75f3609ec4775
+seen_titlehash:5ada6b575ee071ddad93a68f7b2979b0685484f4ef1c2b34d59054cb627e47d9
+seen_reason:processed_not_published
+url:https://dw.com/ru/во-франции-начали-расследование-предполагаемого-вмешательства-рф-в-выборы/a-78420170?maca=rus-rss-ru-all-1126-rdf
+title:во франции начали расследование предполагаемого вмешательства рф в выборы
+seen_urlhash:b59c0acc15be09468ec0cef97f58be92b3403af0613bf138a0d2210dde9ebc0d
+seen_titlehash:e5023b7b038f6a6d1321ac37ad399babab186d2ccb2074bc4891326040e094f4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/german-ngos-migration-italy
+title:рим требует от берлина компенсацию за 22 500 мигрантов доставленных немецкими нпо
+seen_urlhash:4234a92db37c78bb3e8377221a61eb1f1a4c077581996dfa9d30d932896169d5
+seen_titlehash:2d794967285d6011288b78b67e48692a83b9ed0a6724aee2f1a43abac152b29b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/18/novosti-dnya-18-avgusta-2026-g-vechernij-vypusk
+title:новости дня 18 августа 2026 г вечерний выпуск
+seen_urlhash:d28aa50a91cc57d69a1820962fdf484fd22cd6de261eb8b923617f5589600878
+seen_titlehash:2cf06c10429f1af60ef306070782ebcdbfb7456eecc2791fe6e15d84aef4f1c7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/france-drones-a-new-way-of-smuggling-supplies-into-prisons
+title:дроны всё чаще доставляют наркотики и телефоны во французские тюрьмы
+seen_urlhash:d28d5047461d8bd0c5bda2d8ccd943d2578a8e797c4be8339973d2466f10ca47
+seen_titlehash:02b2df045d57c39bb1d948f611344deb13fd9ae3a0896a40339ecf2767701e17
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/byvshiy-ministr-ukrainy-mihail-fedorov-prizval-provesti-v-strane-vybory-dazhe-v-usloviyah-prodolzhayuscheysya-voyny
+title:бывший министр украины михаил федоров призвал провести в стране выборы даже в условиях продолжающейся войны
+seen_urlhash:1bb3927ea9298422435d1daa0837edb89fa7bec784cb7ad4072e0d2c0d208a20
+seen_titlehash:c5449d6990c903be89c76fe8137e5ce19f8e2fe6aade616fafef290849149707
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/brat-printsessy-diany-napisal-memuary-o-svoey-sestre-po-ego-slovam-chtoby-rasskazat-pravdu-o-ney-kniga-vyydet-22-sentyabrya
+title:брат принцессы дианы написал мемуары о своей сестре по его словам чтобы рассказать правду о ней книга выйдет 22 сентября
+seen_urlhash:04e6849352f7f9f7fe435448b56133134d430b0564036a2aba3e910803384930
+seen_titlehash:404fada1a23bcd2b3b3fd1ef329635dc5993a30d6b65e9c55852e5a4583a3e86
+seen_reason:processed_not_published
+url:https://ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1
+title:soaring diesel prices rip across us economy
+seen_urlhash:c55e682808e1af07c9b83046eacadaa025f072058d39d8b17bc69da6e7487cd4
+seen_titlehash:740bc1fa4310461d80f40440b1e335b018e061906642f8465d90814e8f4b9f04
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/08/18/what-happens-when-interceptor-missiles-run-out
+title:what happens when interceptor missiles run out
