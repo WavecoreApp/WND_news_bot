@@ -55798,3 +55798,88 @@ seen_titlehash:305102deb67fafd2fc19f2a7cb73aea0c0389c33c8fa5c7cd91178cae8ca395e
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/18/toplivo-est-menee-chem-na-treti-rossiyskih-zapravok
 title:топливо есть менее чем на трети российских заправок
+seen_urlhash:b16c665216fd8fe70f2a9720062c14fa034a835c178959af70418f4bfac88cb4
+seen_titlehash:44f9cb17911b7a7bf7205ca4911e7d9300021e47cb02fd5ec694cc039fed3ab3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss
+title:brazil s president lula hails oil discovery near amazon river
+seen_urlhash:cd25b2f9c9b7230b3f9ebf76623e1cbedf1ada432dccb35b7e3c0b9503cf0d1b
+seen_titlehash:b1b4fd51117ddf6c9d5ffca764f58991ee33d9e19b193baee39756d79368d198
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb
+title:pbs should fund drug to treat breast cancer endometriosis and gender dysphoria experts recommend
+seen_urlhash:7cfb2e28a0c5bfcca9d8719e6a81a60466ef02be2b53e518ee0023cd6bd22d55
+seen_titlehash:05dc758112e14591ed76465dcb4b289b269b9afd596b601fa196b82eec42e428
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss
+title:why is russia threatening uk with consequences over ukraine drones
+seen_urlhash:542cd4a49b3e3132da934daab18d5427583be7917f0f83763c94d417300a68c9
+seen_titlehash:c4bc2834aba44244b6d4081b99dbcbcad5f875cad6e8b841d0f150df786a992f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss
+title:patrick vieira appointed senegal head coach with afcon qualifiers looming
+seen_urlhash:8419de118fc16fc6c2f705987234eaba6ab045957107543504d70d4804703bf7
+seen_titlehash:cebfb76236877ef34325c7f921b13fe0cdeca47fc2dce0062058b442e01c62fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss
+title:what to watch in the alaska and wyoming primary elections
+seen_urlhash:a31edeb95499b59c59a2d321ff146ecca8aa12d5ff51acaa366ca3ce7b9d3cfa
+seen_titlehash:116ffc21ef8e829fe61d14ae854bce6bd028566447a8209d0c205d44c121a12b
+seen_reason:processed_not_published
+url:https://france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis
+title:volodymyr zelensky names new defence minister after weeks of political crisis
+seen_urlhash:84686ebb99b60a4c4ae2288a7fa8017a60372fd177cf2da7a28555ee58446de2
+seen_titlehash:cb316c1748c5a4d10e5bc146a4eef5ccc7994a01293565ac3a706451c8a48269
+seen_reason:processed_not_published
+url:https://france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna
+title:iss sophie adenot and anil menon conduct spacewalk to replace space to ground antenna
+seen_urlhash:442c672694484cb343849929cc00f30f69881ea55c1b73bd7bbb2b2777ba71c6
+seen_titlehash:0ba9b775ce54a35661f639c7230bf11be0c6e995759d2d0c71801a8ca6ad5edf
+seen_reason:processed_not_published
+url:https://dw.com/ru/зерновой-откат-как-война-разрушает-главный-экспортный-успех-россии/a-78416820?maca=rus-rss-ru-all-1126-rdf
+title:зерновой откат как война разрушает главный экспортный успех россии
+seen_urlhash:8642f949c2a3ec88b9144c2664d4f68f3866338f2cce31083f9570ac8d0ef7ba
+seen_titlehash:fc96823ae5c61f06a625fbed546803501685adb7ad526841a9dfb6d0c2ac2fa4
+seen_reason:processed_not_published
+url:https://dw.com/ru/сеул-встревожило-мирное-предложение-трампа-ким-чен-ыну/a-78416292?maca=rus-rss-ru-all-1126-rdf
+title:сеул встревожило мирное предложение трампа ким чен ыну
+seen_urlhash:d74b65ba2b327a41bee0be5e34a2b9c817f73a818d164065ed9c7dc6a2bf5a74
+seen_titlehash:88fd2b9b5b858f1d1d483d147c36e873d9b2dc6917fa24192e758a40f27fd909
+seen_reason:processed_not_published
+url:https://dw.com/ru/из-за-жары-и-засухи-фермеры-в-германии-ожидают-урожай-ниже-среднего/a-78417315?maca=rus-rss-ru-all-1126-rdf
+title:из за жары и засухи фермеры в германии ожидают урожай ниже среднего
+seen_urlhash:d91d3b939ca4698bcd1b5feb078cb73289b3330524b987c1a4a485862d016ef8
+seen_titlehash:466a2a86c3edf45fc65c301b40479b7e75a1c8e9a9cbc0501930262d3c5f35f0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/18/midnight-showdown-looms-as-us-and-canada-meet-to-sidestep-trumps-tariff-blitz
+title:ночные переговоры сша и канада пытаются избежать тарифов трампа
+seen_urlhash:17c25b3ff28486f3c25f3c24e5e6d538db361d5972f0605332705e2e5e6b620a
+seen_titlehash:59108f6b8df8f4ee8a47dc368e5345d4c08e9cc2404771faadde1d8fc325a0ec
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/18/znamenityj-aist-krutek-letit-v-afriku
+title:у него тысячи подписчиков и gps трекер знаменитый аист крутек летит в африку
+seen_urlhash:9ae7254c3a4f6f77baf318b789bfdecd15ba3331ae9380ba681eefe3e0f81f5b
+seen_titlehash:c56214c16c5ed7d87099863cca25c56dfdcc0dc7b632d866c4ef0062273e31b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/18/yuzhnaya-koreya-i-yaponiya-o-reshenii-trampa
+title:южная корея и япония о решении трампа союз с сша имеет решающее значение для мира и стабильности в регионе
+seen_urlhash:eca90ce9918fe63952848c57c27097151f5ed8e7743c794e8098fea76abda8c8
+seen_titlehash:a5a3b24a572f07323a4b3a86baa46dac1e85f637aa96657b864ff0bf4f3e05b5
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/18/zaderzhanie-dalo-stimul-borotsya-dalshe-dazhe-takoy-tsenoy
+title:задержание дало стимул бороться дальше даже такой ценой берег поговорил с молодыми россиянами которые сопереживают яблоку вот что их особенно возмутило в снятии партии с выборов
+seen_urlhash:24e0f9d682ea7f041db47b40c85a48f262eee7ed9882504138f2073b5b5b48dd
+seen_titlehash:0a7ed8fe2424a0c7628b52959ddcd847683b7a206fcaa6bc90a644b9e35b3fcd
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/18/bankirov-ananievyh-zaochno-prigovorili-k-vosmi-godam-po-delu-o-hischenii-39-milliardov-rubley-iz-sredstv-promsvyazbanka
+title:банкиров ананьевых заочно приговорили к восьми годам по делу о хищении 39 миллиардов рублей из средств промсвязьбанка
+seen_urlhash:735523240b05f7e46b54ee90ecedc1ee839e667b7d31e90ae3d207b2a695acfc
+seen_titlehash:25d1d856dfccde2db57ebf7188e684d929b40836ea26fb3c73e4b6fa619dfb1a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/18/vse-tsveta-afriki-semena-pavlyuka-kniga-dlya-teh-kto-gotov-otbrosit-stereotipy-i-razobratsya-v-istorii-kontinenta
+title:все цвета африки семена павлюка книга для тех кто готов отбросить стереотипы и узнать историю континента а также разобраться почему многие до сих пор считают африку проблемной
+seen_urlhash:94aa97d37359b555f0ea645f9b77805bc83138a0bea243c0592b199bce639670
+seen_titlehash:a1920884cc867edaf4134dbf173ceadb2282184974625e5a208516f73bfadffc
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/18/chto-budet-esli-kitay-napadet-na-tayvan-a-rossiya-na-vostochnuyu-stranu-nato
+title:что будет если китай нападет на тайвань а россия на восточную страну нато оказывается у запада на этот случай нет даже приблизительного плана действий пишет the atlantic
