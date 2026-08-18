@@ -56313,3 +56313,43 @@ seen_titlehash:6fd22fbd78398242dafc704629eb9d582ab3fad12d973ad04e889b94570f23e7
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/18/openai-zapustila-chatgpt-dlya-podrostkov
 title:openai запустила chatgpt для подростков
+seen_urlhash:08c6d48ecb7f735eb01b35794864115ee85146fda68c7a5d0f98e497c9ae4a49
+seen_titlehash:5ac26a22ee976a06af873ccde7fd7eaded8875c00dbef4af9625833c89b68e85
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html
+title:deadly israeli strike on gaza raises doubts about trump peace plan
+seen_urlhash:84999d238b7b233d8d55b0a3ea948c4895974cfe1929ee2e6cf8953424a936ba
+seen_titlehash:0ca22187aade91be657b906d65c4ea813d04c9931ddce2a44f727257e4c0a65c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss
+title:bolivia arrests political adviser to latin american right wingers
+seen_urlhash:990bb25dbf8ed13d72b938092a42d83735b3b4e04ab2e45af88f18042afc46e2
+seen_titlehash:6ed02d228d19a4cdda4bf7868e18d30cebd0aabf7e4d650e2f0ff7a22b59ec23
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss
+title:trump administration moves to end rule protecting swaths of forest land
+seen_urlhash:9910e1301d7969739cd08aa003b746cbb62dca75e7b030679095be216242a175
+seen_titlehash:95d434f6feb3b1b8c92e1db2498f1a69b2b800190fe9842493f40add7ab2eb55
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss
+title:why is the us ramping up tomahawk production
+seen_urlhash:28427ceb3f63b50b6486e433484e3c83d0a3c46bad18b489f05820c654545d23
+seen_titlehash:a5783e31719c8b25fa49107702775876e94c7613bda44f24ec0f9daf9bbeab9f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss
+title:syria opens assad era nuclear programme to un probe
+seen_urlhash:5d28d289ab2a0100697128371a9d082c0d5b98219ec2f7774ac37ed0ded26b18
+seen_titlehash:a9e59fce8df0c99098115ac36e6f52b6fc0169ea70c614f52f513169eb72026d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss
+title:congo ebola outbreak global emergency as infections pass 5 000 who
+seen_urlhash:5ad15cc6a1ed2a86ec28ba7d81f043ddda1086791609af40d3a92173eb1503e6
+seen_titlehash:347ad4eb59b1e7091b720df47b6e2c9c58ec5d9386a311e60ef59cd7822a0374
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-в-сирии-вынес-смертный-приговор-двоюродному-брату-башара-асада/a-78420292?maca=rus-rss-ru-all-1126-rdf
+title:суд в сирии вынес смертный приговор двоюродному брату башара асада
+seen_urlhash:92e206390b88e8747bcecf079bb6ae1a55d45d7c375297ee1ae5dc726c92f911
+seen_titlehash:ccd953d2686e689eeda25bd0a53d8595168b4d7fe2d03bf91ebd1b4e657bccdf
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/08/18/what-happens-when-the-west-runs-out-of-interceptor-missiles
+title:what happens when the west runs out of interceptor missiles
