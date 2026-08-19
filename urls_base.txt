@@ -58308,3 +58308,48 @@ seen_titlehash:5b90a506a18ad6611dba0d1a4f7d9a5bcb6d8734ff75dcffa24a1ec7ea4e88c1
 seen_reason:processed_not_published
 url:https://ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1
 title:fed officials express rising concern over persistently high inflation
+seen_urlhash:3aa605c32bffe0eada16281999d00d5b8f6ef1c22eced1f016b4c38d511c2f75
+seen_titlehash:c9f46ee3a75050f2cc1fe2b18d98ec5abeddc5f872be7b263df8bef1de96d847
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss
+title:who is natalie harp trump s right hand woman
+seen_urlhash:cdbb699b68c697ebbcd40ce1a2b249ef42e571961575ba0e70b3669646a184f8
+seen_titlehash:9178b15f27cad61373ade3ae0e9e3cee499e401f92c28c085ce750f83ce94123
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html
+title:more than 100 dead in central african republic gold mine collapse
+seen_urlhash:ba94fd701356a16041845e2f315d94198669a23dad7f67d259cbc744bc67bc19
+seen_titlehash:b79087d0f3e6b28722abd716fc4669849b24d79208c1c7fa655ec6c260e509d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss
+title:seven people mostly foreign tourists killed in helicopter crash in kenya
+seen_urlhash:8b427697e1c61a054f7ec2dc04c54aa85dae0c6a0d57e368f921b2c0d1ca18dc
+seen_titlehash:36022bb92e13fcbb77806b65e9c708b25539a2c5868cf069a1f5cc95d115e8c0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss
+title:582 skeletons including children discovered in sri lanka mass grave
+seen_urlhash:c4e50221ed8022b1acae8ef57578be2378663afb23c51de77946185c339d6c9f
+seen_titlehash:ea0a541af46172d3e4b30e9a5dd5c17f30bb7e79ac6a5b2efa88b6c3452cb508
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260819-more-than-100-killed-central-african-republic-gold-mine-collapse
+title:central african republic gold mine collapse kills more than 100
+seen_urlhash:31355167a56a564f6fda5c51dc76bef2321098f06da10702706e20ae9bea990f
+seen_titlehash:fa4121c9f93991d8c88dc5eebd7d4ea17d082e3b9dd4f8182a7c080258615013
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-оон-обеспокоены-приговором-льву-шлосбергу-и-снятием-яблока-с-выборов/a-78437458?maca=rus-rss-ru-all-1126-rdf
+title:в оон обеспокоены приговором льву шлосбергу и снятием яблока с выборов
+seen_urlhash:89b46b1178bc9bf9d9eb5598c275e7b0e2ce3aa238b04533ee369a7a120cfbe7
+seen_titlehash:c6beb5bebe1cd347578f6b9007bb5618150eaf47b6abf68585c144f2a97f1369
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/19/end-of-pro-fedorov-protests
+title:протестовавшие в поддержку фёдорова отвергли его призыв о проведении выборов в украине
+seen_urlhash:7c3f0d3d44acab95a1c5a21130db5cd5012dcb987564262321b1119aff7511c4
+seen_titlehash:14d623dcdeb07143bb3a13230911910e627e5a7283cdfc17773e95b5689de282
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/19/russia-fuel-shortages
+title:из за украинских атак россию накрыла вторая волна топливного кризиса бензина не хватает даже в москве
+seen_urlhash:04d3e5c2bb46b3e5d66b39862f2dc42e47da99af7363dcdf5538e12cef41e534
+seen_titlehash:2bacd705ff0637d076bb6a8d0dcc3840a128d4320b30e77f81188eea85ed79f5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/19/edinaya-rossiya-poluchila-pervyy-nomer-v-byulletenyah-21-iz-39-regionov-na-vyborah-v-regionalnye-parlamenty-pri-sluchaynoy-zherebievke-eto-prakticheski-nevozmozhno
+title:единая россия получила первый номер в бюллетенях 21 из 39 регионов на выборах в региональные парламенты при случайной жеребьевке это практически невозможно
