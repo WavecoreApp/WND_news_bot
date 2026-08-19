@@ -58353,3 +58353,63 @@ seen_titlehash:2bacd705ff0637d076bb6a8d0dcc3840a128d4320b30e77f81188eea85ed79f5
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/19/edinaya-rossiya-poluchila-pervyy-nomer-v-byulletenyah-21-iz-39-regionov-na-vyborah-v-regionalnye-parlamenty-pri-sluchaynoy-zherebievke-eto-prakticheski-nevozmozhno
 title:единая россия получила первый номер в бюллетенях 21 из 39 регионов на выборах в региональные парламенты при случайной жеребьевке это практически невозможно
+seen_urlhash:dc034db346e4b83a6b30bddd02042b268116d9862ecd7afc95c2707972c9f022
+seen_titlehash:dfb443ab53ef820a390285d992e5ee2f0b98ef7b20e524b77fc7b30bacce5ad1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html
+title:trump vs the international criminal court
+seen_urlhash:db5897859b2ca9c4d1e700083a037be084a826ae65109f755e1a5fc6fad187cf
+seen_titlehash:8478c745b14e3e3cb60e733b93b2c5ec6c812bdf7a4d9270cf4c6f983018b082
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html
+title:chinese start up lands reusable rocket for the first time
+seen_urlhash:699021f6b20cebaaf96f511c6c41935ac65dd40cce4cbdde74bdecf1991d26ec
+seen_titlehash:cc676b1ed0fc8e07328dbcc9f83dfb0c71cdc740c9e4e83f6eed1d550df73e02
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash
+title:five americans among seven killed in safari helicopter crash in kenya
+seen_urlhash:b5e49e626d05761372fe774a796d5b3330a56e9b82e2fe5793812623c06f8bff
+seen_titlehash:d32417a94f009d81f6bcc90f674da2ce348f70440663d505ff454d770362fa51
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb
+title:australian politics live penny wong says government outraged and will call in israel ambassador over idf decision not to investigate frankcom killing
+seen_urlhash:43d25494ab3340aa61028893d9014cf04d6dadfec2fef7c86d893dcc7172e013
+seen_titlehash:60d78df6fe32f19dcd0a13533d012abc06071572a2a3d33373335b940ccb5101
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss
+title:uss lincoln woes highlight us navy limits in prolonged iran war experts
+seen_urlhash:ede39e6531cb2b4dcb92a5eccaf399447fc0175fdea8777cbdd0c9e8d6e59dc5
+seen_titlehash:3f8bd7c835cc12b3244d02aca5710fa0beffeddac1d6ec8a64ab891c8f693b02
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss
+title:spain plans transfer of 500 migrant children from ceuta to mainland
+seen_urlhash:2f06f19ab37121b4ed7f2d7d55737c84bc68b3c83dcb3e11be592b69461fc825
+seen_titlehash:55dc0e4da8529fe9093f6fa514baabacc0db44001724dccbb04f8f5d8b62cea1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss
+title:moderna merck unveil mrna based cancer vaccine that cuts spread
+seen_urlhash:e9754c7596063831c0d72cf0fdf2242eeaa849d7ac27955cb60e2d3ee58a2b3b
+seen_titlehash:6ceb48a0df421411baddee0a3bcf8b5f2169cad4c6af10772b592daff6e57b74
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss
+title:what s behind israel s latest attack on syria
+seen_urlhash:68d11bae72bde1370149a490ff8bebb9fa365a9e413dfa76d0ad4db6e4dc7a76
+seen_titlehash:1646cd5ce9a5f4a36af9618b55338137dd1c416cc9653e785e5b263a3b9b8b66
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/19/france-suspects-arrested-influen
+title:на юге франции нашли обгоревшее тело tiktok блогерши сони беллины
+seen_urlhash:b8d22d2b666d4e0b5fd056d34edab1a8bf60fe0110335781128547a6fe978fd2
+seen_titlehash:a3ec6b2788e30519af925ea57bad1e61982f3605b41b427dec78a8479b9051e3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/19/openai-zamedlila-obuchenie-peredovyh-modeley-posle-togo-kak-ee-ii-agenty-vyshli-iz-pod-kontrolya-i-ustroili-hakerskuyu-ataku
+title:openai замедлила обучение передовых моделей после того как ее ии агенты вышли из под контроля и устроили хакерскую атаку
+seen_urlhash:e7e535fd1fe4693e59e5db1dbaa20fed168edab6c5e52dc10786accadda6a3a1
+seen_titlehash:280b59a5240faaa1637f1bc06d7296a62f7f41881255062d87cb70d0271ac0f9
+seen_reason:processed_not_published
+url:https://ft.com/content/93e67b8b-e7ab-4f4c-8bc9-0a479183bd2e
+title:green activist who celebrated iran s resistance elected to party council
+seen_urlhash:7ee6c39d862e356d09ba28f3a19382d611e7b5492dace0ef668567807841e6e6
+seen_titlehash:168911350c04cb8718191512d85e688114686a791143511e1e41dd630b857bd9
+seen_reason:processed_not_published
+url:https://ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1
+title:us government debt hits 40tn as borrowing rises at historic rate
