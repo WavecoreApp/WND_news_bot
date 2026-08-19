@@ -56463,3 +56463,33 @@ seen_titlehash:0880baa6c3340112f86087b77d04ebd31719a1bc2acdf9ea257b2e5b31cd4377
 seen_reason:processed_not_published
 url:https://ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1
 title:canada faces deadline to stop us tariffs on 20bn of exports
+seen_urlhash:59be917f59ad6ac96d25de0c2790aea62696f8154ca38d82e092da2c762e6900
+seen_titlehash:f058912b9fc3042fd9714623e5d140604b72d4ce3e0c1ce6ee4b8adc1b0760c2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss
+title:sacked ukrainian defence minister calls for presidential election
+seen_urlhash:e3e2f1396848bd0cf2d5d56fcfb71466deb41467c4c23927368c0e0421006c4e
+seen_titlehash:2131fe67b5245274d4585005664d81ab684355a81ce6efe4fff3b8228a3b6d89
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland
+title:prepare early bushfire authorities sound alarm for nt nsw and queensland
+seen_urlhash:34ec14e4960e65f31e4971c8e0d60fe8caa48d615854a98a1caa5da492bab5f8
+seen_titlehash:2e2598a3f7a76746579c662a849d1f296c16432b1786d8ab4448f19d6dd8b440
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss
+title:how ebola became the deadliest outbreak in dr congo s history
+seen_urlhash:6a02741ef60a0e3c1266b763543b8b637a4302c1e97513914371fdce55ba36c0
+seen_titlehash:352204a31271cafbccb1398cfd64e209afb60d199f4803c1e8d541b88bb7299e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss
+title:us ambassador to israel calls settler violence terror
+seen_urlhash:4f0d0a9755baaeabc49973d4d949e26625a39166c8d4f154d6982b96112b7a80
+seen_titlehash:c141d52a102a73c287fcb0ff35f80516da30d5c1177e967981836f2d53f559a2
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry
+title:two french filmmakers held in togo since july 27 paris says
+seen_urlhash:0272b05533398bf6c2cb6a3e8ea113a47bcfed05b2a2ace6206fc47b80844707
+seen_titlehash:9cdecd5ee6faa9197f045e7ebd8828e58902659e99cf5cc47ea99cc8e9c92bb9
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-сша-начался-суд-против-meta-об-умышленном-развитии-у-детей-зависимости-от-ее-соцсетей/a-78420955?maca=rus-rss-ru-all-1126-rdf
+title:в сша начался суд против meta об умышленном развитии у детей зависимости от ее соцсетей
