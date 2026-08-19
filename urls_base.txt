@@ -58473,3 +58473,33 @@ seen_titlehash:eed916c4f6780499352552e973c9c579c533b35934a0e17a3e63fee9e3490cc2
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-латвии-арестованы-вероятные-поджигатели-оборонной-фирмы-в-эстонии/a-78437828?maca=rus-rss-ru-all-1126-rdf
 title:в латвии арестованы вероятные поджигатели оборонной фирмы в эстонии
+seen_urlhash:b448de417da43d287b2fe56ae0090b84ed736eaa2f8f8c7adad75f798a0cb5d9
+seen_titlehash:934a5b0f6d2929762392805895fbb3f848c781537314627d08a603c874addb47
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html
+title:what to know about iran s economic ties with gulf countries
+seen_urlhash:ab0933ca2446f8d3f7e8b515209625bff47425382aa45372d8212ffa82770a1b
+seen_titlehash:f56e79351e4bb5597e16b2e74a50334c4d43c134e97c23bace271517d19060d4
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit
+title:prince harry and meghan to move back to uk six years after royal exit
+seen_urlhash:cc28656f1d74cc64c76abb789f7753f61b018fb477b45d224e007bd2cbfe5dc9
+seen_titlehash:8112e917e569b59954292ca6d091f9cd7801a039d235f9301e97248335e1a3f9
+seen_reason:processed_not_published
+url:https://dw.com/ru/дональд-трамп-подтвердил-что-намерен-встретиться-с-главой-кндр-в-этом-году/a-78437851?maca=rus-rss-ru-all-1126-rdf
+title:дональд трамп подтвердил что намерен встретиться с главой кндр в этом году
+seen_urlhash:df93c6228327ed7a24093fc7ab7960256a3673f6b0aff9d07e4992e0054a0fb6
+seen_titlehash:d0e6e1f701d9ffb79f2c98678dec69d3159bd86800e9e3bc5118df857c159f01
+seen_reason:processed_not_published
+url:https://ft.com/content/a2e60734-8b02-4474-8059-4c0cba0ff5c4
+title:fed s july minutes revealed growing concerns over elevated inflation
+seen_urlhash:4b2f6fedb8e65626fbc8dae08416d2c41586ba3e55feb5722ca28b4ab9d39306
+seen_titlehash:08fab0ec495dd823095953c5cbce7083d1ae12c988462755a9fb4316c8f188f0
+seen_reason:processed_not_published
+url:https://ft.com/content/832a6431-5af9-4dd5-aa72-1d4f570527cf?syn-25a6b1a6=1
+title:firstft moderna s landmark cancer treatment leads to share price surge
+seen_urlhash:b99db3119b932c05786427f0d1a3d4f0f7bfee1daad5640ed30ac0fe54f856fc
+seen_titlehash:f3971d219f111ad700b1047bc40e95472fbb3c4e6ae802879267e3567655d0e4
+seen_reason:processed_not_published
+url:https://ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1
+title:hudson river posts 11 4bn trading windfall as it seizes on market tumult
