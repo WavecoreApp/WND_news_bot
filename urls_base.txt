@@ -59083,3 +59083,38 @@ seen_titlehash:8f46b07affda4711c7ea286fe804fd0b0812e55c030196bc418e803195d632bb
 seen_reason:processed_not_published
 url:https://ft.com/content/63781160-8d91-4e88-802c-6c8aac41d32a?syn-25a6b1a6=1
 title:google s china shift and the battle over ai models
+seen_urlhash:42b503e197f69b5e03f04d1f95340bd88ae88ad5ab50e0acaadb98a51c2e34a1
+seen_titlehash:b0814e65bcccddca013dceef7cf5e14481e8c895e0c67a0beb6d27cd4f802601
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss
+title:netanyahu warns israel will not tolerate turkish military presence in syria
+seen_urlhash:b5948ae3a9015215620c168e7e794f8dfbd211a6385b4b375c3119a31bdfed32
+seen_titlehash:9dca44cab248debaee5577d3b26b6336424e63b6121dc5f6b6ab72eb75d89fe8
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss
+title:oil flows nearly tripled before us iran mou expired analysis shows
+seen_urlhash:ece1ae65b163ff14e07011987f84a780cf892c7fee2e95a740f194fcb5ccb99e
+seen_titlehash:5e9215479b3a0cbf436b1e559143c432f5a90ee489d85c8db7ced12e99a76611
+seen_reason:processed_not_published
+url:https://france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy
+title:what property giant evergrande s sentence means for china s economy
+seen_urlhash:198f35559f64f8622476228ce1655e8061ea2be4eedeca1f71a47711722ca817
+seen_titlehash:1aeef4823fcfc659ddb7cefeac2d702decdb0408a25de546a4adeaa71f4ae267
+seen_reason:processed_not_published
+url:https://france24.com/en/live-news/20260820-china-jails-founder-fines-disgraced-property-giant-evergrande
+title:china jails founder fines disgraced property giant evergrande
+seen_urlhash:aa31f34af5bcdfcf9bc86f889989a9de75a071b9b7d984b19448c046c114ec8e
+seen_titlehash:50738a19247ec2c0f0404a7ae0485ab2af55a9994c998b075c571bead23316f6
+seen_reason:processed_not_published
+url:https://dw.com/ru/рф-атаковала-дроном-пункт-пропуска-на-границе-украины-с-молдовой/a-78439623?maca=rus-rss-ru-all-1126-rdf
+title:рф атаковала дроном пункт пропуска на границе украины с молдовой
+seen_urlhash:d3dd4991c16fdcef8f7a7c5d080511b6ccdc596fb9c489c5c7d1863082ebe14d
+seen_titlehash:f529c4b2c8cbeb06a06a1c80e4c7bf7a134dba7cf0b676e8388acb161ffeb10c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/burqa-banned-portugal
+title:закон о парандже португалия запрещает скрывать лицо в общественных местах
+seen_urlhash:dd988d692f293bd35455ddfafb83e240ff12b836444fd8d5127f15489f619b88
+seen_titlehash:5b2e2c3458d3e62ba04f59b349b34137c74ce5d8ab895a9f215512fd12d4e8c6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/ukrainskie-drony-atakovali-tatarstan-vlasti-soobschili-o-postradavshih-narushena-rabota-promyshlennogo-klastera
+title:украинские дроны атаковали татарстан власти сообщили о пострадавших нарушена работа промышленного кластера
