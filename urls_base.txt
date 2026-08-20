@@ -60203,3 +60203,88 @@ seen_titlehash:0b5197d43a4d0986e20e4e28521472cecfcd1260c536eb654b3d392da31ae3e1
 seen_reason:processed_not_published
 url:https://ft.com/content/b536b114-8a82-41ef-8e44-42df0716dd03?syn-25a6b1a6=1
 title:stripe bets that an ai world still needs middlemen
+seen_urlhash:53dec960975060ec16e98b6152c03b6bf8e1582a15454ddadc0999ea8b89d37c
+seen_titlehash:9981fc31369a5d2a99b5c7cddf580aca1f28817b330e04aeb8e3568abe8a03ef
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss
+title:us says sanctions will squash iran s economy and collapse its regime
+seen_urlhash:a780c46635d4c9360dce55413dc0bf8416c79cf930eabc8978f14a3a9a7eccc9
+seen_titlehash:43ba67d9ac786a501df283df7ade95629345d3656c634ddf2a8201a67988c22f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss
+title:uk france germany italy and canada condemn israel s west bank settlement project
+seen_urlhash:2e159186428fb378550b3125e585de48a6e9ed2a961fc0b946d1704186128bf4
+seen_titlehash:d04cf9ab53bc125aa3d2074a062c11d1a7bb690c7427467c6890dd9fef2ca210
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss
+title:thai schools hold shooter drills after deadly attack
+seen_urlhash:da745d02cc070d636f59adb7ef28ae42b2d8ea24d30728cf1bb0d75ce0f3935d
+seen_titlehash:a7955520bf207fd47cd440d7820b6f5c398cb642f3112addf90e34fae36fe4a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss
+title:ahmad hassoun assad s barrel bomb mufti faces damascus court verdict
+seen_urlhash:71f0ba8d29ba650b946f6cf8f3f1ba67d50cee97ea6a75d1943214e79aa55680
+seen_titlehash:a46905913b520eadee129865714d1bbb2466cbca495f9ab067cfdd22da01ef63
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss
+title:fbi raids ex us representative swalwell s home amid sexual misconduct probe
+seen_urlhash:e4357635b552e4dd5af50841484c50a8926a47681d34db6792c5c40de3e159ea
+seen_titlehash:de3b79e8b3216c8b4eaeb372cd48ad9943927f5e90757ad098486c407a6dff5b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss
+title:dozens dead after boat capsizes in northwestern nigeria
+seen_urlhash:5aed55696ebd49f937c4ef9713478d1ba4dcc703320d942f80f7025a5081668e
+seen_titlehash:540c7f68371999b1aed89e2f1ead2170fd155a1c814e033a3057b959b11b0523
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss
+title:first group of us deportees out of an expected 1 200 arrive in liberia
+seen_urlhash:48a630c242629b62e0d9ace7ac067ef1079c3b9377ad06e5c9558d25b544f566
+seen_titlehash:e10050f5ca9ff02bfb45400dc72b82874048c958370017e9f5499605a600881b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss
+title:the road to el obeid sudan s besieged city sheltering thousands
+seen_urlhash:88264fc1168f4c3eacc59607616adb488df74dccd61a08f9e19d765cada964d9
+seen_titlehash:096ddef0514bc74766815d32b634cbca9ad522925a1060b5b089fc84faec92c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss
+title:russian paramilitaries in mali kill nine including children hrw
+seen_urlhash:b3059dc798bd8a595b438a1766b0263b05ea6ae7fcf46a567d2e716fc5fd6748
+seen_titlehash:3973907977deb61e2c6597f717cc36d0c66a0fa4426eba085245d02c5082db61
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project
+title:france germany uk and italy slam israel s e1 west bank settler project
+seen_urlhash:30522e47021c3447148ce5b3119a347a3ac0fefaea3273bfcd86d75bc807e03e
+seen_titlehash:a12208dcd8a26f1d30b2d769166bee8bf587fce6d143075d083002672beb150a
+seen_reason:processed_not_published
+url:https://france24.com/en/extreme-heat-we-re-really-starting-now-to-understand-how-global-climate-is-impacting-our-health
+title:extreme heat we re really starting now to understand how global climate is impacting our health
+seen_urlhash:357a1c58cb82ed3fa0fec44f460cc1a32e04b372e5ded89f411f46e44fbe09c8
+seen_titlehash:51ba303a27e55241b8f52bc39de5f6a70f07163344071ae0d84753adb5a3aa1a
+seen_reason:processed_not_published
+url:https://france24.com/en/landmark-case-against-meta-focus-shifts-from-online-content-to-design-and-infrastructure
+title:landmark case against meta focus shifts from online content to design and infrastructure
+seen_urlhash:18f748fd8087f59b2188b9e034eeb553c94313fa94f327183da3a6fc82b34a4d
+seen_titlehash:2c09c98edf64068ebe1799c0b654ce779c12eb1947dfbdb4c5f2280cf727d72c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-польше-украинца-обвинили-в-попытке-покушения-по-заданию-спецслужб-рф/a-78450637?maca=rus-rss-ru-all-1126-rdf
+title:в польше украинца обвинили в попытке покушения по заданию спецслужб рф
+seen_urlhash:e829019d68209ea08b02673dac3d5743743cb2a16a0ec3c495b0fb0af2e990b0
+seen_titlehash:28ff620cacc9933b5cfbf65571ce74fa447ef0e659d4c225a2aa2ae96e918d69
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/finland-isis-trial-children
+title:в финляндии мать обвинили в вывозе детей в подконтрольную иг сирию
+seen_urlhash:ab39084360828ab7bd01d31c180aaa5340a1af22bf9988837d7704447623763a
+seen_titlehash:7547ba7c5b4c629a35669c87866621c4e95bfe257dcc3c82faeb338fec45e350
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/umer-sozdatel-leprozoriya-yovan-savovich
+title:умер создатель лепрозория йован савович
+seen_urlhash:b97559262c3e6b85b883d0bdc6c0dd0379d5e3ad00ab5d6d1fde6e2c2077198f
+seen_titlehash:8e13ef8dd8e7c3d4a3d02e6c13cdf3a3abc6b8ac9240d402609feadb166df336
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/rossiya-vo-vtoroy-raz-za-sutki-atakovala-kiev-posle-odnogo-iz-samyh-masshtabnyh-nochnyh-udarov-est-pogibshie-zhiteley-predupredili-ob-uhudshenii-vozduha
+title:россия во второй раз за сутки атаковала киев после одного из самых масштабных ночных ударов есть погибшие жителей предупредили об ухудшении воздуха
+seen_urlhash:ed38e6c79df04d69678b9a4f51933ce3897768eae804134c42cba2d16e1bb4d5
+seen_titlehash:de19e4791286759351f205acdfb1d2227e7da5612b143c6d2cf85ab1edde5047
+seen_reason:processed_not_published
+url:https://ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1
+title:quant funds rocked as treasury boosts buybacks and moderna shares leap
