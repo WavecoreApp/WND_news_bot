@@ -59388,3 +59388,138 @@ seen_titlehash:ac997f46e0a327ffca02427bd73884f1d4eaac8674d5bf29aacf0b0aa889d0dd
 seen_reason:processed_not_published
 url:https://ft.com/content/f72bb58c-d0a9-43a5-adaf-a68338a1db1e?syn-25a6b1a6=1
 title:gcse results show worsening pass rates among students who resit
+seen_urlhash:cc165680aac73c3d0b7438a87b4fd7b1183327e0835f9203c9566ce1f65e9d34
+seen_titlehash:dc55cc886371e1a5f4bffce97bfcb55572aeee25863df42e0fe3368670633146
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html
+title:a prince at 26 once secret son of belgian royal gains legal recognition
+seen_urlhash:00054cb141489ca0334fa06761fa9f60a7cf529df25c1d5b091e48f4bcf2a5c9
+seen_titlehash:0c6cdda4fb0ee35d531087d8e2ca3b39fc6132190d106be3b4f7e0aa42cde845
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html
+title:as harry and meghan plan their return britain wonders what changed
+seen_urlhash:a1185a7c3a5cc7b05bd4a7080f4458fadd15280cff51493f758d00cf4b5311b1
+seen_titlehash:fb20923fc7e6191d2b0ec33487df5029301eacf921e40b828df1b4799ce0c6d5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills
+title:north korea fires 10 missiles day after trump curtails south korea joint drills
+seen_urlhash:828176c3e2e568ef10f981776ee63e0357d48c380840a2dc528c64cf0bb91991
+seen_titlehash:01b8248cf6296cd7ce1603c64eab54d23397b3e95031a9ed1c7134bf90b16141
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss
+title:how myanmar s war drives the rohingya crisis
+seen_urlhash:002e57458ccd1cc12b2f35e63d30406d4a8c07cf3fab44405b98a5304f80f9e9
+seen_titlehash:4745948fe4c1fc91d47a07df2d02a316a33922e08c0cbe3a4dfd40cad7441ba7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss
+title:syrian official says no plans to establish turkish military presence
+seen_urlhash:67bd750149204e8967fa481143395406d3870555979ee259eacc0c87fa194ecc
+seen_titlehash:b0ab23601feb215f7d8ffb7d050d326326981e0a556e866e274b36b3b24c8bfe
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss
+title:taliban secures pragmatic global alliances without formal recognition
+seen_urlhash:154787704b9043714d3ec21c29b71295f0e98769a53fa102455d592b2d85565d
+seen_titlehash:a79082309dc4b848f71cc0695101b74606631136f0cb511bea65c0296af800ae
+seen_reason:processed_not_published
+url:https://news.sky.com/story/tanker-boarded-by-six-armed-people-off-yemen-13574987
+title:tanker boarded by armed people off yemen
+seen_urlhash:e93556655a6776e7498c26dc45d256578987399df448e81966ca7ba264041ed6
+seen_titlehash:9b0229adc1b138382db6b5b10a953c4378067aaa120c360638bccdd860202e88
+seen_reason:processed_not_published
+url:https://news.sky.com/story/bodies-of-belgian-hikers-missing-in-alps-since-1992-found-after-swiss-glacier-melts-13574951
+title:bodies of hikers missing for 30 years found after glacier melts
+seen_urlhash:04d2443608e2fba5b873bc3feb61872c465ebbbfcbd9d9482b8aa4dbf09e887e
+seen_titlehash:41f19b1c47809f54adbaea5817c34cd3545951f89a7397266be01cd358a3bedf
+seen_reason:processed_not_published
+url:https://dw.com/ru/война-не-ощущается-как-москва-стала-провоенным-городом/a-78440424?maca=rus-rss-ru-all-1126-rdf
+title:война не ощущается как москва стала провоенным городом
+seen_urlhash:b72fbf7ca323d30899de152df0936697975af891d1cde320417780f65ed6ab9e
+seen_titlehash:10af8a9b3ae5ddc52281493ab47db27395621e3654063935e616fcba21a82ad6
+seen_reason:processed_not_published
+url:https://dw.com/ru/вывоз-нефти-через-ормуз-сша-тайно-проложили-морской-коридор/a-78442329?maca=rus-rss-ru-all-1126-rdf
+title:вывоз нефти через ормуз сша тайно проложили морской коридор
+seen_urlhash:93c8a4262d39022d983e85eebf5980b7726203fd9f05ba81174529835759768d
+seen_titlehash:3b6d55c123cf33e940cd56a8ea00701e3118bf15485246986057fd0b10bc6713
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/poland-fighter-jets-kyiv-strike
+title:польша подняла истребители во время удара по киеву
+seen_urlhash:a13b2b9982cdfafba679b97ebbcda275a94d4c215cb4a3c29899be331028c2f0
+seen_titlehash:d5ac4aecdf5f9af12a5d9671f6ffd994f17cdfdd2dc30ddfe77cf701eb36e604
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/20/tibetan-protesters-in-new-delhi-denounce-china-with-shaved-heads-and-prayers
+title:тибетцы в нью дели протестуют против китая бреют головы и молятся
+seen_urlhash:c3964c9b37c797b5182cc6fb34581364a07e9039f3b4d4c483eeec3b845625c7
+seen_titlehash:14d31bb319ed7b747962e1ea1718bf520fc4ce61d68a8a3efbcb2bcccfb7893b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/russian-banderols
+title:бандероль новое дешёвое оружие россии против пво украины
+seen_urlhash:ebd84b3f3d651c6d467198c17a3932b0a3d646f330b0c02c36e9949064f29276
+seen_titlehash:7a3e11b1b90ddbe8b6a79c04b958eead8e380643768ad5a1d3503e9087672696
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/playmobil-po-vengerski-neobychnaya-diorama-v-muzee-goroda-pech
+title:playmobil по венгерски необычная диорама в музее города печ
+seen_urlhash:de1facecd9cf662ececd4a3d7c4dde848510396ab67453e41ec19e2a5cf223e7
+seen_titlehash:57e019fb28fda00c2cfd9343d785fea525b1a454491311911e3b10eb0bfa76de
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/20/raiders-of-the-cookie-jar-harrison-ford-and-cookie-monster-break-the-internet
+title:охотники за печеньем харрисон форд и монстр печенья взрывают интернет
+seen_urlhash:2fc911cbfdd33220fad41143817e58fbcf14df376203d2a6b34706f833a1b656
+seen_titlehash:59886360867d9fee37e032ed7e566f204af2bf0125fb47664618b00f07751cdc
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/20/colombia-reconstruction-es-team
+title:чоко после землетрясения самое трудное впереди предупреждает юнисеф
+seen_urlhash:5d4125b46d505c6df8acfaae177d39d3f1b32941843edad59ceda27725858552
+seen_titlehash:eb3bb60a47e1bac0818e83c0027ff0ddf16ed4b95b866d1ee69fa054e93f3a4f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/20/quevedo-temporarily-overtakes-rosalia-in-monthly-spotify-listens
+title:кеведо обошёл розалию и стал самым популярным испанским артистом в spotify
+seen_urlhash:87894d19e0c3fa8d00d161f9b90b8cc331c805142a4587a508623828c0eb57ee
+seen_titlehash:9586457e9bedd5a0f712be6931be7ba0e4ccab52e5a831e50787103eb4863a3e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/20/i-want-to-try-it-so-badly-how-tiktok-influences-what-teenagers-eat-and-the-role-parents-ca
+title:так хочу это попробовать как tiktok влияет на питание подростков и роль родителей
+seen_urlhash:624bb0ad3a26244e29d0377dfffcec438a12ce6b2d0e9b4be25934e699187f2f
+seen_titlehash:18ee4227558e722d7a08284aa65dcc2da412ff4e55f469e68f33ee517e543601
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/spetssluzhby-germanii-otkryli-goryachuyu-liniyu-dlya-emigrantov-iz-rossii-kitaya-i-irana-opasayuschihsya-presledovaniya
+title:спецслужбы германии открыли горячую линию для эмигрантов из россии китая и ирана опасающихся преследования
+seen_urlhash:0feaa88f5bf42160ed93d268c8ae607b4de78dfb05cfbf49968e9e445801c949
+seen_titlehash:b64654fd3459aec57c483e0bcd1eaf8136b86889f5e962e22847dc0cdeb4eed0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/zayavki-na-vstuplenie-v-yabloko-na-fone-ego-snyatiya-s-vyborov-v-gosdumu-podali-vosem-tysyach-chelovek-v-samoy-partii-vdvoe-menshe-chlenov
+title:заявки на вступление в яблоко на фоне его снятия с выборов в госдуму подали восемь тысяч человек в самой партии вдвое меньше членов
+seen_urlhash:5cddaa4aa1f0fb2f43058bc7ac006939d6ef633bb485919dbd17cc726f81102e
+seen_titlehash:0f5b79f4d68814eef7cbdcc05d1b2453b4732ace8b4eb4313149fb7e3a1da405
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/20/seychas-govoryat-chto-oppozitsiya-konsolidirovalas-vokrug-yabloka-rovno-za-te-zhe-lozungi-4-goda-nazad-nas-nazyvali-agentami-kremlya
+title:сейчас говорят что оппозиция консолидировалась вокруг яблока ровно за те же лозунги 4 года назад нас называли агентами кремля глава московского отделения яблока кирилл гончаров о неожиданной поддержке
+seen_urlhash:9fd6369c13460b9f8cddb9a953be083f4670f54c3c1904bdf717ead8abb90719
+seen_titlehash:b5460cc58f65d4a64a95ede36be802cbbcf8134b07e1534ad9a00bf43c1e23ac
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/v-irkutskoy-oblasti-mer-edinoross-zastavil-snyat-banner-kandidata-ot-yabloka-s-lozungom-za-mir-i-svobodu
+title:в иркутской области мэр единоросс заставил снять баннер кандидата от яблока с лозунгом за мир и свободу
+seen_urlhash:c2cbfd5ddaa3f53518324ba314243fbf4541d61e7ac6302c0639f2df105675e9
+seen_titlehash:f0b906d2e7fa12c51280e363938a8e483e08b42830410f1bcb2e3607c5983df5
+seen_reason:processed_not_published
+url:https://ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e?syn-25a6b1a6=1
+title:north korea launches missile barrage after dismissing trump overture
+seen_urlhash:84b7255ccc149a86ff705d360e98cf67011178c9ed44ac95ae8dbbdd1e82ea8c
+seen_titlehash:d226a4fab8312fd5e88b8585daf65a17f6f67f5fe053e833b1d04ed380b7fa67
+seen_reason:processed_not_published
+url:https://ft.com/content/f72df19f-29f2-4330-8e27-c69919d56972
+title:treasury demand has become materially more valuation sensitive
+seen_urlhash:badcd1c0cb5218304876c4c92cbaa3fb01ee644d59278d5558e1fec39b122538
+seen_titlehash:68f85abc34139e5fbfe727ce764924ace6bfb6acff14f3d09aea16d367c7cc0a
+seen_reason:processed_not_published
+url:https://ft.com/content/2e59ab7f-ed8f-4cbe-9faf-b2cb408768d5?syn-25a6b1a6=1
+title:harold hamm launches multibillion dollar plan to drill argentine shale
+seen_urlhash:9d6ee91573c495144a847cafbcffead35bec703ca1caf66e4a20ee81de4b70d2
+seen_titlehash:9306e9f57b0ea36087b31d260feff9cbdb5678e12c9d24b6109233a61cc5ce5d
+seen_reason:processed_not_published
+url:https://ft.com/content/a26812af-663c-486a-9955-bb392763403c?syn-25a6b1a6=1
+title:trump aligned oil group touts sealskin diplomacy to win over greenland
+seen_urlhash:296216c557dbf077a72feb0d8e3a3481017c25e649f41bc1c0c08400f18af752
+seen_titlehash:5e6bc8c15b11daf9113f4e86a2e18df1ead82c603b0025b29ee08f96bea22a2f
+seen_reason:processed_not_published
+url:https://ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1
+title:trump is losing his war of independence on rare earths
