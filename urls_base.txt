@@ -60488,3 +60488,33 @@ seen_titlehash:a68b8d36442539df3c372332c6447f4755f049ecc7b7e18a4c68cc4897fb2c92
 seen_reason:processed_not_published
 url:https://ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1
 title:firstft scott bessent s intervention to prop up us market fails to soothe investors
+seen_urlhash:4473b5c541cafba38bde9eed6c7e33b10a945c7fae4bd49319fb9e6297e04321
+seen_titlehash:2b37bd5bf5a5c8553f22d295ead6b1c235449681b1b8baed581986f28db9c4e5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/us/nancy-kissinger-dead.html
+title:nancy kissinger wife of former secretary of state dies at 92
+seen_urlhash:4761b2f3e4f2ca42e76da2e230e7f11305559f76adf898db530f8e8088edec23
+seen_titlehash:2d95c6aa56cdd22d98d496697dd3c62ed93c0ae79dda26267c5273df4c9de76f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss
+title:us charges woman for allegedly plotting attack on new york state capitol
+seen_urlhash:5e87c9214ceb41ea48d51f9ad09be09bb83cfe45f12f9568abb4455e274302e0
+seen_titlehash:7711a85e2c0789317283947468ca0c2abb1eda840d6e59e9e84f7d1eaf13a462
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss
+title:the cost of rebuilding family homes in war ravaged syria
+seen_urlhash:c5fce1033806bf48a06f3bbe38fd6cd3eb8244e47d0833040ca58519785dadbb
+seen_titlehash:f045db155ac0a669a123e0e92cdcfd6c9c20287653680b09cbceb89f436f39e3
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss
+title:new york mayor mamdani sues to block 10 000 teaching aide bonuses
+seen_urlhash:437d616980871b1bc7cfa9afdb5c7928aa65ba4b903ffcc146a48fa6d3f576ba
+seen_titlehash:c31fda6a1055a3a6ce42b733436738c1ce6d052309f840711f3e2c43a2ae140e
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino
+title:panama canal to cut daily ship traffic as drought worsens from el nino
+seen_urlhash:0d69666934cd352ab1a1159cca11fbd0bbb3d54eb6fa0a667b9d5976a5977627
+seen_titlehash:f54040f1685a7947b967cbbcd24a7b02ce48ae857216da5d4e0a71cb9ed6e48f
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-украине-запретят-мультфильм-маша-и-медведь/a-78451554?maca=rus-rss-ru-all-1126-rdf
+title:в украине запретят мультфильм маша и медведь
