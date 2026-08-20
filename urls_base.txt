@@ -59843,3 +59843,113 @@ seen_titlehash:fab97327533cf0683b61355264a96df6c2b574131f753f0ae2eaa3b8221511c0
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/20/v-polshe-zaderzhali-ukraintsa-podozrevaemogo-v-popytke-pokusheniya-na-predstavitelya-oboronnoy-promyshlennosti-ukrainy-po-zakazu-rossii
 title:в польше задержали украинца подозреваемого в попытке покушения на представителя оборонной промышленности украины по заказу россии
+seen_urlhash:5ad836535c1e53d29c974ff41a41aa2bdddb8dd582037297d33a00348018bf5f
+seen_titlehash:9422541f7c9f470e496394e097b19df34c13068b99936289db00205ce1a3343f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss
+title:landslide at unlicensed colombian gold mine kills 13
+seen_urlhash:e3459175482698b5b4c909a01c68999a839c0ecaad21822293a9d215c5cbafef
+seen_titlehash:35f2a2affdd727053316302c4cac2401c5ddb4cba705089143beb1ba4e193973
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html
+title:state dept declares u s citizen in china wrongfully detained
+seen_urlhash:81c2b85051237d4d99ab0a9278c9269722b08c061b0acf3fa93ee024ece7b4a1
+seen_titlehash:41545ff1a1329a7e45559b7c983e566bc95e513dba635a4df99b18642bedc781
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport
+title:sydney air traffic controllers have grave concerns about collision risk after airspace redesign
+seen_urlhash:7bb2ec235174e4f1f78d9b10003d22c962f2529631f8cd6d13f7b15600bf9e2e
+seen_titlehash:89e49e46160d176b205fe4220fbdf111ca02dcca2feed44434152566adbe92b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss
+title:landslide kills 13 at illegal gold mine in colombia s southwest
+seen_urlhash:7de5cdfbb26255a4dd1c7f32a258fdf79d2582c864903c3973f63738f14ea424
+seen_titlehash:a024b366bd78895e80625268743de634a17306adece4cdae12ba586f0ce31feb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss
+title:how china and russia could hobble trump s plans to isolate iran
+seen_urlhash:06bda8ebe941ccf6a5304bd1cca3640d1ef5c28c83140075ec7cf7d6f8e21f1f
+seen_titlehash:61d8d622b53e97f05ea54b9f66303d0bf076360bb3b91b5ca852374fc70ce32a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss
+title:governments brace for historic el nino impacts on global weather extremes
+seen_urlhash:7bb100979880e0dab78b9ce8aeadec09dd1779ccb4b9186dce36b6239cac61ab
+seen_titlehash:d06293e5b851934f7a980d102a92b7d0e37bafc986a4b89e488cfc6ff50019e9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss
+title:tremendous costs can trump stop other countries from trading with iran
+seen_urlhash:c6d8df251afac5849c0f4bed8c83b591d35be46b6a421a6ceda107f5c2b387ca
+seen_titlehash:33b37b768a1386dfef8b0c3c50ea121b290c61740c07a812ccd47054cea029f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss
+title:uss washington arrives in middle east after aircraft carrier outcry
+seen_urlhash:529b77e22e470332a3278a0249fa40eb9b998321aace71b9820c49a3b91a2cd8
+seen_titlehash:e7357e9aac5af609f682bc3e6cb896564024dee0ea1185b23862bb754d492173
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dead
+title:gold mine collapse in central african republic leaves at least 100 dead
+seen_urlhash:baf3626a31f76a759071c15a291ea4c114dd4f1cb4cf8071011e06a385e10047
+seen_titlehash:6a3747caf75933ea70b036e19b4bd646fc2d12c38e520336d7914ee269a2c487
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-kyiv-under-fire-russian-strikes-kill-at-least-16
+title:kyiv under fire russian strikes kill at least 16
+seen_urlhash:351d71dbec4727fccffdce61211dde6ed34a5b94e2bd29bf3a12b8d1cc69bd05
+seen_titlehash:0b5a0157ddd980819a8addd716d5c2aa4afbfe20ea622026520145eed6d168fa
+seen_reason:processed_not_published
+url:https://dw.com/ru/наказание-без-действия-чем-опасно-дело-сотрудницы-совы/a-78448169?maca=rus-rss-ru-all-1126-rdf
+title:наказание без действия чем опасно дело сотрудницы совы
+seen_urlhash:b70ae44a8c129ad84bec102087579f03b0635740371be4c9207288113b917903
+seen_titlehash:44488fcc5a8c7815d553d9a62bc47a1610b4b25670c6214a15733137240e9f5b
+seen_reason:processed_not_published
+url:https://dw.com/ru/экономика-оаэ-на-грани-краха-или-на-пути-к-восстановлению/a-78444749?maca=rus-rss-ru-all-1126-rdf
+title:экономика оаэ на грани краха или на пути к восстановлению
+seen_urlhash:c49aa4950b3c8e5af436eda3d1b00a5301dfaf7cd2951ecd09ba11c440ddadcf
+seen_titlehash:7fff92206ca01bbe7cfe254fea9ab27e26421c36d382d55884620d235f52b1d5
+seen_reason:processed_not_published
+url:https://dw.com/ru/выборы-в-казахстане-зачем-токаеву-однопалатный-парламент/a-78447354?maca=rus-rss-ru-all-1126-rdf
+title:выборы в казахстане зачем токаеву однопалатный парламент
+seen_urlhash:6b4a44d29fc0df403ecb8d51d40f32f2007264a245653dda8f82caadb3ee0aae
+seen_titlehash:b6a4299d016a607d2e6cb7e6338bcb0f1f91782bbec394e2fa02ea66c34ef00f
+seen_reason:processed_not_published
+url:https://dw.com/ru/еврокомиссия-для-защиты-в-ес-украинкам-нужно-доказать-что-они-не-уклонистки/a-78447413?maca=rus-rss-ru-all-1126-rdf
+title:еврокомиссия для защиты в ес украинкам нужно доказать что они не уклонистки
+seen_urlhash:db6a38e8b08fd25e157cb08fb599065808cdefb6a8ee04af19556899bfa18008
+seen_titlehash:8b45e033a19a44f23106a6f404df7a1a5c395130ae99ca9d6baa12fb29b9c48e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/20/screw-chega-british-band-displays-controversial-message-at-ca-vilar-de-mouros-festival
+title:пошёл к чёрту chega британская группа показала скандальный лозунг на ca vilar de mouros
+seen_urlhash:f039c22800afb7a5362e024d594f965cc03cc66a18a33dc254e027078a43dc23
+seen_titlehash:9cc17d3c7c0f20d992337687cf2fe2968ad6d2883c319937c6825814f32d3151
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted
+title:ии не завоевал доверия людей а его создатели тем более
+seen_urlhash:5d7473dcb5ad888e457b0a2dce9ebcf70cf969f825b8c319049ac18b0cb93918
+seen_titlehash:fc2b982d6fbec2e623f6bee3f03d2cb648e6b107dc7ed8e7fb13c0344da26061
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/20/a-whale-museum-with-a-rooftop-viewpoint-overlooking-the-sea-is-set-to-open-in-northern-nor
+title:в северной норвегии в следующем году откроют музей китов с крышей с видом на море
+seen_urlhash:5c677ee0f41c22d06d4ebd46927092357f7f1618a7d719d247046e96b900a4c7
+seen_titlehash:7f0f376e5c08fd6ddacdf9554e53170fce7edc688a67ec7dd6e8d722c68a5c66
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/lagard-preduprezhdaet-es-preodolet-razdroblennost-rynkov-ili-proigrat-v-gonke-ii
+title:лагард предупреждает ес преодолеть раздробленность рынков или проиграть в гонке ии
+seen_urlhash:e60eb0420e599e028ada70a1043f2c1e16581eac1272788ecc8ed68fe2aa6710
+seen_titlehash:5b7955c3dbb2395999462ad8ddb7efd3617cc05377de2ee63d8a60202681da51
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/germany-storm-casualty
+title:торнадо пронеслись над германией погибла женщина есть пострадавшие
+seen_urlhash:b3962591b5a9b453b21be35bd27dfff77a620564a9be7497d19b6d1ab9fa84e0
+seen_titlehash:71e30794c61e027b654049809e2a88ee37658cda54d2e8396294fc34e6ac744e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/20/europes-borrowing-costs-are-rising-what-does-that-mean-for-you
+title:в европе растут расходы по займам что это значит для вас
+seen_urlhash:bf0b9327787c1a0a9ca4a44ab9b6f6e47c25b8133cf30ef763b8c2474ca7224a
+seen_titlehash:76a483064843f3525bce957e8a024978112511565f582b33817b20d48789edd6
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/v-kieve-v-rezultate-rossiyskih-udarov-povrezhden-kazhdyy-tretiy-dom
+title:в киеве в результате российских ударов поврежден каждый третий дом
+seen_urlhash:4d5e24fe6aa8527a019e2bed585fc6deb6bfe48d6fa3512494d9612b07dbbf08
+seen_titlehash:358c176bb4694f33ecb56c62e1ab36da9818ec0bf9a2e3c35d5a269619a2aa8a
+seen_reason:processed_not_published
+url:https://ft.com/content/a355db7d-19f6-469a-a528-8376ca4db5ce?syn-25a6b1a6=1
+title:moderna breakthrough brings back memories of pandemic mania
