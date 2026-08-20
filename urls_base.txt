@@ -60428,3 +60428,63 @@ seen_titlehash:6b1261cd6cdcf57fe3a67bdcf1536b531b1a1ca352adf2f94a6a276d681c6172
 seen_reason:processed_not_published
 url:https://ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1
 title:guggenheim loan trades in distressed territory after investor call
+seen_urlhash:dc200ddabde9871a2929c7a3b15548883e1b2d114bf1e7d2aaf845ecf5799a98
+seen_titlehash:a0ce3be76c2b00a633512bc3ed8aaaee45943a2dedc9d15579fbbc18a90cce24
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss
+title:dozens dead after boat capsizes in north western nigeria
+seen_urlhash:b02838e2a3023082a5f4825b9ff9914e864115d632c0051df6b09f6f02b045ce
+seen_titlehash:316e797ccdd4190fd75cc2f902f9eaf08545f9b085243d9fffcfa16740b0ef85
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html
+title:2 hijackings in 4 days somali piracy surges
+seen_urlhash:e26ceea0483dc12f4ae439d53ebb4d463f348ef22c62bb92bbb789a9abb05163
+seen_titlehash:2eb69f5b1603c67484f481b3fc9f90c8d6990b1b7f8667ddc3ca459868824695
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html
+title:cameroon s aging president returns from monthslong stay abroad
+seen_urlhash:54ab361e0739ed86fb0c4cae9239f97c7b1de42d9e4c5e7999a95a19a50f32eb
+seen_titlehash:cba742d2ed57e8d37c0b2fe2b169a296917d236ce4cae8b044d5b72e3f60e74f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html
+title:the message behind trump s threats of economic warfare against iran
+seen_urlhash:83c789f1d5a1ddd8053e2cb7a767cfcc7d8e6c767857359251059b81124e44c3
+seen_titlehash:77ec3273cd38a813a3475ed03977a574b4d0c7994db30d40484e58801a5a7de4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html
+title:japan s u s ties could not save a top judge from trump s i c c sanctions
+seen_urlhash:48657376d1963a5d9bfe80a418c50db151a5d39aa54878c77afd342833eb5d11
+seen_titlehash:44b76a21e02251c025495d26c1e391e2725a59c3ccb83a6a665c5ff52e55c192
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss
+title:pakistan s ex pm imran khan reportedly moved to hospital from jail
+seen_urlhash:0297a3d39d181fd45bf49c22a177218a932ff7ec60341dd4afe6b05b2fa5f2a6
+seen_titlehash:414ca4a45b7a3564e9918977befe46b7d0cdb9b3a99f802db73da21f5a740822
+seen_reason:processed_not_published
+url:https://news.sky.com/story/former-pakistan-prime-minister-imran-khan-moved-from-prison-to-hospital-for-treatment-13575207
+title:former pakistan prime minister imran khan moved from prison to hospital for treatment
+seen_urlhash:8444a95314d4f85f8766d7d3d173a1c50221e522181983f514fa3a3458c486e4
+seen_titlehash:d03189b2b9828152a1bef448f17c0e5a22d5add59c2039ed794a33fcf6014553
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/eye-on-africa/20260820-major-nigerian-coke-bust-leads-to-arrest
+title:major nigerian coke bust leads to arrest
+seen_urlhash:699927a200c5c843bc4ab7625ab9d335c9b6dac3becbe063480e33af56ed20ae
+seen_titlehash:6a2f87d5cec8cd645f3ba543fe19cdd4a3a4f9bd8a0d051b4bac889cb36ca32c
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-a-genuine-fragile-democracy-internal-political-turmoil-will-weaken-political-system
+title:ukraine a genuine fragile democracy internal political turmoil will weaken political system
+seen_urlhash:cdabbd5223c3c91749598cef7265d6509e87781e7c18a1e4f0d6659afd66b4a3
+seen_titlehash:ea1f6b93a7ecaeee3e0ec03f03bf09c6d6611f0fa24fdfd4ef815b75b3f3281b
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260820-woman-charged-with-is-inspired-plot-to-bomb-new-york-state-capitol
+title:woman charged with is inspired plot to bomb new york state capitol
+seen_urlhash:23f64faab5da1cb6566e4bfc0c09e569a43d2f63d228f066a22f26a27e3d9354
+seen_titlehash:a8ccbe659e0a2f5f3a982ebb963ea2af0600b6fa88ee6fa73dd77d7a7e735686
+seen_reason:processed_not_published
+url:https://dw.com/ru/северные-потоки-суд-в-хорватии-арестовал-подозреваемого/a-78451158?maca=rus-rss-ru-all-1126-rdf
+title:северные потоки суд в хорватии арестовал подозреваемого
+seen_urlhash:8b4338b5b5d39f426ea297b5a0c58e051fbf54dc50cb58c1e31c2e78b67f915d
+seen_titlehash:a68b8d36442539df3c372332c6447f4755f049ecc7b7e18a4c68cc4897fb2c92
+seen_reason:processed_not_published
+url:https://ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1
+title:firstft scott bessent s intervention to prop up us market fails to soothe investors
