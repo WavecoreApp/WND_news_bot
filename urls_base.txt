@@ -60053,3 +60053,68 @@ seen_titlehash:1c1275a9bbd2e723f7c2bdf89be733b84cac9a8122e6156a60a819fba26887d2
 seen_reason:processed_not_published
 url:https://ft.com/content/fe17490c-084c-4e25-beae-225a0b6c3ad2?syn-25a6b1a6=1
 title:trump s south korea defence flip reminds japan that it has no plan b
+seen_urlhash:d32b19dd8c204f611c1ef9630f3116ad034ba791b1b53558ddb12539df66baf0
+seen_titlehash:02cfa8d8d0248b98d1e19298ff9a2b9d115b91c353822e8ed753fb26b6999233
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss
+title:como mayor bans beasts in city centre after being hit by bike
+seen_urlhash:df8aa823015920f1dbaad25ccca473756169f75893bd6e250a5c2056fae7f120
+seen_titlehash:cc6ff5c2b51b94fafc6bffec86d5c3e2a9beefd917bb645727a520ec06c09891
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html
+title:canada and u s resume talks over trump tariffs as a new deadline looms
+seen_urlhash:cb338c7aadbb71130ec8eb255984c4a337960c1c1dc03d5c915c253e27b51ab0
+seen_titlehash:0b77eb55b974f7fbd57f73015c4135f0f769280124d2ac7d86788c7912be0991
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html
+title:first u s deportees to arrive in liberia amid growing backlash
+seen_urlhash:c68543cd491e3da9ccce4a5a74f025e277922b19c0104993cf5853e818992840
+seen_titlehash:9fa45445e7d12d226a6c7a1ace7ebd101d81b7ffdf15dbd23ce561772908b73f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss
+title:north korea fires ballistic missiles as us south korea drills near end
+seen_urlhash:b3c7cc84718f8de78b0c10a79475f2104ea864bca426431d7fd8be4bafdccce2
+seen_titlehash:7beaebb419c4f99f9268bcd163cd4e02dd30b8deb087f04724775e1727898a5c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss
+title:at least 800 people evacuated from major wildfire in western spain
+seen_urlhash:d6c892e4a1160e53ca7ac47f07f3d03856de145dcc61d5bca83eb8384729d5e3
+seen_titlehash:9c34a55bf4172e42dc4b282c163d6fb3f3733b45acf407aab660510b3032659b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss
+title:spanish police evict hundreds of migrants from ceuta beach to shelters
+seen_urlhash:a98524999ffe6da9f730222e3c6eba77dc2f3c25e02fccd03ade86ab22d47092
+seen_titlehash:3b33719492913dac0e6270a5e9f01532c385190cdb3eaf2eb0506a894ad6b383
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss
+title:syria detains policeman over death of white helmets rescuer hit in custody
+seen_urlhash:0ad030583b02cb95d35eb95a57d1d66f5ad0e14d2ac879382fda9324f5bbba9b
+seen_titlehash:0afc63c454ecc82bb82d188466bd249cfa16ec48f05397a9a895984d57a4719a
+seen_reason:processed_not_published
+url:https://dw.com/ru/каждый-третий-жилой-дом-в-киеве-поврежден-от-ударов-россии/a-78449765?maca=rus-rss-ru-all-1126-rdf
+title:каждый третий жилой дом в киеве поврежден от ударов россии
+seen_urlhash:de3217362480ab6a06f85e81fb37162cd166e90318059339d6bd4ba4ff026c9a
+seen_titlehash:d04eda0287451ff7f70f7937bb6e9429f4de772a7b5985871cb7f8bee66ff774
+seen_reason:processed_not_published
+url:https://dw.com/ru/обвиняемый-в-атаке-на-леонида-волкова-отказался-от-показаний/a-78449750?maca=rus-rss-ru-all-1126-rdf
+title:обвиняемый в атаке на леонида волкова отказался от показаний
+seen_urlhash:f4e5b9bf4bbab0c8313015fc7471a310fb12ded3ecc1ba814fb5a5a57bc2a0ac
+seen_titlehash:c97c5a520d73a4a34723a6dd36d07bc11207b19d09c9f163f1d1b608d2e3ef4d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/germany-media-claims-ukrainian-soldiers-desert-from-boot-camps
+title:украинские солдаты дезертируют с курсов военной подготовки в германии
+seen_urlhash:af28562e7a0b27666eaeb21606025609dc34da18196a0a42a0ec7cb22966eaaf
+seen_titlehash:22f58c34830f6eb1186a234f3f7a10b7f6776a08193bcbfcaac2c8722316b254
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/20/novosti-dnya-20-avgusta-2026-g-vechernij-vypusk
+title:новости дня 20 августа 2026 г вечерний выпуск
+seen_urlhash:bcc7c780a5bad723edefa50eed5a2b3ef63478e7807b96af9eb345f07542e001
+seen_titlehash:4091051c6204f307b7641d4d91b86bf56e241ef10d5d65f92ca26f86bdc99ce0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/zhitelya-nemetskogo-goroda-trir-zapodozrili-v-tom-chto-on-sklonil-podrostka-iz-rossii-k-napadeniyu-s-nozhom-na-shkolnika
+title:жителя немецкого города трир заподозрили в том что он склонил подростка из россии к нападению с ножом на школьника
+seen_urlhash:25682ed904b26e0fc8140012a90663b7fc2ac412049f0de37751b9e25fb8a49a
+seen_titlehash:04aabea52825a73bd69b0c26a322ae3bd0bb5aa7cabd56e9f9c999de39ae9262
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/20/amerikanskie-smi-obsuzhdayut-natali-harp-privratnitsu-donalda-trampa
+title:американские сми обсуждают натали харп привратницу дональда трампа она не отходит от него ни на шаг ведет соцсети и переписку президента и говорит что он спас ей жизнь
