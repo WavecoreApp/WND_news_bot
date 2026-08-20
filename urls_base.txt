@@ -58803,3 +58803,88 @@ seen_titlehash:1f535c8f1bf4d579acb11f1e18ef4f338af042c11a147f42476fed122712a05c
 seen_reason:processed_not_published
 url:https://ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1
 title:the box that built globalisation
+seen_urlhash:9ce506f0d82f309394b3d39944ec3a453ee7dc3d765406156df14240ae0bed55
+seen_titlehash:0430303633a140e33aeb1e6d52330753916cabe03638ed503ae80ec4cb4a4400
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss
+title:founder of collapsed chinese property giant evergrande sentenced to life in prison
+seen_urlhash:eae0f9583bc81639d204fea27145b01d7d1fdd4cc348073f1ecbb851d244ec99
+seen_titlehash:94ef028b36525d639a1bfc9eb9e58c7ab7fb47b8377f343417acfdb50e2a339f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss
+title:russia launches missile strikes on kyiv and surrounding region killing at least eight
+seen_urlhash:b7f0041166269d6c31afed70cce1cb5e4e525cc4d894c0b014bffae9be5c2a1b
+seen_titlehash:2c50341f82469158ba4161a79642521259b87436ddad2bea68d176f55992ded7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss
+title:captured ukrainian born soldiers tell bbc why they fought for russia
+seen_urlhash:9e26666e5986ffd85532cf6a3706f24e1eded9b19a64031b862e8d4a6564d8fe
+seen_titlehash:d206b01ea6cdbfd4b7345eaab7a77e6193b010f8a77ab589afdab1487138b495
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb
+title:case against erin patterson is overwhelming and mushroom killer s appeal should be dismissed prosecutors say
+seen_urlhash:4fb40bb6ba05b26f4571a5a562cbad3eab6d304a07b08ecb1b79b0feb7e26efa
+seen_titlehash:8466fd503b6d1a26da5048031c60b26a5ae82f20c43836928e89ce643143a56c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/20/victorian-premier-to-call-royal-commission-into-construction-sector-amid-cfmeu-scandal-ntwnfb
+title:there was grift there was thuggery victorian premier says nothing is off limits at construction royal commission
+seen_urlhash:67ec3e4a59f99368c45686a3d58536972daa3b31d5d0af0cbb0de155dd408d79
+seen_titlehash:390b99a135bcbd6424161ee91691b8adc490dcad934a3b5b7d2020cb814e9743
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss
+title:at least 6 killed in multiple russian missile strikes across ukraine
+seen_urlhash:4de8538e9f4176d8e06d7b65cc935f81abc57c55c74f64268f17d742ce04c3bf
+seen_titlehash:d076ca4a028cc8bc804da8d62fbda673fc9af62d05a4243fbddbe7f222cdc372
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss
+title:trump vows economic warfare on countries helping iran
+seen_urlhash:e2ca96b8d33d51639f95fcd814ebc65c1a35de5a95863b00c6ae75b86ade8484
+seen_titlehash:a51e0e1da3ef7f56369e15f89752e24a5aca01237ae76172f6ad2c31e73d4688
+seen_reason:processed_not_published
+url:https://news.sky.com/story/harry-and-meghan-to-return-to-uk-hopes-for-skin-cancer-vaccine-13574883
+title:harry and meghan to return to uk hopes for skin cancer vaccine
+seen_urlhash:33ce31a7dfa4929f97a1745b2b3d19135e459a7df9189bc5c2b3ac7954f0cf4e
+seen_titlehash:ba93b1cdfd0c5773daa6660484ca138cf69b556a8fa2a088dbbeb72f68b6cae4
+seen_reason:processed_not_published
+url:https://dw.com/ru/как-изменение-климата-разгоняет-инфляцию-в-европе/a-78419848?maca=rus-rss-ru-all-1126-rdf
+title:как изменение климата разгоняет инфляцию в европе
+seen_urlhash:9563284701afe04fbb49091881f410a5cc98ac5dec211110228ebba8b71715ad
+seen_titlehash:5063712c238a5b231def0010bddd2f4785149258a3af3eec97229b68c862d101
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/gas-in-italy
+title:италия запаслась газом к зиме уже на 80 значительно опережая европу
+seen_urlhash:53bd79cf544557154e6c667d81a2565b0c461418683603f6ebd013564a7c8469
+seen_titlehash:3e466d4dcfd4228dc9189e6037b0a454f4d42889ea566abe7a87c59069208932
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/20/trump-north-korea-meeting
+title:дональд трамп заявил что встретится с ким чен ыном позже в этом году
+seen_urlhash:662b717bb22e1420f1abe8868d8b0401b0040f09a9e0a354e597a550f2f072c4
+seen_titlehash:c34535f10a78bda39340f7dc1743851bb07a03ac540233c6c3cbc656794747f9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/20/in-london-childrens-lungs-grow-faster-as-traffic-pollution-decreases
+title:в лондоне у детей быстрее растут лёгкие по мере снижения загрязнения от транспорта
+seen_urlhash:505fa987bdb498e6dabd488ef1ea61b48acc57605468bee930444c97debbe214
+seen_titlehash:0fa966c7cae5234265fb7f2a56af016b66b1e593ec05606ab4da785655af6c31
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/harry-and-meghan-to-return-to-uk
+title:принц гарри и меган маркл возвращаются в великобританию
+seen_urlhash:f8a17e7cb7d6ab5ae2cfa55d27a095975fe6a8428e9a44e0b8aab86943f5be51
+seen_titlehash:956392a0fe67d8fd07777c6e3dcb11752ac9effbfdbab003d702f55ed9995a89
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/20/ranked-the-most-and-least-expensive-airlines-in-europe
+title:рейтинг самые дорогие и самые дешёвые авиакомпании европы
+seen_urlhash:bfd340eded07f51e902724c1e92aad39ff51f3fa8c3ae5e07fc14bd09a67a58f
+seen_titlehash:03bd92dae2134d3f2b3ed89d1605d8ce918f7aeeae9e4cd623388102bb0e2370
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/rossiya-nanesla-udar-po-kievu-pogibli-vosem-chelovek-bolee-30-postradali
+title:россия нанесла удар по киеву погибли 12 человек более 30 пострадали
+seen_urlhash:c754a011406194f300e01a044d0c8eacb4208e4e0eb365e576be4504b77a8e3f
+seen_titlehash:656d3299c5ecb4be811620b9d9e930415052d7788f1ecf81debc94a08b576fd2
+seen_reason:processed_not_published
+url:https://meduza.io/cards/otkaz-ot-rossiyskogo-grazhdanstva-teper-stoit-do-treh-tysyach-dollarov
+title:отказ от российского гражданства теперь стоит до трех тысяч долларов в каких случаях такой шаг действительно необходим а когда наоборот лучше сохранить паспорт рф
+seen_urlhash:e917a72c9028daadf1e7f8db47c09ec0b2d5e7ea8e325a9c407463f320df91eb
+seen_titlehash:a08e1d7c6e8267fe1fa3275b74e85decaaf6caef01124fdf6191e9a06dbffefe
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/20/rossiyskaya-i-ukrainskaya-armii-osvoili-novuyu-taktiku-i-eto-silno-zaputalo-situatsiyu-na-fronte
+title:российская и украинская армии освоили новую тактику и это сильно запутало ситуацию на фронте как вс рф и всу научились проникать вглубь обороны противника карта боев на 20 августа
