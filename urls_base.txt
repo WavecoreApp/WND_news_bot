@@ -59953,3 +59953,103 @@ seen_titlehash:358c176bb4694f33ecb56c62e1ab36da9818ec0bf9a2e3c35d5a269619a2aa8a
 seen_reason:processed_not_published
 url:https://ft.com/content/a355db7d-19f6-469a-a528-8376ca4db5ce?syn-25a6b1a6=1
 title:moderna breakthrough brings back memories of pandemic mania
+seen_urlhash:e610861b8a6f6f64cc4d129b8e768012758d60e13ec76adf0c941a37a2ff012a
+seen_titlehash:8d09a16c7715c5ba70f615383aa12911bfbd529820e8840aad164f9ba9f1cf01
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss
+title:togo charges two french journalists over incorrect documents rights group says
+seen_urlhash:6d254735ecde7092b1e4bf538201865e84a5d2de2a44059ed015f4ccab7250a3
+seen_titlehash:014243b9ac9a891cd59b69c3863b92b59dbfc0466219cb7a8b9029218a6a4ccb
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement
+title:us deports 20 people to liberia the first of 1 200 migrants under trump deal
+seen_urlhash:3f40d61444d79ece8387da228a9e4ec3862ba9cc0f637f6e9cd8bda5a0f3c25b
+seen_titlehash:582e9ccf2bf703aaa0c33c1084e962a6063cb96c1a653f53b6b0495f35946be6
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss
+title:one geography two states saudi arabia s security approach to sudan
+seen_urlhash:5c6c77e4dac706ab91180b86eb24386fc2c2825045a25d1b2f9d9cd6b84c7c0f
+seen_titlehash:7257695972d599c7c3b7ca76dd5feabe4993edec752b5e6ea208a624628e5af5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss
+title:deadly russian missile barrage hits kyiv in hours long overnight attack
+seen_urlhash:b6797b419a80cf8f3009f20635ccda41bea834d1bb86fcfa6b3f7fc7f78b4bfa
+seen_titlehash:7324517d71c8c1bbfb783ea5548b04aa0a62b9843649befa337bcf3f58d3b5d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss
+title:gunmen seize tanker off yemen amid resurgence of somali piracy
+seen_urlhash:0eb2cca02bc466b1aee2d285d6388fe6e897b345c8f8c2ab7ceed57cc9b254f8
+seen_titlehash:f21695a14f0ba4dd17991b5b51e84ea84022ef731d33c19fe6a9ca53d5ad9c19
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss
+title:can us middle eastern powers unite libya 15 years after gaddafi overthrow
+seen_urlhash:0d90736e7f15472680912db77c3f6b376f8c086cf99ec6f0f5dbfc8850800395
+seen_titlehash:3005b000697438d65b6eb4df4b4e3c439139bb680bc39fb0d97078c84a85547d
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260820-british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-sea
+title:british army sailors rescue bedraggled barn owl 70 nautical miles out to sea
+seen_urlhash:55655326171bf1dbc3fed245bd9470558a328f825b781a6277d4840009233d4b
+seen_titlehash:e0987c19a5280fdfacc9136686bd31c8f55de1478cc6965a999d57c49d379fdf
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet
+title:north korea launches missiles seoul says after trump floats kim meet
+seen_urlhash:63e05dba14a9c2be3d16e915df1fc1a496dcd51c52c79713e6dcf9982a932af1
+seen_titlehash:8e8897e5de735f292488ca958fefe251c9a3956f911727c5bd4d71645072b836
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-french-pm-announces-creation-of-unit-to-combat-cyberattacks
+title:french pm announces creation of unit to combat cyberattacks
+seen_urlhash:cc8c52ca79bcec2f55397e8340bad75e1e6b2297d97f8105b03d614d63268260
+seen_titlehash:448fdae461271005741882e7820d624f9d4001d52092670fcdd1f592bb8e98c8
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-spain-expands-ceuta-migrant-shelters-to-ease-crisis
+title:spain expands ceuta migrant shelters to ease crisis
+seen_urlhash:31473619982fc31b6d1b523f0d53340b4fe90de174e55332730b2e4de66bb8e7
+seen_titlehash:000c0c98e2c1806f942d73d515dc7d815e5c8a4a928f233202aeec99d6b09463
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis
+title:hundreds of migrants relocated to temporary shelters following ceuta border crisis
+seen_urlhash:44d4af54384146a41e71ea07390d8aed5a9786ac60d94cf5ee9cee48c563770f
+seen_titlehash:2d7a28e06b6d149317d7b4f1fe307b70d569c5faeef22e2e663aee6171dc636b
+seen_reason:processed_not_published
+url:https://dw.com/ru/гражданина-фрг-подозревают-в-подстрекательстве-к-убийству-в-рф/a-78449478?maca=rus-rss-ru-all-1126-rdf
+title:гражданина фрг подозревают в подстрекательстве к убийству в рф
+seen_urlhash:8769e9668cfbd78844e51d76cc5f4037016cc2c3ade17e9b986ad9c2a2ad3687
+seen_titlehash:13365f234a0677b1773b5fd854d4a5b60634dc4ae83fc1d05139728203eeb16d
+seen_reason:processed_not_published
+url:https://dw.com/ru/футбольные-ассоциации-обсуждают-вотум-недоверия-президенту-фифа/a-78449336?maca=rus-rss-ru-all-1126-rdf
+title:футбольные ассоциации обсуждают вотум недоверия президенту фифа
+seen_urlhash:cdf26789b62c994b0c59550a81be68d2d5827a4af6ff7b9846f58f88b0986ec1
+seen_titlehash:9b5936ceed4e478e5be55364e28d463d36943b4a992a8f015c3a4fd4692fcc85
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/es-uvelichit-finansirovanie-marokko-dlya-upravleniya-migraciej-posle-krizisa-v-seute
+title:эксклюзив ес увеличит финансирование марокко для управления миграцией после кризиса в сеуте
+seen_urlhash:c27a005f3882af3e3fbff5c6c685b1e3709fefd0899164b623b2a56881c8cbe7
+seen_titlehash:bcb0c485b8b40086af0a8b212aa9878f2c8556a2dd57e7be33c308606fc338e0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/20/spain-police-operation-ceuta
+title:в сеуте выселяют 4 000 мигрантов с пляжа эль трамполин
+seen_urlhash:f96b7a22fe476a0d4655d1f065e6267e4a9843876f1ea6f7c2b4da59ec5b61ae
+seen_titlehash:a80cad8181edc86fc0256d184c58fdaf3e608df886e1ac8590f7318fe7ef5827
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/20/basista-gruppy-kukryniksy-dmitriya-oganyana-nashli-v-prudu-s-otrublennoy-kistyu-u-nego-byla-bolezn-ruk-meshavshaya-emu-igrat
+title:басиста группы кукрыниксы дмитрия оганяна нашли в пруду с отрубленной кистью у него была болезнь рук мешавшая ему играть
+seen_urlhash:7d8ffb9f413bc1849a213f13fac55d80a45902af3def620d362432f04ab8bf9d
+seen_titlehash:d4e52423fd3c97cf2c4c4b5c14eb424616cc93974647700d0fe631b19a2a4879
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/20/pensioneru-iz-volgogradskoy-oblasti-otmenili-shtraf-za-strelbu-po-ukrainskim-dronam-sud-vernul-emu-ruzhie
+title:пенсионеру из волгоградской области отменили штраф за стрельбу по украинским дронам суд вернул ему ружье
+seen_urlhash:13afaf80f0e583e09a39e4372faa74d384a4497e9d2bbc4b3da0de38fa6d7b1e
+seen_titlehash:1fadd450d69150560b5358cf6825c46f2bbaf616271e64d15fde7eba359f0726
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/20/novaya-volna-toplivnogo-krizisa-v-rossii-benzin-dorozhaet-na-zapravkah-opyat-ocheredi-pereboi-dazhe-s-motornym-maslom
+title:новая волна топливного кризиса в россии бензин дорожает на заправках опять очереди перебои даже с моторным маслом главное
+seen_urlhash:2deac8e43744cec9bdd94227f99525c9ad880fba23464dcc31083c0aee20dbd3
+seen_titlehash:2db7df15a855380d5d739ac70982bfd189727d09be2818156e0c4f5ccaa4af69
+seen_reason:processed_not_published
+url:https://ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1
+title:us long term bonds slide as bessent intervention fails to soothe investors
+seen_urlhash:9bd3fb343207736bacfea29a97355408835d75fe69330c5f1ab0fab6e4bf2d2b
+seen_titlehash:1c1275a9bbd2e723f7c2bdf89be733b84cac9a8122e6156a60a819fba26887d2
+seen_reason:processed_not_published
+url:https://ft.com/content/fe17490c-084c-4e25-beae-225a0b6c3ad2?syn-25a6b1a6=1
+title:trump s south korea defence flip reminds japan that it has no plan b
