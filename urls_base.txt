@@ -58593,3 +58593,43 @@ seen_titlehash:62204629b31160db84f8bdaca33e0765ab2b373275a588d0a7e58fd481cd36df
 seen_reason:processed_not_published
 url:https://dw.com/ru/россия-ударила-по-киеву-баллистикой-есть-погибшие/a-78437901?maca=rus-rss-ru-all-1126-rdf
 title:россия ударила по киеву баллистикой есть погибшие
+seen_urlhash:795bc484f383bd64bd8da299c01f4ba5f8733dc8515705583d6c3aee0874eb47
+seen_titlehash:f8f323653b851d46c8730d1b891aca759cfce2184dbd9348e50916fa1afeca0d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss
+title:giant whales move into greenland waters as ice disappears
+seen_urlhash:2a0caf054f98f1956d7ea675dcb3bbb5514e0a6330cc3c7964cf3ac07671594a
+seen_titlehash:17786a1bd08fb242da337416116674e3f9711adadaf24377d302c3fde07cbe83
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html
+title:harry and meghan s break with britain and planned return a timeline
+seen_urlhash:a3bb1d76c72b5e462d5812d0f9702f5290207243547bed913dce028deb365777
+seen_titlehash:5eb6d39fb5e665c8bd0d62fdc86619acb3f448a2371b9c57383b1da93424b69a
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble
+title:like a miracle 84 year old woman pulled alive from rubble three days after indonesian quake
+seen_urlhash:7ffa9cbf5d079cbdb5cba1d672e93bdee1cac8915f95ae33f662983700676ae1
+seen_titlehash:db8a9fbdb09de56d100b73476a353b261bb4f1c8bc0b8a45bce11067e3609e99
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss
+title:bodycam captures police team falling when deck collapses in missouri
+seen_urlhash:cf1dd04da530faba9d491338e36723ae523cb6351c14a8137922bc6895f32710
+seen_titlehash:7458c3c8f9287db8679ec47cf7d0367ad16437b2e9c6c25d8a9076074f2228f0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss
+title:publisher of us military newspaper resigns over differences with government
+seen_urlhash:f68756cd4c9f9b8b063107b8847e9aed9b153dc10cac9027a2cf5b3830f74574
+seen_titlehash:b8623b4a5e47970df46bd9e0cb87474b6dd1f1e6043ee76c9f044bf0edba98bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss
+title:tsunami of emigration reshapes israel s future experts warn
+seen_urlhash:d863919617a28ffeb9f69f842ecf9fce5bf098b65991e4b9f83b15822260ed1a
+seen_titlehash:42ac7f3600a473c217a300d57cab18df171a9205b395b434539549abcae2ee43
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year
+title:trump says he will meet north korea s kim jong un later this year
+seen_urlhash:09a0605098e3fd1cb60202fe995ed31afab43f672cb595e70783405190c94169
+seen_titlehash:43d19541895ee21fb8c36982d53d3e163f70f55adffacc98c0496b19ea19569c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-нато-ответили-на-угрозы-ирана-атаковать-страны-ес/a-78437955?maca=rus-rss-ru-all-1126-rdf
+title:в нато ответили на угрозы ирана атаковать страны ес
