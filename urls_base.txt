@@ -59523,3 +59523,93 @@ seen_titlehash:5e6bc8c15b11daf9113f4e86a2e18df1ead82c603b0025b29ee08f96bea22a2f
 seen_reason:processed_not_published
 url:https://ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1
 title:trump is losing his war of independence on rare earths
+seen_urlhash:5b312a7e4c7ab407cebb6de35907d56c82f9476736ea80db7c012ca006fc30a0
+seen_titlehash:5f3998f5e310ae7374623db1d88180b9cb454b8e583595def5655d5953552861
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss
+title:belgian car salesman becomes prince after royal parentage confirmed
+seen_urlhash:1b8e98e5493a67394d6b2ae2a5d18b9961830b58ed479f84f645c354a73e014b
+seen_titlehash:46176d9ec6da6343f862e7e178ff6f460aa0e75f0a43177859db9ee072285c14
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan
+title:founder of china s evergrande jailed for life after pleading guilty to fraud
+seen_urlhash:81f4e198c758d11cc04f89cd6ebe2a5e36ff4cfa9552c9ad7b2f426a8c34d458
+seen_titlehash:efbadc4056230caac47f16327e4a755435945d1db766fe6e3743a947cc78b492
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss
+title:bangladesh s government under pressure as youth demand jobs
+seen_urlhash:ee4af504a866ea9b86b2d511cd59024bdcf4da27f3f02e8ff0449b74de4e9f82
+seen_titlehash:a9317bcfd4a24d0d1cd8576da630570d557998b7530018a94ed83d069d16e8ae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss
+title:who was hind rajab and why is israel investigating her killing
+seen_urlhash:90a550dc8ed9561e9a11f7267c467007d97b62f1b2c2f84411e3ac54648d06b2
+seen_titlehash:239ed1f5246de6af22b7b8e8e6485c5b2cd44def6637d6be876e7f478f5d71b9
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss
+title:israel is betting on islamophobia to save its standing in the west
+seen_urlhash:893c068ce2b01e18aaf762766f982f47804f95c7b5cac67a93c45860dec9b51d
+seen_titlehash:b1c3c0e47cb802021b9e9280abdf3e9248a8e03f29540f0d180a4e6b697578d8
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss
+title:psg forced to move opening league match as heatwave in france damages pitch
+seen_urlhash:1e9c8c94176a134d247389298bf3071b34c6712b8f2ecb0ac7971cfd2b33ebae
+seen_titlehash:653b5e67d54820ead29a77f188e12c23aa26e706b2188cb619cb1e1be39ad65f
+seen_reason:processed_not_published
+url:https://dw.com/ru/фрг-открыла-горячую-линию-для-эмигрантов-из-рф-которым-угрожают-спецслужбы/a-78443983?maca=rus-rss-ru-all-1126-rdf
+title:фрг открыла горячую линию для эмигрантов из рф которым угрожают спецслужбы
+seen_urlhash:8d8668063d15862776dc00c8eda5d50a0dea36eeca899bf981fd2649c44942fd
+seen_titlehash:ec1d6f6f27d3d0cfc7a1682a758040287be9aae499fd985e94aab41a1dd9c03c
+seen_reason:processed_not_published
+url:https://dw.com/ru/основатель-застройщика-с-крупнейшим-в-мире-долгом-приговорен-к-пожизненному/a-78444147?maca=rus-rss-ru-all-1126-rdf
+title:основатель застройщика с крупнейшим в мире долгом приговорен к пожизненному
+seen_urlhash:9355a3285ff89e5cd3d81497b20f2cd1c99670b4f0c11d241fd4167b94aca735
+seen_titlehash:1feef914eb352dc4dd9c3cfc53b3431a5e32319fca7ea115acb278af3ca04580
+seen_reason:processed_not_published
+url:https://dw.com/ru/около-14-000-человек-умерли-в-связи-с-жарой-в-германии-в-этом-году/a-78443011?maca=rus-rss-ru-all-1126-rdf
+title:около 14 000 человек умерли в связи с жарой в германии в этом году
+seen_urlhash:6997760751e4b207b1f61d0a959e4239c28fb09572f52d493f4c5b33da5aac8b
+seen_titlehash:fbba87001be78d76d80e6ce985b2e8ec48e5ba41a64a3197046d6c324066a20c
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-вышла-новая-черная-книга-об-утраченных-памятниках/a-78433269?maca=rus-rss-ru-all-1126-rdf
+title:в германии вышла новая черная книга об утраченных памятниках
+seen_urlhash:69e7ad150402703a5e81f880bd3226caaeb834adba297eee2b13c296507767fb
+seen_titlehash:cdaff2eb9d077696103a2bb2ecacfca2fa7902e1407e7f739aa0cd92158ccebe
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-во-время-сильной-бури-погибла-женщина-повреждены-дома/a-78442960?maca=rus-rss-ru-all-1126-rdf
+title:в германии во время сильной бури погибла женщина повреждены дома
+seen_urlhash:f80ab76b1fdadd8c79f23f526a40b56bb983013333bfa63616fdf79e6676ba6b
+seen_titlehash:ce76e7aa06aa140ce43a44442885eafb815cd2f905f7c3572c7a5cb14dcf635d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/20/uk-cinemas-consider-banning-meta-pervert-glasses-due-to-piracy-and-privacy-concerns
+title:кинотеатры великобритании могут запретить извращенские очки meta
+seen_urlhash:68630f284bb4a90069c8ccaaf52f2e33b3ddea271be3a171580b042b51945870
+seen_titlehash:b26e048b8b70fc35da3de9c34756adddeb9cf3e351d6319b06439d3754b23c1f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/20/at-strasbourg-hospital-the-emergency-department-is-disrupted-by-clandestine-drone-deliveri
+title:страсбургская больница работу неотложной помощи нарушают тайные доставки в тюрьму дронами
+seen_urlhash:b0b4649dd9fb013d1f8996748b6745bd47bfefc894d76b2b171c4fe20ce2551f
+seen_titlehash:69a644f12ebac0abc331e47d22f870d98fb4c148f27e8a7024463d4fe9f13cc4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/20/prezident-kolumbii-obuyavil-rezhim-chp-v-ekonomike-v-15-departamentah-strany
+title:президент колумбии объявил режим чп в экономике в 15 департаментах страны
+seen_urlhash:42720817e4fc27753717f585662c1fe298fde9addf622516c3dced60bf59d742
+seen_titlehash:190dd58bee32e0d74b32a730201aa7b6256756a6fcf24494a0d6029aa40152cb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/20/boutique-hotel-with-spectacular-cliffside-views-opens-on-cretes-western-coast
+title:бутиковый отель с видом на скалы открывается на западном побережье крита
+seen_urlhash:96971ac47ad0abee340329a9d16ef55ee290d2408641958344c21530cd3e329b
+seen_titlehash:aa7393dd9dbce5fc86e71550c5567c1eed601f84120003092d3bd2caa46d10b2
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/20/novosti-dnya-20-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 20 августа 2026 г дневной выпуск
+seen_urlhash:22f9a98d1104a8e9b711aa5890bf203817edd244f070579453a698ff74356213
+seen_titlehash:7c5f5d3af0def34b651a174596eebcf8b335de1308b53fb7c9f5a026247d803e
+seen_reason:processed_not_published
+url:https://ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1
+title:walmart pledges price cuts as sales growth slows to six year low
+seen_urlhash:f89f5a6143fdf3ba69e4b5c228846b55f2460df3bed7f840c950e2e500053528
+seen_titlehash:307a2de435fa83d62bf207e2aacb91ceba7651bee61de55fd95e1722e433bd09
+seen_reason:processed_not_published
+url:https://ft.com/content/90bd90e5-5161-4f56-8dfb-e737479fbb99?syn-25a6b1a6=1
+title:europe the secret outperformer
