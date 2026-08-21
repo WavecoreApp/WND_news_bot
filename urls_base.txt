@@ -62378,3 +62378,13 @@ seen_titlehash:c070e31dae467dcdd714591ca90e1c527ae659e1649165f7b5641e9e1f5f9eff
 seen_reason:processed_not_published
 url:https://ft.com/content/12f457bc-8cb0-45bd-bf7f-83abf2d9c7d8?syn-25a6b1a6=1
 title:sec accuses ex bank of america utilities banker of insider trading
+seen_urlhash:7e87c08299f246bf67f825e9c314a1ab7e18c8ab6da587f1c07cb4c4ffc5f3f5
+seen_titlehash:d4bc374ba7a92f13d595f881491b44c879599872b046ffeb85aebe99a156a4f8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss
+title:us vice president jd vance holds midterm election rally in ohio hometown
+seen_urlhash:e5123448500c7bc85f29ecaa48bd99ab80f143761306c1c137a1a0eed4baf12b
+seen_titlehash:8494ea6251cfba4f06678197cf91f81551f5fc6b1aedd3a1c34a668c0e3cd37e
+seen_reason:processed_not_published
+url:https://dw.com/ru/турция-намерена-объявить-нетаньяху-в-розыск-через-интерпол/a-78466169?maca=rus-rss-ru-all-1126-rdf
+title:турция намерена объявить нетаньяху в розыск через интерпол
