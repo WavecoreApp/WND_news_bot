@@ -62283,3 +62283,63 @@ seen_titlehash:eda2f0fa72f6350506ad361eeb3563ae2619e91aa828a7fc7c9fdc109d139b01
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/21/v-gelendzhike-polnostyu-zakonchilsya-benzin
 title:в геленджике полностью закончился бензин
+seen_urlhash:352de7af302239c42dc6cf8622cd768e7db806cbbb1fd8d1f26c0ec532dcfb00
+seen_titlehash:cc45d2fada13f47f9deb623fcb9eaa3f822eb687991e6614b69ea35ecfdc6935
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss
+title:how israel is expanding settlements in drive to reshape west bank
+seen_urlhash:1ac574dfc2066c8a2c628d179ac5dce1df775cce8ad8dd04c31fd255b0036d9d
+seen_titlehash:9f8d25a7b1128655b3d1a2daeb2e489b078420e1ff837782a92df115c54e7c56
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss
+title:tornadoes touch down in new york and delaware
+seen_urlhash:a6ed30548531f52e27f2ce42735f8cc62b756a104e6f4d94867caad448ee50f6
+seen_titlehash:4ff170d31f6417dd74f007fd1a3315a1b4766373c6fc1cbfd7d078e45af7351b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html
+title:turkey requests netanyahu s arrest saying israel abused flotilla activists
+seen_urlhash:339ea054f7e11d4751d8c9c17b644a235b44a87660b3dcea3e5add635ea4c03a
+seen_titlehash:aed7f8984d59c8bfff2090296d7002e19ea10a48b6effc7fd6e8e9c0e491235e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss
+title:tunisian protesters call for president kais saied to step down
+seen_urlhash:36b189953b4175f7a7bbf850eec71b08e47686e878ee7e06c82783bf6fd67d2b
+seen_titlehash:f7a3972d30e49a422aed6db9df0329a55c95230fe02c0109b9bf82c1aad97c12
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss
+title:can a humanitarian disaster be averted in somalia
+seen_urlhash:8af0fa1481286b4820af4b631ef76bb34ff47fe1925606d6fec4e21993042b2c
+seen_titlehash:54b16cfa45d5d5bf3e89c87a3df6b4bdf705a13b102dbd086a229c0dce9ebef5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss
+title:pope leo urges the world to help begin reconstruction of gaza
+seen_urlhash:092b088ce0ac0992d9ea9b1be3f0b18324424d2b84b1a18f94ec16cd9d3fb74b
+seen_titlehash:ca9f43c02ec3dd978964053f83c2288b61adbe21a6bc84f29de01630a481b0b4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss
+title:bolivia s president rodrigo paz fires economy minister amid unrest
+seen_urlhash:c4dce192352d6e2cf5988dd9a3103fc4f668dfcc62311424b22e550e4f735abd
+seen_titlehash:6d7bb4cd4ed5e66a6ea95ba0b4294beed735beabdf915020366bdb2b2425b311
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss
+title:western allies slam israel for ending world central kitchen strike probe
+seen_urlhash:168501f7787f521e5dc1e6ff092d2b820e5b1d6a3895155661677ab43e3b67e7
+seen_titlehash:f1713298492136aa446b139e85ae78605702abe5cc1f57aea3edb67159372edd
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings
+title:israeli settlers and military kill 2 palestinians one a teenager in separate west bank shootings
+seen_urlhash:de1593bda1fb866192d445251fe02dafa0113d8ba0794d578ae25b04524c947c
+seen_titlehash:e9953d40c8823e6af31688bf62182358f1e4a2f7569498c03659f2f92fc65253
+seen_reason:processed_not_published
+url:https://dw.com/ru/рф-дважды-ударила-дронами-по-тц-в-кривом-роге-15-погибших-130-раненых/a-78462408?maca=rus-rss-ru-all-1126-rdf
+title:рф дважды ударила дронами по тц в кривом роге 15 погибших 130 раненых
+seen_urlhash:dc1bf404933c44857fa8c737a358fa04eb8db3dbedd393c58dd1e175ce4a8b71
+seen_titlehash:d08280b550fc2ae2cc1fef605fec089ff2321f4d003a8cc43493882c78b964ba
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/21/novosti-dnya-21-avgusta-2026-g-vechernij-vypusk
+title:новости дня 21 августа 2026 г вечерний выпуск
+seen_urlhash:f2ceecc1558b5627d7a123ae569489a2b8cd7a75425b263b9bc4056246abda81
+seen_titlehash:e59cec732bc0bdb810f0cc86be4fbc42a8a70940a422fffb4c054cccfb588bad
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/pravitelstvo-razreshilo-lyudyam-bez-ruki-ili-nogi-vodit-avtobusy
+title:правительство разрешило людям без руки или ноги водить автобусы
