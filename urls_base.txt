@@ -60563,3 +60563,43 @@ seen_titlehash:48797b76bde3adfa736855081f262c3bf4373853cbcafc72e15fdf0fb2cf94ea
 seen_reason:processed_not_published
 url:https://ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1
 title:uk consumer confidence rises to highest level for two years
+seen_urlhash:8a63d2bb6314562edbf70b316593a2ca08b146377681aee0d3b5cd48b03686ff
+seen_titlehash:c60fe6f3284ed2030c0b693bc07ad97ad8dcdc1a958045d59930a6449a67177f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss
+title:us sanctions more cuban companies and officials
+seen_urlhash:d275f0c01be2accbcee3823d622072a67f94d9a5baf6f45b01a85d6267c178bc
+seen_titlehash:279efa7a6a285283d1db7ab903a2987c7966df57e106fb089cac301d5f641ab0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/21/court-ends-case-queensland-police-officers-tasered-vulnerable-man-ntwnfb
+title:court ends case against police charged over use of taser and pepper spray on vulnerable first nations man
+seen_urlhash:702bd586259247751c64230ff4d282c8dd612dd0561e9a9f16ca1f9bf439879a
+seen_titlehash:419762abe84d82bacf305d1fe0a7692aeb7593c3f34a980854a583302757c9f0
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss
+title:brazil launches ai supercomputer push while balancing us and chinese tech
+seen_urlhash:32a1baac99c07d75951d63f9de6210220bd95b51a5ac9bf56deddc9bacd5fdb2
+seen_titlehash:3ac3d0ecb13594df428750fb06d18525c9dd82a599e47e9f8a9a4370f4ce9d6e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss
+title:panama canal to limit shipping ahead of extreme weather during el nino
+seen_urlhash:db99f78c39a0df9c694adf318a165204c2eca2f583cdaa6000d4e85bd97a1b63
+seen_titlehash:5c3d6fd6460be41fd235b81675175ca2d5e6b65261c17f22fc9b4a9d8517a8fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss
+title:antigovernment protesters take to tunisia s streets for second month
+seen_urlhash:0b8ce24d40559e2fbc78c584a9730b07122b22f7ed8e2957c61667ffcd51cd53
+seen_titlehash:c3ad2acc76451f5c5a95a2dba51887e86f10fe53f5be9b86ecfcabcab411e6b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss
+title:taliban release two detained un staff members in afghanistan
+seen_urlhash:dbad13f9989e6aa69c5e3dfb20c5b0a99ed34d29f202477bd6e6c10b25db2ba4
+seen_titlehash:f8d577c4a3dd3c1de04c9e256b76bf17fbbc66bf39a9f8bc605c39763363eea1
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-латвии-опубликован-список-компаний-ведущих-бизнес-с-рф/a-78452008?maca=rus-rss-ru-all-1126-rdf
+title:в латвии опубликован список компаний ведущих бизнес с рф
+seen_urlhash:518f31857b22d592de6e6481e9dc549fff85a18932d73342b8a89e77aba72962
+seen_titlehash:3328b56b29f06b83a437873f4f1a4cce4852a7b91dd47c0375ed71fd185cdd79
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-сотни-украинских-солдат-дезертировали-в-германии-c-2022-года/a-78451621?maca=rus-rss-ru-all-1126-rdf
+title:сми сотни украинских солдат дезертировали в германии c 2022 года
