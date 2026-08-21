@@ -62343,3 +62343,38 @@ seen_titlehash:e59cec732bc0bdb810f0cc86be4fbc42a8a70940a422fffb4c054cccfb588bad
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/21/pravitelstvo-razreshilo-lyudyam-bez-ruki-ili-nogi-vodit-avtobusy
 title:правительство разрешило людям без руки или ноги водить автобусы
+seen_urlhash:6f7bcdb8b131c8d65a7e1fb3d96f828b5293fbc6a565e21f80e7819fcd267cc2
+seen_titlehash:01a8067218cedda9acee34e0218d78ac73cc80ba0525db4ae27338c19c11ec75
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html
+title:mexican governor accused by u s of helping cartel returns to his job
+seen_urlhash:cb2326c9c95edcdd5532e577c05e9bcc5ade7c0c105f6363d4b6c26eae3d884b
+seen_titlehash:663da22054dd903be2a4c6a0bf35a16a8a9478aebf00111a282d09352fb3beeb
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss
+title:tiktok settles with us justice department for 400m over child privacy laws
+seen_urlhash:00d0ba293fc8983da35f3e7a57c0670763c803484e6fb45c61e69d7508d2059d
+seen_titlehash:11bfa24c315dfda6beaa21ffb4098d56cbae2774fc0a490824918771a3f7f615
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss
+title:mexico governor ruben rocha returns to office despite us criminal charges
+seen_urlhash:b73486f6b6c93c93ee47073c3c10e9ff8aa6e6c9b37db20b97562d002fac073e
+seen_titlehash:a385b82ae63428fc2d66d89b4e76877c8dda27adbcd4b2ac7ead7420f792b79e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss
+title:one killed three wounded in sword attack at swedish high school
+seen_urlhash:38ce857c9e494f601f9cd1ae05b9531957fdf9d05d1a56f3e1e487a2d7168613
+seen_titlehash:d3bc3d5959ae7eb56611aca3f19660758069ed8d1fd217e77845ae43f3dbabdd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss
+title:global sumud flotilla joins albania s anti resort protest
+seen_urlhash:e63a02a8d9879e60fad521a309e142a9aa43b1a93134b4b598aaa4c8be1809f1
+seen_titlehash:37e4293e57739614cf14ba47acd1fca8dc7cf7546b1b8d4c2abda6e557827b7f
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-автозаправках-геленджика-полностью-закончился-бензин/a-78466005?maca=rus-rss-ru-all-1126-rdf
+title:на автозаправках геленджика полностью закончился бензин
+seen_urlhash:9904ac7f02fed8490cf77755795d8983a9f4dc5b089b4f8fc6493b95df499a0f
+seen_titlehash:c070e31dae467dcdd714591ca90e1c527ae659e1649165f7b5641e9e1f5f9eff
+seen_reason:processed_not_published
+url:https://ft.com/content/12f457bc-8cb0-45bd-bf7f-83abf2d9c7d8?syn-25a6b1a6=1
+title:sec accuses ex bank of america utilities banker of insider trading
