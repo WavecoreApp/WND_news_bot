@@ -60958,3 +60958,58 @@ seen_titlehash:8e3c823ba55e54cf7042681fe9e5102f114698b010818223b68e4800b8328c78
 seen_reason:processed_not_published
 url:https://ft.com/content/481b3fd0-6b2d-4bbe-b6e3-b99146df827c?syn-25a6b1a6=1
 title:uk posts unexpected budget deficit of 1 8bn in july
+seen_urlhash:2fb3924e308448e6cff7bc612be9d804029dd3322e574be0e706db5b12143be8
+seen_titlehash:3d24823cfd0312c85be4c95e190417374806814d393926cd9fadef49a1c86d07
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html
+title:return of harry and meghan to u k renews questions about their security fears
+seen_urlhash:df69e683f65ffb288ab682d148b0de0744f7cf8a5b89ff034e149d611e68f8a8
+seen_titlehash:bd8d9e78dff4fea8dad00b13407cea2926ac068557f933032413d3b60d647d15
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss
+title:israeli settlers set fire to palestinian home while family asleep
+seen_urlhash:c5ab2699b5f85779112408971e8c7419946d83f38c9090060b4428314bc32866
+seen_titlehash:b9f2ec16ca5055db6c3efb09455e45e541a0596fe5cceee0783950e009177293
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss
+title:europe canada condemn israeli plans for new west bank settlement
+seen_urlhash:92f1feaac91b50713956d196599865adc556dd96d6a068edb8eead80cb73ccc3
+seen_titlehash:8421abbe17b3377c2cff7538084db8b5ba186f3398746df5d0827a70b12bb688
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss
+title:australian hussey open to ashes test role as england make approach
+seen_urlhash:c1d77287d32ebc426ad25e7eff7c61bc3a89c991a92f948edd2ac75ae5605a01
+seen_titlehash:314efdf75adcb5880f078544e5c014375090cef2f08f3a3dafff94cf9d3ed78f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-cyclist-to-compete-in-spanish-race-just-days-after-brothers-crash-death-13575248
+title:british cyclist to compete just days after brother s crash death
+seen_urlhash:e3d7b5e1e55c28629bbed2254400960c67ba2cef1e88cfc6d330b96d80682e26
+seen_titlehash:d4609718576fc7cc33f5b6c01db0ba82d2565b315afa399115f4e2c56dc4d370
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260821-strong-6-7-magnitude-earthquake-strikes-southern-peru-damaging-homes-and-schools
+title:strong 6 7 magnitude earthquake strikes southern peru damaging homes and schools
+seen_urlhash:f2e0762a75bb64c4391fb7bb0ef4670126d263efb59b53fe5261bd44a8879de1
+seen_titlehash:c1404197e20563b259d4440c4a84a3b7eace0fea56490f1ddfbff5d361580224
+seen_reason:processed_not_published
+url:https://dw.com/ru/нпз-лукойла-в-перми-загорелся-из-за-атаки-бпла/a-78453375?maca=rus-rss-ru-all-1126-rdf
+title:нпз лукойла в перми загорелся из за атаки бпла
+seen_urlhash:5e3a777bd120ac5e898a5204d2582beb2f707c6254d94431fb2b8ca01f56923e
+seen_titlehash:0d85419932c5769969e8974d668f55f2c3a65ebba974d0e5ecf47a0e7c5d7ac2
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-что-немцы-тратят-деньги/a-78420247?maca=rus-rss-ru-all-1126-rdf
+title:на что немцы тратят деньги
+seen_urlhash:e1bbdc0943fec8272d12299a23218917c53bf4ce64f197b8b6ae6d27a6737471
+seen_titlehash:e24796cf960be0de61e34ec715b331c2d9371447a22eb4d2b81942d8694ea6c8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/21/serbia-wildfire-thursday
+title:крупный лесной пожар в сербии пока не удаётся взять под контроль
+seen_urlhash:a3e01e1adee45e2a4c688114f31035a237fd8d6648d6f8a99cceabf1935bba04
+seen_titlehash:5828392d4013b19692618df0de3430022fec4dd54f12d5848b6e63957a7466c9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/rossiya-vtoruyu-noch-podryad-atakovala-kpp-na-granitse-ukrainy-s-moldovoy
+title:россия вторую ночь подряд атаковала кпп на границе украины с молдовой
+seen_urlhash:7e5f087760924726be9c6d0b83162734789d08ee1de7e0a2d50e5af215172d8e
+seen_titlehash:6959860836d69f323d99ffd7ed52e86a7d6bab71d8c7ebfaab1071771d388957
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/v-rossii-stali-chasche-likvidirovat-biznesy-v-sfere-byuti-uslug-iz-za-nalogovoy-nagruzki
+title:в россии стали чаще ликвидировать бизнесы в сфере бьюти услуг из за налоговой нагрузки
