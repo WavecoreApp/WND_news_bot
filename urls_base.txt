@@ -60803,3 +60803,63 @@ seen_titlehash:d9efe4ceaf2cbadaa5e0273d1af9b65fb8b59b6f3435ad620d87dfdafa279844
 seen_reason:processed_not_published
 url:https://ft.com/content/2a791f9d-1036-4ef9-a232-5993b91c554d?syn-25a6b1a6=1
 title:art market money laundering rules catch interior designers and toy soldier sellers
+seen_urlhash:df0a7264ef938ae20b6271421c4d73a80241e7ee64e688e1f0ada82dd891ffa9
+seen_titlehash:8631ec21c2208bd7dcaa91f9af04b1680c888c9e62825805631295b2788b9e1d
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260821-the-hong-kong-tiananmen-vigil-activists-convicted-in-national-security-trial
+title:hong kong convicts two tiananmen vigil activists of inciting subversion
+seen_urlhash:6903c22f6c4f809f164b2461cba636513ebc36e2477d21d51ca82b88b3d265b8
+seen_titlehash:60eb05e09de7c0df721378e87be10603a171a5670357c9f0eb0749cac53a5fef
+seen_reason:processed_not_published
+url:https://dw.com/ru/минэкономики-германии-нехватки-газа-зимой-не-предвидится/a-78453064?maca=rus-rss-ru-all-1126-rdf
+title:минэкономики германии нехватки газа зимой не предвидится
+seen_urlhash:1935daa2607b26b35cf41d6159edb0bd336b2f2d7f74ddf35278401bbad986be
+seen_titlehash:158c29f5ded3b204db22c3c808963966d30bd1c8ef44913c9ea0d135237ec18a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/21/diamonds-or-duds-are-these-the-most-overrated-albums-of-all-time
+title:шедевры или пустышки самые переоценённые альбомы всех времён
+seen_urlhash:c20434dd5de78bbb915d43fa4f6a6ced56eaf075e947f6da1ee7461bde9544b6
+seen_titlehash:748811c4d3500c0ce8b18ecc3a1b71efb2d56db0a08e1a2741626d51a39cdf18
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/21/ban-metas-smart-glasses-all-you-want-amazon-will-still-sell-you-a-spying-clock
+title:запретите очки meta amazon все равно продаст вам шпионские часы
+seen_urlhash:cb365fbdcf0d49832be494ea49e613cac867927744c2824043c52a5ec674ba44
+seen_titlehash:44ba093d5e5061cc924a9090f5ad60ce89979c434a79fa7025248c367e3193e0
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/21/no-products-containing-nicotine-are-safe-for-your-heart
+title:ни один никотинсодержащий продукт не безопасен для сердца
+seen_urlhash:63ccb4809e01e0fb9b85103bacb0ec63f19cdee62cbad22303ccbe46d7956725
+seen_titlehash:3d5b56ca0fb63b75bd20209dd3b671d03df504ac493d8c62d371ae973a9daf98
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/21/heatwaves-and-wildfires-which-eu-countries-have-the-most-firefighters
+title:жара и лесные пожары в каких странах ес больше всего пожарных
+seen_urlhash:9bc626d2ba26f0c78050720d5a5f11744feafa7903bf389ca4594ac4fc5fdf7b
+seen_titlehash:dddbcda493d53718896ac7bf9ba9f2df20e81a204bbdfb989ef783e47f8a2a9f
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/21/germans-could-save-over-12000-by-replacing-a-gas-boiler-with-solar-panels-a-battery-and-a
+title:немцы могут сэкономить свыше 12 тыс отказавшись от газовых котлов анализ
+seen_urlhash:deffd2d1ae9181847f50ea8361bffe35fa091a46a82d2fd14690685c51ae7f75
+seen_titlehash:c84a7b91ee74802f7237e07f4158904de89866afe376caa7cddb55d5ab05f4c3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/na-figuranta-dela-kanskih-podrostkov-nikitu-uvarova-zaveli-esche-odno-ugolovnoe-delo
+title:на фигуранта дела канских подростков никиту уварова завели еще одно уголовное дело
+seen_urlhash:a28ea894ae7fe40ddb600ca0d6c281f221acab07fe0cca644dc080fb26ea314a
+seen_titlehash:175686371f9166e101ac081d090f81eda2269a53b74f447eaf08206f0995acae
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/mobilizatsiya-v-rossii-ne-planiruetsya-i-ne-ozhidaetsya-zayavil-pospred-rf-pri-oon-vasiliy-nebenzya
+title:мобилизация в россии не планируется и не ожидается заявил поспред рф при оон василий небензя
+seen_urlhash:2d76e821632b9ee768dc8862703c9122da7b3e73e1f1718c217ee7a2059490c4
+seen_titlehash:01a8fc121a179ba4bfe839120b00d908cdd591a4b41593a0b4ad859cff5e1684
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/ukrainskie-bespilotniki-atakovali-perm
+title:украинские беспилотники атаковали пермь
+seen_urlhash:98e3af92e1fbd1e2365b5b24c57b8fc691c6eb9c30941e4a3ed612ff51d66bb3
+seen_titlehash:a9be43009c502e54b8dc11abe85a7a2523a8b5bff9793001bdb49a156b795582
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/21/lyudi-dumayut-osenyu-vse-naladitsya-no-chto-takogo-po-ih-mneniyu-sluchitsya-v-sentyabre
+title:люди думают осенью все наладится но что такого по их мнению случится в сентябре крым имеет для властей рф стратегическое значение но его жители едва ли вот как крымчане от джанкоя до алупки выживают сейчас
+seen_urlhash:b7939e7a4150933f14295c5ab29409fe36435c1a4eef6148685a6816b66176cd
+seen_titlehash:80ce36aa79b4f57011d1b0559fd888ab730a53970ab1bef1c0fd828df8e146d1
+seen_reason:processed_not_published
+url:https://ft.com/content/0af3065f-15dc-4444-aa45-b7b62546c649?syn-25a6b1a6=1
+title:imran khan moved from pakistan jail to hospital and back again
