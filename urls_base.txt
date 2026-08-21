@@ -60678,3 +60678,23 @@ seen_titlehash:de4a10f3b42da4327ef154170abddcb024975303d86b8d116338aeb62b6a302d
 seen_reason:processed_not_published
 url:https://ft.com/content/2c71652b-8c56-4e53-81f4-a455845ee9d7?syn-25a6b1a6=1
 title:india s troubled spicejet wrangles a last minute break
+seen_urlhash:cd89e44db3af8b44f146d08a673e51b5a86048d15f87c251cc174b8241c91eeb
+seen_titlehash:c888991966f18f4e0f37834b3c939f7a91fb540aaa2cf1f7860bea989be12bf1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss
+title:japan executes man who killed five in pachinko parlour fire
+seen_urlhash:d45f024e8e69bdba6870612a613df3f5bc3b8d688a40d6b18ef2e80c87c1c5ac
+seen_titlehash:a5ba4a525dbeae425f71c955298e31861ab610f09bb5a493fc98caa381ec01b3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html
+title:orban s office thrown open is not the den hungarians expected
+seen_urlhash:f9ae6e4cb32915274e752e391ced71f246fc08e3235292bc04f944844b3e0852
+seen_titlehash:355e1e11750058ffe9126720443fe497d9a5e621942d6aa210997ae9a8c0df8f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/21/liberal-mp-condemns-coalition-backing-labor-gambling-reforms
+title:former liberal mp condemns coalition for backing gambling reforms that let down vulnerable australians
+seen_urlhash:2fa0cd760819138106a117eed2816d85594c5e16559eff0af1e8b5af4deae081
+seen_titlehash:ae27f265189ada1a91c5c3ef47e5e5ddf6e410edccabc161e1b507d7f344b7c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss
+title:hong kong tiananmen activists found guilty of national security charges
