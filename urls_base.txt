@@ -62093,3 +62093,58 @@ seen_titlehash:f6898605d38b8024f5636b9ba3094c8b428d267636c3e3407c20abae95b237eb
 seen_reason:processed_not_published
 url:https://ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1
 title:citadel offloads 80 of portfolio scooped up from situational awareness
+seen_urlhash:f7e14f5a82b0b5252a59a622e2f359572549a813e94c6d61cf10f46897f2f1ff
+seen_titlehash:14a694e1a11ceded44907e9c933adc60cb5bb9eb4675e0cdf4d2c60375958b70
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html
+title:germany identifies a plot after finding a weapons cache but names no culprit
+seen_urlhash:4710c0c25976ab2b4c9fae60264d15f931b49076e25e6702c021332def7b9835
+seen_titlehash:477c0bd4253cd32cc24d50118aecae06c39e92ec96120e43ac84a41c55566347
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss
+title:how is drought hitting uk farming
+seen_urlhash:bd5a304b24be92a2cec7c6ea3d2f1652a86752a8b5169f76070837db347dbe35
+seen_titlehash:d98c648d96f718785405cafd58f6d7f48826ec22fa4309eca12e5dff25b9155e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss
+title:why iran is threatening europe s strategically important southeast
+seen_urlhash:eaabe12ee2a0e52f687111b023e8235e763d70b681dcce24987ae28733d80557
+seen_titlehash:ea8512e17b0104c628f0fa55948107c83eec86ce45cbe195111d1edb6f44b4fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss
+title:israeli army settlers kill 2 palestinians in separate west bank incidents
+seen_urlhash:3ccc494ee3467db71ffe936f3b6a9a24792f2b0d9aa1a04a94969a9bf49074cc
+seen_titlehash:9cb59f55555eb9f6d11c61df83f8687afe9631e129676cbeb88c80950b60f94a
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre
+title:back to back russian drone strikes kill 14 people in ukraine shopping centre
+seen_urlhash:40dbd0e5d7f2c124de826db2de54d3203d391ed7a21a90d2a944531b6ab8c4bc
+seen_titlehash:395b09bbd890d58a44a767066e2959c047e709d576c08c28823079e431be55a7
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention
+title:turkey seeks international arrest warrant against israel s netanyahu over gaza flotilla detention
+seen_urlhash:7911b4b44489a81554a579d73159e6e54255d09b10e388215615e8ae721abecc
+seen_titlehash:2a9680a5428f5c0ff191b2b3bcd48dfbbd39db2c6573f24fd8be679b65ff423a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-швеции-совершено-нападение-на-школу-два-подростка-получили-тяжелые-ранения/a-78464162?maca=rus-rss-ru-all-1126-rdf
+title:в швеции совершено нападение на школу два подростка получили тяжелые ранения
+seen_urlhash:165f65810b0b9785cc1279d15b1f73879924dc58c1d045b9cf55b2fed7c2e8d1
+seen_titlehash:ad992fdccf537a10969c4da5890a3f6f4ba51cefd57c4e61504cdce14e788533
+seen_reason:processed_not_published
+url:https://dw.com/ru/рф-дважды-ударила-дронами-по-тц-в-кривом-роге-6-погибших-121-раненый/a-78462408?maca=rus-rss-ru-all-1126-rdf
+title:рф дважды ударила дронами по тц в кривом роге 6 погибших 121 раненый
+seen_urlhash:cf83f9d785c2432f4d8dfb9ea875b74f611514b6d5701da33774baa08db60a9d
+seen_titlehash:01930b57819dcd156407e0e05447ac153d91759e8a92778bb7b5a3bdf7eff383
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/21/marmolada-ice-melting-and-more-fragile-permafrost-dolomites-in-distress
+title:мармолада лед отступает вечная мерзлота слабеет доломиты страдают
+seen_urlhash:ce2d196f269d37e6b7b347bfc202ae6c9aaf02b2f761f1d453447ab499b7b373
+seen_titlehash:cefc609c97b66dd94aba2e2712abe5c72b81b5f58f84fba0046be79a6779e161
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/21/rodina-snova-pytaetsya-snyat-yabloko-s-vyborov-na-etot-raz-v-pskovskoy-oblasti-eto-region-lva-shlosberga-poluchivshego-11-let-za-antivoennuyu-pozitsiyu
+title:родина снова пытается снять яблоко с выборов на этот раз в псковской области это регион льва шлосберга получившего 11 лет за антивоенную позицию
+seen_urlhash:623dc2706936670dd0cf0fb7443f3818367e8c5cea1d89664b593308d0045efb
+seen_titlehash:f055df9bff7bd33be6432b35a1af5bfafb50c4e5b3c924a8d90fdc7e20c59b29
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/21/umer-yovan-savovich-sozdatel-dirty-i-lepry
+title:умер йован савович создатель dirty и лепры фотожабы и мемы придуманные пользователями этих сайтов во многом сформировали рунет до эпохи соцсетей
