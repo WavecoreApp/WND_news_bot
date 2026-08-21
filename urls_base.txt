@@ -60518,3 +60518,48 @@ seen_titlehash:f54040f1685a7947b967cbbcd24a7b02ce48ae857216da5d4e0a71cb9ed6e48f
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-украине-запретят-мультфильм-маша-и-медведь/a-78451554?maca=rus-rss-ru-all-1126-rdf
 title:в украине запретят мультфильм маша и медведь
+seen_urlhash:0292f12805273c34c8f90c60fe56612ceb55d2d3bbecfd3874557b67c317d8e0
+seen_titlehash:23846ee5551286c4eadbb1b5b810240b6fdd520ec2fa0a05cbb043aa44b513cd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss
+title:how much could trump s economic d day hurt iran
+seen_urlhash:62ca2a09be72ba6e993cd72f492397e58b5b629499984e8db89f55ed3f0db168
+seen_titlehash:d9432b363c78e7de4f017983996312dccb36e89f75e5cac56d7983f86249a4dd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss
+title:trump wants to be friends with kim but south korea could pay the price
+seen_urlhash:560bd30bce6ed89471721299586e96bd7e34d09d46c9194684b5608abcab703d
+seen_titlehash:c152218cf62ada7f86ebd35da0ba65a91220ab9f4e8f4a9d47d99ac9aa52500a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss
+title:fbi arrests woman over alleged plot to bomb new york capitol building
+seen_urlhash:675c0a6c3f8856bd97c88be025a83c365da92ba7c0325db0f6a8dfa679761ba0
+seen_titlehash:e1582f8545d5b1343d5da2040bea0d2b328e4ee7b6c4adbb3d43b9e6ca489021
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss
+title:why nigeria s one time political giant may face extinction
+seen_urlhash:e9805038aebff3ae1e731f1583106853cad598bfa12202cc6ff8ed6e29c9a6b6
+seen_titlehash:7766fbed146175628b7a508d9a1e7e0ea13d3e786c755748b8686e3b0b088aac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss
+title:us deports nearly 2 300 mexicans to guatemala over mexico s objections
+seen_urlhash:4139d08980d137f4c7dcb468c1fae4c5e3ecd22e078230d2dd0f30463b821ebc
+seen_titlehash:6e56ad50a281f7935fb27f7895481c068fbb0c624aa00fa31f3972501a90b0bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss
+title:iran war live us vows toughest iran sanctions urges china support
+seen_urlhash:0a5bd6601fccdcf0f40865ff052c95544f9401f4f4c2cc6204d8b5155df46a6e
+seen_titlehash:62d79b333f8f7c45c9c9c0e1d12ac3effb20e622f5c953e3584f2d6edff63ebd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss
+title:houthis and government trade attacks as yemen slides back to full scale war
+seen_urlhash:0a874f11c05bbd6a2bb1cee151de244ce48161265c54d621cadeb8e103ae0972
+seen_titlehash:fd37d812e73ffebd12240b44f8a37e586bc3bd384c7ac174731c69e3ba5da503
+seen_reason:processed_not_published
+url:https://ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1
+title:what is bessent doing with the 32tn treasury market and will it work
+seen_urlhash:6fb389d110ec1dd8aa368bc9543211f39a996b64a2f8d1fd76a493cdd60e16d4
+seen_titlehash:48797b76bde3adfa736855081f262c3bf4373853cbcafc72e15fdf0fb2cf94ea
+seen_reason:processed_not_published
+url:https://ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1
+title:uk consumer confidence rises to highest level for two years
