@@ -63548,3 +63548,8 @@ seen_titlehash:2c78150a64193e474992d76c01d0e2f47e28aaf05ca33b2edd8ae2986cad03c3
 seen_reason:processed_not_published
 url:https://dw.com/ru/сотни-тысяч-жителей-восточной-европы-остались-без-электричества-из-за-циклона-приска/a-78473150?maca=rus-rss-ru-all-1126-rdf
 title:сотни тысяч жителей восточной европы остались без электричества из за циклона приска
+seen_urlhash:0915b08777260edb6e053994363e39feb611c14cb576e1ae17a64ae68ace64f8
+seen_titlehash:ba68f4e1d5aee82796d958fd68daad377a8798ec67b4ea84aa229a6055813dce
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss
+title:tropical storm moke advances towards hawaii with heavy rain strong winds
