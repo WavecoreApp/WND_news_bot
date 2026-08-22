@@ -62763,3 +62763,58 @@ seen_titlehash:e280f7596bf82f47f3a4b0ec94273763e915748f6f3a7be51392008f47d6aa3c
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/22/v-kieve-i-zaporozhie-pogibshie-v-rezultate-rossiyskih-udarov-v-odesskoy-oblasti-povrezhden-vokzal
 title:россия нанесла удар по украине в киеве и запорожье есть погибшие в одесской области поврежден вокзал
+seen_urlhash:bb15e278abb767455f80776d7239930a1cab576627975599bfc608d0dd86c4e9
+seen_titlehash:8cf2e9182abd1e82961b87a50338158ce35f8b8bddf8c65e8136da412fab4e08
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss
+title:lionel messi fined for striking opponent in inter miami mls game
+seen_urlhash:d96652386c3da32ff0d7e8d7e5fc717634a21ab0e51bb2d6222e63e4bd15895f
+seen_titlehash:708f81affbfbc5afc82bfa8df769edbf13f9a06398e9df9126a674eb937c4413
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss
+title:young want to leave libya s brain drain 15 years after tripoli fell
+seen_urlhash:b8d37d2c65e0b8820f84493b3be926dfe787d2cb77e5ea84c93c875617751d63
+seen_titlehash:17fe08d9ce5d9915ded45330bcd96e4ce900d89a37480b347f6c2718d409d5d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss
+title:world bank projects war hit lebanon s economy to contract by 6 4 percent
+seen_urlhash:308419cb1390dadd45645b8fbf138c8d28988cb88d947b87ceb2963fbdd148f9
+seen_titlehash:6087d8eaa17ad97c10d3fc5b6bfc82af31f633966dbc841f9568abe6920ff434
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss
+title:somalia child hunger crisis deepens after aid cuts unicef says
+seen_urlhash:ef41a1f508602a809bb50b9c41ad4141834ed3b2cf84eb935560df0ccf9fffab
+seen_titlehash:3f76582e03524e5afa0488b2296ed3df60e2c7296a9ad0fd63b081bfaacce5d5
+seen_reason:processed_not_published
+url:https://news.sky.com/story/donald-trumps-50-us-tariffs-on-canada-to-be-matched-dollar-for-dollar-after-trade-talks-collapse-13575681
+title:canada to match trump s tariffs dollar for dollar after trade talks collapse
+seen_urlhash:ce453a9bbaaecbb9effe131ca18d52bc9c12bc1201ffc56a806ea6cff9feac45
+seen_titlehash:9768ef8359819c93f794ec40a5a97233d6dd44f2f2cf656c4ffc623a144ca42b
+seen_reason:processed_not_published
+url:https://france24.com/en/economy/20260822-south-korea-ship-to-test-alternative-arctic-route-as-mideast-conflict-disrupts-shipping
+title:south korea ship to test alternative arctic route as mideast conflict disrupts shipping
+seen_urlhash:5cef12b473f2c15989f2d031585fbfe23524f50a9f233b04f6179262fedb72bb
+seen_titlehash:35e4a0baae0fc689475cb5ac57eb0c00abb2045f339376dae0894ec5daf4088a
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-мид-фрг-вадефуль-прибыл-в-киев-в-преддверии-дня-независимости-украины/a-78466739?maca=rus-rss-ru-all-1126-rdf
+title:глава мид фрг вадефуль прибыл в киев в преддверии дня независимости украины
+seen_urlhash:ad2ef1d0f1a2ca66f1181fc0ade6ab1d50eefa10d5b715c7bd626898ddf81f6c
+seen_titlehash:d6870fd6068dd812ace10d25f8e8b26225dc90de47c29dc8fba4cdcba0000594
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/22/russian-saturday-strikes
+title:по меньшей мере 2 человека погибли при новых ударах россии по украине
+seen_urlhash:a8c59db0f73548f06351e8e6bdef6f107f5f07f363d5d4e4db75162a0634220f
+seen_titlehash:53066136681423b2b83156044626068d30ef1cdbb82ba1e6669fe3cf05901563
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/22/i-dont-like-black-people-us-brothers-denounce-racism-in-a-lisbon-nightclub
+title:не люблю чернокожих братья из сша заявляют о расизме в клубе лиссабона
+seen_urlhash:003487e3d0d41d59332513a11bc9e4affb23763d746e05999997e4b3ec9b875c
+seen_titlehash:44be22a6d3bdc6ebf934b504f43b0b6d54bc87dd1cfbe5129dba911147965ce6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/22/spain-rejects-morocco-ceuta-melilla
+title:на фоне кризиса в сеуте марокко выдвинуло территориальные претензии к испании
+seen_urlhash:4c22e0d8066fbab847b30a7f5fcdad58e5c408ce601dc9854c9bdfccf2ba27a9
+seen_titlehash:0fee33f11b83225f209827e913e7ce5832ea87ccf84c976e3beac39b7bf3c76a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/22/megan-markl-mozhet-vernutsya-k-akterskoy-kariere-ona-vedet-peregovory-ob-uchastii-v-seriale-dzhentlmeny
+title:меган маркл может вернуться к актерской карьере она ведет переговоры об участии в сериале джентльмены
