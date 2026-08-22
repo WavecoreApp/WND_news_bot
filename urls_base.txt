@@ -63453,3 +63453,23 @@ seen_titlehash:4a7d7c7d762b1a1d1811b5278169830b528f275c8fa7781e842e559c550c40f6
 seen_reason:processed_not_published
 url:https://ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1
 title:mark carney says canada is now at war with us over trade
+seen_urlhash:c3bac92b5cf89223b7c2d6c7d2231cd8149b70ab93b30df55a515f2f72b29b9a
+seen_titlehash:2c631b2bc15835d716906a7dc9484fab4dc6a0db8eaafcf4438275541814c0ce
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss
+title:carney canada will enact retaliatory us tariffs starting september 8
+seen_urlhash:272555250ad1f04a87708b066b5828d581043a37bd792cf62766e6623ba93d47
+seen_titlehash:dc1c63fc6ed67c8dd1b1ccc217639aae8679076ee24cef5a487c83d0bb07d69b
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss
+title:israel turkiye and the new regional reordering
+seen_urlhash:99863f6c5ca3a2b307beb014247cb3e198735f805913551f70e01b0dc8145f40
+seen_titlehash:1056c4f7044674ba601095a4ae912952ad69e1d242b36677031e7f04dbdab40d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss
+title:swedish police identify 17 year old girl as victim in school sword attack
+seen_urlhash:95154ada2eba5398c40801deebc31cf44357f3cb6932774a718ac79fddad7f1d
+seen_titlehash:7c4547f9085fa7e7aaeb432c88521bfb0eb0c20afe8238b912db45d485d21fa1
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260822-togo-says-it-has-serious-evidence-against-detained-french-filmmakers
+title:togo says it has serious evidence against detained french filmmakers
