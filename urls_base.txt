@@ -62723,3 +62723,43 @@ seen_titlehash:939d3f8f860c2488be26dd1556b6c2576ed6fde39003ce29bbcd1c90462d29b1
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/22/ukraina-vpervye-nanesla-udar-po-ozon-zagorelsya-sklad-kompanii-v-samarskoy-oblasti-v-tom-zhe-regione-gorit-npz
 title:украина впервые нанесла удар по ozon загорелся склад компании в самарской области в том же регионе горит нпз
+seen_urlhash:901b0d952964109a5f1b7fb9e1f59ab8f48b1856209a0787694f466348d996d9
+seen_titlehash:bf8f8951e1f92d38d79c116f01a3a105c901d3e2fa7e0043eb7e331e19b85042
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss
+title:lindsay clancy suffering command hallucination when she killed children court hears
+seen_urlhash:90ed59e4bdaebb3e4206656b5ab39166d5c6b05c3157708fd93eefca3065c830
+seen_titlehash:e94f3e58715c7780fc6a257e878814f8bdcc895a03253cdc4dfdf526f3d6a419
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss
+title:drugs at their fingertips intense pressure why child stars fall into addiction
+seen_urlhash:2700f7736f7255d02a424fe715599bcec2fe94862b0525d914d157f112b6103e
+seen_titlehash:29bfc2fddefcef32e381b1eb3d40219967f3d9768549070c5622d976f87cde32
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-ударила-по-складу-ozon-и-нпз-в-самарской-области/a-78466480?maca=rus-rss-ru-all-1126-rdf
+title:украина ударила по складу ozon и нпз в самарской области
+seen_urlhash:f0a9c57d304c0f1f66ad1abe55e2b48d64e5958f456df11d3409f9b602851781
+seen_titlehash:85b25fca9106669c2648161625cc1f212a64c2b346c5c5ec3aa9b961fef58b5a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/22/migrants-back-to-italy-sweden-joins
+title:швеция намерена отправлять мигрантов дублинцев в италию франция и испания против
+seen_urlhash:0e8b4ae9d91b805034127c90e9ffddf6739e70fbca5adbf47595040da5d93041
+seen_titlehash:17e27445633394ea485d8925824c9401013d97d2c47b4ce79e15843740fff270
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/22/us-canada-tariffs
+title:канада введёт против сша ответные пошлины по принципу доллар за доллар
+seen_urlhash:6b8b6aa9f6756d8c6bd4797badbbd49df0eba7fa1070c7dfdde8c4d81add16fd
+seen_titlehash:7ee62c8060c4b6517292c8869b2871d115f947ac5ebf9eb2f731f129268009d8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/22/scientists-discover-a-potential-new-pathway-to-create-more-effective-mrna-medicines
+title:учёные находят новый путь к более мощным препаратам мрнк
+seen_urlhash:90e3cbf09d674d8219ab21be35f3332a8f397d66188ab6e49b6c30ab4465fce2
+seen_titlehash:1917958c6a5b438fe61b04ada772688302d2699bbf693431ab8edbaf69dd38fe
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/22/squids-conquer-the-north-sea-what-lies-behind-the-squid-boom
+title:кальмары захватывают северное море что стоит за бумом кальмаров
+seen_urlhash:02634084bbfda304a1d0f3fe563f622e4ce41bbc401ef9615321aac4864737eb
+seen_titlehash:e280f7596bf82f47f3a4b0ec94273763e915748f6f3a7be51392008f47d6aa3c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/22/v-kieve-i-zaporozhie-pogibshie-v-rezultate-rossiyskih-udarov-v-odesskoy-oblasti-povrezhden-vokzal
+title:россия нанесла удар по украине в киеве и запорожье есть погибшие в одесской области поврежден вокзал
