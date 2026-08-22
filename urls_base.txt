@@ -63518,3 +63518,8 @@ seen_titlehash:e0cba63ae5181fa7d6d2cfe7bc66eec7644d97e584ab8baa6196c6f1b0da9509
 seen_reason:processed_not_published
 url:https://ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2
 title:israel s syria strike may have been bid to provoke turkey conflict us envoy says
+seen_urlhash:5e5c7dcaab7c835d90cdaf6f9759ba2f2be89802d272c4a4a989799c20b7a0e2
+seen_titlehash:dbeb138fbbff180485c5eba27eeeb0765f773e7465bdbce3bc7077f52e902bd9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss
+title:us postal service shares mail in ballot restrictions despite court ruling
