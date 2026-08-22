@@ -63523,3 +63523,28 @@ seen_titlehash:dbeb138fbbff180485c5eba27eeeb0765f773e7465bdbce3bc7077f52e902bd9
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss
 title:us postal service shares mail in ballot restrictions despite court ruling
+seen_urlhash:b41567f9675a631cb362e62b8fe6f6ec24680d20f918ed5d91968263a1530dba
+seen_titlehash:d515d81dd1eb7ffb26b12f67c41e76e3581f165e1436212c472d8153513029e2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html
+title:trump s top trade representative details offer that canada refused
+seen_urlhash:5077d5adc335b0c2c835fdfce7b5be08f0a44b051393e0a1d66f30fd316cf967
+seen_titlehash:3c4fbdda98d7def0ddc028aa499e072f06b6f82c06058d74c151b3558f8e22b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss
+title:real madrid beat espanyol 2 1 in jose mourinho s first game on return
+seen_urlhash:0881a260231f736f01eaacded89847ca0976da6e31c491fa7acc227367c8e382
+seen_titlehash:8a502e3055b9bf3cc4ccf28e4a776fa4c1179f040574fb9a09e72c657cba0c73
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss
+title:open air cinema brings movie nights back to khartoum
+seen_urlhash:1e520f4aff5acade4b0b2e262dddd3ef23d6556a5fcecda51bb12cb573d7f590
+seen_titlehash:6b4fc4716df2f302001f79799a3729b2659cadbbc41b4d703d2f26aceb3edb91
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss
+title:israeli army and settlers injure several palestinians across west bank
+seen_urlhash:61a0774fdff445724f86e582c86745227fd29fcb4585f9e82fa0a7341d1907ab
+seen_titlehash:2c78150a64193e474992d76c01d0e2f47e28aaf05ca33b2edd8ae2986cad03c3
+seen_reason:processed_not_published
+url:https://dw.com/ru/сотни-тысяч-жителей-восточной-европы-остались-без-электричества-из-за-циклона-приска/a-78473150?maca=rus-rss-ru-all-1126-rdf
+title:сотни тысяч жителей восточной европы остались без электричества из за циклона приска
