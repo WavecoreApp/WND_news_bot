@@ -63108,3 +63108,83 @@ seen_titlehash:7f6a7956d5a498a1d00dfc12ec37ebec4e24bf57ae4161f5098814686e8eab59
 seen_reason:processed_not_published
 url:https://ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1
 title:lula turns to trump as unlikely ally in brazil s clash with marco rubio
+seen_urlhash:c41a9da4994b2d8d4bdf63780936646b5af00a5612e77fdcadb70fc508bc2758
+seen_titlehash:95f1e4eb66012fb96239e1f9e020e93407e95e8cd548a428780177dce195fccf
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan
+title:man leaves young son on mount fuji before ascending japan s highest peak
+seen_urlhash:0f696c83d3dce76eacba4a576044b0869e36a5e7ebf3d83aa1cadecffdc522a7
+seen_titlehash:0cbf87dfc346e1b1144b6e39d55e16a26ee3235883442d00f013c60a41c61b5c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss
+title:jewish activists push back against israeli settlers
+seen_urlhash:a0c95bd943e827d4f64f56b3246215c4b4a74a72d45909ac3e909e84ec50b4dc
+seen_titlehash:d6f55f79a2a793c5cb7b21be805aa6e7011513a1180eaf9dcdcdbf902e815b9b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss
+title:concacaf asks infantino to skip youth event amid fifa governance crisis
+seen_urlhash:f3bd46249bf05ca1a325508d0a59e3ee9983ce09ce91a136950288cd7beb778e
+seen_titlehash:63f0c4cccce5b8ef4fb1a9509286b0ae650b2d6ccec2389cee35da1c330ee713
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss
+title:the berlin wall separated his family its legacy still endures
+seen_urlhash:ef55beb5cf71998edcdf26adde6b97570660422323e7ee4ace299d9705d4e56a
+seen_titlehash:616aa6a1c61389085656d9a9c844af810971896632d57e1d1d3744eb8110a961
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss
+title:russian strikes kill 6 people in ukraine day after shopping complex attack
+seen_urlhash:f07fed3d3c31613377daab7ebb7fc95253a039d10ec8b72019ddc3ff690467bf
+seen_titlehash:be44211cab4e038b05ced210691b83f5ef1977df5ad0e7b8a60903fc762faa14
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss
+title:hundreds of children take part in swimming class on gaza s shore
+seen_urlhash:a9c2b0313a3406d524149d403eff9c8c22bb44d64beb9d2369a97f51caecd039
+seen_titlehash:5f9a592428500afe1cc5a320d782379606e4e8ef1ef17f4b5393d28918231bcd
+seen_reason:processed_not_published
+url:https://france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak
+title:dr congo receives ebola vaccines in face of exponential outbreak
+seen_urlhash:21355cb4c294f0998273b44797ebdd45f96243c8684b31df8fb7e66f0c0523a9
+seen_titlehash:e0d5edd85af569f03fdc40fd5e2ea92b1df0ccf44c484557b3a0a47e6ab22367
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban
+title:contrary to law us judge strikes down trump s 75 country visa ban
+seen_urlhash:6ac1861cdb402b3fa3d460fd89fad4178a5c0ec4b0f587b1c2968968037d63b2
+seen_titlehash:70bf7f08b7d358598a914a7ea03eeae2bf33b25cf3090a6b8941f1a160efe47d
+seen_reason:processed_not_published
+url:https://france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter
+title:100 uk french ex ambassadors accuse israel of ethnic cleansing in open letter
+seen_urlhash:c0780186cc4aae6d1f4348f67c56108e4c2738556fb5bba6d0ca87d6a927d364
+seen_titlehash:e2d72897f29e5431f4faf45489496c898efd3e40a9b000853a5bb9586e096826
+seen_reason:processed_not_published
+url:https://france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing
+title:100 former french and british ambassadors accuse israel of ethnic cleansing
+seen_urlhash:0012376c43aa7d9450ac53f25984813ded9b65c45aa7c8fcb227055902e39288
+seen_titlehash:d44e30fbbc931a247b8c982509cb3d0614c8f0a55490e08efcd46a659affbbfd
+seen_reason:processed_not_published
+url:https://dw.com/ru/члены-нато-в-восточной-европе-предложат-сша-меры-по-сокращению-расходов-на-военные-базы/a-78469226?maca=rus-rss-ru-all-1126-rdf
+title:члены нато в восточной европе предложат сша меры по сокращению расходов на военные базы
+seen_urlhash:ad97abbbaff45e26a6c48cd374f7a5c315cd01d6817a66906ec301355f94462a
+seen_titlehash:0845115655bb617a6a5d3bf3b4f1af3df110272c929be2bcb0f87fe985bd782a
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-мид-германии-анонсировал-в-киеве-помощь-украине-на-60-млн-евро/a-78468754?maca=rus-rss-ru-all-1126-rdf
+title:глава мид германии анонсировал в киеве помощь украине на 60 млн евро
+seen_urlhash:b7ba1ab3dae9c7c6b21ae5421f2ca36a21a0bf8f178c6d245e88f02b744aaad7
+seen_titlehash:6b369e720273e6f9dba9eec451332daf78d81f8e084f3e5de76378eab8cacee9
+seen_reason:processed_not_published
+url:https://dw.com/ru/politico-германия-планирует-создать-ракетный-арсенал-на-12-млрд-евро-для-сдерживания-рф/a-78468830?maca=rus-rss-ru-all-1126-rdf
+title:politico германия планирует создать ракетный арсенал на 12 млрд евро для сдерживания рф
+seen_urlhash:bfb8d4d85d1e9acd1bf0ba249183faed1f08393e4033cf499dfaec78351fb9f2
+seen_titlehash:5f75f86976630e9fc4291c600fe1e26c2a3f48151cf60cbeac09cf1bef15f2f1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/08/22/health-authorities-urgently-convene-regional-governments-over-vaccines-in-ceuta-after-case
+title:минздрав направляет вакцины в сеуту после случаев туберкулеза и чесотки
+seen_urlhash:bbf96757e86fdd7a78820cac035a78db5b751e40fbcdc61e967adf426f1f7765
+seen_titlehash:a73777cd338fc1658c202188215e04624b5628fdbf496d717571eede6f51052d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/22/europes-devastating-wildfires-reveal-a-deadly-new-threat-buried-bombs-from-the-first-and-s
+title:опустошительные пожары в европе выявляют новую угрозу боеприпасы мировых войн
+seen_urlhash:be31f7736fac40a7d3b03c7efd0731262c821112b5e39f3b6a9d6a35747b0200
+seen_titlehash:ef92e9c376abe4b197e75660b2dcf6a1a2e0eadf0d77561528917acb2fe106de
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/22/umer-permskiy-bloger-aleksandr-chugaynov-vladelets-vorona-goshi-v-yutyube-na-nego-podpisany-bolee-dvuh-millionov-chelovek
+title:умер пермский блогер александр чугайнов владелец ворона гоши в ютьюбе на него подписаны более двух миллионов человек
