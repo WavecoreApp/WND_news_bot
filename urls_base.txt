@@ -63473,3 +63473,48 @@ seen_titlehash:7c4547f9085fa7e7aaeb432c88521bfb0eb0c20afe8238b912db45d485d21fa1
 seen_reason:processed_not_published
 url:https://france24.com/en/africa/20260822-togo-says-it-has-serious-evidence-against-detained-french-filmmakers
 title:togo says it has serious evidence against detained french filmmakers
+seen_urlhash:4af0ccec660ea989382c715daeeab33c769332f1540f61ddcb4458d12050becc
+seen_titlehash:89bac19a55cb09e9b3d3d3717e36ef8fb2e4cd2ff1294b94ebb970b49c9d6a36
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss
+title:iran grants permission for some iraqi oil tankers to pass through hormuz
+seen_urlhash:150fc6892256c3abe9d75b28ffa53124df69344ac9422d11a36756509a6b8566
+seen_titlehash:9558845492f73f34661140df4d5084593bfb41c43c9654c9c895608b8169cdb2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss
+title:why is israel building new illegal settlements
+seen_urlhash:cd91bcbaf9ca44aed0d5d67ed019aafd962600e29392a18a84682cb1ea0f326b
+seen_titlehash:55771eaebe335ee61c580389c2fe8d457579d4ab7a7aced1f85f7c7e8508ee47
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss
+title:more than 200 000 newly displaced in sudan s kordofan region
+seen_urlhash:7ab3acfc4aee01f9dbc12a6645ba4428f41a6d4a0927378d9ed63cfb410d3cb0
+seen_titlehash:837abd39bfb35f3928a1a8282aa667d9cd32b31ea169b09860a96d915105c435
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss
+title:israeli strikes kill two and injure others as gaza attacks continue
+seen_urlhash:b84e6ca5067691601c359988f46c4c00d44aff6e9b35cf745a05aac7a262864a
+seen_titlehash:b16e16bd61e169adc5c9cf6619a26c4ebea7ea3c3b48768fbca19d3ef7cf6275
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss
+title:putin warns ukraine has opened pandora s box rejects peace proposals
+seen_urlhash:9743aefa1e4eb3ebdb9207874b7f6f12502cbd9736a460f58d4e9c0e2fdd8882
+seen_titlehash:21002cbef4d14469ab358a664e1546bc21e0218e0564387d81c4b0e508aaa0b5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss
+title:envoy says israel did not give the us notice before strikes on syrian base
+seen_urlhash:8186d6cb91656bfe66147d131de421211401f005682706c04bdf7efdcf80abe1
+seen_titlehash:78b72c14e3a6d5aafcb37467454c33fd2bf5c4140322c5883a9885b8390c8ef1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss
+title:canada to match us tariffs dollar for dollar pm carney says
+seen_urlhash:09f96ce4c34338749473c9f36efb5062dea9d717aede3102f0a0f4be444b7f2c
+seen_titlehash:678d32d474e00ba8d8ba278af715b58403cc1be16583be6849ff8aa780ae2621
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-сша-суд-отменил-решение-о-приостановке-выдачи-иммиграционных-виз-гражданам-75-стран/a-78472129?maca=rus-rss-ru-all-1126-rdf
+title:в сша суд отменил решение о приостановке выдачи иммиграционных виз гражданам 75 стран
+seen_urlhash:ec3fcf8cd346fe47743a411cd23f3699341573bb49392f6f03966f97efcc2bae
+seen_titlehash:e0cba63ae5181fa7d6d2cfe7bc66eec7644d97e584ab8baa6196c6f1b0da9509
+seen_reason:processed_not_published
+url:https://ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2
+title:israel s syria strike may have been bid to provoke turkey conflict us envoy says
