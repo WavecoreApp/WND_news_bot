@@ -62503,3 +62503,33 @@ seen_titlehash:8c06b3668caf745ae1b61576a43465e0111c3c1a7261b697fb6ae28cf9b8c108
 seen_reason:processed_not_published
 url:https://dw.com/ru/в-россии-разрешили-людям-без-руки-или-ноги-водить-автобусы-и-грузовики/a-78466374?maca=rus-rss-ru-all-1126-rdf
 title:в россии разрешили людям без руки или ноги водить автобусы и грузовики
+seen_urlhash:00ea44651d561acbff8562de196c231bbae7a964eb2080d76eb3fa5f40760149
+seen_titlehash:6fb4638782516e8aa6af3a29712979c8dd0af592410876f8e68566c2e86d253d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html
+title:cities compete in dizzying gold rush to be japan s backup capital
+seen_urlhash:b1dc3023439a6549329bf07c4d06cba4673cce0798f797050be54ad13210a931
+seen_titlehash:738e1a452d39556f8057479ea2fd969fa620a06f9511c3b4f6c39a80247db052
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html
+title:close and loving or oppressive a novelist takes aim at italian families
+seen_urlhash:bfb7ab17a5dd385e45a7271d194eb8a41e5095f990fce452c80ddb758e011280
+seen_titlehash:5c43421fe975b30c6d698770d0bb1fcef98537241ea4a99227b477be0b9edaad
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html
+title:canada u s trade talks collapse washington imposes new tariffs
+seen_urlhash:8ae1d5da86cf913e33c134a9a1d0794ddfcde265ee17511585c0b261da8fc202
+seen_titlehash:a9663e6a102c6dcea61ad5bf01f46e0d9fc163f36f1079d04ce2c5d1f37123dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss
+title:us imposes 50 tariffs on 20bn worth of canadian goods after talks fail
+seen_urlhash:7c37effb8232afd1e523732bffde4940472ed24a07677904eaa306c7a34aa7bb
+seen_titlehash:0836ed6fd5b13bcbd5c44a28c8c563534ca9ff7c09d4cf1d690d2c9694e2193a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss
+title:us judge strikes down trump immigrant visa ban affecting 75 countries
+seen_urlhash:51590b928e4e02b5abee89da4129284446817fc97bd5f0bbd3e0ed2e0c65e968
+seen_titlehash:20daf5dd1725acac5feb7023c92086c7866a7ae8c5ca18433d1d6b3466d25e79
+seen_reason:processed_not_published
+url:https://dw.com/ru/посла-рф-вызвали-в-мид-финляндии-из-за-инцидента-с-самолетом/a-78466451?maca=rus-rss-ru-all-1126-rdf
+title:посла рф вызвали в мид финляндии из за инцидента с самолетом
