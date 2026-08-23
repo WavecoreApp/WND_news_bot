@@ -63553,3 +63553,38 @@ seen_titlehash:ba68f4e1d5aee82796d958fd68daad377a8798ec67b4ea84aa229a6055813dce
 seen_reason:processed_not_published
 url:https://aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss
 title:tropical storm moke advances towards hawaii with heavy rain strong winds
+seen_urlhash:c0a1da019c36e589e62d3321f741585174ee00b7c9041bd2f51e9766afabeb4f
+seen_titlehash:cd12c8ebf03ff6d1ede37fa5f9c7843ea830cddf257de6bf75c867b46e436150
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss
+title:syria says israeli strike near damascus violation of international law
+seen_urlhash:df8822c0bccc4957793dff63203ad2d8937517db808a2e5aad570cb5f0729f9b
+seen_titlehash:543f806c62caa62709d8f97b8ff96af3087ca95dcafaaf9d23136d070a94528c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss
+title:the hotel booking mix up that could free mushroom murderer
+seen_urlhash:388629f5e0b5ef7b9eda2e03200d1edb89ce3b79d0ec333a0aaae729fcb2b91c
+seen_titlehash:bf755525ecafa655e3cfb2b3cb8c496f3a007ad5c4b4eb1eea1a9be0be1a2cf9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb
+title:australia news live dead fur seal the first mainland mammal victim of h5 bird flu liberals plan radical redesign of victorian appeals court
+seen_urlhash:a59ce0072a800d5a770689b45b1e6d10850a42b3ba47f18874cb5177a0433088
+seen_titlehash:a867200163948c2c005500d89d558fc823b28e38a6e4f2ec7cb44fed774b30e5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss
+title:iran war live tehran warns neighbours against joining us economic war
+seen_urlhash:3a74555b3f0a9ed6562c2ab676c8bd93c3307ac5488f47562d5c9f37a3908697
+seen_titlehash:87bccbe7563fcedd3bb76608e277741ba25dd9fd173cc490618f3919863b40e8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss
+title:iran threatens countries that join us economic d day
+seen_urlhash:52908a7228d10f2d39e4aaa90d4016c80f8783c94eb543ae8cbb69ddef34efae
+seen_titlehash:b3a09128e5101abb400f5ad36d168715abc99cb415b512fc9d79c9dfcce4146a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss
+title:iran warns nearby nations against joining us economic war efforts
+seen_urlhash:6a714fed0fc6a497d9fe71041b16b842800b1df80bea1980dea0ab79b3661862
+seen_titlehash:7047d4977a290814c71f0d481e8968fcc23f1111372c129a8d83555be6196e26
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкий-globus-расширил-сеть-гипермаркетов-в-россии/a-78473201?maca=rus-rss-ru-all-1126-rdf
+title:немецкий globus расширил сеть гипермаркетов в россии
