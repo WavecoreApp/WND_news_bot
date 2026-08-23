@@ -64658,3 +64658,33 @@ seen_titlehash:ad5fa0dd899a948282fca5480c7e4a9dd246d417d9690502414943bfa99cdfa4
 seen_reason:processed_not_published
 url:https://ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1
 title:yahoo the internet s og wants to win over gen z
+seen_urlhash:7d4a13b7c3bf33eb2502b9147996f02f0cf244eb8621df15ba374f4a9c4db6a2
+seen_titlehash:3536d0913b1118e653df29bd4ec64a65b2267feca82d49cda6c6de783087a4f6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html
+title:the price of bread
+seen_urlhash:30c51d75069c2bb302af7576129d8c09f881410ffdb198c86a1af1ef34cf4c19
+seen_titlehash:11e1ec4b4e76642dfdc5de00d52870fc92956b841b04cab5a0626b039c551744
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss
+title:is israel about to split the occupied west bank in half
+seen_urlhash:e8731809401f9014e9d475acdad69fdba4314dc680218cba5663db8f2d95a3fe
+seen_titlehash:a2e935f2dd27a6a6875e32cee4571188df74d2f205af11e864015ddfbe1b859e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss
+title:severe winds toss four aircraft across italian airport tarmac
+seen_urlhash:8e3327f1064174e77b3a68b74bf6d5eea1c79cac24a78e13c0618b91fb068838
+seen_titlehash:a590c70989f8731310ca47b22cb8b7b8a7a7a3e0ddf24ef529d73682fbe82897
+seen_reason:processed_not_published
+url:https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442
+title:landslide kills 30 after mound of waste collapses at landfill site
+seen_urlhash:f35e14dfbd5d94e23c1a68f93cf7619fbbb0e0dc6227cc20d3d9b1c618b7839d
+seen_titlehash:6af845c0b57d1ad74fe3de1b6b828473115d2208e26daa946cae3fcfbea6a0d2
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector
+title:iran discovers major new gas reserves amid war hit energy sector
+seen_urlhash:1369d358edbf3ca77a82b3ac0d0bfaa12f3e9b282261d9fa3d7cbe67c60715d5
+seen_titlehash:14a5b0e5b76116d7889fa94a67dca9a647c487afd3b53af0321d75b01a23228d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/23/uzbekistan-i-azerbajdzhan-ukreplyayut-soyuz-cel-v-1-mlrd-i-razvitie-transkaspijskih-svyaze
+title:узбекистан и азербайджан укрепляют союз цель в 1 млрд и развитие транскаспийских связей
