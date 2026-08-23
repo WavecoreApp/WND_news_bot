@@ -63873,3 +63873,63 @@ seen_titlehash:052537592e414cb2fd408d56890893f7773ae5291917e9ea5b7ce9e5aa7c1bee
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/23/v-harkove-sem-chelovek-postradali-v-rezultate-udara-rossiyskogo-drona
 title:в харькове восемь человек пострадали в результате удара российского дрона
+seen_urlhash:5ce17917b1773abe475022ebcb337a45374a5322a4d11c9be11c23ac87b77572
+seen_titlehash:eae8b4cc73f3569eae770efe94731772ea116c81e44a7cae901536aab90ad182
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html
+title:echoing trump latin america s leaders boost allies across borders
+seen_urlhash:d44cb644a690e9261b629efb2192f3a5310d4ef1750ed1f8570d256668f2987d
+seen_titlehash:24991203a9b07133e73f3e30e57462f013fa6c8836eaf8d0849e8468bf161a86
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html
+title:the world s breadbaskets are getting pounded by war weather and trade spats
+seen_urlhash:7744a5938bcdb5a53c2a934e82e32a0d9378c43b96deb06b2fa832c6e6287623
+seen_titlehash:00928ab60a36666993f4f8f50d2a8056ba4301b4fc0cc3bb3ec7076b21ff193e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html
+title:someone was impersonating collien fernandes online she says it was her husband
+seen_urlhash:ae5372ef895d7e4157a930102dc107d9c2e982a8f28901499038c30d4575ce94
+seen_titlehash:f8e258ee24a88255b6f88cb934737772f4edf5be3561aed5877da6d793890aa4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss
+title:israeli wounded in occupied west bank stabbing
+seen_urlhash:629e15c7f4ee3d08f41e6b2e2eb55f70d3263cad28d94ef2b6c333da3b799e39
+seen_titlehash:1b6a8fe13568dc68282d4b12da0f4c532070357836af409c8775088f5548b04b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/sydney-marathon-organisers-admit-unfortunate-error-after-bayern-munichs-allianz-arena-etched-onto-medals-13576195
+title:marathon organisers admit unfortunate error after wrong stadium etched onto medals
+seen_urlhash:c5512216b9f4aeb400e4b6047c623b2e06bd587a92389918e47a89cc14187f8a
+seen_titlehash:a3b6cf4de0eedb7550d123200bb21eb0d6a1398106eddc0f201cc8c43f9fc39e
+seen_reason:processed_not_published
+url:https://france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022
+title:ukraine zelensky asks for more patriot interceptors as civilian deaths hit highest level since 2022
+seen_urlhash:596cc301f292d1413c3ba2fb88aba61e02d6543703389b28d0d4ae90694d932b
+seen_titlehash:c88a0b5c86a053a1d5f8cd6a8935d03ecb84b7cdb4460fd6ed00d3d4bd6cfcbc
+seen_reason:processed_not_published
+url:https://france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe
+title:south korea tests arctic route with a first container shipped to europe
+seen_urlhash:2cfbea4a1e46f539f316c1ad806123c9d2c4620fdd5008b5d3c1af36076ecfd3
+seen_titlehash:634650a6d2208f80761c19f4d055c988f549ecf7f71a79c8f02059f8a1e14f47
+seen_reason:processed_not_published
+url:https://france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs
+title:us canada trade dispute escalates after carney announces retaliatory tariffs
+seen_urlhash:e5237d6601b7134f7cd270ae0215c7fd3ebf3f6b774fee6b038890b354090ee3
+seen_titlehash:c2c62c35595ee44a50f5fcfe61770180841e76de6a56c99006faf1051928a52c
+seen_reason:processed_not_published
+url:https://france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation
+title:iran escalates threats as us pushes economic isolation
+seen_urlhash:690cde21ed2dd4ce4a774bab4f05068b2e3479469361c5caee9e5fd6b143715d
+seen_titlehash:c1d0525f2ee2e1762d779997cddbc5818ad6224486bcff456be47b7f1a46110a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-результате-атак-рф-22-августа-в-регионах-украины-погибли-4-человека-28-ранены/a-78474381?maca=rus-rss-ru-all-1126-rdf
+title:в результате атак рф 22 августа в регионах украины погибли 4 человека 28 ранены
+seen_urlhash:6b77d8b624d01e4c3ad5c4c636829ef08cc63697ae03e8eeda0dfae9633c5766
+seen_titlehash:4ab091dd25f14349296a3313feacbf82fb69f2275b25ac8763f8f36b5943f9ac
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/23/12-nemetskih-tserkvey-prinimayut-biennale-manifesta-v-odnom-hrame-igrayut-v-basketbol-v-drugoy-visit-kover-s-izobrazheniem-namaza-v-tretiey-turetskiy-amulet-zakat-evropy-ne-inache
+title:12 немецких церквей принимают биеннале манифеста в одном храме играют в баскетбол в другой висит ковер с изображением намаза в третьей турецкий амулет закат европы не иначе сейчас расскажем почему так и надо
+seen_urlhash:91b5c8b1ba00310b52141ee8ecb5aab3c34e09e3871c01c58b2fc48dd483f375
+seen_titlehash:40130afdb4323aad7ca5215e84e0c1624804b15cb21ecd259ae1b2f55b7c8712
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/23/v-moskve-politsiya-ustroila-reyd-v-klube-simach-odno-iz-posetiteley-po-slovam-ochevidtsev-udarili-elektroshokerom
+title:в москве полиция устроила рейд в клубе simach одного из посетителей по словам очевидцев ударили электрошокером
