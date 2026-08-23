@@ -64013,3 +64013,83 @@ seen_titlehash:18d9e30596799de424645a3590e36b74cfb2eed55bebeab2b76878f9156108f8
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/23/politsiya-zaderzhala-okolo-100-chelovek-na-sekretnom-pank-festivale-v-leningradskoy-oblasti-po-podozreniyu-v-ispolnenii-pesen-v-podderzhku-ukrainy
 title:полиция задержала около 100 человек на секретном панк фестивале в ленинградской области по подозрению в исполнении песен в поддержку украины
+seen_urlhash:da401a7cb1b729b63ebb33463e99a6b4b5562a24f9df82ed3a079676913462ce
+seen_titlehash:5d4b9ce960724925b5537bbfe9cd0f8ccfc10b423932f4e88c92692150e8e766
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss
+title:dozens of co ordinated arson attacks hit southern thailand
+seen_urlhash:0a4c7b9ff57fd7aae394852c0b86548dae897f05c1a120f716f1f3f2b0578f04
+seen_titlehash:753729c22dc4b7002bf457201e4f71e2a3fd10ceba90b1f9a773056ca9f05778
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss
+title:far right provocateur jake lang arrested after minneapolis riot
+seen_urlhash:058f91fdb2e935792e7d63c863888475eaae0deba060ace1e705cd98b7a34e82
+seen_titlehash:7e70183e4e8f41b77eba355dd1083a13d74ce798b12b6d5eae58047d763dd8eb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss
+title:south africa s former boxing champion tete shot dead outside home
+seen_urlhash:42d7623ab69e751e4f7cf37085c2c6a8ff0ded7cc30744c383d3981a708663e5
+seen_titlehash:0209a7b095d316c908add3b4290c19db3aed1bfe5fea432dcdb8fa5b7a4465b9
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260823-china-shows-off-record-breaking-robots-at-strategic-games-1
+title:china shows off record breaking robots at strategic games
+seen_urlhash:f819d62de2ac79f1909828839f4da16def681003044ff5088797d8543f2f631b
+seen_titlehash:ef438f2abbd056cd95115699203e4e70b5fd6cd70d24dec121d763a58de9eaea
+seen_reason:processed_not_published
+url:https://france24.com/en/french-holidaymakers-head-north-to-enjoy-cooler-destinations
+title:french holidaymakers head north to enjoy cooler destinations
+seen_urlhash:971bc10db6d67fedc7459daee994154aa7674974005583c117db4d074c26e785
+seen_titlehash:d0e0219d653c2cebd9357481d2c9ca67c959fc3a34e97772f35e168a5729f51b
+seen_reason:processed_not_published
+url:https://france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies
+title:presidential campaign heats up in brazil as lula and f bolsonaro hold rival rallies
+seen_urlhash:eccef147c60a2481363eef3e6e0ce4a70a81f3a2e31b487793fc4352b3c72a5a
+seen_titlehash:b489d31fd5763d88b9f44f8866db7e7bd4e4aa1e86319fdbfd058b9e2f64859c
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-о-предложении-федорова-выборы-во-время-войны-это-цунами-которое-расколет-украину/a-78475531?maca=rus-rss-ru-all-1126-rdf
+title:зеленский о предложении федорова выборы во время войны это цунами которое расколет украину
+seen_urlhash:1ab2c391a210a40aeb622c8abd23bcadbe2fcb8cccff438951dc653eb3cb8ef3
+seen_titlehash:968bd2c2aa4566af27cdf92dc0958dadef8158a76c58f3dacbcd28acba26013a
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-канада-хочет-привилегий-американского-штата-не-будучи-им/a-78475343?maca=rus-rss-ru-all-1126-rdf
+title:трамп канада хочет привилегий американского штата не будучи им
+seen_urlhash:86ffe9010e5562d054482892e0a4ca91f4a5c1620c7e6547693312f71d93d0f1
+seen_titlehash:40b444cfc461b850ab4bce67f7bf4a2312f8627842550d2c883f31a6b9e94dad
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/23/sydney-marathon-medal-bayern-munich-stadium
+title:на медали сиднейского марафона случайно изобразили мюнхенскую альянц арену
+seen_urlhash:4c644ea38fbc11ca2bec5cdc83565c1db66de169172bedb600c856dbf2fdc204
+seen_titlehash:91b286f23ce07f8a126d3387c04e70650de9ac188285f9aceb4b8692b4e0a42d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/23/presidential-election-2027-raphael-glucksmann-is-preparing-to-enter-the-ring
+title:президентские выборы во франции 2027 рафаэль глюксман вступает в борьбу
+seen_urlhash:68fb206c571ad512a28aaf69e8e2db2c183cf4836dc33481c7a87aeaf49974bb
+seen_titlehash:ed4953880dfcccacffb7baeaa8c32ba52bc7eefdc6647b31279c263dbe7b8732
+seen_reason:processed_not_published
+url:http://ru.euronews.com/culture/2026/08/23/photo-gallery-the-best-of-the-festas-da-senhora-da-agonia
+title:фотогалерея лучшее с праздника senhora da agonia
+seen_urlhash:d2f5cca2e12cffadeef200bba5334ccd57989645eeec45c7bc5fa1bd49344def
+seen_titlehash:b31e84a74520a6dbb95423830c1617f8b31b4da13dea3b102ab83d67c6e897cd
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/23/chinese-humanoid-robot-breaks-bolts-100-metre-world-record-time
+title:китайский человекоподобный робот превзошёл рекорд болта на дистанции 100 метров
+seen_urlhash:1764ab38e33550e3eeb0582854db6330414cccabd2fee418596d565949e97dfd
+seen_titlehash:60c31a767530cb5a7ac43d61868a553d17e1925890b4b32959c68f0cb4bcfbeb
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/23/extreme-weather-hits-europe-as-wildfires-floods-and-storms-force-thousands-to-evacuate
+title:экстремальная погода в европе пожары наводнения и штормы заставляют эвакуироваться тысячи людей
+seen_urlhash:cfb252dd2d56673d673ac4abaf7fed04cbad373a722d9b6e651244c9c76d2c38
+seen_titlehash:fc24295c240ab9d65e62c8f78769a5b79709e5d35a2db20470023d401556b62b
+seen_reason:processed_not_published
+url:https://ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1
+title:occidental tries to free itself from the messy legacy of anadarko deal
+seen_urlhash:b0d8c353dc6bb4062f138d4a8e0b74d3c5e9b652b0d89311336388f6a8aee110
+seen_titlehash:c6538df675100bfc0fe2665e1d978d9bb594ec080811bdfc79bb39a1df3a976c
+seen_reason:processed_not_published
+url:https://ft.com/content/8ac695be-2803-4e91-84b3-9cffe2e6d0e3?syn-25a6b1a6=1
+title:burnham to allow english mayors to call in big local planning decisions
+seen_urlhash:ab5bb267814061bc90763f799fa9d5a4c597c76643da8c05eea73f9b06c1a320
+seen_titlehash:f6c9d2091f83e3cd6bf45a159e3cba69f94576f36dbb386b7c9fe27e6682182e
+seen_reason:processed_not_published
+url:https://ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1
+title:alibaba announces 10 2bn share placement as chinese companies expand ai investment
