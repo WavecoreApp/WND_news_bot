@@ -64588,3 +64588,38 @@ seen_titlehash:b183429c2b6e0ed912089ec76e131fcf9cbde015bdd46e7f60ecc7753efbbdde
 seen_reason:processed_not_published
 url:https://ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e?syn-25a6b1a6=1
 title:a week of keynote speeches
+seen_urlhash:2b6a2bcdea3127fcb267aca567616028b979f08fd5eca21ab0ef8e5f6cdcbbc0
+seen_titlehash:aa4acebfc3a01c65283535abbebf8de6e6dc3c03f049baaee74a1c7088fd61e9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss
+title:guinea rubbish landfill collapse kills 30
+seen_urlhash:2d4dbb47b0c8caef1c99f42be8c7c1db45830b566a2b05dcf45111ba591eb43b
+seen_titlehash:f0570f9d5d90f31136d41569556abda3d7e0a9e1b8da16da147699647da7aaa0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html
+title:what to know about the ebola outbreak centered in congo
+seen_urlhash:b45de614a668c6c66c4ac9dd622a0dd09937033db1d085a01866c13ffd1e0c79
+seen_titlehash:165bc485ff20ef5c2fa44bd0c0b284d5854041d638b66ac7ca6ca30b31013ac4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss
+title:zhou bo china s alternative to western power
+seen_urlhash:b2c565fa5da5496c0cdf7d681a3c452d1839d1e4dd71e33b719fe74f1feadb6c
+seen_titlehash:57a1391065c9bc82c022175e9156235eaba82ecdd63ca3e45fe268211492673a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss
+title:palestinian teen killed in israeli raid buried in occupied west bank
+seen_urlhash:e828b08f21af9f5f8ac7f595dbe847b56da69a6a06b5632f93e92e141cf40c8e
+seen_titlehash:a3fc2aec73b4893ae654c98273df5a3ce3fc905249ce91066bc4d34ad03cbba2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss
+title:video thousands of families flee fighting in sudan s north kordofan state
+seen_urlhash:133decc25a02b0b0207253a7543c79b214f7cc4754ba98db2ea7d4815c36f0a3
+seen_titlehash:0e51a7dd85e13938eae41d44aadacf77dc784e92898b698368626f1e8b613c9a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss
+title:trump has run out of options in iran war stephen walt
+seen_urlhash:ca321dc0069a3c93a67b5a7220046174cb7e985806b1def60e33189ca5b32096
+seen_titlehash:66c34064f3d9d89064170063d6cda9a9ffd15357cba68c9912fafc868d0d8f2d
+seen_reason:processed_not_published
+url:https://dw.com/ru/между-италией-и-германией-назревает-конфликт-из-за-мигрантов/a-78478614?maca=rus-rss-ru-all-1126-rdf
+title:между италией и германией назревает конфликт из за мигрантов
