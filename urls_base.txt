@@ -63828,3 +63828,48 @@ seen_titlehash:01e055cd5353c4efeb0b801710025d14764752418d7d0e3b7fb2681d434c5fd2
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/23/ukrainskie-drony-atakovali-vtoroy-sklad-ozon-v-orenburge
 title:украинские дроны атаковали второй склад ozon в оренбурге
+seen_urlhash:6456296f79f2f8485bd542d6feac7c0fbd7cc188ff6c0a116fc6f822f8a3b698
+seen_titlehash:e88dfc236273e01cf60ffc17daf1b676ced1a065e57e3cbdc41b9bdf2162a64a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss
+title:zelensky has questions to answer about corruption in his government sacked minister says
+seen_urlhash:05139fcc6e730bd3de57c033133e1f9be8799c2d5b8300a010e5e6f5b4198e72
+seen_titlehash:7184db770faf5a1310bea9422bafa373e98c227244f5b889a96d95418ca29602
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss
+title:flooding across caracas venezuela after heavy rains
+seen_urlhash:19b8e63fc9a2837bee3ef79ad2970896aaef0feb2e79c24971ab8285b914c650
+seen_titlehash:3878513808ceb7474def49bbd657e2f22df13e57a18921c254cadb4dd2075830
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss
+title:photos russia celebrates national flag day amid war and tensions with the west
+seen_urlhash:bf9fb9e25afee03010cb1d81134ec46d4d0ec41cc3c4e46e749b6e562728da8c
+seen_titlehash:3c8956a6f64e4983d5219fa347d6c9389444bb1854f8c3919f1e26cd184d33b2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss
+title:dr congo m23 rebels agree on roadmap for peace talks
+seen_urlhash:b7ae6c551a82e9147e39d6e84b3efcca8bf47a795cfc1bed64ac77b892e1e1be
+seen_titlehash:e1ce94accb1f1f8927f3fb58f4ac7ac4fc7903f76c44cb6e42fd756ca5334394
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss
+title:kazakhstan holds parliamentary election expected to cement president s grip
+seen_urlhash:13c5a234f48c2ac59b3524c884d05765fbee6f5b9353def2212274c9c485cbe8
+seen_titlehash:08bfc91f9c815f33ace42e28595c8628fe2b3e0411b1fccf87a7cffdd5690146
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss
+title:infantino defies fifa vice president makes appearance in the caribbean
+seen_urlhash:3ee1a859c77cae1d99ae8a84eeaf5fc2683b0ae3bcf48a4970b4d941180b0e3e
+seen_titlehash:ded370d8187545989c5396bd7ce6eb704fefacb91fdb05cb9ac79bd15855cc3b
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260823-macron-welcomes-saudi-crown-prince-mbs-for-two-day-france-visit
+title:macron hosts saudi crown prince mbs for two day paris visit
+seen_urlhash:4babc0538c8e4151e9ca3a740527de2e181db4b76344acf74fb6e8cc76aef965
+seen_titlehash:713e6ccb4a2a3826211cc89d92cf32e16aaf9cd20b43a1cdb3aeb08c1882de61
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-складе-ozon-в-оренбурге-начался-пожар-после-падения-обломков-бпла/a-78473748?maca=rus-rss-ru-all-1126-rdf
+title:на складе ozon в оренбурге начался пожар после падения обломков бпла
+seen_urlhash:4f80a2f5d2f6fd35fa22f9f64954609ce7048d9bd0da1d7de84b0be32dd454a0
+seen_titlehash:052537592e414cb2fd408d56890893f7773ae5291917e9ea5b7ce9e5aa7c1bee
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/23/v-harkove-sem-chelovek-postradali-v-rezultate-udara-rossiyskogo-drona
+title:в харькове восемь человек пострадали в результате удара российского дрона
