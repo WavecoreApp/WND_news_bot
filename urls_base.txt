@@ -64783,3 +64783,18 @@ seen_titlehash:43855141357c807c45eb3fa0fa36cfd13bdb3f03743d326035b044bb87a20f70
 seen_reason:processed_not_published
 url:https://ft.com/content/9f72dc1b-bb4b-4672-8197-73b899a2bc5d?syn-25a6b1a6=1
 title:scottish state bank records 138mn loss on back of failed investments
+seen_urlhash:11611b90156faa3579934765a006287d20fc8ad9b730660f5512ccedb44904d3
+seen_titlehash:0d2becc91151fac855df5a1605db695fe021cd7abab3f88165b49a322aeef96e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss
+title:australian shark attack victim grateful for second chance at life
+seen_urlhash:fdd242dd5467d3c505eb25ed59428334eb779680d9bb1b77a443725666d32507
+seen_titlehash:9a7d7e000ab58984f783ad373300a6987e27f2af019be8dbf3d73df09271f8f9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss
+title:large forest fire burns close to residential areas in ankara
+seen_urlhash:29af4069eff9931f7b0eecfefb77df2aa26ef192b616c6164c46f2a8938e5806
+seen_titlehash:e9e5a8eba8bb7b4752d170df21f8a71d61822710807d6afe2448910ea3650a32
+seen_reason:processed_not_published
+url:https://dw.com/ru/иран-хочет-конфисковывать-суда-нарушители-в-ормузе/a-78479595?maca=rus-rss-ru-all-1126-rdf
+title:иран хочет конфисковывать суда нарушители в ормузе
