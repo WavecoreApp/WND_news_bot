@@ -64758,3 +64758,28 @@ seen_titlehash:9087bcbcb509a8b8a0297c4e65ac748c4b2851b4468c726b29c40312ae5d122b
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/23/novosti-dnya-23-avgusta-2026-g-dnevnoj-vypusk
 title:новости дня 23 августа 2026 г дневной выпуск
+seen_urlhash:7b6d8079b19e096b81707d7a382ca14da780b23b17c596e2ed5bb13df202b16e
+seen_titlehash:3505b5357496849f3757e425bf46e5a506bab70d3c6e1c57fd7767e7b92387b5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss
+title:tokayev allies head for landslide victory in kazakhstan elections
+seen_urlhash:9e19c8a3dd799386a81214bcafe836a53187751a129453c54541890f868960ab
+seen_titlehash:0ee9aebabb2148520692a68924377c51375eb4d3e99803322107bcb7b1583421
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss
+title:iran war live iranian parliament advances plans for hormuz service fees
+seen_urlhash:8960d11edf90fedddfe82d787b67eec128fbdf0012d83fe08d6e2675ed4ddd40
+seen_titlehash:55a7d0263434ccd7e7fd346c7ab5f45d3eb48403f316eb86fdbde23005c724e3
+seen_reason:processed_not_published
+url:https://ft.com/content/a70fda49-a76a-45bc-add7-221f7fc307db?syn-25a6b1a6=1
+title:treasury brings in expert to review business rates for uk pubs and hotels
+seen_urlhash:e072adbbfb5df17e5e194d36b66a75e4670856e1d6c8c4fbdcdfab5c21d9a5d6
+seen_titlehash:e7aaed60ea4b49a5d7d74b66a86fb287e75839a3c84fe06400e4a8d386f732da
+seen_reason:processed_not_published
+url:https://ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1
+title:burnham to pledge support for long range missile construction in ukraine
+seen_urlhash:7bf47c8978633668ebfb0e31f091e1d8838c1274a0464702c322a19ba5df7cc3
+seen_titlehash:43855141357c807c45eb3fa0fa36cfd13bdb3f03743d326035b044bb87a20f70
+seen_reason:processed_not_published
+url:https://ft.com/content/9f72dc1b-bb4b-4672-8197-73b899a2bc5d?syn-25a6b1a6=1
+title:scottish state bank records 138mn loss on back of failed investments
