@@ -66398,3 +66398,43 @@ seen_titlehash:14ac84cdafbbd464235d095cb62649a8d51087a3cc7fb538dd646edb4ab78b9b
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/24/ssha-isklyuchili-siriyu-iz-spiska-gosudarstv-sponsorov-terrorizma-etot-status-strana-poluchila-v-1979-godu
 title:сша исключили сирию из списка государств спонсоров терроризма этот статус страна получила в 1979 году
+seen_urlhash:436dd37896943b7915d335c80cbe3d516a16a241b6da19fe36385424737add33
+seen_titlehash:488f42d2928377a7985102bc77d8a599f2439b51b7b68c18b5c51fb514d9cd3b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss
+title:us public support for iran war falls as trump approval at record low poll
+seen_urlhash:dab93434d35b5901de7af7b97ab6a15bc75f061c351d630e90756d75a5b074f3
+seen_titlehash:221df1f3cebc4c2873aec221da856e5f08597239a84473ccfd9b0ce95a1b2f83
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss
+title:iconic palestinian artist sliman mansour passes away at age 79
+seen_urlhash:87a3e085b443b030cd0010c4a532d7b4cb98fcd5f86fc0e398c51bdce6473d23
+seen_titlehash:3d0a2210c74213c91995d135d27d552ff16bee4ecaa80e5a90700b3624479089
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss
+title:displaced palestinians in gaza face intensifying israeli strikes
+seen_urlhash:39d231f926271805fbfabec1086d1082bcb6c668c609654532bce1d2dd477290
+seen_titlehash:716f05b689fcc227280e488d104b0344c17ee021540fbe6a8c118d6a7570036b
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son
+title:israel s netanyahu says iran tried to assassinate one of his sons
+seen_urlhash:18ff05bf5ce4e367e07d1157149db4335eec7174ecbc5392371119b031d7e35c
+seen_titlehash:7a8db7f0eb586adf81be68f17a41194bc27d9ea8840bcde84366046750d6e2ee
+seen_reason:processed_not_published
+url:https://france24.com/en/zambia-shuts-down-court-system
+title:zambia shuts down court system
+seen_urlhash:29f7255fdec4d013bb0cd9ed6fe443dd916f29d535dccab2f0910d192419379d
+seen_titlehash:5a84a0c112e4b25f3739b374a10bb279e8714fd36978eb361e5880cf91e16970
+seen_reason:processed_not_published
+url:https://dw.com/ru/немецкая-разведка-и-бундесвер-вновь-отправились-искать-кадры-на-gamescom/a-78490820?maca=rus-rss-ru-all-1126-rdf
+title:немецкая разведка и бундесвер вновь отправились искать кадры на gamescom
+seen_urlhash:969745ca268dd9e1acc66c8816552e8e13100a5d191739226cc0d3deacaa97cd
+seen_titlehash:abb5630fde5bd281302b55da731a65105128e7524beb860184a59c11eb3383f2
+seen_reason:processed_not_published
+url:https://ft.com/content/0ed63607-bf79-41d5-8052-f78eeae99d61?syn-25a6b1a6=1
+title:first brands forced into liquidation by bankruptcy court
+seen_urlhash:8b0a89f4fca6faad43a3ec3120476b3fdc7ab582784d9d47b8d078a2bf961edd
+seen_titlehash:e5bce7a3cb62413e66fe43e7c15828ee293a46298591764cd82f0de12c96034c
+seen_reason:processed_not_published
+url:https://ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f?syn-25a6b1a6=1
+title:burnham compromises on council homes plan
