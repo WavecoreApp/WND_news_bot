@@ -66438,3 +66438,33 @@ seen_titlehash:e5bce7a3cb62413e66fe43e7c15828ee293a46298591764cd82f0de12c96034c
 seen_reason:processed_not_published
 url:https://ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f?syn-25a6b1a6=1
 title:burnham compromises on council homes plan
+seen_urlhash:83c985a986b05c28cea731d696fb69a3d771c41f0319aa9cfa536708de78be08
+seen_titlehash:f7e661891813e0505d9dde0aae2694dbe248c0ed03122e3a3f5e4169800a576f
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss
+title:how us sanctions on iran ripple through global markets and consumers
+seen_urlhash:9d6811a57b3055bf0813f0db09b1116ed369929d7e1bd84889646b065f9e49d5
+seen_titlehash:bd152a037df1e8a1eb6a3c8cf01045e1e7f2190ce69a547d020631375948628e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss
+title:us supreme court sides with trump administration on mail voting
+seen_urlhash:bb22ba4c1ad391571c64c8779bc239b636758ae36f2e0152dbe60302642356bf
+seen_titlehash:bdcbb353e5702ea1f82bff48fa4dc23b7b0b8ffb652e99544fdbdc33dd739d20
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss
+title:us removes syria from state sponsor of terrorism list
+seen_urlhash:628af452fb28169b43234c1c8aaea251223c75d228a95f5b85aed438c4a6c586
+seen_titlehash:d34359d6d79b9970cec9e96ad584cf43b78769f8fcc1fec4a7f2ea54373bf108
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss
+title:jeffries kushner meeting sparks speculation amid contentious us midterms
+seen_urlhash:7fd9d9f99a096fea2f080a6920b91a34fcb4de4e62199083d6e3edcc2b1a338d
+seen_titlehash:77b408459b09b55eb863cd4f202da512bd728a3e6fde35182786cc4ad83b21a1
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum
+title:trump administration to revoke visas of foreigners seeking asylum in us officials say
+seen_urlhash:914b41241e912e5ae4da8f32d0c656d68df9027ece209b51981375329badf385
+seen_titlehash:fb90b777ebface8abb0e671057a333114868064a01bf5f194d9da764cd8432ac
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region
+title:tornado devastates village in southwestern france s aude region
