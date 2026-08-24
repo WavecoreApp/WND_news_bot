@@ -64858,3 +64858,28 @@ seen_titlehash:6df7693821b6b498e9b77c08685ed210e71c8be84c4568c122779e435d67bade
 seen_reason:processed_not_published
 url:https://ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1
 title:shein seeks 27bn valuation from hong kong ipo
+seen_urlhash:c0a21aa25b80a2ae59a58d23c139a4a698d12f991e690c9008f7ba5dcc6a2242
+seen_titlehash:390d7a49d0db99ae0224199c75dc7c84420387634d239dec1017503be991ab05
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html
+title:as el niño dries indonesia wildfires intensify
+seen_urlhash:10f74b9c1c4caf7c54111a1a9398b71e947ad9ba7a622b2c05e4c8a047be2139
+seen_titlehash:765c889da4642aa7abaff538e075489f9a8b7160aa02f6a73df1eaac20e7b29a
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut
+title:fast fashion giant shein aims for 27bn valuation in hong kong market debut
+seen_urlhash:577a3848e4725846f77974eec3b34d2d4995b369c1dfc160365820258bb8ce5b
+seen_titlehash:d7b063d7b0df622d93c676bf1b062786421b315832fcb74e0a4598ddfd46b2e8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss
+title:climbers escape rockfall crossing death pass on mont blanc
+seen_urlhash:0d7bb65a13c6cd827c58a23912f5ed2c3c08d595cc0824929e89ada9a17181d9
+seen_titlehash:dfb43c25f6453903017db3c85d4899c68cb26d2e3b9d2c7ee28b4e3a2238fce4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss
+title:we know this movie iran mocks latest us sanctions
+seen_urlhash:56edf11ecb4fe69af651eb59024eeebb00e08f6ad96dcea9e88eda239a0c331b
+seen_titlehash:9c022e330bd078d642363ef8c4af2f363517abb6c70f1464c0d41b52149b293d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss
+title:syria israel hold us mediated talks in jordan to de escalate tensions
