@@ -66338,3 +66338,63 @@ seen_titlehash:fbe0867e4afa6f08e8bea5eebbb054337d96f59b86c896c0ca8d20140062c02c
 seen_reason:processed_not_published
 url:https://dw.com/ru/газпром-арена-концерт-канье-уэста-на-стадионе-не-состоится/a-78490558?maca=rus-rss-ru-all-1126-rdf
 title:газпром арена концерт канье уэста на стадионе не состоится
+seen_urlhash:8a3b4144f603818507b2be1dc099f0f76278b4276b858b0bd402cdeeb1f4ca95
+seen_titlehash:66ee3073f37112ea0e29a234ecb552cce8d9aefa1a81cb18bd661543c3af866c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html
+title:a new effort to punish iran
+seen_urlhash:250caa3ddc32e7b0318ed29fd12f13b153629966cfb5e14c076f1e8e7fd8c3d4
+seen_titlehash:2ed17ba112aa49efec02e4ff8625d5108dcc1d0dd011d85ab55d0eec1b5b7829
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific
+title:us strikes a vessel in the eastern pacific killing 2 people in first attack in months
+seen_urlhash:6941403d515bba7c8d368070d1a4ad0addb0a955e08a9a1b3309c321c958e700
+seen_titlehash:662b12db2ffbf970a43ad8637499f97e8ec4355c1897e143b852556f2d3652a7
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb
+title:australia news live sydney trains plagued by morning cancellations due to urgent repairs to overhead wires
+seen_urlhash:c262f662d161bb41f919fb0a1df4b8078d5805b2f7fcf54ef43cd79154e7408c
+seen_titlehash:2aa201564aa6aa60433b05d3fd1c6daea6de4a0c68a01b0da6a14ac3c62ed4e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss
+title:what s behind domestic political pressure on ukraine s president
+seen_urlhash:f9e7a972922ff7433ac296218d22290644f4beced0bce08f2fd96dbc2e742e99
+seen_titlehash:3c7c6fba12b9f01957e4d0fb7bf32e42d47728b0c66fd323631e21356a0c0bf9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss
+title:video iran reacts to us economic d day sanctions
+seen_urlhash:ac3b5a330ded33536ecf3def74ffb9b8eaf6d07b6d5191fdc9cc7f7ffcbc63d7
+seen_titlehash:9f42e261d7b79508a6a49ce4356dd7789a6da0e79ba070a9496181e0d6ba1024
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss
+title:ceasefire monitoring mission arrives in democratic republic of congo
+seen_urlhash:68f19a4233453e4ab0e1289465d72ea9ddd97c9cab94c963a4a9a34ab8a04b6d
+seen_titlehash:09f1d1000476cde18bf0b08123af60d1e3a041fff129339715bff04fe3eebb70
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss
+title:ambush in south sudan kills peacekeeping troops
+seen_urlhash:cfec736a1b3e33a1172609ed80d1cdf6c793d4b5eec1134f65eb679756690bf7
+seen_titlehash:91226d9c6f3464b9d555a2829724597d93f67c8df33439c0fe779375f9a65dff
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss
+title:displaced palestinian builds mud shelter as tents offer little relief
+seen_urlhash:d76306cf450dd529f720435c552eb15f3a60f85e8af20c1e0a0542608656388f
+seen_titlehash:649f71a9b1168b83063954a89a3e9a41d05cbb6cb00a75277e65fe55cd65c94e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss
+title:violence flares in haiti as gang attack kills 30 people
+seen_urlhash:65e16f0aa3efda97bb006cb6b5226d5e0f7552c50b0162b0c7b600e81a582e79
+seen_titlehash:cea47e3653c98f2e857bbf70f462da8d7358a21526ba9612d06d7ab56c50739a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/24/a-tornado-causes-significant-damage-south-of-carcassonne
+title:торнадо в департаменте од не менее 26 раненых повреждены сотни домов
+seen_urlhash:21b417bb0bccbab59c153b679c0700e4481acb43e2e9b3a4fa459acba9e9569f
+seen_titlehash:aeb7a7ab6c03266622745841ce163164f2931b32d485ce26918155b6e84868de
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/24/usa-canada-tariffs
+title:трамп грозит удвоить пошлины на автомобили из канады до 50 после провала переговоров
+seen_urlhash:9d7690817b54201d5b7c619903e53c36931593f85694ef36226b450cc96459ec
+seen_titlehash:14ac84cdafbbd464235d095cb62649a8d51087a3cc7fb538dd646edb4ab78b9b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/24/ssha-isklyuchili-siriyu-iz-spiska-gosudarstv-sponsorov-terrorizma-etot-status-strana-poluchila-v-1979-godu
+title:сша исключили сирию из списка государств спонсоров терроризма этот статус страна получила в 1979 году
