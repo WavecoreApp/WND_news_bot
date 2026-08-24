@@ -65958,3 +65958,83 @@ seen_titlehash:5346f4bec07a11b0c30e1533bb415ea6dac640980fc4bfbcce5fa331316ceb78
 seen_reason:processed_not_published
 url:https://ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91
 title:trump says us to increase tariffs on canadian cars to 50
+seen_urlhash:ae13db13f644818ae19d95726687bd46df1b2b216c3963d1812ba97299b5c83c
+seen_titlehash:cfc607b1d27ab65cb7b993dc062f82852f022ba52915edeb8be9aa9854d8fbdc
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss
+title:israel warns of forceful response to kites flown from gaza
+seen_urlhash:e1ca7b16c85486bd3e74427269e801349f84b5abd1659ea88ca9588bac27db37
+seen_titlehash:7eb250b7418e4639e99631c5b6c61ac80a8d89eaccd9d7d625eb1d18ff17d851
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping
+title:video shows hundreds held captive after nigeria mosque kidnapping
+seen_urlhash:239582b9a55e9e4382f6f1fc660c9de03844664d54d892b92f0e6b5858dfc637
+seen_titlehash:78b569bec5116dd4d949fe1d4dde9209a72839784cf40d317e1f4cdfaf289e43
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn
+title:australia has just 12 000 sea lions left and carnage may await them as bird flu takes hold scientists warn
+seen_urlhash:0b26d925cb9b1eda3ed111e88bf7d4b826d5ec2403ea6f430d7350051c6431a4
+seen_titlehash:bd5fcb013512b41b5aac451403b69cc4f6fb41db1190132ffe6e18f46acc9d6d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss
+title:uk to help ukraine build storm shadow long range missiles why it matters
+seen_urlhash:197df9dea6d2f069d5af26f3e49a8b33c9c9c3736262cdd4c13d06ab69c17b9e
+seen_titlehash:c31d2c20465300c1eb5b597b58759c76da89a4ecb9ed8e04ffa216bc17963756
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss
+title:samuel eto o urges support for embattled fifa president gianni infantino
+seen_urlhash:f2758a349a897b8b883b7b4c3f26e61370eb8f5002ffb33c01f2b92d63724a14
+seen_titlehash:f684459275af0c9c7671f1277c007c12b88831c901a0a9ca0595bf02040b1ef9
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss
+title:why israeli settler attacks on palestinians in west bank are pogroms
+seen_urlhash:d3d0dcef38420843ffe3974a6b7ee4fa5fd46e2057bd7eae2dc4549d86a8aba7
+seen_titlehash:e5e69032219fd130b8fb481d2e8e095eb9ba5273a2803d654d3aa1f187333166
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss
+title:houses set on fire as fresh violence erupts in india s manipur
+seen_urlhash:952001ca1dea1d5ff0c8360cfcc7ec2a1d770b6dc1b87ea7f0d5c551e5a60e88
+seen_titlehash:79e6e96f0158599d7087864f73cbea6554f095455465783ea66a860e48033a63
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse
+title:we don t need canada trump threatens to double auto tariffs after trade talks collapse
+seen_urlhash:dcd6dc2a28c62933f9f0d6f2815d917b20a02f804dce7c453ac5e8410c7c1b64
+seen_titlehash:2270458808fb34caf0aa7703c28bcbe1994c779d9b636e5b3be4d3eb6a07ac25
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-и-россия-обменялись-пленными-по-формуле-10-на-10/a-78487813?maca=rus-rss-ru-all-1126-rdf
+title:украина и россия обменялись пленными по формуле 10 на 10
+seen_urlhash:16596bc2d1322e3b6c507e2c745a575552209b3d7dd57d898cc31ec88652f5cd
+seen_titlehash:5c809e9d094c229f7bff8abcdc0e85c446ac6df44ff1841d61f369029c563a33
+seen_reason:processed_not_published
+url:https://dw.com/ru/путин-разрешил-государству-отнимать-активы-фирм-атакованных-дронами/a-78487800?maca=rus-rss-ru-all-1126-rdf
+title:путин разрешил государству отнимать активы фирм атакованных дронами
+seen_urlhash:6b6c801e766f6af4c5e6803d20e0412ca229d283d313d57cf27d89e315085344
+seen_titlehash:967d4a78ca99cad7674e645de3d0f587874337e8e68f655297baa777b935369a
+seen_reason:processed_not_published
+url:https://dw.com/ru/очередь-ozon-у-дронов-всу-новая-цель-что-об-этом-известно/a-78486505?maca=rus-rss-ru-all-1126-rdf
+title:очередь ozon у дронов всу новая цель что об этом известно
+seen_urlhash:dc9756952424b805773a2b0e0fea1e31b8994c6cd3e5b0cf143e1717fb87eaef
+seen_titlehash:050dd950ddf43e35c19110dadc3e897fa79668b303471fdb0dfd29700f74f0c4
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm
+title:грета тунберг присоединяется к 10 тыс участников климатического марша в стокгольме
+seen_urlhash:b389ba8457e98d5d3bb5f4c49b48b2338480c6bcbe3cc22b7d9e05bff1f3a7e4
+seen_titlehash:85ce101d2672a6b740ecdb34bce5aa3fa891b031c0228fe46e9d909ef0f322c7
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/24/eu-uk-burnham-comments
+title:бернэм британия должна быть смелее в сближении с ес
+seen_urlhash:cc9c88b7476771d35e826ea4ffaefdd7bd0656dea4ebbc432c1b539827a52765
+seen_titlehash:be303057804807382421fc9d96750d869d4d30797d0d36880d74de5c875dbc88
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/24/gazprom-arena-v-peterburge-zayavila-chto-ne-stanet-provodit-kontserty-kanie-uesta-na-svoey-ploschadke
+title:газпром арена в петербурге отказалась проводить концерты канье уэста на своей площадке организаторы заявили что выступления состоятся
+seen_urlhash:a38749b94cb25abab2285e51f814deb4333d35c10a69801168d0f66381a9c9c8
+seen_titlehash:092d9c8444a09a4be8d0d7108f8c81775cc3c8216c5a0239eed1f5139ad8669d
+seen_reason:processed_not_published
+url:https://ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1
+title:canadian businesses fear vortex of downward pressures from trump s tariffs
+seen_urlhash:b05156de2a1740ad3d53110699f4d261808c217a88019f81a8689ca917fc2843
+seen_titlehash:579e7e7d2d64f79c6e4f5ab4eeff02bc63913ae5ac4319aa969464ee38e9659a
+seen_reason:processed_not_published
+url:https://ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1
+title:how shein s ipo lost its shine
