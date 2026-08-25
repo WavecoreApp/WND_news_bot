@@ -68468,3 +68468,28 @@ seen_titlehash:d85f6df8416e312152cec2705c8cdfb08e86d1fca9a40cba5046b2350d0a9c26
 seen_reason:processed_not_published
 url:https://ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1
 title:reform uk pledges to cut data rules and curb liabilities for non executives
+seen_urlhash:8db329ae7c974f266ad1d414d3df12a0262e1934964c60644c0188e742108e6a
+seen_titlehash:1199f96ae2b5782937134452a92d1dc92b62dd0df459693efb2f615f894e967e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html
+title:u s economic d day targets more than just iranian oil
+seen_urlhash:b1d8eb981224eaff190f5ad4056e335855bc9b5d77bd2b5d9196ea048d11387e
+seen_titlehash:28083ed0f73a7b2a77809c5b1453de1844a5e94841a70b85ac7f0a538418902a
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras
+title:wife of us soldier deported after trump rollback on military family protections
+seen_urlhash:2bfad8b625942cab5a848cfde619b7f11cc8fb1980340a73860c4f9233007aa9
+seen_titlehash:ab028d816ac523d3bbe246432075ae36781c9d3226c7ad9179345d3e81209332
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss
+title:brazil fines tiktok 30m for child data privacy violations
+seen_urlhash:0aba1efc6a1f5ee6c80c1478f40056b3010a257bf099f5d36f7fab51762cc411
+seen_titlehash:6944371578eb9771ebf687b9c54b04cdc7e2c77da895572d401847fb32777083
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss
+title:why can t america agree on what time it is
+seen_urlhash:dd38b772e1fab1b080baadfd5c0b60a7085bdf8e6d8d79cb4fb22b893b053504
+seen_titlehash:8b331ded16df2149381bab9256af73aaea63101e29876fb493049ff834547fc4
+seen_reason:processed_not_published
+url:https://ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1
+title:us audit regulator scraps investor advocate role as trump era revamp accelerates
