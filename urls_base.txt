@@ -68283,3 +68283,63 @@ seen_titlehash:5bfb5d76dfb202e51e75b6ee08f777382445b1d4536a9970e2a63eb5f96ff310
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever
 title:as his presidency flounders donald trump is more dangerous than ever
+seen_urlhash:8f91ffad49c3f621e0588c8826e28b6736952d5095bec62d8cb8b82451909875
+seen_titlehash:b8b4a782d476b465252466de0eb661d647787e4d9c0f0fae13e0ae867c750042
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss
+title:mass arrests in global crackdown on west african cyber crime networks
+seen_urlhash:62e179e429590cdab4965bfbd774df9fabb348c2c493de2f86e9098218250932
+seen_titlehash:080aa16f560ddfc24ef9d5d69f945c436dd88fa004abbb2514fa0d7fb148f342
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss
+title:nigeria s president orders manhunt after kidnappers upload victim video
+seen_urlhash:9c2d927542d02d953500072afa2b252b2bceda00d2a4f5ebdceb51a940e4d02a
+seen_titlehash:14aeeb6c95ad21dc9708d8133c69b3c2af75b46c66df50c65a43f74ddaf2ea42
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss
+title:more than 1 300 people arrested by ice in virginia and maryland
+seen_urlhash:efea34a9a575fc1bc347405b0860d08615125bb87f7eedeeb72cc117c9e2185a
+seen_titlehash:27dfb89a0b982f60d0e5cde008679ee63f44d9aafa4ad956061500f80f49d7f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss
+title:two unvaccinated people die of measles in us state of pennsylvania
+seen_urlhash:f1902eb6b7ac282e7ca92a4d42bc89d8198db73e9e8a127dc126dc67522d8253
+seen_titlehash:b3ce0af5a2fc462977bd2b74d08edd6df7a1aaaccf07d322605610a17681ccea
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss
+title:israeli forces block palestinian american lou ridi from walking on his land
+seen_urlhash:e19b6294317d1416d856ce628a4c9c94f1b6fdfb9da6fda8584addea8d69c3d7
+seen_titlehash:b75e298b34341564c67d360a32f5debdac00580e9b5a50981751109c5f5403fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss
+title:india police clash with protesters a month after gen z demonstrations
+seen_urlhash:723861e03a1adb2915457ee571d4ec301b41f1c4625052c1f25cbe41ce000195
+seen_titlehash:d2a5d95fbbd3265fb0946b46a689672ee3a17dd628919c62aa605fbb77ad2607
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss
+title:kurdish led forces in syria dissolve after merging with army
+seen_urlhash:651a1f07b48b7501c6d6407b256009973a0ecc3a2095825635e2da10a15bd7f1
+seen_titlehash:aa804cd2dc1d7ad70de6d0c27f6ec4596d45bf1828a3f0f56a4bbcf63e4e525b
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260825-syrian-kurdish-leader-dissolves-force-that-spearheaded-jihadist-fight
+title:syrian kurdish leader announces sdf dissolution after its integration into army
+seen_urlhash:9484081c7423ca98a16778bdc766f165d311b9922c4f163fdaa1dcf88bbf2191
+seen_titlehash:151fc463dffc7dc4580762450d93ba97ad9caffb64423e5b7dbb033430ecc6ba
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at
+title:beloved us country music icon dolly parton dies at 80
+seen_urlhash:8b592728095dc5a9cae66f8f24ea33bc656fd72018b5ff0b31b013d11c8a5a59
+seen_titlehash:dd8f8856649748f297af16f0ae4bd2bafe96372fc8c307763cb5d77693523b4b
+seen_reason:processed_not_published
+url:https://dw.com/ru/германия-депортировала-еще-23-гражданина-афганистана/a-78501909?maca=rus-rss-ru-all-1126-rdf
+title:германия депортировала еще 23 гражданина афганистана
+seen_urlhash:c311126747af9c4e48c5b56b3d0e5ee84219a0916115a58da0b0fb8285d68a0a
+seen_titlehash:575e4541f2d5fe3695bcb610b4d936716aa4c772cf35f855ff89bd9a8eedb09e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/25/ostorozhno-media-avtomobil-zaregistrirovannyy-na-lidera-ldpr-leonida-slutskogo-stolknulsya-s-mototsiklom-v-moskve
+title:кровавая барыня автомобиль зарегистрированный на лидера лдпр леонида слуцкого столкнулся с мотоциклом в москве
+seen_urlhash:a7dd92b95f9c029bd2ff1f2fbbf4d9aafb5f3ddb6e800df4b08b1999b4ed572f
+seen_titlehash:eb1da35c794fba61794b86528bd8703a3c7025a7c090e499c3133f94bd21029e
+seen_reason:processed_not_published
+url:https://ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1
+title:spacex commits 100bn to louisiana space base
