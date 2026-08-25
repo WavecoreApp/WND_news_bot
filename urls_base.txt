@@ -66523,3 +66523,53 @@ seen_titlehash:0bb887a626a0990a19952468440a99802a6b0b4dc652e90ac48e1e5159ee1765
 seen_reason:processed_not_published
 url:https://ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1
 title:morgan stanley and schroders back australia s largest venture capital round
+seen_urlhash:311acc08fd3e139a4c236715999cc60e816e9a45b9aa288cc4029c7bf9f73eb9
+seen_titlehash:ab7829447d789849fe2fc0023dd084249ca0c6c8656d3bad1d21b6e241763fa8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss
+title:how canada could hit back to hurt the us economy and trump
+seen_urlhash:2ea9e767c69de6599c964ee10c149d90fa3c9b7211102b068a5b91558a3e1cb8
+seen_titlehash:d0a97f3f2a2b3a4acfa371f13f9c3c6d0b2a46a2460c7ed3972270fc04aca6c8
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella
+title:colombia s new president abelardo de la espriella announces immigration crackdown
+seen_urlhash:878bf46d175226be616a4b26e0480790091ac22f45afd795e208155452d78891
+seen_titlehash:24f7c3e538cb4ee043c98b2712e698ca218a5d02b144fa17805441a83c527bbb
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes
+title:japan enlists 1 800 people to drag a 360 tonne castle keep using ropes and rollers
+seen_urlhash:0d5351bb0ebac5c10d5944c6b9ff30aac7eb940f6783aa536800d958e335be01
+seen_titlehash:e0f4ad4ee25ca133bca9ed4f6c931d75db3d034b193f54ddc102df640bc90aa1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss
+title:man killed in world s largest annual bullfighting event in mexico
+seen_urlhash:b3e0e5c7bac497da2ee156735400a75375e861898fd20270e4333d7479f6f575
+seen_titlehash:cc2f8f727cf0e09643367c874a7775848c43f80b5c323e5d9fc8e24c814f028e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss
+title:brutal gang attack on strategic haiti hillside leaves at least 30 dead
+seen_urlhash:32edf5470e3362c63d0afbd40251393ca3f1b9ec1989e381541626cf82e691c3
+seen_titlehash:13d32524a6c3b67c5b4e53804ad46279fcfb10de0ad61e85f37ac6feeee5f8e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss
+title:us plans to revoke business tourism visas of 200 000 asylum seekers
+seen_urlhash:3ec6e98174134a6a543940977af94c5350ed9763c42b9343a608cbf7b0760880
+seen_titlehash:e029f23dced00eb4dd83c77bbc61cf514ee354ec1ac631f02ac70c528ac7acc8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss
+title:drc s constitutional battle the fight over the 2028 vote
+seen_urlhash:644df38fa987f285b13af8bbea877cf554d88e615f06303022796283b0f6d2e9
+seen_titlehash:3cc496bf284c45f5c478c655d234cfb30b295f78fe2782e2792ae7e7dd8d5eb7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss
+title:search continues in tunisia as migrant boat sinking sparks protests
+seen_urlhash:a73fe9dea2bb0eb835887cc66703c993370e3d3a066a7daa1adfbc898310d5b3
+seen_titlehash:dbda0c4a015f4c738ef2737e04ec9f214f2564bd728f38eb4367ae461888f5f8
+seen_reason:processed_not_published
+url:https://news.sky.com/story/ukraine-war-yorkshire-lad-believed-to-be-first-briton-to-die-fighting-for-russia-13576834
+title:yorkshire lad believed to be first briton to die fighting for russia
+seen_urlhash:073d8ab69d63a86faf859cb3c52a063e34e96475119af2fe92fd6b4f0347ccdb
+seen_titlehash:17aa1263e5180e99455914248f897391bc6ff914d15a01e477ce92b5a1ad2c14
+seen_reason:processed_not_published
+url:https://dw.com/ru/коалиция-желающих-в-киеве-поддержка-есть-но-достаточно-ли-ее/a-78491116?maca=rus-rss-ru-all-1126-rdf
+title:коалиция желающих в киеве поддержка есть но достаточно ли ее
