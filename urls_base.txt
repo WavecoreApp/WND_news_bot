@@ -68228,3 +68228,58 @@ seen_titlehash:61dc0e3989aca14291aba694941d788df558782f9d51aa7b5680bc3abd2cffbb
 seen_reason:processed_not_published
 url:https://ft.com/content/940ed0e8-f746-418c-b6f6-98f62d010007?syn-25a6b1a6=1
 title:imran khan may not survive pakistan prison son says
+seen_urlhash:62990dc5bbc857bc6376f30a05689c1912953b5d318b1835a0d0eae96e7aeac3
+seen_titlehash:6a20b7dc41844f00c08dc5cab8827bdb3fb8886ab410918e3d9ff07922b89a59
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/americas/haiti-massacre-kenscoff.html
+title:dozens massacred in haiti officials say heightening fears of gangs
+seen_urlhash:7a5fec6ce912d27cbdb58366e033a571033a0d79ee22a59f116e641d6f676799
+seen_titlehash:6fc1c88080cd46ad05b48849ae38d6238c96bd59f07327cfc6295eade64f4ceb
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html
+title:airstrikes and illegal mining add to myanmar s troubles
+seen_urlhash:ef533c2558cb0d5965988549bc9c7b42832e92f78966553b9940d7d9612890eb
+seen_titlehash:f840a63c9a3dd59fe6342047655c3a08710b3571f15f279274f1d1dba7bd8a6b
+seen_reason:processed_not_published
+url:https://theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers
+title:taiwan charges nine people for smuggling high end ai servers to china
+seen_urlhash:717ff3ce5b253c85269422ecbf3c5af08de18246c12207b12a14c70ddd9988c1
+seen_titlehash:1fef95812d1843fcaa02fc21ccd61efe96c15a66721cd590bda16c75b10858a9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss
+title:israeli protesters block aid trucks from reaching gaza
+seen_urlhash:9e7a3142df84cd663bdf87afdaed840831c7e23c4d7647dc2841dfef58d01a9e
+seen_titlehash:626b10d24a53a15fbc46978f63c4e56b2c28b815638301e76d21e8574d460033
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss
+title:video israeli forces raid un training centre and raise israeli flag
+seen_urlhash:a945fef940aea65f4015fe5c6c4fff223c5505cf56afa84fefeb680c803cb39d
+seen_titlehash:3afba08a7b897f9d83e0ba5cf08c76eea86d221215c2e5b3d9cc09e3fd83b139
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss
+title:syria s economy poised for improvement after us sanctions removal
+seen_urlhash:0e73965e32fc006e14c964bb4539eea411191f77d70792c075dde8de2bd5a4e4
+seen_titlehash:6d0f38f27b2b9b817d487b9b24cf3f4568faab98af8500f72ffbdd8bde8528ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss
+title:syria shakes off past with removal from us terror list says al sharaa
+seen_urlhash:b9689669f6ca8ce1e851236ca0cd858f7542f7b677694ec24e9970da5114fc0b
+seen_titlehash:bdfe3c1c74eaa7136cbe524eb7a7ca853a64b8976ae786171097ef772978e154
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss
+title:kremlin denies us talks amid reports cia director ratcliffe in russia
+seen_urlhash:a67134d333fa6b4b66ccc8935d922c9bc6655e661af003b6b1d04f28d58e02e9
+seen_titlehash:d7373ff43109836ce02e9d4cada8769b6118512f78ddea658f8125f71bd3298a
+seen_reason:processed_not_published
+url:https://dw.com/ru/полиция-словакии-заявила-о-предотвращении-поджога-завода-по-производству-дронов/a-78501031?maca=rus-rss-ru-all-1126-rdf
+title:полиция словакии заявила о предотвращении поджога завода по производству дронов
+seen_urlhash:15bb576fefd265ad6dbf9d3eafb54db7a4c8cc538138136d03c3a5154216bb1c
+seen_titlehash:020b7011c83b060388cb6768c600fa06435580023001d6c12a8340636dc4191d
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/25/italy-france-arms
+title:ракеты akeron в фургоне в порту бари задержан французский водитель грузовика
+seen_urlhash:eef529585aeb613a66be8784f466d22bc74f6180366825211217979a47facb02
+seen_titlehash:5bfb5d76dfb202e51e75b6ee08f777382445b1d4536a9970e2a63eb5f96ff310
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever
+title:as his presidency flounders donald trump is more dangerous than ever
