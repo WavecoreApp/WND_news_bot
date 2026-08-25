@@ -68343,3 +68343,63 @@ seen_titlehash:eb1da35c794fba61794b86528bd8703a3c7025a7c090e499c3133f94bd21029e
 seen_reason:processed_not_published
 url:https://ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1
 title:spacex commits 100bn to louisiana space base
+seen_urlhash:8674b2723f24f52508c683352409585c2ceab39383d80377d0873db3bfa5185d
+seen_titlehash:babd1d686fb157698e3f568dfb027cc14e18720af52150211dfc03781554b78d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html
+title:usa vs canada
+seen_urlhash:506dcac9417330ee555b6c2af5c5808a07dd5e92be5877d9d77c9f3f08cb9fe2
+seen_titlehash:8db6d6374eae1ef874e0b4eb5c650da776f0d855f03e22a0a3257808c89be514
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb
+title:australia news live man charged after allegedly stabbing woman with scissors in melbourne
+seen_urlhash:3227b03eb9c1216142d4179099e5ed2b2aee6d4906cc1b747beef31d12bf5b09
+seen_titlehash:83c16d1d02be6b55a1c50e39a1b27e150c925638bab8e69af990e803c7a4ccae
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss
+title:real madrid vs sociedad la liga prediction team news lineups
+seen_urlhash:64518aaa2a5e7be31fd8bb11fe97c01e1e9cf2a850c7569103b89a65dca0accc
+seen_titlehash:79f861a789f056b65e0034aad19ae2ecdb99a7533ffb2512903aed3575a17105
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss
+title:nigeria launches operation to rescue 600 kidnapped victims
+seen_urlhash:fc7d39aea9d016ae6abebce4d5d7f9e33fb2f0c9233353ce3f84b82ff30e89c1
+seen_titlehash:5b2095ed5cd8f4a3794b9e483f20f91f56f139c9f7e859ed692cb98ceac6a767
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss
+title:new us sanctions signal trump desperation on iran experts say
+seen_urlhash:e60575b44dfc4ea417963fc7b97b12e7576d8c025fcd7e3a60baf46297207f75
+seen_titlehash:b0e074dd87336bd79f3fe400daed057ad8cf262a5fe03f0db874b41ac93ec5ec
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss
+title:dolly parton beloved us country music icon dies at 80
+seen_urlhash:86d0d035937a840de82cae70c5e4565a10cd270cced515262aa54da345db7398
+seen_titlehash:e6f2834a99ed9a70c3513dac27cef7ec6812d9b4d68b27d654945f72ea249099
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss
+title:what challenge do cockroach protests pose for india s pm modi
+seen_urlhash:7eb02a19be714d0fcf03b03210f2e557103955e12d247256fe0deb60b005d87b
+seen_titlehash:38da83a329100d368c278af8af728576280071781cfff90617688c43b4fd602a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss
+title:trump administration kennedy center may be demolished if repairs not made
+seen_urlhash:8d0ae0b36474ae3e5c2f87f408ec3afe6011720532a2a9c1419817638d6549e4
+seen_titlehash:8f083f723e05c45cf4bb872930c06ac8933c9d098dc7e816513e3bfb1639114f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss
+title:video us country music legend dolly parton dies
+seen_urlhash:d3e2b78df8aa6ece9357599cc3a774dca38e2c43b6c011afc8dc83590632143e
+seen_titlehash:08ffe6aa2cecec54297c4f6e57dae9f986d354bef20dfd27061ee7e80b272667
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss
+title:iran oman discuss temporary shipping lane through strait of hormuz
+seen_urlhash:9e12ea5ed30a108a3ebf0fcfa002dc2f9e3f0c0337a6c1ffc2c02ef8985c23ab
+seen_titlehash:b762a2a16c88234a569791e9e0f5e4f40da96962fd46a44dc1c52822ca0ee1dc
+seen_reason:processed_not_published
+url:https://france24.com/en/mawlid-cancelled-in-tigray
+title:mawlid cancelled in tigray
+seen_urlhash:ae870cea27884ae1a6efb4a379ae4bc435f316164053c55983de3a5d102c9657
+seen_titlehash:e0754c5502b559e2296194f24d003ba16bfb08db3ef82e67a95326cd06efb312
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/25/peterburgskiy-oldbaby-shop-ob-yavil-o-zakrytii-nedavno-ego-sotrudnitsa-rasskazala-chto-ee-uvolili-potomu-chto-ona-ne-vyshla-na-rabotu-iz-za-smerti-dedushki
+title:петербургский oldbaby shop объявил о закрытии недавно его сотрудница рассказала что ее уволили потому что она не вышла на работу из за смерти дедушки
