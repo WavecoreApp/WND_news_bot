@@ -67028,3 +67028,53 @@ seen_titlehash:a769af4dc8b1cd06eff3e173e45f9401f94cd09b99e49f93fedc9a6fe3767527
 seen_reason:processed_not_published
 url:https://meduza.io/news/2026/08/25/benzina-ai-95-net-na-pochti-80-rossiyskih-zapravok
 title:бензина аи 95 нет на почти 80 российских заправок
+seen_urlhash:152d1040e41e7bbd3db2aa1f51dc9a0b000df001d9294363c2d03b86951a21d9
+seen_titlehash:7ab53dc993762c9253b503dc4c278e0a4ce5323a9de630d9ec2f0532278a6df2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html
+title:australia bans generative a i from official music charts
+seen_urlhash:7ad9b6f85f280eab80b0485e329c5ae7a87e3e0e8fd35dc266683127191b8221
+seen_titlehash:ef5da0d78390e51d90470217eb7a467378da54487f7cb822e353afee5a5943f3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb
+title:alan jones and fellow 2gb host referred to smh and reporter as pigs in the media court hears
+seen_urlhash:cfef80ae5de2e1545d5e2f8e21086da1f3c622f6a21f9563121b4f16100e70ac
+seen_titlehash:01a8ffe958d1473a9cbbffec8cfdda4ecb7a0ef45eda822870565cb22252d71c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss
+title:global ocean temperatures hit record high as el nino intensifies
+seen_urlhash:18f40dffa324fc397e92054aaf7fb97c0d6245a269a4dda6e1c6323c8599bfac
+seen_titlehash:1bcfa1280dba86e19330034e19daf321d0cb2078c9770ae2d8301e7aec0090ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss
+title:thai vendor confronts israeli tourists raises palestinian flag
+seen_urlhash:e7d25c1647d8e3f87b770f75f54d3171ffd0d6212c23ec4d70e56fc7e2971da7
+seen_titlehash:af463937b4db707192e2139e9ea23174e280b7c5338d61080e3e68411ea97f9b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss
+title:hasina spat stalls bangladesh india reset what would break the deadlock
+seen_urlhash:43d29f0dd0965fabb4822da3013da314bc82f26be8a3afaa0130f49a7afa6102
+seen_titlehash:407be3542d308e867c6406558ab3ff8dd87169f543220cb9e48290e44be7b14b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss
+title:federer to play tennis at us open but rules out williams like return
+seen_urlhash:044ab1d415afdd5a6e667d32da1b595d85cd59016f0268fd1a9a0c72232ec94b
+seen_titlehash:a50b0df74b8aab0f70dac7f907cfb08699d922dc4d0d90990bb31f63056e0cdd
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-краснодарском-крае-и-ростовской-области-дроны-атаковали-два-нпз/a-78492396?maca=rus-rss-ru-all-1126-rdf
+title:в краснодарском крае и ростовской области дроны атаковали два нпз
+seen_urlhash:f156e935bda08378fac4b63b746a2e1e12ede3d82ec87cb867536b88855a0014
+seen_titlehash:421e20e9b8c8b88ac19d5dd9e9cf2415162fc92641697b1e5183eedac321347e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/25/ru-france-saudi-dragon-ball-park
+title:макрон объявил о строительстве трёх парков развлечений под парижем на деньги саудовской аравии
+seen_urlhash:7309d7d97918c7d09c8cad734c250de3e25ac795d44d087c303d6439e790cd7f
+seen_titlehash:de5eb55ed90394b2311b0d937eb14d77b70885ea789ccb5e097bc41f2a293f18
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/24/ru-a-tornado-causes-significant-damage-south-of-carcassonne
+title:торнадо частично разрушил деревню на юге франции более 40 раненых
+seen_urlhash:d67bc1608abcbe2f295881f8e38ff7b83e61a314404001822fbb1aa4f69852fb
+seen_titlehash:0d2ad5f6c5acb552c168ebbe2c81d2f781779c343cc16851344e5dee8fd401fb
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/25/byvshuyu-zamglavy-ofisa-prezidenta-ukrainy-irinu-mudruyu-otpravili-pod-strazhu-po-delu-o-korruptsii
+title:бывшую замглавы офиса президента украины ирину мудрую отправили под стражу по делу о коррупции
