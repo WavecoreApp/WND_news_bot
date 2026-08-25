@@ -66468,3 +66468,58 @@ seen_titlehash:fb90b777ebface8abb0e671057a333114868064a01bf5f194d9da764cd8432ac
 seen_reason:processed_not_published
 url:https://france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region
 title:tornado devastates village in southwestern france s aude region
+seen_urlhash:ea5af95240b61222bf284d358f344bb4d200e4e8f3ea594c563d2c2a019d4d0a
+seen_titlehash:003751a17c4d1999c3ac5226d467dbe7ead8583a7c8c8a1428100507ec92098a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss
+title:us removes syria from list of state sponsors of terrorism
+seen_urlhash:f168f2a53fc41a44c89c1f43b1d824c22d1cd32ebf2c341ac1e6185a2814177d
+seen_titlehash:131a5e39479b41afa8b849deb82b9bcd3111c3413d1bf833e776017fba50cb68
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss
+title:moment tornado tears through southern france
+seen_urlhash:3253911db087ec65eee2c288bc80b26ab5235110681993597d7112720a585784
+seen_titlehash:5d63142b24f37321983ee6593503a219af312526c8e69b5e67398a14b6171c2e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss
+title:caste divides make scorching summers harder in a parched corner of india
+seen_urlhash:b35644a3aa51be9a2c9bdd2b3febb0f81ad3df6b261850ad45d2988da2820514
+seen_titlehash:d6a3657a5f0663abb5c21239e5e67a158f262d2115dd74a5ed3e4bcc4f5c80c5
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss
+title:beyond china s humanoid robots a quieter machine revolution is unfolding
+seen_urlhash:dbc1b339f443031c270d44dc531c8c6b1563c2de8525947726893df12c0476a7
+seen_titlehash:cb6bf917de41ea10ab9ff1c6dafc9ffbc2dd8fe6aa99cef3b1fa90cd3d080abc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html
+title:u s tariffs could price canadian firms out of u s and threaten thousands of jobs
+seen_urlhash:14b78239584a32f38065f888aa7c9a70333239a8795b787956988890ac39afc8
+seen_titlehash:d4aa3a171c600c4d591edd25cd30ff55fd54406f2b4ed7b59f8a162ef513ab9b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss
+title:iran war live us slaps new sanctions on iran warns tehran trade partners
+seen_urlhash:2a26c8378bb18f102a58eb40a5908efa9b6764fa9c41a2d0aeaf4991774c81bd
+seen_titlehash:5d7a444443b704d4a71852b996e28c14027bcf395d0750b08b14f1fff4f0161d
+seen_reason:processed_not_published
+url:https://dw.com/ru/украина-будет-сотрудничать-с-великобританией-в-области-военного-применения-ии/a-78490840?maca=rus-rss-ru-all-1126-rdf
+title:украина будет сотрудничать с великобританией в области военного применения ии
+seen_urlhash:3ef849912ed1b1c9c53672e473500209571b8d96019feb459739bb59257ab164
+seen_titlehash:ef7c7d2d3f6129b52615c3d7670d7a4661462318f48947a587eb4500282c81c1
+seen_reason:processed_not_published
+url:https://ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1
+title:sec subpoenas wall street banks over situational awareness
+seen_urlhash:0a6ab1906a0e386006f8af5ef0d863a0e36437d33f19b60d1d66849e53aa6e47
+seen_titlehash:9b30925fcfa397e46d98ae199d69cbb8f00986712ebe8051a0b3ae282c11c47c
+seen_reason:processed_not_published
+url:https://ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1
+title:us supreme court allows trump restrictions on mail in ballots
+seen_urlhash:34657db25a5c37ecb24daf3063285f8f630be80b449e67caea493187ff61addb
+seen_titlehash:99ce2b2c77c26d74fb07b3c5be60302f9df12d783642950c84bb80992525dcc5
+seen_reason:processed_not_published
+url:https://ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1
+title:firstft shein targets 27bn valuation in hong kong ipo
+seen_urlhash:e4e79fff319021aeb17feb367f5371aa9e3b2f5c19533f9dad909087a7ebb5f5
+seen_titlehash:0bb887a626a0990a19952468440a99802a6b0b4dc652e90ac48e1e5159ee1765
+seen_reason:processed_not_published
+url:https://ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1
+title:morgan stanley and schroders back australia s largest venture capital round
