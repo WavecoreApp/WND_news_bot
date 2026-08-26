@@ -68608,3 +68608,128 @@ seen_titlehash:226187db60a8e31e02c6380363f188d5bf41973ac4c8f41e53e5f58235e323fc
 seen_reason:processed_not_published
 url:http://ru.euronews.com/video/2026/08/25/novosti-dnya-25-avgusta-2026-g-vechernij-vypusk
 title:новости дня 25 августа 2026 г вечерний выпуск
+seen_urlhash:1979da6e5037cc7320f7a9a3ea5d0af09cadbc0caa0bca84e0a0a01159d532cc
+seen_titlehash:15ab07a972c470373b6d29a9097f2a1e3114db8b36b2d101239fc356825dcf97
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/26/world/asia/korea-democracy-tankday-starbucks.html
+title:confronting south korea s violent past and its echoes today
+seen_urlhash:eeb326203c680751106b8cd768cc96440175c8b91b6c420955d232ed24e0e7ea
+seen_titlehash:d5c9af01fdfff56d16dc6acfabd1ac8afb01924a037d42724461c79f970de815
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html
+title:what to know about bank melli singled out in u s call for economic war
+seen_urlhash:efeb3229a835982ee63682bb3c8befbafec025ab382c3663b16d4b9cbedc9209
+seen_titlehash:014a5bb8ca513f2e2aa7bef57d98f595472067805f0afe669f3cc01980c54846
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb
+title:antisemitism royal commission ends hearings but delays report to avoid distraction from bondi anniversary
+seen_urlhash:1bd8a88d08acf9f0d800bdb3e2686392150abcc764e37799e1bd245a6dfb6001
+seen_titlehash:7abe6a96246e5f06500993d2915e024b30ab9cbfbe404bf267db30b11db7493a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss
+title:dozens killed in rebel attacks on sudan s kordofan medical group says
+seen_urlhash:c8eeabbe36b53e1832e28245470c0b72c4c99855a210328bada920eff43e8f9d
+seen_titlehash:66b52b4c68803b3c53ede6a27c606e303aeca6651d86df9664adf9f7071bdad6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss
+title:instagram chief testifies at meta trial says few teens used safety feature
+seen_urlhash:ab7fb09bcce29a303fd6236157b7e22187fb61c14ce86c82502c468c19248352
+seen_titlehash:e7ccc437486146f7f7d0299143ce384f190091d897a5dfa1ba95667dc48f505b
+seen_reason:processed_not_published
+url:https://dw.com/ru/комплекс-wildberries-под-тамбовом-загорелся-после-атаки-бпла/a-78502725?maca=rus-rss-ru-all-1126-rdf
+title:комплекс wildberries под тамбовом загорелся после атаки бпла
+seen_urlhash:a9d2e66d788a5a629630506c1ea9815e532c84b0adac5b5e5e157e746d5ee003
+seen_titlehash:7fe11569ef389a78281abe05e5b49937dedde8a88b526a2ec125a1d6868899ac
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/26/putin-nationalization-decree
+title:национализация путин разрешил передавать под управление государства объекты критической инфраструктуры
+seen_urlhash:2aadffe61393fa3f746238f89691a873d316c2d85c71b24ccb6acd4e83711321
+seen_titlehash:50d140d9507159d59dceca121261999e20bb75ffd37ebef304c015f000011808
+seen_reason:processed_not_published
+url:https://ft.com/content/12aa9298-ea67-4099-89df-4d1b0489cb74?syn-25a6b1a6=1
+title:shein from tiktok haul to ipo stall
+seen_urlhash:16ba495edd2440369c2c9bc153b2f8d3ba4310f6f1504ef7d280885765582f6c
+seen_titlehash:31884cc02c478e5ccad0419cff01caa0a2ca6222acdbfae73fc1b477b492378c
+seen_reason:processed_not_published
+url:https://ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1
+title:bessent s bond intervention puts us treasury on collision course with fed
+seen_urlhash:2aa8813989a07a561d75cab4bc81e1385b7228ef64aa0a43c2b874f8eb6fb6d8
+seen_titlehash:bb3e5c59e482cea6c21e3ad1b72755f5bf787eea880b8df7de6372301b390c42
+seen_reason:processed_not_published
+url:https://ft.com/content/d910845e-a886-45a8-a43e-4ca1c5afa4e0?syn-25a6b1a6=1
+title:british business bank s small business loans hit 4bn
+seen_urlhash:33103b09054f3b0033245b6770615d6053cae8b99e7eeab369cd726d213d9da6
+seen_titlehash:a5d44c8e8adb895793f7d1dab2154dcef8d2c1695e2f6651e4b2cab9ffe7b990
+seen_reason:processed_not_published
+url:https://ft.com/content/04bad7f3-1b5d-4982-9967-229886be0beb?syn-25a6b1a6=1
+title:insurers pile into deals allowing banks to offload default risk
+seen_urlhash:be68d6af5489b78687282bc6f3f3b3dae48dbac15e978ae29efa65c9b923ff59
+seen_titlehash:e089a5a73256046ea5334ea8881d7258ad0ca78a405bd6b4afef33c2ff9b2072
+seen_reason:processed_not_published
+url:https://ft.com/content/624ae50c-3501-4f03-8ee8-a79d1c64a374
+title:ignore jane austen income investing has big drawbacks
+seen_urlhash:d6520e92349eb72f97e0d20896412e6b8e33937ee98776d34320c2a4bef3925d
+seen_titlehash:ec5fdaefadd5f7df2d8d13007de464a14c3d74ada737a193fc5a69f18ad8e40e
+seen_reason:processed_not_published
+url:https://ft.com/content/c3dc6390-8d37-47b5-9687-bb77e149a6d5?syn-25a6b1a6=1
+title:andy burnham looks at allowing mayors to block sale of council homes
+seen_urlhash:d2d25aad612ea6302672b8d4744ea41307a66f47aa68a3f7219fb58d1fa62f9e
+seen_titlehash:f040f57bcece556ea06882638877240a16f211531d0da6a3b9fcf09c61d1ce95
+seen_reason:processed_not_published
+url:https://ft.com/content/904416db-c0e9-46ba-942c-ce77169420b7?syn-25a6b1a6=1
+title:will burnham s northern vibes put off southern voters
+seen_urlhash:a9d3ed2707f0544b46ce231dd0a8edeed053fa734b3f472eac5956cf276eef33
+seen_titlehash:7a700cc53143c0ee5992fcc745e72783c05dcf95a42963492e6b5b4b2729ba3a
+seen_reason:processed_not_published
+url:https://ft.com/content/9cb63980-cd43-419d-a7e5-42039b9fd01e?syn-25a6b1a6=1
+title:the multiplying risks of financing data centres
+seen_urlhash:8c49b44dc7b49b5061cd28fc06bbc737e387a02410598e83ec9c21e29c06c4d8
+seen_titlehash:ecf2b00164485e0fa299e4bb9ae5f799cc0a885515c2c5edd255c04b2730661e
+seen_reason:processed_not_published
+url:https://ft.com/content/3d97a6f6-3c71-4e2d-acb9-371e0ca09c52
+title:note to the prime minister you won t find the future in the past
+seen_urlhash:f07900ba850f129ca5af054a28ee16bd022922ef9c75fd4ecb2a266c6ff4e39a
+seen_titlehash:ae1df1ccdfb40ded27358568fbfdca8615dd893c250e211d9ba8ba07ce445624
+seen_reason:processed_not_published
+url:https://ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1
+title:institutional investors back blackstone and kkr funds for wealthy individuals
+seen_urlhash:1ac44546621bb9edfd649cd148b0946886c0cf1632b54db30c0a3cca7ed63c97
+seen_titlehash:791bcfe6575b6be87b477220b401176bc4d1746807e7d4229b951b50e148f55b
+seen_reason:processed_not_published
+url:https://ft.com/content/435b12f7-9fee-4f33-9f07-076074b8bc3c
+title:britain can t afford to fail on social care reform
+seen_urlhash:d489b97e69be3f19cf67adf28a85c52bac33a1d18393d758c9ed4d868c668493
+seen_titlehash:f7a2a381eb37478a2f825c40c325965bfc0227329f4288fbfe3bc6a7578a46ff
+seen_reason:processed_not_published
+url:https://ft.com/content/083d21f8-ac03-4d72-b149-e8ded11c11a9?syn-25a6b1a6=1
+title:heatwaves spark interest in gulf style extreme cooling
+seen_urlhash:a2b518b15bbbfe34b1888506c0b162c99c31d38ef96f6f4151cf26d501a411c7
+seen_titlehash:4b2f337e125c26fbd1a72fc5ea4e05de4becbc2cce34b8ee737b9b2ff4310813
+seen_reason:processed_not_published
+url:https://ft.com/content/a30e563e-0bbb-45ed-a7b3-55ff595d4e66?syn-25a6b1a6=1
+title:launch date for london robotaxis slips amid tfl uncertainty
+seen_urlhash:59356094ec8f37c6284b157d2e8f1bf6902d25b46f7495d80c63c42880a176d4
+seen_titlehash:90323068e1dd7ba8a46362c6b96c2fb36e48caa6a6c8ab7263519ada76768890
+seen_reason:processed_not_published
+url:https://ft.com/content/2fe2913f-24b7-4074-9278-3253b5b8a61e?syn-25a6b1a6=1
+title:berlin s defence push draws global groups to set up shop in germany
+seen_urlhash:72941ed8a1c918892bcd89bdcf3e648ecc750355c52d8b4b3067f94e30041811
+seen_titlehash:152a0d97966a26a5c367ed74c4cb63a3f5dad0c108d93d692c6e2af9c62d800f
+seen_reason:processed_not_published
+url:https://ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1
+title:how four russian bankers made millions from eu sanctions
+seen_urlhash:3c9c1ccf9c30be9e02959c0d2b0497ae98ace139360793353f08c6c8a3786492
+seen_titlehash:af4a0cc5d619cea20f203b6582fc67947c4458ff87938eb11b261de1412f611d
+seen_reason:processed_not_published
+url:https://ft.com/content/16f5b916-cb2f-4fd3-abb9-d4a65d2e3a8a?syn-25a6b1a6=1
+title:how do i navigate the ownership of our family business
+seen_urlhash:20c7c5f83eab8810caa9e2eeb5a5ea601e1d100951fcf05d4c713a063a5f98c0
+seen_titlehash:f1e4bff3372b839af281a92e5930fa89668b3f914ca57ca2960c1772ba3c6d36
+seen_reason:processed_not_published
+url:https://ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1
+title:it seems crazy spacex s orbital data centre bet tests physics and finance
+seen_urlhash:73a6f9a7ec7b41af8cc0bbdcb94cee15245735ebcd7c1dee2c5127b2db6dbb15
+seen_titlehash:499f5e7df20ff33ffada6347a94f30e46e9f366bbec9b63743ab5915b63b27e1
+seen_reason:processed_not_published
+url:https://ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1
+title:the bankers cashing in on italy s wealth boom
