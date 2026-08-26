@@ -68493,3 +68493,23 @@ seen_titlehash:8b331ded16df2149381bab9256af73aaea63101e29876fb493049ff834547fc4
 seen_reason:processed_not_published
 url:https://ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1
 title:us audit regulator scraps investor advocate role as trump era revamp accelerates
+seen_urlhash:38aee4f2ff1dedeabd51c2884df91e5f8c167f166f6da6a3a275043b564779f5
+seen_titlehash:b89cde245fb1921bad1e83fdf11426a7fbbe2c0b9ba411217511827c5a8d780c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html
+title:worker dies after accident with plane at montreal airport
+seen_urlhash:2a33a3fd3df6304c48621b651b6e36886dc68638bafc9ea2f1149df20b497abd
+seen_titlehash:37dccf3cdb04bb7254f8f832139623deb626e2fce25513eccfc3dc5998210e0c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss
+title:human rights situation in myanmar plummets to new low un says
+seen_urlhash:77ff10d364cb626cdf158504bdae823874f1ddc7c51d6d644703e80d0bcec6f7
+seen_titlehash:29eddd5510e2ea40c13b42c3ca7edae97a2363df2b87ad8bc858de737a1ea433
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss
+title:iran war live iran says hormuz remains closed despite oman route deal
+seen_urlhash:e50ec208883e1d82bfb2afbf9377cc62a0e0bf0b8183d64609c014c4c77723cb
+seen_titlehash:f4be268d5727598d0fd13c196f696902a0a0a9bc425b2bcd783699268bd61f9e
+seen_reason:processed_not_published
+url:https://dw.com/ru/рф-атаковала-чернигов-харьков-и-запорожье-есть-погибшие-и-раненые/a-78502569?maca=rus-rss-ru-all-1126-rdf
+title:рф атаковала чернигов харьков и запорожье есть погибшие и раненые
