@@ -68733,3 +68733,38 @@ seen_titlehash:499f5e7df20ff33ffada6347a94f30e46e9f366bbec9b63743ab5915b63b27e1
 seen_reason:processed_not_published
 url:https://ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1
 title:the bankers cashing in on italy s wealth boom
+seen_urlhash:ebabf69864e5f627c84055c6f5526c88546f7d87e9b1674dfc6d8d6d338ba72d
+seen_titlehash:e2b94909e0747e56953de1f03ac2696b4fd2be4d53036feccb1504e1055a2a50
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss
+title:at least 15 newborns killed in pakistan hospital fire
+seen_urlhash:2fe710f409e42b49a7c0dff971a2f8c01e72cfae816bf1c6a787c974f38efac2
+seen_titlehash:099e20ff8dc948b291699775b3d9de29827b1f84754f31c1a1725a21dd649c31
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-нас-стреляли-на-поражение-рассказы-участников-протестов-в-иране/a-78498299?maca=rus-rss-ru-all-1126-rdf
+title:в нас стреляли на поражение рассказы участников протестов в иране
+seen_urlhash:935e139d7b53d02f114e555984d5e1391dbab8876bff0a424e85efa8e1c4fc3e
+seen_titlehash:db52f93e904fe945c111850c633376d1985635ccdd3aea141c3378b5447b1ae9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/26/de-la-esprielya-prikazal-vyslat-iz-strany-nelegalnyh-migrantov
+title:колумбийцы прежде всего де ла эсприелья приказал выслать из страны нелегальных мигрантов
+seen_urlhash:77a2d838592a1d2d7f118d893da373c19d47b131e2db48de17f8101fe4b0c386
+seen_titlehash:38915584f397c0a79e3b4db511f1269eca4ec36f6650cf4a368f984ff9c76a0d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/26/ukrainskie-bespilotniki-atakovali-lipetskuyu-oblast-pogibli-dva-cheloveka-v-tambovskoy-oblasti-posle-udara-vnov-gorit-sklad-wildberries
+title:украинские беспилотники атаковали липецкую область погибли два человека в тамбовской области после удара вновь горит склад wildberries
+seen_urlhash:b1287923cbc3b41cd3772f8c6cbdaa333cf101a4003fb949d7ebb0733d6d4841
+seen_titlehash:5ab8d6a47f519fae030129dc05e112046b8d96e1def59fd04387788f4c838fda
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/26/ssha-i-iran-dogovorilis-prekratit-voynu-esche-dva-mesyatsa-nazad-no-tak-i-ne-prekratili-chto-pomeshalo-miru-i-vozmozhen-li-on-voobsche
+title:сша и иран договорились прекратить войну еще два месяца назад но так и не прекратили что помешало миру и возможен ли он вообще рассуждает востоковед никита смагин
+seen_urlhash:31ec064ff317cb3977449a03aadec5d2c150fedfc369bde87b4aa337383d312c
+seen_titlehash:9b5a40f0f70702fed6de1ce3655c9e9b56c4649082d11f2ca204f73ec2754a33
+seen_reason:processed_not_published
+url:https://ft.com/content/53157379-e404-4798-bc86-dd76927e0497?syn-25a6b1a6=1
+title:spain s ceuta crisis festers as madrid faces allegations of failing to tackle fallout
+seen_urlhash:5b6bf110b53733ed2e6848257db17782f177a9a43a068dc642b52f427f19af5b
+seen_titlehash:8aa47a6da5dd3d403f4d43dee5662bb0fcc88dc63d832e2fe0844cc71a660e4a
+seen_reason:processed_not_published
+url:https://ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67
+title:nvidia s 200bn balance sheet as a service
