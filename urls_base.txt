@@ -70458,3 +70458,223 @@ seen_titlehash:1c237eb7feb6024a8be15aaaae6bc1a59831a194343af746cdb26d92761f7b65
 seen_reason:processed_not_published
 url:https://ft.com/content/3fc189d6-28e7-4a2b-b77e-5c94bf513955?syn-25a6b1a6=1
 title:openai says it took a week to detect its ai models had hacked hugging face
+seen_urlhash:3f294f54b976e8314fe06aab7cfdbf0a063921ea797ab494bbc6fb5fb6a6d1a3
+seen_titlehash:8acab412c8d8162434e2a455e2e882d66ae406250ece46b8543399dfe7d4f5d6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss
+title:at least 12 dead as wildfires sweep through northern algeria
+seen_urlhash:6c725b00b3665b94bede0ad988b06330726fbe23d04d8779e21fb3ad9d610f9e
+seen_titlehash:6ce92fcd63caffca5641f767d51eb5fd2ad3083d025e1791cc1ef950039194de
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss
+title:us drug agency approves breakthrough treatment for pancreatic cancer
+seen_urlhash:3eeff72471e630a815ec8cdafff3077ca1e5ff9362cd094b16cd132541ab6320
+seen_titlehash:283961d334b4d39a21a390a0687f8af7fc27b81f03e34b7b939161c435708489
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss
+title:at least one dead after car crashes into crowd in northern france
+seen_urlhash:09bfc8c410a06e71eed1fbd0e9f3353ebea6f34f94b91f0cff533309fa210c1d
+seen_titlehash:5f6cb3a935eae235a4d0ba2f56ba54a4f239b669d9a86eed05a45a9474181192
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss
+title:iceland holds knife edge referendum on eu and it could be decided on fish
+seen_urlhash:61975cbe47a4b0cc4891b2d483674c3a7c689024d63f4da3eeb32d0aa4d8d97f
+seen_titlehash:9ded8e405e6584ffae4c803afa726df08f287ab91f4072585ec8f369acaadb2f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss
+title:if you started running they shot you inside nigeria s growing kidnapping crisis
+seen_urlhash:6b426904c5228d00dbb915cb7b7f7022108984255c7a16ae9605d4d396eb4b6e
+seen_titlehash:a213b3fd141b15b5006c675ac064c43d5ad909a6d710d9b5ef43bf96cfd28a3d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss
+title:the question dominating indian politics is it worse when women swear
+seen_urlhash:5b1394f4b1f81e82b28940786a4bafe0f9fd58bcc6ea2561fb293b020a2f1deb
+seen_titlehash:87c1a32559a7fbf5ddd1fad4bf3451209d9e619f196fc1ebc8629dd2f72aa119
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/26/world/asia/nepal-landslide-tibet.html
+title:catastrophic flood hits nepal engulfing crowds and causing quake
+seen_urlhash:a91ede9544b3f4d58e3c37f0c51e6a759dbe0d8265ab118ac67bf9a2419e043b
+seen_titlehash:ff10142a87fd00ae7edc102a3ef53459b2399d7dbaa1f6119252b66e56f507e4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/26/world/asia/flood-nepal-tibet.html
+title:photos a deadly flood tears through nepal and tibet
+seen_urlhash:60e1356684a1035da73fc6d8cf643f5919b77dff0e2e184c7c545dad14a7f707
+seen_titlehash:a4060794ab13391aceb94953fa12eadd14aa6da5152064c479bb269464e0fc3d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/26/world/canada/canada-hiker-wasp-stings-rescue.html
+title:after wasp attack a canadian rock climber is rescued by helicopter
+seen_urlhash:83317a7e6adc25a602b121fb85e21a050100cb29af923a10c98a4943a54eda64
+seen_titlehash:803f973c770adbf51de70afa7b96a1640fb2c8078592b6918b29f092f49b2fa6
+seen_reason:processed_not_published
+url:https://theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead
+title:yayoi kusama japanese artist who became a global superstar dies aged 97
+seen_urlhash:7af484d2b106c060253f0c87a59c9bb6fce4f46782b56503393c6db6cac526af
+seen_titlehash:c616854f3e661208556d3a0b3620acb14b83e02e3edf7cccaeed745846879181
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods
+title:nepal floods children as young as 11 among australian tour group missing after flash flooding
+seen_urlhash:f750809549a5022dd702c67b8e22b56a542da46926b9caf41e76a42cd37f4ea3
+seen_titlehash:2ed84b0bc2c07dbed11b029f0f40b87fa0b22f7105fa728faf396f80aee46a8f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria
+title:no transparency labor to scrap levy secretly placed on victorian public transport fares
+seen_urlhash:4a16b42beec4437f174c07c7a57422450861933cc972c0d762e29b3eef18d2dd
+seen_titlehash:1f5a03357dc166fc1d1c2503692d978653a0c4077b63e9107b9ce4cac71a3726
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/27/sydney-16yo-girl-death-suspected-sexual-choking-asphyxiation-ntwnfb
+title:police investigate death of teenage girl two days after alleged sexual choking act in sydney
+seen_urlhash:fa1d1f9bacb88c3cc89eaf63e0aaa307c703cdda048f6a83542c12e63d2f4d40
+seen_titlehash:9c42129d7731b4b6bdc0e17200c26c5c157881ada944a0c3e9c38538e77e73b8
+seen_reason:processed_not_published
+url:https://theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia
+title:cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters
+seen_urlhash:ff6dea63911a12a54f6542322c146f444d2987e354dfa503f8ef10b6fd0208be
+seen_titlehash:4fa935dbc9f006d756aeee3aa3fffca72896b8d78983b50a84f9c2a19a9d2cbf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss
+title:at least 12 dead 54 injured as wildfires ravage northeastern algeria
+seen_urlhash:b78a3b0583f55d2567b50b8a82bb89985bff59f51a10012a8df55a70582d86b5
+seen_titlehash:bfcae39a38eb67f065ac53adaba7f001794ec877a360a926ac880915394a8710
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss
+title:pro israel democrats picked for top roles on key us house committee
+seen_urlhash:bb1a923e419c9b2b625f54c38e5212ceb5f81f30dae87e1ab28b2fe34f00bef8
+seen_titlehash:bf0910d8001955667afa9c6fc61e03b84d9437da4c280cdfd39b68cc2fb6a9a9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss
+title:is mark ruffalo anti semitic
+seen_urlhash:1558a568854f3866e12f2cc4934735c530c27c8830a4bae68f7b3bc5b4c09971
+seen_titlehash:912745725f015ea37f6f610b30ccf363eb6cab55b4868e2351a7b20224fc84e0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/27/construction-worker-documents-moment-he-survives-nepal-mudslide?traffic_source=rss
+title:construction worker documents moment he survives nepal mudslide
+seen_urlhash:f64e9909c3792879c7701d1e9aa7bd4c9f658305a584982745afcfd449dd4033
+seen_titlehash:ec2f6d7575fab713e280fe3a64110552bc0bb186c9ef525d997de9e3ee8cd81b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss
+title:syria s president makes first visa payment after sanctions removal
+seen_urlhash:cb5dd6f0338bf458c3be4b0f19a608772e76eb9a6670a0f18407bffad6a16880
+seen_titlehash:e0e54b0be94346960969b95f29809f92591da32460075a51592020afda2520a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss
+title:tim curry star of the rocky horror picture show dies at age 80
+seen_urlhash:a1bd2af787d91851945553ba5bf351fc37b901ff6953ae0f3c3ed46f6434b6ef
+seen_titlehash:f38f609ffa7b647911f2c9dd909d2ebb27bc7d1b148b5a91f0411343a85c6db0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss
+title:iran war live qatar pm to visit tehran trump not in a hurry over talks
+seen_urlhash:891336305723808f1814fd6c796ea2d1f96e109ac0c2d7c4b3f3ad4a870213ee
+seen_titlehash:9bb286f606435847ce708a7a5d102afeb05c405bb3cdbbe5fb46fc9296f74144
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss
+title:world health organization says ebola outbreak in uganda is over
+seen_urlhash:81b5878402f897274454d3fd14e2b1cd71a3137169946ca37548da87e21bd301
+seen_titlehash:962f1491d14615dd3f09213fb445df30c93f47be4b3ff2796d1548b31a4d93eb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss
+title:spain s tomato food fight leaves thousands covered in pulp
+seen_urlhash:618787b184ee1a9bc34a63a633f44ba62e529348907dd8814398f3c72d20c468
+seen_titlehash:ffe16996b72966408a157c3d379f650bd119bd34947dc56cff8d1d193695f391
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss
+title:barcelona vs athletic club la liga prediction teams lineups
+seen_urlhash:36330ef57b3554e00b15d0c8629083c56d955284b309cfb561a0ae737c3d2e24
+seen_titlehash:ea0e3be0d03c42148a11cb1f469f10a9ad09ec8e4febf94d4c4a77080d151b42
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss
+title:us judge declines minnesota s effort to force texas to extradite ice agent
+seen_urlhash:cd67ee1fbc0bf5f9bad541dbeedc2e5abf58cb69ef8728447c11fdd895f6d70b
+seen_titlehash:e08098aa501ff9f9add717ca91c58fb218d125d0196d36a4b3761d23e8d8f06c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss
+title:tribe accuses us federal agents of trespassing on indigenous border land
+seen_urlhash:68fe56871e0caa22ef1b82ac9a715fae92b9448f5169fcbabae7ef2e1ae6f754
+seen_titlehash:7db511332dcf59e3ff85dad19ab8804b0d380283e3a66908fb981b464445894f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss
+title:mbappe hat trick fires real madrid to 4 1 win against sociedad
+seen_urlhash:9ae6f6a96c44e1af95c0c7b053db6dd50c5bde004c1d2cfd85674cc5ba77aca8
+seen_titlehash:f92b589f8d4d66d6303e7b3de4d37884456f4bbf21356d84fa6149a377f5b8ff
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss
+title:meta agrees to 17b settlement in landmark child safety case
+seen_urlhash:0a18ea37d9796abb35a5fdc92bac6217794e98206787459b0e9461b353538b51
+seen_titlehash:fb8e0ee2532c69a3acf59704b1b161b5cbd5d63feda8fea65cfe97c5a5ba8946
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260827-man-drives-car-into-group-of-pedestrians-in-french-city-of-caen-killing-one
+title:man drives car into group of pedestrians in french city of caen killing one
+seen_urlhash:ce7d3650375e2ab1bb8d1089462836df9242a6940d7940a9dc9921f371445605
+seen_titlehash:fa5a0c313031894e58ed43cc0e4adb600e33349eb9f3932354297219e67d2af3
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260827-what-we-know-about-the-environmental-causes-behind-the-nepal-landslide
+title:what we know about the environmental causes behind the nepal landslide
+seen_urlhash:eb642277a37163fd297b75e00bd533997b971709a1fe86cb202d6251804bc513
+seen_titlehash:a2906b19dcd7aae94ae0ecf288dc54ca7a74dbcc3e73ab34f0e182061a1403f8
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260827-live-at-least-160-dead-and-400-tourists-missing-in-nepal-landslide
+title:live at least 160 dead and 400 tourists missing in nepal landslide
+seen_urlhash:4bf274ceec0be65f6d4844ca4c66ab01363731c2353800f4890def864faa2d10
+seen_titlehash:e2e3ccb05a942f4585e2af18dbac4d171c8e20bd82cf9d3acb4a31f05e64c95b
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260826-wildfires-algeria-severe-heatwave-sweeps-north-africa
+title:wildfires kill 12 in algeria as severe heatwave sweeps north africa
+seen_urlhash:2c8af47c98ed8656cc6b5f531870c453ea626add1b7d8c7777fcb3fa4e104d34
+seen_titlehash:a0e8d5330604658840baf4e65da8187b5df19131724812d132ffd1a5d8e7b78c
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260826-fda-approves-new-drug-rasonque-to-treat-advanced-pancreatic-cancer
+title:fda approves new drug rasonque to treat advanced pancreatic cancer
+seen_urlhash:f809dfac11859bca52d8fda6ec272194f01c8c2c189291d2d92b3d0574040b3f
+seen_titlehash:18aad0666f5edf4172b57318087982736b22a37174cb09f8fd77cbba3da32cfa
+seen_reason:processed_not_published
+url:https://dw.com/ru/исследование-каждая-3-я-кибератака-на-бизнес-в-фрг-организована-спецслужбами/a-78518347?maca=rus-rss-ru-all-1126-rdf
+title:исследование каждая 3 я кибератака на бизнес в фрг организована спецслужбами
+seen_urlhash:fc1b52f04ca346fa5df6f36dbf0270eb60e65eb922c70358c14399f0c205e6b1
+seen_titlehash:5be9951bf7447ab22eb6d287054dc526d7e4f00e0e90136e4663c627cbcf3a22
+seen_reason:processed_not_published
+url:https://dw.com/ru/при-кибератаке-на-сенат-берлина-могли-быть-украдены-конфиденциальные-данные/a-78518298?maca=rus-rss-ru-all-1126-rdf
+title:при кибератаке на сенат берлина могли быть украдены конфиденциальные данные
+seen_urlhash:7214acbc69488e703c26802cedf41650ab2c6e5f4dd4a1ccb1f33373541fb1f2
+seen_titlehash:5d35d392a74dfe9cc6166b1f83f860363a3a71249a6d24f4cddc4bac27237373
+seen_reason:processed_not_published
+url:https://dw.com/ru/все-крупнейшие-нпз-лукойла-приостановили-работу-из-за-ударов-всу/a-78518029?maca=rus-rss-ru-all-1126-rdf
+title:все крупнейшие нпз лукойла приостановили работу из за ударов всу
+seen_urlhash:377ed5066cc600dbcfbfd092f2543c1f933e23fcad658e3c044920d02f97c9cd
+seen_titlehash:9aa548631006b6bdd87d05683f76b9122c93757d77d72c5cb0ea472f39c4b2dd
+seen_reason:processed_not_published
+url:https://dw.com/ru/наводнение-в-непале-53-украинца-и-4-россиянина-считаются-пропавшими-без-вести/a-78517927?maca=rus-rss-ru-all-1126-rdf
+title:наводнение в непале 53 украинца и 4 россиянина считаются пропавшими без вести
+seen_urlhash:58cad20cb771bc667b1b1c150d7efc23c557db9392633a759ee77fd6f109c96c
+seen_titlehash:208e1d24a22ae2207d98950afaeed2830256b5a17da0dd046e2bbb8916aa829b
+seen_reason:processed_not_published
+url:https://ft.com/content/892c0626-0268-4049-8b24-49e7fd839283?syn-25a6b1a6=1
+title:activist fund targets samsung in south korea s first test of shareholder rights rules
+seen_urlhash:58e51fce901a2c1c2d4beec40ecaa635c9541f6bd136d0ca8c9c0165a3637e88
+seen_titlehash:5ee325e522d74850b863be961acdc18ee02187c2cd7ddebdc8adbdf3fbfcb971
+seen_reason:processed_not_published
+url:https://ft.com/content/fba48322-ea6e-4905-ae68-1d57209129ac?syn-25a6b1a6=1
+title:lisa cook says trump has no grounds to fire her over inadvertent mortgage paperwork
+seen_urlhash:b7fc4d056aae68bd7f6f8fb438e961ed0c83298fa868e940bac8ab8a6f106510
+seen_titlehash:90205296af9becc38e4cb535ec062804386765e5f827fead6e14028a7b0fcec3
+seen_reason:processed_not_published
+url:https://ft.com/content/14a302c1-0bf0-41d9-a502-3df169c0db42?syn-25a6b1a6=1
+title:dating delinquents and the power of second chances
+seen_urlhash:d0907d2670a229b5a87808d66639b518cf9a31ed68d47298c44467deff0a41bb
+seen_titlehash:39d50ca835a037d06842c52c7a9684438f0366133861c8628e0bca0b8a338dc8
+seen_reason:processed_not_published
+url:https://ft.com/content/d29976d8-ee70-4217-bfbd-0847f0bf0dde?syn-25a6b1a6=1
+title:nearly half of young britons wrongly think ai financial advice is regulated
+seen_urlhash:3fa8f3b4fda43ea174f3c973e4f288f624614c97466c7121bce659110304f90d
+seen_titlehash:9f25688ee40fb09bc525a0f4ecd877b155fca917cc48ca1f91c73f8674024dfb
+seen_reason:processed_not_published
+url:https://ft.com/content/f677daaa-2291-4e29-ba74-ccd7f5af52bb?syn-25a6b1a6=1
+title:london homebuyers need an extra 35 500 in deposit to make up for mortgage rate rises
+seen_urlhash:66db317e583848b28bb5d70098695cab59797efd201cad142329f9875832b879
+seen_titlehash:3d6dff1ec5592071b49c69b674b0aef1516ea64cf82fd0859172fcf098ed2151
+seen_reason:processed_not_published
+url:https://ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1
+title:anthropic agrees 45bn ai data centre deal with uk start up nscale
+seen_urlhash:e7dd06109592a8b053880a29943b1a7753a6f98e808c301187ca96dfc7b25f11
+seen_titlehash:1c7cd2c1c51658a04066b4ac178288ed0ec4dd836e115f418f4ad298599809f3
+seen_reason:processed_not_published
+url:https://ft.com/content/615a1b65-3949-4297-a87a-e0d23fbfcecf?syn-25a6b1a6=1
+title:we got attacked canadians unite in fury against trump s latest tariff salvo
