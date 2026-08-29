@@ -74488,3 +74488,53 @@ seen_titlehash:595c6f95d09095ff2fcbbbe53ea8011c918e4c5c8afdf48cf03ad9bc0d1ecc48
 seen_reason:processed_not_published
 url:https://ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1
 title:warsh charts a forward looking path for the fed at jackson hole
+seen_urlhash:7be78b1c2ca5ff3062c70e9318832089978fb54890575018a21135c22d6ec5a1
+seen_titlehash:aaed3d74ca816ec63482233e78d098452f4b57be49b0f20177f323400daad330
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/29/world/africa/niger-special-forces-attack.html
+title:soldiers in niger attack presidential palace and airport shaking junta
+seen_urlhash:695601aa5c0cb64da161b4e097a5d36537baaa8b934fb12f672d6ceb1bc5c03f
+seen_titlehash:3a69deb2d9e8614d267da6c47cbf5712889162b6a343ae51d1ac0813831cf6b8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html
+title:israeli settlers attack palestinians drawing sharp rebukes
+seen_urlhash:440ffa7ee3ba0b96bba1361bfe3b6f214c2ff3324196fa8ea105f41b2548101b
+seen_titlehash:29fc0fbbda19828960586b8869e01212e27472328232f0914a6ee78ded793d43
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb
+title:news live missing australian woman found safe in nepal flooding
+seen_urlhash:2f0f1ae995ce70e875580fe8970c414a1cddd1442aa2fb62e9159fbd289f3029
+seen_titlehash:61fa00107f125ea4bbebd26974db614bf8645b8a2a080d248014d9ce1cbb5ea2
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia
+title:one nation claims victory in secret harbour byelection in western australia
+seen_urlhash:b103a2f35f2689cdad15d72ed29ea1b57ba535e36d4cc39eb0e876561f0c84a2
+seen_titlehash:b9af74c6c0220e3ba815bbd1b05d459d018c2f1ec64ffd89352813d2448c4b07
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss
+title:voting closes in iceland s knife edge eu referendum
+seen_urlhash:847305149dcad37bdfa91495ef427e7ee45b51b4f0c9e464b64a63af698cb627
+seen_titlehash:3c70c834a7e3c60ddd78b5556247588f79f67727fed7c86f881cf79ba73e0af3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss
+title:ukrainian nuclear power plant without external power for over a week
+seen_urlhash:05836ed29a6b40d1338351e52a337f3efcb4eb5118358ce9fe0d325e223f652d
+seen_titlehash:edddb824625f88ca3498b3e59a116ba5f9aec4449648f113cdb1529a6b6f5ca6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss
+title:ontario s doug ford prods trump with sign rejecting lake america name
+seen_urlhash:df266b54bc48b89bccd17a428a148a9b78d17f78001b656a5008aa0e4dcac0bd
+seen_titlehash:ee01ba29de0818877852c23150984eca5021bb044789ae2d125623dca65e1b6b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss
+title:what s behind the us deal to seize control of venezuelan oil reserves
+seen_urlhash:17c315afd5b11f69d3f3f9338da21828afbaedbf36a98347e57f9ab21aa2a030
+seen_titlehash:e4bd4b35ddd1427956f268352bb1775e954ea146f1695539f64aa9ed4f50694b
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-финляндии-не-верит-в-намерение-россии-напасть-на-нато/a-78560338?maca=rus-rss-ru-all-1126-rdf
+title:президент финляндии не верит в намерение россии напасть на нато
+seen_urlhash:2ceab0edd37294dfd539d1ed64eddfb8f7a021d74270de6dfd1233620972427d
+seen_titlehash:a3595e4379e835b371c5689d1382db6f52cdc00b2473bfbc9f83c2f1ab17e2dd
+seen_reason:processed_not_published
+url:https://dw.com/ru/спецслужба-из-за-угрозы-сын-нетаньяху-вернулся-в-израиль-из-сша/a-78560161?maca=rus-rss-ru-all-1126-rdf
+title:спецслужба из за угрозы сын нетаньяху вернулся в израиль из сша
