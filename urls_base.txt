@@ -74613,3 +74613,363 @@ seen_titlehash:b9311a93c54f2a76d8c8e9d0c2ced9584e1aa86ca52c3b36d161d718c2042d83
 seen_reason:processed_not_published
 url:https://ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1
 title:us oil deal denounced by both sides of venezuelan politics
+seen_urlhash:cd5f4491727fc10fc8ede5298ec54002798d62499d430392266103489d0a289e
+seen_titlehash:73986d25182d24bb52e1921f955f4f442c584560d6358426081723abce50a449
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss
+title:manhunt after woman 22 killed and five injured in swiss shooting
+seen_urlhash:0458e2211d67c6f9bcc7853e8b63555e7ca4794b44dc9a944b6759d3139ebe67
+seen_titlehash:e8d79ed6b2f76ebd9d15f442abaf7eb8f961438048d5a5d261be1a4eeff6d5f5
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss
+title:iceland on track to reject eu referendum as counting nears end
+seen_urlhash:8c3529e8a06ac6fb9d9f472b11d44d4093479c527560c6b21fd43ff65a2c0266
+seen_titlehash:2c70258c7b1afc01f4fe47af5451bf53e29eaeb20e2acdee63884cfb920f1967
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss
+title:whatsapp chat used to send cash for crime and extremism
+seen_urlhash:eaab854f4e23b46542f8f6f72690d68ca40a97c2949e12fc2198c54a72139070
+seen_titlehash:355579bd81da3221e3c1a262f4d388ce655ba07aa3d83a53078c536848b05cec
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html
+title:china says 261 foreigners from 23 countries are missing in tibet flood
+seen_urlhash:bfc39faba5144c1a90c74f7e49c07540bc0739f13840de44d6588532c14e006c
+seen_titlehash:b73fe38a10c0d28d2dde5e9654a534f90a4eb127e7b9c1456d3e98b88e913061
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html
+title:the people of hirosaki japan try to move a castle by hand
+seen_urlhash:ecad2d482daaaf289c01b9d448d3508727c184dcd61b38364f8b143d3060a812
+seen_titlehash:dc8c259c0f8681b1b08c3d637fd8464df7ab3b89f4d80dbbe589de99e0601647
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/americas/cuba-expedia-lawsuit.html
+title:expedia faces off with cuban families over land seized decades ago
+seen_urlhash:ffd809897d54499a82e860fa7acc7e5bf7874f4828a0d5964bcc2df6e7ae0fab
+seen_titlehash:ff63f726387d509294bfa6c303c3fbaac99ae50a8bd68d1ce2b3cb7d63a28519
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/travel/scotland-summer-resort-gleneagles.html
+title:in scotland luxury hotel gleneagles offers a posh summer camp for grown ups
+seen_urlhash:a7d40ea320018e797bde46a5676327a7eff375611d4679e62a27625988ec8262
+seen_titlehash:79453fdb3a089fab9c685f39d0babc612a5d7a2cfb926262f0e0d93b3be83b72
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/europe/spain-late-dinner-time.html
+title:the 10 p m dinner is a spanish tradition are people giving it up
+seen_urlhash:5a7983d33221af04fba2f53c05325119236cbaade3b401f41a68d66c6380f677
+seen_titlehash:f7af48cfb9518bf2b65a2222f21caec1399967f914f640621d0802b176ab42ec
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/asia/100000011120032/nepal-flood-survivors-return-to-devastated-towns.html
+title:nepal flood survivors return to devastated towns
+seen_urlhash:2efc6de5a8a6552a1360294c3db618c7ea27b0e3f964a36f3d80fa21ede89026
+seen_titlehash:a5fa19bb5e8467a88df1cd8eced0d5b8cc3fe01ba5054c9fa572536dc8a9b4e5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid
+title:humanitarian crisis worsening in refuge for civilians fleeing sudan s civil war
+seen_urlhash:587eb8d28e28e8da5c8f431dde75a589e8a339d073d29f31890df4211b2250d5
+seen_titlehash:906f170831b24dd31c544c0edaf5c03716cf08a3778d8f7ebd259798c85e29c2
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/30/pacific-islands-forum-meeting-in-turmoil-after-several-leaders-pull-out-of-palau-summit
+title:pacific islands forum meeting in turmoil after several leaders pull out of palau summit
+seen_urlhash:743ecbe0bc7c7b877c4d507919380f3952bc60ec8e27d4165663a30f3f3485a0
+seen_titlehash:bc4a2e026633e0d137e8c8aa5e34521c9289610b29653ce669509964f5f46767
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/aug/30/renee-gyirong-port-flood-nepal-family-australia-help-search
+title:renee was at gyirong port minutes before flood struck now her family want to travel from australia to help search
+seen_urlhash:e0193a445790fd5c9fad0cd85f9c0f5c47c1fbdc1c2a6b369d7883860e502c5d
+seen_titlehash:2966d5baefd511686081719da87ce3f43ac3eacbac08bfaeb7628da346c9336a
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/aug/30/one-nations-secret-harbour-byelection-win-shows-labor-is-at-a-loss-when-it-comes-to-calming-angry-voters
+title:one nation s secret harbour byelection win shows labor is at a loss when it comes to calming angry voters analysis
+seen_urlhash:c38eb1a348a0f0b7ba2d8d7e9cb45117cdf5661894f344c0eb05ecf3b67aef9a
+seen_titlehash:f86668e5ebd3f031845320b220962c222c0c26b98f9d8a4f0b75fbbf06e577fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/pogacar-to-have-surgery-on-broken-collarbone-after-horrific-vuelta-crash?traffic_source=rss
+title:pogacar to have surgery on broken collarbone after horrific vuelta crash
+seen_urlhash:db8049b2fa0408002dd2606a851a0d5e87de22ab6f602f123db0d8c45cb2b55b
+seen_titlehash:6343fa444769020019454a723d6bf3247e03a4e8018825c15233c65d97bfbb64
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss
+title:one person killed five wounded in shooting at rave in switzerland
+seen_urlhash:4c398fb6ed5620b01c00f243d35c32dd1824d0fabffd979b9fca3787a632dbcb
+seen_titlehash:b7e6af1035138f3eb4dda24eac821627081f26540be75c3189b3ce087162b3ab
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss
+title:iceland rejects eu accession talks plan in referendum
+seen_urlhash:704b998d45d27806a8fd485f67880f2947a8c4363438f173c9bf124d56ccc53a
+seen_titlehash:42b2e4c2cfb09794af45cfdbd9d2f1e234d236a6026e06e556136a79b78eab97
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss
+title:the toxic waste of the gaza war has reached israel
+seen_urlhash:9abce1c640b1ab00857c9dafd355b468f3c7b71e37d6e596dc4545480c431974
+seen_titlehash:31bd4e80f4fe00ce6be20dd9f5b2e966c816adb035ec57a5e7eef6f2588c16a9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/nepal-rescuers-drill-into-tunnels-in-bid-to-reach-trapped-workers?traffic_source=rss
+title:nepal rescuers drill into tunnels in bid to reach trapped workers
+seen_urlhash:8a0beb6d0384a4ab49995af4898003ce9c1e7a963e94a72b4411057ac8d6c1b0
+seen_titlehash:e289694a6df02e547733e6981b04f4105de0aea261c0b7cb606e5ee02408b240
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss
+title:ethiopia s gobena kenya s olympic champion jepchirchir win sydney marathon
+seen_urlhash:8d5a630a73e189d3d5f0e8c564f935947dd2b4fc80b5ab04936fcceb954b3433
+seen_titlehash:fcc4f351a1e8db244586defa02548ec8f8beca6757c8e44f2b07e6f1330bd726
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/messi-scores-four-goals-inspires-inter-miami-to-7-1-win-over-montreal?traffic_source=rss
+title:messi scores four goals inspires inter miami to 7 1 win over montreal
+seen_urlhash:e0f82c5c3d23f6c4eeeb2ec2c55c42498be5f44da96cd2b06e5be6f91a432034
+seen_titlehash:75835ad1c6627b2da7b4c94157d38aeb4eae600dcc10398b30306be0a7a36587
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss
+title:hrgovic wins ibf world heavyweight boxing title as itauma hospitalised
+seen_urlhash:dfc6957a86ff8aadca29ce456727d08f98586a25452e268175f6e08ffd09722a
+seen_titlehash:e946d7d28aaba2bd00a1c4bff90216ada92d3c6cace9503450bddd4a76b3d2d5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss
+title:mapping iran war s strikes on gulf energy and what comes next for oil
+seen_urlhash:41112d7665d525e57d4897aad0398cd996e7a594b23c8f44fad94ad7e307769a
+seen_titlehash:32b55f72158c01343909ab18d9c4c715cbec6f96fa3695715c37a136d2758ed7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss
+title:us police officer pulls hair throws punches during arrest in arkansas
+seen_urlhash:b07315d5439b678d144cd9ee6ba1ad969060d5f01478fdb7a2058daf1fb03c92
+seen_titlehash:c3d58891ac4d2f3709c59ef212aa7490743ba81661de9d061b75c06c85a94232
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss
+title:protests as india s hindu nationalists take centre stage in new york
+seen_urlhash:7ec4e988896488fe2a2b60efeb2647d9604a798a826a7aad3f83350b86d8cc0b
+seen_titlehash:ddc1c357d58b8eb3c424a84c56f19599a74fa5c6533df9cb051d3c6e637a79ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss
+title:air raids conscripts and china how myanmar s military is regaining ground
+seen_urlhash:ca95218518868cddfdbd46f5bbce20339fe31f45a936aeba18c300acc1dbdc23
+seen_titlehash:e2ca3ae81d0469fb27c19245484d82d298dd7aa57367e3887a90e57658b03931
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss
+title:sudanese repair roads by hand in darfur to improve emergency access
+seen_urlhash:c45bd629cc9598da7c97d95cd0858ae0dd414b4ec629e12d84e7f95948b03f95
+seen_titlehash:ab3a3d1d21b220f795526bee33ef30aadb731c00233a79fd64555b3da5c986a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss
+title:venezuela says it retains sovereignty following us oil deal
+seen_urlhash:01f7ba2087d53cba355805bbb228977c53b9d9f9332d5dc895225f6a0feb0e17
+seen_titlehash:a886a1365c79770498a27cb5437b24cd5c941ed1d215c5729bedd18da62ed806
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss
+title:us deports relative of afghans who aided military to africa
+seen_urlhash:5040aa79f6775a9019dc1e37d747602514234545695f53e7e724d5ea68b2e135
+seen_titlehash:7462aa8b6bc6abcbbb6b08a083a8a0a62dc7948821c6e1ceeba3efef97f4234b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/iceland-rejects-government-proposal-to-resume-eu-membership-talks-13578939
+title:iceland rejects government proposal to resume eu membership talks
+seen_urlhash:d35a3cafb899610ad8efa3cd7b87a5d1f2d63937575a0a10b393e17fd1378b9d
+seen_titlehash:db535a453585678ea91dd2339bf7564fe544b43d40c30c5d2a60a5f41888fa4c
+seen_reason:processed_not_published
+url:https://news.sky.com/story/manhunt-under-way-after-deadly-shooting-at-rave-in-switzerland-13578925
+title:manhunt under way after deadly shooting at rave in switzerland
+seen_urlhash:c2250a4f83be87c5355302843be62f916c4b777108f1a65599d8be149a30d26b
+seen_titlehash:9d8df9b95141b7e57e0c72a2dad8ccc82f40d270e741fc8a84f183a1fc7acff9
+seen_reason:processed_not_published
+url:https://france24.com/en/niger-junta-says-back-in-control-after-mutiny
+title:niger junta says back in control after mutiny
+seen_urlhash:f205dc7b5adf34cc34740fe68e715c976d4b2eb65a17c66bd5e49b20641b69e6
+seen_titlehash:293e800748a51636a79cc97561e031022ad6910d7625b94d303ea9e6f4bcec23
+seen_reason:processed_not_published
+url:https://france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china
+title:death toll rises as 3 000 remain missing in nepal china
+seen_urlhash:85813c44708eac1e20fee17a9ae24becd30fa846144d08fb5e201ff8ada3200c
+seen_titlehash:52136b1a6fa018d289dfb541521a61d06a05e826e96743a36528131c829fc9cd
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland
+title:at least one dead five injured in shooting at rave in switzerland
+seen_urlhash:2aad29cebd9fb85d3d81650572271803c39237fbdbd865b76ea5396a92969aca
+seen_titlehash:8b3280a00dc4e81d67b91e3246611ebdf9ed3fbab986d78ff16421376d1a0d73
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence
+title:putin xi set for central asia summit as russia china seek to counter western influence
+seen_urlhash:c5a87046da4253986ac4cf66d780f95ab24bfedf8f082dcb17987b7f4ffe8664
+seen_titlehash:89b10ba21536a78ee3cc08aa2c353377a8d11dcef47c8809a0c292691116d2c0
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260830-nasa-set-to-launch-roman-telescope-to-map-the-universe
+title:nasa set to launch roman telescope to provide a new atlas of the universe
+seen_urlhash:6938b38d83a38b8538bdd6e4f45cff0b031a7410464b35615ed2561428fa4d2d
+seen_titlehash:3bbcbebb2f88512e24ee98c559fdda482083ba136a3c3e0254d5952aa394c405
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises
+title:nepal tibet floods live at least 750 dead as rising water levels hamper rescue efforts
+seen_urlhash:843cf46cab6ddaaa29e9135114ed84fc39f5603966233cb786496c106525d6f7
+seen_titlehash:4fb7cf34d699ed0236e0423dbf7fbe6d01954ddb2e08423cc8d538fee326d08a
+seen_reason:processed_not_published
+url:https://dw.com/ru/жители-исландии-проголосовали-против-сближения-с-евросоюзом/a-78560582?maca=rus-rss-ru-all-1126-rdf
+title:жители исландии проголосовали против сближения с евросоюзом
+seen_urlhash:85e6d5bcdfc6dffa4c4ba1c7451b07e96303b77abd016138c82f8210a505f9b3
+seen_titlehash:78ec2840c12551eee416d9f646ca4dcc5616b1a9289999d2f47f34ee0fbf9644
+seen_reason:processed_not_published
+url:https://dw.com/ru/ким-чен-ын-сменил-министра-обороны-кндр/a-78562208?maca=rus-rss-ru-all-1126-rdf
+title:ким чен ын сменил министра обороны кндр
+seen_urlhash:3622d309d964c43755da10b7e447680bc5b940b85f249f55b32564a26d39af52
+seen_titlehash:343a9042d906a79e02b876f6f640ca13ad47e7c5589275444fc464d0ee2dc389
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-швейцарии-при-стрельбе-на-вечернике-погиб-человек-пятеро-ранены/a-78562019?maca=rus-rss-ru-all-1126-rdf
+title:в швейцарии при стрельбе на вечернике погиб человек пятеро ранены
+seen_urlhash:39f5857bfb488fe877fa71df21e600732c031b173fdf308f82839617de15492f
+seen_titlehash:821c77b18a24eb1ccf8ec5d3b946a90b0f3213f61847bcb8e8af293bd1872393
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-ленобласти-после-атаки-бпла-загорелась-промзона-в-районе-крупного-нпз/a-78561624?maca=rus-rss-ru-all-1126-rdf
+title:в ленобласти после атаки бпла загорелась промзона в районе крупного нпз
+seen_urlhash:2b634f4a10436b18885805e4a7f47baede3d13abe2aca9380997e7f3d1f6d828
+seen_titlehash:10f7ade6d5329b3e4db2ef14c1cf2e4567b2a00bcf752fd29028836bb8cf21e5
+seen_reason:processed_not_published
+url:https://dw.com/ru/крупнейшие-озера-под-угрозой-исчезновения-можно-ли-еще-их-спасти/a-78544699?maca=rus-rss-ru-all-1126-rdf
+title:крупнейшие озера под угрозой исчезновения можно ли еще их спасти
+seen_urlhash:8e563affa2a7385d26e8e6ba2ed930d5154b4914662986a8e1b57d44e895d605
+seen_titlehash:6384f9e32a7e0bd5aae7b15e4925554fe5780dc0b64d739d76ce81abb5082d0e
+seen_reason:processed_not_published
+url:https://dw.com/ru/axios-глава-цру-во-время-визита-в-москву-предложил-трехсторонний-саммит/a-78561104?maca=rus-rss-ru-all-1126-rdf
+title:axios глава цру во время визита в москву предложил трехсторонний саммит
+seen_urlhash:04f96d1c2970e274aa420b6c19b7eb3ca8f8b08feea03e4ea55d65681cbe89c9
+seen_titlehash:e1b50dcf7b2ef62add8ccb37150374ab29273d96685f6cb54cb28bd0409064c8
+seen_reason:processed_not_published
+url:https://dw.com/ru/25-лет-шос-расширение-усилило-старые-противоречия/a-78550794?maca=rus-rss-ru-all-1126-rdf
+title:25 лет шос расширение усилило старые противоречия
+seen_urlhash:29525e75abdc110cda7b3f4a3d964ab59b8713ebfbd4bf94b4530780a9530c69
+seen_titlehash:0999583e02be96a67fb13e329c9aff9c94ce47325d5e271133c5d1fc4f0e3171
+seen_reason:processed_not_published
+url:https://dw.com/ru/ангела-меркель-призвала-сограждан-бороться-за-демократию/a-78560733?maca=rus-rss-ru-all-1126-rdf
+title:ангела меркель призвала сограждан бороться за демократию
+seen_urlhash:faf4f2029e11099f5538697f6f898c8fccaad454c8dc0c7a1c028df070437709
+seen_titlehash:1666acc7f73316ffa9fe32f3e45014f05887f6f35bea905058ba534b7a31943c
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/30/nepal-warns-of-more-possible-floods-as-communities-struggle-to-cope-with-devastation
+title:непал предупреждает о новых возможных наводнениях пострадавшие регионы борются с разрухой
+seen_urlhash:329851bc768d1aed1e749dbb388dcbd07a2a8960fff85de7b85f3b5b12b4e2f3
+seen_titlehash:a7f77e90135f7460e1411dbb298613c6c642b4fd2a0ba9d2424ad6590f82ab4e
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/30/judo-lausanne-grand-slam-day-two
+title:большой шлем в лозанне исторический день для швейцарского дзюдо
+seen_urlhash:a543c09bb089e091a79391de3749901e17c574c661d578f78ad1c99665bbcbda
+seen_titlehash:e0477450d1056b960a668c832e377e8c6b53267191a2c58562a13b3c5b8df6c9
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/evroskeptiki-pobezhdayut-na-referendume-v-islandii
+title:сначала да теперь нет евроскептики побеждают на референдуме в исландии
+seen_urlhash:7c5e4fc239f058735bf95991913bdc656a7d8a6e0e55dceb19bfdff21082f4e0
+seen_titlehash:df913ceacfbd986047986dfbc6008ceea866099d1fde9a254cef9b9e39a74037
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/strelba-na-rejve-v-shvejcarii-kak-minimum-odin-pogibshij-pyat-ranenyh
+title:стрельба на рейве в швейцарии как минимум один погибший пять раненых
+seen_urlhash:a53ee5f269a5a46d1bf022ebe0af4bba979600f05f919d9c7cc68f6c4d182031
+seen_titlehash:b99152469f16fe1d6ed365c2872ec0359ae145e7739ec05970bd4adbb731d897
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/08/30/which-cities-are-the-most-expensive-to-buy-an-apartment-in-europe
+title:самые дорогие города европы для покупки квартиры
+seen_urlhash:bc9564937f13012df1af80bb0686957ea9dda651cf50631d30ea5350d307ec8d
+seen_titlehash:685ea91f5257a241da1004be153e3bf0a74fc0c54c6cc0863dc53337f727fd37
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/30/novosti-dnya-30-avgusta-2026-g-utrennij-vypusk
+title:новости дня 30 августа 2026 г утренний выпуск
+seen_urlhash:f9d640fe939f9fa52848cbb9ba1e19a92ed8f76da21cf6263810f5f9884077ca
+seen_titlehash:9150345e67dac3781d6ede767f9b7950ae8c3b3b30716354162b91e0632d58d3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/08/30/europes-scorching-summer-has-charged-the-mediterranean-sea-what-weather-will-september-bri
+title:жаркое лето зарядило средиземное море какую погоду принесёт сентябрь
+seen_urlhash:ad8b3fb46f99781a695f49d02f3f578771caa3178443bace8752603fe84cc9ce
+seen_titlehash:c6260e08e35e0b2b272d726449701a89ffeae4a893efd93029ff1f9fa60cad03
+seen_reason:processed_not_published
+url:http://ru.euronews.com/travel/2026/08/30/events-in-qatar-worth-travelling-for-whats-coming-up-in-winter-2026-2027
+title:ради каких событий в катаре стоит ехать в 2026 2027 годах
+seen_urlhash:577e8cbe2458c738ada1f438b640da5b06c8db3aa7a99e57307cc67d9236bce9
+seen_titlehash:9b0a1367f3f4190a1386517994d0a3a865cfbf4033cb0306902d9ef2ba976a11
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/politico-i-welt-germaniya-obvinit-rossiyu-v-popytke-diversii-v-aeroportu-leyptsiga-i-vvedet-sanktsii
+title:politico и welt германия обвинит россию в попытке диверсии в аэропорту лейпцига и введет санкции
+seen_urlhash:fa10d77fd078030f2c30a1913155b5599ad3faeef2f8952faec61f901cfb36c2
+seen_titlehash:ec4460932897f5c3029b3d0166c6569714d1cc0d288ef154f1f52b29058ee0c9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/minoborony-rf-ob-yavilo-o-nachale-podgotovki-k-massirovannym-udaram-po-ob-ektam-energetiki-ukrainy
+title:минобороны рф объявило о начале подготовки к массированным ударам по объектам энергетики украины
+seen_urlhash:dc98c7a5ca279c1709f0d040badb22485b8853a4afcd803be94e934bd3ba8aae
+seen_titlehash:7c7a489eeb5fd9a4787a501ae5d58b95089723e34b9c1de5659a400e3ddf5e00
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/30/chto-ob-edinyaet-zhiteley-rossii-latvii-i-germanii-nenavist-k-ispanskim-sliznyam
+title:что объединяет жителей россии латвии и германии ненависть к испанским слизням рассказываем откуда на самом деле эти вредители не из испании и как с ними бороться
+seen_urlhash:57d22850c92cceb16c00e9101f577ffaf8c793258d64a49141b17a58a07da27a
+seen_titlehash:2bf109a8ca6ba4814500face2ac43f296f904e644913067d627d77e0a74ba947
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/axios-direktor-tsru-vo-vremya-vizita-v-moskvu-predlozhil-provesti-vstrechu-trampa-putina-i-zelenskogo
+title:axios директор цру во время визита в москву предложил провести встречу трампа путина и зеленского
+seen_urlhash:f58281e2f1f0f8a1648b0fc8441cf5d64c53cef9559f86a6b711ccb5f394906a
+seen_titlehash:a7931f7612d944d745a6885c3531a0feb319a3f735e9ee6d04feff3d7a2f7d76
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/pochti-500-bespilotnikov-sbili-nad-regionami-rossii-i-krymom-ukrainskie-telegram-kanaly-pishut-o-pozhare-na-npz-v-leningradskoy-oblasti-krupneyshem-v-evropeyskoy-chasti-rf
+title:почти 500 беспилотников сбили над регионами россии и крымом украинские телеграм каналы пишут о пожаре на нпз в ленинградской области
+seen_urlhash:b99278c0c197263ebfcea4eead690c49265f46865cb27194e50497e520565ab3
+seen_titlehash:421fcaedb2b392f0a19966f42a4ce1536bace693d711f76f2f4efbe2ed9a4a5b
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/30/rossiya-aktivno-ispolzuet-tadzhikistan-dlya-obhoda-zapadnyh-sanktsiy-tot-v-otvet-ne-poluchaet-pochti-nichego
+title:россия активно использует таджикистан для обхода западных санкций тот в ответ не получает почти ничего почему душанбе не может полностью разорвать связи с москвой и найти более отзывчивых партнеров
+seen_urlhash:0a25066520c0376e83e06171048cd8a3488df7b3fa7d0ae1a8ad18a31e880bd9
+seen_titlehash:7176d31c5eee1d5b3123d8e47d26081de229c43a76567fb17874248c9b307138
+seen_reason:processed_not_published
+url:https://ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1
+title:iceland rejects reopening talks on eu entry
+seen_urlhash:26f8efefbb0f398684e3655c7a47503c4ffc170f5721dc4cc4a05eb4a048823b
+seen_titlehash:37456c79b5500b2f211ec229b48f4317e6aa442b60cb675a4b65231a0a29b7d1
+seen_reason:processed_not_published
+url:https://ft.com/content/5579f0e8-c19c-46ad-8272-f7678bf3a6b9?syn-25a6b1a6=1
+title:ceo of india s largest private bank to step down
+seen_urlhash:ab30092817e02b8c2ee4cf450edc027412caa8cc9487cc9591b16dfc7298132a
+seen_titlehash:709d5b8bd2a12a310602cf71abd5a5b2f663b144e9a12e4b4fe1939a0583f2e5
+seen_reason:processed_not_published
+url:https://ft.com/content/407f90ed-fe14-4ed5-bfa8-50696b126c46?syn-25a6b1a6=1
+title:nicotine pouch sales jump in uk as companies step up marketing
+seen_urlhash:91e3d5e768c4b71add7d83a46ac993288e2edab15df9a16f6c0f777261f3773f
+seen_titlehash:03775849d2e11dfcb07e1cc4853db196478da67bdc62a1202b35bc8cfc6c1d4b
+seen_reason:processed_not_published
+url:https://ft.com/content/43718673-5c3f-46cc-a459-b0334e80aeb2?syn-25a6b1a6=1
+title:burnham s summer of quietly backing away from radical pledges
+seen_urlhash:26d399ffe9db7f2a319941386e72098e257927601ff29fc1b429cd630dad1d4c
+seen_titlehash:f523dafbe1a8395b4320ebea72e06da6e540a68dfd03b94f3650c98c488593cf
+seen_reason:processed_not_published
+url:https://ft.com/content/e29502c0-50a9-4f77-ac87-4ba46d1ba98c?syn-25a6b1a6=1
+title:one fix for uk plc s underperformance equity for all
+seen_urlhash:7b5f02bd0f62120b6fd5a71869c5b7c9e8fd80809b4179c504a07a751b7872bc
+seen_titlehash:e6607a2a79ef2ff5dee5680c72d9ee2befd8f170e7093f877bd0df2849186cce
+seen_reason:processed_not_published
+url:https://ft.com/content/ba323075-bf96-4acf-af32-1e5967be0590?syn-25a6b1a6=1
+title:summer might be ending but we can hold on to some of its magic
+seen_urlhash:54f10601a3ade8da8fd4c540c298bac35174b787f0ab2729086aba548a86a5ec
+seen_titlehash:33369cc4604af8e58c4af32a0ef2b42c0969b2bbcb489ee193b02b8e0cf00a0c
+seen_reason:processed_not_published
+url:https://ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1
+title:rising bond yields add tens of billions to g7 countries debt costs
+seen_urlhash:639658012cb9a27f818870e999f8426f8d0bcfaaa4c0a749673492626853a53f
+seen_titlehash:fd834b2e224c7cfebe52e75b7963b9512b8133ae5631acae153ae06c2975a555
+seen_reason:processed_not_published
+url:https://ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1
+title:eu to help tourism hotspots crack down on airbnb style holiday rentals
+seen_urlhash:2236294629611368dc68e2ddd01db31157eb78700bf6e13442d6dacd99415845
+seen_titlehash:be04f47928e6a03ffc3a69ecfe2ac52bbd94be6ced31162f6005337122dc69cd
+seen_reason:processed_not_published
+url:https://ft.com/content/38abcff2-241c-4bc1-83a1-8cc135dcaa90?syn-25a6b1a6=1
+title:the companies desperate to hire graduates
+seen_urlhash:39e649bd8a990bd66fec71f101ff945fb1a628303ab669bf75f5fee3491f8647
+seen_titlehash:223e05bb68558c1e00cae5277ad74d006c8120174f88cb747f4bd6110657df16
+seen_reason:processed_not_published
+url:https://ft.com/content/16a76475-cb9d-4fa5-acb2-cf353d85b7ca?syn-25a6b1a6=1
+title:the gazan amputees turning to football
+seen_urlhash:7fe1b285da75a202310a72214df056795bc1a0b7d081e230e30e1b84815c0de9
+seen_titlehash:7c63c0e3f23ec42df86bc4aca8f997f8ebdf8b49af3a2f642922d18bb18b589d
+seen_reason:processed_not_published
+url:https://ft.com/content/a1bfac83-5310-4fdb-bbc7-1efb983a83a0?syn-25a6b1a6=1
+title:claridge s operator bets on us and uk visitors to offset middle east
+seen_urlhash:e0b613f024bfea6de2cce515991656a2a940a02f0c6386f3ba91da0f0edb91a1
+seen_titlehash:d8ed7d595ef522d100664d8c5fb645408deff847a8a3d97b993483d7a40707a1
+seen_reason:processed_not_published
+url:https://ft.com/content/0a5e4343-2a91-4e76-affd-b6b369249658?syn-25a6b1a6=1
+title:the dutch city where europe s electricity grid crunch hits home
+seen_urlhash:a994d18b3a6b4f0322bbb19e335ffc9d67465378c1b5d61e20f55e90c628bf0f
+seen_titlehash:76e41ffc516d51055abbb81a8c39fe6ffa62462407c323cbce5e8452b0e26ca8
+seen_reason:processed_not_published
+url:https://ft.com/content/952920f9-429d-451a-9913-a360880ead41
+title:grindr bets wealthy gay men will pay more to find the right match
+seen_urlhash:31025c10e494ebff45a2e23d00cd773007c46f8e87aa398ec9a46ebace22bad2
+seen_titlehash:ef3b055396a9dacf546f9d1e9b0e8d95ba267aac9bca370652038d9e617492da
+seen_reason:processed_not_published
+url:https://ft.com/content/6fc083c6-1ab2-42e7-b9ff-a65406144073?syn-25a6b1a6=1
+title:the search for air india crash answers
