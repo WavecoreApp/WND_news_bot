@@ -74973,3 +74973,363 @@ seen_titlehash:ef3b055396a9dacf546f9d1e9b0e8d95ba267aac9bca370652038d9e617492da
 seen_reason:processed_not_published
 url:https://ft.com/content/6fc083c6-1ab2-42e7-b9ff-a65406144073?syn-25a6b1a6=1
 title:the search for air india crash answers
+seen_urlhash:c6556a73fe7ca624fc043924d1f7e67aa8b6c169a31073254c856a737bd491d1
+seen_titlehash:e875151f1b77ccf2cb77066f481ce5c85a1270218b182c8d4e0848b8f5982c29
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss
+title:zambian opposition leader charged with treason
+seen_urlhash:aa5888c0902c0218fc7a2582176a5771877fc155658b410deba3f47abd9658f6
+seen_titlehash:e8b19bfc3a0748f40327df3a7729bfa2a601ed39d54a0487f392399601fd40cd
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html
+title:far right is poised to win in a german state but fight over power won t end there
+seen_urlhash:c9efce21465e3d25e850fabb3de58c653492412f1a2c93e97e0610842e36ac93
+seen_titlehash:b3082cbe39fa88c8fa326ab2f58d53d6f7286c6e69aff801148e4d91adc1ebd1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html
+title:long lines for gas in iran show war and u s blockade squeezing supply
+seen_urlhash:f7092365b3bb4780a1a17fbaee62ead3c606f4e0d49fe53cd742b66dd845b6d9
+seen_titlehash:b3bc3a020ce90dd629f985baea3c8c647d6032ba7d9d30c5067fbe7186932d92
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html
+title:google maps changes lake ontario to lake america following trump s executive order
+seen_urlhash:64871c93e78588fc63c2156a644bf485890cf6c0b50c77ae1ac776b728ebba86
+seen_titlehash:d4f6dc48e8791afea9faa78cb0a84a6686bf0dfeeda665e24aade03afee2b66a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html
+title:see nepali rescue workers testing aid delivery by drone
+seen_urlhash:3ba66e602943a576dd59ed43e856d290a8504427e4612c67b4c2a080fc5221eb
+seen_titlehash:2d27fa96445688afe7cadd26c23148bf94b1e5bc834226d937faca1f232f681a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html
+title:iceland votes to steer clear of european union talks
+seen_urlhash:754b3904b04befbb3175ba877f46981e0dad8d4a373cdd26166e6e6e5d3e9bb8
+seen_titlehash:c47fb56f065f0c29cb86e98da2e7fa93fe83b3f53ae7a114b4b3dfe21fea61b2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html
+title:pilgrims to flood stricken nepal sought the divine at sacred mountain
+seen_urlhash:172d8d19969e7cf380acf07e663c71fc937420c8ddfd07f93b85caa71f630851
+seen_titlehash:fa982fed7bbfd1e686e92b6bacf2ab7f1fc013bb2b7de776a85f077b7ec9506f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html
+title:deportees sent to liberia recount harrowing details of u s expulsion and treatment by ice
+seen_urlhash:0b8324084217eee2eb71cce53355ea5f9294992a1fcd2bc5de695ce47b2bb610
+seen_titlehash:2bbb5a0cafae098fb5086347c4b8c2697977091ccad525ea04c500d6ead0d795
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss
+title:iceland votes to reject eu accession talks what happens next
+seen_urlhash:ee30d13c2085600fcef3c6b1c185d5faeaebce4d812ca2c61fdeaa627b5081af
+seen_titlehash:4ee8333516d1468eb5026eb8d7b7e5ee50209e844c3dbc29b799e3b9530ab5b3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss
+title:banque misr egypt s second largest hit by us sanctions what to know
+seen_urlhash:b4d49b96bc9a2a5e885e319911d7534acc707ebcc7531dd37bd2f0b2c04f7074
+seen_titlehash:77af7ec96d30c569c040a01f75b6fd743ec2d4e5b6714db2a47c5ec36a8e23f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss
+title:dozens of soldiers arrested after apparent coup attempt in niger s capital
+seen_urlhash:add63dc8692cfb1c910ff054d5dd43457fddac08f7577f8395f9efd5019145b2
+seen_titlehash:c2a36d130bb60219ac3a1cdfd664eb68ed7926ee32c51223c5573516c57c48c0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss
+title:niger s military led government says it contained mutiny what next
+seen_urlhash:068496ab5e7acc9e7982a4e91ad293afd79be253d89a396b1383890a00bb2de7
+seen_titlehash:4b38b2f3a05279b497347f97a52fad9a8850e4fc730b2207e51710a78ac3080f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/alvarez-returns-to-atletico-training-amid-barcelona-arsenal-transfer-links?traffic_source=rss
+title:alvarez returns to atletico training amid barcelona arsenal transfer links
+seen_urlhash:32b0a90f2f6c8ed69e5e46d2f7a7454ab2ad7dc0c2c064f7ffe93ab8964306ab
+seen_titlehash:881c13104e017afa2ec9e43fec2718d777062b6d8749fa61568ceb64363fb8dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/ben-gvir-taunts-palestinian-women-prisoners-over-prison-conditions?traffic_source=rss
+title:ben gvir taunts palestinian women prisoners over prison conditions
+seen_urlhash:7abfd1c01bf2f62809f6f3489f2d9c29e236151a4e2075a5b0db3aaa40944af3
+seen_titlehash:6f5ea87a5d8b8d7b8e88ab527fd8dcba50e5824855ed29079bcb751028dcbcb9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss
+title:palestinian mother in agony as israeli attack kills her son
+seen_urlhash:05b230e3a93d6ec1f7af800069dd48fafd2e40373dda903e86acdb1d1f8d5212
+seen_titlehash:de5b696a0d24d075bd8fa00f2e5337d0ba577407fc6cf15f28226a5516092331
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss
+title:death toll from russian strike on ukrainian arms depot rises to 38
+seen_urlhash:36e07e431583e08c091dacf702855d67d68670cbfc93068afad5bd30d1209e54
+seen_titlehash:a070c54a9a2b523c8fee056abb1bd9e0d44100478b2bd9f4240043d60700910e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss
+title:road collapses in nepal landslide four days after floods
+seen_urlhash:2a7ad88e510fbf72a5b04b8e92bc75151bb1f2f8913087214d873bb9ffc85bf8
+seen_titlehash:1f7e0b75ebc1c8a856954dba0c4d36ac1c48f8f36ee024d9f763b71d8fd5de91
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss
+title:how has life changed for iranians six months into the war
+seen_urlhash:d1b67019a79564ecc9479ef1a0ba879842f459c5b48f2d269a87aaeb70efec32
+seen_titlehash:dfcad1835955a785e26cbe64e40805942140cc5b980aa242e0146c2a23f02187
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss
+title:infantino must go by 2027 in fifa overhaul dutch football body says
+seen_urlhash:d091b8f3c927a4636992c0961572d42e5b51f6a166fdb6c96883eff0dd5be4e2
+seen_titlehash:b2c208a5a8128b6ebb9e02263574d21b4e1325a345598007a3552e9fc71791a3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/israels-ben-gvir-lauds-harsh-conditions-for-palestinian-female-prisoners?traffic_source=rss
+title:israel s ben gvir lauds harsh conditions for palestinian female prisoners
+seen_urlhash:707d709a8411c70149184ac7d5b3d59e2082f6651dec9b29824f9f84165d515b
+seen_titlehash:4478d349a3f0d516cc98ab885632717081dfef62ea520b9e907c227d3e7c47d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss
+title:at least seven dead after ferry capsizes off northern cyprus
+seen_urlhash:c02a55fe6484a8955c6d2ca5e514c58fa5db98226138c675d31a9284807469cf
+seen_titlehash:7454aa64ab1f74c338e2e14e9cbf26941204e68e3d95676819a4fb56b5dbb4bb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss
+title:six months on what did the strikes on iran achieve
+seen_urlhash:da3a5e5bf67e66c1808b5fcd7162bea092d425f96feee09b3bdae88ee6dab1d5
+seen_titlehash:ae4c8909f5f36d4079bb632b1717da499bf4850835b7165485fefaf7d701aac1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss
+title:protesters in argentina urge tech billionaire peter thiel to leave
+seen_urlhash:1599bdb64db888160716e7516e5285059385c4fb8b89dc8448fb4586002601cb
+seen_titlehash:d836c5a3baec188452dfb18eeef1b9eadc4879142e6bb70bf794274ce81de3a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss
+title:iran s khamenei calls for gulf unity as hormuz tensions persist
+seen_urlhash:cb6969fc40651611e4c20ee5632714e2f1e80664b8542b69a689241236466910
+seen_titlehash:24e23b7c4bdb0315516a8e6a12eda1d6573bf0e356d5264a61be2f5c69a104bb
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss
+title:tearful roger federer inducted into tennis hall of fame
+seen_urlhash:e7d85e3843a3f5d73b4f562a5b8c3ec8a174e980c437d7b285c1de4e3b2a06b2
+seen_titlehash:4cf60e80527d7edf3e2115aaecb9f6721b311f29af21835c2b9936fa5c3cb01d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/chelsea-sign-argentina-goalkeeper-emiliano-martinez-from-aston-villa?traffic_source=rss
+title:chelsea signs argentinian goalkeeper emiliano martinez from aston villa
+seen_urlhash:3524c6acb1cf53fbcd2943c7fec67c574944ea1cb4353ced5e275df1209508ba
+seen_titlehash:54d9a7cf145a73f4cfd453ddea1b22de60c7e9e5bf85c9864ff557df9b342052
+seen_reason:processed_not_published
+url:https://news.sky.com/story/global-football-summit-proposed-to-shape-post-infantino-fifa-before-picking-election-challenger-13578988
+title:global football summit proposed to shape post infantino fifa before picking election challenger
+seen_urlhash:b77c36aded8783f73b5943609ca037c02436c42dad50f309f3128767e6047f06
+seen_titlehash:3000130bd63b3e6beced59a6a3a0189ae5f4d64ec31f1335ce5247c85ee3ac52
+seen_reason:processed_not_published
+url:https://news.sky.com/story/two-missing-after-fishing-vessel-sinks-in-channel-13578966
+title:two missing after fishing boat sinks in channel
+seen_urlhash:7a533efed0a78630bf4da778fab186f9a8b4db8934f062027722e630434b4ed1
+seen_titlehash:d43bd721e80c8ac1f0da8e733c5b48047d5579c55ec73ad5c6a1635df4bf051e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-woman-dies-after-stabbing-at-train-station-in-germany-13578974
+title:british woman dies after stabbing at train station in germany
+seen_urlhash:8deba13a2912689bedba46665453f9997875881dd0ba07a09d8c2251b4c2db6e
+seen_titlehash:988da58246fcee39fb5990f28a08773cc345eabf89b379160024476eb3ca894b
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260830-cyprus-ferry-capsizes-with-hundreds-of-board
+title:cyprus ferry capsizes with hundreds on board
+seen_urlhash:9be505db81b5ffd708bda8558f80d2cf15bcc2d1acb325e79b6eb956953b3056
+seen_titlehash:c40846d5af8ccf5f92b419fe15f8e03fada55fdb3e919c4b24ea1c64165c4aa1
+seen_reason:processed_not_published
+url:https://france24.com/en/nepal-hopes-fade-for-thousands-still-missing
+title:nepal hopes fade for thousands still missing
+seen_urlhash:6f31c884dabdb961fba2cb40cbe98daba11d0d366df64859fcd6771df4f8e80b
+seen_titlehash:d2cb162f0fd433d4c9302c53c4c94582f8b57d4419e6a6477caa6cf7fd089ed9
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260830-norway-s-new-king-breaks-silence-after-father-s-death
+title:norway s new king breaks silence after father s death
+seen_urlhash:a1dec111dff2a8ee042b5412fa97817105813150ff287d0c73d7194dbd168cc5
+seen_titlehash:a0ebde7bac3e772d4f9c96a951349ca44e411fa8717daaa0028158e7335a9104
+seen_reason:processed_not_published
+url:https://france24.com/en/pacific-summit-opens-amid-taiwan-row
+title:pacific summit opens amid taiwan row
+seen_urlhash:c02fa239e9155688a14218108955287d7c4ba33648421b780d72403f30601b3a
+seen_titlehash:30f0adce118ef10836d2b02002509df4322f8f250c78f4be325a4ad4811ebf3c
+seen_reason:processed_not_published
+url:https://france24.com/en/ferry-carrying-more-than-260-people-capsizes-off-northern-cyprus
+title:ferry carrying more than 260 people capsizes off northern cyprus
+seen_urlhash:c9d7209bb4ff6bd935e9c2846dd6426960557f98bc15c719d9671a973d455b4b
+seen_titlehash:05095ed601aa5ec8b42f9ddf19b9b7547b5fac978ade7b87fde03538edb7acf7
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260830-ferry-carrying-more-than-250-passengers-capsizes-off-northern-cyprus
+title:rescue under way after ferry with more than 260 on board capsizes off northern cyprus
+seen_urlhash:15d5cf9a44f8f25f7ed5d6f36eaafefa31e1aabc7fbcfa49a74c29470222a62c
+seen_titlehash:c5101d8aac37047e83387baa69e4db16686f87b118f01cd0d233efb2f74d8e76
+seen_reason:processed_not_published
+url:https://france24.com/en/us-and-venezuela-seal-25-year-oil-deal
+title:us and venezuela seal 25 year oil deal
+seen_urlhash:da63d0e7502bf4f4de23ababa3299165f83f5735b0174907972a731757637391
+seen_titlehash:8c8a73bd10af868b40b0d28b9696fe68a769a48f3d2d608ac88a5538cebf2109
+seen_reason:processed_not_published
+url:https://france24.com/en/argentines-march-on-peter-thiel-s-mansion
+title:argentines march on peter thiel s mansion
+seen_urlhash:ae7902a596838b910afaa45cfe960759cb77dff529cbbf18fd91a98ebce91e3d
+seen_titlehash:78c8716ea6b050065ec7e55087e4fc09a4be1b5c77e6b1bbeff873e93a594c47
+seen_reason:processed_not_published
+url:https://france24.com/en/nepal-thousands-still-missing-as-death-toll-rises
+title:nepal thousands still missing as death toll rises
+seen_urlhash:5427adfacb3851324cfc3e1cb160f24dcc7f2a548931d03651cd1d73351eb497
+seen_titlehash:1a3668aa5808ad8e5a7bbe7634d20b409792c22401b90e44fda6aa59e62e89b1
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260830-iceland-rejects-restarting-eu-accession-talks-in-referendum
+title:iceland rejects restarting eu accession talks in referendum
+seen_urlhash:5427adfacb3851324cfc3e1cb160f24dcc7f2a548931d03651cd1d73351eb497
+seen_titlehash:1a3668aa5808ad8e5a7bbe7634d20b409792c22401b90e44fda6aa59e62e89b1
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260830-iceland-rejects-restarting-eu-accession-talks-in-referendum
+title:iceland rejects restarting eu accession talks in referendum
+seen_urlhash:eab4b4376354c50b780ed74176db188f8a6a9133aa1af8f0d7738fdcea865ccf
+seen_titlehash:ee1f729872b37fd83209420ea188d63cf6a15b455ea61c9dd47618d134ffba2e
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260830-harry-potter-versailles-turns-into-wizarding-school-for-a-day
+title:harry potter versailles turns into wizarding school for a day
+seen_urlhash:0bb3b3bf06cef0ebc08fc3efbd0ec78517b0069421b7bdd5cc06ec3d8c400c52
+seen_titlehash:91df05ed2d65d0b92ea85219871602a370481d132be9c1fb0e19f436084d0351
+seen_reason:processed_not_published
+url:https://france24.com/en/nepal-glacial-collapse-leaves-3-000-missing
+title:nepal glacial collapse leaves 3 000 missing
+seen_urlhash:1d2fd0b7790c19a7dc689db818bc1fd0e451ab36202ec16cd87280a3f2446a0b
+seen_titlehash:6616081c2d2edc486ada37caaa07854015a26346c6fe11c9cd386e082023352e
+seen_reason:processed_not_published
+url:https://france24.com/en/gunman-kills-one-at-swiss-rave-party
+title:gunman kills one at swiss rave party
+seen_urlhash:cf04edd3128f3b7cdab2b6ea0c80d3040f6c6175a8b468feb8b77fe28278189e
+seen_titlehash:e695b66a2187cdb684d2aa910d4d2bd96445b331ffdf9fdd80f53bf706cbe7e5
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20260830-vuelta-pogacar-s-terrifying-crash-serious-injuries-and-abandonment
+title:vuelta pogacar s terrifying crash serious injuries and abandonment
+seen_urlhash:75ace757cd745cb4c105b2b231d2886375047a599dae82b2c2d0ab2eb3c8fe23
+seen_titlehash:1afa5569222969f7637d4b61c0740e3ff831f1e1022566a99d923ec8e3c21127
+seen_reason:processed_not_published
+url:https://france24.com/en/french-presidential-campaign-heats-up
+title:french presidential campaign heats up
+seen_urlhash:c590dddb6298f27d42d20b9915e57c6ec34591cffa8cb7b5ec1419bde554d929
+seen_titlehash:5167ee68d388edfa2a1548434f9c6c0b3004c75ce7e9a3b1a2b30b6bb8d9c8d4
+seen_reason:processed_not_published
+url:https://france24.com/en/fridges-for-humans-during-heatwaves-in-japan
+title:fridges for humans during heatwaves in japan
+seen_urlhash:3d4faeae08acc1443539b121adbb87cbaebd57ae19aa44c13a20f47a243255c8
+seen_titlehash:28dadf63a58d17be1fd4cbc1de023b2a7e5770686575e723c2c3efb18fc912de
+seen_reason:processed_not_published
+url:https://france24.com/en/netanyahu-condemns-violence-in-west-bank
+title:netanyahu condemns violence in west bank
+seen_urlhash:90cc293662d2157099650baeafe35889b4d09a5498dd6d6ad53ba2bb6829559c
+seen_titlehash:6619da837c2ae287c0612909cbc73b98369b001257b6a277935c15e93c30f34b
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-донецке-взорван-замначальника-колонии-в-еленовке/a-78563994?maca=rus-rss-ru-all-1126-rdf
+title:в донецке взорван замначальника колонии в еленовке
+seen_urlhash:71604994152149f0f64aad208d2702581d3ba214de690a6577b2f4bc18d3b2e3
+seen_titlehash:3c2fcee6ce077a10228c8a1d4213e562f0f9edfed9842d4de60933cb04297090
+seen_reason:processed_not_published
+url:https://dw.com/ru/исследование-электроэнергия-в-фрг-самая-дорогая-из-стран-g20/a-78562513?maca=rus-rss-ru-all-1126-rdf
+title:исследование электроэнергия в фрг самая дорогая из стран g20
+seen_urlhash:baf1a28bb585132d854cb16459a7ac2694d3ff71e6c54e2f1fd4a55b6ed3d6e9
+seen_titlehash:a594754c53239bcc27669bdd222ab112a3b4af3f9628f802d3f5ae8bda423ad3
+seen_reason:processed_not_published
+url:https://dw.com/ru/число-погибших-от-наводнения-в-непале-и-китае-возросло-до-768-человек/a-78562512?maca=rus-rss-ru-all-1126-rdf
+title:число погибших от наводнения в непале и китае возросло до 768 человек
+seen_urlhash:eed292b3e4dea18e7ba633cb80d1593163bc6e3640d55c4222e16a256eefbd66
+seen_titlehash:51cb409695bdec46969764ce0d23e7fdf2c6cbc10699187fcc808d2c24fee73c
+seen_reason:processed_not_published
+url:https://dw.com/ru/взрывы-после-удара-рф-под-киевом-38-человек-погибли-20-пострадали/a-78562441?maca=rus-rss-ru-all-1126-rdf
+title:взрывы после удара рф под киевом 38 человек погибли 20 пострадали
+seen_urlhash:6c44b8f4ca8586ed0a3406955d172b99756f4bf1bdcf76328ed2ab1766dfe38d
+seen_titlehash:c15f9c33f8b335c8e54d44de67f99b09f998b5626c84824610d0bef84d4f29f6
+seen_reason:processed_not_published
+url:https://dw.com/ru/посла-украины-вызвали-в-мид-турции-из-за-атак-на-суда-в-черном-море/a-78562401?maca=rus-rss-ru-all-1126-rdf
+title:посла украины вызвали в мид турции из за атак на суда в черном море
+seen_urlhash:26a67b72558428739ec85a514a8ce285d367d916c802ebf48c3731717fd69758
+seen_titlehash:871ca41934ef0ccb3f27ee984c271bb2dcb25bf4f57ee05b35399feedfc6a58a
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-венесуэлы-защищает-историческую-нефтянную-сделку-с-сша/a-78562384?maca=rus-rss-ru-all-1126-rdf
+title:глава венесуэлы защищает историческую нефтянную сделку с сша
+seen_urlhash:99f1616ccb8d33adc57f8f131e03f23b60d8bb800bbc9a91858ecd08822430bd
+seen_titlehash:7e2370f65297bbdd72726748b0c6246824615e5bc80164d782f82f9bcf70692b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/next/2026/08/30/inside-kourou-this-is-how-the-satellite-that-will-monitor-europes-sky-to-prevent-natural-d
+title:куру изнутри как готовили спутник для контроля неба европы и предотвращения бедствий
+seen_urlhash:dd974a6b84a75997f9ee49bbd8577e47eb4a1cc2bd62a7063647d62efef0591d
+seen_titlehash:0ed33a54d7ca5aa7501bea8410d217b986438c8db94a05b806dcb4e92fd4d210
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/iceland-why-eu-was-refused-fish-is-the-most-important
+title:почему исландцы сказали nei не геополитика а рыба
+seen_urlhash:c3b6511623d691f21dc3f8695bf18ddb214e5a462965cd56509c887450f4d777
+seen_titlehash:1441da7ff2994aa08e08226dd863ffc9d26680a503b9d86a5b09f99840f543b1
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/30/icelanders-react-as-the-eu-referendum-results-come-in
+title:исландцы реагируют на результаты референдума по вступлению в ес
+seen_urlhash:6c876314c84c13311596152cea339ca77885acbe11830edeb3a97c789b210a03
+seen_titlehash:258cd5681672429f45d23f547d390836068b3ed2d2429637bdb2d5edef944630
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/russia-threatens-widespread-strikes-on-ukraines-energy-facilities-as-death-toll-at-kyiv-de
+title:россия грозит ударами по энергетике украины на складе под киевом 38 погибших
+seen_urlhash:eb477258dac7cdc90a23394a3e1a2e006dc2b7b1f6d7014ada3258004930ff75
+seen_titlehash:85f8faf5c136eec3d7348b1d86574c8e7937ee943460171be14918f52d6e6c87
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/08/30/novosti-dnya-30-avgusta-2026-g-dnevnoj-vypusk
+title:новости дня 30 августа 2026 г дневной выпуск
+seen_urlhash:b89b972239cf1c9ea264631c159feb86884f43443e0111c091a9177b7840a682
+seen_titlehash:844b10f2ca5a62418ada2a02957366136939bbbbbcb221a4230ee9ddbc45a7b6
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/icelands-rejection-of-accession-talks-deals-a-major-blow-to-eu-enlargement
+title:отказ исландии возобновлять переговоры о вступлении наносит удар по расширению ес
+seen_urlhash:7d3998c382013ac9bae7db250804933f05992c84ded37e43b30ae1a48aa754a8
+seen_titlehash:f8903bf4c0f8ae7af27ca1e8f519b9325a9ec0b6b6545a926bf17f9413132c65
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/08/30/iceland-european-integration-no-no-no
+title:исландия с небольшим перевесом голосует против возобновления переговоров о вступлении в ес
+seen_urlhash:960f7ac7b1cd1edaa46d1ce5d759583b1d35c4ed8e07a629f5195a5b9aed0ada
+seen_titlehash:0f7f5bd29e2623174e7958bbb7f28427e1111c5822d28d4f8586874df3ad4e6f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/v-nigere-soldaty-podnyali-myatezh-po-dannym-the-new-york-times-oni-neskolko-chasov-uderzhivali-v-zalozhnikah-rossiyskih-voennyh
+title:в нигере солдаты подняли мятеж по данным the new york times они несколько часов удерживали в заложниках российских военных
+seen_urlhash:a71096c5295ea6df01a8d828218defbfca164e53c1353f0f298ce96a55d9e5fd
+seen_titlehash:7a98811321bd84694fed707641fb3401d733a33912df6c3bc152ac6f5a61d370
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/u-beregov-severnogo-kipra-perevernulos-sudno-na-bortu-nahodilis-bolshe-270-chelovek
+title:у берегов северного кипра перевернулось судно на борту находились больше 270 человек есть погибшие
+seen_urlhash:bde0a24745f6849e82dd65b3179aa33cad5f8ab05cfac0627798eb8ccbf6c819
+seen_titlehash:7fb1da90c93f7aaa7dc5cc2499373a883babe0432a316bacaf66df470871b049
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/30/voyna
+title:война 1649 й день в результате российского удара по складу боеприпасов под киевом погибли 38 человек бельгия снова выступает против использования активов рф для поддержки украины
+seen_urlhash:e12e2eed027872121c324f2652a82866e77b009f8b64d8ffa11d2dd3aeac7365
+seen_titlehash:c1e9633b34426fa8c2cd41601a681b9225b9c351516032ba278ff7497d65d586
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/08/30/zakonchilsya-serial-sto-let-odinochestva
+title:закончился сериал сто лет одиночества если вам не нравится подход к экранизации классики как у кристофера нолана посмотрите этот проект в нем все ровно так как было в первоисточнике
+seen_urlhash:3e352e51c575ffbc1a14a8a5834f2561ee49daa4cb6b0a7e7687fd149383d2bf
+seen_titlehash:3fdcc6685067bd219e7d73b9adb8712748de606b68de005658d2d542e2dba885
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/08/30/zhiteli-islandii-progolosovali-protiv-vozobnovleniya-peregovorov-o-vstuplenii-v-evrosoyuz
+title:жители исландии проголосовали против возобновления переговоров о вступлении в евросоюз
+seen_urlhash:eca6963643c38464ff9ed5295706592b69764106f1b130f2cd434a74a8cb1713
+seen_titlehash:1d6f7a9e60ddb04ab1735c051ecbf2e763c5762490a7bcb408383feaba8fab1b
+seen_reason:processed_not_published
+url:https://ft.com/content/3dd189e1-1af6-45a5-8993-0973af74f8e4?syn-25a6b1a6=1
+title:burnham tightens prisoner release scheme and insists he is tough on crime
+seen_urlhash:b77598fc625ac8b5eb151f4d5a434e13c88e463741078dcb45551664bc0233eb
+seen_titlehash:3eee2b89139fc281a1a363fa8cfb91f25d04bedf96c6d31f39b174ef2e75e6a8
+seen_reason:processed_not_published
+url:https://ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1
+title:controversial venezuelan executive courts investors after trump oil deal
+seen_urlhash:9c25cacf5b0fa497e747857109bd68239f731311f1ec0887fb441c8aa59b9618
+seen_titlehash:7a1d79e795215d701b9611e77257254735dd6cf040a8ed6e17d1294c4c77bbe9
+seen_reason:processed_not_published
+url:https://ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1
+title:friends with fiscal benefits
+seen_urlhash:26ea0040973add7cfc0bb5ec430a9f11198baa5354cfe8c45f26ca0fa55c9725
+seen_titlehash:bf58661d52a53ee27682ce5512c02468878073428342b8ac6463c0dbd11002e2
+seen_reason:processed_not_published
+url:https://ft.com/content/c2682d2b-c5a4-4f98-8f04-cf93883fb9b6?syn-25a6b1a6=1
+title:will the fed s hawkish stance survive contact with jobs data
+seen_urlhash:166ff8d849f311d821a0893810f46c8e50e74ed8b1e7107a54875d0485edcd5c
+seen_titlehash:880c04831c9dc2e493c8da62438c598820c9897be29b1db75667089506eb5029
+seen_reason:processed_not_published
+url:https://ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a
+title:new york loves canada us cities want their canadian tourists back
+seen_urlhash:4a90b04903fda79861e9c6013e3e08f233ed2567170bfda8aeafd12bcfd600a0
+seen_titlehash:38df81f5be35ae602c90e91e01697eb1d75a852773194bf367f86c91350bf0c5
+seen_reason:processed_not_published
+url:https://ft.com/content/2c65a745-8169-4192-971a-022bdfc0e7ad?syn-25a6b1a6=1
+title:pharma stocks soar as investors seek ai alternatives
+seen_urlhash:88f7d11b0290c6bb331cabff5f7968115fa6824c2840d5351246b4e12533c7bd
+seen_titlehash:c5556fcb6971b8b02040e221f7c0f55f81948c5969df8cb7c58f70c5c7863c24
+seen_reason:processed_not_published
+url:https://ft.com/content/32978145-d33e-4ee3-957b-39fcc722d2be?syn-25a6b1a6=1
+title:nepal rescue effort intensifies as death toll passes 700
