@@ -75748,3 +75748,48 @@ seen_titlehash:b18a487640d15499c19062f98491ceaa2e1171043b268d9ef775dd1a576ecc04
 seen_reason:processed_not_published
 url:https://ft.com/content/da5d96c1-c491-41a2-9db5-48bd952da4b4?syn-25a6b1a6=1
 title:return of the politicians
+seen_urlhash:f6373da37f71a17153b49ce379652078fe8e1378a58c5d902c16c67e4f7f01b5
+seen_titlehash:f87671323e02209dd219fee0ef272d0acd0f727637177075a1bbfb0995a0121c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss
+title:15 hikers feared missing after terrifying flash flooding hits grand canyon
+seen_urlhash:c33961548377a33fa490d5bfade3906f09dfe564d48708b2d2c0807dfe3ee8dc
+seen_titlehash:cd9f40857f17dfd11356e70f2c96850681c1c8d2cbbf624b4e54934a7a63a510
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss
+title:what is notting hill carnival s jab jab parade
+seen_urlhash:34ad5a0db11efe976a40072c55672180e6783edb463abff7eccd190a85993475
+seen_titlehash:e32b93ba2f2b90a08cca87cbaf75829fb2f579b32b64256434ed4a7405331faa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss
+title:vote count starts in guinea bissau referendum on strengthening presidency
+seen_urlhash:904bbfbdbddabbd03fc0e2b0fcf0a02d7c62e6b7b0fb9fcbbf9612e69c037f84
+seen_titlehash:a69fb47028759218d832db7b50a46ecf14273bb62362c5d1dc0ae3509c319efd
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss
+title:lamine yamal getting back to top level barcelona coach flick says
+seen_urlhash:73c555de5c832c3e202d379cba57d49e64765de0262e8184dc07f711ce5638cf
+seen_titlehash:a342bf250ef67f09f80d0e4c91a340202429d67a507fa341db135d95d841545e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month
+title:middle east live us strikes iran for first time in a month tehran retaliates
+seen_urlhash:0394e1f40a09bfee093ee8f71ce4b6599e214771786936a337ca7e4e08289f94
+seen_titlehash:2b1dd546e39c4093f21547fa190b04dde7ae7c934a963348813d4d0a74024573
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260830-us-treasury-journalists-from-g20
+title:us treasury bars certain journalists from g20 meeting in north carolina
+seen_urlhash:61c7aedcc3b3b6b20c6e774f99e6066192f31ae16d43e3f2d5adc424323ad71a
+seen_titlehash:5c8c559d17a623e6d87f8c439f3f9c09c8b965fe361c4812e81d2d8fd42f5e87
+seen_reason:processed_not_published
+url:https://dw.com/ru/атакованный-у-новороссийска-сухогруз-рф-сел-на-мель-в-турции/a-78567135?maca=rus-rss-ru-all-1126-rdf
+title:атакованный у новороссийска сухогруз рф сел на мель в турции
+seen_urlhash:7f6de67b8dafa515fa031bc0543b9a75967fc9117983b99c090fb21f3c1c9733
+seen_titlehash:12e0caed8bfbe0de939e5e6cf6d925dc8d4a939cdf5beb70eec1da45b9f10be3
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-нанесли-первый-за-месяц-удар-по-ирану/a-78567113?maca=rus-rss-ru-all-1126-rdf
+title:сша нанесли первый за месяц удар по ирану
+seen_urlhash:0879657f60ea956195d9d65d623a8b0b17eb7f937705550821f0f4b07b9095a3
+seen_titlehash:55cd7236cd20a2152777d7556129b30ce6ecae3e9e66cf65bdcca2abcf813df1
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-венесуэлы-защищает-историческую-нефтяную-сделку-с-сша/a-78562384?maca=rus-rss-ru-all-1126-rdf
+title:глава венесуэлы защищает историческую нефтяную сделку с сша
