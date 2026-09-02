@@ -79353,3 +79353,83 @@ seen_titlehash:06a3f023a4efd7c7d5510eaabd6029de1b3eddda8bbbda6fbca9c23835b211ca
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/09/01/the-ukraine-war-is-intensifying-expanding-and-stuck
 title:the ukraine war is intensifying expanding and stuck
+seen_urlhash:a0ca361df696b7112a682e6f0a92047fdccafd3dcd31c434cdcca365ee78c838
+seen_titlehash:a3714f7e0e8e87fa81717a1cc7a0341983648e8780ea7929a4b5b52851b258f9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html
+title:putin pledges increased strikes in ukraine and support for iran
+seen_urlhash:31f270d7752ad6239ba594065939623847717498e3cd87288479a9268d8f336b
+seen_titlehash:cc8c3f353f037a3615e5d224f9153744036ec0b584c7d86b2b162e5e9978e979
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html
+title:at g20 summit some u s allies push back on trump s economic approach
+seen_urlhash:c03e423976dea7bde2459d9f4dec12dddaf94b5e10b3250ecbcb9156358accca
+seen_titlehash:94141e2db68620527c50ebc6839f3c17f04038b27ba48611bd5a947599ddad7f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/02/nsw-unborn-children-prenatal-caseworker-ombudsman-ntwnfb
+title:more than a third of prenatal reports to nsw protective services not investigated ombudsman finds
+seen_urlhash:f0b036097eb6efb289a9a16a325480b8d396fbc0f6d66b7641fec6380ac40f58
+seen_titlehash:cd98dc0be7c01272955755a795120d3ccbacee93c9ccf0aa0b543c774361e166
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss
+title:iran war live us bombs iran tehran retaliates on gulf neighbours jordan
+seen_urlhash:940f9efdc6769e771cc6ce6a237882ca8116f1c9169c9e093711813c44dbf0b8
+seen_titlehash:f44171e5a0127b8dcb7dd8c37eb9667e5ad284a0238e3ffe835b48ddf65e095e
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss
+title:fernandez transfers to man city from chelsea in joint british record fee
+seen_urlhash:bcc5d99c0ba4c87f7f714ed612553e8bd53cfb3ba49fa4f40a95cea68d28fbea
+seen_titlehash:fa9c46df9be06018829a01c630a35ea68095a8b92922a0aa16379796409768af
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss
+title:cisco accused of fostering a hostile workplace for muslim and arab employees
+seen_urlhash:1bd0b33dcff890e3aedbb0d114f1f545827959c37fa4c020651bc60738785f90
+seen_titlehash:3d0efa2ab395991d613b0a43bba3e869aba4b2fa491bcb86bb48b6ecf3249d67
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss
+title:us house passes funding bill to avert government shutdown ahead of midterms
+seen_urlhash:d4571366025193e5faa0996aed95ae737f8d22b8f3101ed9225099e6dd1e72dd
+seen_titlehash:d216315b0cf8ca8efef9247a93f8553befc816d74be691410b1c196a25766633
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss
+title:us urges g20 to cut trade imbalances focus on china
+seen_urlhash:ae6b4a18364caec38a6f50186f65a0939e1669c1c7579cd02ddfe2eb3f761a73
+seen_titlehash:deabf147838dbb635b41dff80cfc01a8eb5e1572a346ad7241d7a41c57394d7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss
+title:us energy secretary will travel to venezuela to unveil oil arrangement
+seen_urlhash:bc7e373bcf0e8cc98a9ca8ada4c096a669bde1e7b55d7931c6b1e8b1a5a9ec94
+seen_titlehash:2390eede83908843489bf538b9ed81e5f37b7288a2dface01c8003b20f2dd525
+seen_reason:processed_not_published
+url:https://news.sky.com/story/mark-carney-tells-trump-stop-doing-memes-and-throwing-shade-13580195
+title:stop doing memes and throwing shade carney tells trump
+seen_urlhash:25c77096e73e346056fc4b464ba8bf4a1bd8a4137c6967a7bcd773d4afd51c79
+seen_titlehash:02d3db210472aa5466117d9b3e6de9e1dddfe2f3bd92c032de00e8850719b64c
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260901-g20-backs-final-statement-despite-russia-tensions-china-dissent
+title:g20 backs final statement despite russia tensions china dissent
+seen_urlhash:00e73f068a6d69151a2101f80b4c5f79d07ef3bb21c9bba2e0284e0c00750b0c
+seen_titlehash:f442b447ac30f60ab2237d70e822dab98fa224037136ccae74218aca00e66d0a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20260901-subtle-changes-pointing-to-consumer-fatigue-a-challenge-for-fast-fashion-retailers-expert-says
+title:subtle changes pointing to consumer fatigue a challenge for fast fashion retailers expert says
+seen_urlhash:318a68f90f0bd64538aaeb705c163ffdf15eee917705f84f65b919f88a864f4a
+seen_titlehash:baaf9a71e655d0d3715e94fc451c25192ff655dd81021745d43faf237a842696
+seen_reason:processed_not_published
+url:https://dw.com/ru/дроны-в-лейпциге-ряд-политиков-фрг-недоволен-новыми-мерами-властей-против-рф/a-78657273?maca=rus-rss-ru-all-1126-rdf
+title:дроны в лейпциге ряд политиков фрг недоволен новыми мерами властей против рф
+seen_urlhash:d79b5e97787d60ba400fc49358091c4b961767fb48f8458e4e8f74de0028f588
+seen_titlehash:e6500aa56179aa8a02c08c329a65c27ab20f3247ab4348b9673587008a55efb8
+seen_reason:processed_not_published
+url:https://ft.com/content/8efaf87c-e5bf-4cfe-8403-16690ed4c265?syn-25a6b1a6=1
+title:tim cook to be paid 47mn as apple s executive chair
+seen_urlhash:b604cec3a69961ea23dd143a2302e8e9e5c3faf20e6db92a89866a8fb98c13d3
+seen_titlehash:3ba0a5f6d4d148e965dfb591e7f7c5cc53ac330f85fc38a43f44301ff20baa2e
+seen_reason:processed_not_published
+url:https://ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1
+title:china s real robot revolution is not about humanoids
+seen_urlhash:c1111bf46fdcf6b3fcd4ae32f5c8327daad8407979df9800deecff15ca96c34c
+seen_titlehash:e39e2426f59423aa5e3fd4640321d11fb923e0dbb2034c545fd3d74ee01474dd
+seen_reason:processed_not_published
+url:https://ft.com/content/bc2e4206-a702-4a66-8b94-2538fa249862?syn-25a6b1a6=1
+title:firstft global bond sell off deepens
