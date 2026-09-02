@@ -81358,3 +81358,103 @@ seen_titlehash:44f788d7d84028008f56ca836306cd7a939a03ef936b8bfe64f0aa5be37dcae2
 seen_reason:processed_not_published
 url:https://ft.com/content/c9390b8a-a453-4014-a5a8-13f8fd518356?syn-25a6b1a6=1
 title:badenoch sharpens her attack on burnham by calling him the people pleaser
+seen_urlhash:2aa9fe7e6c3979a980c2941e7e31e1bec15b0b2ade88a681582e6e9b8b92fdc5
+seen_titlehash:898a27ebf013e632ff2be0d792903f4eb726b45112a999b53c0afb1b17b0617c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss
+title:protests in spain over government s handling of ceuta migrant crisis
+seen_urlhash:a396f6b96dc51f11e59f947455c3bc8375d96bc5d06b6b2334616f487f79304b
+seen_titlehash:40c67174e897d0219b3f7c692d462d4b51882c01401cef702c0208a4adcc656a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/02/video/iran-us-attack-wedding.html
+title:in small iranian town a u s attack turns a wedding into a tragedy
+seen_urlhash:168caf85b07c2d6c9ccd429df96fd9ae29ea6fb695d77a35de2b01f01186ac78
+seen_titlehash:c2f2504e41f6fd45581f390641936adccc6f5ccd4bf51c2bb5c9ce08d397de0a
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war
+title:china s falling emissions amid iran war spark hope of decarbonisation watershed
+seen_urlhash:f413a9a9a468ee2b85d839e9d8eee220ed4d06a363ece480df69857288213be7
+seen_titlehash:b709f28d4dfeee0325cce7f4abb92f8a87d1da3953b5954c2145cbe31d0fa9fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss
+title:openai faces new lawsuits over tumbler ridge mass shooting tragedy
+seen_urlhash:d76abfe5a9d06d40870128ed0a499476ecc5401b21f8a295495d804af76fab77
+seen_titlehash:98bc93d7a9e8578b2c5e6838fcb5e9713b0fee4870771f6bba35f401e37f02e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss
+title:republican senator calls on trump to fire secretary of defence hegseth
+seen_urlhash:a7fdd2ea0cbb970068f7e7e059e544baccba024bd09d1aae38cdbd261cd4d785
+seen_titlehash:3f86e29b8c7788c326b5ba5d09dad5688424433c44e81f3af6d0e55a7aee9d72
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss
+title:israeli pm says israel is working to overthrow iran s government
+seen_urlhash:efc31d3163b1978ecf5758336cd3d0102663aa02d91124152e1416228bced9de
+seen_titlehash:5b97e4903247d0b9cc1b243f14e7bed5582f060f84c4ec160953f2aed8273585
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss
+title:children return to school in dr congo amid growing concerns over ebola
+seen_urlhash:c4365206e17060635835d0c9721c7c4c7ced46f7f94a0c839e8cab150c01a56f
+seen_titlehash:61bc56192fb87d28d4a9057b43e04dadda9a096ca463802f5a98951eef5de7ab
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss
+title:israel still wants to remove palestinians from gaza defence minister says
+seen_urlhash:cf78e0ee693e20b7f0aaf41fc596e49642753dd32115cf4dbf1291a5f7315fdd
+seen_titlehash:fa85a23e82bdcf4fb7d5041b705356223e4073cad34629afe1758337837cd32e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/maltese-businessman-cleared-over-murder-of-journalist-daphne-caruana-galizia-13580542
+title:maltese businessman cleared over murder of journalist daphne caruana galizia
+seen_urlhash:0e91cd7571bd01f1a003a1c0ec3720d9150d9db355a6bfc4fa574b8174f556d7
+seen_titlehash:caa77ac3783f8a73587d303a213530fe2f3416511d2ea8060ba79bb73a773062
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine
+title:ukraine warns russian airspace not safe in message to un aviation watchdog
+seen_urlhash:a70eb16935c13edb9a6f17a82bcd6b5dfb5076aa96c0fe18f41544316bde451e
+seen_titlehash:0c35fdcfccca7f23e354c655090e7e6ca8da46787195d3d8fa898a999fef2225
+seen_reason:processed_not_published
+url:https://france24.com/en/technology/20260902-palantir-france-digital-sovereignty
+title:palantir ceo alex karp says french restrictions on us software are backfiring
+seen_urlhash:d444c02431d26e4cb2429603da9d82ac96588ea2c59af7df8dc30b9940b952b5
+seen_titlehash:628f8e1e93d4ab9d8cfa90498a8705ec6b2579ca522cfa8fd21eff3ccac2e91c
+seen_reason:processed_not_published
+url:https://france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics
+title:venice film festival opens with george clooney murdoch film and geopolitics
+seen_urlhash:0009cd32c63a6e1e8b0c1d08418a7ce7a2ab6f6bc1302236f03e67ec01571073
+seen_titlehash:5c7e5c2ebd46d408617f2271247c2f0cf62dc38e237b6b858b7b43451d915790
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260902-maltese-tycoon-acquitted-reporter-murder
+title:malta acquits tycoon yorgen fenech in investigative journalist s murder case
+seen_urlhash:ff449537aba98123ae02069a8744a3e08e9c9c87cd9b20cf297920e933bb9a47
+seen_titlehash:f0b041a7927677c43cdbd7617f3d8f03f165ca5ea8c548e467737fe9fe6c1c9a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260902-is-wintour-still-en-vogue-the-met-navigates-rough-seas-as-galliano-s-horizons-sparks-controversy
+title:is wintour still en vogue met navigates rough seas as galliano retrospective sinks into horizons
+seen_urlhash:303572d75a7c0bea228db06e90b1a90811084550a176306bdc2e7c8fc00e7dab
+seen_titlehash:6f6d75c89dbc1db150764b70847d8ef724da3c1faf41c2f3f1c8e78137c3dc00
+seen_reason:processed_not_published
+url:https://france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder
+title:outrage as maltese tycoon acquitted of reporter daphne caruana galizia s murder
+seen_urlhash:bf0482aac5ce3a25824791a558b40830ab215dbb3a7af23fb06d338d049cf265
+seen_titlehash:ff2c8a12bba38eccc6461f7447a82129cfb3e395008e1a19c781c8341eb37f8e
+seen_reason:processed_not_published
+url:https://france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1
+title:us iran war old videos falsely claim to show new attacks on american bases
+seen_urlhash:9869cd5af5387b0eb8b73d3d2573166dd3a7768779c1c38f8c72039f01f74603
+seen_titlehash:4ea487a514bf92b46d50bb74a3d09063a3dfda822b59b3483b09f53962ad3bee
+seen_reason:processed_not_published
+url:https://dw.com/ru/норвегия-арестовала-российское-судно-на-шпицбергене-по-заявлению-нафтогаза/a-78814707?maca=rus-rss-ru-all-1126-rdf
+title:норвегия арестовала российское судно на шпицбергене по заявлению нафтогаза
+seen_urlhash:9b9efe42e074fdcfb19eee4dd719a20d4847df26087e9ec29a0bc772b3b141e4
+seen_titlehash:ff40e2eea143bdc71ffb63917a98e3812073e34e30b055dfd880b7684fb4ceb8
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-подтвердил-перестрелку-между-сбу-и-гур-в-киеве/a-78814304?maca=rus-rss-ru-all-1126-rdf
+title:зеленский подтвердил перестрелку между сбу и гур в киеве
+seen_urlhash:019b8df26e3907c26fb00237743ea4b9f5006d3237d02029dbd583f6c2308eb9
+seen_titlehash:2fdf3581b6a12029effb0a741f6fd2e2a809c20ff204aacd5c8cda239761af7a
+seen_reason:processed_not_published
+url:https://ft.com/content/9d4cffdc-4d8b-4a8b-98be-42e17200b122?syn-25a6b1a6=1
+title:firstft xi jinping visits egypt in rare foreign travel tour
+seen_urlhash:e5d4ff9891c29ca47b3e38031b9c1f61f863b6eca9ea4377890f38b2ba991aa2
+seen_titlehash:7982344413e68269179e86ef226ad6f1dcd5d5acae2fde4a73f54effa46c81db
+seen_reason:processed_not_published
+url:https://ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0?syn-25a6b1a6=1
+title:struggling republicans urge trump to open maga inc s 400mn war chest
