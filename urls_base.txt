@@ -85138,3 +85138,143 @@ seen_titlehash:85f954880006aede42d3987561ec8d25cf2ce7a768652732c4f20a7926902266
 seen_reason:processed_not_published
 url:https://ft.com/content/60db19ee-ac1f-4b89-9c82-2212e3402aa3
 title:labour working
+seen_urlhash:08f540daa0c82182bbe59f87d0f54847265b00f16c9de4967fc6ef4f70d04f49
+seen_titlehash:e4ad524e60a85a2e991bb9f1906bb62e80c26618be69921fa25da697ada743e2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html
+title:9 days after flood two men are pulled alive from mud filled tunnels in nepal
+seen_urlhash:6e56832a487bed63700a1473a8cb823641645170b602491408bf285bbe7bafa5
+seen_titlehash:bbe1639329b01156922e9702fc8a0385489f5d77d144cc059697381dec671001
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss
+title:israeli strike kills two in southern lebanon amid ongoing escalation
+seen_urlhash:8b1f390731fcaea587c9c75538f84b9851bf91120b3f1718dbd559e99831d953
+seen_titlehash:b16f68957594d6a65183c7376c9ce95da543fd894353709e365599805b34853d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss
+title:andrew tate indicted in romania for trafficking minors money laundering
+seen_urlhash:b3be3a9737b63fc216bff72018f19a5cacd589d640b06960e9abb9ebf94b295a
+seen_titlehash:e85a9161a3a60facad1948e5e897e6aec65d73a0550055b9e91f1d596c70d43c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss
+title:un votes to adopt new world map that reflects africa s true size
+seen_urlhash:d9bd8e1209cfc04f38cf0300e56509c124d46b00064b95de7c47e01004fd15a3
+seen_titlehash:415504a12f4174b1978c612519d9043d7393fc2ccd1149d55c028c9f8fa991f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss
+title:five eu nations inch towards deal on migrant return hubs by 2027
+seen_urlhash:4f02f5fe9b4544a1067f1805f8de79d0c703ffe84ba8efdc3f40ee5f22686da4
+seen_titlehash:48602d33d2e7b45991daebf58d483d22a69946cc82f737a760c6c04f7d88beae
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss
+title:brazilian supreme court roiled by dispute between justices
+seen_urlhash:ee267370c7a4ae5dbcbbfef6bafe4fd0b1f5f092f1680f83cb87d1fe9e873bfd
+seen_titlehash:c1a785343a3f2982fbbc16c547cc377f17a35a10df073146a1b30862b0e899e7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss
+title:villagers vow to rebuild despite devastating mass demolition in west bank
+seen_urlhash:601658f659eb221bf86636fa4b1e126d662705cdd25521f579171097e5b01345
+seen_titlehash:27ed91a6d00131929b0df71bc8412bce30097e4e9019d6faee09fb1641445660
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss
+title:moment two workers are pulled alive from nepal tunnel
+seen_urlhash:f66f208cc17bc2ad457052a502482ae2c95b2a2f1edf0a26d22d80ce7b8ba7a0
+seen_titlehash:84e27165552689ab9e85a3f75e5ffd8f35f0465f305410eefc747c34d3148bef
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation
+title:major potential breaches of british election law inside channel 4 s investigation into reform uk
+seen_urlhash:6e88088d59cb5a4ea2a86abbcc6d5e4f30650e8cff219987cf342fee7b003ca2
+seen_titlehash:ff19c680808ab466659bf6ee43998e382260b5de5d54b826e1892f4f81c534fa
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism
+title:german power grid sabotage attack linked to climate extremism
+seen_urlhash:cc954fe4c6d65328c40214457c61d981c6cd2b745bf427cf1065648cd18e5e86
+seen_titlehash:8bb73f8534c599b578b4634b57d8572094b3ffa1901fc5cabf29ba82a8f9ccdd
+seen_reason:processed_not_published
+url:https://france24.com/en/earth/20260904-un-ditches-mercator-map-to-adopt-more-accurate-one-reflecting-africa-s-true-size
+title:un ditches mercator map to adopt more accurate one reflecting africa s true size
+seen_urlhash:fdc0bfda92bae470bd431ef36ef6039c0ba87dca861b5b1ea73fba827417ce54
+seen_titlehash:6b79ab46d26ffdb077091e3b1d0db0fe95741541b8911d473775e355540ef5f7
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd
+title:germany s most dangerous man pr gift for the afd
+seen_urlhash:ee9e9197e4c832fb65c9ac52a445c96268c760447cc82ebe8964cfe23b9dd8f7
+seen_titlehash:9bbca7b361bbaedfbd039a56bf4333aea974b5214d312e5bb2983b5b19995f71
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown
+title:us midterms start with north carolina distributing mail voting ballots
+seen_urlhash:cd02ac9d14e84205e226df4c4ea10ae8b647b61db1f446185df6e714288dcf19
+seen_titlehash:23da532098df8bdd1197590407fde17c19e1ad83ffed4d1bf98b18da4b30ba2b
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260904-judge-declares-mistrial-in-case-of-us-woman-who-killed-her-children
+title:us judge declares mistrial in lindsay clancy child killing case after jury deadlock
+seen_urlhash:fd9cf2f7e4219adced817facc144560a8619ab4f1e225f4552f12a2f9df60b6d
+seen_titlehash:d309dda80edcff04e430da0074985e6175d82e1277df4977deadb859938860e9
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-берлине-митингуют-за-и-против-закрытия-русского-дома/a-79040239?maca=rus-rss-ru-all-1126-rdf
+title:в берлине митингуют за и против закрытия русского дома
+seen_urlhash:bc210e93a1d4b4fd3cc704b8b1124bbb7ee5695008ce38440c6fbd42d9da1a6a
+seen_titlehash:d42581adfb19160cdcbb53c54bf03aa2c820921f5c297c3f6b71c218369db7c0
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-москве-задержали-двух-кандидатов-от-партии-яблоко/a-79039747?maca=rus-rss-ru-all-1126-rdf
+title:в москве задержали двух кандидатов от партии яблоко
+seen_urlhash:ed75308cffba5496c9b0fccc9551338d34f2989030453a6ba172f678ae9d81c0
+seen_titlehash:35eda6ed99d2f145cbdada64f74d596b577f1dbe8efe5bcde2cfddd4bb9afb7b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/04/france-will-reject-extremism-and-le-pen-in-the-presidential-election-haddad-says
+title:хаддад франция отвергнет экстремизм и ле пен на президентских выборах
+seen_urlhash:ebeac2e9268cc4de026b87e3a1e4b6b877fa6c064b35aa86ed24be07c098263a
+seen_titlehash:75ff5da05ed0a758a3cca923bad17c6a643bcb2d336308ca3fee86387db91a9b
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/04/copenhagen-meeting-eu-return-hubs
+title:пять стран ес планируют отправлять мигрантов в центры возврата к 2027 году
+seen_urlhash:918668417a4deb344ff7ec80fb90c6bc630daba4672804c0f05009a81ad6c202
+seen_titlehash:bf104c2c288a99adf8767d9ef6f3fcf9e64bb35bef006aa5dce9e53071090d62
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/04/eu-turns-the-page-in-iceland
+title:процесс расширения ес после референдума в иcландии встреча министров в дублине
+seen_urlhash:34a19739c029db114317bbd89911ba362e57eac56b5be7d21df45c310cdb56ae
+seen_titlehash:35c0cd31437998d797ecd17a3c60c6a048815d058b0998dc27588df9e7952cfe
+seen_reason:processed_not_published
+url:http://ru.euronews.com/2026/09/04/zmei-i-skorpiony-v-palatkah-gazy-ugroza-dlya-sna-pereselencev
+title:змеи и скорпионы в палатках газы угроза для сна переселенцев
+seen_urlhash:e694a8b2dfa22621cb599aa7a1e3bc6ae3b0d4e8d6fec9e0b15f72e131aad18f
+seen_titlehash:d2cd2798dbf725eb10fc0d816bac1fd8dfbc428b08d2f95f925e293c553a218a
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/04/tramp-putin-ne-sobiraetsya-napadat-na-nato-ya-horosho-ego-znayu
+title:трамп путин не собирается нападать на нато я хорошо его знаю
+seen_urlhash:4dbe9fb08e89237dd6261b6b491435fb87d27bf6b3f1d31a525f1629d0b13a4f
+seen_titlehash:97734782de5c4c65478bd5286faaa5065da393fbe74baf00436d08a96c9c8598
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/04/prisyazhnye-ne-smogli-vynesti-reshenie-po-delu-lindsi-klensi-obvinyaemoy-v-ubiystve-svoih-detey
+title:присяжные не смогли вынести решение по делу линдси клэнси обвиняемой в убийстве своих детей
+seen_urlhash:921948d7fc18e3bd2e4aa53c74745bb45313055aafc92188447cb5c464bf0c15
+seen_titlehash:b0f48b6b51bd92090af9d405b78f37109aca6a6e4c003b9f80b4b12172649151
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/04/antikorruptsionnye-organy-ukrainy-zayavili-chto-razoblachili-prestupnuyu-gruppu-svyazannuyu-s-moshennicheskimi-koll-tsentrami-zaderzhan-sotrudnik-ofisa-genprokurora
+title:антикоррупционные органы украины заявили что разоблачили преступную группу связанную с мошенническими колл центрами задержан сотрудник офиса генпрокурора
+seen_urlhash:40dc0d87237e0eb6e4a1486d45c8ddb31e8601bc5b25bb04ee768eb6f0b80511
+seen_titlehash:bea68b3baa7c7647715cb3cf6ae4ee575aac79531866576cb9fce9232349d3d3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/04/oon-progolosovala-za-otkaz-ot-traditsionnoy-karty-mira
+title:оон проголосовала за отказ от традиционной карты мира
+seen_urlhash:a78d8cbf11d5634806d47e6324ba6749549065da15bc8fcaff99fd2bf1092009
+seen_titlehash:3d549ecde92286d26298e9dc11c161814fbdbb426750bd5312bdaa5b03141f5a
+seen_reason:processed_not_published
+url:https://ft.com/content/5c4f86d2-411f-4b3b-9926-d27432ffc290?syn-25a6b1a6=1
+title:nigel farage insists reform has broken no law after key advisers step down
+seen_urlhash:365a3d457cc734ccfa63fd5874e7a71300db862e30f0e3db5843c433dd89f623
+seen_titlehash:b6037eb3a617dac54683440386d3e71467a5377de8d35204d9a20c2eb0e48d07
+seen_reason:processed_not_published
+url:https://ft.com/content/7de897f0-a393-47f3-84ce-27aa64a67f07?syn-25a6b1a6=1
+title:farage s merry band used to enjoy conference not this year
+seen_urlhash:107fcc3be68c421ed900a721eff9eea75ffdd3cd801fe28d6f449a177acda17a
+seen_titlehash:067f196e927cade6ae19a5a4b945a1a093583eac402bc6fa7bb7b9a09486014f
+seen_reason:processed_not_published
+url:https://ft.com/content/27746b9a-de02-4a83-830a-11cd4b1b1fe4?syn-25a6b1a6=1
+title:nigel farage s pile of financing scandals
+seen_urlhash:9eb2cd364e7083698864a5012bc9e19421bc76565bd5f578eaec7e88eb0c123e
+seen_titlehash:732e1d2a8ba3fa0c3f55fcdeb6d4fb2d3ce0114eac5c19cbefda63c024772d6e
+seen_reason:processed_not_published
+url:https://ft.com/content/89d8bb57-0e59-437e-a25d-d6556dcb42b0?syn-25a6b1a6=1
+title:clear breaches of rules by reform uk pollster says industry body
