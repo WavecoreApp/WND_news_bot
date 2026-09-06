@@ -86593,3 +86593,43 @@ seen_titlehash:8102e8bc58c00fcdc5274bf7b42dfdb2468d0373a3934336ab778087a912ed75
 seen_reason:processed_not_published
 url:https://ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1
 title:us regulator sues iss as it steps up scrutiny of proxy advisers
+seen_urlhash:b9e2d9ae723ce5603d87555855bca0296e1303bd5e2fca9d2f09cbc34b051538
+seen_titlehash:8efc1010248d7eb09e57aba27624c9bfe429806389d53d583a4ca04fb970f7d3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss
+title:he was a lifeline families at a loss after haitian caregivers let go in us
+seen_urlhash:5cd793de4aecd3aca84a797ec94c4eb5b48d1b6ce4394e740cbe608e840205a2
+seen_titlehash:00fd1976c3fa92808a346e07d5e78b2013217c2d9418e4b7090a7969bbf26141
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss
+title:majority russian speaking city in ukraine considers language ban in the arts
+seen_urlhash:cd0ea0dba5d53aa30a5f70515eee9e389027f7fbec1e4102e1d9148b4a6312b9
+seen_titlehash:0d7862d135f69fc29f7e319ff3e736fe14715f67ef5357170f648109ddd78242
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia
+title:drone attack blamed on guerrillas kills at least three soldiers in colombia
+seen_urlhash:05a52315ff2d8879b9fcde23f74c297827b02bf4d0b71e4368af07ca06b2345a
+seen_titlehash:52b4cdfc3fbb127554149d98bdbe91ad473e98b4288d902e7acbeb4edcc27b96
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb
+title:australia news live taylor proposes laws against flag burning and to lock in 26 january as australia day
+seen_urlhash:706a0bafc9a260d683bf1a496b5e4fea33f262e21713cb36ab332b0bc4cff564
+seen_titlehash:fb5f42f5afedca86dd1a9406d34a6bf4154a44c4c5faa773d7744ee65f53026a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss
+title:iran war live irgc claims new attacks on us warships over naval blockade
+seen_urlhash:26c0f368c7fe15ee2979a17f434965ce137ab0f83b89cea1d82001eb9e844f2d
+seen_titlehash:24c801da440c2311eb28161433221a7e4985513c29d0db8a31331ad5299bd352
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss
+title:fuel tanker blast in western iran kills at least 10
+seen_urlhash:1a3ec33ce26020393eba95d0f9ac5e59bc6583e095fb1405c449bbf7712ea090
+seen_titlehash:54efb4087e975a8a7f8fdb8a681c62bb44e9e488115042f3860d61fbbb501f87
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss
+title:trump backed group announces 10m ad spend for midterm senate race in texas
+seen_urlhash:83b23178ee6da619d7e6ea4def999688e66f2ea603b452b016d8da89a0411a76
+seen_titlehash:68d38893dd8647576fcf85d4beb06d5becb061fd6e245ad35a4515fae4839dd8
+seen_reason:processed_not_published
+url:https://dw.com/ru/ракета-spectrum-немецкого-стартапа-isar-aerospace-успешно-стартовала-в-космос/a-79050727?maca=rus-rss-ru-all-1126-rdf
+title:ракета spectrum немецкого стартапа isar aerospace успешно стартовала в космос
