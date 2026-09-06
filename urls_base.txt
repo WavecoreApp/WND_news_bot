@@ -87733,3 +87733,53 @@ seen_titlehash:166d7e8351cce45b513c49a760209e8bea3cab3db529fd7bbaa427a6fcf5e0ab
 seen_reason:processed_not_published
 url:https://ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1
 title:germany s merz on the ropes after far right delivers devastating blow
+seen_urlhash:d1a850c9ea0612c37219a891ea9eb9a1b0659c8cf6a7d94a0421a4cfddffe439
+seen_titlehash:b18375cf92fb24e5a0af61e5f857b3824241cd96349c76ac47fc04513c45c583
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html
+title:when a i starts scheming
+seen_urlhash:fb58f4db46049aad1f7d3a868829bd6e3801fca255992e54b82e96a95005d39c
+seen_titlehash:dca6ff07795473c39da22cd4c05c73cbe962c172fc60229774410d63e62658ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss
+title:alcaraz breezes into last eight at us open
+seen_urlhash:cc3aded9f0bb0da389a9cb89c74146b3aa46366086b299dda82c42eeeebfdff6
+seen_titlehash:1030fc3f7592db517a9c2d212ffa4f2581dbf2108fb4ee17e3beeb1bd0af277b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss
+title:amazon cargo plane crashes in us while landing at miami airport
+seen_urlhash:8ae46181e4f007f94e0377805ddad32737e8565a8eeaf67ccaf2f53f0165b320
+seen_titlehash:79297595c6b34ecec5c748dd3dc294ce4d0d194e4133649d9fa87f2a74a764fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss
+title:at least 10 killed in central mexico fireworks blast during festival
+seen_urlhash:131a4ac4a26f6ea7586afc8678b2d039437e187ff7c61889466500f0416eddf1
+seen_titlehash:291f8fa97b4086e13997fad03da278cfe8d6b2e065fcd090b7375da62458f2cd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss
+title:amazon prime plane overruns runway at miami airport
+seen_urlhash:c4739250c751286bed33b048ec7c510955743edeaf534f4a80d4cc3992a1ecf4
+seen_titlehash:4e51f6193519ef50c91a485a0b763658e184f5adfd808cdd1ed7d7cad11864ad
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss
+title:can afd form germany s first far right state government since world war ii
+seen_urlhash:8e620af56d157379ea262d2b9b44fc3d16cb8ec59388f4e818b3d90aecd56ca7
+seen_titlehash:7285f548e6febb323aa007a0e7580a5ffa7a5dc07074f98808f875d6d9b37076
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260906-amazon-cargo-plane-crashes-miami-airport-killing-at-least-five
+title:amazon cargo plane crashes at miami airport killing at least five
+seen_urlhash:57794a244e15ecbf4c08dbbddd8bb77a3c7636bb02db9b76aef5e108dd5f648d
+seen_titlehash:50d4433a2006c91cf8e0cd3f28078034f7cad0569dbd359bbf32456dbefb00a4
+seen_reason:processed_not_published
+url:https://dw.com/ru/премьер-министр-польши-только-идиоты-радуются-триумфу-альтернативы-для-германии/a-79107326?maca=rus-rss-ru-all-1126-rdf
+title:премьер министр польши только идиоты радуются триумфу альтернативы для германии
+seen_urlhash:bada6d7571dd7370026ce3ad68dbb80b426143624ffc01f0e592ecedb331342d
+seen_titlehash:c6d4e85f9cff88aaaa872ebf8e6241f95ff00edc2bd57eb28784aab9b7e5c130
+seen_reason:processed_not_published
+url:http://ru.euronews.com/health/2026/09/06/they-discover-a-benefit-of-breast-milk-against-antibiotic-resistance
+title:ученые выявили пользу грудного молока против устойчивости к антибиотикам
+seen_urlhash:266ce5afb57b383ca6abefd725ffe5bd3afae9b796060ea204850f12fcca857b
+seen_titlehash:301133cda3ac8d5b6988ea7fa95ac36f0e9bc7226877e36f69e6c34ff7e6f356
+seen_reason:processed_not_published
+url:https://ft.com/content/f1cd277c-fc9b-454f-8eea-596408ebdd2b?syn-25a6b1a6=1
+title:firstft germany s far right afd surges to first place in state elections
