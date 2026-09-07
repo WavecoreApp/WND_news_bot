@@ -89123,3 +89123,253 @@ seen_titlehash:67d2b4f660c9b1d20ae4dae60a77a196e1741e467f081826d9f434d3996c5f3a
 seen_reason:processed_not_published
 url:https://ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441?syn-25a6b1a6=1
 title:saudi aramco oil facilities hit in new strikes
+seen_urlhash:bc5a6b97600dc3b36da84374bead71a165ffa37d2dd8b4cfe7c2d60212a3811d
+seen_titlehash:b391cdd4e84c9a38e66d1aaa0d39507aaabda06fe2d8fa765b1c7e24e4df7cff
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html
+title:britain set to target israeli west bank settlements with trade ban
+seen_urlhash:d3970b45b0237552480bebd63e6ebcac49d7afb2cc62567b1d531ee4f6b337d6
+seen_titlehash:c3d3f359499ca57e9b30e4846e5829f7355dc73dc3df52e19917b6673d35fbbc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html
+title:philippines lawmaker cousin of marcos charged with taking kickbacks
+seen_urlhash:e76693a0b10f45bafffca178be4a5b36355a59c2693a31d535f1f3e15c2aae1b
+seen_titlehash:004313c8b26a095122950fdffa80fd178be546cd0becf29cd83c5e8619b1735a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html
+title:nazi looted painting in real estate listing must be returned
+seen_urlhash:9212689835b42fcabdc6ca24131226b297ae2ae1f4c9ae52e08be98389a83195
+seen_titlehash:feeff5c24fb9f5b0f89b24d3dcdb72da88225b00bccfb3b540b05939b1dec199
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico
+title:alleged killers of australian surfers and american friend go on trial in mexico
+seen_urlhash:ca11911bd01f00f7d42b1d11a73143d37082d526dd51a68e4ce08059e777adcf
+seen_titlehash:9bbaa0a70625883afc6476e3699bca49a21f49e0856e741adee3ffd04266e0fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss
+title:cuba says no negotiations with us despite genocidal blockade
+seen_urlhash:0c2dd5d82ddd33bb9bf429de4c01e4702c85cdd2d648c65a844e967ad22624c7
+seen_titlehash:a012433c7b29049927fa1849fa87e4a6d4ec0adfa1c1d5ebcb455d730723ebe6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss
+title:what are the implications of afd s electoral rise for germany and europe
+seen_urlhash:4c6dde2ddf0598390fac205dd74f1e863ae17a9b31f0394cc000a6f5ae1f3eb3
+seen_titlehash:ba7d213f453fce626614839e43f6e5fb481fa0beec72088ec666b63b803e5470
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss
+title:uk government refuses slavery reparations as jamaica urges king to act
+seen_urlhash:3f22f3aaff097d02358888bd75669c415ba7d820899b91cd41298041a6b12faa
+seen_titlehash:2f4eb6db84b4682701f5738616b9e0e00f67304e0c6278da6780b37dcd681e1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss
+title:syria s assad era reactor configured for nuclear weapons iaea
+seen_urlhash:6537f0ec719dcbb486c2accd417a028d508b2eb02ff8b3fbc6a81e4656807012
+seen_titlehash:efec8dbc73eb00e05b510fe730aea2185ea5f7d226a50ecd8684bb2296f298e0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss
+title:moment shop worker dives into traffic to save child
+seen_urlhash:9be0b5a5aede1870a3166900b3de3861e680c4029469d4b640fb4a90af66fb47
+seen_titlehash:914908381f2b15cf9e71bb748616f608a02e4668e102f142db0297ee481af65e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss
+title:the domestic armed threat facing iran
+seen_urlhash:11772cdbc33bb86e1844e867d58f580bf0b22e63e110c60c815f3c4dbb3037e8
+seen_titlehash:289c8f5110764cb8c9130963c5e34887a6ad1b78a26467a7b895a9eb08f578b0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss
+title:syria detains assad era general accused of bloody crackdown on protests
+seen_urlhash:748ffba6a156e86a8424a5642ba75db8479ba7dae6996ddf31f3fd1e9f0ff26e
+seen_titlehash:32a0e147fc3ed198ce2724207febc47de3c277b547656729b8644a6eac776906
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss
+title:trump threatens to block canada s bombardier sales unless planes made in us
+seen_urlhash:cfdffe2ff439438d0988bf9fdddf194a1fedee8b4e11ee198b2e8aafb19453a4
+seen_titlehash:90191112b0e4edd0143fc9abcc7a8bf987a2e260d86c173c74ddac6a99495a17
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss
+title:russia shutters german consulate as diplomatic freeze deepens
+seen_urlhash:79786a62fb66d19e65735302d8a4b903150ba0bbb358c3be3e52f187472c913c
+seen_titlehash:6a00bdea160209844dbe49b8a1f79c98b82ad970df64d6a0f5ad83fd96971112
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss
+title:israel s plan to split the west bank
+seen_urlhash:60b25b001c1a3107d53794ab8cc1f4457d74775fbafa64e5eb880c95092ff52f
+seen_titlehash:cdd5f89d41ed6a18aa77ebb59d456be08fec0003ac1839fb1bb0517858510b1e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss
+title:thousands attend funeral of war criminal ratko mladic in serbia
+seen_urlhash:9cfedf12c2c01ccfed1bc4d0ab0633e8257cbbe5fe780ae179b63f87f71e1f8c
+seen_titlehash:59cd822de99f4fac1bc5275582b27baf60977a23ae8e8b261bba3d06c8a98fba
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss
+title:board of peace touts progress as palestinians situation worsens
+seen_urlhash:c7b890e946d6efe2c8313d9cf45da9fe982fe964b03c5b727b1901192f0b7e59
+seen_titlehash:d8908701c58cd25ba4236c7e8a0e77c03222418a1c1e9bd90e52a809b91a10cf
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss
+title:egyptian wrestlers keep vanishing abroad amid a sport in crisis
+seen_urlhash:07678e448ddfea65de1600e5a03d6374a3620ede920583bf205d8a3d4f26b217
+seen_titlehash:ad0c5fccdf82135ab5b17ecc654d23d212057ccff768e27209bb3fd8c5c5be21
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss
+title:nauru opens embassy in jerusalem
+seen_urlhash:1925b571e4497193a95f0c55c3c463086fd29c32012ca538aba93813a75bad19
+seen_titlehash:284f33b9ae1da810f8048a0e144e961edc6dcb7c9fa91e9fdf0b4ffd9eb42f58
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss
+title:bolivian blast death toll rises to 7 rescuers search for missing soldiers
+seen_urlhash:ddfca900ae467d9621d627d669547bfae4dd55940a6c0b1c1a2180c60cdb674f
+seen_titlehash:e3a6a5ab6b89d972b48ef86a55a9dd52372b370b2e0888447017c025dc0d278a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss
+title:gaza genocide in real time
+seen_urlhash:9dfdf1212340c03cdcf8f86964eecc491340e0c1a7eb0726edb1291d98946a3c
+seen_titlehash:ea554bc0c1345953175bdc4089b526dc0360b478f4365f5e7ed4f66aa91b03fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/serbian-government-opens-route-to-snap-vote-with-call-to-dissolve-parliament?traffic_source=rss
+title:serbian government sets up snap vote with call to dissolve parliament
+seen_urlhash:94ae8c99743e86f43aa55d397a38fc1008b1b20b90c606e6677c435d97add739
+seen_titlehash:32077025a85cb7bbea39afd10eb2dacc0226e5eb1de08ae1dc7b9cb51cd2c1b3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/7/when-does-a-family-meal-become-a-luxury-in-nigeria?traffic_source=rss
+title:when does a family meal become a luxury in nigeria
+seen_urlhash:6edf52483002b120cd0f0aa5ecebd9db4a113db705dc60dc455aea0f635e35de
+seen_titlehash:b86e1a580c4dd5f9196163ab90ed68b482694379d7bc28b5bb943231fead6709
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss
+title:kosovo signs up to us led gaza stabilisation force
+seen_urlhash:010142ce0a5d9cf56cb441251829b4dbf422c50008d10ecb8729e4586eaa1063
+seen_titlehash:5ad956303d25bc6250060405dacc9bbc6a4cda7cc640875876de84e4e5e53e39
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss
+title:claimed israeli capture of lebanese ridge reshapes negotiation dynamics
+seen_urlhash:d6c49049a17f28e8f7a78de59d116a0d945b645384f6414e934ddf4e9b60df3a
+seen_titlehash:2cd29edd614fb6a28ee42f6a6a1a57fa34f940279557f6323f3437c40436e503
+seen_reason:processed_not_published
+url:https://news.sky.com/story/greenland-to-get-huge-eu-investment-to-improve-relations-amid-trump-tensions-13582803
+title:eu to invest 171m in greenland amid trump tensions
+seen_urlhash:c0efdf08709665c4295bfc1d160e7efca29e0a6a6a8740939781415fdb36f397
+seen_titlehash:6dd1ed0f85e4a857c0eef9c2a66c991f568697808eb8df08d441103e2d38844b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/irish-citizenship-applicants-will-have-to-prove-english-or-irish-language-skills-13582906
+title:irish citizenship applicants will have to prove english or irish language skills
+seen_urlhash:9fab162dc481f774bec7ccb7bfdf7dc2995f16c9994df3fa83559238a5f02c44
+seen_titlehash:9efb822e1753c1178748f0ae8ee801dd44308a7af199a1f1773f1cab0dd6ae3b
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20260907-polarised-brazil-lula-remains-a-strong-candidate-despite-the-challenges-of-incumbency
+title:polarised brazil lula remains a strong candidate despite the challenges of incumbency
+seen_urlhash:73bda4f816216d58abc63d89ef42d310dc92c16e2da814c8eb514215c44743d8
+seen_titlehash:dabd8f73198cf5291356274c90b57f7c18ec6facaa025bec6b526c00160137cd
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20260907-tunisians-tell-story-their-summer-shortages
+title:tunisians tell the story of their summer of shortages
+seen_urlhash:fa86908bba046f1c3cd341e19fcae5c8e37d017895c42273930c9c41014bb322
+seen_titlehash:a4f1c36bf6efc57bc12dfd6a253b9fa08bb0bcd6d2e7c9069330ca42913dca0b
+seen_reason:processed_not_published
+url:https://france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says
+title:what we see right now is that putin has zero interest in ending the war ukrainian mp yasko says
+seen_urlhash:d6f181befcad586ac21d9529ea3391b488e39b4f6bd594bb10b3963dfc70ddb9
+seen_titlehash:fb4ce3b2aacbd41cf931ba7a2db04644e9a672352a00de194e6134c03335a20a
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack
+title:israel warns of full scale war if palestinian authority launches oct 7 style attack
+seen_urlhash:4b4e63cb7c52f62c865286907f3ac627784c343b25d7049532762f22bd8c0e53
+seen_titlehash:31b147891650a025fbca34bc16590960311d36385ce2d8433018d4cb4889cef5
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps
+title:eiffel tower workers go on strike after female staff sidelined for hindu group s visit
+seen_urlhash:024fbdc198a5a0389a3ec60ba6d417ceb7d5abf40e4a7dbd6609a8e5c14f8ea6
+seen_titlehash:0241e66f9b340cd1261596b1e66fc160bd743cee4b24f6133f4444d0fa5bec57
+seen_reason:processed_not_published
+url:https://dw.com/ru/берлин-критикует-закрытие-генконсульства-фрг-в-санкт-петербурге/a-79152559?maca=rus-rss-ru-all-1126-rdf
+title:берлин критикует закрытие генконсульства фрг в санкт петербурге
+seen_urlhash:09df102ea3a2ff43175fb7705dab1652e682e3b342fe5320a626f4754e1f226d
+seen_titlehash:a7a338769745dabe54c9574ba6e589cd5426b55215784adc5174e4a94dff9137
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-сербии-тысячи-сторонников-ратко-младича-пришли-на-его-похороны/a-79152153?maca=rus-rss-ru-all-1126-rdf
+title:в сербии тысячи сторонников ратко младича пришли на его похороны
+seen_urlhash:ce3d5e90971fd900f91836b52f09f641a1b48409878aa9bed12142aaceddd5b0
+seen_titlehash:e612e95689a3059c8aaf7be627d0f06f0ec0ec861d416a5e0d490e111ea829ec
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-заводе-vw-в-оснабрюке-запустят-оборонное-производство/a-79152072?maca=rus-rss-ru-all-1126-rdf
+title:на заводе vw в оснабрюке запустят оборонное производство
+seen_urlhash:cda58b7e4d945a930c6a729d8c186288f5d97d17f295f44252e199f2b7e310f5
+seen_titlehash:9ad430143aaa26504885276b877e14a5acc91830676b6340e16c15d94a716af6
+seen_reason:processed_not_published
+url:https://dw.com/ru/мирный-экспресс-c-чем-уиткофф-и-кушнер-уехали-из-киева/a-79152102?maca=rus-rss-ru-all-1126-rdf
+title:мирный экспресс c чем уиткофф и кушнер уехали из киева
+seen_urlhash:c1574cc35547226abda4d384b5b61cd3848e9855f7f135ac47bde89c24613c0d
+seen_titlehash:6662c27a06c2fcfc23468306d1a09db3a3c6370ad810d3fa2a360655f78e76d3
+seen_reason:processed_not_published
+url:https://dw.com/ru/франция-сша-видят-новую-готовность-россии-к-мирным-переговорам/a-79151660?maca=rus-rss-ru-all-1126-rdf
+title:франция сша видят новую готовность россии к мирным переговорам
+seen_urlhash:fdb9c7864f712e707fce11c0d3a5c22907ea6fbe95197955315ee85c9081ada5
+seen_titlehash:f54f1d4cb4b9c12fc7fbc4b45ec12273e75e58dc880bc67777882a9080d208d3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/video/2026/09/07/v-uzbekistane-istoricheskoe-zdanie-1912-goda-prevratili-v-centr-sovremennogo-iskusstva
+title:в узбекистане историческое здание 1912 года превратили в центр современного искусства
+seen_urlhash:c95fbdaba2a8dacdd44bb8c8dad5612d70cb4f1b597d3ed5a594baa769ce8d7f
+seen_titlehash:9ed9daf5cfc024911377ebfe1aa6ed020f9e6699522eb8f512a29abafd0fde7a
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/07/germany-seeks-dismissal-of-nicaraguas-claim-of-facilitating-genocide-in-gaza-ru
+title:германия добивается отклонения иска никарагуа о содействии геноциду в газе
+seen_urlhash:7ed1b39afa5fa56cffd79ba48fddb266b6fb6061b70abbf4f23828e081c92681
+seen_titlehash:7f9cfbee27e60ca27f2e06e5def26f929a009ee489435bdd5f571fa207964e06
+seen_reason:processed_not_published
+url:http://ru.euronews.com/business/2026/09/07/the-rise-in-fuel-prices-to-record-levels-sparks-protests-in-portugal
+title:рекордное подорожание топлива вызывает протесты в португалии
+seen_urlhash:522146cac0fcfd2be152fa260eeb8eafa379e5b0588f41e1c1749d31331c406e
+seen_titlehash:27f9cd35ed74e8db095777a4c296457b6ce6779c23ca49f770b0388393621fb3
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/07/spain-has-launched-a-criminal-investigation-into-the-mass-migrant-incursion-into-ceuta-ru
+title:испания начала уголовное расследование массового прорыва мигрантов в сеуту
+seen_urlhash:1c602f5da7a1484da8902c6ca7912b45534069495708a864f5f99145aea12b24
+seen_titlehash:0e58e5387a49b3dd57d18a046f338c2978708f7f76f2920ae2bae6e76874e2b8
+seen_reason:processed_not_published
+url:http://ru.euronews.com/my-europe/2026/09/07/eu-denmark-greenland-uvdl
+title:евросоюз инвестирует в гренландию 200 миллионов евро
+seen_urlhash:17fe73f6dad7c60c9285ae0ef405d4f69728c2240ac3b6928d03b220fef56d86
+seen_titlehash:c966b8285cfc479d7cedee3d6c0b9100a700f13f9d2c38909fa10d967d4fb1a7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/07/zhenu-aktsionista-pavla-krisevicha-arestovali-vtoroy-raz-podryad-posle-10-sutok-ey-naznachili-esche-14
+title:жену акциониста павла крисевича арестовали второй раз подряд после 10 суток ей назначили еще 14
+seen_urlhash:4ba215ab87aebf74509f9f17320e0182b6b1d1359511ba8aa5391195e97c14a9
+seen_titlehash:971e2d1561ee09183448c5a099135070a877f1911171dd4b4f98d4bf12268601
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/07/zelenskiy-ssha-obsuzhdali-s-moskvoy-i-kievom-deeskalatsiyu-na-predstoyaschuyu-zimu
+title:зеленский сша обсуждали с москвой и киевом деэскалацию на предстоящую зиму
+seen_urlhash:054a2094f101511ec9856459de6267ca8c36928a52654edaccebd8b09acead7c
+seen_titlehash:6bc492175b630ca24dfc54ac393e5f7f9ae7ccf91acde094699cda3f69ac0495
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/07/v-kurskoy-oblasti-po-nepodtverzhdennym-dannym-stolknulis-dva-istrebitelya
+title:в курской области по неподтвержденным данным столкнулись два истребителя
+seen_urlhash:fc73c835614d49575ad7cea40d11a2e8645e88a9bf303efdacdce559f2ef489b
+seen_titlehash:463cacb147d4fcd35642a799f9e571f969d3eaa41ddecb5475cab78a33fb67d8
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/07/v-assotsiatsii-vladeltsev-kinoteatrov-anonsirovali-otkaz-ot-tenevogo-kinoprokata-i-dobavili-chto-dyunu-i-mstiteley-v-rossii-pokazhut-ne-ranshe-aprelya-2027-goda
+title:в ассоциации владельцев кинотеатров анонсировали отказ от теневого кинопроката и добавили что дюну и мстителей в россии покажут не раньше апреля 2027 года
+seen_urlhash:b9984aa74ab048e6fbcb5331c44e65c21d8168f851a03b8d0a2f6269ce58420d
+seen_titlehash:81642f8c572ee36add7ee5c09c851d59098e0ddb8c81c35958cf2ba0f66f11c4
+seen_reason:processed_not_published
+url:https://ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1
+title:trump calls for us boycott of canada s bombardier jets
+seen_urlhash:43b8ec434a64d34bcab4b9d783d1401907de6d4f94badf356076c5a2a6913c6c
+seen_titlehash:4ae2eea04dd1a88a9e02c678f25b48deabf4cd810d46edb35ca3b70ae2ee5308
+seen_reason:processed_not_published
+url:https://ft.com/content/97477741-5227-4783-ab30-2b94090b4d43?syn-25a6b1a6=1
+title:uk ministers to be encouraged to take more legal risks to push through policies
+seen_urlhash:53917df0b17e5c597ec21a4d0516a2910fe58ba3670c549a5be2250cd3c63f08
+seen_titlehash:24488bca1d8436bb275172c497a20443fb1b80a3dfe96018bd1d042813008cd5
+seen_reason:processed_not_published
+url:https://ft.com/content/63573658-c54d-44ef-87b8-cfecb1dd1f3c?syn-25a6b1a6=1
+title:germany s merz is running out of time
+seen_urlhash:670f00134c1e55ce349d25a936196c35ac61e21618c8bcde0c81797c926d272d
+seen_titlehash:d560fe97eed88d2995a49c3f3e777503eab6b698c5dacbb32bfdeb480e3cdda6
+seen_reason:processed_not_published
+url:https://ft.com/content/f7f164ea-83eb-44d6-93e5-ecec8b2648d9?syn-25a6b1a6=1
+title:pricey oil is laying the groundwork for its own decline
+seen_urlhash:d3a7df1ee8e0a4f1850268cb2aaa4e97a297cc54ef477e9bff5fbaaa69e7ff98
+seen_titlehash:8455a937365460c4ecb646e155b3752bd7e6b48cdaa758dc74ab776f7281a820
+seen_reason:processed_not_published
+url:https://ft.com/content/4f3566e7-7076-4527-ab8a-5e71416ce5fa
+title:what to do about the uk s mental health crisis
