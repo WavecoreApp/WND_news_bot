@@ -99288,3 +99288,58 @@ seen_titlehash:13ece3f135e4edd8bb46d31980728fb23addc4d856e43890ae1af01aaebf86a1
 seen_reason:processed_not_published
 url:https://ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1
 title:the calculated desperation of trump a palooza
+seen_urlhash:db62396ec82c10474318b234acbada5150861a1830dd0e313180883009500b53
+seen_titlehash:0760b37cb51b729aeafa3a2355b1d0f37c1e1501632958cfc8516e38961506bb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss
+title:questions mount over what an ai slowdown would look like
+seen_urlhash:0aa24c14cddb0630a3700077b08faa40c0c561832401faab51aacc905790b1c8
+seen_titlehash:f0fe1041ec3ee816dad385fbe60b8a83ea0768bff7e54f58c1a4bae06afd089e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss
+title:syrian child killed after roadside object explodes near damascus
+seen_urlhash:e7b4c94ee922e6fe6a7ab39ca0eb16f38c97d49ee28f4c067c568e9eb0b2950f
+seen_titlehash:71551db53850891a2c8f60d262b1e7435f6e01b058b706237f80cef492d7de31
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss
+title:trump tells zelenskyy to stop hitting russian diesel supplies
+seen_urlhash:11e0f86d71cbf90c3956140797ff668a5c545de99d2c8564deda1a2935eca027
+seen_titlehash:002f01820e04a653809587833f64f7ea74f321d97574a3086afad76ba695200f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss
+title:french tv programme pulled after actress speaks out on gaza
+seen_urlhash:39fe07de332e5b75704d2d6a1a5c6b5aee6665458601b6fd6ddeda12912e14d1
+seen_titlehash:3794fced9ca66ed4b3c5e704910f9ea5d17df7b65b6a1a083614a95b05533348
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show
+title:sweden s centre left opposition leads election as far right slips exit polls show
+seen_urlhash:26703bb947c631f40b4a37e18d986dda2e523a66eaa3bc6695f45631a3697ae9
+seen_titlehash:061226e4143c1d09e5de20d5f805495c63359a58878bcfa33323d3dded2d9312
+seen_reason:processed_not_published
+url:https://france24.com/en/sweden-tight-election-puts-all-eyes-on-the-far-right
+title:sweden tight election puts all eyes on the far right
+seen_urlhash:061a0787552381828f932566b0594bfe76be90b0c7442aa60bf39ec3c43fc6e1
+seen_titlehash:f541811fda60d3f751cd404985abfd50146e2de9784007ba6ba778c2eae82bcd
+seen_reason:processed_not_published
+url:https://france24.com/en/ai-we-need-to-take-the-risk-seriously-and-have-more-coordination
+title:ai we need to take the risk seriously and have more coordination
+seen_urlhash:3db99f04dd5668bbcdde2009310f9e94511ad1bd9e09996424b6cdfc4fa68b9a
+seen_titlehash:2aed31d14380cd2299f3dacd709f2d8b661d662df1ba34c5c8475e56b6480965
+seen_reason:processed_not_published
+url:https://dw.com/ru/член-конгресса-сша-спасся-вплавь-после-крушения-самолета/a-79253274?maca=rus-rss-ru-all-1126-rdf
+title:член конгресса сша спасся вплавь после крушения самолета
+seen_urlhash:560e562ed04ba521a92fb12d91de4bbfb8eea89475bd6125ae7a6ebc8600cfe4
+seen_titlehash:9884d2ed5183e9452807c608787eead5fa27eb05df197eb23da491838187d827
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/13/brics-iran-uae-first-talks
+title:лидеры оаэ и ирана встречаются впервые с начала войны
+seen_urlhash:f1ffeea687e1c4678ca8630149e6b0644d626972dd24a923321e2d12be1f6a74
+seen_titlehash:3bccf63e54bb5d47a8f2d430c23ed0a31da2a29fada091cb3ddf390c72c9a172
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/13/sweden-elex-day
+title:выборы в швеции войдут ли ультраправые в правительство
+seen_urlhash:c75d347180012dc566dd6a75e3b1b97e99f5612a51b2a81255f50260dae252db
+seen_titlehash:97e81427446cf9d6f9c3a7c1e4b108048627c98b2d6a2cd0a1bc7d426ce709e2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/13/eskalatsiya-stanovitsya-faktom-premier-ministr-polshi-ob-udarah-rossiyskih-bespilotnikov-po-prigranichnoy-territorii-ukrainy
+title:эскалация становится фактом туск об ударах российских дронов по азс и поезду возле границы украины и польши
