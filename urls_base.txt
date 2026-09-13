@@ -98353,3 +98353,88 @@ seen_titlehash:d319695864901a45da134cb1160c1b03af887bae9bf4172426bceb37514f63e3
 seen_reason:processed_not_published
 url:https://france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree
 title:anthropic boss calls for ai slowdown altman and musk agree
+seen_urlhash:0b102aec8e5631c939ade6c465cdf741075779ca0e0bcc2eda49780588c90404
+seen_titlehash:6d64e837cbebc62bee4cc3b2377dfe2427725fb3bbe51a5250df3f5e01c824ad
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss
+title:they lost their jobs after posting about charlie kirk but some have no regrets
+seen_urlhash:f352db1779712c57c9daf1137c4c01932f309fb483ecffdfb6307c626aec1b84
+seen_titlehash:68f4ff59516100be9ad64463e7680c9ef668f704ad4a508ffc272ec522729d28
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss
+title:afghan woman deported from us in first use of alien terrorist court
+seen_urlhash:16043c8dbe9b09f0ce59abe836f0454562c174080397fd581a81a6ac5d8206b3
+seen_titlehash:835fa15c92276d4d3e5e74bc86634a5c8d5a1781e37bbd3d02e0b35cb5e92cf4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss
+title:best friends for decades until a dna test revealed they were sisters
+seen_urlhash:6d968c7c8e4793b3cae9857385f48e56ae8e04f66e4ab8aee41981a4fa46fce1
+seen_titlehash:1f53a49628cfa6c41b1faa91e190af715048a55fad7077d90f8df290fcb75d6f
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning
+title:nsw to put strict caps on screen time in classrooms while pushing for pen and paper learning
+seen_urlhash:61a9e96c707402453a401b246711fef1be820f976e1e1481a986475c2c31e01e
+seen_titlehash:ad2c4872e71c19aed6aa65a0237799ca8021789e7141547bdd502a943c5c51d9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/13/andrew-hastie-vows-to-go-all-the-way-in-fight-against-pauline-hanson-as-joyce-denies-buyers-remorse-claim-ntwnfb
+title:andrew hastie vows to go all the way in pauline hanson fight as joyce denies buyers remorse claim
+seen_urlhash:d46db95f4123376e712ca7405027bca7b622a91bf1f21a4a9276014682e5d2dc
+seen_titlehash:87ccbe51afb1c21c2a3f62bfdeb3d062000911f24d34ebfcf206fd5c5a3c0ba0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss
+title:iran s pezeshkian we are not at war with saudi arabia
+seen_urlhash:f757c8060b6bb39c775d720fb6f649a9de6fc0396b121af34ee7392b8c3e473b
+seen_titlehash:c579868baccd01eed203a62601a82f2ecd1916df06784ae239202cbc44e8a59d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss
+title:trump says he would love to see a united ireland during irish visit
+seen_urlhash:28da1db2eef211baa6bf91f985437df78c1a1fd25394d8f411babf25f407974e
+seen_titlehash:e0b4db72881c18711808b74330736481968183ed5276501997882cc322e5ab8c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss
+title:houthi projectile wounds two damages mosque in jazan region saudi says
+seen_urlhash:8076acbee076ee4e4042bb4c179fe168ab452d3ebb92702e874164017a0574db
+seen_titlehash:35fbdc3944ad3f5068621b5ecddf5ae064a73df2c139c76307c5093c31ff63f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss
+title:iran war live saudi arabia and houthis trade strikes over bab al mandeb
+seen_urlhash:f140a12cceb5a91e27d9cbf49305133b5eff16a89df3fc436df32b5e6082e5fa
+seen_titlehash:b02bac417f7bb78e1f4b74d1bcea4bed1c626e845952adb7452f549d1849b18f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss
+title:teen rescued after clinging to boat for two days off alaska
+seen_urlhash:0fd43914ec89f7d7f8da363eb9ea0a7b505b5b74f7d69ce7be80585526ebc2a3
+seen_titlehash:7d5e74e13632487d3cb559cd8807db6e19a3474eea159f53bd18a3e14e9f76f6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss
+title:death toll from philippine ferry fire rises to 76
+seen_urlhash:314fda02cc30278c2e3b23fbca787fdd16a566cc3973e0f118df66c08a49c2e3
+seen_titlehash:eecc5040c84f29878c1a764e12a74a76648b0f9e3e32f55a332eae896f6ffbf3
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss
+title:mbappe double helps real madrid thump rayo vallecano 4 1 in la liga
+seen_urlhash:4986810097f0255a2b10dbe63c06fcdaaeb10f8abc0467e17b08f933304223a3
+seen_titlehash:31df3159c3516b4d10421254e5b659d242865650fa22d8091817b726f0e6c299
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss
+title:alexander zverev vs ben shelton us open men s singles final all to know
+seen_urlhash:1e2f6c3de09879f25fc1c278c2d2407c81ec6b9492d6a635225b5ade3c52fc7d
+seen_titlehash:1ecc5200f7822bd8b91bc7b2aee4d6649a31ff41e7bcfae9552f652a23410c84
+seen_reason:processed_not_published
+url:https://news.sky.com/story/i-made-a-promise-celine-dion-moved-to-tears-during-paris-comeback-concert-13585222
+title:celine dion in tears during comeback concert after health battle
+seen_urlhash:368a90b0328e1555c771fe5e95352282c94d724bf87d36a640a9097cff4f2827
+seen_titlehash:19eaecbbd03f6e24ca11f5c96a541c7b555c97010f9bf565088d23c0d297c55b
+seen_reason:processed_not_published
+url:https://dw.com/ru/повреждения-запорожстали-после-трех-ударов-рф-признаны-критическими/a-79247682?maca=rus-rss-ru-all-1126-rdf
+title:повреждения запорожстали после трех ударов рф признаны критическими
+seen_urlhash:4ec7300021196837f5311433551f0d79f00dabe4fe765b21b47a58f3f852801f
+seen_titlehash:3a515d4f52518cd621d96c71bf0b0c28e1e02d8e7258eb4a5236ca9a586cb34c
+seen_reason:processed_not_published
+url:https://dw.com/ru/десятки-тысяч-человек-вышли-на-акции-против-правого-экстремизма-в-германии/a-79247670?maca=rus-rss-ru-all-1126-rdf
+title:десятки тысяч человек вышли на акции против правого экстремизма в германии
+seen_urlhash:17fd851ed022c68e6591e50a9144e6396fbe7a6d3e4ccf851c95e61aa4a83f3d
+seen_titlehash:53e3842a5f86d9a06f789fceb689ea1d6806a910248ee95618a608bc87b3abd9
+seen_reason:processed_not_published
+url:https://ft.com/content/8d8b5195-e16f-457e-ae77-f6e843934058?syn-25a6b1a6=1
+title:burnham resists calls to reform student loans in budget
