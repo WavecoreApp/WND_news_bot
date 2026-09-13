@@ -99513,3 +99513,68 @@ seen_titlehash:e621611168455abc2152ac37676b10ca8db5917f5e1a943ba90666935aad4952
 seen_reason:processed_not_published
 url:https://ft.com/content/7de7cc10-e7a5-414b-a40f-3296eaf49ce7?syn-25a6b1a6=1
 title:russians to vote but the outcome is already decided
+seen_urlhash:224579bc15fea69100cac6d21b6b4f89d44ccdc6e1f208d9e0506af79083645b
+seen_titlehash:60171962fe1e8b9ddc1b7520f21454bfe802e24896040f624ddd072f8f4b609d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html
+title:trump promises to lift tariffs on irish whiskey after appeals
+seen_urlhash:8c9c01cd3ac83df4529a719c6eded205198cd0848b938f338855a53757b01767
+seen_titlehash:058cea7c3e90b02e686875cb5b2835193b395e6c6cbd1eb38f6a7a1b75c72f96
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/14/queensland-woman-cliff-death-kelingking-beach-ntwnfb
+title:queensland woman falls to her death at bali cliff popular with tourists
+seen_urlhash:fd04578166a455c10dd03f1cc340cf0ab9c847f7ae18ddf61788275bea1fc984
+seen_titlehash:c6bf41fd3a3f1bdce08ef6c6b6f4df151bc6bd939953e73917e205892c78517d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss
+title:zverev defeats shelton in four sets to win his first us open title
+seen_urlhash:65b0ff11dac47ac271ed46a8e41d3f317d4e19d7b688d716556266a8201d050b
+seen_titlehash:0fa71af51c605239d183a98d0ca0174586050a1631974d544dbf417a3368c593
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss
+title:could ai really kill us within a decade
+seen_urlhash:1b7c3f4c6509a717d2ba67d3620d65643d237e0909f238da63c7999cf3b6099f
+seen_titlehash:53e1d588fc78cc85ca10caa18b5968df71d1aaca87aec1f8d8ab5bbc50e3101d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss
+title:barcelona beat levante as yamal scores twice to maintain perfect start
+seen_urlhash:2e5de981e5c52be38c183e5d17d1fb14c6600ca3dba51a4b6fedc6a974d015d4
+seen_titlehash:b3a31f2f652c021b266a9fb348ab6028d612cfe7d7882f19b47adac406e50b7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss
+title:jefferson wooden bednarek complete ultimate championship sprint doubles
+seen_urlhash:523afbf844fbf7ca03d428813e51e9e3d891cbdbbccce6917f007de23898ce1c
+seen_titlehash:a1e44b53cb6bb3ace19bfae68b8e3e3b3053acaba8617d9d11ef94cf7cceeaa3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss
+title:tehran and muscat delay talks citing regional consensus need
+seen_urlhash:a71680a0f09a4b480aba886dac3392f3dc80cf6549ada8056c6634bea968a79e
+seen_titlehash:542fe68294d354438f14d0e1a7e0f5634e8a6a93877e79a4a5e09742701927b2
+seen_reason:processed_not_published
+url:https://news.sky.com/story/threat-of-ai-catastrophe-any-day-now-as-tech-giants-pledge-to-act-13585603
+title:threat of ai catastrophe any day now as tech giants pledge to act
+seen_urlhash:46e6e698ef0ac95831eb0472735189ac68d1379a30d8b9bd1a50500665b93d36
+seen_titlehash:e6df63e4cea0b2731481e1ebc0dd92355ecad90b5c3ba15c169da6a3d0c058ed
+seen_reason:processed_not_published
+url:https://news.sky.com/story/boris-johnson-in-security-scare-after-train-hit-by-russian-drone-in-ukraine-13585471
+title:boris johnson in security scare after train hit by russian drone in ukraine
+seen_urlhash:c4dc54a98bc4d4f79c27c865c2d5bca1205d38cee554cc900909ca8f788a5c17
+seen_titlehash:f2c9a3031ed6ef56cff00e93c5b2ea78147ce0c319e717c3997ce87d943a359c
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20260913-alexander-zverev-ben-shelton-us-open-final-tennis
+title:zverev beats shelton to win us open 2026 and second grand slam title
+seen_urlhash:a1f9016819099ec164c4a834bf3d342efdad5c134d322a25e83ca04cefb9a192
+seen_titlehash:29f7f7b8622de078f118b849b8bda225eed3fa43219710d95ecb7c2cb4ec0d20
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-пообещал-отменить-пошлину-на-ирландский-виски/a-79253792?maca=rus-rss-ru-all-1126-rdf
+title:трамп пообещал отменить пошлину на ирландский виски
+seen_urlhash:983aff52eb000a0a030e7216f49d099ea073cfc7657aa9725790c24935b2d185
+seen_titlehash:c98b582f1090cd4d831ff33a7f6aab0eb329cfcd798dc5c5112d24727184fb00
+seen_reason:processed_not_published
+url:https://dw.com/ru/христианские-демократы-лидируют-на-выборах-в-нижней-саксонии/a-79253518?maca=rus-rss-ru-all-1126-rdf
+title:христианские демократы лидируют на выборах в нижней саксонии
+seen_urlhash:222b3eaf1c04d164918ffe41017ac678b1581c5e9561319af4e19836f3ba7b0b
+seen_titlehash:81f16a08c80a713340ce3404941ad55580d1e555f66d265c7bf4df999663f226
+seen_reason:processed_not_published
+url:https://ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1
+title:michael dell s family office nears deal to take 4 1bn insurance broker private
