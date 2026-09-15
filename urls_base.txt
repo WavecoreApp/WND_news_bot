@@ -102323,3 +102323,368 @@ seen_titlehash:b0d20580f76e0fe86fd39d5591ae387c20b4770baaf2f499e72261bb5a791fcf
 seen_reason:processed_not_published
 url:https://ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1
 title:the ex jpmorgan banker facing wall street s toughest turnaround job
+seen_urlhash:7a691416f1e121f81521b2f70a8817323af278f3f13d045e48313cf822df850e
+seen_titlehash:8daaf1a3481a26ad79231b27a08becf9e660eff92e5ede6792dc3d231df121d0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss
+title:what weapon could the us have put into space
+seen_urlhash:ad0e0820ccfd9d1fa81bf29d3c17a2d9d220b878b488cbb6f112929df6c25256
+seen_titlehash:c5c82963b043adcbdc304646b89824c351fa0df8ea772eb902b26e2933a91c8b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss
+title:iran war has led to us munitions shortfalls pentagon inspector confirms
+seen_urlhash:6c9a4b2b9bd9b0d56eb8e16542323bfb59565fb206c1e4761c2059ad2ef161e2
+seen_titlehash:5908fa49db9d43538ed6d0e0412c914e445c41a65646f03dd15694a1bd9a8cbf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss
+title:canada is a safe harbour for global finance carney says
+seen_urlhash:fe08e824d505d1b3afa4190dfb7c9796d75f7b2caf4bb7870e048ca565235d3e
+seen_titlehash:6533db84a4fa0f5a1b6ce3ea31b16ad350531e215d3b2c67f041556c4572ce3b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss
+title:ed sheeran says it was not my decision to drop macklemore from tour
+seen_urlhash:2d221eaf96e69819b105cfa8009e9559ee64d3e16ef1aaee05e5c901057b9b5c
+seen_titlehash:7665a587bdbd6a12ea0c850d78c441501670c9a949203f21e68256fe18843918
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss
+title:ash from mount etna grounds flights at sicily airport
+seen_urlhash:bbe879e37b6c5484440f073c39539e833fc430a2cc998ca657eb80626311d347
+seen_titlehash:d406711d5cacf78624dfe24c66d7a8982d0f4840942fa74d1039816b8f4ccc11
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss
+title:british woman abducted in malawi police say
+seen_urlhash:f25c9e90aa694d6fb1623ce0253479dfc9073d64820967801f08406596d3e698
+seen_titlehash:043368e2f0e1ad4c480cd82253fc3e29b2789352e9af4c804fe1c489823920fa
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss
+title:satellite image reveals major damage that shut crucial saudi oil pipeline
+seen_urlhash:ede2f602a98bf01565385d22ddaddd48f051c58959d3a41f93066f398530c980
+seen_titlehash:f0af85a4558a0a28e11825261829c73fa035988bef5a02f127da6dffd9f3c5ed
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss
+title:ukraine s postal workers deliver lifeline under russian fire
+seen_urlhash:f1aa5ccccf7bf12e8ee07647866afb14bd16a0c40bc80eaaa54ca99ca8fd983b
+seen_titlehash:8e7356cac4334acfeee7b0079ce2147d22c3e9b5f651c96dcddef0d212238af2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html
+title:yemen s houthis show growing sophistication and self reliance in weaponry
+seen_urlhash:9622f17593da6e3b8b09eee857928d4878ec1724e51a4cfde62557a54867acbd
+seen_titlehash:bde7d5aff4dd7c122f1575f4295e581f9b88c93dad8bcfaeba2cc9de399f0eda
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/15/world/europe/prince-harry-meghan-children-schools-security.html
+title:harry and meghan change children s school after talks with security team
+seen_urlhash:5cc4b397a4eefdd78ec6639cbea77b979c23119bb577ea3d6c14b21ac12f7147
+seen_titlehash:a8b882e6612e9705b4c1dad523d465053d3afdcf9d5c132ac6dc351f87e25902
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti
+title:indonesian wildfires threaten leading orangutan research site in borneo
+seen_urlhash:1000a049326547b3f2264a376735b3ebeb8a0e53151d0a53e6d6e4b6b93e9d3f
+seen_titlehash:75cbd46727e5047cca877d5df074826d2190925c70471b4d1085ec1f4146b84a
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/16/pauline-hanson-daughter-lee-working-remotely-for-one-nation-without-ministerial-approval-ntwnfb
+title:pauline hanson s daughter lee working for a nsw one nation senator remotely from tasmania without ministerial approval
+seen_urlhash:e270257a31ae9cfd20febea8745f6008eb002e0094ccaffb8d12b915ea747913
+seen_titlehash:742ed3456f611fb86c138f973e604d1fa0afaa36958c4e22d435831349264fb0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory
+title:datacentre giant accused of using ai while lobbying for victorian minister s support for hyperscale factory
+seen_urlhash:f92d06949726c3dba2d1fa25982f5ddddd80754dd2c1c32d9c01d1589c190097
+seen_titlehash:1b2dede6c696eed606918c0a7c19a4c5c41069928c1de3e29bf6242c5e7fa636
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss
+title:more than 100 000 displaced as they flee violence in yemen un
+seen_urlhash:1d45624640f7cb737ad459abb8b165a455974037d1c767f976760393cc51b378
+seen_titlehash:ca4f50ca09a3e7e3ef9e1dc8cde6c88ed7b4c0a895ba709ac0a6bda78524bf77
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss
+title:how an israeli cell orchestrated an anti qatar campaign
+seen_urlhash:3b365b753aba0238c948cdec62793a8d6fb9d683a07db9f80a99b9c7ed28c64c
+seen_titlehash:621f4e3ffb8426a0bb65912e00edafb3507e5390c1b115b7bd2d7233149d1b66
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss
+title:can china play peacemaker as iran s foreign minister heads to beijing
+seen_urlhash:98573d606fa04ee481e2e1d0d13242b77b6c0a54a5cd60363071cf9ac77a4cd8
+seen_titlehash:5a7dfa0861987b07bb4c785d1e91ff9754fd8cf8793503953bb1ab23141eccd6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss
+title:election in philippines bangsamoro region ends in hung parliament
+seen_urlhash:f7f4ecf0d2a2c87ac6c9ca3a1329f268a326e1174468c5e08d36b769f858c739
+seen_titlehash:fad2895aabfde62fbd7f3239bed042587cd423da1c4646310727836ba9037d3b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss
+title:fbi s kash patel defends hiring policy change on bestiality prostitution
+seen_urlhash:e96923cc475d91bf9e90fbf5174d2b93772cad33ff96ed755b33f543555819fa
+seen_titlehash:abd463ed3ad05000ae2b261e0afbe6cd5107cbc457687d342ac51f442c2c785b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/lucy-letby-inquiry-blames-hospital-for-complete-failure-to-protect-babies?traffic_source=rss
+title:lucy letby inquiry blames uk hospital for failure to protect babies
+seen_urlhash:b69b4d2158f35082e116f46396adb75aa5247c8044507703f3be71b78fd167fb
+seen_titlehash:773e9aad3485cbcc1c73305fe7266ff6c07965ba9478d529b367893c40b59a62
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/us-democratic-decline-threatens-global-rule-of-law-report-warns?traffic_source=rss
+title:us democratic decline threatens global rule of law report warns
+seen_urlhash:75b1122119c62e3d189882be66009a45ed19ca6679e0d26c19862466f77f274e
+seen_titlehash:3e6fcc268a955bd4d9ce16206f79642af1d8a07f042227bfe5d42da242a574df
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss
+title:will russia and ukraine halt attacks on energy infrastructure
+seen_urlhash:eca768826c2c9f21c1ae9f1d6336eb7272d3b7265b7036e610296a5070f90dba
+seen_titlehash:6e0ac1cb9703792b7fed6351175999d667c5374a3d051b71d2839c2d244535cf
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss
+title:china does not need to replace the us in the gulf
+seen_urlhash:66587e6678e7163097dece52d5fd04642e087e433b23ad9a78d72f4c26e47a01
+seen_titlehash:861dd0badc8387056a9f1a499a1b536a43939525b5ca71995ec80529b8df302c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/who-is-robert-kraft-pro-israel-billionaire-who-cancelled-macklemore?traffic_source=rss
+title:who is robert kraft pro israel billionaire who cancelled macklemore
+seen_urlhash:b9b09c4da78fabd9ebe756087ca757a259886c7a6b4d72e338bbcff7a963b20a
+seen_titlehash:6fd3c591c52a969c328d8b93f75a3e883e69967b619f204219ca08ff5484a1dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss
+title:canada the uk and australia should investigate the wck attack in gaza
+seen_urlhash:5c17e601f34476da90c51f96a7ec93bc143fd7e939d22a7da6da813a89079152
+seen_titlehash:f8f7183e035f7897acaea5a4bbad8d8ed9e9802e1e3ca651d5dcdddea8d3e7e6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss
+title:russia warns denmark after near miss in baltic sea
+seen_urlhash:36b01cacc35d9bbe8cdf6a02c4de26c205dd0768a654e34f376e329a53364ec8
+seen_titlehash:ec8fd18dec9f6251cf0c3f58dfe41b0fe58c7f27ff04858ee2297ffe645ebf7e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss
+title:carney visits europe can canada seek refuge with the eu amid us trade war
+seen_urlhash:bab570ce7b646a3437299b9c3bdb5436c4c3fcccb0992261033dff84bd5d7729
+seen_titlehash:37dcbad478029cd5cbdde3668e26942a73010b2c0b158e2ef7fc7e78a4371a88
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss
+title:saudi arabia faces high stakes choices as war with houthis escalates
+seen_urlhash:b725fcc5ee04fb506a7f4a2eac54bbe5aee6a0e47dbc987258d43b502f97a5b9
+seen_titlehash:95d1d11ffc5e7791ac90422f933c1ed1fe6f57e9f2df8f17dba885a12be97625
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss
+title:can the houthis hold on to yemen s strategic western coast
+seen_urlhash:f1cdcfcd627deaebddf42f986819bef5fefe3546258d0c010f4150eca7eb797b
+seen_titlehash:664c2739d8126ab52ac7cff8429c0455011701074f20d2ae661031d179059a36
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss
+title:who is nfl billionaire robert kraft
+seen_urlhash:55835146dceac1933d36165b2556106b4107e73e7e4c32125dc12ad74012a5a4
+seen_titlehash:9f9c8e80171eacd15dd2309fea01d4b1ac99911c7b825387829fc78514ee0bb9
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss
+title:what are space weapons which us says it has deployed into orbit
+seen_urlhash:7196e81ac38c7d00b589111fbeb89be383183b5ae6e632cd66340447dd5263ec
+seen_titlehash:793f2a82b18de26891b25cb9e1fd9b17c3dd2f1755b2ebc4dd6643e940fd5d17
+seen_reason:processed_not_published
+url:https://news.sky.com/story/london-misses-out-as-2029-world-athletics-championships-awarded-to-nairobi-13586119
+title:london misses out as major sports event to be held in africa for first time
+seen_urlhash:4a3b933d77ba2beabf0c148a6c70e771eab7f0f493b926c1429a5c01780791ef
+seen_titlehash:fb98c16be0dfcd5de1b9db1a694487fec417bf82d082afe1cb96db87b7950b21
+seen_reason:processed_not_published
+url:http://france24.com/en/technology/20260915-openai-anthropic-and-google-in-talks-to-create-a-standards-body-as-ai-fears-rise
+title:openai anthropic and google in talks to create a standards body as ai fears rise
+seen_urlhash:58d532772d7eae873bd42c24515a2cb5399f7a2b5ca13a718b17156a9c045914
+seen_titlehash:57eb4b375beb977016580231b3b9fba2aaeaa6b2a66cf118696ab52c0976dbf4
+seen_reason:processed_not_published
+url:http://france24.com/en/video/20260915-putin-looking-to-see-how-far-he-can-push-nato
+title:putin looking to see how far he can push nato
+seen_urlhash:8193dfab66878086de5bf361047a4929574ad448f4e50eabf871a4acee726c72
+seen_titlehash:d0971b30b6c614ede4058b2f92e2101b47af4b4f7f4a9d58a822975687c50cbf
+seen_reason:processed_not_published
+url:http://france24.com/en/video/20260915-us-diesel-prices-hit-new-record-high-as-trump-seeks-to-blame-kyiv
+title:us diesel prices hit new record high as trump seeks to blame kyiv
+seen_urlhash:d815364e184a9e095fed8c11e78f3d621e7eb3037576f41ba193dfaf4b3bbcc8
+seen_titlehash:077a0b3a925f6497398251db6313a5cc561c7cca0e6f7f94b9eb65b30851da3e
+seen_reason:processed_not_published
+url:http://france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets
+title:houthis seize red sea islands attack saudi targets
+seen_urlhash:0cb75c921d460773c891efcc052c62aa1edf206e34fc287fd45a675c00762906
+seen_titlehash:6827a891a1d6e829927915feab5f110269e92d5dadd13eed3ae31f089353814c
+seen_reason:processed_not_published
+url:http://france24.com/en/video/20260915-trump-s-claim-of-energy-truce-in-doubt-as-russia-hits-kyiv-petrol-station
+title:trump s claim of energy truce in doubt as russia hits kyiv petrol station
+seen_urlhash:d02971e631b9f8bee82dc0303609ece5a24d447fab7d51f9bccdab7d1fed459e
+seen_titlehash:0cac2e281bd51af227f104da7e5a3f399a704edf207d63fec1c4bae26b47dbdb
+seen_reason:processed_not_published
+url:http://france24.com/en/video/20260915-macklemore-taken-off-ed-sheeran-s-us-tour
+title:macklemore taken off ed sheeran s us tour
+seen_urlhash:b44b374a75aed1a64cfe2a96abba579ca2e3a1cf3a0e325689a00813ae6a7bcc
+seen_titlehash:e6b7f2d25a1ece0b4ad4c5e27f91c1adbd1870be70b0db7917bde31058e3bf69
+seen_reason:processed_not_published
+url:http://france24.com/en/tv-shows/arts24/20260915-matthew-rhys-makes-emmy-history-as-widow-s-bay-breaks-records
+title:matthew rhys makes emmy history as widow s bay breaks records
+seen_urlhash:3eb29c23a15fef14554ebab6c24e39d4178de431f132e87166570130b23de447
+seen_titlehash:bf75296b3420c233e56cb5fac5bf1ea4753ad7e51d1ea52a0e873b5303907da8
+seen_reason:processed_not_published
+url:http://france24.com/en/tv-shows/press-review/20260915-pelicot-2-0-uk-husband-pleads-guilty-to-drugging-and-raping-his-wife
+title:pelicot 2 0 uk husband pleads guilty to drugging and raping his wife
+seen_urlhash:3dd8639db939f901f0b70ed3212fcb7f1b68b89b376f825b2cd632787432c909
+seen_titlehash:ad6171666aec5fd99bdba3a1a7ee605bc5d39b37cc0fb79d8c3cb8615fe90ba5
+seen_reason:processed_not_published
+url:http://france24.com/en/europe/20260915-paris-ex-mayor-says-collective-failure-led-to-abuse-of-children-in-school-care
+title:paris ex mayor says collective failure led to abuse of children in school care
+seen_urlhash:95b376a1b8bb05d2d6627cc7ac55c8b8d2fa23ffbd509275fd9eb9b18dbbac9a
+seen_titlehash:db067f31ed8c2d18d4e0418461994c778d85cf60d6a9a5ac78b5bbc1b84c7beb
+seen_reason:processed_not_published
+url:http://france24.com/en/tv-shows/focus/20260915-rapid-data-center-expansion-incites-backlash-in-republican-stronghold
+title:rapid data center expansion incites backlash in republican stronghold
+seen_urlhash:34ff9541fa8ba23af577a558401f4dcc813bbf35c2abd77418f56b627b000a8d
+seen_titlehash:0897420be7d8ce4dfc0efaec1d52801931d251e3b61ffd7572f22cce41bcbd18
+seen_reason:processed_not_published
+url:http://france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia
+title:middle east live saudi arabia vows to hit back firmly after houthi attacks
+seen_urlhash:16b7a76fee29d3510f004de31ec3a0261285132a9c943cbe5c1e61d2e541ea47
+seen_titlehash:631247aab86b8afe623c5b586eaedc51bed9bf8b9a31f80b42c52a44cf2ec431
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-в-украине-разрешил-андрею-ермаку-не-носить-электронный-браслет/a-79281473?maca=rus-rss-ru-all-1126-rdf
+title:суд в украине разрешил андрею ермаку не носить электронный браслет
+seen_urlhash:5decad071126b06282615e4825c14929077f11a8a6dcc138262200ab3c5f03c8
+seen_titlehash:37d391dc04df35e2b6907a2f65d3ecb0a3934c1d0cf0863edc391b73fbcb24b0
+seen_reason:processed_not_published
+url:https://dw.com/ru/axios-демократы-в-конгрессе-могут-расследовать-свадьбу-сына-трампа/a-79281375?maca=rus-rss-ru-all-1126-rdf
+title:axios демократы в конгрессе могут расследовать свадьбу сына трампа
+seen_urlhash:7a9727fa77f196aa374b73c990ac7654d13acbb35873753fb00809b224fb79cb
+seen_titlehash:f7f2054a7dd9043772688f3250de9be275368d70077b55ca65b1234afcf01673
+seen_reason:processed_not_published
+url:https://dw.com/ru/цены-на-дизель-взлетели-план-трампа-по-украине-не-спасет/a-79280655?maca=rus-rss-ru-all-1126-rdf
+title:цены на дизель взлетели план трампа по украине не спасет
+seen_urlhash:58e07516ad4394ceadcf8195b12bccf779a040a2a867276fc726fd268eeb12ec
+seen_titlehash:bc8fa8ea5b165d1baeb6a92857c059ee3da67ce73929ddc3155f3adb431baadf
+seen_reason:processed_not_published
+url:https://dw.com/ru/иностранцам-на-фестивале-молодежи-в-екатеринбурге-дали-интернет-без-блокировок/a-79279564?maca=rus-rss-ru-all-1126-rdf
+title:иностранцам на фестивале молодежи в екатеринбурге дали интернет без блокировок
+seen_urlhash:48ba307ad1a08176e24d57bc7384096213deef22bdfc8462dc2c2d9ebeeb03c1
+seen_titlehash:6247debb75ab30dfaa72bd5232b7343ca5b9202c5ce8446f661b7e04470e6c0a
+seen_reason:processed_not_published
+url:https://dw.com/ru/reuters-три-крупных-производящих-дизель-нпз-рф-сократили-или-приостановили-работу/a-79279820?maca=rus-rss-ru-all-1126-rdf
+title:reuters три крупных производящих дизель нпз рф сократили или приостановили работу
+seen_urlhash:0379e5ca7bbc7460aed0a25b9613731b3f1bc7d85f08840176d5e2c576924894
+seen_titlehash:6122b34b3ec8216f85da8a17b2e85012122f7f416d8694c2404e3b8a1bf32ff2
+seen_reason:processed_not_published
+url:https://dw.com/ru/опрос-рейтинг-хдс-хсс-достиг-исторического-минимума-в-18/a-79278057?maca=rus-rss-ru-all-1126-rdf
+title:опрос рейтинг хдс хсс достиг исторического минимума в 18
+seen_urlhash:8f1ef51712eec372d997a18f313f90f695505c4813f5c7ae1b1ceb301c0ee449
+seen_titlehash:6f422c03d59291986bc5cd3996a31e2c2eb0045f2bf77ef52da688780fb65773
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/15/use-eu-made-in-erope-budget
+title:сша грозят ес ответными мерами из за европейского приоритета в бюджете ес
+seen_urlhash:a1e035e3cc58d954456120089b069d28d1afd5e62eaf4026394da1266714f051
+seen_titlehash:537de5315eb5552ca0948e9c6ba39c606a453a617a93d038d69298065ad01279
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/15/no-amnesty-for-puigdemont
+title:верховный суд испании отказался амнистировать пучдемона сохранив ордер на его арест
+seen_urlhash:7425b3dc611a3260692f2efaf005f18175c437982ebef4ccd787d3ac693d1a3a
+seen_titlehash:022ad3d8d4dcda24d203667a4b0838b38aadbbd8b686bc08c82426149f2f81b6
+seen_reason:processed_not_published
+url:https://ru.euronews.com/business/2026/09/15/ecb-staff-raise-stability-concerns-about-rumours-of-lagardes-early-departure
+title:сотрудники ецб выражают опасения за стабильность из за слухов о раннем уходе лагард
+seen_urlhash:132905f836b69f337078cf7615927b2c5c9c274d16e29a9cec2bd18cee7930c0
+seen_titlehash:22b6e01319ca3b100a0b269ea2afa64a26df5a139e1c186e29d8c99c24340eb8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/15/un-wants-gaza-investigation
+title:оон призывает израиль предоставить следователям доступ во все районы газы
+seen_urlhash:f7681ee11ed222b54acd2dde2f6d304f8a3e3cc9f4d974cbbcbe2e2b6ca128b3
+seen_titlehash:57371aa7a0775e52b56672a0b6b9e2d371ec1ac70e1832100514953e5341775a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/15/do-you-know-where-ceuta-is-eu-parliament-erupts-over-migration
+title:вы знаете где сеута европарламент бурно спорит из за миграции
+seen_urlhash:9ed839c4ac80715bc56d1ffdcc218f119b5f3b705819cf2f421b14b0b7bb4aad
+seen_titlehash:be90e0f6b8cb0653b1a1d574edbda6466ef702888599072d0ebd711c8ab07cf4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/15/at-least-150-pro-lgbtq-protesters-were-detained-during-a-crackdown-in-istanbul
+title:в стамбуле задержаны не менее 150 протестующих в поддержку лгбт
+seen_urlhash:c169ddd3fdd65773d9ec32cd067fc86bdfe1e958119a99430c56342f539ce1b8
+seen_titlehash:f1bef58db63443d7bbe9ca8a8c1d663b5bf95da9c1cfd311bdc2151de1e5ed68
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/15/novosti-dnya-15-sentyabrya-2026-g-vechernij-vypusk
+title:новости дня 15 сентября 2026 г вечерний выпуск
+seen_urlhash:8ca54d479997bf66a7ea539137f1280f2b71d4ad1aeb09f8d6d4e4cfaaee15b5
+seen_titlehash:9394d92d531b432f0430e0803175f5aa5ce8e4e961622a3480b6654febe2e85a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/15/how-can-europe-decarbonise-without-sacrificing-economic-development-a-new-study-offers-a-r
+title:как европе сократить выбросы не жертвуя ростом экономики новое исследование предлагает план
+seen_urlhash:85f95d99c59f590ca21dd570425bfcad4c091c3fd6096c5b320a0c797fbc0e00
+seen_titlehash:f55c1a82406d6599facd7836ea56fd756a093d8b71c8ec7250201f0f17022599
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/15/itw-nicusor-dan-president-of-romania-u
+title:президент румынии предупреждает что война в украине может продлиться как минимум ещё год
+seen_urlhash:495a4cd2669b6af8b457c241bbbcecdb678db0a1b6feb04a1a430ef02a86ded9
+seen_titlehash:d7f185d91670f8d316f5b4b3df3493c3fdbdc39211f6df7f08ffb4d49b73691c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/15/losing-access-to-bab-el-mandeb-would-be-catastrophic-for-the-entire-world-qatar-warns
+title:катар предупреждает утрата доступа к баб эль мандебу станет катастрофой для всего мира
+seen_urlhash:7541764449183b8d48d4024eecaba041d5a4fcd8ae3c501aba4948f2fa57e77e
+seen_titlehash:d4b503bc2212d2e82a2d6791c40b1004c35095ea18c1dc57cf95bfa8ec78b20b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/health/2026/09/15/living-in-deprived-areas-is-linked-to-poorer-brain-health
+title:жизнь в неблагополучных районах связана с ухудшением здоровья мозга
+seen_urlhash:9dfd22d9afa5d7bf37270fa3a9274322b46a9cb56f3039448facb3cf3cc511d2
+seen_titlehash:81b5704e3ce75dad4a12f91788cd22f9d2de8573442aa02be01ed4e97800bac0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/v-leningradskoy-oblasti-vvedut-limit-na-toplivo-na-azs-kazhdaya-pyataya-chastnaya-zapravka-v-regione-ostanovila-rabotu
+title:в ленинградской области введут лимит на топливо на азс каждая пятая частная заправка в регионе остановила работу
+seen_urlhash:17c636a0117c412c7ee717e40019f4fd323ed8156a3c46d6f0da4ab4dea77fe3
+seen_titlehash:76b6b092f38af9574765e78fa8139b6e3ddeb8d1fc72849835c3cf93641af821
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/v-germanii-nedaleko-ot-voennogo-aerodroma-upal-dron
+title:в германии недалеко от военного аэродрома вунсторф упал дрон
+seen_urlhash:3a4ced47d68cada7daf6b57096dca214d680fe1d6efa3d3c6e173e0abbbac7b3
+seen_titlehash:003dba605c8e2cb0f1f8b856dcf9513ccf5a5ecc20d51ffaa997931a7af42925
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/byvshiy-politzaklyuchennyy-ivan-lyubshin-obnaruzhil-chto-iz-ego-pasporta-vyrvali-neskolko-stranits-on-schitaet-chto-eto-sdelali-siloviki-kogda-on-pytalsya-uehat-iz-rossii
+title:бывший политзаключенный иван любшин обнаружил что из его паспорта вырвали несколько страниц он считает что это сделали силовики когда он пытался уехать из россии
+seen_urlhash:87596422af1c42bb95519f4a2e7bb8ca9f019b0f335620561ebb279983c60e18
+seen_titlehash:09a17fe0e17875759c3663ad03e59f749332ef2ebeb5d1dbf5ccb38a69dd0b36
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/v-peterburge-chlenam-izbirkomov-ot-yabloka-prishli-povestki-v-voenkomat-na-pervyy-den-vyborov
+title:в петербурге членам избиркомов от яблока пришли повестки в военкомат на первый день выборов
+seen_urlhash:38b28102049c578f2121fce6943cf958aa203cb513cc9263bab2587717f95cf5
+seen_titlehash:f60d2f9e9fd034e00dac491e59af17c17a3e0e1a106c8fcfa1c61422ba518536
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/09/15/glava-soveta-modelierov-ameriki-stiven-kolb-napal-na-zoozaschitnikov-prervavshih-pokaz-brenda-sos-na-nedele-mody-v-nyu-yorke-on-zatykal-im-rty-i-uderzhival-nogami-ego-otstranili-ot-raboty
+title:глава совета модельеров америки стивен колб напал на зоозащитников прервавших показ бренда сos на неделе моды в нью йорке он затыкал им рты и удерживал ногами его отстранили от работы
+seen_urlhash:9133387ecc791434caf8614290f0bf35480f05c83e0a80a1f8187698c772a17c
+seen_titlehash:6fe388b6e26a96aa874dfc39eba78047f5036032d325c0352cffd4b94010010a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/09/15/pochemu-ulriha-zigmunda-nazyvayut-samym-opasnym-chelovekom-v-germanii
+title:почему ульриха зигмунда называют самым опасным человеком в германии и как он из торговца дезодорантами стал звездой альтернативы для германии
+seen_urlhash:7be3988d4ac73f269a5f7abfdd69b26c3804d52dfc82daf4ff74c945f6607c53
+seen_titlehash:a145be7388e4e2c27820a1abc89e51bd782380dd74387a2adeb1ca7db61d5e35
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/byvshiy-avtogonschik-nikita-mazepin-mozhet-stat-vladeltsem-razrabotchika-igr-mir-tankov-i-mir-korabley
+title:бывший автогонщик никита мазепин может стать владельцем разработчика игр мир танков и мир кораблей
+seen_urlhash:1e09a7479f9dfb8e6afddd391240483bc90d30bd2ad9623273e4322f2042ef19
+seen_titlehash:b4478d54cf626084313105504f6ce117d8b5769251eb8fefd7c2868400e19966
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/demokraty-v-kongresse-nachali-rassledovanie-iz-za-togo-chto-umar-kremlev-oplatil-chast-rashodov-na-svadbu-syna-trampa
+title:демократы в конгрессе начали расследование из за того что умар кремлев оплатил часть расходов на свадьбу сына трампа
+seen_urlhash:c394499a784e85b7a0ea79ab734187b717be137dc84497a1fe3405d27751182a
+seen_titlehash:1fc114d146463f76fd5d732fa4ab4800d0aa9a6635c8a4156c62399696c5d4aa
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/15/sud-v-ukraine-razreshil-snyat-elektronnyy-braslet-s-byvshego-glavy-ofisa-prezidenta-potomu-chto-on-ugrozhaet-ego-zdorovyu
+title:суд в украине разрешил снять электронный браслет с бывшего главы офиса президента потому что он угрожает его здоровью
+seen_urlhash:d678b62238b368570e4b740ace63362b9840a93a44f332f2071a29d3b2e052ee
+seen_titlehash:e278601dcc0b53df0f2a056faf2d207c44b4fcf4118bb1f13892e3fe17f25edc
+seen_reason:processed_not_published
+url:https://ft.com/content/7e2ae9c8-4c94-4550-bdfb-bb003e4780d8?syn-25a6b1a6=1
+title:reform uk s leader in wales steps down after arrest on suspicion of assault
+seen_urlhash:b9264e506e38f481bf364a1e29e2365aa8007462271aa54d8e2998c3ced3e3db
+seen_titlehash:8f9838dacf6b0427ad3540a6dd36daa8e8a2efabec40169dcb691dffddd289eb
+seen_reason:processed_not_published
+url:https://ft.com/content/cacaf167-5d13-420c-8624-4e5f9b227028?syn-25a6b1a6=1
+title:scotch producers fume over legal protection for english whisky
+seen_urlhash:8331372ab2619956b8e7d6bfbe03637cef3dc660d619dace87ed58fef8dcf440
+seen_titlehash:fc8c3c251a494d568a58577a6649cd26c8ab73302d0b8c948efa8c49368227e9
+seen_reason:processed_not_published
+url:https://ft.com/content/a3830162-2f40-46b7-8259-0db45fe2acef?syn-25a6b1a6=1
+title:us prosecutors say chinese groups used binance to launder 61mn from iranian oil deals
+seen_urlhash:a02540f706fe96c1663c2dacd759b6a8e67f98b8e9b63cf240161ed7ece19c71
+seen_titlehash:1a9a2cb847f4b84091ac52d7febe108fde4bb50c52fb317e4fd09870e2c2c7c0
+seen_reason:processed_not_published
+url:https://ft.com/content/e89bfb29-2aef-40ec-9c9d-b9c1afa783a8?syn-25a6b1a6=1
+title:iran war has left us with munitions shortfall pentagon watchdog says
+seen_urlhash:65bd9ea42edb46f6b8181155a007ceb04495bb449c0ce60ce3b0b4845582b85b
+seen_titlehash:c14770dd4122b31c98c91105b466184f9529d5e6e88cc561aa01b6373a48b788
+seen_reason:processed_not_published
+url:https://ft.com/content/08ddd08c-97b2-46a0-a4ed-b3b4ff5ebfd9?syn-25a6b1a6=1
+title:saudi leader visits egypt as war with houthis intensifies
