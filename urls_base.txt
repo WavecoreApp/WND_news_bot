@@ -109823,3 +109823,78 @@ seen_titlehash:18fb6b2f0fbb70ceec7006d8147028db6a8e1c7bc6c187f1a06ddbe3751629aa
 seen_reason:processed_not_published
 url:https://ft.com/content/af1c1aee-0e14-4894-b7ec-9d012d9416de
 title:toronto film festival is full of treats but no clear awards frontrunners
+seen_urlhash:4b462b90f68f819b28910a29298b6367b2df6d1516e91e1dd476536495e31e7f
+seen_titlehash:c95b608a29c24ad861cb58de56be712c0da9bcc8f9767a97b50261c87b46870f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss
+title:trump says us will form ai force and appoint an artificial intelligence tsar
+seen_urlhash:637b98c652f5e87b98b0b87e0d9d726c0cb719dee5579c001cd1193b9f38d560
+seen_titlehash:a5e93bc59772beb1bcdac66f0c95c6d8dd2eceda24fd2d33348046b65937d5cf
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html
+title:israeli president pardons ex soldier over killing of incapacitated palestinian
+seen_urlhash:1bbb00598fbf3b14b311b8ac029f366ce7df9675b53b8988363e221b36079427
+seen_titlehash:fc1051e28b2c34f62d905b427e4cb61090f000becacd8407e4220be5dbb33dca
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html
+title:group with al qaeda links claims responsibility for attack in pakistan
+seen_urlhash:c3dbd66b9102f653f32d3806622d06513bffd57e23cb6fe4a0b7807733b0520c
+seen_titlehash:d7ca6c65aba5fec5f17bbc97ed8a7adc8961d550b31777c83761ed5df5c98952
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/20/tobacco-shops-attacks-melbourne-ntwnfb
+title:as tobacconist firebombings intensify in melbourne nearby stores are being denied insurance
+seen_urlhash:a2b855a57eb8f5f9103003c13616d2c16f7408106fb4e1ec5b58f18b0f96ea23
+seen_titlehash:2d127d9165ca1daa572f364a4d5ae6e7b83c979734e131d3252f4b3c5c43a697
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/20/victorian-labor-promises-new-offences-to-close-domestic-and-family-violence-loopholes-ntwnfb
+title:victorian labor promises new offences to close domestic and family violence loopholes
+seen_urlhash:f649479824cd38654e177081a092417d3737dc522fc9b3e3df6f8f58d019aa0e
+seen_titlehash:fb30c8cceb8912b4506612c18179e4c10c0a13939744762de8917596e7bf09fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss
+title:israel s president pardons soldier who killed wounded palestinian in 2016
+seen_urlhash:f6503c846a4411f1d97d1bb0ac5898e4669de577bb94e048b265c7e9ddc4d17e
+seen_titlehash:eebfcdb36ec65489c9dfbb756b4c782002d3c481659285e3bed361999989d874
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss
+title:lacking equipment but not ambition gaza students try to keep up with tech
+seen_urlhash:f70145305231affd1f21460ce49f9751f43a3e6991abded8a32baa92747c7074
+seen_titlehash:f979fa192b01c8bd953a11d7590e0f34b41f24cae26d9f7cf8b2eae34015643a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss
+title:hegseth kicks off send me tour amid iran war backlash
+seen_urlhash:8cb22b461c834b8b21b617ec047db57eb0ce2d53ad8f4ec04f0a16e927cf804c
+seen_titlehash:1f388c7943a11985925a4fe11cda99f512012ccf45275f615885f781e12a9053
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss
+title:denmark says binding us deal on greenland won t compromise sovereignty
+seen_urlhash:95bff1fdeef4a98b9397ba3d83669d9a5f96bb5054d916ffcf3b1043cedc4bfe
+seen_titlehash:7dbe60a94adc019cc07a4b0e6943c26b48634d4c73f266e2584085290e5a81c2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss
+title:canadians warm to eu associate membership proposal
+seen_urlhash:1d88609b7bf05aa90dbc88fa1f1176c8acea958cdee6b850017f737b4a5f930d
+seen_titlehash:4313a690d7e6caa39d9139e6510f77b12069e0c8ebebfb888dc4a88608055c5d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss
+title:trump says he will create ai force with new ai czar
+seen_urlhash:bd12bb30f877cd81d71d2d87655ffaece50b67bff879f764a2b0a1a5b1d1c3c3
+seen_titlehash:d87f4de6c7996dcb7df50757e3904fcd00c9d34a9a0b65740546bd9c650fb04f
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260919-two-arrested-for-louvre-stunt-for-fun-in-mona-lisa-hall
+title:two arrested for louvre stunt for fun in mona lisa hall
+seen_urlhash:b35e8e406c1136af39109f843fd168681252a74f06e8521cc9762b65804ce90e
+seen_titlehash:1a1236b3a8717d705b1a4ce6a2404354f47f37eefd080aaaf5cfcfd286ef8139
+seen_reason:processed_not_published
+url:https://dw.com/ru/удары-рф-по-сумской-и-херсонской-областям-шесть-погибших/a-79339989?maca=rus-rss-ru-all-1126-rdf
+title:удары рф по сумской и херсонской областям шесть погибших
+seen_urlhash:4c982dc79f8ea5da2b4e475ae3b2d40bc6052a66bdac3d2d48a35769f6ea41f4
+seen_titlehash:8e6dd80c659bdf765f3caba180c9c765bef73ff53e23afc34fe4fa211e7ae58f
+seen_reason:processed_not_published
+url:https://ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1
+title:trump announces ai force as alarm grows over technology s advance
+seen_urlhash:6fdf396ec921c728e8a8de9552b8ad526a17d418b8a9bfc056944da966fcd80a
+seen_titlehash:3ad102839d94afcc4ecb6a9269ddd09de7073be800f0eee4d5c9fc2a420e6d5f
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done
+title:donald trump drops demands to own greenland but the harm has been done
