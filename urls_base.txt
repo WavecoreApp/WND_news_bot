@@ -109898,3 +109898,53 @@ seen_titlehash:3ad102839d94afcc4ecb6a9269ddd09de7073be800f0eee4d5c9fc2a420e6d5f
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done
 title:donald trump drops demands to own greenland but the harm has been done
+seen_urlhash:f1e2d27fab28001ed344f3c50e9f064226976dd110686c537b231b859297bcfb
+seen_titlehash:3d1d4e7d9b27216da6b0bc66d7e4d25d82bb97690361357dbce8312b9a486e2e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss
+title:our head teacher was an abuser we joined forces to get justice now we re married
+seen_urlhash:e9b437c33bb637faee65c7ca4699110b19770cdf6a24fb3d7d6fb6b9b3cb7fce
+seen_titlehash:f6d2d1ff3237238895073a87c91b40b4d7ac704ae347313a566e0f8bf3dea509
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss
+title:cultural treasures are being destroyed by war and people want justice
+seen_urlhash:203624001f3b820edfa453807ad33998f138bba0b93b8eaf0d96dc10019e969d
+seen_titlehash:a2eee7f1a37e8b50c6f6f8c8ab6cd34cf0bf9738288eb2458ff8f84563896650
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss
+title:mum s viral barefoot race sparks debate over india s education crisis
+seen_urlhash:f34d96cd852615b1e7708a0000e30d7cab2c76975b1dac91271f759052981e3b
+seen_titlehash:1da674b44d9d4eb25685b3ad25b9432ef021f8d98aad0d5becb48a70aeed4207
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss
+title:not all ai workers think the tech could kill everyone
+seen_urlhash:7e51c723de71ed2b593b1c0e56cbc64277c819ff82be935e8ed93a4bea080934
+seen_titlehash:6df79d8cf146c2d9ed6a3fff7270b4f2f5e425a61910e355e92ce79dd8406e7d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss
+title:i don t even know if my parents are alive the war heroes jailed 25 years ago
+seen_urlhash:93703e8e64ac98b390cc3a419fb027ee3d61dc4804e5455afedfe729ab91b9d9
+seen_titlehash:2e90bcf87636ac99e5aaa3fe31fe4a10ada70dad93ae662ecd4ca4900e186e1c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb
+title:news live taylor pledges one of the biggest immigration cuts in australian history tributes for victorian greens mp tim read
+seen_urlhash:ab4714caa170abb60b2878195298475145a898f1183406bb85d337e77cc1665a
+seen_titlehash:57a02a28227d7ca2358330adde21cc2c434a26eb3d8395339af14586ccebe99c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss
+title:turkiye backs saudi arabia s security amid escalating houthi attacks fm
+seen_urlhash:484c1f3ea08e31df97ca315f9f598b564a3aaab5fc945e69c6d27f1435fe875e
+seen_titlehash:644156f2664c0c41b32eb8238d4e7658aab708cf71418da542b2f3b7034bc403
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss
+title:saudi led coalition says defences intercept houthi missile fired at riyadh
+seen_urlhash:ace93b938b408a09641c964eacfff08fb7fa4a6c0c3864ffc5411e6e8bbcf7ad
+seen_titlehash:c28aa9e129333dca93ac1b7601485b7d9d67896d21d1bed23c382c4e77109af1
+seen_reason:processed_not_published
+url:https://dw.com/ru/журналистов-cnn-ms-now-и-politico-не-пустили-в-белый-дом-после-запрета-трампа/a-79340497?maca=rus-rss-ru-all-1126-rdf
+title:журналистов cnn ms now и politico не пустили в белый дом после запрета трампа
+seen_urlhash:e7c196cb04297498fd645a803c70981ed5c84bf8051d0bfd87b27ce172461cc7
+seen_titlehash:38758680340e8857a8e1b769589e074a47e4297777b6a0613ccae6b91ba0d5e5
+seen_reason:processed_not_published
+url:https://dw.com/ru/марин-ле-пен-россия-не-изменит-политику-франции-угрозами/a-79340091?maca=rus-rss-ru-all-1126-rdf
+title:марин ле пен россия не изменит политику франции угрозами
