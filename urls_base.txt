@@ -111113,3 +111113,53 @@ seen_titlehash:ca7539820703db300bcd3e0ba2d47ecd3dd1e45fc8cce38f9c0fb8216b46d0ef
 seen_reason:processed_not_published
 url:https://ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1
 title:germany s merz stands his ground but for how long
+seen_urlhash:e57a18b0be7123246ac2aa28b13e4bdfff25e7ec6d230393793c454b1aa095bb
+seen_titlehash:abe57d34d343a0bd124fd0ef471eb258fb775fc9acba106eed3071ebe591332c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/20/world/americas/haiti-assassination-trial-moise.html
+title:thirty more arrested in jovenel moïse assassination
+seen_urlhash:3b2c6b8a23e1284ac0b73713722e1c7fd8e405cca523a47fcadcb6347da0b36c
+seen_titlehash:6bb05ddbb6ef6030ed2676bd586bdf3baa669cba100eb0ee62d951e7aafd411b
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation
+title:more than 800 000 bees stolen across far north queensland in sophisticated operation
+seen_urlhash:b51fa39fc1807092bc6c3bb35b3420efba253aa3ae395f87700ddb8d8aa8bab0
+seen_titlehash:baa92a5880310a3e9993ab1c5a3e55fc2b72fbaabebfd2433da8ce4b909c0ebf
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb
+title:police allege mother behind blue mountains stabbing attack on three children that left one dead
+seen_urlhash:43bcde74d6736e5c1850670ed33b9397768afd56e2efb415395ce35ceab80922
+seen_titlehash:98279a4768fd794d55b35bc0a9b8d9de7e535f0d0254f0b226aca6b407912747
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss
+title:iran war live tehran warns us against new strikes fighting rages in yemen
+seen_urlhash:649e17cd850b64075d22b918393a3368886992ecfe014562db73b3cd2f67f1ae
+seen_titlehash:dfbd52f63ecb28e7c0ff7c71893fe3403cf23e3f000b199828ca0aac3e7dedba
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss
+title:ice officer shoots and wounds man in austin texas officials say
+seen_urlhash:09f1a20aec66727875ac1647ce643b8ff890fd5af4dab36250b6f7c651c0329c
+seen_titlehash:096161b9ebb4cf5b460e6ae1e0b7befe1bab4ec1582e9f5a598451202871403c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss
+title:polls close in russian wartime election with ruling party set to dominate
+seen_urlhash:a53d4f41bfa81aa1e8a0384766b1cd315b4c27a80949dedfd1d9aae240fe2c38
+seen_titlehash:2d4c3ad9c30bce8bdadf086ba2153cb89012f9bd7731a3f736d627d2d9f5002d
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force
+title:thousands protest in france against bill expanding protections for police use of force
+seen_urlhash:65241150fda08d4529e01614b811604a34d2cfe13dc3f65eead8ce35544d9953
+seen_titlehash:00c7ad94129ab398f12007f7f0018d7e8a1d2c7c481200978926d43d98908a59
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-клана-пришел-на-вечеринку-левой-партии-в-берлине/a-79348969?maca=rus-rss-ru-all-1126-rdf
+title:глава клана пришел на вечеринку левой партии в берлине
+seen_urlhash:4711f98701ad95d821e1df244e596c7155ffbbf26b097d099acf0c886688b42d
+seen_titlehash:a8a22b82fed6771825b303847dc87bfa3cac17528114f06d510148ab8261d8bb
+seen_reason:processed_not_published
+url:https://dw.com/ru/партия-мерца-не-проходит-в-ландтаг-мекленбурга-передней-померании/a-79348861?maca=rus-rss-ru-all-1126-rdf
+title:партия мерца не проходит в ландтаг мекленбурга передней померании
+seen_urlhash:f0afbf84f31dab4544bc7cf1f9f5c4cc4d0fb28f49019ec45bfe08d4603812e2
+seen_titlehash:d719fde114094895a94f74401253c5f1a0ee16234df2bec32f67b05ad1eaf95a
+seen_reason:processed_not_published
+url:https://dw.com/ru/лидер-адг-в-интервью-dw-мы-хотим-снова-перевернуть-страну-с-головы-на-ноги/a-79348488?maca=rus-rss-ru-all-1126-rdf
+title:лидер адг в интервью dw мы хотим снова перевернуть страну с головы на ноги
