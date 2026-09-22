@@ -112828,3 +112828,103 @@ seen_titlehash:a6877c16a6ebb869af83877ebc59452c12a31627a5656be6bdd330302385c174
 seen_reason:processed_not_published
 url:https://ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1
 title:openai joins call for us led global ai standards
+seen_urlhash:ef4e2c2a3c81888a86265904bc82d2e8db9f47326c1d52e894863ab077265eac
+seen_titlehash:88dc0b1a03899aa5caabe994b30409f74b695fe2afa54aaca7eb10dabd5a4b68
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/21/world/canada/open-ai-tumbler-ridge-shooting-british-columbia.html
+title:british columbia sues openai over tumbler ridge shooting
+seen_urlhash:8360d935f513f0976d80f85f0d8c287d8840ef45abd433093f9eb44ea287882d
+seen_titlehash:1c3ba2ae775444ad253aa0c3ee5e0eb77f29391f201718c683469b5e5fe0cf4f
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl
+title:healthcare in africa under growing strain after us withdrawal from aid programs report warns
+seen_urlhash:80c9d229b615db9df21fcae669de88c8b185e0e97a15c0d5395beb0e92cb83f9
+seen_titlehash:b0d51b3662b94d06eecdb7d987558e4dc72c5f3523b745d0518d409678af5b82
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino
+title:world leaders address climate crisis before un meet amid record breaking el niño
+seen_urlhash:bde8cb167a0329f07c9bff0775d09367da404dbaab83c87fb84ba076621d7686
+seen_titlehash:67e3679e98a289f03872029d02044c048dd8cb083e9b39fc2b14cc5905353a7a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss
+title:typhoon dujuan hits japan with deadly floods travel chaos near tokyo
+seen_urlhash:e14eb5f77019c676aff22a17a362486b9684cab937dd111a8998ba0b77047fb4
+seen_titlehash:651cc4ab79cf904511a1a7cc32086247d7f40e00da32efd5ad821062a955c8c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/moroccos-youth-take-gen-z-protest-demands-to-the-polls?traffic_source=rss
+title:morocco s youth take gen z protest demands to the polls
+seen_urlhash:b1fee9e8beb8ae6988b8094711d1e3dccb9aa05ba8d74fbde845be660aa35700
+seen_titlehash:2a66a0198e00ddecd5b0c3bd8c8b855739114067fab87a2dfb07b2dde8d96ded
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss
+title:mali marks independence amid a worsening security crisis
+seen_urlhash:0f7e03ead2be9e967da66d93c74b96b0faea25e1e349100423c31501e3f76a3e
+seen_titlehash:344f48a58e18da76aca4f1ac49f4a28b3051e09e3279fadf212eab8d5d25f1f6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss
+title:iran war live irgc says us israel must accept withdrawal from region
+seen_urlhash:2aca03e22a36eb2a6d864567ee27f8d1a8fe84981278c363cc8e3abe2d54aa5f
+seen_titlehash:783ee490c80f8e687c0c824cf5312248a84aaeb010b756ab615ba55910b420d5
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260921-us-denmark-and-greenland-to-sign-security-deal-on-tuesday
+title:us denmark and greenland to sign security deal on tuesday
+seen_urlhash:2c3fa6f29b28c6f6f7a28f61c7dfd5e4310c4f04d6ac901d7821071320a777f4
+seen_titlehash:ee837e0148a9eb9cf199803033bd2534e69e7cf84029280cb093cb120c3bcb76
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger
+title:paramount settles with us states to clear warner bros mega merger
+seen_urlhash:ec07e89afd9b710f335a7e6a579203362c545e708273c863870872ec37d431f4
+seen_titlehash:03af228016eaf168c26a466f6ccc02ac239afb4a8d122ee804a63e6fb313f9e8
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger
+title:paramount settles with us states clearing path for warner bros merger
+seen_urlhash:3343adf92ff25f4d11c67cc6d5f2f485a9d728875e333ddeffa40f60b28b2284
+seen_titlehash:6cbd9d2611ed0cf9bd5c0b7f86d8e097512c8b56d1d114c1b068645512ce5819
+seen_reason:processed_not_published
+url:https://france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance
+title:ethiopia s main armed groups form anti government alliance
+seen_urlhash:55346fd30a07f1c0b2f6e786329eb025446ec01e548d4433a12d651948bce51e
+seen_titlehash:db6d502b7eb1da53a3c3852ac3ee399022fc06953b9d98af28cf65d3f37e8582
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition
+title:paramount us states settle antitrust lawsuit over warner bros acquisition
+seen_urlhash:a39de522f34f3b5c2e19977265906f6ebaf5c9be8efa783d3bb53ddf002e3d14
+seen_titlehash:aad4bab008f0d6cbe6d035a055ec5a7b207f70dc1d293d7965f63ba22402a319
+seen_reason:processed_not_published
+url:https://france24.com/en/ed-sheeran-hit-by-viral-false-claims-after-macklemore-controversy-1
+title:ed sheeran hit by viral false claims after macklemore controversy
+seen_urlhash:9a64f8d027e2a4ed93f427f8710079eff45a563d660eebb408f0c12d07110695
+seen_titlehash:d66425d463de861fd0bf994ce97e5441845b8ef35040e17f89a2efb47fd2cd4a
+seen_reason:processed_not_published
+url:https://dw.com/ru/reuters-зеленский-и-глава-цру-рэтклифф-встретились-в-ирландии/a-79364573?maca=rus-rss-ru-all-1126-rdf
+title:reuters зеленский и глава цру рэтклифф встретились в ирландии
+seen_urlhash:50285e215a61b2878cd32837cc79688b2369ff2c6d556130560c91c852749a3d
+seen_titlehash:e78b206a80ef97620379b0b8a5168528583b14b845bf4e1917279ee22fcdc28c
+seen_reason:processed_not_published
+url:https://dw.com/ru/новая-газета-европа-результат-единой-россии-без-вбросов-составляет-лишь-34/a-79364526?maca=rus-rss-ru-all-1126-rdf
+title:новая газета европа результат единой россии без вбросов составляет лишь 34
+seen_urlhash:290ed7dad45cc4174abb43e48a333ec9a1a3ef904ddcd5e920c95c7b30d43112
+seen_titlehash:8304727d324dbacb1854f3670c160d54e49bff35ca4e3cb9afc34e7cf0cdeada
+seen_reason:processed_not_published
+url:https://ft.com/content/17a6b374-df35-4e12-96c6-53e30ed64fe4?syn-25a6b1a6=1
+title:uk to provide military support to saudi arabia in its fight with houthi rebels
+seen_urlhash:aa76f447326860b251824d5cd35164ade0c4cabd137988de17679a43a048b452
+seen_titlehash:afa2f8f0684c8e7dbd45d0fae682ec936555b85103932be753f297eee2ff3156
+seen_reason:processed_not_published
+url:https://ft.com/content/5fe15334-a5b8-49c5-aa89-935ad68a8749?syn-25a6b1a6=1
+title:uk workers to receive two weeks of unpaid leave for bereavement
+seen_urlhash:c00ac9c735caf7e690bfda18c217f883d25da4c4e8b36542533f32eb8cd5e693
+seen_titlehash:8f4620d283f1807e16830073d06d147a28f640b2d1331eaf521632a01b43648d
+seen_reason:processed_not_published
+url:https://ft.com/content/b77f3320-6ff0-4be6-a480-a755c754f7d8?syn-25a6b1a6=1
+title:firstft kremlin backed forgery operation moved 6 9bn through global banks
+seen_urlhash:abd6c00a4bbad6e21ec9a91814824eb07fe95bea6a1b8119101ee94eef1cc55d
+seen_titlehash:388009a6a756ef82fc5d4682199fddc2a34690c35fbf49636ca53afd20945154
+seen_reason:processed_not_published
+url:https://ft.com/content/697c5196-3aa4-4c59-bad9-a455bcc1858f?syn-25a6b1a6=1
+title:burnham to call for global effort to control threats posed by ai
+seen_urlhash:010c02df487ce0b179932689713307854c864ff9688865bfe4439498a22e7bbf
+seen_titlehash:1df2c2770fd4c262280a689e3ee6e786cfea5a8cbde3ce081a9ff8fad637ed28
+seen_reason:processed_not_published
+url:https://ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd?syn-25a6b1a6=1
+title:france calls on eu to take immediate action to lower energy prices
