@@ -114288,3 +114288,383 @@ seen_titlehash:fe425f9927e915f2bd3289b34163bf528ad097171271afbed72a9260950586c9
 seen_reason:processed_not_published
 url:https://ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1
 title:trump is checking out of his presidency
+seen_urlhash:177b41212ced71a9591adaee19f3c0c37b28549eb7cbf241b28060252673726e
+seen_titlehash:23ec4c49416850ec7e7218fa35892329a3b9191e3a9d3e27b797945af5a32d20
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss
+title:us to build two military bases in greenland under new deal with denmark
+seen_urlhash:7c24b2a2b2b501b9e258d3789ed6a4cce99e7d8b28f61a048467202d10f6d587
+seen_titlehash:4855c44e2c431b16b48896ac1b6196890b002a68042f1b6aec4ba91ea7cc11ac
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss
+title:ukraine anger as eu removes russian oligarchs from sanctions list
+seen_urlhash:c0587fc5afa6ef38fec5831a26895c9373a9c228793cfc4d2baaae6c987d11a5
+seen_titlehash:5c7ff11b5cde26ddf93e27b0df5bfb6b90659a1d4184724c766581a227f5d38f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss
+title:top south african policeman charged with sexual offences
+seen_urlhash:5efd699a5f158cc105d2e15b93ebd6d59283a25555fb0706dc13a200a47320e3
+seen_titlehash:ed1b02ba8fa924b1e57733f5348054591c0b2ce28369f41ab6ad125d091941b6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss
+title:cyclist who dressed as man to avoid taliban wins silver medal
+seen_urlhash:fbd47a35440acaf97ba90208a4be76bf2e4519092ed1e44da910a1ed6bffcc86
+seen_titlehash:b45d867db42bef0121269a47be87704dd231d3f18ace23c33d9af192d1338918
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss
+title:call of duty s activision to make next halo game as xbox cuts more jobs
+seen_urlhash:7c6337682e6081eb9cd460f9a90a1b821df36fc50bca83e23c8bdd92f07aa981
+seen_titlehash:5a5c0642ec25c585a95323d2099891db94ee81c041036a8de396fc0e21b7801f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss
+title:i have never felt heat like that a survivor on watching 33 cellmates die in nigeria
+seen_urlhash:ac7ab0825f9702c697783a39556d16a8cc9dcf71ff7eca3fe7c5427b7c602f79
+seen_titlehash:f6e35aa2f84b150d08cb58f1938fea3ff943e4ffc1d98b6b9669c002ba93d402
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss
+title:why is the bab al mandab strait so important
+seen_urlhash:e240a063747e8514d4854dd774451816b82ae65cc22d034b3533c7ec05406020
+seen_titlehash:342fabdf0ee165e586cd2e84dd3136d634cdb21e390be782aa9f9280c422585e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss
+title:what to expect as world leaders descend on new york and who won t be there
+seen_urlhash:d4e78b068811a8baa4d54259b973681c9708d50e8fe9b463bb4d4184bb4105d0
+seen_titlehash:8c7582add09408cbac0f5d93e9ec7881f04a071a9a101ed67fe3374905ddefcd
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html
+title:sri lanka convicts 15 in easter 2019 bomb attacks
+seen_urlhash:64516454bd5938b10132d3784773982a1b82fc778d81cdd8fe15f0b989bee822
+seen_titlehash:4b60a69ae3f462e4f01f3a8a6b25dddff35ea0402c0269530560702ea8771eae
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/22/world/next-un-leader-guterres.html
+title:u n searches for its next leader
+seen_urlhash:c6460d906d0138323b834522ef6ce583e16bfd2db13ce37ecca9482fa0589bae
+seen_titlehash:98d667bfe6baec8979baf3a58e26f6d78eba80129cc2f21a8a15010b1e281902
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html
+title:a departing u n chief s dire warning on climate change
+seen_urlhash:eced14ea7e1cfd4c3b38f00023030a1acf3062f64b6a991a9dd0dd6c86be59b8
+seen_titlehash:ab6f02f5f7f0b232b244bb89ad2a36c6f85b06068cd233a58ee97a722269b66d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/22/world/europe/macron-un-general-assembly.html
+title:macron to make his final u n general assembly appearance as france s president
+seen_urlhash:e8ce431c69a36481826fbdd398973fd4292e245975b5cf77a3606c5fae0b76f4
+seen_titlehash:a993306e050444c01d51c38ecc7560a286cfe4c52703ced6f955edcd92d3a4ed
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/cuban-officials-walk-out-after-trump-calls-the-nation-a-failed-state-in-his-speech
+title:cuban officials walk out after trump calls the nation a failed state in his speech
+seen_urlhash:a7282f342b5692fc4b915627096718733ece3aed129ad5f41bd26a1167f09f02
+seen_titlehash:44194fb6fda79f6912ed8ad8039858c412f605e033eebe26586973e1499778a3
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/amazon-to-provide-secure-cloud-computing-to-nato
+title:amazon says it will provide secure cloud computing to nato
+seen_urlhash:c68cd931a04976df430ae7f33e5039a70b71f1b43da225ecfa28aa34f0b73379
+seen_titlehash:554a8c751aedb4d0616f2e677ca38d9985cc213c62d9be12baa4872ab33d7ff9
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/22/hurricane-polo-mexico
+title:tropical storm polo turns into category 5 monster hurricane off south west coast of mexico
+seen_urlhash:c6a5c69a0a0a26db6ade3652bd1b51085958d188ce90a94d19023a89c6f69ab7
+seen_titlehash:8b6b394407622cea745c90d65209505e6ba02504ae466b68959ed26e770372fd
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech
+title:trump s threat to annihilate iran to un general assembly is stunning even for him
+seen_urlhash:c16227bbb4abbc3ffa5b699812eb27cf25166a82cd8109733b49f25ca3280171
+seen_titlehash:37efe6e11cf7cd35b205fe3a0691b8fca31104bb8fe449334b3ad5c7127d0ee5
+seen_reason:processed_not_published
+url:https://theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi
+title:six year old chinese girl sets new women s rubik s cube world record
+seen_urlhash:c56aae8affb979919f944f67a318a594a7454edc69b37c1c96fa68503932f570
+seen_titlehash:b7caf24e06e244cb3b62b0f926efeb0de3401f20ede5dee13d918cd206b12b30
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/23/cost-of-raising-two-children-in-australia-has-risen-134-in-two-decades-study-says
+title:cost of raising two children in australia has risen 134 in two decades study says
+seen_urlhash:9ffba5b503819b583ff8dc4180dba50f23bd86f1958a0b91745652be2d761be0
+seen_titlehash:a3f16ba018299d957b91c43d3953e5df199ff5da866628c55d2b95a8a6e55ae5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss
+title:is ethiopia heading towards renewed civil war
+seen_urlhash:1c22480221e334cb3cb83093d20cd70e271bec727377901023e3a583896cb347
+seen_titlehash:34151bffc1d60c24dc85fc23b6f37dab761d71ea035761bc272dc21c1f762949
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss
+title:un goodwill ambassador millions of refugee children missing school
+seen_urlhash:77b5690c567d2a2095b707645d717d918d91b06bebcbe30bad8e1a5cff342963
+seen_titlehash:1bc9ca1246876f38d53d16cc1e37ace54e808f1767d35c55e9f88d8d32491c61
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss
+title:qatar s emir urges diplomacy as gulf at one of the most dangerous phases
+seen_urlhash:e35f86f49984d00cd0853e5e29c6b5872b42badf7e154cc150bd6f3c1f1021fb
+seen_titlehash:a735abae76d9e0b199f6e83430f83d6be139bc732d7ce9f669d3733eceda1067
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss
+title:us signs tremendous arctic security deal with denmark greenland
+seen_urlhash:afcf229f0b2610317b3c1a07478a24d7b1b985230cd1f41b08eb30c7621f9202
+seen_titlehash:36875eb5e0b33127ecbf22ceddee6af056b30c6e07a2a7cb08e89c54eb1d1ec5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss
+title:qatar urges diplomacy rejects strait of hormuz bargaining
+seen_urlhash:d12b909c4d6fbad1158430d4c37ba27bd5ec0878f29cd86453b00451069fe27f
+seen_titlehash:a2feb270a681be47ea095b837f5be5618640c8109f4e1991705f02f7bd894eb0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss
+title:trump says us officials met for three hours with iranian delegation
+seen_urlhash:9c7193e588fb03503f244aacf4abaa8edb2c5e74cdfa16264061230bccba2de2
+seen_titlehash:ea1566f078c9e6891e0232af73cec4bff59d94255177032ac3021da6a9a0a21b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss
+title:indian mma fighter refuses handshake after asian games defeat
+seen_urlhash:905e50192b41fd33e8caafb2ba01a3d4c24c7feb8c91f5dbc80d2850ec3b6b1c
+seen_titlehash:bc3595cbdd18c32a4f8e20a537ab3e408dec2a5ace9d6cc99f09a396e5dd835a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss
+title:lula warns against foreign interference defends brazil s sovereignty at un
+seen_urlhash:90d88c280cbed0da4dc51fed508acd92b5bc9d28e44a019193d8cb869a16b744
+seen_titlehash:6a60e1945b7a35f12c70b0cc5873c79b2a429cd164b029efb4069a1626ca6953
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss
+title:sudan s historical famine echoes through latest hunger crisis
+seen_urlhash:ee435a2cc9a241dc3b512b3deaee9d828455417e7145f0c2939f86b3594fd8e7
+seen_titlehash:ac217bc143c553b5a954b890dd5950e909a36e6ab8e768a04c24d06e5dab71bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss
+title:echr hears how 10 children went missing after russia annexed crimea
+seen_urlhash:80fe2d5cf9839984ab6c5e5120bf8d097ec39e569c63db5a01d385903b154eac
+seen_titlehash:0a0b8175e570b082d439b012c73c432bcf7329d2edfa28332d76746b24c8937f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss
+title:turkiye school shooting leaves 11 pupils wounded
+seen_urlhash:2da78c59390d9182a28c607c7fde2456517aa281d0c27d2972e09324e1462fe7
+seen_titlehash:4bf6935995d2a91e5ceb252963d88c119d2fe7cefde49adf26616443afc85275
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss
+title:erdogan slams israel s genocidal mindset in blistering un address
+seen_urlhash:048ec01084b2ec5c880620e8a986e216e35de28d857ac29fa9fd69ad707094de
+seen_titlehash:8f6071016fbc10d6b2dcae635c8566a180d90e13d46ec5bd075635cfb91a0b10
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss
+title:war crime jordan s king slams israeli west bank expansion
+seen_urlhash:76d01774cc94e079fb7d232b3262a4205257cbf071207812ac7b6c72f7db4aec
+seen_titlehash:d825b974e6b20a5b62ba680377f36c457edbfb8f711d52d8e46bc688949ff7be
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss
+title:fifteen guilty in 2019 sri lanka easter bombings what the verdict says
+seen_urlhash:07dc2ba901ba90a2d1a106d1a2f97ca95fb9e68f2e4518e78aaed19f7977576d
+seen_titlehash:668fa71971d6f44f75c613fca7f0554d9e38612ce03072eaa45ecfb58f36a403
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss
+title:trump my honour to settle eight wars including war in gaza
+seen_urlhash:af00fe8e4c49fe70e27817f2a33bee47e44bf45c1c3b9a7bc2ca0e5abc63ee1a
+seen_titlehash:7d020d90de5e34af47d8684dd4e68419f18bde77affda8e0f490de5f324941b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss
+title:unga 2026 can the un stop wars
+seen_urlhash:05d801e5c6daacc1d3c5332e7226ee2af7852006d71992cacb40436b98fdbfa1
+seen_titlehash:ae0e42c241e79925618b735dd325ab50923b4a6feabd26f81dc70219b613d306
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss
+title:trump follows in hugo chavez s footsteps to launch his own tv channel
+seen_urlhash:6f9265eeca0c13f28a79c1ebb46e6f4218378d404ab015c2746df4183255d4eb
+seen_titlehash:89f67d3b951c991d76237e3ecc16f970d612e9a66efc85da5f022e09b507c18e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss
+title:rubio defends trump s white house ban on cnn ms now and politico
+seen_urlhash:be96226ffd9e856e148101ef7edd23569e4db298f937dda464ff9eef164512b6
+seen_titlehash:47c5f1a2cb771a9a3ba8d1d3e9b110c4fe0dd11ad6442f289a69146ce4facd63
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss
+title:dozens of people sue glp 1 drug companies over alleged vision loss
+seen_urlhash:ad63a56a653bc37788e5993b0f24e114ad42ca4a1c07a7c2ff072331e4c74839
+seen_titlehash:6b9db1dd0d4ba16a49f9a05814551d4dae6a32d8d7488fd79f3035b10e34c992
+seen_reason:processed_not_published
+url:https://news.sky.com/story/doctor-was-supervisor-of-killings-during-rwanda-genocide-court-hears-13590686
+title:doctor was supervisor of killings during rwanda genocide court hears
+seen_urlhash:675c1ca925768a8ef5a51d88bddd3e66328e741e4c914f265bfc56311619b437
+seen_titlehash:58bec5167b51c84f7d17e7caee60db538489a39225e06bce576acd7db3a7a0b5
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy
+title:trump s world leaders navigate consequences of us policy
+seen_urlhash:22df261454231a39767fd0bd97d011491bdcbcebbb118470ba38da10731d2cb5
+seen_titlehash:648a735fb43826fecb25d15020cdfda0be4bbf1b0c529634c7c859c719f9de52
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly
+title:iran ai and the icc trump makes threats touts policies at un general assembly
+seen_urlhash:2918130aeea2bbcdff83c744fed5fa845d736e70fb4b8a8f587e792058635e6f
+seen_titlehash:ca0655f2a7f0ba70d5d6ad6262783625016496f8e7a2244cc3706d91af0e5ec8
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms
+title:iran trump believes in an agreement after us midterms
+seen_urlhash:8f32d525d7b3dc5ff5601f3cb3fb2ca5a596bf2fb4a529e6b309ddbef0e6e7f6
+seen_titlehash:8a95e1e0bce16e951f61f227dfc7b37df8fb469cbfa30d706dd5aedc6a54af56
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech
+title:replay trump defends iran war attacks icc in un speech
+seen_urlhash:a245f7165be0bec62dbb9373c0b5cf8fc4bba900f6a4ebf43c16e17c9e646287
+seen_titlehash:eb58e21b746a589474042d608da282278dd662dae836b71f6723a6e7758bb239
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices
+title:how is the eu responding to record fuel prices
+seen_urlhash:9c7044ac198b14e90311ec31fe8d294ccb1658134a1d01f555675aa50902b8d9
+seen_titlehash:d9c047c86d9c483cd6b79a2b2035c9fae697a55d25dd7761b90e77af6e360649
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20260922-syrian-man-reunited-with-secret-library-hidden-for-15-years
+title:syrian man reunited with secret library hidden for 15 years
+seen_urlhash:03355978029000473410ba5397c6bb15961a97bdf10b9febf4e3c73acaa0849d
+seen_titlehash:143fa15615c22f3e6db002dbc4c19588f65d760b7517bdd254c6cebfcb80224d
+seen_reason:processed_not_published
+url:https://dw.com/ru/евросоюз-снял-санкции-с-алишера-усманова-и-михаила-фридмана/a-79361487?maca=rus-rss-ru-all-1126-rdf
+title:евросоюз снял санкции с алишера усманова и михаила фридмана
+seen_urlhash:f4674ca820fc437659429000812850113046940dbbc79e3cab27a2d9412d9017
+seen_titlehash:82856ec424cfc95d3089cdf0a50d487e6e656e319a50a8ca79aadafa603396f8
+seen_reason:processed_not_published
+url:https://dw.com/ru/дания-обнародовала-текст-соглашения-с-сша-и-гренландией/a-79379957?maca=rus-rss-ru-all-1126-rdf
+title:дания обнародовала текст соглашения с сша и гренландией
+seen_urlhash:5f06ccca4c13015605fb3a55c34354eda1eb783dc094f6b1b22cabb9ef3c25a4
+seen_titlehash:e6fc52fcd164315cb4fc1f5f6380854231a85b37501bf80a7d533e3671c88b58
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-литве-сделали-шаг-к-отмене-запрета-на-размещение-ядерного-оружия/a-79378778?maca=rus-rss-ru-all-1126-rdf
+title:в литве сделали шаг к отмене запрета на размещение ядерного оружия
+seen_urlhash:9c94b25774d6314e378f1e2d594db05b5ea747778a834937054646b9981f34f4
+seen_titlehash:8866f1d6463fe7823750c848dbee7baab1cfd92f9a9d4eb9131763cd0393e4a9
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-сша-дональд-трамп-на-генассамблее-оон-призвал-все-страны-члены-покинуть-международный-уголовный-суд/a-79378806?maca=rus-rss-ru-all-1126-rdf
+title:президент сша дональд трамп на генассамблее оон призвал все страны члены покинуть международный уголовный суд
+seen_urlhash:78f2fdb5f406b7d124619f0c877694914b7caf734536b44a86315a50a9bb8825
+seen_titlehash:c1a5acf5af8bba5e891ce9ea61b50bd0fc6e3adb339634b970d918e40e6617b5
+seen_reason:processed_not_published
+url:https://dw.com/ru/сми-сотрудники-z-канала-рыбарь-могли-работать-в-европе/a-79377902?maca=rus-rss-ru-all-1126-rdf
+title:сми сотрудники z канала рыбарь могли работать в европе
+seen_urlhash:551a8cd464231ca4b666e676d661159ea126e5fa015d3e9b1edf8cfcc716b528
+seen_titlehash:7009839e5cedbcfec198f28b8f301e2d4d88529c7f9b297c07c73f93c9b3dc14
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-районе-авиабазы-сша-шпангдалем-на-западе-германии-разбился-истребитель-f-16/a-79376843?maca=rus-rss-ru-all-1126-rdf
+title:в районе авиабазы сша шпангдалем на западе германии разбился истребитель f 16
+seen_urlhash:b14ced5204a09e5b22f5880fe9a3f19883a82762563e688dc8c71a3ad73d24c9
+seen_titlehash:6652617b3942ecdd320d68429302a34b2e0403ea3707a5c86ec7638ee4a7b566
+seen_reason:processed_not_published
+url:https://dw.com/ru/дональд-трамп-на-генассамблее-оон-сша-получат-дополнительно-две-военные-базы-в-гренландии/a-79376118?maca=rus-rss-ru-all-1126-rdf
+title:дональд трамп на генассамблее оон сша получат дополнительно две военные базы в гренландии
+seen_urlhash:76483a1a243e3ca43b793d292a611e7def480cdf62303a120f2cff2bdccb3688
+seen_titlehash:33e9452f3dc2b89c35c01e7992cff8a3092540a598b12e5dde378ec33883cf5b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/22/trump-threatens-to-annihilate-iran-at-the-un-then-confirms-direct-talks
+title:трамп на генассамблее оон угрожает уничтожить иран затем подтверждает прямые переговоры
+seen_urlhash:0133938edcceaaae9233ccb4a772132af8e54b20780849116d3bfea601e0b625
+seen_titlehash:bbcae744480d3a0dadc116f8acee7f4e1bde0b9be6497cda15279132bfef13be
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/22/indian-villagers-stage-water-funerals-to-protest-river-linking-project
+title:индийские сельчане проводят водные похороны в знак протеста против проекта канала
+seen_urlhash:0477bdd5c72e9d653a387699f00adbdfd19da38bc05532d10614881eed26e651
+seen_titlehash:4c683b803d6ffbad2166758fa4a7279ccd31565190460418a9a8785e77504181
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/parizh-anonsiroval-novye-mery-podderzhki-na-fone-toplivnogo-krizisa
+title:париж анонсировал новые меры поддержки на фоне топливного кризиса
+seen_urlhash:1e797bd43e2428b18487d007eec22358a33220c1a16dcc67af68b419adec4e2d
+seen_titlehash:f78f934c97027323a8df068f1e236417f26042fe90595becee53c855f352d135
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/mff-gac
+title:европейский союз переговоры по бюджету похоже заходят в тупик
+seen_urlhash:bd320403a1f8cdc6becbb2263b4c51d4fee0f7b04e63c03aedc719a64464bb2d
+seen_titlehash:e76707a828f99a45a1202e1cb9c8f3b7a5b69b54846e2da6f74d745b6c85b3ce
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/macron-vdl-letter
+title:франция предупреждает о новом нефтяном кризисе и призывает ес задействовать резервные мощности нпз
+seen_urlhash:a894a5046dc146609d07386266a03f5a541fec3637849f703aef7c6824015499
+seen_titlehash:31b7a6d470df9ae86bfdf95918af1fa284a31d6409d6f3f3f60fa574c9f88b34
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/22/new-princess-diana-memoir-hits-shelves-amid-royal-tensions
+title:новая мемуарная книга о принцессе диане выходит на фоне напряжения в королевской семье
+seen_urlhash:5a05ceb31b1c84f38b033ecb8b88bf5ca2265c4c7253d13125d59ea3ea893549
+seen_titlehash:d0db40a469dfd6ff3e03f608688dcd21b67058514fd397af6f41fc71cec1e304
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/plane-crash-us-air-base
+title:в германии разбился американский истребитель f 16 пилот катапультировался
+seen_urlhash:35351b4f843b70360e64a50b5f2e939dc62869944c0a08934f5edf2c721ff015
+seen_titlehash:04039bbcb3f2f84778d44a8e498ac6d258d9ea7cd2cf155cd91fe55a67ec52fe
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/09/22/us-troops-lithuania
+title:в литву направляется новая ротация войск сша науседа
+seen_urlhash:c3be6e4803cba69a9a39e26ac5963dbc5cad86c87ac6b7138ab76fcfab51e5ab
+seen_titlehash:b6af0b8433fe488e05e51a6e6c15bee321485b07b82209f456174307cc58f201
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/cube-zelenskyy-passport
+title:фальшивые паспорта утверждают что зеленский с семьёй выбрал израиль
+seen_urlhash:b723f6cb232d9dc0669a868a2a70b2326dc5b03c214a6536b96a94d2b4a77a11
+seen_titlehash:b81f781d23a2a1ddcef5ca5a8e59ec03888505fa3bcdd588268f5f0d2b33bac5
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/sanctions-update
+title:ес продлил санкции против россии но по просьбе франции исключил из списка усманова
+seen_urlhash:24cfa05aa9255cbf7c878ac1428da25e4266d13697e650e3ce3ad8826f9a1b82
+seen_titlehash:6885a1b8897228e6416a25dd00974455b5ffeebe8895ed2e6fe372c0bc0afe57
+seen_reason:processed_not_published
+url:https://ru.euronews.com/my-europe/2026/09/22/gde-v-evrope-deti-zhivut-s-roditelyami-dolshe-vsego
+title:где в европе дети живут с родителями дольше всего
+seen_urlhash:543743b62d2b01efd72e0297eb26584dfc00e217ac7304fb0bd908d998b27a1f
+seen_titlehash:6be7a5adcf7fa51dcc04031c60a3dddb4f2dbc7bfe3d9abe2a699a921cb65877
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/22/tramp-i-zelenskiy-vstretilis-v-nyu-yorke
+title:трамп и зеленский встретились в нью йорке
+seen_urlhash:3db22164bffd610edf1a1d1da74ddbd1278006bff14a96f944f6c5c8f2015a81
+seen_titlehash:fe40e0f518bb53fc41b06da12d2a6f59546458bd00ae5010669a201dd42ba66b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/22/leonid-volkov-raskritikoval-snyatie-sanktsiy-s-mihaila-fridmana-chetyre-goda-nazad-on-sam-predlagal-snyat-s-nego-sanktsii
+title:леонид волков раскритиковал снятие санкций с михаила фридмана четыре года назад он сам предлагал снять с него санкции
+seen_urlhash:c31076725962f73427c260c16c90c210c382d834423f1d2ab86db6109f186112
+seen_titlehash:2b3e0c18585ff408bb79ca993f6d80f1f5c59845cdb34313f94fda4862ba587d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/09/22/v-peterburge-i-drugih-gorodah-rossii-podali-zayavki-na-mitingi-protiv-falsifikatsiy-na-vyborah
+title:в петербурге и других городах россии подали заявки на митинги против фальсификаций на выборах
+seen_urlhash:b881451ed563f7f2709748d8b7aee38ed727c70c9fff4e4dec834fcd3b8d9e50
+seen_titlehash:94f75af2be6d645c0999e65881d4eb0912a27cc6ca8cfa245c9ed8b1a4fb6cad
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/09/22/evrosoyuz-reshil-snyat-sanktsii-s-rossiyskih-biznesmenov-alishera-usmanova-i-mihaila-fridmana
+title:евросоюз решил снять санкции с российских бизнесменов алишера усманова и михаила фридмана ограничения в отношении остальных трех тысяч человек и компаний продлили сразу на три года
+seen_urlhash:b1262b76d00194297a4ad20d260d9d9e7dd796f115d209f88983246bbbc9a29f
+seen_titlehash:5cc0d8c4dd8a90addb042d9a8747dcf32be21ea6e8145e0c6de2bda3e3f57788
+seen_reason:processed_not_published
+url:https://ft.com/content/be468cf8-e450-46d8-891f-67bc79ffd7b3?syn-25a6b1a6=1
+title:royal caribbean nears deal for sandals valuing resorts at more than 6bn
+seen_urlhash:cbc4473cccaecee3dc1aea72ff31dd1e6898ae350f06b2f9772e0e7477fe83e3
+seen_titlehash:3ba50a6332968642a6fa951280c5ba766b4497218453584a2f8d9c99ca633301
+seen_reason:processed_not_published
+url:https://ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1
+title:trump rejects globalist scheme to control ai in blow to burnham
+seen_urlhash:3dcf07a84f9bcd703fd2ce936d6dcd2883b18c6e3df5ffeda0561264fac2e622
+seen_titlehash:8127ef72bf29af858dddd113133646898182b05d92d502b15f9bf4b97f13ddba
+seen_reason:processed_not_published
+url:https://ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1
+title:trump threatens to annihilate iran in un speech as officials hold bilateral meeting
+seen_urlhash:5d93e4c31ea494821887d6c11da7c1d93aef87de625747f6bb4926b5d32eed76
+seen_titlehash:ec8f33432e94ce4ed3cbeaf4967b39d63a7aab4d5b605a4268ff790f596ff96c
+seen_reason:processed_not_published
+url:https://ft.com/content/99ba134a-6252-45f3-b312-07b8752a5a98?syn-25a6b1a6=1
+title:us proposes 10bn fund with arab allies to bypass hormuz
+seen_urlhash:b89bf482c702c7c1b4f97efaeb1fbafa8b8b4c9bfcbc686d04673eebbee59cc7
+seen_titlehash:4c45ef18ff86e73041ad660561c0c5111269cabe66ad1948f5db1a45e6ef1a67
+seen_reason:processed_not_published
+url:https://ft.com/content/62a6939f-7e24-492e-bdf6-b9ab9e1d3578?syn-25a6b1a6=1
+title:airtel money poised to launch one of london s biggest ipos in recent years
+seen_urlhash:ea667ec43b2a74ee8eba5f93ae05685dcdbbee3e7d83f4bbfc18e4b906740887
+seen_titlehash:41a812324463b7875f278769ab96bab67b4857778217fc657d09593e06a2448c
+seen_reason:processed_not_published
+url:https://ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1
+title:eu to lift sanctions on two russian oligarchs
+seen_urlhash:ba71b1e91d0746c692a15dbaa5121aa5385e2d872483b46beb7d3eeff47e0463
+seen_titlehash:964ac40218fb59728b0387f78c4ad7b8f30fb36d478a7f82f2161a65cc2aebc2
+seen_reason:processed_not_published
+url:https://ft.com/content/848b9daf-6fc0-436d-8d9e-45e7bcab9676?syn-25a6b1a6=1
+title:the next generation of american scientists is fading away
+seen_urlhash:6fd0c42b8a1d820241625ca15facc9aa3ee8d261a48c4d6a24e989676c3b43b6
+seen_titlehash:e0bef047ad8a346e6da3c4082ee4e56b44a510e38cd4cb406739cb113287d863
+seen_reason:processed_not_published
+url:https://ft.com/content/15d68d49-5a31-4e2a-a108-f35baa391295?syn-25a6b1a6=1
+title:us fighter jet crashes in germany
+seen_urlhash:39ea6c11217ccb98a426ea00c10bf20dac4e1a248a8ce0f47b407aad079d56df
+seen_titlehash:149026e146b9e514f48306ea276e54967aeaeb1194cc745bab894f594269e89d
+seen_reason:processed_not_published
+url:https://ft.com/content/83d1afcc-e43a-4245-a158-d4e5f1992542?syn-25a6b1a6=1
+title:new fire amoeba breaks heat survival record
+seen_urlhash:32f623b0190466badf800e4ed8f2eb1e9a7524c530d019b7fee1fe40a87634dd
+seen_titlehash:f746a3c41041d35000b02c746548a67d532413fa8b14837f29a566e85c90c4c4
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/09/22/how-middle-powers-are-rethinking-espionage
+title:how middle powers are rethinking espionage
