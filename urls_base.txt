@@ -116738,3 +116738,168 @@ seen_titlehash:6f5a32f47548d2246e860fbc5bf3e683ec54ffc8eb91cf038001c250295ec240
 seen_reason:processed_not_published
 url:https://ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1
 title:how besieged billionaires are turning the tables on litigious shareholders
+seen_urlhash:ffaf81adaf34f91e21328f5e4fb598ae75c297623801faa85a8ebdc0e6807f1c
+seen_titlehash:1079d10e8a1feecb05c90c270c06b6cd318065a5a0b1dcb5208c66d5079806dd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss
+title:ai superpower ambitions take centre stage as trump and xi meet
+seen_urlhash:d2bc64f2a865da148c10e71784a0857b036c9537771a4abe72a37bfcb951ee59
+seen_titlehash:6c10c09f4b5a189a1f49ffd8014f6a03f31232cd606824f1e3976ff676c0efff
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss
+title:openai agent infiltrated australian government website pm says
+seen_urlhash:ada1142963658063f57bd07b5e7b53fe611ab5d8471d42c9226ad8e756297f2a
+seen_titlehash:da9376ec676d47ac12241b8fa95c6a63973974d4b7f6724b5262b0f64cd7c0ce
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss
+title:uk survivor of canadian poison seller says he exploited her despair
+seen_urlhash:3d6c7bdd413fd0751fa0e4f971ee71404daa0cf7271e3b0a9682cec3bb69a720
+seen_titlehash:50da841c3e85317c355058b49a7f61a8c480550ae3567a8a979eeed20ee918c5
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss
+title:watch the arms race in space and how the uk is defending itself
+seen_urlhash:9a1012d73d295ec908ba285c6d05279c6f2ce379c8a8c7d09640aefc08ee975e
+seen_titlehash:7f17d7ab7ed874ef287fa77a8d7cbf7ea6fd76a35ae9cd8c07fa7d3f51038634
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss
+title:watch how toxic smog from wildfires is making indonesians sick
+seen_urlhash:3e8b16d580f4faa858ae04ba9bfdd3cb2ccee4af8ff45e8865698d2e12405a86
+seen_titlehash:386cf8b0f5d44384c37077487a8238ac4198236b02eef9f50ab1dffc0dd4b939
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html
+title:mark carney interview canada s leader lays out vision for breaking reliance on u s
+seen_urlhash:06d3fcaaa470d33c07ddfaba8d9e3c001012d8944133a73776a667bf8d59adc5
+seen_titlehash:542aa302df9f1979b10db24800b23d83f08c161c64f9e93d1827398668c0c140
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html
+title:america s a i leaders warn u n of possible peril absent a global response
+seen_urlhash:035d5cf544df7be7c65983aefb5920717044a6d7ea4c70b2245809ea13df3718
+seen_titlehash:187702d7aab3d4e1148cd9da8ff3ff2d7e5c7a04c1d742713e6d1723ee8b42c4
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/us/ottawa-canada-renaming-trump-avenue.html
+title:canada s capital bids good riddance to trump avenue as tensions with u s rise
+seen_urlhash:8d47937b5d08b5e564b1fdf2388c6a9a6bc345fc9ea7c41b5352e849176b7c59
+seen_titlehash:f83ae9f09a5091104c361f283ce9164d773714f084139a0494a032acc0256f9e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/us/politics/china-xi-health.html
+title:xi s visit will fuel more scrutiny over his health
+seen_urlhash:89d2d65f78b6c060eb80d6479d7f9726773a14826dbcb5cabc3c44efefe79ab4
+seen_titlehash:251202284b458ac9a57f985c47f9ed26de7799e2c93791ff10037876981e77a7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/world/americas/trump-venezuela-delcy-rodriguez.html
+title:after warm meeting with trump venezuela s leader is set to address u n
+seen_urlhash:424122f233de1acb1da21fbd5a2f4d2a89a31e383e4238ad11add7a2283b59dd
+seen_titlehash:6050086af89c6464ac0e83fd99eb197174c08d2d073759a50733690d86ba0a89
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html
+title:trump s board of peace lays out 6 month plan for gaza that faces roadblocks
+seen_urlhash:4559ff2efe3178f19bd6c23a5d57aaf03271aea7ab29cd90dcf29f65ba986b4e
+seen_titlehash:af9353ffa388772d911cfb557ee9659b17b85acfb8cc7b5fe61856b583d696c1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html
+title:decoding trump xi
+seen_urlhash:76f61a773039041e5d1a3322a717eedb239db75d88d7a9f6055b79832521af79
+seen_titlehash:5c84a92a040374ca30159fe721c28fb53eec2848640be877865b28c32ffde48e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb
+title:news live marles says legal situation of openai breach under investigation victoria to allow dogs in pubs under election promise
+seen_urlhash:2158ff2bb2ba175361c8225de5bb2a4736e5d7177a097f319ffb3f5e123da6b8
+seen_titlehash:9174c82a3de69b04df3ce87eeaa0e83dbc3dd99f2df548d7ce1f71983c30b4a3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman
+title:anthony albanese says openai agent hacked medicare and he expressed extreme concern to sam altman
+seen_urlhash:cfced5f7100f1835f3cbbf10f933269fbf887f971dfc99c844a93b369075792e
+seen_titlehash:684cb8c3247b326664103e8586686d20835cae8dee0e00681229260702e841d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss
+title:trump greets china s xi jinping on arrival for three day us trip
+seen_urlhash:457b57558efb44a6cd09e343ce7667569e19e7470550d830092f4e662dd8a5ed
+seen_titlehash:92367295c002bf12d2b205049f198b531a71f18d52a6946fbc7e130d28eb6d87
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss
+title:fbi says investigating breach of very sensitive data by hackers
+seen_urlhash:d3e190070aa19397e772d6b25f9a24f3ad69d25985e23030cc2e88825a739929
+seen_titlehash:2224173293f618b8afebab55eb25c460493b56517b28d1ab516071fd76268905
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss
+title:us aviation sanctions disrupt iran flights push travellers overland
+seen_urlhash:a2f40f13a11bb1ac63a10b6cf0bf45c5b5bf449a65da5fa58a12a64fe8c92c70
+seen_titlehash:1ffa35913c2266fed4663b9d75dc9d017bbcab971f11e4fbe4634539601aaa92
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss
+title:gaza flotilla activist on hunger strike in tunisia jail on verge of death
+seen_urlhash:934d752aebad2460c1bdbcf169042e6ee05a36b07fac23eaaa18890e308181b0
+seen_titlehash:0c3959de04e40db1b755aa9456cac080ad88095ea12106db7ac02e8717074558
+seen_reason:processed_not_published
+url:https://news.sky.com/story/son-of-israeli-ambassador-to-us-seriously-injured-in-west-bank-ramming-attack-13591205
+title:son of israeli ambassador to us seriously injured in west bank ramming attack
+seen_urlhash:fe2e58bb664cae4e34be8d4134c21f7f31b0ca5f2066d6a1dfcfcbdc683f66ee
+seen_titlehash:4c94f7c9ab704951c04104a97544a142411d5a6de4e2310c7fe9296be3fa225f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/netherlands-to-return-to-eurovision-as-it-drops-boycott-over-israel-participation-13591176
+title:netherlands to return to eurovision as it drops boycott over israel participation
+seen_urlhash:a8e97120600c7c07ccce24fd1338213ad413f1d921ca7747226991cb144821d5
+seen_titlehash:ef6e69ea667175616b1acf53405394d22b6ae2e5c80364d3bdc57cd469c56e70
+seen_reason:processed_not_published
+url:https://france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says
+title:openai ai agent breached australian government website pm says
+seen_urlhash:44a1b9e02456c27c813090dc92425dacdeef0ecb6c05a4aa68fa7f52b8d3529c
+seen_titlehash:bcabd99da1377292509812cb9049bfc2cc3a0f451df70f8765b6b3ce8c589162
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down
+title:ai leaders urge caution at un with anthropic chief pledging to slow down
+seen_urlhash:ba7bc02360359cb243fde91e58b1a251c177e4c21f0047698df3a7239dc4a4ff
+seen_titlehash:fe5d1b37842ddcbdeeb7ce07a44df103c75b8e8ed666f9e4777ee294aa17d309
+seen_reason:processed_not_published
+url:https://france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1
+title:fact checking trump s speech at the united nations general assembly
+seen_urlhash:799ab1f14e126fcafbed02646d14026aecc7ac70ce20d724a24b234614b1a30a
+seen_titlehash:27e02c52f570698cd0748527f88f4c28f47ae77836705721e2a924f182c7b60e
+seen_reason:processed_not_published
+url:https://france24.com/en/trump-sparks-debate-over-diesel-export-ban
+title:trump sparks debate over diesel export ban
+seen_urlhash:83be8b738af8625cb28b2d6b87db018d1d240620e219bb7df8d01a528f27c1f2
+seen_titlehash:42e7abd06c8598263040f02e7dcebf904013c06b7f8e226ee247eea461a650a5
+seen_reason:processed_not_published
+url:https://france24.com/en/tigray-rebels-seize-airports
+title:tigray rebels seize airports
+seen_urlhash:c0559b609f3375b6fe448786bdfecdba987d47077b9abad07e83008df3db4b6a
+seen_titlehash:eaa7388ab0e784cf9fdf28b40e1a04ca126610ad6d99baef9c798917275d5173
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-аэропорту-берлина-приостанавливали-полеты-из-за-бпла/a-79404510?maca=rus-rss-ru-all-1126-rdf
+title:в аэропорту берлина приостанавливали полеты из за бпла
+seen_urlhash:8a76acf6dd163f429dbe5367d948f0e2b42a50c97e5686510470a6b40f4285a1
+seen_titlehash:3ae0a17b82229a7009435940c3d7e3876d5aa6b3cf0bffecaf4762955dcad426
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-на-генассамблее-оон-путин-нулевой-пациент/a-79403923?maca=rus-rss-ru-all-1126-rdf
+title:зеленский на генассамблее оон путин нулевой пациент
+seen_urlhash:fd18e2751fef525e943af6ee5f7d97b66f9a28eaf463e184389fb8cc87e6e00b
+seen_titlehash:787ccd26ac9097b90ecfa0d458f80535f5efef8a72b4cdf2ef9c829ea5cbc917
+seen_reason:processed_not_published
+url:https://ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1
+title:openai agent hacked an australian health service website
+seen_urlhash:de60788e1482320936ba9ddde2353c63eead87d8cc302ca33e2cfe786d71fc3b
+seen_titlehash:8444c7cf51095c6386f8578d976bc4c4ee0ffb5624ddfc7ceafbf228656259b7
+seen_reason:processed_not_published
+url:https://ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1
+title:xi arrives for high stakes summit with trump
+seen_urlhash:7ea52b3420d107d6428bf74c79afef05088a0560f9a8b9a7644840b1e0469443
+seen_titlehash:ed64a34c7d833799d77060311ce3d3063903eca4accd11a4b62c4643ddaf1682
+seen_reason:processed_not_published
+url:https://ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1
+title:hsbc moves board meeting from dubai to london amid safety concerns
+seen_urlhash:abd7fb7b00b21887db6ce700aab8cda6e1afe37ac68ed54323db2355467b4b7b
+seen_titlehash:dde8b77d85e25c0798545eb51ebb05399c2ae29a8b353fcf6e882192f3e986b7
+seen_reason:processed_not_published
+url:https://ft.com/content/916603fa-c0c4-49e9-911a-a536ec3e245d?syn-25a6b1a6=1
+title:firstft xi jinping and donald trump set for high stakes summit
+seen_urlhash:af7943b3ad8fce34535dcc8b471ddd5e8a4d9bebbc83a2c3ca838444c4ed786f
+seen_titlehash:ce90991de235d75fa1ebb9e2f0403ea90e46a80d298d80878a3af58b106ffe9b
+seen_reason:processed_not_published
+url:https://ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6=1
+title:apple s chatgpt tools dramatically underperformed openai claims
+seen_urlhash:61edd25d3c01010c32e087c71f6958c7e9c20e80b3d1f5862dd6625afd8d2f09
+seen_titlehash:7e85c163e70fe12b26fff6687a126e264b2003c23ad52c36f5cebdf1961a1f83
+seen_reason:processed_not_published
+url:https://ft.com/content/5deccbb2-7354-4856-a98b-c19c8c73d6ef?syn-25a6b1a6=1
+title:treasury open to smaller fiscal headroom to reduce uk tax hikes
