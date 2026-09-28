@@ -123108,3 +123108,78 @@ seen_titlehash:d4bef6ebd09161cdfe8ef347ab5e7149cf0ff8e4ecc113a66c81092239f4f3e1
 seen_reason:processed_not_published
 url:https://ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1
 title:trump asked xi if china wanted to buy american weapons us envoy says
+seen_urlhash:94942eb3f95fea73fd4bae90901056fda2755c5b3920165ac10153301f129ded
+seen_titlehash:f4ba6840ed4f699b3118c9cecd15abadd34b18aa00907d075629cc4b65829d05
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss
+title:inside yemen s front line city as houthis battle for control
+seen_urlhash:ad57784f55697dd87b2bea0af0d0b4cbf981bfb0a70efc1ee1d9a63d6cf89c91
+seen_titlehash:a5ba2760a8043cbe89f81bb2e78ba3da6deaf3e605ffd09cfe537fc54d47e35f
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss
+title:why some indian civil servants become heroes for doing their jobs
+seen_urlhash:40794beaeb8d662d547d9321ddfb82e52f53e10516539d0ecf13e4980f074918
+seen_titlehash:b12308f7d9e545b5158b80f7334e3dd3bb784e81f55c5e506c739fe997bd703a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss
+title:news media must stay relevant or society will struggle says world news day boss
+seen_urlhash:2744e63dd1986a42a612db1be0d7f5a0e8c557273876d4b1c75f87c0f6d69743
+seen_titlehash:69cc8e475a66fdc32bb9fe9b69b5301bf0dc45ed90c3b4e97d82ff5b1c7d95c6
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons
+title:trump asked xi jinping if china would like to buy us weapons american ambassador says
+seen_urlhash:95dfcc673c29c3a9a21d4ac7de4f8ba6cd9c79636968043a39ebdfc0e78deba4
+seen_titlehash:8a563c07064471683f40735bdd616f7fe23d056a27f1282f7bfbd46c2f621ace
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb
+title:beau lamarre condon told friend if he killed anyone he d dump belongings in bin and take bodies to bushland court hears
+seen_urlhash:b22882eb0ae312c322717a4fa1cb9030707aa393888280ca4a1727cd1b3d8b3d
+seen_titlehash:d1470919a2a8d3c4aa7a05f879081a7d430bdf9e98d0d3aa0f2f8032fa3bed52
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss
+title:ireland beats israel 3 0 wearing black armbands to support gaza
+seen_urlhash:fa220aa61a3ea9b995fb83a32b15875ef2fbf4da81da823bac7828801bde3ccd
+seen_titlehash:4af47525fcdff9a80d09cce9fea187fb557636aeef5fb1f2cfcaa3e3bb9f62f9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss
+title:uk foreign secretary confronted by activists over palestine action ban
+seen_urlhash:7ea6f5bb6000cf92cce7bca946aacf4ca2e87ae63984ee4ecf1443667abea53d
+seen_titlehash:a9ff862aa80b75e519548b370e613cd2b9bd319953513769836ece2f444b3773
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss
+title:ben gvir releases video threatening to kill senior hamas figure in jail
+seen_urlhash:aa3d274dfd4896b3da6376f0dfc16e1c8ae35810270a9241557dfd46515827e2
+seen_titlehash:6943853b161d41e63cbe1f871461b99995c562829fed042567db253fc2352462
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss
+title:refugees in south africa fear new attacks as september 30 deadline looms
+seen_urlhash:00740b0eabaf8f1b1ae776c70d3204c6452d5272e65237f827cfeb8c27e28e34
+seen_titlehash:ef83779b7daefdecf4f6d7fee7fe9ded5baa2ce9297fcd4e5c96c7886cf790f6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss
+title:south african police discover body of 11th woman near johannesburg
+seen_urlhash:6f788e85a411a4f8186ea7e797b039fda4c73d081617c309058e3b8a33bb7020
+seen_titlehash:ae09204cde42b028929063c4ff87c37d0274b6cdde1925431b75e08e1a68f16b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss
+title:iran war live tehran says it s fully prepared for war amid hormuz tensions
+seen_urlhash:21e4dd045068dfbab042bb663aeffbc80b03a96bab6eec301290a0a7718dadd2
+seen_titlehash:31bec4719f9656fcf6a347835adbc2dfa7a9ad52f92b9a48eb0d3e9c5d01c1a9
+seen_reason:processed_not_published
+url:https://france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins
+title:taylor swift becomes most awarded artist in mtv vma history with 31 wins
+seen_urlhash:fffb218c0d1a374a1334fe2154366e6eb10cce0560cf608534f4b487ee0e49fb
+seen_titlehash:c1c89dfb7a7e5e0fb1078ff24b8860ea7fc26612cdf262c90547635cdaf18d59
+seen_reason:processed_not_published
+url:https://dw.com/ru/подозрение-в-контрабанде-арест-двух-россиян-в-черногории/a-79451501?maca=rus-rss-ru-all-1126-rdf
+title:подозрение в контрабанде арест двух россиян в черногории
+seen_urlhash:48962292869a285fcd7305585f0b2b5f5f497be8f4da2e16de0f876946cd209d
+seen_titlehash:cdc50a9ac1eb7ed57cff7edffbc11a36f6e06f7a521e52a8cf40054d058fd2a3
+seen_reason:processed_not_published
+url:https://dw.com/ru/коммунальные-выборы-в-нижней-саксонии-триумф-зеленых-в-ганновере-и-поражение-адг/a-79451268?maca=rus-rss-ru-all-1126-rdf
+title:коммунальные выборы в нижней саксонии триумф зеленых в ганновере и поражение адг
+seen_urlhash:ed28f8699f0fa9f44c6dc65d6a067d9967708fd66413031f66c41112db0184ae
+seen_titlehash:074d1d35a00a37a817dad903619194b892037a1faa853cfc603d4a06120edea1
+seen_reason:processed_not_published
+url:https://ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1
+title:trump hosts anthropic boss dario amodei at white house dinner
