@@ -124598,3 +124598,113 @@ seen_titlehash:e8d6e936eba93959d3c5e4e372a328ce7d6d073e8a660b80d633211d27da5f63
 seen_reason:processed_not_published
 url:https://ft.com/content/229f0173-ae1c-4eaa-8edb-8a4268572e28?syn-25a6b1a6=1
 title:ministers abandon plan to make overseas visitors pay for england s top museums
+seen_urlhash:af36269b6232f8a564be34634ccf97ac1f4310a4c1c10b6fc1dc40bc99c98b98
+seen_titlehash:1dd4927fc873246808dbe00cbbd1a28a708da89b7714c360ae2d1d7231170fc8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss
+title:openai scraps rollout of new model over safety concerns
+seen_urlhash:0343033aa8769ae2e74cb1401e4b40556512341df04468eab298bae5d1e04b1b
+seen_titlehash:abb46d4999510e30ac59446becd784c16b937c891a36bcaca7e572cee95847ed
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss
+title:new york times executive fatally shot allegedly by elderly in laws
+seen_urlhash:180053aac4b2271a4456a5a5944248b4453dc6ca078616b8d9523458b6c47f02
+seen_titlehash:be931512416c245fbcca04dcffe130a76c6a48f46d32aed2793b79b3e8b36a4b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss
+title:tennessee governor rejects clemency bid for christa pike as execution looms
+seen_urlhash:8fdbd5ba0002be43a2dd9f1200463ed310427df1a24ee8a18e12df3584946ac7
+seen_titlehash:982aa8c59d27e0d43d5f45c197a9ed5d5004826593f13ef93318fe8c8ef29d16
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/09/28/world/middleeast/netanyahu-emirati-leader-hamas-attack.html
+title:netanyahu visits emirati leader after reports on warning about hamas attack
+seen_urlhash:2727e2d57e9ca01cad4499418386b349c8f76d1a9342c451d64ca9c879f07678
+seen_titlehash:e41a582d17f75cd6802f1e9bc9fa3ce305b6d3f7ede6ed13f095a96fc1c4d11c
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru
+title:melbourne man s mysterious disappearance on popular peru hiking trail prompts widespread search
+seen_urlhash:13916b893ffc9a191b7d9155883389cd066a40af82256ddc760ac515881cd7f8
+seen_titlehash:9d2a55fa86f3903ca908c48398bae683602841cfc581df5a05d2c24c10fd9d1a
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/sep/29/beau-lamarre-condon-murder-trial-greenkeeper-evidence-luke-davies-jesse-baird-ntwnfb
+title:looked like dried blood worker tells beau lamarre condon trial about finding suspicious belongings in skip
+seen_urlhash:e20bc9a36950933ded4d9c9aa4940b9d105bdba200fa9d69af0977ec8ea9ce03
+seen_titlehash:ba60e798b4d92d5ed6e22fc180a3c1d3eee56662d2f62e37e2dfe723cc45f162
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss
+title:hungary lifts immunity of prime minister magyar two orban era ministers
+seen_urlhash:7078e3bf852e71781e0f7008a779cb45e6aca9af7b82d51ac3ec0c526a3583cf
+seen_titlehash:0f871b5209d3cbb10fa2f39915bd50267bd1958103f38de9c4b2a394dcfa02f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss
+title:openai scraps release of latest ai model over safety concerns
+seen_urlhash:0bb438e09e2b26cbc449bd7ac4a80e8b1b8b2336c00a9520447c480bbbbe6102
+seen_titlehash:d650e53b37b65d75e374c56e125e35234a0c43dbeaefd00d7f0504dd40a48d5d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss
+title:africa s space ambitions are moving from policy to practice
+seen_urlhash:c568217287797ab62b043f1f985e512ccd23418794f66cb716f06781c187930b
+seen_titlehash:d749af608d2d340b54e27778d8c5bd7a506e890311f75ff99d41233a2317ee30
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss
+title:inside al jazeera s unga coverage
+seen_urlhash:ce153df33ff443dea39adf71add5f2907546806394692ed3e539dda922c127e9
+seen_titlehash:7dc4611f78ab9784ac6a8b7144e2a6d2f76236d8d2531fd882da4863ead31e15
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss
+title:iran war live trump says he did not offer tehran sanctions relief
+seen_urlhash:23c6b7736c474a4bd4ffae57e15ecf9ed9155d52832db22a8e1c2bc6da52e607
+seen_titlehash:ea5c4a0af8de435b9a459d2e07205d32ec7a15a0777fee4bffd29ee4c38c902b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss
+title:fiery end for spacex starship mission
+seen_urlhash:3268ef69d2a5c896dde202f47d12c60e4bbed144161e324292188727d7bab731
+seen_titlehash:83359e1ae377a4ba50b03fa3dc29e665ca4fbd22af61c506bc069a7b5d03b13d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss
+title:uk too soon to blame airbase plot on foreign state
+seen_urlhash:c81a4fcf3618bdef27e77d009779559fa2f56d93a754b1146f65cf54f9181ba0
+seen_titlehash:0c7eeafb21827e74b686146045f0ec4f3bd11c61a784623467f5f84356fadf84
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project
+title:argentina s milei threatens to sue uk over falkland islands oil project
+seen_urlhash:c913dffc8038c1e13174e365b8d1cbf0b0a81af618f295f5b40c03d708774f46
+seen_titlehash:24e6482522cc815f410121c88e5c2fa3930c4312206f804d378b021402af2a0d
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20260929-us-prosecutors-cornell-university-gang-rape-investigation
+title:us prosecutors reopen cornell university gang rape investigation
+seen_urlhash:1aa9ae724670b3a151a3ec2e858fb893bc9b2731779df3405b869e7486e1e812
+seen_titlehash:db4b1ee4924914f54c857abe6653e702235f8d5b9112b48d84156c0f69f91ae7
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote
+title:french student protests fuel political clash ahead of 2027 presidential vote
+seen_urlhash:641e5e70d19ffdd2c7f979ef250c573c30836ae77c494448887fd4a88937467b
+seen_titlehash:563ae616153fadd84dc61771742efbb35c74c605b69698b1a69283af9059f635
+seen_reason:processed_not_published
+url:https://dw.com/ru/полиция-нидерландов-задержала-24-летнего-айтишника-по-делу-хакерской-группировки-shinyhunters/a-79467711?maca=rus-rss-ru-all-1126-rdf
+title:полиция нидерландов задержала 24 летнего айтишника по делу хакерской группировки shinyhunters
+seen_urlhash:6dcb79bdbe5ea60012fb9cad585c69cdb0d18c419a14578f74ee048e2f7ae2e2
+seen_titlehash:06df93017669a025a713811e41777e4988822f5967fddf5048a85e154baa23da
+seen_reason:processed_not_published
+url:https://dw.com/ru/главком-нато-гринкевич-диверсионная-кампания-рф-в-европе-не-работает/a-79467225?maca=rus-rss-ru-all-1126-rdf
+title:главком нато гринкевич диверсионная кампания рф в европе не работает
+seen_urlhash:26b4074f34a565f5fc46d8a5f209cf8d9e30ea1a9384741dcf59bbbda788dc28
+seen_titlehash:c1c4a7098da585af8452c19c1f762906bc326c2d32a9f835c4444991324cf471
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/09/28/novosti-dnya-28-sentyabrya-2026-g-vechernij-vypusk
+title:новости дня 28 сентября 2026 г вечерний выпуск
+seen_urlhash:6b28227f491efe10ede70f94a3a9b5cedd4e376232e9344c91a6b7961d8aa063
+seen_titlehash:d2b501409747eff01d480295e5ef8f8ed56eded8f36a7d769c1027a0aa75a442
+seen_reason:processed_not_published
+url:https://ft.com/content/16efb0eb-3645-4bf9-a3da-bf41bc437461?syn-25a6b1a6=1
+title:convenience store woman lady gaga urges japanese to work at familymart
+seen_urlhash:7cc9b863c9aed03a32d8db86e0a7cf6153ba5fb8c0add1f1b307638e767a219d
+seen_titlehash:cced209f42a203f53ff13d1076479871f750c3f0404540a8c82f721b48b2bf82
+seen_reason:processed_not_published
+url:https://ft.com/content/43089a1f-409a-44ea-870d-e9a348e0b102?syn-25a6b1a6=1
+title:will adani get an airline
+seen_urlhash:8fe510b3fa539f1759930a6bea030bd3cc62bd7d02099bcc01f42623b01fcce5
+seen_titlehash:4801eaf784eb004e8ae58c5603fdec5397f403dea56297db6e85cc5187f6d8a9
+seen_reason:processed_not_published
+url:https://ft.com/content/f1c7da54-a762-4c62-bb4c-0ce4fe536900?syn-25a6b1a6=1
+title:singapore s bet on chipmaking
