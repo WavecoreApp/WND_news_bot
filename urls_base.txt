@@ -131478,3 +131478,243 @@ seen_titlehash:cfbb1a300562ae601933f788acc7199e0915433998dad9ff83dfb4e9c1b96af9
 seen_reason:processed_not_published
 url:https://ft.com/content/78ed6ae8-1948-4259-be3e-0b3fe4af3663?syn-25a6b1a6=1
 title:tesla deliveries fall 2 as us consumers buy fewer evs
+seen_urlhash:84d5dc1a912e1701a50a4f4f8b8f9a9aebcce3b92a577990b35d26adddf9963c
+seen_titlehash:1e0acda4f2e13c0215c9cbf574fe815c041e634ef9dca21175617df55e904777
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss
+title:g7 to release 100 million barrels of oil and diesel after trump export ban threat
+seen_urlhash:5bbd672d42d6315449c53fba39552e611500c933dea0a18518544eb63661ca72
+seen_titlehash:fb159dfc6740c707bb1790af029fade317ddf11198b72d756d100eca5d199936
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss
+title:us murderer christa pike unconscious and on ventilator after failed execution lawyers say
+seen_urlhash:1994cd7fc7c91210650f83d2bb1cecb19106ad6cc2bef088d8d820d1ac9ae60e
+seen_titlehash:75d524593d0000df0e37ce06141c17b5486fde166bca9ce9a9a68590bf9b4506
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss
+title:hawaii s iconic 550 year old hōlei sea arch collapses
+seen_urlhash:a19c9e0beb079ed86c65065dfad292915ba0e87880a300335175740fc207f07e
+seen_titlehash:1b6e211b86a2b56ab385644b67588a7743473b8b9d3f200329f9a610e151e77f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html
+title:argentina s golden passport program offers citizenship in exchange for foreign cash
+seen_urlhash:b6dc1670344b0df7a0b1d6dc57d27877eedc3a2f5fe61acc12e89b79ba3e83eb
+seen_titlehash:cb35b313ca6d8875a803e449d05db378d43c96ba25e20c020ad3211121667b3b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html
+title:mass shootings surge in south africa as illegal guns flood streets
+seen_urlhash:b768f5a0cb4e642754642b76c4940f512ed6408adcafe8e7933664fda22ec3f1
+seen_titlehash:c4eb99fe7d11d07f89cc634244ba050e060f9c363f6f85e3c1de50cdb583fff6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html
+title:widdecombe murder suspect charged with preparing acts of terrorism including against farage
+seen_urlhash:964362815ae8b988cf4c83adc77177efc7332b44eee5907704e4a59b6e4737e1
+seen_titlehash:1724dc63d5d94657d7a3137e4e429fe9f37d6b11fbee7321ea9176a6b8b093a6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html
+title:iran jails hard line lawmaker exposing deep rifts in its leadership
+seen_urlhash:e4166e6b7add5da0d7433f6d6f266aa94cc09e1c414cc013c8a4422ad9a7eecc
+seen_titlehash:78f7f7f92b34b3e259b26d96f0cfccaa6935f5398d944014dd992037c0c847bd
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html
+title:bridal shop owner who put child onto a coat hook cleared by court
+seen_urlhash:7d14a26869c9b669b892d56522f51a3a7c95ab4e5d244f91c326a405380d7adc
+seen_titlehash:20802185f025dcaf63a65ccfcd65c169e044b7394e9e13da16a8e645ef6b7ac1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html
+title:what to know about fighting between ethiopia and rebels in tigray
+seen_urlhash:6c76540427d0e605cb47a2670ebaa036e6e810f3246e389b903683c223835cfb
+seen_titlehash:2db4dc8a6dd55cdc05b6e8221a18f9f2d97c9c3309044402168ae8305bfb0c5e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html
+title:2 iranian men charged in u k over suspected plot to target jews
+seen_urlhash:1d8e9d60afbbc42efd10c4bce04655a7c906fdc65bbbce640be21284e8652b42
+seen_titlehash:61277fde69f9eb06a2746fd41082960248a3dc567b8d5becded14b8eec6d3d65
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html
+title:israel lists 170 killed in gaza it says were militants posing as media workers
+seen_urlhash:7eab419a1e91bce2a52f710d4a78e06bc0462e9cb03f47c7128387fa338b2495
+seen_titlehash:d6d53c37483cdb53d32b13f3617e4b5d8b36e9dc325575f8f08494b3b298d619
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html
+title:flydubai attack raises questions about pilot background checks
+seen_urlhash:a02364f91e62933b150ca365aa737f05b395e9c6399c1310b23e9ffaadf8ecb3
+seen_titlehash:910cdad6d5b80ab918c781feffe72c5efda12bccf004015753bbb40e2cf36997
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son
+title:brazil s lula says only he can stop rise of fascism under bolsonaro s son
+seen_urlhash:22465e6455350b7cdd58048d464e4df6d6909616592787e2cace77c065cad430
+seen_titlehash:133232aa01f49f31e60fab59c73d039aa3ff1db78571b394141670e2c240cf46
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne
+title:magnitude 4 8 earthquake hits victoria with tremors felt across melbourne
+seen_urlhash:a416494d7a488678cc25e440733761a4f993bc0ed13d3832f769d12fd3a5fe93
+seen_titlehash:6a793206178099a4c3fbaa5ba16168acf5cafab8f40355e09017c6848084febc
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss
+title:croatia vs england uefa nations league kane modric teams form
+seen_urlhash:ba8e31e3276e590a89e643d49dc86f722687b59040d2c52a852b204a85acbb3a
+seen_titlehash:33a231fc69aa8930470de1d0963546c4bc0e08f1a84319c3244a6e25b3a72f27
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss
+title:police bodycam shows luigi mangione arrest at pennsylvania mcdonald s
+seen_urlhash:7300f1f13b0af3f7dadd77cc8cd44a5371316a231d1c8e29ba102962a61897f1
+seen_titlehash:fd1b7e9a8f7039edc7531de77f95b6206764cb28324d13e4244de2e537429bcf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss
+title:israel could ve ended gaza war freed captives sooner israel ex negotiator
+seen_urlhash:bccca56cef7d6a8d6189a18556942d28cd0c5fc63d561a5c26912a1f5910d7fa
+seen_titlehash:57cf1eebc47e06150142300ec5b5b77331ffdc569a699bea22e7c635da800727
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss
+title:france held 1 1 by italy in zidane home debut after olise stunner
+seen_urlhash:b006511405d1f19cc15678327b99722f64306f3ad5da0dffdffc7f75e6989722
+seen_titlehash:31e41dafa7f28f8b8fb5d5cfb774879429f1fea84b1747c147ce06d22bb8287c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss
+title:bosnia s elections explained
+seen_urlhash:b0be37d2b8d88d585bdbb8d03391fa11d382e4b556fd942bea8b436da7cdaba8
+seen_titlehash:3b2ddfc0e9f3fcfc03791000f828ed5cf90a5805b80b6f16cdf8ddad79c3bbae
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss
+title:israeli general gaza captives could have been freed a year earlier
+seen_urlhash:be152e6dcf7f2205fe7576f137b482f14f9d32098c8facd45fc0f6e7ce5bd923
+seen_titlehash:77ce82e88826f8e9fb3a70a5a86932df1a0808f3e2aa9b700e6453b76800a893
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss
+title:christa pike unconscious on ventilator after botched execution lawyers
+seen_urlhash:907ae2e684533f6f1c3c9381c275a5082bcb15db126113be8a19fc998c2f5e3f
+seen_titlehash:08890dc4be70781921bf4ea46902b330707026ab4e50f2e9a9036c371396572f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss
+title:flydubai pilot hailed as national hero as he describes attack
+seen_urlhash:df5e2d9aacafcfcc4d0a172228c10b1e3e4c54cfdade27d09df3e04f4b4931ee
+seen_titlehash:80920fcec1429142d5cbc0fb83b31e13529e4ffd4384c07ff22d9720acd9bd87
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss
+title:latin america sees china as more positive global influence than us poll
+seen_urlhash:d075a13509f45a0db34070d1761be23eec1ece7bffb5ac1adb37f9971094ea46
+seen_titlehash:56b5ae722c763a97977185b19e8c251d07ada46632fefa23f2035421b315b734
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss
+title:iraq grants iranian airlines 40 daily najaf flights after us exemption
+seen_urlhash:9183946cea018d46efbe501651aa1a8fbd459b7989d44ae910876149c6795689
+seen_titlehash:d2626d30ee09b88cc4ee031ddd89313e60f363d7296ddb2cb55bbb169a58ce03
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss
+title:california leads lawsuit against trump fuel efficiency standards rollback
+seen_urlhash:08c37734a4b1bc355ee3d6849da7865ff2226a4da0151a861dcb8a103d961f18
+seen_titlehash:b2882eade8d01e3ec383f33cf8ed4bd0caa49de602577e3600e3287f4f08399f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss
+title:could conflict in ethiopia expand across the region
+seen_urlhash:95227047d23de922158e9a34b3772b50aad40d44f72ddc3ef6a3ce29f6fc5ac8
+seen_titlehash:1503241ad15d475796adc2b21c94b2eaeab71e2ab52af52dce46b119f81d5307
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss
+title:arab party leader withdraws from israeli elections
+seen_urlhash:375d590cee8d1549e9d73c238bfc2b8572f612b1f983d1469abb30ff8d668738
+seen_titlehash:31f7a6635d1486c866d3b7e87e52ee32bb793f5bc15fa9ca83491a9c2262f34d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss
+title:trump says europe agreed to release massive amount of diesel reserves
+seen_urlhash:0bcafd0a81abb7d2491f9fdcffce4300d2030945dfe7f14d5106f095fa407b31
+seen_titlehash:105159f02d84f7fd19ac97278397848861b0a063859a4c70f85746a8e9e05204
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss
+title:sudan s army says it captured rsf stronghold in north kordofan
+seen_urlhash:fe8bf67d2b1ba7f9d5e8104507c3c32798375ca1d55cd54ba3f04063e59c5c78
+seen_titlehash:25b74f31231d77b6b9af7a6cc04aabd08954fc2ea37e1abd71687a7b16ed76af
+seen_reason:processed_not_published
+url:https://news.sky.com/story/nepal-plans-to-drain-four-dangerous-glacial-lakes-after-deadly-flash-flood-13594475
+title:nepal plans to drain four dangerous glacial lakes after deadly flood
+seen_urlhash:a160d844a3306fefa1c66f2e9a5d80c77bb2c4f1350a3723c7b503f038d0827b
+seen_titlehash:216ff768f2df11e4dcdbcca658b2138e7a01502d06c9a1263a2de7e79e8f8a7a
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet
+title:french media respond to m le pen s kevlar suit comments against investigative outlet
+seen_urlhash:dcd08b6473d37bf7aca4cdd56df9c7344abd20c41a4f0c5419054ae7f1af076a
+seen_titlehash:203dc05c0c141c8943eaf313bbd38f4133741a863d4e06b3016dc634709e12cf
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels
+title:ethiopian army pushes back tigrayan rebels
+seen_urlhash:9e3e650949c301f3f54afedf23e47649af4c4662644f1035ec943128c498f6fa
+seen_titlehash:6535ee19a89f595f6fca70e1ea25dad33e8f5fae0e6c549bc32c7d85a57d8e6a
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army
+title:on the run for 20 years ugandan warlord kony still active within the lord s resistance army
+seen_urlhash:ae0ef79fc226487cf45b5c5fce52d43e852d696295fadf7486356312dd64bfca
+seen_titlehash:5c42e45cef2089aa2c3ff09834c771d2f0c94b9bed7fe70ebf20fab6e17a16d6
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement
+title:french unrest are we witnessing a new yellow vests movement
+seen_urlhash:7bfc7cbc9d01121af9ab616e1e0cbf93a1d212d1f68bdf45131c2c1f0b424fcb
+seen_titlehash:6c93731f35c3398f7772f50f229ba3ae737a5d125569a3017cec076f820a87da
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government
+title:spanish lawmakers vote down affordable housing bills in blow to sanchez s government
+seen_urlhash:2c542984a6f5d3f3cbab8c8e188bc7cce11bbc369d1ceacbd00c8aa2b076c311
+seen_titlehash:92425dcee1472af07fd3f7329ab776e82958580b40bf2b5e29bd003435e8e9a0
+seen_reason:processed_not_published
+url:https://dw.com/ru/аргентина-открывает-программу-получения-гражданства-в-обмен-на-инвестиции-в-страну/a-79526098?maca=rus-rss-ru-all-1126-rdf
+title:аргентина открывает программу получения гражданства в обмен на инвестиции в страну
+seen_urlhash:f171365f5325863a7efcc9cec8077e21ec7b1715e3dadf57dd6b31204139ef60
+seen_titlehash:ca946e57ea1f8820f7f51663f11108f8627cd99627cf9b2bccd5be03e1b4a945
+seen_reason:processed_not_published
+url:https://dw.com/ru/еврокомиссия-требует-гуманитарного-доступа-в-алешки-около-2-тысяч-жителей-включая-детей-испытывают-нехватку-еды-воды-и-медикаментов/a-79525464?maca=rus-rss-ru-all-1126-rdf
+title:еврокомиссия требует гуманитарного доступа в алешки около 2 тысяч жителей включая детей испытывают нехватку еды воды и медикаментов
+seen_urlhash:d6c7ba2ca9fcf9b396a884f08de5b5880165b00f802007e89e9401470e0e6a93
+seen_titlehash:08dd5e882ac2458433e1923ac7f94fc5e5e2f962702082919b12cfed39564864
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/02/indian-pilote-attack-flydubai
+title:индийский пилот рассказывает о нападении на рейсе flydubai
+seen_urlhash:ab6a8995c691688baf7c3b260969b80b2df251d5de662a554b4ec482f4908190
+seen_titlehash:9baa4754fa788492fe8b170115bc9a7d2d483446b735b7cecbd743cc4ff75c6e
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/02/argentina-citizenship-program
+title:обременённая долгами аргентина предлагает золотой паспорт для привлечения богатых иностранцев
+seen_urlhash:4ddcc2b8b92959422e6c3dbfe4ef0876743729300440377ba1d1db3ac4e05e10
+seen_titlehash:f59ea6f238fd156ec8bcfb73da6021621dc997b0bc4291aaea13cc8faf870289
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/02/drc-ebola-epidemics
+title:вспышка эболы в демократической республике конго унесла жизни более 4 000 человек официальные данные
+seen_urlhash:9a9ec9e8a23441dc6a3feea83373c1bea9857123b0d9b5e4d8c4b065ab40a8bf
+seen_titlehash:d0de0b34a97aa02427bf3ca079d023f93f97f2e30d97dac039598c087bcc3301
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/02/ren-tv-i-112-zaklyuchennye-kotoryh-perevozili-v-poezde-vladikavkaz-adler-ustroili-bunt-oni-vzyali-v-zalozhniki-treh-konvoirov
+title:этапируемый заключенный напал на конвоиров в поезде владикавказ адлер погиб сотрудник фсин
+seen_urlhash:4614b8f1bd6ba6da66a71102908a9eb254abf3b6928fb89363849671ec1609fb
+seen_titlehash:8b7d5c1de5949d45df2cb1b29704c8a2b70b4b6671d1b6c6dcd8a18a8f92dd22
+seen_reason:processed_not_published
+url:https://ft.com/content/05fd286f-6fac-4479-b560-848970f32af5?syn-25a6b1a6=1
+title:two iranian small boat migrants charged with plotting attack on jewish targets in manchester
+seen_urlhash:80fad0f9d5ecc2f359c571ff35ccee79c3c9d7f083185ca4ac294b7ce27807df
+seen_titlehash:42c2b76e3c6590ff986a35bc5decd82a78d922b7f3d0829e04ce33e344a92497
+seen_reason:processed_not_published
+url:https://ft.com/content/538ea132-4021-4095-8da3-9db41d42b19d?syn-25a6b1a6=1
+title:widdecombe murder suspect charged with preparing terror acts against farage
+seen_urlhash:7f06b57e302746b3ef5faa3c68e92c5928d631f671f3e6006f6ee73c5f9385d2
+seen_titlehash:ec438a3fc50eb6c75f7cce5104d7388a51c432c3d306832aa07c559f7109e0cb
+seen_reason:processed_not_published
+url:https://ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1
+title:us justice department will not reopen criminal probe of fed s jay powell
+seen_urlhash:79abe40b75d2be5356c33065a146fa85500f5cf3e8a17f8818deafee5ecb8e13
+seen_titlehash:84eb7828cf787a1c89050d8cfa22a6e0499da1c9794566871faea601b138457e
+seen_reason:processed_not_published
+url:https://ft.com/content/9df55c2e-e9c8-4a5a-a025-99fb459721d3?syn-25a6b1a6=1
+title:healey set to delay difficult choices with breathing space uk budget
+seen_urlhash:16d32daaf877c89d1e71624ea1379436bd6d7329a56bdf918986bbab6182a606
+seen_titlehash:130e491d65cf6b0808f9f47f65b2de0424ff6ffb6805b37dc35f45ae966f574f
+seen_reason:processed_not_published
+url:https://ft.com/content/c89a552e-4720-47ae-9f0d-e9ff85b36dd9
+title:october fall
+seen_urlhash:f5c8d9b46018e3d2c636764669441232125bb18f3767d718c929290a06bd46e6
+seen_titlehash:639e3a0ebcca51800d5d90751586b0993ed1435ddf50d9b9d02c1b9f437bee47
+seen_reason:processed_not_published
+url:https://ft.com/content/7a91fa6b-e908-4a28-b04f-02d5a10a6bb1?syn-25a6b1a6=1
+title:amateurism and organisation iran s potential role in raf fairford incident
+seen_urlhash:d0a4b59f8e9ffd86894919f3a65dd6a1d47f09765ba067dacee125ba5b0d2c70
+seen_titlehash:6660e1fa221a9bf8b89fc82afad24b4e16cc7698cde6b5208ae8de37fe6b1626
+seen_reason:processed_not_published
+url:https://ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1
+title:low profile hedge fund smashes record for new york office rent
