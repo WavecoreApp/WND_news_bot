@@ -132073,3 +132073,333 @@ seen_titlehash:2ef803cee8e92869827868812b5fe0065112b50b7a43a59b59a5bb4b07c5217f
 seen_reason:processed_not_published
 url:https://ft.com/content/011709f1-890d-4448-9f27-6474922c563f?syn-25a6b1a6=1
 title:can sing can conduct can dance the many talents of barbara hannigan
+seen_urlhash:bd333e3b4ebb2642ba2831b799cb3f756c98e800bc61fc3f6029b786f34c6995
+seen_titlehash:e35a867137cbe278c6b4c3f4fb7be1d7013def036c87cc8c92db011265395ce3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss
+title:flydubai co pilot attacked captain with axe uae official says
+seen_urlhash:72c25914def09075a857661756a529adbfe9f0dda8cf8fde007664209ab0829b
+seen_titlehash:7edc015e8e2bba1644d4f0f82fb9c9954fb2f51e72245bceca60cedd3f2803b0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss
+title:protesters across spain demand action over housing crisis
+seen_urlhash:6deb9716bf14014e026793625b6031e45d906c65bee43e82378dc694f91c24db
+seen_titlehash:3df5b59ff6ea30aaab76f8e3f22cf9e9fc3fe8aab200bbb538770ea74e2faf90
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss
+title:kim wins asian games gold to secure military exemption
+seen_urlhash:fb5935387964609c10d31dc8bc8f959fa4fea961f24e26cc01b93820a9152118
+seen_titlehash:b69833d36c34f9902978f349a5c0f329a3ae4815b40b16cda33ae360c7027bdc
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss
+title:uk iranian dual national bailed after raf fairford incident arrest
+seen_urlhash:13b7f5c93c44204bc5abc928061fd7a5e220136a5b64de4508c500ba6e5d1aeb
+seen_titlehash:bae9b1f9d11043023d6cf79c797a280ee1c42b10fa6b2c46f38e7e18f21a9925
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html
+title:separatists are poised to win quebec s election independence is still a hard sell
+seen_urlhash:82e4484f52ffa26e0a0252bd3b4588f3a9b88241f9e0441d59f9ae363f56e85c
+seen_titlehash:6980e23b2762ddbb3f350e82eb7c58f9d3b61e81ac4fb8ecb0bde66507986933
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html
+title:omani co pilot on flydubai flight is said to have extremist views
+seen_urlhash:6d9d7802c167c21731fa9ea3aa93cfd070ab86dff5a1915586e5f04681c7360b
+seen_titlehash:dfda72f740c73cabd488198ba54ffe6df5b50fcec86af561f6f1d1d2a36b7bff
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html
+title:american high school students are selling guns bound for cartels
+seen_urlhash:923f1134155cbcac88724de02c9448deeb7528dd8ec3ccd094e816a5040d924a
+seen_titlehash:94e2024eb3bb9e57a4a4ea956365383b05526374be00313739ae0cd4b26d5ed8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html
+title:russia turns to striking kyiv s bridges threatening a vital lifeline
+seen_urlhash:2496ff54cec5cf54d71a327fdfdce3bafdaa4846b51f569e5109f8cca01497e5
+seen_titlehash:20669750bc70b57b058c45f18bac27b156ae90ca45e6f3ff810dac410d387b44
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html
+title:flydubai co pilot used crash ax in terrorist cockpit attack emirates says
+seen_urlhash:499f296780551d19610c5fa62e4fa9b85cad1f040630619fecf0ea91ca3aad94
+seen_titlehash:7a3666f80fe29e4d0b2f81134cefab62c9dd029961c6f7d1e0c8efa5cbf98b0c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html
+title:iraq wins u s permission to resume iran flights prime minister says
+seen_urlhash:b7dbdc7f43d796726e9c0862f483645fbf4dbc19804c5f7d48aad5bdf63a015d
+seen_titlehash:a985576c29377128d987b5534cb27ffe131a8e8c85698a33a2dcb2845a6b1eb9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html
+title:what we learned about american teenagers supplying guns to cartels
+seen_urlhash:ff2711a8c1d011c5ef9f83100ff3320b52d27b8df7d3f96ddac7905bcfcf790e
+seen_titlehash:6778c44d1778edc19deb1b42c6ead3e25ac50fadfd00ff238ea93c1c84e8761b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html
+title:understanding canada s europe pivot
+seen_urlhash:c9c55f9c42c21fac4fe36d7a125851a009ed67de6571300db7d43ec4ff815199
+seen_titlehash:e0f08cd7e892f59a6b9966109e253555cd4ff5ae6c83026c98d1e450e5067c47
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/science/loudest-birds.html
+title:these birds are louder than elephants jackhammers and chain saws
+seen_urlhash:f2282a43b5a87c3031a65e52bed1d0925078082c8e10f31f20b30e949b5bab92
+seen_titlehash:3f35830905d5fc5f9c7b1d1c6c1e23291d93839ccf5c0e39848726ccc8f62770
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/03/world/asia/tukaram-mundhe-india-mumbai-food-raids.html
+title:in india a food inspector sparks fear in mumbai restaurants
+seen_urlhash:04d5d66f1b6f2ca23a14cf7c4938bb47d3342498bac0d0cee2f275be774ac09e
+seen_titlehash:71d51a7bb5c81a4d4a1133eec70e4c991b6edefd839a355ecd3266732383a036
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar
+title:libyan unity talks upended as warlord s son linked to drone attacks on fuel facilities
+seen_urlhash:d3e5ccd0e80fb8784b4a2f9fecee8f693150cce12fe2e6517ab9207c5e5730a9
+seen_titlehash:bfd1b5041d7a9c9d1ec49608ff4e28c554c49df8a7a108d1f26ffa4622475eab
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss
+title:defining consent and the psychology behind the cornell 7 rape case
+seen_urlhash:ac45377add7fe64c14974fbb31a52384bb81462b2141d75d68495830f8e37e21
+seen_titlehash:7744c19692af2b3b83a718bb6035c5a0ab47c8c57578b1a7906c8509b4db4349
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss
+title:south africa s pretorius smashes gayle s t20 cricket record score
+seen_urlhash:881cb001850567210b49f9c90be254a05eccd150a67ac9244adce1e16505f63e
+seen_titlehash:fde510736a333e329edbb6be353396501e22237b36852fe6425122bdf025689b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss
+title:israeli settlers attack farmers in west bank pogrom soldiers hit reporters
+seen_urlhash:69fdde6b1eff5b72dda7dd532c9a887ff8b2b14312560f0b59297bb43803a56e
+seen_titlehash:49de234e19c6f391d08fbfd25e5432ed03ae8a86ff77d28b54152921db0eb014
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss
+title:world no 1 sinner withdraws from shanghai masters as knee injury lingers
+seen_urlhash:c12f83119a6042ddf889b521ea39c518574c1baec4ba95a25b0880bf43330be9
+seen_titlehash:55a745116a096ecd54b8cc253f12485671c0550992d320a0195ba932c4bb0365
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss
+title:the double standards of a failed execution
+seen_urlhash:7ade999305bff1c732a4364a4c6ca4cf4b56db9a9bf9f4c6fed114b69f0a50e1
+seen_titlehash:45e3d91dc2a29e42b130441ad5754979894f851327c32f24f9e5f85a5e37ef8b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss
+title:ethiopia s government forces retake airport from tigray rebels in mekelle
+seen_urlhash:db123ac02dc4832211fcc8c4a95f0375d4e491221be655f14e8900cece64638f
+seen_titlehash:e69732102f3fe25fad4b7dc615025c6603538a130e18990b85535c8cda340d42
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss
+title:how ai is helping mexico detect breast cancer earlier
+seen_urlhash:a27cf17095c537b5cfb9ac9fdca60d0d5fd3180d003ca7b6324a64879aaaeeed
+seen_titlehash:57e519f5d46836d56b05b74cd09b1ef2c71373fc77063bea045113ab6c9b8243
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss
+title:a yemeni family spends a week on the road fleeing another houthi offensive
+seen_urlhash:5be4a406b37f63ccd4e4bc4c5cf5f44cb34e7caf947603807669f28b9b2dc5a3
+seen_titlehash:79009711c2ef359a28be58282039a19974d59d643816e8e84c8a383393bcc1eb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss
+title:pakistan summons indian diplomat over border killing of two pakistanis
+seen_urlhash:438a4207a52ab160dc2a310d44f19af8a230fc73bf23ba5cb8074439d5ce1073
+seen_titlehash:880f1eb3360f017130da84e889da77c2749f15c1063d692b343b8fe3e96131cb
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss
+title:what is fc barcelona s negreira case and what are the charges
+seen_urlhash:0d825214eec328c4663d37ad639720c33c8acc7fd6751830fe4f57695b7f3b42
+seen_titlehash:4f689098062df5e652b0d48955fcab5428fc81b6a3135b5573fed3bb221ad22d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss
+title:red bull s verstappen grabs pole position for bahrain gp in malaysia
+seen_urlhash:1bb63a55112e26e359579cb3b3675322f378ff7628d4845a2498978d8a4283e4
+seen_titlehash:9255e9edb1d7ed3f6eeccb49c7c8984c00ed6af27e455838cac8845c2e4b4f8a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss
+title:g7 to release 100 million barrels of oil and diesel will it curb prices
+seen_urlhash:6c1c48bd23cb3087e0b4e039da8543684d7442149c0fef8f6aebe197a4c978eb
+seen_titlehash:cd43e930b47062c6342af3e4e062982e24ecba78cd554b8c91a9888a4dde12cd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss
+title:who is the mystery co pilot behind the flydubai attack
+seen_urlhash:150d72707f67cd666e5f5a10bdd5487fc0f8d340a4eb27d7b31ab5dd4095f73f
+seen_titlehash:1a63bb7594c458b4c6e3a224126e2e266f52e737a5c53112a528df121adb219f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss
+title:yemen s army claims over 1 500 houthi casualties in past 24 hours
+seen_urlhash:244a605c71a2407445a4862f8589da8198afbc68dab651e2ec5863989e8c9192
+seen_titlehash:90f3821bef153f53b9d1bd6e8d2470e1ae2a8d421fe2597a6c30d674c3510df9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss
+title:polls open in latvia against backdrop of perceived russia threat
+seen_urlhash:6bcc0670370f6355effda38d6ef35ea6e5599c888147557e2169203ad24e2d97
+seen_titlehash:25725907aa2e32a1f25fa8ca14481499297816f7eaff42ce2cccb9e0781ccb8a
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss
+title:turkish court detains football refereeing chief pending corruption trial
+seen_urlhash:c2688fd7abe4191f5d425fb0b0709a2324f53faf0ac8ce8b281ad76bc61c818f
+seen_titlehash:cc25d5d0c094e548aa0432f7fa3fcc224c45474976204dc8f4bab3556d971deb
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss
+title:no handshakes and a delayed ceremony as india beat pakistan at asian games
+seen_urlhash:8c03e6b3a93fca91a0105c17bafdce36bec9593a5e4ab2aaaa93310beff35fb3
+seen_titlehash:0bc2f56074dd2891d5732abc4994d611ba7fcebf8f10d69d9131a5bdf9c65951
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss
+title:floods sweep cars through streets after intense rain in spain
+seen_urlhash:2e2ed907360c3b9dcb0f5941d3bb137454aa91bc4b315143d6adef07c21bf124
+seen_titlehash:458f2e65397084d7a4c4fe7d967a8a1c1b4ff375b6ed868191a10b385eea8a36
+seen_reason:processed_not_published
+url:https://news.sky.com/story/north-korea-fires-ballistic-missile-after-seoul-demands-apology-over-border-mine-blasts-13594567
+title:north korea fires ballistic missile after seoul demands apology
+seen_urlhash:e5d43aa3175f3c1b300ea82eeae6a292bdcbbe43641b8484c228924bb4f05d3b
+seen_titlehash:8adc517dd7656d7c86be9fc06669f13213006f27394fba8694b531e05809c3df
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology
+title:flavio bolsonaro in the name of the father sons and holy ideology
+seen_urlhash:e4a31622d461827911a76cc1ad6fd20da1dcc1fa0512ffe15eaacb884bf5fe57
+seen_titlehash:b3a4318cf5ef0f7b3560a3fd09cae7fa64a71a630d6dc38703126bcbda89def3
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests
+title:barricades the blame game the french school protests
+seen_urlhash:b810c7dc087daa19f34406c97b993bf2f212607b541a255f1bb95b06ab677016
+seen_titlehash:47cc36cbb490b799c406a132184ced36091d62da476d95013ff10afe683927b0
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20261003-no-fairytale-return-for-zidane-as-italy-hold-france-at-the-stade-de-france
+title:no fairytale return for zidane as italy hold france at the stade de france
+seen_urlhash:bf7f1c581af7c10f9a2241dd5e2776368fc2f2e1853fa95fb4aa122e323aa606
+seen_titlehash:7cdb2197b247e5a48b660e1e4d21738d7bd79f496f9b5bd1150b765ce0714e97
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance
+title:ethiopia s tigray rebels abandon regional capital mekelle as pro government forces advance
+seen_urlhash:20e699c69f50c0a4b65f20f4190859b1b74376f19812b36f057a9fadfdf9dfd0
+seen_titlehash:2129195b009f113b4627b4b6343f4061408a1ed29e7786bdcb1bbf9756156417
+seen_reason:processed_not_published
+url:https://dw.com/ru/над-молдовой-утром-пролетели-три-барражирующих-боеприпаса-и-три-беспилотника-в-нескольких-районах-страны-раздались-взрывы-пострадавших-нет/a-79530178?maca=rus-rss-ru-all-1126-rdf
+title:над молдовой утром пролетели три барражирующих боеприпаса и три беспилотника в нескольких районах страны раздались взрывы пострадавших нет
+seen_urlhash:ed08a5a0555bc67099ad31492b495f39d06291269731b8f0efdda76554054375
+seen_titlehash:25054b3a784dbde87c754da2cf2902ee1c552931b29f22578a88dcd0c8a37f7c
+seen_reason:processed_not_published
+url:https://dw.com/ru/nyt-переговоры-сша-и-рф-по-войне-в-украине-расширились-и-включают-многомиллиардную-сделку-с-нефтяными-активами-лукойла/a-79529984?maca=rus-rss-ru-all-1126-rdf
+title:nyt переговоры сша и рф по войне в украине расширились и включают многомиллиардную сделку с нефтяными активами лукойла
+seen_urlhash:aaa792a303d52c36a058912de6031c381e9b5b9d05e739129a0c2354b25c50d5
+seen_titlehash:abb48df1f339c98016423b5a99c96913cf6d4db3850fb593fe99b05ad0134428
+seen_reason:processed_not_published
+url:https://dw.com/ru/психотерапевт-анатолий-кашпировский-скончался-на-88-м-году-жизни/a-79528864?maca=rus-rss-ru-all-1126-rdf
+title:психотерапевт анатолий кашпировский скончался на 88 м году жизни
+seen_urlhash:acef77e2a2b5a9111f63ef8c13547a386aaad1b4d4a01e0aa7d2a8fe077c767c
+seen_titlehash:beeb1bf909075f1d28da4f255b90409bfe19ae0e515b08319e27d3dd4801dc7b
+seen_reason:processed_not_published
+url:https://dw.com/ru/аэропорт-вильнюса-вновь-останавливал-работу-из-за-воздушной-тревоги-после-возможного-обнаружения-дрона-были-подняты-в-воздух-истребители-нато/a-79528550?maca=rus-rss-ru-all-1126-rdf
+title:аэропорт вильнюса вновь останавливал работу из за воздушной тревоги после возможного обнаружения дрона были подняты в воздух истребители нато
+seen_urlhash:8d3b1b4d4a25b736d62965290d2217629ad741fd56df4b6e13442a68aa210eda
+seen_titlehash:2a7934982bdb50becc370bb92e4e0ce11fa41dc8eac9686fb47cd0f0d969da95
+seen_reason:processed_not_published
+url:https://dw.com/ru/генпрокурор-оаэ-напав-на-командира-самолета-второй-пилот-flydubai-пытался-захватить-управление-и-совершить-теракт/a-79528059?maca=rus-rss-ru-all-1126-rdf
+title:генпрокурор оаэ напав на командира самолета второй пилот flydubai пытался захватить управление и совершить теракт
+seen_urlhash:b1b1af4d140333f11e58a764ebf0a5e952735cdf5c1f3961a2d0591164b53266
+seen_titlehash:f67f3634d5dd879d1b56156aa7fe40526105ee4495d4552dfd1c836344db788f
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-третий-день-подряд-атакует-мосты-в-киеве-после-серии-ударов-по-южному-мосту-поврежден-и-северный-мост-через-днепр/a-79527506?maca=rus-rss-ru-all-1126-rdf
+title:россия третий день подряд атакует мосты в киеве после серии ударов по южному мосту поврежден и северный мост через днепр
+seen_urlhash:684dfb0a90693d7ac088c5f63be6f28121999b036cdf62a7b5507309fd249396
+seen_titlehash:e42e5dc6be9297a3cea145a0ec71c7fda9e97e38b876c37f729ddf697d958956
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/china-launches-anti-dumping-probe-i
+title:китай начал антидемпинговое расследование против ес перед торговыми переговорами в пекине
+seen_urlhash:373fd52605dc8d1d90cd562899bfc9f4373f25cd887f9b1b462372de991d5dcd
+seen_titlehash:7e7ffc0bf5a8fa0f9ad7ea42d35babedfef039d5105b8898c863c4c4965e142f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/german-unity-day-3rd-october
+title:36 лет объединенной германии насколько едины немцы сегодня
+seen_urlhash:50129062913f855ceeabcf1e7dc3d495d2785b1dfb488a969eee671d2670fe67
+seen_titlehash:95bb44775338232a1f5fa454bef10abc3515055d1e8c20b9552d610a06002d3a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/03/novosti-dnya-3-oktyabrya-2026-g-dnevnoj-vypusk
+title:новости дня 3 октября 2026 г дневной выпуск
+seen_urlhash:aabd93bc3c264bdb4beaffafddffbd1453fde4e152162732400e1068635e0a8a
+seen_titlehash:64e133c7f038ebe3e99743d124d6879fdd7c83212420e25f9affe7d2f07d6b34
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/flydubai-co-pilot-update
+title:второй пилот flydubai напал на капитана с топором это теракт оаэ
+seen_urlhash:7200607fcee7a96e95138900b3d9bfe07e58bbb5c14bceab3401a72b2f91a3e1
+seen_titlehash:93b3b855c584617b6f974a886698b250e51a2fbed8c725d5192d3ee96e84bcda
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/china-vs-us-latinobarometro-es-team
+title:латинская америка стала выше оценивать влияние китая чем сша latinobarómetro
+seen_urlhash:b189046e4f45aceb9356ce0e3b1568fd6f1d9a68dac979d0364728ef31c78bbc
+seen_titlehash:74f23c34e0007d7c6f848a1004664f1b33ed02f8e3707c973e38d9740b877a60
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/fresh-protests-to-hit-spain-after-housing-measures-defeated
+title:более чем в 50 городах испании проходят жилищные протесты после отказа парламента от защиты жильцов
+seen_urlhash:7fae374016675608c42eb4192e063d47eb0ae27ca8f8c6925c16de1f4992d509
+seen_titlehash:a8b4bce5228021ad7f1b25c1d2229755def1946726058c1f80464da722e182a9
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/latvia-legislative-elections
+title:в латвии проходят парламентские выборы на фоне роста цен и напряженности с россией
+seen_urlhash:e21691a082f1bfa9b7f76adffba3d18640ccc93fe45a1a302dba37a77926eea9
+seen_titlehash:2226e77ed464364905475f5014cbbe5c180f765b440c683cf4905914bd144fe8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/greece-bulgaria-czar-remains
+title:останки царя самуила возвращаются в болгарию 48 реликвий в грецию
+seen_urlhash:e3afff276448a9a91cfaebf1b4d66c522add0103e35874b4657ed7cc27894d50
+seen_titlehash:7c1453acd1d9177953fde23a6b6836865166708aab8e54b9e04d13af3c92ec7b
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/03/v-shveytsarskih-alpah-uzhasayusche-bystro-tayut-ledniki-kotorye-suschestvovali-vekami
+title:в швейцарских альпах ужасающе быстро тают ледники которые существовали веками за пять лет они стали меньше на 20 фотографии
+seen_urlhash:7621d860c7a64dac23e38a00881c943c67d92e3e50772911a057cc9185676909
+seen_titlehash:3105b1f7a7c9cbdaa9d1187e6823c809d1890d44c1e56df0d949bfa29f338c2d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/v-irkutskoy-oblasti-chinovniki-posovetovali-ne-ezdit-v-gorod-shelehov-gde-patsientka-bolnitsy-mogla-umeret-ot-chumy-a-potom-udalili-post
+title:в иркутской области чиновники посоветовали не ездить в город шелехов где пациентка больницы могла умереть от чумы а потом удалили пост
+seen_urlhash:ba4b41f50e7b3ba6331107954680a5b01b2790cd6480679c5445a15fda08edc2
+seen_titlehash:65bee370fcfc336505284331c4f015411da5f42019dae703243d6979781b472e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/kadyrov-poluchil-vysshee-v-rossii-voinskoe-zvanie-zolotye-pogony-i-krapovyy-beret
+title:кадыров получил высшее в россии воинское звание золотые погоны и краповый берет
+seen_urlhash:e0fc737e883396b3ddb13ccff3c7147a8665004127c7ac5d445f1b36e646ea90
+seen_titlehash:17b1771c89ba8bbe6609f72f7cc6c6bde27a9562e71755218250af869b9336d7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/germaniya-otkazala-rossiyskoy-studentke-v-uchebnoy-vize-iz-za-ugrozy-bezopasnosti-pravozaschitniki-nazvali-eto-opasnym-pretsedentom
+title:германия отказала российской студентке в учебной визе из за угрозы безопасности правозащитники назвали это опасным прецедентом
+seen_urlhash:e04fe4405921b441e03aae4a803137d0851f7593792df09ed4f4196e8fd22b2c
+seen_titlehash:5f555b0db052b25c783bbb6502ef6af8bd18f4f8fb1c831913b4f1f51e518318
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/umer-anatoliy-kashpirovskiy
+title:умер анатолий кашпировский
+seen_urlhash:b773acf22e0cf4c40abffb0acd386e730b1a7913c45779d67f85fa270dd1b1f6
+seen_titlehash:5a2ed6fcaaa637f56e71307f5d3388186f8b8398326a29481a657a51694f4cda
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/putina-v-poezdke-v-chelyabinskuyu-oblast-soprovozhdal-vertolet-a-esche-v-regione-na-tri-dnya-perekryli-vse-federalnye-trassy
+title:путина в поездке в челябинскую область сопровождал вертолет а еще в регионе на три дня перекрыли все федеральные трассы
+seen_urlhash:8afd516becd8ccdc8afbebd40da5a3801267bfbfbc2432f609c8ad664050b92b
+seen_titlehash:173c38f66ab793f3985d9b3fedceb3b9c54d47e6efd428337ba164184c1322d6
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/03/kak-ostanovit-dazhe-megachih-esli-chihat-nikak-nelzya
+title:как остановить даже мегачих если чихать никак нельзя рассказывают хирург актер певец и другие читатели медузы
+seen_urlhash:1814e86737b56e2d6b34666603f6e52e973cdc2e703c8713d7b523166eef3d24
+seen_titlehash:9dcd32d8e8d9d1b39513192e453624bedac83e88237c694c3716271344ba9164
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/passazhirka-reysa-iz-turtsii-rodila-rebenka-v-tualete-aeroporta-sheremetievo-ona-ubila-ego-i-sama-umerla-ot-poteri-krovi
+title:пассажирка рейса из турции родила ребенка в туалете аэропорта шереметьево она убила его и сама умерла от потери крови
+seen_urlhash:79181a57f6044664055193d76f8b7ea41b9eddfbea5fa07f71fed995bef96f23
+seen_titlehash:08bbd2e2b1c3704e692552e4f5623c1eaa5b504c44d06217cfd0a11a8aaa3d49
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/03/na-kapitana-reysa-flydubai-s-toporom-napal-29-letniy-hammam-al-hammami-on-hotel-razbit-samolet-v-izraile
+title:на капитана рейса flydubai с топором напал 29 летний хаммам аль хаммами он хотел разбить самолет в израиле и его уже отстраняли от полетов из за радикальных взглядов
+seen_urlhash:a41f3701ce42de6ebfb0eeb83704934eedc8ba2b11877447d192ea371d94eb92
+seen_titlehash:74da1b8067b33171f82ba65860fecbcb7d7cffc326044f45307430a0d9edd9d4
+seen_reason:processed_not_published
+url:https://ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1
+title:the town where 94 voted for lula and some now waver
+seen_urlhash:8631667928085413fa845f94a4b995a6c96b403a78e8d7e5c7fa75b9a23bb13e
+seen_titlehash:b83e618cbecd4a88d5535b0fe3493df83bad66942e0848a552c99669fed48f4a
+seen_reason:processed_not_published
+url:https://ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1
+title:china launches anti dumping probe into european chemical exports
+seen_urlhash:477ccd57daa80878d1cb5ae13b645052182c14fbedddfc63ff28a7ed6ef58d8e
+seen_titlehash:f43655de66bca4ee8688d61671b814bb5f91c052f3b2aff8f4c231cf5993ee4f
+seen_reason:processed_not_published
+url:https://ft.com/content/dbe6ccee-e8db-442e-ac0e-210ca74eb5c4?syn-25a6b1a6=1
+title:europe express lies and statistics
+seen_urlhash:5e2cc70c0adcbc2859c5e3537adbb52fa24b8531a58a26d0963fd23241a79965
+seen_titlehash:d31d1359dc3b54a86b3033efb031bddef8a76ddff99084ed0c8b52d0b16b9e4a
+seen_reason:processed_not_published
+url:https://ft.com/content/f212d7b9-95e0-4aa0-84bf-4df7b43bc80a?syn-25a6b1a6=1
+title:what s driving the global bond sell off
+seen_urlhash:bbb85e884a17f0f7416062d79679734995335aea5c0d27224334fe9cefe66012
+seen_titlehash:c57d38371bfce14b1eee0c51163f7bb5df1abde2ccd4f3482c3f80185937ade6
+seen_reason:processed_not_published
+url:https://ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1
+title:co pilot used axe to carry out terrorist act on flydubai flight
