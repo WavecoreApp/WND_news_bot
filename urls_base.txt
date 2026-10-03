@@ -131778,3 +131778,298 @@ seen_titlehash:00e2157ca73431a69cac9a9fbfcfcd9d8915c9833a7860d64b54bca9d9a900e7
 seen_reason:processed_not_published
 url:https://dw.com/ru/страны-запада-готовят-план-передислокации-своих-посольств-из-киева-во-львов-или-в-польшу/a-79526245?maca=rus-rss-ru-all-1126-rdf
 title:страны запада готовят план передислокации своих посольств из киева во львов или в польшу
+seen_urlhash:daeb8ba5302e39e8be9ae8aeced459d5252b9f86c8080fa77f18ab7a58597a27
+seen_titlehash:b3fdfc9da2e5d02a6aa31f3ee977a225e1cdddfed0bac411cfdb78c981147c9d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss
+title:russia strikes second major bridge in kyiv mayor says
+seen_urlhash:34373ec215f343a8084ab07b7bdece8abd2a9c6acc75815df58e42bafb9b5750
+seen_titlehash:c461e505fb92b1e5e1d8bfd8f4629caff67af8593add23e84901260eb364adf5
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump
+title:brazil s neck and neck election offers test for growing pro trump latin american bloc
+seen_urlhash:07f5ddde0cc2fc06334fa5433a3891ef14df55f0a722be5fd6a30b46d27ab4ec
+seen_titlehash:c65eaaf907684be047af220a6df7361a662fbdd1cbb43f064f7aa13fe2553976
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers
+title:north korea launches ballistic missile after seoul demands apology over wounded soldiers
+seen_urlhash:1efc3ec2495540bd5c7a06e07396bf4ba54583b522aa771d55b56569692ba994
+seen_titlehash:cbfa9c30020a15fc827c1f962539a2b9766db1e77fbb2616ad922a18b18b18a2
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes
+title:bangkok at breaking point as floods turn streets into stagnant lakes
+seen_urlhash:4d05b51b356f03e5b8ea19841f372a13d7f49245323f6d2550d21dab3ef507ea
+seen_titlehash:98f76831ce0408c268b7bab9da7fa482d54c85e672df013c3dbd452513cb8734
+seen_reason:processed_not_published
+url:https://theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day
+title:openai says its review into hacks including on australian government sites is costing 500 000 a day
+seen_urlhash:c8564b7beeb18e8b25e139bf10f00b04466b4fe17a5d0e68697a3c4e2e3893da
+seen_titlehash:2bd1e28cd1819b8d9837ca8b69d95e98acfb03fe2b1b334c123e9c85d6cd7698
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss
+title:singer zach bryan wears free palestine shirt at gillette stadium
+seen_urlhash:8bd5195d0978bcd646a8c6db3a514594d250c745d7bf76a7c59f7ae0f2317db8
+seen_titlehash:575aa08276a9dec474b37cac1f61b39c495fb5d634010aebfb10fd45d6ba601f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss
+title:trauma still there a decades old standoff returns to northern ireland
+seen_urlhash:f923bcdf3c17e59b92c7753319c975c6cf976c2c1441ba708492335e70db5040
+seen_titlehash:e980eeb07700313e83db5fae360f9d0c9be1fb943492c72c52c3d71570c7a32b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss
+title:flydubai co pilot stabbed captain with crash axe in terrorist attack uae
+seen_urlhash:99b9cabbdc5045c5807b5ef2de2b7c5a6501c2aab13513e69d9cc3ce26d54f7e
+seen_titlehash:cd7e9099a4ca01580c69c8c37410b3fa66d09f19f4fe105af2fd99334cbc71cc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss
+title:gaza voters want jobs and security as palestinian elections approach
+seen_urlhash:bb761aa70d39a72d17908f31da09789bc7abc66f72bb6fbe986de63b9d9b6e92
+seen_titlehash:ca66e1006aa87f8f691a036a0e296b1e9a2b440140377643a58cffda6d5e6a03
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss
+title:new claims that netanyahu rejected hamas offer to release captives
+seen_urlhash:8f824877c6d35a02b0d7bc77d755bff6d9915ac4fb1803dc189c4272e16d2285
+seen_titlehash:113c3e2a93872705d806d8bac8fadeb444e62e956e463c2f1074fa0710f5f30b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss
+title:who warns of devastating consequences due to delayed aid entry into gaza
+seen_urlhash:1e2c70257331875e892ebe4aebb558cb5490104ed41343169c8a718110b1da2f
+seen_titlehash:6edd81ebc864f76168710cf42c5802b0fbf4a01980f45fa111c86a0f17395f69
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss
+title:brazil s lula and bolsonaro draw thousands as campaigns near end
+seen_urlhash:e0eddfc32349f9b6a921646abe90137285cbb86dee4567696c6ec59bacf861cb
+seen_titlehash:4701c0fb55cf512c4418d859c71928cffbf374556e472467b951f7e8c729152c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss
+title:10 injured after car crashes into rugby supporters in australia
+seen_urlhash:248e2a155b18913f2c5178a5f81fc0baf02c5394f10f8a96fa6b00c2f0f80ccc
+seen_titlehash:9717b73272d7a140383ea771ad3a14537b963d0e262cc3502b94ee5b31ca716a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss
+title:india s cockroach party headlines day of anti establishment protests
+seen_urlhash:05e3dd61d4908c98d75fc00a2f006ff54d9d0460d250d7ecb198ad1eb10e6ed1
+seen_titlehash:d1e57880ef8fefd6428a65b9f71e72fbcf7a2ba7f566c9b6a1d37107acbec9fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss
+title:two iranians charged over alleged plot targeting jewish community in uk
+seen_urlhash:074de3a5c0c089532848c7a8e30f4f26db26c9f5bf1792e1346584bad3d787af
+seen_titlehash:1b234820aebb5d90ce18d0c6a4112b6966dbd7428f34da8094d72bc16c5d9e56
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss
+title:g7 nations bow to us pressure and avoid crippling diesel ban
+seen_urlhash:81b3d769635ca9c2779240a3f56a191a9079eefd43a921b9b5a81626ba0668c3
+seen_titlehash:bb81834e492adb3e0ed6f349da97869abdbde1ebe43a12c8696f20a84a410b08
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss
+title:dominican republic bans haiti from its stadiums after football fans clash
+seen_urlhash:d3b65d7e8ce09541746addecdb9ac66e5d45a64e54c1fda1197c8dc66a9e2cd1
+seen_titlehash:9c63435a772d36342bf5b0d18d1f1207f214a2e7bedb2259da80e53d971e04fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss
+title:israeli air attack on gaza city apartment kills at least five
+seen_urlhash:ec75aa37a614d3e7820c8bd70f730be22cec70d8d84be2380ea5242b718a769b
+seen_titlehash:3860018f28c9335147d0abf298817e878c2de572e395fbde643d1127a857475d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss
+title:schools ablaze as student protests spread across france
+seen_urlhash:c6ed5484c0fa54fcb60ac8f5c36489b3096d42d6f56a2080cab739a840aa4f73
+seen_titlehash:b1cff0f59f6a84dedf91f0e4813b2ff7baaafe0efcacc7d9370053d6d310cb6f
+seen_reason:processed_not_published
+url:https://news.sky.com/story/flydubai-co-pilot-attacked-pilot-with-axe-in-suspected-terrorist-attack-uae-says-13594565
+title:flydubai co pilot attacked pilot with axe in suspected terrorist attack uae says
+seen_urlhash:36c3875f9682f2a282c5f5290e7efeed219159ce1cee10652793829983faf6ef
+seen_titlehash:cc4d08a10fd0596275b2c53ca57154f20e22cca7216312e9af409955908692ed
+seen_reason:processed_not_published
+url:https://news.sky.com/story/horrible-incident-at-least-nine-injured-as-car-hits-crowd-in-australia-13594555
+title:ten injured as car hits crowd in australia in horrible incident
+seen_urlhash:b4e9277a2e606e0808a9f0e70e030e110668f5cb08f29ae183ac7cde552abf7b
+seen_titlehash:6702ccf8b0c755908069e2f8de2e55c5374687d6936fd6802aa40d4cee00226b
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views
+title:uae investigators say flydubai co pilot was planning terrorist act
+seen_urlhash:aefd53c31a206a6f3d97033109dfc0c8f448b55b2a793b9fa5d139144adf4bfc
+seen_titlehash:2d29702ed1b7fed7a004b58921ec2f54b4e818da85509c0e7de01e2173505d93
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv
+title:russia strikes another major bridge across kyiv s dnipro river
+seen_urlhash:b4e9277a2e606e0808a9f0e70e030e110668f5cb08f29ae183ac7cde552abf7b
+seen_titlehash:d0ae6627d69091dd9dbcb4691577fcb95d7f37c1fc78bd078fa2507e04465705
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views
+title:uae investigators say omani flydubai co pilot was planning terrorist act
+seen_urlhash:1c7b473e40f792a66fcf67b8436767d3e7f2a3d80f53d7f21ce39dccca3a5499
+seen_titlehash:3234447fbdf1f7d5d03cdcaa695b5ca122431803731cda8db1025a2a54166588
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand
+title:north korea launches ballistic missile as tensions with seoul grow over border mine blasts
+seen_urlhash:265de93a4040123631eb4dcda85aa4587531a38d7d00be115af8722d55ccd509
+seen_titlehash:7465b32c4f91cbeb166a7c3cc9e7c36f7be669ea5bc95202e4d5cad39c1a003e
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner
+title:nations league france held by italy in zidane s homecoming after olise stunner
+seen_urlhash:01b973cc36ead23bde0f4f43b48e52074915841791282c32bf20ac2f82fb75cc
+seen_titlehash:dab7c5e930961fea583c7007ab7cd35966976433b650f34b2043a4bbcb1c737a
+seen_reason:processed_not_published
+url:https://dw.com/ru/застойная-безработица-в-россии-растет-при-дефиците-кадров-всё-больше-людей-годами-ищут-работу-эксперты-говорят-о-структурном-перекосе-рынка-труда/a-79515638?maca=rus-rss-ru-all-1126-rdf
+title:застойная безработица в россии растет при дефиците кадров всё больше людей годами ищут работу эксперты говорят о структурном перекосе рынка труда
+seen_urlhash:b442b1050cb91d228482715e67a3d5be25acc33e5ac01137966d7a04dd2a6c74
+seen_titlehash:19d2be4a409c4f2ff85989a149c47c7e4de137985b53ba2db232ba518ddc0cc4
+seen_reason:processed_not_published
+url:https://dw.com/ru/из-судебной-статистики-россии-за-2025-год-исчезли-данные-по-госизмене-шпионажу-дискредитации-армии-а-также-преступлениям-военных-и-силовиков/a-79527251?maca=rus-rss-ru-all-1126-rdf
+title:из судебной статистики россии за 2025 год исчезли данные по госизмене шпионажу дискредитации армии а также преступлениям военных и силовиков
+seen_urlhash:c2f4df966176169be76926c87a8aadf3b7aeef4778b44f5b17f8aa1bedc25e4c
+seen_titlehash:3eaab2093e77270dbd2219e85a81b8c0ddedde80d8437039de26f29004045950
+seen_reason:processed_not_published
+url:https://dw.com/ru/военные-южной-кореи-заявили-о-запуске-баллистической-ракеты-кндр-в-направлении-японского-моря/a-79526633?maca=rus-rss-ru-all-1126-rdf
+title:военные южной кореи заявили о запуске баллистической ракеты кндр в направлении японского моря
+seen_urlhash:e8fdf01329e8e8c9d35762e0d217d457a429ac8263fa9961d4402dff01d41b60
+seen_titlehash:529326ff22231941b06d1529a3ba311e4e62966817cb9c31da91766d8f768e54
+seen_reason:processed_not_published
+url:https://dw.com/ru/мария-колесникова-в-интервью-dw-контакты-ес-с-минском-сужают-сферу-влияния-рф-в-беларуси/a-79526487?maca=rus-rss-ru-all-1126-rdf
+title:мария колесникова в интервью dw контакты ес с минском сужают сферу влияния рф в беларуси
+seen_urlhash:daa1667476002a10ee6a41dadda05ee1d0deb8af3928019fb3ad732a5b39b784
+seen_titlehash:cc8b3a4fe159927ed14744f6ee2c8a7015e61405bbf534fc519a22450481c711
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/ceuta-situation-update-es-team
+title:в сеуте растет напряженность два юных мигранта ранены пляж заражен бактериями
+seen_urlhash:62f021941e1889f8a1ca4a9232a1e2a802030d937c59d3ca40a560ac508cd0cc
+seen_titlehash:512bc33957ab075896969d68a68978e1105e7969268221e28da3890bb0870034
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/putin-kaliningrad-statement
+title:путин готов задействовать все виды вооружений в случае атаки на калининград
+seen_urlhash:25cd880e8b1d99cfe29b3af5e5ba9bf610fa55620cde1021c384fb65c892529c
+seen_titlehash:1564f99a822533bee0fdade464f338e9bb257fff3b15c1bce2d39299c145e23f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/ukraine-war-attack-on-bridges-traffic-paralyzed
+title:россия разносит киев реактивный дрон атаковал еще один мост через днепр движение парализовано
+seen_urlhash:e24017606023c9c2fbb3d954db9f7117d5e3dd48003266d4e6688a97c0e5aee9
+seen_titlehash:59125967e8d4f134df25f87bdfb37ea7d0fc9e2e64fcaa73a5c033eaff3c2b37
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/the-way-you-speak-could-reveal-early-signs-of-brain-ageing
+title:то как вы говорите может выдать ранние признаки старения мозга
+seen_urlhash:9dc83a36d301d7bba5d8b8fc2c0c2ba52502d6afd6437b16d565d31721fbff38
+seen_titlehash:28ffab0703e2e934769b896a7d5bb511d79213a3da02364233ee09f92742f5da
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/russia-in-the-worlds-most-cat-friendly-country-nearly-three-million-abandoned-cats
+title:россия в самой кошачьей стране мира почти три миллиона брошенных кошек
+seen_urlhash:c4752d38ccab48d69371ae3014652c2064274b3fd9db87218cd65919b341963f
+seen_titlehash:3617e9351767c41c66db65fea8bafb4af2ad4ad42db8d66587a33a13b0b35ca4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/house-prices-continue-to-rise-across-europe-which-countries-experienced-the-largest-increa
+title:цены на жилье продолжают расти в европе где рост сильнее и по какой причине
+seen_urlhash:db013a06cb20dd860453b0ceaf6127da2204e899527c33c534eea57dad1de0de
+seen_titlehash:2752427b38997218def78db200e12e7787c9b41b9aca31d2a3242f197f86f933
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo
+title:от гастротуров до отелей мечты как меняется роскошный отдых
+seen_urlhash:d22e7a4c62664bc9eae473aeee6013d01a821aa693676e53a4b416d2acc2362e
+seen_titlehash:baddd4072c64b550f7ebb75075fecc74cf75146362faa992ce8ad9268375e474
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/03/rossiyskie-voyska-udarili-po-severnomu-mostu-cherez-dnepr-v-kieve-do-etogo-oni-dva-dnya-bili-po-yuzhnomu
+title:российские войска ударили по северному мосту через днепр в киеве до этого они два дня били по южному
+seen_urlhash:44d29d7e6fb6feda654805aff00af3174f6e2250dea49c822d03974f61d0aa9f
+seen_titlehash:97eed21c303be5a06f5c682aff5eaa50d98d67420cf26055dd5eaf57d0d312fe
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/03/vstrecha-si-tszinpina-i-donalda-trampa-v-ssha-obeschala-byt-istoricheskoy-no-po-itogu-ne-ostavila-posle-sebya-nichego-krome-pary-memov-pochemu-tak-poluchilos
+title:встреча си цзиньпина и дональда трампа в сша обещала быть исторической но по итогу не оставила после себя ничего кроме пары мемов почему так получилось анализ темура умарова carnegie politika
+seen_urlhash:d392f920ecd6db67d5ff6b06712f21a9455e739a35368be85551d2c9c2c492ba
+seen_titlehash:4cb99c1cbf5b6f2b5a081c0d6c950d2de3e2fb585924d6633e1cd0f445c245df
+seen_reason:processed_not_published
+url:https://ft.com/content/678d61ea-d3f6-467f-a2b0-ffc78f1ed922?syn-25a6b1a6=1
+title:capital gains tax rise would deter equity investors wealth bosses warn
+seen_urlhash:3c840393a8512cd526ca4bd15b20d7dc15789a488f02b2d8dd56974f2ab04b4a
+seen_titlehash:1128adaa3edc2fb5054f5023cd1f1231ca66749c3eb1cab66fc198629aca023c
+seen_reason:processed_not_published
+url:https://ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1
+title:the right and wrong lessons to learn from spain s housing crisis
+seen_urlhash:e83d2052beb4a2017f9904ac7dcfae9a33a552eab6077223b5ea9c8e36455b95
+seen_titlehash:4f334ada795c78599e44b25c2396cf2bf0f5c7f68935f3b1651b61f86d68a8c6
+seen_reason:processed_not_published
+url:https://ft.com/content/17a502a2-f8cb-4d79-996e-f2c7018585de?syn-25a6b1a6=1
+title:rising gilt yields attract retail investors hunting for tax efficient assets
+seen_urlhash:cc3b6bdcd932200310f44f79b53e5fde798e45a886ce7ec63740ecee966d64ea
+seen_titlehash:2fae8e6255e7b22f5d39d36829b8c82d925ee568bace33165c8844e2a35ff984
+seen_reason:processed_not_published
+url:https://ft.com/content/3d4354d0-7273-49c3-89ce-38dcabd6bd7b?syn-25a6b1a6=1
+title:does the eu want britain back
+seen_urlhash:cd31b30586e943aac28ab73e994782c12e8ea6720a7b70bf38b3e3a86590a6c6
+seen_titlehash:8d17d3d4668e1d2f1fc01162fa22af76a727cfb93896da27af90aac3aa33a870
+seen_reason:processed_not_published
+url:https://ft.com/content/156ecdf6-9379-48d6-b30f-becfb6b235ff?syn-25a6b1a6=1
+title:struggle to handle fairford plot shows need for reform local police chief says
+seen_urlhash:1f7fc59dbda4c16c1a6568e17baabede7b4727c0ec8dcdf12677ac750ffbbf95
+seen_titlehash:9327efc5f86f662852ad38354b8fbbfd918679989afdc78f77ea56648254a67a
+seen_reason:processed_not_published
+url:https://ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1
+title:zelenskyy asked trump to block russia and china s starlink rival
+seen_urlhash:a702e995193dee75901bfe763176e740bad7ba58e336854ec78e4621909a59c8
+seen_titlehash:68ed9cf2d408ae935a667bcc4a2c0145791ba2bc1456f5df8239cb070729a46d
+seen_reason:processed_not_published
+url:https://ft.com/content/864aeb96-e36a-4cea-b914-7996b763dbe4?syn-25a6b1a6=1
+title:the ever shrinking case for expanding heathrow
+seen_urlhash:c70d31356d6e673ba7e5dfe04614c5750a535e109125f38263a78f90c6cb29ad
+seen_titlehash:3eb5556f9747caccc243aacb8834d01cdc01bdd0c796389a7658d33d98398664
+seen_reason:processed_not_published
+url:https://ft.com/content/4e6a9004-fa0d-4b2e-a0a1-d4bc82411754?syn-25a6b1a6=1
+title:a senate race runs through the maine woods
+seen_urlhash:4440d3904f322df696113ad44688ebf9df6f5b131961812509c5c783636ac75a
+seen_titlehash:221729a50e49aa27c8f244f3a614f4dea7f43c46e63d55850d67761846bbbd49
+seen_reason:processed_not_published
+url:https://ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1
+title:china america and the new great game
+seen_urlhash:f5675b7998cf7e6fd7f79e976a90e5555ef8b43853337d3aff7e34e11e1d52fb
+seen_titlehash:5f80507e16deb6398e38297a75eaa2853a6d28ab27e214b102494361b4ac49f4
+seen_reason:processed_not_published
+url:https://ft.com/content/68e54c19-c3bb-4704-8da4-1bd77b9dd06f?syn-25a6b1a6=1
+title:trouble in auroville india s city of dawn
+seen_urlhash:d7cc924dfa16de6b5c28451cebddd08c992f8775f70772b86d8e317be32d0ced
+seen_titlehash:45320cb5370532d4539ba33961397ba5bd1460fab13000173be4454c3f904bd5
+seen_reason:processed_not_published
+url:https://ft.com/content/a752a765-8b64-41a5-b051-5237957e13c1?syn-25a6b1a6=1
+title:dethroning fico won t much help us homeowners
+seen_urlhash:4b7bccfb3012e8ddf99065404fdcfc5b2b0872cc2b85b035939b0acd11f2dc98
+seen_titlehash:311c336926c70cd3b5bf8eb20c1e5de1ded545a75b4c0cbfb4e24d7d751173cc
+seen_reason:processed_not_published
+url:https://ft.com/content/b50f39c6-4484-4c06-89cb-2884f9e58bd7
+title:protests from the city about bank tax ring hollow
+seen_urlhash:040f1ce84eed4b89c02acf05521a7f5df69dd5d879556de65155baf9c6cbe353
+seen_titlehash:55281a5743a8de4917250a621ac1e6493b7cce78dbde6d8e19571cd06bdd57e9
+seen_reason:processed_not_published
+url:https://ft.com/content/cc8ac63c-9b03-4efc-b9e5-b90f513ba565?syn-25a6b1a6=1
+title:skynet satellite battle tests uk pledge to buy british
+seen_urlhash:3bb9f2f86303bb5f4a615a3e88518c55985e7fde4af0406fbaeec78033140681
+seen_titlehash:2920c36d1c8be3c89962d8ca946d57ce34f05035fef8f6f8694aa0904f082d7d
+seen_reason:processed_not_published
+url:https://ft.com/content/782f81e4-7eac-4791-b478-c142119a7ebb?syn-25a6b1a6=1
+title:who let the dogs out please put them back
+seen_urlhash:bb87ea1f98f95fd3b2ba926e247cbd7ce59bad4c1ba1db2dafb3706498be0030
+seen_titlehash:391f00662e31b35ee1de9f1143d91145c86d7788097da0c522fff4601bff5dc0
+seen_reason:processed_not_published
+url:https://ft.com/content/0c024736-06f0-4298-9404-9c495575a8ad
+title:renoir s reputation restored at the national gallery
+seen_urlhash:a302926d40ac0831b7d6c8b37bf6da33ed4c5c49cacc0bf995847211e81e62e5
+seen_titlehash:9431d6b9df710869f0d1e2c3d10c0b8c3d9861e47cca1dbfecdca3085bd5f018
+seen_reason:processed_not_published
+url:https://ft.com/content/e29a6bfe-5458-4b8a-85b3-4063e58048c6?syn-25a6b1a6=1
+title:tempted to go freelance here s six financial tips for success
+seen_urlhash:73347aaab33ebbf9b65b790f698f18b5f2dbf20e282312eedd70dfad6854ae2a
+seen_titlehash:9e1f63901d3f0987311a5a8f5152c6e26ec546fea707cd21dd3187832336fb9b
+seen_reason:processed_not_published
+url:https://ft.com/content/7c0f3dff-6f64-4242-86b5-9b4fe95a8f8f
+title:when 35 new zealand chardonnay meets 1 000 white burgundy
+seen_urlhash:f249008f875fb05361ea8ce312011a7ddf1adc49c57fd3ab7ce0e4dc5f252a7d
+seen_titlehash:ca8e77ff7c0b62f5eec18348636c8965e2da0f6ce9cc413e6593cf36de225c60
+seen_reason:processed_not_published
+url:https://ft.com/content/afb10fa5-bcef-4f4f-88a6-fbed61bb23ca
+title:can you survive a home renovation with your relationship intact
+seen_urlhash:c4b883ec0531dff9956ad6d0615ef68ac3954dd85b915147b1070540c2836d06
+seen_titlehash:7fa40d060aafd8e7aad53d3485c9ebcfb666cb39a01b41a367bd5cf495f33153
+seen_reason:processed_not_published
+url:https://ft.com/content/7e34e5c1-e841-4d0d-abc1-40f98ba4da01?syn-25a6b1a6=1
+title:students turn to lawyers to fight ai misconduct accusations
+seen_urlhash:024aafc956ace935d3c564a654f6259a5ebe5636d780c8bb91f7520bbcc0983b
+seen_titlehash:2ef803cee8e92869827868812b5fe0065112b50b7a43a59b59a5bb4b07c5217f
+seen_reason:processed_not_published
+url:https://ft.com/content/011709f1-890d-4448-9f27-6474922c563f?syn-25a6b1a6=1
+title:can sing can conduct can dance the many talents of barbara hannigan
