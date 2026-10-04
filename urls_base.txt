@@ -133833,3 +133833,128 @@ seen_titlehash:cd7bc935786c7b251d76fd3c813a073a98ebba6441c9325b11dd5dbbcf3ae1a2
 seen_reason:processed_not_published
 url:https://ft.com/content/1fd3b9f8-ac07-4a7c-b968-93fba8b3a978
 title:burnham could learn a thing or two from thatcher
+seen_urlhash:3c8305987dba5888392fc8b2574fdf6b6f683f54e238c470b257795ab3b862e2
+seen_titlehash:7e5169de2a41e2784ab3b2e77cb192b5d485caab370a5ad18b753cfe135824d9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss
+title:polls close in brazil as lula and flávio bolsonaro remain neck and neck
+seen_urlhash:0347dcb8ab10a5b8c9929a7b44eeda04b63eaa90da2db2cac0b51fc4f69e9470
+seen_titlehash:3ad59d0c96c5ef6afdb87c0ad968697341a9e64fc981f09ec02ccc6ed2f8b534
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html
+title:the return of middle east oil
+seen_urlhash:214b076e6ede5790f2fa6410e8c6332c73676fde1e8a81a4831d246c63b2bf41
+seen_titlehash:d0ee978eac8dc758b2ddccd3ccbb795f079bb8328b399f5678ffd1b37ad999b8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html
+title:u s rushes to withdraw bombers from u k air base after new threats
+seen_urlhash:9b2201f0566c007c800943f757b6cc7f60704bc04a817a04e4d0c4abe4293ffb
+seen_titlehash:25d575f028329a0bb612fc943bc604ffc3d9ad0a14f87cadd47796c959a7f0ca
+seen_reason:processed_not_published
+url:https://theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results
+title:brazil presidential election 2026 first round live results
+seen_urlhash:2513a0a56a25da038a6d8c9e0b88075485077e4fb86e0eb97c8831974850175a
+seen_titlehash:743329073d58c8481c83481eca90cd4aa0e7d31b22007a814789ab924afafb32
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss
+title:cornell case puts new york s progressive image at odds with its rape laws
+seen_urlhash:6cea5bd4711b11615ee88dffbd0b583f0e8407e2d6209fd227e03f4f0812e8fe
+seen_titlehash:1b9450714602a8ef0bd22f8e20286600c706993f4c2c7d20532263c9304ff8c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss
+title:ireland refuse handshake with israel and don armbands in nations league tie
+seen_urlhash:485e8de71d0405a334b3e6ae28edc52de0fba708d3316632a7a862e82bdbc800
+seen_titlehash:0d8eca232c504d7ab9ea080a5fd69f2af98599926686d059e8f063c3c4fe75ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss
+title:ronaldo less portugal beat norway 2 1 to reach nations league quarterfinals
+seen_urlhash:b54d12d80b36483b6f0b4a09e891fe7babd0ca1522f040d8f7c81ae01e9409e6
+seen_titlehash:537d6925f35576d11c85065e957bff5f3799d3af9c6ccfb3472b02c5ddd2bdfd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss
+title:israel lashes out as uk s green party formally defines zionism as racism
+seen_urlhash:d99cc105c68877510558aae73410c35a3865e4f95ceea40fd5f281786b6b0b20
+seen_titlehash:08015fda3bbef8b338872686f06743a6a133f84802f32873942ea281b00d0928
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss
+title:debris found near nantucket believed to be from missing medical plane
+seen_urlhash:1a286813635203b711d13ebd9fc99f996d7733f800e1d1b553874ca0b566128a
+seen_titlehash:db5db268cfb2d4ac99a0bb756fb13650a9c5b4cbc32ea8daa069ff753fc300dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss
+title:brazil election results live lula and bolsonaro locked in a tight race
+seen_urlhash:09f1544cb86df798eb34b54521974c1c4f8ec29706a20b9794ce66abcb0948a3
+seen_titlehash:ec9c52b74fb8457ebadfb83bc3470e338936f64a367255e8e4f585a0b77e4d21
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss
+title:imran khan s party launches march to islamabad demanding his release
+seen_urlhash:92715e725317ebe9479d02eee45ee82a257b323d992810e9ea20b9ce152f7b1d
+seen_titlehash:8041358f90b6f9471616def7e7a792160488654679e453323c719cc7af56f7c9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss
+title:will elections bring change to multi ethnic bosnia and herzegovina
+seen_urlhash:87d0c76acfd3bf98fa1cdf0cf56c2cceff05a572e12b25701771da41f6a6326a
+seen_titlehash:5e34de082a36ad86f0c250cd0937f8c9eb80da43def84a8a493b7d90542d26af
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss
+title:france to shutter up to 500 schools as more student protests called
+seen_urlhash:10db2efde46fbfde0e637e98623afbd5f6f3f6d39201a1f68886486ef5410469
+seen_titlehash:03448742485f7af69874006f48c40ac3d4713fe26801907ba35179ce3fe43091
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss
+title:pro imran khan mass rally launched after pakistan government talks fail
+seen_urlhash:cb02e39ab125404e3af77573f9121f0b47f42c8f1d8f83b44fbf77e1e21f771e
+seen_titlehash:2c5a9cac356d599780469d93ca9803ffa691b81d8faef557de69acdcf672985e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss
+title:war on iran is escalation more likely than a deal
+seen_urlhash:e5dc608bee3280f39462483c3f1c741af9143b59fb2b2129252d7acaadbbf3c5
+seen_titlehash:ba19ee105ef073cf5d0c591562de58f0752b6fb6e51f401d0b15f7764d1bf126
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss
+title:ku klux klan leader claims rising support ahead of us midterm elections
+seen_urlhash:3141b72a69f7eeaf2b2d31183d5f9a86aaaa39b4b1579c6277df94babb166b39
+seen_titlehash:49fcc2abdd2484af744196145e494cb03a000f83e7c52f1e5296a77a5e3730cc
+seen_reason:processed_not_published
+url:https://news.sky.com/story/thousands-of-imran-khan-supporters-march-towards-pakistans-barricaded-capital-islamabad-13595103
+title:thousands of imran khan supporters march towards pakistan s barricaded capital
+seen_urlhash:4357200739b7e128db26b824aa87b8a02d0c31c28970f336c2b7c35d7b3c217a
+seen_titlehash:58c2a25d0840fa3f057a108a1ed735b0117e5ddd08c12ac8eca94d5bc3a901a8
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks
+title:iran says no military solution to war as peace talks with us stall
+seen_urlhash:a3bd0daa2a2c83749b9a4256b27d482a1ff91238ae5d705b2bd4e2ede3b06f0c
+seen_titlehash:3c7dede7e865114f483ce0246aaa91a42b1c339642169bee7ef2a3c01f3225da
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president
+title:a profile of brazil s potential president
+seen_urlhash:501da99d31c9b1003f19f59ea29fba8959849c9810eaab81d825c83f1c52c10d
+seen_titlehash:4d143f3210fe058975cdf3af9a7072164677c77b5cb5435a79bc248ee18592dc
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20261004-evenepoel-snatches-photo-finish-win-to-clinch-european-road-cycling-crown
+title:evenepoel snatches photo finish win to clinch european road cycling crown
+seen_urlhash:9365dc1b109c1b0b13f6c49e996f45743a8ffe104edaf616ecfed5789a4de80f
+seen_titlehash:1feb2f523d6a7cb805591201c7b32807abcec3f3b5e44dea1c0fca30205a0f49
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt
+title:ethiopian federal forces control tigray capital as regional rivals meet in egypt
+seen_urlhash:b0f25200ba41179fd6004e50f2781e2c8204e2c0dfd3e9b84d87200c9f09835a
+seen_titlehash:5cf77784db0876b4c503c00ca791320d4aa5863e460217c4357d305aa6fce3de
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/04/ru-judo-2026-world-championships-koga-and-yusifov-strike-gold-on-opening-day-in-baku
+title:дзюдо кога и юсифов завоевали золото в первый день чемпионата мира в баку
+seen_urlhash:6090bcb662677cf1ec82a760a8646e1b9b64025a0f674982a558c89a6ed64c93
+seen_titlehash:ce98ab5fb7d82e9357eaba343f54d008c38ac8a3c7b2d8bd64f37d4d3f3b7c07
+seen_reason:processed_not_published
+url:https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1
+title:us recalls b 1 bombers from raf fairford following alleged terror plot
+seen_urlhash:f2a84f3475d2d3ea1fa4d2d7ac6f1b067a77e2fbce3cca59a3da0bee1e3e3661
+seen_titlehash:93a22411c71c513ad6a5460c5e0e73e4c4734b97f7658ff09d1d45a9c21611b2
+seen_reason:processed_not_published
+url:https://ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1
+title:bull run for japan stocks at risk warns boss of biggest trading house
+seen_urlhash:6d455570ede580370d5a14f0e1e9c8245c9c19ff50b53ba7ef0db04ee24d5783
+seen_titlehash:0db38dd496a1d3cecf2d022ebcfe3f6857e52e370dfb9c6cb44da36d784b58cf
+seen_reason:processed_not_published
+url:https://ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1
+title:dealmaking slowdown threatens early end to m a boom
