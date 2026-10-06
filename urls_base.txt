@@ -137228,3 +137228,313 @@ seen_titlehash:da66f5753ab8e007553a603b98af8a40c50e917da07f2436ad925fa5edcd662d
 seen_reason:processed_not_published
 url:https://ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa?syn-25a6b1a6=1
 title:why are bond yields so high
+seen_urlhash:7e4a508526605bacad5a6e2c8e88e43e077a5c455a16370bbb363f1621f66512
+seen_titlehash:7427f29883aba1a4dcec11a7f722d17a1b7478402bc229bdae7745b5c4c5346c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss
+title:us death row inmate christa pike awake and speaking after failed execution lawyers say
+seen_urlhash:f66440d554f150b1a89d91bb48180aebc35d351efec5c747b324a53aa1781712
+seen_titlehash:3561d17b6f5f066e19ab71bc3677f5d12b7afc76ccf077c714158154a1333f8e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss
+title:tear gas in paris and marseille as school protests grow across france
+seen_urlhash:ee7205314cf704e729424cc804e8d3b76cb80f458a1cbeae9f1f47482e7a1f47
+seen_titlehash:06f2b86986b1fc63160f847cc1b100b8880d5c73cab68cf05a65a24744fcdf1d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss
+title:finland orders halt to work on two google data centres
+seen_urlhash:a0d677dfdf9734684d31bbf10f35a8917af5043ed41da45b06206904ccf5f3ab
+seen_titlehash:a54c7cb43bbea086baa7b0e7346db2e2ff1f3bc4c642653dbfc67d67711b27bc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html
+title:uk security adviser jonathan powell traveled to israel ahead of consulate closure
+seen_urlhash:66b8bedc06f9b7d3de997a0a95ead5fe5730692ffaa348b91b1f0b7fbb5102bb
+seen_titlehash:587d9cc230800e19b95f32b19212e1c041591d5440018b60c3ac604c456cece5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html
+title:live from the barracks three juntas launch tv channel
+seen_urlhash:05d0dff4298a4dcb4a3a575006415acfd9a0c1468ee2f2441eee46565ba85818
+seen_titlehash:b285865caebb8dce659b74dccf2d625e86b8e44b13e80be85e2dbc51b60dbe0c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html
+title:france student protests escalate amid fiscal crisis and an election
+seen_urlhash:130596b427f96cd43bfa024d64d7aae5f6c789b82842fd36e312b96cab9d1668
+seen_titlehash:6b6714af4dcb2b13d0f1430a7e132b1103babca8210ca8b168366f052e50ce0e
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html
+title:what we saw at the french protests
+seen_urlhash:2db6610c6ac1a35031966baeb12b3b8975f3887b9c19979515b9f387cf189710
+seen_titlehash:24ab1fefc4b7f5520ac7ed5156be4e157b17c7e5765574d943a1ffe0b3174e4a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html
+title:understanding france s polycrisis
+seen_urlhash:335a288cc7484862c3f67af319d338faf7042a6cbb3d0f1fdf886f922a87e162
+seen_titlehash:1c33843d8bdee823aff22984b18249c88f089b11c0504971d99b49c150b0af00
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html
+title:bolsonaro family emerges triumphant in brazil s elections mounting a surprising resurrection
+seen_urlhash:33803958876de341ecbc8a1f832da8737a893c1c5cd35410805e8bd6ca0b333a
+seen_titlehash:d8d895eb866b894a57cfa6efe712b1a214191b7a3b23a9286b8e82ef4c449fe7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html
+title:trump appointed judge accuses ice of lying and fabricating records
+seen_urlhash:bfc34383037bb20ff487d5750c40e2206aca9de6cd9bbdd4989acc37db75897d
+seen_titlehash:2ae55b820584c71ed58697f87fde77a0e40100c7976a0006d7cc11318150e58b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss
+title:harry kane equals england record scores twice in 3 0 win over czechia
+seen_urlhash:1ccabb118f7203c92fa523fda38de30be70b455aee400f6b9735701563bfb65d
+seen_titlehash:11ee042209799eb81edc484c9f975b0cc5499ecb7f11dd94e761965fc3ba63c5
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss
+title:cnn cbs news now under one roof as paramount warner bros merger closes
+seen_urlhash:0c1c5443a337089aaef81a1f63e807c9dd5782a416c40ff00cd6c2f9bab6b93b
+seen_titlehash:044266a1e4e94e61f471bb9c6d134de747d2d5cafce9bbbd87443cf64605be02
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss
+title:us arrests suspect in connection with tumbler ridge school shooting
+seen_urlhash:8f54ffad16e47948c2bef63e825f16c083499ee9ce697cdcdc3abe7d5939d467
+seen_titlehash:c64acaec93965e0ffacf6ff57713f057fe4ff25558bd06dd466ec318d13c6875
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss
+title:merino scores twice as spain beat croatia 2 1 in nations league
+seen_urlhash:52c5cacb847f1035207427c22b34aa4efee77213b44715a861845e971abe4293
+seen_titlehash:b65c72c85880908f318afef7a81efb3063c6ee099093cdd8c48a14f98a3f5507
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss
+title:tokyo protests us military presence after okinawa killing
+seen_urlhash:eabaef56273ffccff3a8f69e84be33c8191fb453fa651ee8e250b2881d9a3606
+seen_titlehash:b2d7a70899a256387edd03149b5b2c97a98dee5dc8db950693ef20255735b631
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss
+title:us firm gets 2 9bn sub deal after boss joins war study with musk
+seen_urlhash:591f5633fc498b78a50436ecaf0706d405f1df8ab93f1a7088f9955f5f3044e9
+seen_titlehash:670a5e7f42aef294e9f63918ac835f1a03fee7bfdce49b5f63fb7980cba1c448
+seen_reason:processed_not_published
+url:https://aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss
+title:us cdc says it s aware of and closely monitoring russian plague case
+seen_urlhash:5164b1f3830df693d64cb18144bde2d1766102e463cd9111c3513ca4af0b9278
+seen_titlehash:687ab371dec6c93b51a00411c3b093a9eddef75ce46d809d838fcb929f7ba920
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss
+title:cornell names sally yates to review university s response to rape case
+seen_urlhash:47012be0539d21d345836b24a7860b5a3603c7c1f0a738aec337d75f600bd1c4
+seen_titlehash:4200201ce9112ad1336983d16e770f0f2aaf51f113ac6e79bf0696a8dcd24415
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss
+title:why flavio bolsonaro outperformed the polls in brazil s election
+seen_urlhash:97f9713ab25c4ca2d397ae5dc531481cb89059ac9b79053dc71f220869e50ecb
+seen_titlehash:1dde5c719a48daca6de7857319e5d98e836d15e787f73fc6101448cd2e4be2a0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss
+title:us lawmakers call on israel to release imprisoned doctor hussam abu safia
+seen_urlhash:7c4c74ab2977e41b9f095ecc815ecbfa6589894a0cb8be45694716cab4af5ebd
+seen_titlehash:c3b12c2e30ab39904078a1cf9ed90741e75fbb59ebd93b8e2367e57cf0f8f9a4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/6/6-10-sv-messi-superfan-from-kerala-in?traffic_source=rss
+title:messi super fan travels from india to argentina for idol s final game
+seen_urlhash:d9f89b093f3619d080830605e9ddf030a9d1e75d44f743b0de1be5b5e5934bba
+seen_titlehash:488c174d85d629195ecf35190ecb7806c67d5f247824028abe4bc2a00518e291
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/6/is-zionism-a-form-of-racism?traffic_source=rss
+title:is zionism a form of racism
+seen_urlhash:d0809ca367e423ef2c8cf9b3aa7aaea3ae84c4b88d22849756c6f119db75040f
+seen_titlehash:bf4357f39f5cd426dc3543378b421fb9d638c52319ec0bb7384b7c2d05a0bccb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/6/british-adventurer-back-in-uk-after-28-year-trek-on-foot-around-the-world?traffic_source=rss
+title:british adventurer back in uk after 28 year trek on foot around the world
+seen_urlhash:cd5fa61ae4d64e8940ad8d5a1aa14ceee073d84592f3faf3dff006ef88050778
+seen_titlehash:9c6a290db05e9d60a68849a68ee719f483a04d38267554f480acec6714c6dcd6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss
+title:is there a maga after trump
+seen_urlhash:aaaa53aea1a4defdec56bafbcd0f0905bd5e23921e912e96b85bfe716f76d048
+seen_titlehash:aaaaa81e68ac148b9f99f13c4b1e7a4b1d0ef855444b59c8fb16e9a2ecdb7176
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss
+title:ronaldo apologizes for portugal walkout says jesus broke promise
+seen_urlhash:2519ec29b04a6a6b370917d76250f0e76234d9579efafcf1f608defc47e44cf6
+seen_titlehash:9ce821adde880c963bcc17461e5f8770221260c4a108d75258e0b6c962f269d8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss
+title:yemen s government is on the attack against the houthis what has changed
+seen_urlhash:18fc0be3d438b70bce4a308bc565cbaba95dc3343acf2367cd311fa7f7da6b6b
+seen_titlehash:b067c2e49e7326f9debde9162e692cbbcfac75f198ec459b2297145567ef94f0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss
+title:the new players in space
+seen_urlhash:cc573451c25dc1d8dcd27b00b860113ae8bd1d511342937ad25ee18b92d9f36c
+seen_titlehash:165e91966ba8c71246130fb0f706f761b1a7cf7c24eb52079b15cbd9ddb69e8e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss
+title:russia denies imposing anti plague measures after lab worker death
+seen_urlhash:3e29bc0b839e68381f5f0c37f3b7a067673031027b90dd5be9fa00cc6bad9bc0
+seen_titlehash:b73c403e77abba5e50fecf3c0679b6d732debeaefc0dddc8a1119061a6964eff
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss
+title:catalan separatist puigdemont to return to spain after warrant lifted
+seen_urlhash:3fbbe4c41738fca8cc47585e06bf8568fd26587ff677407e2af059368af82de8
+seen_titlehash:dc046e0530d3130e7ad93a34daf882045069bac91cc0db5822434d95871e7757
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss
+title:amid protests kosovo s political deadlock raises prospect of new elections
+seen_urlhash:3947fa71134c4ffc70dc54588093611d78f6813974fd2e9e1167988d648b8569
+seen_titlehash:a17bdf48769ad94ec3686a24e29a9ce8bedbf32ab0c87ed9a5aa057e70e6d470
+seen_reason:processed_not_published
+url:https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899
+title:paramount completes 81bn takeover of warner bros discovery
+seen_urlhash:281762849e734fbcf0896c35d0ff7db093f616dfe079c56bff57d8a2239b3f6d
+seen_titlehash:f62742d811df63677663e14b9e337a4fa4fae479fe27cc1460717793ac740bea
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage
+title:former german spy chief detained over suspected treasonous espionage
+seen_urlhash:6c974ea8b2256848e67869bde02786900774f5fbb1343d93200e1291a68a7ea4
+seen_titlehash:9b8ffae0ec61338851776e79b8ce421ad4894002cca172ba0540689c2fa1d0a1
+seen_reason:processed_not_published
+url:https://france24.com/en/kenya-reports-first-ever-ebola-death
+title:kenya reports first ever ebola death
+seen_urlhash:16fa9e012a0b74033bf31a7d15477dd6062fdd2b679ad2fc636132d9e8996af0
+seen_titlehash:e9e6c08892ec6472cad672f8fe7083f513fb94783a9b4579bed8666288976fb7
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20261006-cancer-rates-rising-faster-among-younger-people-international-study-finds
+title:cancer rates rising faster among younger people international study finds
+seen_urlhash:8503b33c979bae90133a8de6f46c131a4b97f63327773dba10a63f4ca7bec7ef
+seen_titlehash:e9e6c08892ec6472cad672f8fe7083f513fb94783a9b4579bed8666288976fb7
+seen_reason:processed_not_published
+url:https://france24.com/en/cancer-rates-rising-faster-among-younger-people-international-study-finds
+title:cancer rates rising faster among younger people international study finds
+seen_urlhash:7cd93cbc8adcde409e95a92bb009f1dbaaf36610c37f46bbeefe3b0c97ff6c0c
+seen_titlehash:0679ff14a9bfba129545510df1b5ba828931aee2c4fbae6835a419a478e0bc94
+seen_reason:processed_not_published
+url:https://france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student
+title:french policeman charged after firing tear gas grenade at high school student
+seen_urlhash:9834e3c67cce69af428156aa647c3d8c4db6264900d0350175a2af5fdd3b3c2c
+seen_titlehash:6099abf56ffe0734b47deb8d49f85e7735d37d974f138ccd58b02a3d44fba0e8
+seen_reason:processed_not_published
+url:https://france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1
+title:russian lab worker s death sparks plague fears as unverified claims spread online
+seen_urlhash:56571a5029a154574cc73106eabadd88356401acf711e2eaf542ae3950074637
+seen_titlehash:9590bde5374f1c2c7a548d03c9a7332371060f4557907671a5f37ddcb9292b66
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education
+title:how much does france spend on education
+seen_urlhash:09f663dba91e7a153c7e3a76eabb398e2dfd685c84b296ccad38f28487c124be
+seen_titlehash:47b087fc874c09a2ce40da80d847c58198b25062b5a6c3092a6d1e4863fd5955
+seen_reason:processed_not_published
+url:https://france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident
+title:police make seventh arrest over uk airbase incident
+seen_urlhash:0863ae756de7b3f79e5a5a9c4621e6c7f190eb59f25ca354216a8354938df3db
+seen_titlehash:3854bd521fd0a7611c818d016596f198385f775c9ae747ed5d314063807439ca
+seen_reason:processed_not_published
+url:https://france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests
+title:calls to block social media platforms for minors in france amid school protests
+seen_urlhash:7100771a865889d92a09f6cd9a4c4dc2fd14635758b44d7943271128b37b3404
+seen_titlehash:e6141af76fefc95ba8a083ee8b2171369885c17b0732f036e8b0c114fe6ac335
+seen_reason:processed_not_published
+url:https://france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason
+title:german ex spy chief arrested for suspected espionage treason
+seen_urlhash:fd35dc978bfc0918c89815207fa384a1765d0019cf771d417d9d959fa853ce29
+seen_titlehash:d4e3dff9b0a0df3e851f75f055f197359729277c2f4c42cf0dcd232b0ea30fe3
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing
+title:we re fed up paris students rise up in a movement that shows no sign of slowing
+seen_urlhash:1415c1c321a159c05ab2ecb75581859b6a2aef013a2a3833a5fb74439bdc62e4
+seen_titlehash:2f61633caa937610aea0aabe98483ffa477b20956f027a5579ce8c81e8b8378b
+seen_reason:processed_not_published
+url:https://france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions
+title:students unions and teachers in mass movement to demand better learning conditions
+seen_urlhash:f76714eb31950e0934312b49575c997129e6ef53447c376cc0efe175c4d7ce31
+seen_titlehash:ec65819d8593d54f586f43d598dbd0916c2320658a8e95deb6295369f72e1b99
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement
+title:france erupts overs schools why the violence surrounding surprise movement
+seen_urlhash:bc2f9c9aa682b215afed5cd2ef1cdab5615a6b658ce34ed04565fc795a7fa556
+seen_titlehash:75d64dd0400dd559fccaa1b33ebe7879bfab5138d769ba0ab729ceaad7d18042
+seen_reason:processed_not_published
+url:https://france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish
+title:colossal failure death penalty system in america is a broken process from start to finish
+seen_urlhash:6661f7736377932c4793289eb8f6703cee53d334d138c897ab4f0a56b0a4cb8a
+seen_titlehash:86d5cbbd7f58b211534595bdf785dd88403eecd02ce5119f44163b2a34a7cc56
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says
+title:brazil has moved to the right progressively over the last two decades expert says
+seen_urlhash:80778abdfcd66ebc229d30f8ae05eb84ba2b54f0986163de1b4f09110c20531f
+seen_titlehash:86d5cbbd7f58b211534595bdf785dd88403eecd02ce5119f44163b2a34a7cc56
+seen_reason:processed_not_published
+url:https://france24.com/en/brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says
+title:brazil has moved to the right progressively over the last two decades expert says
+seen_urlhash:8fdeaf04fcb3d70fa1cb6dcba31fc3fef5cba6beec3a89c45c81193e36cc8bd2
+seen_titlehash:b29253fa3612bddf9f8d14b220024d980573900e99711da20daac021291f0c1c
+seen_reason:processed_not_published
+url:https://dw.com/ru/у-побережья-сочи-загорелся-танкер-который-связывают-с-теневым-флотом-россии-закрыты-местные-пляжи/a-79569860?maca=rus-rss-ru-all-1126-rdf
+title:у побережья сочи загорелся танкер который связывают с теневым флотом россии закрыты местные пляжи
+seen_urlhash:24a494f05fb92fc5ff8f55f7883b48237cf810314cd3f09208efc1aee1811e99
+seen_titlehash:d8e9571f3e47667c949ad274d72cf0deeb2ad4b75417a7e82c1b54ffbdfd0ec1
+seen_reason:processed_not_published
+url:https://dw.com/ru/paramount-завершила-сделку-по-поглощению-warner-bros/a-79569233?maca=rus-rss-ru-all-1126-rdf
+title:paramount завершила сделку по поглощению warner bros
+seen_urlhash:86d0f1d559d67ed8c035599927e31f94d279c48dd60f520d3ed7aa70b999c7c5
+seen_titlehash:75470ba6bc778caa35f8bf22c78da6e36640a428f450f5406a0ad9ca7454942f
+seen_reason:processed_not_published
+url:https://dw.com/ru/за-что-задержали-экс-главу-bnd-и-что-его-связывает-с-россией/a-79567941?maca=rus-rss-ru-all-1126-rdf
+title:за что задержали экс главу bnd и что его связывает с россией
+seen_urlhash:20533eb412a0eaa3ab7e63012b65be0750fbd47b2a84fea099e7d547b64c4a7f
+seen_titlehash:683d2644fba8772281f6f39780ce412702a9508becc5ea68b0aac89893c3c707
+seen_reason:processed_not_published
+url:https://dw.com/ru/министр-фрг-карин-прин-почтила-в-киеве-память-жертв-бабьего-яра/a-79567975?maca=rus-rss-ru-all-1126-rdf
+title:министр фрг карин прин почтила в киеве память жертв бабьего яра
+seen_urlhash:dc2dbbb1a2e73d506377119571876e411de3a9b6cca49f67cdaebe4c67eea858
+seen_titlehash:ad592fa71cf3d9ef8d83f1b64e37faa22418c4188a81890cc7a0da1b0d686035
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/06/ru-judo-baku-world-senior-championships-day-3
+title:дзюдо япония празднует победы двух новых чемпионов мира в баку
+seen_urlhash:0d945850e38deab844815515f275f8e42dec5b47ccf0bbcb9bf05c76b09ef4a8
+seen_titlehash:9b8f230bdbab888800cc56609a2626607f1d6077dc816f5e18c3d464fe40f0c7
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/06/oil-refineries-eu-energy
+title:на фоне угроз энергобезопасности европы фон дер ляйен делает ставку на нпз
+seen_urlhash:1f580645fb9070ba202eced478dab5bec97c07183dc045cd51b8ef2215688b15
+seen_titlehash:6819ac4a0cfdd79af2f97dc9e2639a62b3e709153f38f0784ad85d08686048fe
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/07/kak-nobelevskogo-laureata-po-fizike-2026-goda-vdohnovila-ideya-sovetskogo-uchenogo-pochti-70-letney-davnosti
+title:как нобелевского лауреата по физике 2026 года вдохновила идея советского ученого почти 70 летней давности история открытия нейтрино удивительных частиц из далекого космоса обладающих невероятной энергией
+seen_urlhash:fa2046eaf0f8d94f993d3016f1775fbf66a0d6f7ad2f2321143710804a9f38c4
+seen_titlehash:179b241106a46537736d0dd938b1defd2a8a9976cfc4748449cd70b4ef41c51b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/06/vlasti-latvii-soobschili-chto-vooruzhennye-lyudi-v-maskah-ugrozhali-latviyskim-voennym-na-granitse-s-belarusyu-i-ukrali-kamery-nablyudeniya
+title:власти латвии сообщили что вооруженные люди в масках угрожали латвийским военным на границе с беларусью и украли камеры наблюдения
+seen_urlhash:c3533c9889e435efb3186f3f715bba2b7e01ee08505d9712375def5d9125da08
+seen_titlehash:76c9720d997d37cf1b169c76cd7c2d02f5deec0bde37ada32ec3afa12bb5bb4d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/06/studentu-rggu-dali-19-kolonii-po-delu-o-podgotovke-terakta-v-mecheti-rodstvenniki-rasskazyvali-chto-ego-pytali-posle-zaderzhaniya
+title:студенту рггу дали 19 лет колонии по делу о подготовке теракта в мечети родственники рассказывали что его пытали после задержания
+seen_urlhash:ddb4aea4b8039c3280a925c20f8bc4d131a819500f69c5fdebba98f339f24280
+seen_titlehash:6f6d0d48168e4e5786968f294a5fd9429c3eb8423648e632fa176882e7d116fa
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/06/troitsu-andreya-rubleva-vernuli-v-ikonostas-v-troitse-sergievoy-lavre-ikonu-zamenyali-na-kopiyu-iz-za-polomki-klimaticheskoy-kamery
+title:троицу андрея рублева вернули в иконостас в троице сергиевой лавре икону заменяли на копию из за поломки климатической камеры
+seen_urlhash:60f1a52e5da9a9cd9ca83db1ac2320bf1e6227211204b77cdd02ccc311473f6d
+seen_titlehash:2cbc89a68a4e2c4f1c4767fe14d7f647f9a4b3cfca0df6cc97564fe4df4e432b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/06/volgogradskiy-npz-polnostyu-ostanovil-rabotu-posle-ataki-ukrainskih-dronov
+title:волгоградский нпз полностью остановил работу после атаки украинских дронов
+seen_urlhash:6895809b0801f0a0ed0d44e8d4cea47c1522af1a28ac9d16266fd120d5e48f4d
+seen_titlehash:b6cd64c19b8c1a3ffda4ad90a23281c15095126a207c21666cf5b5e83049f6fa
+seen_reason:processed_not_published
+url:https://ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1
+title:jim clyburn urges black voters not to be fooled by trump
+seen_urlhash:3332647cf7c6fc68109bf08be43fe4a99c9f8adecdd88ec11e88428f79d03add
+seen_titlehash:d867c535ed131f57d8a273216a9df6b8a411671a276a279898fdec170075642c
+seen_reason:processed_not_published
+url:https://ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1
+title:trump says he is considering suspending federal petrol tax
+seen_urlhash:828512ffa8e5711a2fd3e3d6031c36ff8eda30fbe9fe11e7d35929c649a4de0f
+seen_titlehash:6e6ea59e6149795d488e5a34ea7041a80448ea2c256f03626313f1570d49e150
+seen_reason:processed_not_published
+url:https://ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1
+title:most dangerous product in crypto vexes singapore
+seen_urlhash:15e07505f67a5c7aa84df486a9d4b64811535818bd51dc19309c2e729d93a82c
+seen_titlehash:f16909b83ac1bda1c2f3a12116478d1b5981efc4ca690a11aea11990992c0621
+seen_reason:processed_not_published
+url:https://ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1
+title:ships captains paid 100 000 a month to transit strait of hormuz
