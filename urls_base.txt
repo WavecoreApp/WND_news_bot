@@ -142973,3 +142973,153 @@ seen_titlehash:471a644c53f6b6604bda3b382c549bd786362cad584466ee2b536a33f3e0ea83
 seen_reason:processed_not_published
 url:https://ft.com/content/8354b63b-44ae-4aef-9c6b-5cef1f9bb001?syn-25a6b1a6=1
 title:germany pivots away from ecb presidency push
+seen_urlhash:57a660b470d976214b21b115bdc302741f6ee4b5bcbc6ea61e20842a97442a62
+seen_titlehash:eadf21d2b9bcd8360e0ec0a6933739eb9f7c5ea0a2d0539e7790bcb95c01aaf3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss
+title:three men found guilty of murdering two australian surfer brothers and us friend
+seen_urlhash:3c7d746e322d3100ce2b8b16001de01a3e946caded1924e11093a49844155948
+seen_titlehash:674bac585e74379f48217f4fd9615983a22296c51760009b7de91a1062955b75
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html
+title:inside erik prince s mercenary deal in congo
+seen_urlhash:b35ddd2d2a1aa10ee685ab1dd2f692124a4066c4a7e0c03031a65d606966d9fe
+seen_titlehash:22996d306b6e2d1709d626c9a05230a7c76ab4d0065797b24501f760a606ab98
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html
+title:ukrainian drones close moscow airports as putin flies back to russia
+seen_urlhash:0606257cff67f80941481c1cad44452e16d580d2a2277dcd74405428cd7d8c67
+seen_titlehash:3e0314ac6f34ef86aedb62f4c95e7547006cd49b9d7c2a9a8cd573c761069512
+seen_reason:processed_not_published
+url:https://theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr
+title:controversial vaccine trial touted by rfk jr gets go ahead in guinea bissau
+seen_urlhash:6a0aa900d76c82f6e5ebc46efe6c267038aac3051c2339d2d241fffc04c5e0f5
+seen_titlehash:3f084c4b10b1553a446fbedbbfbd4acd924d2d86822847eb521d72c7eab76b29
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb
+title:three men found guilty of murders of australian surfer brothers and us friend in mexico
+seen_urlhash:fcdd913be1b8d7fc6b92fa15db67bbfd41fc3a0273b1ffcc05e4609d540be925
+seen_titlehash:d4f46a3d6afa24ec86e7e19b1605c370da4430d61fa651d72bff62cdcd1a32e8
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say
+title:women with pmos should get subsidised weight loss drugs australian advocates say
+seen_urlhash:c594806088935bd27fbb337b9ba3b4449b14db4013250e9a2452c771955ebcf5
+seen_titlehash:65f495237f5ad1e0929f7621318158119419d5bb91e4e7db6d02e47c9a6dc4a9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss
+title:trump confirms fort hood shooter s execution will be by firing squad
+seen_urlhash:3dbf9739ea2356edcd0cf5f6d65f0da1ccb0188a9db2205679c71d3318b185b4
+seen_titlehash:5424330faa8e7be1107b932d8f987d2d33521570cab013b779983171e12dbb68
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss
+title:us judge rules trump administration s use of voter data unlawful
+seen_urlhash:e567d073b319df5bc5ef8759c1a4d94b3c3abccbb42c46461fed3fb11cb293b4
+seen_titlehash:bf85394d809f40690ac99daf0aa85ad76294b13aa8af8825f6348aa6fe384e29
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss
+title:africa cup of nations may stay as a biennial event says caf chief motsepe
+seen_urlhash:8d3803e958621bf1d0e72828d24b1b8d0e9834f9df3ee69ada74351389bbfbdd
+seen_titlehash:8436d767afe61f70bf69868b757807126a8ca659a4cb43b9e151f454e3c6458d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss
+title:un envoy warns yemen has returned to full scale war urges dialogue
+seen_urlhash:a1ba7a3183d91d3e4b914bd59042ae68cfaf9df3eac391ad35424b5c625f0345
+seen_titlehash:ecc8edf376e15d943b57844d8080fb01d67e5d68ff3e8ab3fed89f25de308958
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss
+title:how will spain s housing crisis affect elections
+seen_urlhash:0ca768afebff6604d54f0aabb909466497311c4b410c1cbbc40c9790c8a57b41
+seen_titlehash:58424fbc9e9da2c13affccd9a691439cae5368ac6b5fab86a97572da070b2cbd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss
+title:human rights veteran navi pillay wins 2026 nobel peace prize
+seen_urlhash:ae8e908919e247e418530f2e6642433fbe2722f5f0e629cbaf956db58af18273
+seen_titlehash:bdab876a5bfac8201958eeb97d326255846e7f32905fbd1b014b36018e47bd52
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss
+title:rising fuel costs slashed delta s profit outlook despite strong demand
+seen_urlhash:db8bdea9e88b7affbd1e5353d3c2f07621e22931828ce3ae6f1e1829850a19b9
+seen_titlehash:2443b7008bab2527e871c16ac3fa3cf98ea9f7506cdd8dfa045a9aa5b21e9b6b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss
+title:flydubai co pilot plotted suicide attack on israel uae says
+seen_urlhash:55e1064176e14b61a8f92a5decf32324eb14372a92747a60ae530b618e9d4220
+seen_titlehash:c141abec33cfefda2b7fb5e3747ec1464b0ef44cc625af244e62550314912b62
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss
+title:trump announces russian diesel deal amid soaring us fuel prices
+seen_urlhash:22a546821fa8934e2e85759f7ae936e73a5a4d9dad429944c6e6719e0af91fc0
+seen_titlehash:1ee77406263018beb2d70db9c5b6356a19e0cb3b0d04feb2a647932915414f89
+seen_reason:processed_not_published
+url:https://news.sky.com/story/trump-says-russia-will-immediately-supply-300000-tons-of-diesel-with-millions-more-to-follow-13597040
+title:zelenskyy blasts trump s weak decision to obtain diesel from russia in gift to putin
+seen_urlhash:9b7e5d8123ba6d72a7100f25de5f52581df2348087400f7b83151d4f27bc1ff6
+seen_titlehash:65ce59b156078322a558b43bf7cda9ecd2ebc5557ba6362420abc98dbb3ec7bb
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist
+title:italy s biggest ever wine heist
+seen_urlhash:7c330a4485c3c44dbef0d0bb1601143892d6b9c396bba81adafe4229b74f4880
+seen_titlehash:a32dfed3f091eef8f32bae79bbf67b0afa0cdbf00b301e98cb38ea38dc6d72a4
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war
+title:trump strikes diesel deal with putin reversing years of pressure on russia over ukraine war
+seen_urlhash:0e2e0e92fdeb02e10069e9b68884262064fef415f53b6ff760c896c172938dec
+seen_titlehash:c6fec46cc1673c27e242e7bdae49c7c42a377b3c6628696e358e47f3243b0e76
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls
+title:paris court jails indian man for leading sadist neo nazi cult that tortured girls
+seen_urlhash:a27b3f14957ed84e539c5e8a71f25c35947b09419e9c40c65a6751e2048a0b57
+seen_titlehash:8a1cd4f0ee3be6465c0695e2a6261f35850d48f2fe4f59d02aacb7a1fb8a979b
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence
+title:french students vow to keep up protests as un voices concern over violence
+seen_urlhash:05d19872bb66dfb0051c7a3215abab99b52d4cbcc64f4d05e7e665e5ac238650
+seen_titlehash:00ca2a99ece325b8ee83db82138d90ff1b3700fd8383bf89e870cb8c688c213c
+seen_reason:processed_not_published
+url:https://dw.com/ru/второй-пилот-flydubai-хотел-направить-захваченный-самолет-в-аэропорт-имени-бен-гуриона-близ-тель-авива/a-79623883?maca=rus-rss-ru-all-1126-rdf
+title:второй пилот flydubai хотел направить захваченный самолет в аэропорт имени бен гуриона близ тель авива
+seen_urlhash:45615521c008e73638d11f594eeaf2098b955bb2e3d8387b5734cfe7d99495d0
+seen_titlehash:79910cde00ddef35705c5d0172d42e326aaf56b31c88e06a712ac7e17fb3cd33
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-и-путин-договорились-об-экспорте-российского-дизеля-в-сша-и-на-мировой-рынок/a-79623748?maca=rus-rss-ru-all-1126-rdf
+title:трамп и путин договорились об экспорте российского дизеля в сша и на мировой рынок
+seen_urlhash:19508b7179bc9c85c8f805eff761cc9daf2f0652bb9373dba63e448fef1bf9a1
+seen_titlehash:9552bb96e047cc60a9f477288cd9bd6883fa9616cabec03b78b5fc612b7ee2d3
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts
+title:брюссель полиция столкнулась с протестующими на марше против урезания расходов
+seen_urlhash:4c2130a7e885d4077b61792d3ff3927e693d96ebcba5b7a5c26fedeed5240778
+seen_titlehash:8b76b679596f3f70f4e0d0d61146a444af7fb66db152194daa9eff85e8182fd8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/09/ru-trump-says-us-to-import-russian-diesel-to-ease-prices
+title:трамп договорился с путиным о поставках российского дизеля в сша для снижения цен
+seen_urlhash:cfb03d29981d9fd3903b1ac11ef30c50e2f3e0647ca71999a2c645415bb6acf0
+seen_titlehash:b36770267fb8f60b406358661e7794c6673c83332b55893c9adec1ad23ec6195
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/10/tramp-dogovorilsya-s-putinym-o-postavkah-rossiyskogo-dizelya-oslabiv-sanktsii-protiv-rossii
+title:трамп договорился с путиным о поставках российского дизеля ослабив санкции против россии зеленский назвал это решение инвестицией в войну главное
+seen_urlhash:f36eb38c4fb03a89a9fb3c7bae8df8faa1d6791cb3ad268a5c1d67e3e47a71ba
+seen_titlehash:50c43f74086f91d541fe81b8fd39ebb30551fb04289dd3b6bb642f6fe810ee3d
+seen_reason:processed_not_published
+url:https://ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1
+title:jd vance says he will not watch pentagon s livestreamed execution
+seen_urlhash:28d4125850f263b4d1538aa8e0f0df32befe499cc5e7f4a8ccdeeeaf273d7d91
+seen_titlehash:dfedf33abcf02b1bddb8365153be90bb727add27dcef1dad4ed5957a8006452f
+seen_reason:processed_not_published
+url:https://ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1
+title:why openai s revenue numbers really matter
+seen_urlhash:a7d9e6738076239963ce567e5df39cef99df46b388701968d00878e88a2b57c2
+seen_titlehash:022d14fe1b78e205d4b6a4ad03dc466cd9d0533140859c5b1061ecf1a05d533b
+seen_reason:processed_not_published
+url:https://ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1
+title:the hazy openai growth metric driving wall street
+seen_urlhash:87547630edcded19b51a4a923af6f8b1492fe16c28f63ec1056f34918d9a6b05
+seen_titlehash:c5bc3ad37454c04a4d89bfb2d1288abc22a606ca830cf39b7d1968b05ff8826f
+seen_reason:processed_not_published
+url:https://ft.com/content/8f5225d4-539c-40e2-b9f5-19c1b5d6222d?syn-25a6b1a6=1
+title:flydubai co pilot planned 9 11 style attack on tel aviv airport uae says
+seen_urlhash:ea4d8ac0f5e0a6e6835bab61e601e90c627417949970ad39a9c45ccd1b3e7b7f
+seen_titlehash:5c2a1b30cf86e906245d93d81c3e2dd76293fcff0c896d3defd80d8eca236662
+seen_reason:processed_not_published
+url:https://ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1
+title:airlines sound the alarm as bleak winter looms
