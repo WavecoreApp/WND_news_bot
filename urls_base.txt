@@ -143123,3 +143123,83 @@ seen_titlehash:5c2a1b30cf86e906245d93d81c3e2dd76293fcff0c896d3defd80d8eca236662
 seen_reason:processed_not_published
 url:https://ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1
 title:airlines sound the alarm as bleak winter looms
+seen_urlhash:3796f80e6462af3ce2c1cd250c0d289d342013be9298348c5d9b921eb71f9c9d
+seen_titlehash:8b09c4317be672f8a0c1fd9b9439dad84e98e3482e8318fb8955f15fc0cf69b0
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss
+title:analysis trump s shock russia deal highlights mounting pressure to curb fuel prices
+seen_urlhash:2a0bf7dc107fec866f3305567808a0fabbf7f219deeeb38d13b966a3765aae9c
+seen_titlehash:132db86ce2cda495abc3441d0acdbd313e37d3cc833e510271cee9319226d3ec
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss
+title:thousands of security personnel deployed as delhi braces for cockroach protest
+seen_urlhash:3aabc4e4b14c7b52ff8365499e02a68798515b5cd7708cf634314b3ff414de81
+seen_titlehash:30f85af6fd982c7778ed77a93ae118f657a9b32ef2d9d3716d11a570f47b3a3b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss
+title:life threatening hurricane isaias makes landfall in florida
+seen_urlhash:ff1cab28257165f4c0977eac8d36e14b2376d6b2e42f03ff294b1b5adf816130
+seen_titlehash:88f5ce8736354619c54819170546cec91c7b16d2b1c930c11c617bdca1e798aa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss
+title:elon musk lashes out at indian prime minister mukesh ambani in starlink
+seen_urlhash:7d236ef9a044018c370f75edc0ddcd81b0ae8a6243384648394e98e4579fbb3a
+seen_titlehash:7884a068c6dfbeeabaeae1590d7b222ae74cf30c4eacd4b07d9594ceef363bc6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss
+title:putin tells trump peace talks are unlikely cites ukraine drone attacks
+seen_urlhash:d60bca50c46026e859f8f2e0a40e277e662b7a5f273e991f293e6336ab11059d
+seen_titlehash:67de07c0290310dba94cd59cb97644282d0eafcf15ce75c1631679313cc74c15
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss
+title:two renoir paintings recovered after france museum heist mayor says
+seen_urlhash:8e4ec6b7564a63c4c254315d91ec4589e889fbedb79025f9589e90c5e9a9f825
+seen_titlehash:a55422c8f09f7bf772c8c4016cb21b5b48f93b8f600ff4eec5b153195d9d875a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss
+title:dual quakes devastate southern panama
+seen_urlhash:b956d6f4eb9af823d3c02d52ecb899299f8a638e96840eaf53865128b0f30ec3
+seen_titlehash:3dd0cda81036e1899ac376cb2373bc197a32341d87892ac789b5106f59e86eee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss
+title:israeli drone attack wounds six in lebanon near syria border
+seen_urlhash:ac6bf75771d44fffaf91e0458d1f24db720bcfa33727cdcd3f9f248de95d8d0a
+seen_titlehash:76a836c7817e65d75c60683d54ad26972c4e3a39d3e64cbae31f778d8b43d1c8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss
+title:intercommunal clashes kill 71 people in south sudan
+seen_urlhash:7cbedea4062d2920664eed30336e64490210e71b711ddb81783d9bcf812c01ec
+seen_titlehash:1ed3e50885b227ae22d7f9863d14700399ccda0b916392563f7c5fb5cceb55b5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss
+title:iran war live kremlin says trump welcomed russia s effort in iran deal
+seen_urlhash:14a7382be3db25fa33a1b3ff03ed6721ccc8072c3105cce8356b3664bce7322b
+seen_titlehash:6e8e387c4d0e72d539077b4d381c783a2739c9e9b36b83e15a32047488f7cb44
+seen_reason:processed_not_published
+url:https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092
+title:three found guilty of killing australian brothers and american friend on surf trip
+seen_urlhash:42719ae516af38b983c3a3d42c4f0716ea890e6b57405c94b6ec6a7cbccd4330
+seen_titlehash:fcc3ab516668c960750f50eb0ee8f69c69f87297c5065cdba8415f1709c1a866
+seen_reason:processed_not_published
+url:https://france24.com/en/south-african-judge-awarded-nobel-peace-prize
+title:south african judge awarded nobel peace prize
+seen_urlhash:a1a308aae23682d5a9f0227753e65d8795164aa4d4a6e4091acce22e69791e04
+seen_titlehash:0aeb6419ee3014e531ab399b0985418e93423b06539b9b12bb2c90913a3d6bb2
+seen_reason:processed_not_published
+url:https://dw.com/ru/медиазона-в-результате-удара-всу-по-донецку-26-августа-погибли-не-менее-20-офицеров-рф/a-79624099?maca=rus-rss-ru-all-1126-rdf
+title:медиазона в результате удара всу по донецку 26 августа погибли не менее 20 офицеров рф
+seen_urlhash:4dd2fdea0c575d5c86114ec4db29b7bff26b844d02a31b5f571b5368505196e1
+seen_titlehash:409585b614fc072d59250a9e25a19011cbed035be196bc07411f396d86abe3ee
+seen_reason:processed_not_published
+url:https://dw.com/ru/китай-сократит-наполовину-экспорт-гибридных-авто-в-евросоюз/a-79624064?maca=rus-rss-ru-all-1126-rdf
+title:китай сократит наполовину экспорт гибридных авто в евросоюз
+seen_urlhash:776f47939c0b6efdec1406d91feda0c77f5c05ffc51d7b854021b88cf7fe18f3
+seen_titlehash:090c3d27b5168bd6555e8f826739a4109d2958dfe43595d8a80814b895a0b0ee
+seen_reason:processed_not_published
+url:https://ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1
+title:gopro s decline puts chinese camera rivals in the picture
+seen_urlhash:9c8ccc039fc261fa4ea96ea3e2acf0b81e9b22d96dd20e26fcc28d2ab98ed407
+seen_titlehash:9736518643c8c78be1980fa3521ab7ace7eb1654774702c059f88347f9bc874d
+seen_reason:processed_not_published
+url:https://ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1
+title:northern ireland s drumcree parade banned
