@@ -143203,3 +143203,383 @@ seen_titlehash:9736518643c8c78be1980fa3521ab7ace7eb1654774702c059f88347f9bc874d
 seen_reason:processed_not_published
 url:https://ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1
 title:northern ireland s drumcree parade banned
+seen_urlhash:83e5cd91094a541a8f410646c7b67973005e58051759edf05b5d20d844459e4b
+seen_titlehash:a4bc57093bdc016d5be2cdcc6e242699b6780b19a727189f5253a262a70e62c9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss
+title:flydubai attacker began a drift towards extremism and terrorism in australia uae says
+seen_urlhash:5bb6fad1c84941fcff2f95f3c7fe9abea27aff1cd35fbbf970245838ea84638e
+seen_titlehash:5f780056972c9a4563b297097315e5b5019b4fd407cba4a512f160e4a9121114
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss
+title:us country music star ella langley cancels show due to security threat
+seen_urlhash:034853be48d3e7d0e36beec01479f2ac0e8fdb1d04697e4f5610e431349c56ee
+seen_titlehash:bd56ba45f64f160299582d7c87da3293a7cab35f7545369b50ab80ac1e66d889
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss
+title:stain on the country trump criticises norway over nobel peace prize
+seen_urlhash:7b8fa2f8576a8e46908199a34744b3307c13f0af5333ceec1f85d68f580f0f11
+seen_titlehash:75df290c0379d14bf2fb72c816f0c3b438dbb93e383b698cc811eb6acbeb9978
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html
+title:quebec independence is unlikely but some will still dream
+seen_urlhash:6d9b364c9e54cdd16e214ef8190a1b372c7c990f087cf44461be337bc3b3027b
+seen_titlehash:a17c43795b2d7acbf8c40cad4582b5ef850f0c12108c83f1b908bc20ccf79666
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/10/world/europe/russia-plague.html
+title:a week later russia hasn t said what pathogen killed plague researcher
+seen_urlhash:785410231166e6f5cc638334e5915fbd4c0fe9434292c198f652c8cdbc24a169
+seen_titlehash:9424010e6a33bdd863c7206c22ae0dd4f07ca2b684e4953ec0676e2e13865731
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html
+title:an international career forged by the struggles of apartheid
+seen_urlhash:c5f397884c7dd2033ed93b0ddc8cf12889900e9638555d88a4797eb3224ce267
+seen_titlehash:da8e61b604b9be689e0615e3dd613f18261b2084c2f8315463fc536095cd0dd8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html
+title:blocked by police india s youth voice their fury
+seen_urlhash:68493b8edfc1f53add6dbfd7e2c4cee681df9c039c3d5a5595855e8ea42c70a2
+seen_titlehash:3eb71852bef043683d97d39bb6423f3ae069ae1ec9f477dfe07c8e17f42968d7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html
+title:what to know about the delhi protests
+seen_urlhash:c0ef63ac2f375a95b775ad85556c070adad72bb30dddc328d5f8357918c254c7
+seen_titlehash:59d9f63662faf7c4df456c59229334d75edc3c93c16dce267555d2bd6551daa2
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia
+title:like a drill going into my eye why the mystery over havana syndrome refuses to die
+seen_urlhash:a9304e9021915f42ecf8077b0056391f303f3f79b5d4f0f5cceb83bdaffce965
+seen_titlehash:3c894739a3ce825d3ede78bb70ffe7d2ed12b0038127e962a59101c807bee025
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss
+title:suspect killed after 13 kindergarteners taken hostage beaten in brazil
+seen_urlhash:e15d1f7418ed4e1a304c8655c307cc7242a96777ac7fe0eb1606e38e861d80d9
+seen_titlehash:a96bfd202e341aa80838636eaa738671cc6f9e630304e6a82f26acb0d5f67b08
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss
+title:a year after the ceasefire gaza s healthcare is still collapsing
+seen_urlhash:ded1e454a0880e5c99ad2ced5123ec50ac8a5f542e2caab4deccac239ec71a7d
+seen_titlehash:71a209db422ac0ceb957c4f7207ab54e8959f9cf4c03f7f88093414364b36c05
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss
+title:journalist hamurabi huesca manzano killed in mexico s oaxaca
+seen_urlhash:79dfed020471e0565bca1fa01046e7b56c779494b23b06e1a5e60a23f692228b
+seen_titlehash:efa0f8cad6f1c2979051c6e8edb61083a1787058929c255e92206d6be6ffe396
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss
+title:brazil police rescue 13 children taken hostage at kindergarten
+seen_urlhash:258896cba0163c72c5024ea5bdc87b53aba9a037f7f13b21e3843810c937ac71
+seen_titlehash:dda161de8af2311d949b6382c195bc9daa5ee6e1ac7a6e73887885892b3248fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss
+title:isaias weakens after making landfall in us gulf coast as hurricane
+seen_urlhash:00d3f08b8bd10682c52ca78278f58c4d67be5870a847e3cb674d5afb10b18e2d
+seen_titlehash:ab3ea29e6ab20e4b2425c64172f4fbe5d6b1a3bf02cee50ba69135298fcc4c6c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india?traffic_source=rss
+title:west indies beat india as hope s hundred secures record t20 chase
+seen_urlhash:e6d953f66d58602ef43145a0dba2f83a1095498d029dc16625f6f2dfa5a3c1af
+seen_titlehash:64f2e459d1665e795059ad828c029fed8904393e13e1880422914b00181ed6f8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/a-decade-of-lajee-celtic-the-palestinian-club-whose-fans-include-cantona?traffic_source=rss
+title:a decade of lajee celtic the palestinian club whose fans include cantona
+seen_urlhash:bfb944c8e749f3531c33aec8ef7fe0927ba8ee1f5b3baf1110cea54f592eb3ee
+seen_titlehash:9eaf023159303b45fad920035edd8eab68ca9d0134e8fd2003acf29ec1607249
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss
+title:us lifts sanctions on daughter of military linked myanmar businessman
+seen_urlhash:87914b05c7d8c0132b7cd8bebc8aba8e0d586325e58d3c2221c4203cd489415b
+seen_titlehash:9f1e543aff8a699fa8ed6b606909d7915b7980ee5906e1de04cc794c1c328c5f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss
+title:ronaldo returns after portugal quarrel to score in al nassr win
+seen_urlhash:011d53595abb99cae67d9d6d8208b19177a5c5c463269895745918dc8d5d2ad9
+seen_titlehash:23a92c84594082c55e71900bd0cf822bbe1575953076868af41ab9ccec15cb40
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss
+title:ireland catholic residents react to uk ban on protestant march
+seen_urlhash:56f0261616f8ac0c2872d1c4ed10400224f4330fba5f3fdaaaf2b268831b5535
+seen_titlehash:9f5662805e46fd537a5b1a5cfe3e0bffdcece0893fc90161d3ad2c91e4bae5dd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss
+title:saudi led coalition says it s carrying out operation in yemen
+seen_urlhash:ed3aebcbf5479b2656b4fcb517a91073697c656ed9fb2e0a8496c583958208b5
+seen_titlehash:518afc42a4c8b25fe7d5dece0bcc6c438861e4ca61173c62935541b5019220ad
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss
+title:how can you stop these kids indian capital on lockdown before protests
+seen_urlhash:d103234f6476e64c63a9c144add22dbc73fb4c8ce2a3e65bc9814edbf6f81f78
+seen_titlehash:ad0712bbc584c411de61cfc53c2a39536250393edd85e64964e64c3ab2272cec
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss
+title:india s cockroach party founder top leaders detained ahead of protest
+seen_urlhash:d7f84612f36b706ab10395bd6ccea31f1a99f5d290d21a9f06dbdd6064928266
+seen_titlehash:127664cc2cf6c5be967dfd7e14da0e93efd7fda4fdf04c69a70d330f11a382d2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss
+title:trump slams norway for not awarding him nobel peace prize
+seen_urlhash:2c9d56fd1acb71637d5344a162262415e68fe84a12d8ef5e0f3fe41e940c52ec
+seen_titlehash:6aa9d675cacce9ac485289d2b9beb78cbdb254e0a173403f03f6a2fc3ad1f32a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss
+title:yemen s taiz under siege again as food and fuel prices rise
+seen_urlhash:0d94ee0f57ab13fa22d315dea45ed0cafba10294890e865cb095b80ba1a98b74
+seen_titlehash:d425484dadacc0d0e8b0a7288e80613949b1c997c677ffd5a9af410609ad7990
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss
+title:india protest live cockroach leaders detained new delhi in lockdown
+seen_urlhash:3a6194a308051c5c8d36c7aa34f44b9d69e0f47597d42a2c15295a56172f3bcb
+seen_titlehash:e84d0ac4aa4fc2b4992375905df88ba62374ab1a6f33ab1fa82c773c3240f8e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss
+title:us hosts productive trilateral talks to end russia ukraine war
+seen_urlhash:1d8a0a210a3b3047be034bfd5ffea9fbd44714d93d244bb73eedd2217cb79f79
+seen_titlehash:780a855d4129286049790b7fc6e73b74a42d211773eaa168f2e827144eb4b073
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss
+title:israel s economy prospers despite years of war but prices worry voters
+seen_urlhash:dda50079aa8b0fa7a9904a1cf9a7fba1f14300af3374a237461fd6d34a173dab
+seen_titlehash:3a7ba08c9584d09d4aa65217efdf566103a83f9929cb8720d8cde67a84745c5f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss
+title:taiwan president says defence spending boost aims to deter war
+seen_urlhash:aef9cd738ee51f7481da3a5a75db7ae233b47ebf0485b1565aa38548e8e129f9
+seen_titlehash:90148d9854321216cf2611c9f3dc9d4eebf937bdbce15ff08a1e69961ad64cf2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss
+title:anthropic ai model submits false homicide tip to philadelphia police
+seen_urlhash:b2ccb8f8fc152426b375a2e0fadaef2bf0e2935c7c9675a3b5c2de1f56edc455
+seen_titlehash:447acd2b3654bf8c85126ed528313756af35f00da87f6047330446cbf60479b3
+seen_reason:processed_not_published
+url:https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121
+title:founder of india s cockroach movement among scores detained ahead of mass protest
+seen_urlhash:f7db986c398979bfad2c8e5af3d5beebb4a35322e979d34041fdd852587af0f0
+seen_titlehash:3e59dbd9c6ac0a5205dd77df5151f1bb9880c62aef5c081fcef81bebe311ccf2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize
+title:navanethem navi pillay wins the nobel peace prize
+seen_urlhash:ab651006934d273a59591e6b14c8139d17e105cc37e548d78fc0c8a1b0174190
+seen_titlehash:4a13e6d6d622590e9cd0e874cb9e91e3496f3cf48a23fed8f6b45deb409f239d
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented
+title:india s cockroach movement this is unprecedented
+seen_urlhash:dd2a2ef5b0c7e768e87e10309fd6f5f1e62fceeca91e49b6a0d6e9dc66c11e56
+seen_titlehash:57baad4bd85053ab339b3e3cee9b40c5f37df8b12a1780c49a748f1c79b86320
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest
+title:india detains cockroach leaders ahead of election protest
+seen_urlhash:81407285401457629731ca8a611c138744634e99cb2639bfcf37a9e31b64d758
+seen_titlehash:77431df11027c15a8cb239258eb0b00d35a8c18fef1d92fef5897f13accce419
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights
+title:france scientists conduct microgravity experiments on parabolic flights
+seen_urlhash:4029544761e06252b1f95c03cc8b9aa754580dff526cf17dd1c8b25c57ad81a2
+seen_titlehash:3e63928d13d13337bf71f5240d4fa7764bf104c37a9820c54d30509caf6fa82b
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261010-trump-hails-russia-deal-to-release-diesel-as-midterms-loom
+title:trump hails russia deal to release diesel as midterms loom
+seen_urlhash:831c18eb5910ed1394b02063d91e143b0b2b586618bc81b4e6cc0db1a01aace6
+seen_titlehash:52e38e8e0970bf89a23efb18304e297355894b5134e1fa4409a22797da2684f6
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children
+title:live russian strikes on ukraine s zaporizhzhia kill at least seven including children
+seen_urlhash:c41e48543fd58fac291bf9b1a9e34a6380e8470bc6b535770e38aefb990e531e
+seen_titlehash:7bfa225c279c6f60bebc2788294a6370c1c6083c5dce8f6d7e72d2c94025055e
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261010-all-human-emotion-french-astronaut-sophie-adenot-first-words-since-returning-earth
+title:all human emotions french astronaut sophie adenot returns to earth
+seen_urlhash:300683294c597e93117749da89788b5170542d872b96c8c88e15633d16e849eb
+seen_titlehash:48a8c993c824cde75db60a4d54f58f3fca2f11920491ccf12afb84835b815453
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel
+title:us europe and ukraine hold constructive discussions on joint plan to end war
+seen_urlhash:e21548f728f11813d8d245d31596c0607bcb226be72cd481df8d633f22d0176e
+seen_titlehash:9ac7e2e198dca6e6195bd3d9f3ca14015dbcfd2184d1f93699e18e1058a22acb
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback
+title:so safe you could drink it scientists and pesticide victims fear an eu rollback
+seen_urlhash:ef6101385b1dd611e389fd85bcc48b11495f8d24b2f789d0b19d0d335630d9d9
+seen_titlehash:966addbb89489f044f9d2e113c5a5ec0fd2592045428f219abf40dfde7b098e0
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest
+title:india s cockroach movement chief detained ahead of major protest
+seen_urlhash:d3d54284ae22e4e6253ff46e14f4ff216f44ed22e6fcd159d1cc0aa61357f703
+seen_titlehash:3e34154c409b840e01f1d086a6ff6018c2b3d151385bc76643dea482af40035f
+seen_reason:processed_not_published
+url:https://dw.com/ru/дональд-трамп-обжалует-в-верховном-суде-отклоненный-иск-против-хиллари-клинтон/a-79626842?maca=rus-rss-ru-all-1126-rdf
+title:дональд трамп обжалует в верховном суде отклоненный иск против хиллари клинтон
+seen_urlhash:5b2dbeedf49dc059900595b28b3b9e9bbf6ac2b49a60971f809883c436f5e3ba
+seen_titlehash:71e50fe6449417c923b29b97f9ce61f511b94853c612519ec3ee9409f9401cd5
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-результате-удара-рф-по-запорожью-погибли-восемь-человек-в-том-числе-три-ребенка/a-79625004?maca=rus-rss-ru-all-1126-rdf
+title:в результате удара рф по запорожью погибли восемь человек в том числе три ребенка
+seen_urlhash:8e158052b34f686352fc26439e9f409b8f5f88a5c8cbb3802ad7746de0f082b6
+seen_titlehash:7be299bde6be5a47b33f7bba0435c0ceb3ae0d81258615dc38bcfe7008077d7d
+seen_reason:processed_not_published
+url:https://dw.com/ru/большинство-немцев-считает-визит-шрёдера-к-путину-неуместным/a-79626150?maca=rus-rss-ru-all-1126-rdf
+title:большинство немцев считает визит шрёдера к путину неуместным
+seen_urlhash:ffff46dd13b7bf7095b97c7155d197eefd1aa53faed5fdf982341bbdd7f550e8
+seen_titlehash:bd40a2b4f30e9755a1182850076c6183d20159566b2561dcd7f1d362cd3dd2dc
+seen_reason:processed_not_published
+url:https://dw.com/ru/уиткофф-заявил-о-конструктивных-переговорах-с-украиной-и-ес-в-майами/a-79625579?maca=rus-rss-ru-all-1126-rdf
+title:уиткофф заявил о конструктивных переговорах с украиной и ес в майами
+seen_urlhash:e1a2a55bdc7131c2a6c6a87a350fd42a3094dc0ef75b96bec2b35a36260eb296
+seen_titlehash:cbeff440e95a382cc7464882de69cddd11350084cad6423f6212d1946379aa87
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-ростовской-области-атакован-нефтеналивной-терминал-нзнп/a-79624842?maca=rus-rss-ru-all-1126-rdf
+title:в ростовской области атакован нефтеналивной терминал нзнп
+seen_urlhash:8eb965858d22ad1b1dc965be72be45437923ae481d27460d7853b4b5db82c82b
+seen_titlehash:10c6e20f54878bc455b0695f22234712cfc60d61df15a9fded175cf673ce128e
+seen_reason:processed_not_published
+url:https://dw.com/ru/левая-партия-подала-иск-против-главы-мвд-добриндта-из-за-реплики-об-антисемитизме/a-79620777?maca=rus-rss-ru-all-1126-rdf
+title:левая партия подала иск против главы мвд добриндта из за реплики об антисемитизме
+seen_urlhash:2ce22250e1da31d9dda17fab2b63092e8ab0b79986d9af2a6509db79a414a912
+seen_titlehash:3f3ad620227fea99bebe71a16b7ed415e83dfc00a37da63e4c6c180dc42d5fa2
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-соглашение-сша-с-рф-о-дизеле-инвестиция-в-войну/a-79624547?maca=rus-rss-ru-all-1126-rdf
+title:зеленский соглашение сша с рф о дизеле инвестиция в войну
+seen_urlhash:98a689e21671e1410b20eb19754f22df093c5c289f03b512b7f1f987a4121753
+seen_titlehash:51c3aa5273f5ed0478889464bcd9adff3487ab9206c4ec3035953e752fd23a51
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/10/war-in-ukraine-and-the-eu-aid
+title:рф наращивает военные действия в ес признают что оказываемой украине помощи может быть недостаточно
+seen_urlhash:119d23b9b8dba5296d8fe378e9415a0bfa273c65c21d9298f2462670a134a5e8
+seen_titlehash:8e98b09ead7e7a4d8855a7b22c5eb758d06c438bf6fc6f0ecfb033f84d3e5d93
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/10/crashout-ragebait-or-peak-this-is-the-youth-word-of-the-year-2026
+title:crashout ragebait или peak какое слово станет молодежным словом 2026 года
+seen_urlhash:fc6acd3812e4521982edc142f9206fde55f82affdc87ef8216180bb033439c9b
+seen_titlehash:a9776fbd8073d30ce0e3a3bf7159472af479a7182db1a41b6672587343851988
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-complete-timeline-of-the-weather-phenomenon-affecting-the
+title:эль ниньо когда он достигнет пика и закончится полная хронология
+seen_urlhash:9769e97659ff4599cb16d082bb7006fb68e183337867d480b3b31381f6b929ee
+seen_titlehash:e96e7a374c7f984af3c39ef5355eb7b118cc59d919ef50223f02dedb309c4ca6
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/10/which-europeans-post-the-most-holiday-selfies-study-reveals-travellers-social-media-habits
+title:какие европейцы чаще всего выкладывают отпускные селфи исследование о привычках в соцсетях
+seen_urlhash:24627a0de55dda930b2d3c6d6b812fd1cd81972ae26239f73afeb6fa5d66a7e2
+seen_titlehash:1a239817403b60689f429f174881bc2727f61b86ce101a72e068b0cbeb9f956c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/10/teacher-salaries-in-europe-which-countries-offer-the-best-pay
+title:зарплаты учителей в европе где педагогам платят больше всего
+seen_urlhash:db2f426da0db1800b67c15d98bd1d6ffb47d013a3a424aa9b01f61b7d4d42721
+seen_titlehash:95abd26bf90c12b1f6116ef435a20f4bde88647ac86f36f2bc8b2ef9f1a40d15
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/10/v-rossiyu-zapretili-vvozit-gruzinskuyu-kolu-i-mineralnuyu-vodu-nabeglavi
+title:в россию запретили ввозить грузинскую колу и минеральную воду набеглави
+seen_urlhash:1581d14a6e48db74799cf2cf1f7bd844755bbe5832d991b8a79fdd6e4f5a7a96
+seen_titlehash:f757812e141f8e1ec81252f4257dca4ebeaa1c9954b66ab423eb9129a4c95e73
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/10/ozon-prekratit-strahovanie-tovarov-prodavtsov-ot-atak-bespilotnikov
+title:ozon прекратит страхование товаров продавцов от атак беспилотников
+seen_urlhash:a852980656540e2581a9fd2012bb9e4e3399a210800311d51e99b2c101db7a91
+seen_titlehash:63f782826da9cdf458464370b47e5b30eb0d07ef7b44df427a2aae149580476a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/10/tsukerberg-zlodey-zhurnalisty-geroi-demokratiya-v-opasnosti-my-pereskazali-vam-film-aarona-sorkina-sotsialnaya-rasplata
+title:цукерберг злодей журналисты герои демократия в опасности мы пересказали вам фильм аарона соркина социальная расплата теперь если хотите можете его не смотреть
+seen_urlhash:2294f1dcc93714a5764f1d4ab0f98d5b0910848537e3a6e3152599f0e38973a0
+seen_titlehash:21e3a0d280c640b9759fc0bf0e74438ec443d763dfa892a2bfeed7946e635077
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/10/voyna
+title:война 1690 й день трамп угрожает перекрыть доступ украине к разведданным из за ударов по российским нпз пишет axios переговоры вашингтона и киева в майами завершены досрочно из за сделки россии и сша по дизелю
+seen_urlhash:508b430d85c6e884b358a8134599ece44b455061a1d24bca2ef0b878abdf8dcc
+seen_titlehash:d705d6f61725036f09eaa877b164b3a317d9b16625b91f997e3b7bac587000fe
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/10/rossiya-nanesla-udar-po-zaporozhyu-pogibli-sem-chelovek-v-tom-chisle-troe-detey
+title:россия нанесла удар по запорожью погибли 12 человек в том числе трое детей
+seen_urlhash:9020af4e7aec4f6d2259a1f0e4b8b7d3c9ae7970d8c93b0a028dbb884758ff48
+seen_titlehash:d4e6488c41fe140591ff7c16024318dfcb54e6146d2cb2c9976500f8634bf1ed
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/10/bolee-500-ukrainskih-dronov-atakovali-regiony-rossii-v-rostovskoy-oblasti-povrezhdeny-zheleznodorozhnyy-most-i-zhilye-doma-shest-chelovek-postradali
+title:более 500 украинских дронов атаковали регионы россии в ростовской области повреждены железнодорожный мост и жилые дома шесть человек пострадали
+seen_urlhash:79632d7cc97416248413382befec4cad63bf33d6ad04f93d9806f62c35d48d23
+seen_titlehash:c04205a10f70b19990df515883a0f34afe816f317f3d7bf09ecbc8ac87830453
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/10/klimaticheskiy-krizis-kotoryy-perezhivaet-nasha-planeta-pohozh-na-neizlechimuyu-bolezn-spokoyno-eto-ne-obyazatelno-plohaya-novost
+title:климатический кризис который переживает наша планета похож на неизлечимую болезнь спокойно это не обязательно плохая новость как принять неизбежные перемены к худшему и найти в этом утешение
+seen_urlhash:3d29127ff46d2c15cdc4aae2c545945f060da2426cdc2b02dac8235ea3c9062f
+seen_titlehash:19c05e213a4a1c66cd4a94ed5778cd440593f9f0346c6bec1180020b009f5b74
+seen_reason:processed_not_published
+url:https://ft.com/content/abaab361-8714-422f-b2eb-9eb447e4d8c3?syn-25a6b1a6=1
+title:the us productivity pay gap
+seen_urlhash:7f13a7c44da1930c99423f527f1e2009f92cedc23e61d444b0e4a13e8ccbc74c
+seen_titlehash:c3ec73c81f1c7a69b024176b3873b5fcb0309dcbb8025f5947706f61b4160645
+seen_reason:processed_not_published
+url:https://ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1
+title:eu joint budget proposal slashed in race to find end year agreement
+seen_urlhash:30d02abcd97f3b144d4bdc1042ed142efe6dad7bd9a6d037f9ff8fe400ae8698
+seen_titlehash:f1751bcc1d487b4de9419c3942b710de639a5ebd97d0e7de9feabf40f8f794cd
+seen_reason:processed_not_published
+url:https://ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1
+title:police arrest leader of india s cockroach movement before mass protest
+seen_urlhash:d39c3a2fcc4b8d752c8cefb01b2626d171e7c9b77fab44ff98d6ba105e077d29
+seen_titlehash:25438502b7d1bc30db375100afe12c66a33ce54614e49270285de44e303ca289
+seen_reason:processed_not_published
+url:https://ft.com/content/4af4398d-41e7-493b-a389-7a6ed701d796
+title:how india is reshaping mental healthcare ft standpoint
+seen_urlhash:93a3b72d78f2a38750b41609212a3d758b3424fb19f1df00f4db592f2ba7eab9
+seen_titlehash:fd8729bdc19cf0a8d907a387e3ab3483732bb7d9fe818601e3cd030fe3d0eb82
+seen_reason:processed_not_published
+url:https://ft.com/content/0eaf982a-82e7-49b6-a06f-34806613ce00?syn-25a6b1a6=1
+title:nigeria offers fuel discount in pre election sweetener
+seen_urlhash:de73471b5ca31c5a068e2dcd1054a190ab3242f1da826254738061bdeb219db8
+seen_titlehash:09ae68c0ec47632205e9818ffab39a082d7799531f0c50a7d74034739a398ca4
+seen_reason:processed_not_published
+url:https://ft.com/content/1babfbe0-f50e-4be8-8f2b-d93fdd472f8f?syn-25a6b1a6=1
+title:uk universities withdraw offers from international students to avoid blanket ban
+seen_urlhash:d8d1a31ca9030590c820090f6057509c4610a574305376bb7f982ebef0a74437
+seen_titlehash:17df3dacd7494bbb92d3525b09cd82e0bf2eedbdd142c96cf8d30df1d726d508
+seen_reason:processed_not_published
+url:https://ft.com/content/c518cc4c-a9cb-4b5a-b038-165f3ad92765
+title:our 1990s nostalgia is far too rose tinted
+seen_urlhash:b0c67146d99c2598ecaa446f3979ed9ac1d403fead08665e7d12cd83a351a4a2
+seen_titlehash:d338513c42e84280bd7c6f7a0bf1c2e3a7105593527d20d74ae7f17e252779c7
+seen_reason:processed_not_published
+url:https://ft.com/content/59ce3c26-55d2-4b54-bf00-34104ed67be7?syn-25a6b1a6=1
+title:the narrow tory path to power
+seen_urlhash:36c3c70f5ba781f04e40affaf1cf4ee53f3235658d83a64e5277a946dc7f7d46
+seen_titlehash:037814d9de6e9955fb6b84d809fe028bbda6c8a39080599b31facb7db3a62450
+seen_reason:processed_not_published
+url:https://ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1
+title:russia targets ukraine s bridges as vladimir putin expands air war
+seen_urlhash:b3b4c7d99292ac02a0e733c2542a68d615416b6d0cc8633c347f59fbd13ea9e6
+seen_titlehash:c2951367691304aab6bf43e8d0b26e6ac34f1c56a3107c40236eed412ac2427e
+seen_reason:processed_not_published
+url:https://ft.com/content/a7532546-d9b2-4889-b2a6-ff68658a1782?syn-25a6b1a6=1
+title:slowing deals are another flashing red sign for equity markets
+seen_urlhash:45f3d4cd6d6b95fb49965be05f247d395b8eb43202d5b44de3990b05b14020be
+seen_titlehash:3059a3a2a3491602ea26047885ed09dc08c539a0885cacb2b0c3c6344f083847
+seen_reason:processed_not_published
+url:https://ft.com/content/08e41a4a-425b-4fcd-98e6-e2283faed94b?syn-25a6b1a6=1
+title:demand for tracker mortgages jumps as rates on fixed deals rise
+seen_urlhash:fab37591f079896fe0ff5de8ee95516a34eb733f94d79d3698bec62f4d33f565
+seen_titlehash:a80f351e1b7dc8c8a0abcded5f209316a24c336616b5dc3632e3621c21cb712c
+seen_reason:processed_not_published
+url:https://ft.com/content/2b2b4eef-b4b8-4ab0-a997-ee2bf6b96a24
+title:the 79 year old ski bum
+seen_urlhash:da7d27c67ac74892c4152c2c5d9b00838d30898732eebb1be8c234bd1f1942e4
+seen_titlehash:3180fc1593285897414ddc02c0ecb979bc5f656a384f29cdfe47e16a3c48c4f0
+seen_reason:processed_not_published
+url:https://ft.com/content/a62d72ac-ac00-4de3-9062-a6066124df01?syn-25a6b1a6=1
+title:how naza lays bare israel s killing of civilians in gaza
+seen_urlhash:a84fa635fef0aa045bb770e30f0faeb69d5ee4515b6f1d5babc47dffde4a0f0f
+seen_titlehash:a6fb36ad53482f890c991177e8b5cc24e8df7057a9b34498f684899c8ea3bab8
+seen_reason:processed_not_published
+url:https://ft.com/content/910fc2b8-5b6a-425b-856c-589a3fdf1c0e
+title:the tax pitfalls of moving abroad
+seen_urlhash:1d240d34e825326b8e2e52e54d6507bfd2b60faf933e47ed7106b9ada2cd5401
+seen_titlehash:eafbeb57affd5c6f2e2c8ddae55ceb6220c24d78533b67c409deaca327665ca4
+seen_reason:processed_not_published
+url:https://ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd?syn-25a6b1a6=1
+title:how protein took over the world
+seen_urlhash:75e95a3e1b590c161819fb0bb8ee727b46d7ae8082176614a97477a5e5b3db55
+seen_titlehash:0c1df6e6d707815820f1b66a424df6413de006763f7dca2697d17a4835aac0cf
+seen_reason:processed_not_published
+url:https://ft.com/content/db66e6a7-103b-4773-817a-a0c5e7e90936
+title:uk spending on subscriptions rapidly outpaces other goods and services
+seen_urlhash:458022fdd6f9328a27e4a31afeebb26aad9f2e9b248bd33be93f41a1bb39c060
+seen_titlehash:8c0e5610f2db602a4b08044953976da966e473998c43a15020e8c31c1a920bc7
+seen_reason:processed_not_published
+url:https://ft.com/video/72c7775c-bbfe-416d-9206-2bc83bc22f40?syn-25a6b1a6=1
+title:how india is reshaping mental healthcare
