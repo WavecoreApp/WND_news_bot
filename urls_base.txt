@@ -144373,3 +144373,468 @@ seen_titlehash:404232765232f1bc4bb05f48cfca31610be1b58004098efa7c64c30ace2bdf44
 seen_reason:processed_not_published
 url:https://ft.com/content/ff4ec1b7-1ccf-4aa2-8ca0-8faa3bfa0c6e
 title:the prisoners of war at the heart of korean ukrainian tensions
+seen_urlhash:428f853344e7d2b827a8fb361ccb8ad17b1c8d052af2debf444a02c9704561ac
+seen_titlehash:1c905df45400fb277b086591dcd3c868c338ec1d2d038deeef176d29a0acc591
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss
+title:pope leo to have surgery after lump found on lung
+seen_urlhash:3e6949a74add004c36a0a925317551558a601b12b02593663d954468aee406d8
+seen_titlehash:0a6f5c7763d1076614eff3a8ca7db345f820bb718ea8be31038766c2a3ff9ab9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss
+title:delhi sees more protests as cockroach group s leaders released
+seen_urlhash:62d2bd7cb9addc378becb48387702b752bbba078d1c95a8a4f445d29a35af53c
+seen_titlehash:2b15e2adf5e5c60945c21ff0745982ce37e76a77ab95b805931e927411bebdb1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss
+title:us justice department investigates tv networks over trump pool coverage
+seen_urlhash:7e0ecc8898f9177544109eb907b98c3e2f563a8ed763b6a49e54fa3c962e58bb
+seen_titlehash:3d6706a5a404764a8ae2b67ce92e9099afa8380c5d71e39ac13c9baf0c84f91f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html
+title:wringing hope from the rubble of gaza
+seen_urlhash:8bc28d4d39b10799daabd1a2f5aac8f6e557fa8b4f90ec59e98aefddf69e3d49
+seen_titlehash:cd0e50475e840ce08f8de0fdfed9b193563c4d41f57e0fb6044a26b0f096c87c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html
+title:a russian spy s lone regret i got caught
+seen_urlhash:c3b0928461363bac0c3594027d0a2af0c9a1815706bd88b616b7609a944cd6f2
+seen_titlehash:60b5763696bb7d0fb92a4cfbda5a40cf486f203a981dd3844ce18a5b56360d34
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html
+title:india s cockroach leaders released as new delhi braces for more protests
+seen_urlhash:d5be72d2e87c33e375ba14e4760c7a4ae96e9c249bb47eecdcae85c74293976e
+seen_titlehash:2cad1e7aaaf756ff8519bbf88173a9f90379ead43b36547de30a61ff470eb2db
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html
+title:a reporter returns to china to find it richer but also highly paranoid
+seen_urlhash:27f7599cf9880a6deefaf5819352281a38914a234ab801efcaf0f77e74b0216e
+seen_titlehash:b6db32804ef9f3babcc7e226ddf5c66a20dad20e5e089b73cc3751f931124a15
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html
+title:in canada s arctic a new generation of inuit creatives are using identity to fuel their art
+seen_urlhash:2899f186994fd5041dc24ebf43b11576534f33858bbce84393ab14cc89abdc74
+seen_titlehash:d6280db16a231a1a3e494df82e810a4b4c98145adb7e3d6ad07532e22cd3d014
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru
+title:missing australian hiker jordan yap last seen on remote trail found dead in peru
+seen_urlhash:32238dda9946ab51f24bdee93649905015d8b8097d739d4c5aeab1cf710324e2
+seen_titlehash:5aa5d5017f97aa4b68e22bf16eb62cc27c9bb03d2a4ff939171c79851e6f66b4
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency
+title:it was a terrible thing panama declares state of emergency as quake aftershocks rattle communities
+seen_urlhash:98f4654028796bcb3577480fa0572c96071e8356afa8361964d7f3d900e7dd4e
+seen_titlehash:f6287c0e92f7318bd56c4eb2cda6ca315773863953b824c863790c39821c744b
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb
+title:a trump impersonator and opera singers cpac was a spectacle but the right still can t agree how to take down labor
+seen_urlhash:b618034b5de3683482f9fae6d064009792f5b4699cbe14a4cb0a87ac69b57816
+seen_titlehash:b761966b0ddc181466222b1b893876567300cae5ae6b97d928b2402934d10878
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb
+title:ben roberts smith attends canberra event honouring australian troops who served in afghanistan
+seen_urlhash:fdbf7cb8310cfbb85fae01676003211c1a1372e1f54a41dc8ed58eeaed087713
+seen_titlehash:4cbe85f92090a484586480f3de89e2f99a006b8b5e532a7a8c5192ee53166b33
+seen_reason:processed_not_published
+url:https://theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb
+title:two carlton players treated in hospital after off season night out
+seen_urlhash:e661a4fb0b51b610d4d75238090886a12a1634a4ec817a2ea2c92786f8c93c55
+seen_titlehash:b06b3db7a349f5744332fbfada0c97f2ee2653c68da616c16795543767daa59d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss
+title:fear and uncertainty for civilians as yemen s capital comes under attack
+seen_urlhash:369c0f2c077e4baf73b321d332f648b224c6a814756c09e48b20ddba07916ec4
+seen_titlehash:44b2d5043da62ac30fcf416010df47f8edd91bf620b1c5397b3fc12c8c38c6ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss
+title:modi is in trouble
+seen_urlhash:caa0c4402fce9ea71efef46507e4c39837cec1d908c8e72278fc2389ee6b315d
+seen_titlehash:a47d8b57781a33fe4e30c69048ef3134a85a737fa88533934c27a830e388170b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss
+title:marco bezzecchi wins in indonesia as martin takes motogp lead
+seen_urlhash:6d97ce5bb9e6f212a5f9e8ae3203dc6f6cf676b536254d209dbb9588459deff3
+seen_titlehash:d79dad627253c9aa22d89a03a8ec946120f36b55c4fdd36767528d759c63a597
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss
+title:anti ice protests in new york after man shot in car with child
+seen_urlhash:5bea688258ed191f53591ad4a3bfe50c0ecf8ad75e6fb3b501f312b8e62ae8e1
+seen_titlehash:9659bb5b70d0aecaea3d6cc459cfce6e7a6d18dee7acbfce2f68f055f3ac1f5a
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss
+title:photos thousands detained in police crackdown on india s youth protest
+seen_urlhash:ea941187a325a6c87e00a0aca5f42ac3041837f9c1f0325ad2ec7ffaeaaa7097
+seen_titlehash:af6a745158b8d1c94b31bd78fe9463a640ba6d6e231620f6357a27b7c3c15bc3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss
+title:russia s yandex says data centre in vladimir shut down after drone attack
+seen_urlhash:2275324e5c37b059420cd9eeb0c3896d726a1b710711b68992ba87b9dbe1e8a2
+seen_titlehash:f7ff44372287a072264df6143ab0b36ba48b79379af2ffec01a10e1962a18b78
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss
+title:what can man city expect against liverpool at anfield on sunday
+seen_urlhash:43f7354a2535e03040d59a0af4aff611f5f336b9ea8ee703d3c5588cb354d179
+seen_titlehash:2ade432c239251a9cbf10b0da098211c7105c19f5d0a34e76fa278a819dd5994
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss
+title:trump calls for ukraine election says zelenskyy failed to end war
+seen_urlhash:c03fad792fb7fbfb85bd3d6d3ccd5a4294cc286a8d38ea5aeda4080694fe4c1b
+seen_titlehash:9e3838345a39615c13ec814947efb7a680164c33c571c7c551591d855b48264a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss
+title:pakistan imposes emergency rule in province governed by imran khan s party
+seen_urlhash:4437c6b4a6b8cc99f45bf7be05417abd28ce531588377f1e5eab9e32e1c5b220
+seen_titlehash:f64de0a185095ba895b4c69794de632a0d5fd82faa07867c0d6cb1a364ceef1a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss
+title:what the iran war has done to the world s energy supply in charts
+seen_urlhash:b5faf25b24c6bfb59b7b172a78e38a75014ed40d90b0f5d8ac135838a5850274
+seen_titlehash:9c3bd5f16c03f2816ca9fbddd607a6681e83fde466ac10a344a52040b0b38f00
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss
+title:musk vows affordable starlink in india as he escalates feud with ambani
+seen_urlhash:ba83334c5d7074a72900e6c36302046d266d5e93a63ac871394d973af22e9dd2
+seen_titlehash:ba73f63aa82721d31e10a9669979a4ce199c4e01ad88efce4bc84cb5e76d15f0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss
+title:us bombs cargo vessel in gulf of oman trying to run iran blockade
+seen_urlhash:655a5d3bd5b71dba1aee6618dd03b95d8be59ef6197b233c3f4776940a663ca5
+seen_titlehash:c72e2800457f0b03b948807f5da1dbb0382ede2a2ac7f58e9ab1662faf876304
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss
+title:flash flood sweeps away buildings in nepal
+seen_urlhash:bb47bdec1e0e0a221840038b02f0a7b276aecb5ef0f334fa70f6631ff599d623
+seen_titlehash:eb71dec3e42b0685e2d2eb144dcd44c08b7b6c48b0ecb18bb2d18f270cb6a661
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss
+title:vinicius apologises for hair pull red card but could miss el clasico
+seen_urlhash:7cb7d255bdc4a9099a81fe9e6a545bba6141fc5ff73217adc9127c96c16bb4f6
+seen_titlehash:4d3494f0aa50c7cfaafc8317c0f30b7ad1e5956d6d050af27a15300413bfa367
+seen_reason:processed_not_published
+url:https://aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss
+title:how genocidal war on gaza is shaping israel s election
+seen_urlhash:21d760158dc4dd5a4b69a7274d50e5cda20c46bbdef5627f404deee4130cf1d5
+seen_titlehash:361793899186baaf06b2106fcb0c54b7087d222cf110c825fee2ec77429b719d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss
+title:us opens antitrust probe into tv networks for halting trump coverage
+seen_urlhash:1cd23c52aeae8cdc45fb6a690afb55b0e9c55a38681d7f6a0893e1ad741b1d37
+seen_titlehash:6e031f4acf2864b29ea30164023a85e06887b90215bf3dce126390ee54d0dc5c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss
+title:hurricane isaias kills four leaves 650 000 without power in florida
+seen_urlhash:f60955956b4a0ede87d339d306568a621e2d00e2c344e3ce686ed02a3d9117a0
+seen_titlehash:594b6cbca04080f809f7aeeba85868d6db0497ca350955031d14ede4b8e04298
+seen_reason:processed_not_published
+url:https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707
+title:109 dead after ship capsizes off coast of djibouti un agency says
+seen_urlhash:f36e3545b575af22024e38f137647da7f535508e9f7adfde87e42fff5a747d15
+seen_titlehash:bac8fba46072ae5cd352d339770dfedea39227ced8317a45495d976f93e660d3
+seen_reason:processed_not_published
+url:https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712
+title:pope leo to undergo surgery in coming days after nodule discovered on his lung
+seen_urlhash:ac3706fcc7daa086d5475e8f6e3abdad94349757257a850d74fdc6ba9c6ae58c
+seen_titlehash:88fc32db7bef4b794e7d97fc23000e2c9650d39c14e39a47dfa03fb2c40d6e0a
+seen_reason:processed_not_published
+url:https://news.sky.com/story/inside-ukraines-wartime-postal-service-which-risks-everything-to-take-supplies-to-frontline-towns-13597690
+title:if we don t do it nobody else will inside ukraine s wartime postal service
+seen_urlhash:7b7f00a2ba7f0b3337045bb53cb2cc0e90a54f89bad21d96e0533fa47dc30690
+seen_titlehash:330794ffb11071c25a24578a7a6e4fd972a3baa01cf109a30b5bc9ba26075028
+seen_reason:processed_not_published
+url:https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674
+title:flash flooding destroys homes in nepal
+seen_urlhash:f3e63bd44fb655385bd6566d5e5ab9f3b906ebb0b50a33e1afb84ce8f12630ba
+seen_titlehash:95f2b3031b0475698d7a7234a991b676a3d78ddf85dd3ee6c575e7cea9c98bd5
+seen_reason:processed_not_published
+url:https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676
+title:ai and nuclear war threaten human extinction by 2100 report warns
+seen_urlhash:872f33515a6830e54b803c1d6f979d83faa6c29d9ccb979b300d59f99ae8137c
+seen_titlehash:27ce9f570a214127f919cf5617934d0c9b9c31463a01790d9c6ce2770ed53fd7
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261011-pope-leo-says-will-undergo-surgery-for-early-stage-lung-nodule
+title:pope leo says will undergo surgery for early stage lung nodule
+seen_urlhash:872f33515a6830e54b803c1d6f979d83faa6c29d9ccb979b300d59f99ae8137c
+seen_titlehash:27ce9f570a214127f919cf5617934d0c9b9c31463a01790d9c6ce2770ed53fd7
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261011-pope-leo-says-will-undergo-surgery-for-early-stage-lung-nodule
+title:pope leo says will undergo surgery for early stage lung nodule
+seen_urlhash:d349f6d271a9303d3deef517b28cf7adbf4f71aac38967b187ef732459d3d15f
+seen_titlehash:09683f4a73b9d191127789ce7afb7a898eb724e362e3ae9a99cc5388f72851af
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war
+title:trump says ukraine needs new president who will agree to end war
+seen_urlhash:27b2afecafcc1e7dbd9df2de14bfc291dc4e6bf1e0aa1e41c0d8639208b58be6
+seen_titlehash:e57154482b5b22ca12f5c14464097aad0031a62904246fd80739b9b0dddc73fe
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns
+title:spain sánchez and feijóo launch campaigns
+seen_urlhash:25bd7abfed101f7327e8eaa23ea99c1699d3d96f2d968e4892b6b4c88edf2e67
+seen_titlehash:46ec63a429dfe6ccf5e066f97f1f424513dcb2b1a0a2da4116241023ac6773e5
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says
+title:ukraine ready to halt refinery strikes if moscow stops energy attacks zelensky says
+seen_urlhash:d7a35592423ea1d4a7d544f015b19ef7e658d2c37b2fcb8c9ccec71a9768157d
+seen_titlehash:fb6ac71caf32b28d8830149de83d5b209f762217994a31a81f3308312aaf29b4
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21
+title:trump zelensky clash over diesel deal as russian strikes kill 21
+seen_urlhash:0d708bb93dc767d8a2dadb07dba8ee85cddff6894b61738d46c63bcd4c4bc795
+seen_titlehash:b1824da841a97ef2e052429956314d3cd5e89045db1cb79da925f9b61ce18ea6
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti
+title:at least 109 migrants dead more than 100 missing after boat capsizes off djibouti
+seen_urlhash:0d708bb93dc767d8a2dadb07dba8ee85cddff6894b61738d46c63bcd4c4bc795
+seen_titlehash:b1824da841a97ef2e052429956314d3cd5e89045db1cb79da925f9b61ce18ea6
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti
+title:at least 109 migrants dead more than 100 missing after boat capsizes off djibouti
+seen_urlhash:c42daa2e7c3395e76a1e667e694227ec73ca523e0bdaf4ff41871f5c4dbe1207
+seen_titlehash:76ebccfa2c19d6d72048ac158d460bba6e140e6e5cba5b3f14470572c80a89a2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand
+title:going bankrupt iran shopkeepers struggle as war dims demand
+seen_urlhash:86d5ed3d547e835197dbb3454800f34e3e7708910a53d1a5779bfa20451b6f02
+seen_titlehash:e77b0a5b0f4c8b69558f8cd08dc63a48c0b2b2ad451df018e77d53fe60eee153
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages
+title:trump urges zelensky replacement as diesel row rages
+seen_urlhash:9a73aaa6979dab373c563b67a3bb5428dbdb1912965210116863728d1b1865f0
+seen_titlehash:8ef3ace1ff137685d47ca376f202dc736f56c1f61bad786e96e28fe28725eee2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-at-least-4-dead-as-cyclone-isaias-drenches-southern-us
+title:at least 4 dead as cyclone isaias drenches southern us
+seen_urlhash:73e004354987fccc79362d8986209114d7db6a19bd92e1fa590d4b1d63a1b31b
+seen_titlehash:66331e0b911f0782b74e35b18ee5662ad3b370792c6e5fd6e3c62adf13955f6b
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20261011-france-s-seixas-claims-il-lombardia-glory-after-world-championship-heartbreak
+title:france s seixas claims il lombardia glory after world championship heartbreak
+seen_urlhash:9e4a7bc6ebf23d3c5c4a868f7a7612ca3ad19b0a515a495297ee6bd1faff08f7
+seen_titlehash:62e8ac12672d97800b0d393304029c1d2f6698797dd290b1c6dc7a3d9fe8bbae
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport
+title:follow live houthis renew threats against saudi airports as riyadh attack prompts wave of condemnation
+seen_urlhash:ca0f71420cb05cd0f950ce0aaa62a91d8f496aa9b93df65bc27efda8f6de47eb
+seen_titlehash:1001af312f7767ac90058082957883691a8ffcf4974b468f4ee8ba63ea90ef6f
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests
+title:spanish pm begins vote campaign overshadowed by housing protests
+seen_urlhash:6d2f48fc698e31c6763c7e85f90b9049a612d39bd69c6057e69fb39d16e65b2b
+seen_titlehash:de5ca3d4e8fd06c28ece0705f00d0c13e7858c66129c7555ea72e3ce500be56a
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests
+title:spanish pm sanchez kicks off election campaign amid housing crisis protests
+seen_urlhash:ab084f17e59e4a81105384974c3ad4831e88ea5e415c33a2157332decf96daf1
+seen_titlehash:120930bfda3dfdd6a893102f3282fabc67dd0f9def8659484f8255aea2cd689b
+seen_reason:processed_not_published
+url:https://france24.com/en/escalating-fighting-in-yemen-worsens-food-security-crisis
+title:escalating fighting in yemen worsens food security crisis
+seen_urlhash:12c388d1771dac96842d390875bad79a134e2f7a45a1c3cbb9a5f8192de57382
+seen_titlehash:5c07a84b9729df9edc0b1caaf1c52ca8b7b1d335f3bb55993e1ee55018e0c6ef
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response
+title:saudi arabia threatens decisive response after riyadh airport strike kills at least 12
+seen_urlhash:8eaf6a688728db6af0eda2b4fb5d99b228d474c60501ef1c2ffde232be82c85d
+seen_titlehash:996524b52b6b03fc0678b02e38243520d6d893fe947f6f22cbf97922fa811961
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261011-india-court-orders-release-of-cockroach-movement-leaders-after-detention
+title:india court orders release of cockroach movement leaders after detention
+seen_urlhash:daea9af967e1fb4614a8d9395bd8d2e9ee698c6c72964b2ecb00f4934d2d7288
+seen_titlehash:078e892a0e70cbbf10476abd264e9662bf340deabe25e0d97f06eb25830bd895
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1
+title:riyadh airport strike kills 12 saudi arabia threatens decisive response
+seen_urlhash:9e4a7bc6ebf23d3c5c4a868f7a7612ca3ad19b0a515a495297ee6bd1faff08f7
+seen_titlehash:81f660df72280136ef34c8c0a9d6ec477124300f0dbb00f58c85a565fce8acb4
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport
+title:live houthis renew threats against saudi airports as riyadh attack prompts wave of condemnation
+seen_urlhash:859afa2bff5c9372e0cca4f08359821c4f92a5b92e1274296de06d94d414f0e2
+seen_titlehash:93666b7d29f297c15c12158272a67892fec1c67d8d5781d286092a5b57c8a80d
+seen_reason:processed_not_published
+url:https://dw.com/ru/маск-вслед-за-трампом-раскритиковал-зеленского-и-согласился-с-тем-что-украине-нужен-новый-президент/a-79632977?maca=rus-rss-ru-all-1126-rdf
+title:маск вслед за трампом раскритиковал зеленского и согласился с тем что украине нужен новый президент
+seen_urlhash:12e806dfc17f7185ce2e9c8064a49850e2dba5b2a578bef6afe5476ab7bb95f7
+seen_titlehash:dd02cdc172e05f119e15ac6639fffe8c24f1413a3f84107e42be48672ffaa264
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-сообщений-о-возможном-покушении-на-туска-и-косиняка-камыша-в-польше-созывают-совещание-в-центре-по-борьбе-с-терроризмом/a-79632606?maca=rus-rss-ru-all-1126-rdf
+title:после сообщений о возможном покушении на туска и косиняка камыша в польше созывают совещание в центре по борьбе с терроризмом
+seen_urlhash:491b8dd52aa02cb56ec87b10f71c4e5e5fbf6b06bae0f1fa191efbd5d809d7ff
+seen_titlehash:b27e5a0a870439a147e3ae98384b5bca12f7ff4df9fd482109d1144f1ac072db
+seen_reason:processed_not_published
+url:https://dw.com/ru/трамп-предложил-переименовать-атлантический-или-тихий-океан-в-свою-честь/a-79632308?maca=rus-rss-ru-all-1126-rdf
+title:трамп предложил переименовать атлантический или тихий океан в свою честь
+seen_urlhash:98d65db700416aad9097c03cdceb3589c1175285799a0a7f835b0cd19b8fc3a3
+seen_titlehash:4389bbd584d62ffedd6b855d53599a88b809cdbf1a68719a5ee9003b19ea38df
+seen_reason:processed_not_published
+url:https://dw.com/ru/суд-в-индии-освободил-лидеров-движения-тараканов-через-день-после-задержания-на-протестах-против-избиркома-и-правил-регистрации-избирателей/a-79632243?maca=rus-rss-ru-all-1126-rdf
+title:суд в индии освободил лидеров движения тараканов через день после задержания на протестах против избиркома и правил регистрации избирателей
+seen_urlhash:4795dff2551a7196cfe5a89dbe5d346b828553e9fd2b301249d26a3e2cfa4589
+seen_titlehash:918f8d2777288ec38412e6a11b60c91afd3750d76d8be46ec6c1ecf74a87fdba
+seen_reason:processed_not_published
+url:https://dw.com/ru/дата-центр-яндекса-во-владимире-полностью-остановлен-после-атаки-дронов-часть-сервисов-компании-переведена-в-аварийный-режим-работы/a-79631597?maca=rus-rss-ru-all-1126-rdf
+title:дата центр яндекса во владимире полностью остановлен после атаки дронов часть сервисов компании переведена в аварийный режим работы
+seen_urlhash:26ac352ab1eba026f3b4554ceaecb7257678d4a3f145bf2f5aa5bdfba4d2ff53
+seen_titlehash:57d55270b789464f33e0d54c6d0cfe4289313d1c6a544e218826fbcb64b59afd
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-задержания-в-черногории-основатель-проекта-рыбарь-михаил-звинчук-вернулся-в-россию-и-рассказал-о-возможных-причинах-инцидента/a-79631523?maca=rus-rss-ru-all-1126-rdf
+title:после задержания в черногории основатель проекта рыбарь михаил звинчук вернулся в россию и рассказал о возможных причинах инцидента
+seen_urlhash:35266dc6fabfbbee555be8a2b31e3cdfe32f2579fe95ddf3f65b33991c03ef14
+seen_titlehash:6161ddc6b1ab2fbd229433277f725406a570eabdff8fbb23079380a895db8e0a
+seen_reason:processed_not_published
+url:https://dw.com/ru/выборы-в-сербии-студенты-объединившие-либералов-и-националистов-имеют-шанс-лишить-власти-александара-вучича-и-его-сторонников/a-79610065?maca=rus-rss-ru-all-1126-rdf
+title:выборы в сербии студенты объединившие либералов и националистов имеют шанс лишить власти александара вучича и его сторонников
+seen_urlhash:8e19589fb8583ad15dc4798ad9fb0eb7873c1933cea998a1dd180df561b3a535
+seen_titlehash:ea1970d4e3fca8095fd00315c0128883f796d92ece5347e79afbc64c5d8e3093
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/poland-threat-to-security-of-tusk
+title:возможное покушение на премьера туска и главу минобороны польские спецслужбы проводят совещание
+seen_urlhash:6c69ccf44beee354efe49f798ca063f951759c8d27d1550d765724c05baaf650
+seen_titlehash:3901b8d0e1f7437254b95d12d511036c4b4c95c4c1332f96a51b8f259e1b87da
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved
+title:полиция сша раскритиковала anthropic за ложное сообщение ии claude о нераскрытом убийстве
+seen_urlhash:93bce6cc9a93242451608f3c4fc4393b0d8feb9dbe85204c4fb51069f9d94b2c
+seen_titlehash:bbee2d2a41418c8978f5f0fdb4a8342ab5ac472a74454bc08979b3e25f22c42a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/ukraine-sunday-update
+title:российская армия ударила по славянску и киеву украинские бпла атаковали уже третий дата центр яндекса
+seen_urlhash:f1c47cd15ba37acb4d7f3a07d3067366e88c2d7378e39a1d1dc28d0201d3adb9
+seen_titlehash:6494036460a072a1ada99366be1b43326ee00fc1555a0d6cd3aae3b3acb6204d
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/isayas-reached-florida
+title:ураган исайас обрушил на флориду сильные ливни и ветер сообщается о 4 погибших
+seen_urlhash:45344f2c0ed57bc31a29643d5b8360393117ef599d9d68ceb245d9727fb867c1
+seen_titlehash:83f8ca1143f6b62e67971b4a285d15a834c659bedbb1befe6def4fd00bac97db
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/primaire-socialiste-waiting-for-results
+title:праймериз французских левых более 70 зарегистрированных проголосовали в субботу
+seen_urlhash:80dc1cc9d98898245e49719e00334b05539e305fde0281d39917828ca4629bed
+seen_titlehash:bf9e29d46935fe83ce14fdf5f1408d8bda15c6be43c90426ec4b82f50a4906f4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/abbas-postponed-palestinian-general-election
+title:президент палестины переносит парламентские выборы на сентябрь 2027 года
+seen_urlhash:ec4b240a0a7f9d6a0bf8145824ca52aa206e474cbd13fc0dbc21ec52848c8279
+seen_titlehash:067bb087eaa9485c77e611c777ae15d8cd264d399cbf6bfc3ab1e042c0561396
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race
+title:бунт подростков или революция студенческие протесты угрожают президентской гонке во франции
+seen_urlhash:5938e10caa2d3eff3d4d10bcc813f47942c646b1ef07945cb7631e248cf745ea
+seen_titlehash:a8fae4f178c9b52e5f3dfc8df0e3c437d43bee9393826fe7e12fcc0a3a28ed1b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/farming-and-solar-power-are-competing-for-land-can-agrivoltaics-solve-the-problem
+title:сельское хозяйство и солнечная энергетика борются за землю решит ли агровольтаика конфликт
+seen_urlhash:0a5dde94c0751a47821619473cbd602b7192c8ef3c9f2affe2afc846c48a3d94
+seen_titlehash:864fa41275671af7f3ada719cc840f7b844fc68576ce0ce5b0499150602fc481
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/europes-best-christmas-markets-to-visit-in-2026-according-to-travellers
+title:лучшие рождественские ярмарки европы 2026 года по версии путешественников
+seen_urlhash:46526e8bb4cecf4798ad01f3c0d07db3577f9ba94e0da9442f022171571c030f
+seen_titlehash:4e40e735f48ca177bce8284b284a6fef9c3b1a5c85b93a06c1b1af80705a1b6c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/11/novosti-dnya-11-oktyabrya-2026-g-utrennij-vypusk
+title:новости дня 11 октября 2026 г утренний выпуск
+seen_urlhash:450a023e2baac806050835e4e29dc5e053aae66a57e59c289e9428cd7a22f654
+seen_titlehash:d490e5fa943ec32390639f6dde66f9604389bbab9ccaef3bfcbedf9486c9c74f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/esa-director-general-reveals-10bn-plan-to-reach-space-without-nasa
+title:глава ека представляет план на 10 млрд по полётам в космос без nasa
+seen_urlhash:e02431b254af0d78300ac516e578c5dadaf65105bbafb90d3f2808081a395bbb
+seen_titlehash:5e0d7668f60541fa816da8ed143988a2bad48832519ff9da05e0a65e1d23b29f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/zelenskiy-zayavil-chto-kiev-perestanet-atakovat-rossiyskie-npz-tolko-v-otvet-na-prekraschenie-udarov-moskvy-po-ukrainskoy-energetike
+title:зеленский заявил что киев перестанет атаковать российские нпз только в ответ на прекращение ударов москвы по украинской энергетике
+seen_urlhash:35fcb1e84634921127ca3e0e5bd736e999cf40b25d096d15e472c0854d51da31
+seen_titlehash:d0c2a4ca46b4cefc3874268bc746377fb6dd89cb6510462f76bfcad7fd56e464
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/polskaya-politsiya-poluchila-informatsiyu-o-vozmozhnom-pokushenii-na-premier-ministra-donalda-tuska-i-glavu-minoborony-vladislava-kosinyak-kamysha
+title:польская полиция получила информацию о возможном покушении на премьер министра дональда туска и главу минобороны владислава косиняк камыша
+seen_urlhash:97c39c6174c22977b9b991cb21c91cf273f010a5cd1c659215eb23afa15690eb
+seen_titlehash:d11f5452c70c2fb94ce94ad9f22855772423cd4eae722d2c923915d025fabe5f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/mask-podderzhal-trampa-kotoryy-raskritikoval-zelenskogo-za-udary-po-rossiyskim-npz
+title:маск поддержал трампа который раскритиковал зеленского за удары по российским нпз и заявил что украине нужен новый лидер
+seen_urlhash:9ff285b37499bb7231c908098d566dd836dddf4fd006647d296d78cdc503d32b
+seen_titlehash:e5a4fab4af7f1092cca1f57e514f0acc53e14f99eb5d15e94a86672b83a81493
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/11/umnye-chasy-govoryat-chto-ya-ploho-splyu-im-voobsche-mozhno-verit
+title:умные часы говорят что я плохо сплю им вообще можно верить
+seen_urlhash:aa161e7d0b9c01a4788951248207eb7e8e4599a131943217b5a3d32579bfda89
+seen_titlehash:ff495a40092042b2106953771634ac6058e864b000fcf3821d3fafc7daec7ae4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/yandeks-snyal-s-sebya-otvetstvennost-za-posledstviya-atak-bespilotnikov
+title:яндекс снял с себя ответственность за последствия атак беспилотников
+seen_urlhash:e2e88693dd6da22f6cfa2b70bb2758cc8c6bc26038dfe99aebeb3931feb74a47
+seen_titlehash:bcc43aa2dcbd4023d3b45809452a13009f625bc8d8d321a8a96935e772d0c225
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/11/dumali-leto-konchilos-i-zhara-ushla-vovse-net-super-el-nino-ili-dazhe-giper-el-nino-prodolzhaetsya
+title:думали лето кончилось и жара ушла вовсе нет супер эль ниньо или даже гипер эль ниньо продолжается
+seen_urlhash:589a75d2b40e517be5856e5582a2d088c56eefb46c7375faaf283d29568757c9
+seen_titlehash:e8f21ce1c4801ec53f975f234a2f37acfb9a9916b37dd44baeb5f8e988ed5ff1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/v-er-riyade-v-rezultate-udara-po-aeroportu-pogibli-12-chelovek-esche-bolee-300-raneny-saudovskaya-araviya-obvinila-v-napadenii-husitov
+title:в эр рияде в результате удара по аэропорту погибли 12 человек еще более 300 ранены саудовская аравия обвинила в нападении хуситов
+seen_urlhash:c2fd7cb3f7524646382579ea63dabb0adb3558dbcbcdb0453ccc63479dd7e58c
+seen_titlehash:cfabd6eda1cab51b51c9a7cd2b4e504cd306eeefb15b07b7caf925298386ff14
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/ukraina-atakovala-tretiy-data-tsentr-yandeksa-teper-vo-vladimire-polzovateli-po-vsey-rossii-zhaluyutsya-na-sboi-v-rabote-servisov
+title:украина атаковала третий дата центр яндекса теперь во владимире пользователи по всей россии жалуются на сбои в работе сервисов
+seen_urlhash:88b55ef5383e91214dd2691c2260c9ffb0110f0ae01f483094e0c59111e269ec
+seen_titlehash:6d10d2dccfe6ce1f7388f553e9b2447a0028624e72140e7c90efcb439c6d4bdb
+seen_reason:processed_not_published
+url:https://ft.com/content/7553fae9-f65a-4101-be93-cdac921d4c2f?syn-25a6b1a6=1
+title:smelly seaweed and strong peso hurt tourism at mexico s beach resorts
+seen_urlhash:e7230a84beedb6207780139becd478d815a03a60b1f451d7ca7891bb1dcf63b5
+seen_titlehash:9fc27b917b7414de6e68fad3fbf4cd7da90caf8a214290f39c85f871185db7d2
+seen_reason:processed_not_published
+url:https://ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1
+title:india s cockroach leaders released as movement calls for more protests
+seen_urlhash:c910022d5c650ed2683dc0dc4b564b18f0ff1b81da3efe8cdb4a23f72ab493d2
+seen_titlehash:b20fe53bfa3a5accf1b02e967a0266c8d8a635ca777aff545df5568836961a72
+seen_reason:processed_not_published
+url:https://ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1
+title:us justice department probes tv networks over trump pool coverage
+seen_urlhash:c112a6e365b4e554d84901ef041b13b34e37c7bfb4be034c4cfc670fbbb263e0
+seen_titlehash:26e72d8eb3637228527feecc899f775788188987d4c49d9d533f2c2ba9dfdf1e
+seen_reason:processed_not_published
+url:https://ft.com/content/3aa9641e-55a6-45fd-bd08-1806306716e9?syn-25a6b1a6=1
+title:uk could be fast tracked back into eu pro brussels group argues
+seen_urlhash:79529003bde1f5ac359099cbba86fe13dde6076593e7d0df89c472c9e6f9076e
+seen_titlehash:a63229898e338f0ca93d4f4e5392186f53de02d34e5986ecea0a77676f4a096e
+seen_reason:processed_not_published
+url:https://ft.com/content/cfb7a7a9-90c2-4ed9-8b3b-e8477430d77f?syn-25a6b1a6=1
+title:energy secretary pushes healey for more budget support on rising bills
+seen_urlhash:c00c43d4ac6a5b62a232d98515af70bf6820a378d5298077690daad0bf334e17
+seen_titlehash:40fd3fd19a6b6a4745f39102b07a9b2cb81c7189403de42a2ea582116cf91347
+seen_reason:processed_not_published
+url:https://ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1
+title:the fall of germany s ex spymaster
+seen_urlhash:02d64f34fc9eb48edfb9a4d266d0f73e8c146e35733c1e84604bec97cc3e9479
+seen_titlehash:20e8e9867d467047f533fed71bfc93531daaaf592d77112a25735587d6cae6c2
+seen_reason:processed_not_published
+url:https://ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1
+title:russia steps up bid to kill european defence chiefs spy agencies warn
+seen_urlhash:aa8633b376422a7613ff63963daa9fb9b344acc0cfb1780e655407eb863e247f
+seen_titlehash:d34a9e9929a8195b10967b1407750b66eff8521c475dc4af4282d913ec0bf69d
+seen_reason:processed_not_published
+url:https://ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1
+title:china s growing debt burden limits space for economic stimulus
+seen_urlhash:640724e283990840510633306da246dd0613a3961fe98cb6a8e27fdac4058ee2
+seen_titlehash:f283b7ddc5320bf74227cc758c40b5eb8aacbda57195b1673c2a86a7dd307c9c
+seen_reason:processed_not_published
+url:https://ft.com/content/b9822f5d-260a-4db0-8ab1-7551c5907a49?syn-25a6b1a6=1
+title:heart disease patients treated at home under new nhs scheme
+seen_urlhash:490ca664aa49b1efa385345de47727f3062595a9bd95588b3a7d6ad1e9bf0155
+seen_titlehash:236b9654be3aecba42c9deb8c44bf67dbd5d2d7491d6f648be9c8a6bfa913cea
+seen_reason:processed_not_published
+url:https://ft.com/content/9a97cadd-ac19-432e-8850-090f59e8d00a
+title:what would israel s opposition do differently
+seen_urlhash:71fce1eae925662b23773b2965b096f7920d8709c1e5ab441b2a9316248c43a7
+seen_titlehash:34958b3ea7db848e084e125ccc01317a8f4a850c4a189087bb6e695029366d57
+seen_reason:processed_not_published
+url:https://ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4
+title:why are our children not flourishing at school
+seen_urlhash:4b27444cdc56797373f5269c45e9d053b17b7c6f9b52f9314aad55a7edf5c479
+seen_titlehash:b8c86e6f741e887f1cf9a7268b4c07e068068af71afe62f3a4b40c10c6686147
+seen_reason:processed_not_published
+url:https://ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a
+title:trump is failing to arrest decline in popularity ft poll shows
