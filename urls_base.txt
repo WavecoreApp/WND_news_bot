@@ -145248,3 +145248,263 @@ seen_titlehash:b353ddd6cda1f79a329df6b43003e0e76571e36b1d9be2798df3a7fdcc20714b
 seen_reason:processed_not_published
 url:https://ft.com/content/b1ff2ac0-843d-4b2a-b848-c840a2decfb8?syn-25a6b1a6=1
 title:healey rules out cutting mansion tax threshold to 1 5mn in uk budget
+seen_urlhash:3f9af47620056a03e9172ee9fd2bac3fd641ff3c6e448c11b07e4e4a706d54e7
+seen_titlehash:4dbce9534f3a7374a5e127f95260a27243576e54a858b301047289dac896ff28
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss
+title:poland detains man suspected of planning assassination of pm tusk
+seen_urlhash:5b79442c87fba66a25bb8657a38bad4b027b769f9108f54bc5ab6add64f7ff10
+seen_titlehash:d9208cc1b619f696aad10d9274e23c08c457d935c02c60db24cf187be0e4418d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss
+title:dozens of gold prospectors killed in strikes on egypt sudan border rights group says
+seen_urlhash:fc698b5a4db12c0ade166df0a3ff4486fe59a939245e786444f609adfba63e4d
+seen_titlehash:ff380b693b6a04fb36296ff1d3bcceb84c062d4c44259e94782cc6ee6ee3a6e2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss
+title:orangutans released back into borneo forest after devastating fires
+seen_urlhash:6017cbd4363fa3406cae11d6314b88c25a2b7f758d376c3f11d924a12e5de4eb
+seen_titlehash:de4cb572a991c112f13527c41215d73d37ed28c6ee46829582c5429248d36716
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html
+title:an israeli election like no other
+seen_urlhash:2beb4b74067f619f8630458e67871a5c179867b79dc3f3766608698195740713
+seen_titlehash:32f37c35d0910e11308e22d71cf2933449333a840bba2bb828a5320e355567e2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html
+title:saudi and yemeni airports hit in new round of strikes
+seen_urlhash:ada1a8e8408987b10181c9dfe4d4d7afa46b80f98a4bd7b04676bebeae3ae228
+seen_titlehash:96686bf15e9cd2cdd9b510bd292a0e054cf186401affc3f0877c62d12bde7c72
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html
+title:india s youth protests challenge narendra modi
+seen_urlhash:875ddfc7abde783c6562167a8a71276521a191d0d0675d9a092a0f7ad2dafeec
+seen_titlehash:ee75451998a5c1bfb27686b47e421e67b2219123cdf73a69e05d3af190d9ee6c
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages
+title:thousands without power in florida and alabama as isaias moves north
+seen_urlhash:f730535dedf2cedcd5e113e62a9ea1d8e952c1a9b8f8ad333e52be3054b71f80
+seen_titlehash:9c0f9f95d0588a2ba378c769f0aa150f846b267385ecf1ddc4f29dd7991e9621
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry
+title:volkswagen boss backs eu plan to bolster domestic european industry
+seen_urlhash:e5362b3e4eb0f2b9e2d7ef3bc84062a3b6f542f92af499c0f8a8cd905da11c0e
+seen_titlehash:7adf9d6b4ac777ad6f909ac04d0f9189eaae3dff81741cf4bd000bd53d483036
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb
+title:politics live greens call for us execution live stream to be blocked frydenberg doesn t rule out politics return
+seen_urlhash:fc0364a9f83be29a82bf4b15a1f80142cb290347c05b68217ba5cec700acf42f
+seen_titlehash:2d2ede447cf96af9ecbe0280c0b3eac8371255c64967f69dc5b07546ad177002
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss
+title:uk greens leader seeks rule change after party declares zionism is racism
+seen_urlhash:090d3f18b6ff2e8c38639497567798f207a48d06a1375a7a288f277d1aaea006
+seen_titlehash:f16024d6d9b9653be664adc20f73f4b9c021ffc5c2666ef549f44b76758953bd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss
+title:two killed near israeli occupied area in south lebanon
+seen_urlhash:27c9ec2cc7a7582e98db31502abfdfb348e63d37b69913e5cf70fa67eb8cdd6e
+seen_titlehash:d4ad7c34453de192396f17195d771c9c336da33fd1893a5111859504f3f4a424
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss
+title:deadly air strike kills dozens at sudan gold mine near egypt border
+seen_urlhash:c3fd32f98df3da341e45dd0c6c0e032e7c69e1568594af4b05d100d2d1fe031e
+seen_titlehash:c101085928deb359b4187ae51a49ba6afe55690e951225a28254bda5ec69a260
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss
+title:how man city beat liverpool after guilty verdict
+seen_urlhash:91630b8b63804ffc988bc88155c04a643d0d860593c6f50694579b4536d5ac82
+seen_titlehash:fa0b66e710754e35acf2c16d9d0bb213e8bfd120aea353f4641f7b44c44024a2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss
+title:zelenskyy welcomes us announced energy ceasefire
+seen_urlhash:3fd0d72008f8d498cd49a84adfc17c78071623dcfa1dbad8b81bce2cc39e41a3
+seen_titlehash:91576f1f4babc4e838479aeecddc5fedbc5b35272cfb3e7871ab2b93ecbea15f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss
+title:syrian families demand release of detainees held by israel
+seen_urlhash:014157a6d862a903f212d37499cd52a51ea523daa2a4291d30c6b3a11116dcdf
+seen_titlehash:ebfab4141ea2ca0c4c4f07d7d21b6998fd6321ed46e7303ff165449298d073fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss
+title:pakistan suspends imran khan s party led provincial government
+seen_urlhash:58997587988f27b408d1fb8432f00d03f7fd7504c83037e96feb9948d5ae484b
+seen_titlehash:f8c3de06568a53f18a3f8a767826f3f6027e40cb68157a1dafae7ff24c3a0f69
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss
+title:saudi health minister visits survivors of deadly riyadh airport attack
+seen_urlhash:37be5a374b97ac1025426a64db9f0f071672add5af7cd2a1e530647d3b4f43be
+seen_titlehash:70f49e6415ab20367aef0a5453299b4e76dbc7e5c4627da3ba302c71ebb276a8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss
+title:mexican president urges residents to shelter as hurricane simon approaches
+seen_urlhash:5a88dc37abbbb356200a43956200557b367d7bc3da0a1e75e08964486764f7e0
+seen_titlehash:6b8aeeb74f3f6181af4c19d1329ac2f1c7e53b67fa8cda7538769ade5e4bb50f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss
+title:republican senator says trump diesel agreement with russia may be illegal
+seen_urlhash:3215056f6ebee446b536ffb010e592a11047a035276673a016c9f3b6139114a5
+seen_titlehash:3671e2bd41954998964f2f19c462808747518b91e82a93c7659f5eb0d20d5e8f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss
+title:war and high debt to dominate imf world bank meetings in bangkok
+seen_urlhash:43051ba9d0ae8408cd463728b705ab1ca56fcfd7985a79973764ed7e1c1fd3fd
+seen_titlehash:e79f8969393c7105007d002752367364eaf700ace6180fed9a8c706fb5207254
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss
+title:jerusalem daily panicked palestinians flee israeli attacks on gaza
+seen_urlhash:7b1c657e303cf07fc7bf78d8a6843027b59708617f610ad3d2df67d6c91ee4ca
+seen_titlehash:99731f7defc2ac11cefa726441d330b3e499f23cb9fe249cd8bae98f399fc0f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss
+title:lebanon s first electric train hopes to revive railway system
+seen_urlhash:9b8b38b35ba3511924d1c9803c89515370f29df264a0be88c3b08b08a8ca12dd
+seen_titlehash:d03ef8be02e73e4d524d810fe300ee5b0eb384ba7e38d700f3eca9fbce6d96e7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss
+title:liverpool fans give manchester city a fiery welcome at anfield
+seen_urlhash:b996187d4d64b256d7d809fe060d7b6f1055f9a690e7f5141e8b0fb52dd2246d
+seen_titlehash:28aed3e9ec35f97816481fd97ec9f876e8c983d18b5eac9a1e9f2bf2213a5d68
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss
+title:man city beat 10 man liverpool 3 0 in first game after guilty verdict
+seen_urlhash:77a91f6e098af5aab8a40243578052c7068f5bda22fe5dbab2b75a0aa47d9cf5
+seen_titlehash:2f6bec1985fd5a14dce23938e3149861cd2843c780dfaaf659ab979bd20da56d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss
+title:is the yemen war entering a new phase
+seen_urlhash:06caef319ea3f8a28e05af90ba9885df60f85820e002e8681258419893012fdf
+seen_titlehash:e03972e41659e80fafe5c9bc67f3f7617c8b4da2a94bafacd6f983eb71cd46eb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss
+title:israel pushes its yellow line deeper into gaza
+seen_urlhash:528aa25a30f8223189288b044eb03b05d1c31efd9f2c17ce3ec7ab5e0df9c8a7
+seen_titlehash:c50d299f137de3359b482f0d05c32dea012471f5436bd05faf3ef1d8d9243939
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss
+title:who will represent us palestinians react to election delay
+seen_urlhash:e1645964a179cd835cf03e199cea9f5547d5845833a059b33a9de7ae5a96cc24
+seen_titlehash:d17a7e03a07df30029c744eb82a157deeb37453f0908e74ac357f0a09b36a33e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss
+title:turkiye highway crash kills 11 injures 27 after tour bus hits truck
+seen_urlhash:ba59ee0ca4ce6ba909f760079c29e50cba60c87efc98b2da1c4532ba40d4a929
+seen_titlehash:28a3c1d774172393668510c0b1e6b67c939683b3d9c878e23f087dc98f8b09fe
+seen_reason:processed_not_published
+url:https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904
+title:at least 72 miners killed in airstrike
+seen_urlhash:9199f8617235d92b7c6bc65db753e451339207ff47b83cebb5fdc2485d27793b
+seen_titlehash:7d7ff79b17d5836ccace0f92d2b1c9866884f490c72523115759d0cc1f9f124d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796
+title:pakistan s president declares state of emergency in province run by imran khan s party
+seen_urlhash:9ebbc23862ccfb06daf1827050b81253a9a7b615be669acd584891c1801c4965
+seen_titlehash:afa3d572c840e7043c9f5ae54bd99f76d7b64010cca4f527139b9c83ec74564f
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote
+title:uk pm burnham warns french voters of russian political influence on back of brexit vote
+seen_urlhash:fe206a258fc1e9b80294c9fae38d05c15302f80906db53971505f43e6754c9bd
+seen_titlehash:1668ed46a30140bca39366484f1b79f926f91a041b0744674c01f7bdeb7473ce
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president
+title:a profile of raphaël glucksmann the man who wants to be french president
+seen_urlhash:c40da621faff8522868ab0cf622ea200f1547f19275e86d2df80581238d7f16f
+seen_titlehash:c63a6078dc305b87883acc633b1abdf835bb3e6c00715c7ecd873b7c652ef8d4
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote
+title:raphaël glucksmann wins french left wing primary with 66 of vote
+seen_urlhash:c40da621faff8522868ab0cf622ea200f1547f19275e86d2df80581238d7f16f
+seen_titlehash:c63a6078dc305b87883acc633b1abdf835bb3e6c00715c7ecd873b7c652ef8d4
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote
+title:raphaël glucksmann wins french left wing primary with 66 of vote
+seen_urlhash:f7e1d40d979aa0395ae1bc31a90759f10660656bd5c7bfece036598ed2f0a960
+seen_titlehash:81644c10277c61e2a342fd7a642d2f4ef170cc19aa5b745ffbad1c183e694bd9
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner
+title:ukraine coerced into a corner
+seen_urlhash:3343149af0e84c29ea872581abb5725f6bd45b0c1178fc8af93afaf67801b5f2
+seen_titlehash:ed528ffcb2ea8298c390e7532f2741b819dbae94ee5b78107dcefe4d20865a40
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-заявил-об-ударе-рф-по-тэц-в-харькове-после-слов-трампа-о-достижении-энергетического-перемирия/a-79634996?maca=rus-rss-ru-all-1126-rdf
+title:зеленский заявил об ударе рф по тэц в харькове после слов трампа о достижении энергетического перемирия
+seen_urlhash:d115c54224b6ccef8b0f6ff29de3fe73c14d765455f4ffe3a11ce095a9be05ae
+seen_titlehash:3c94f8cab51a5579724f8731bb2d2ff1a139386652bec535becc710f9925ef1b
+seen_reason:processed_not_published
+url:https://dw.com/ru/феномен-макса-коржа-как-прошел-концерт-белорусского-рэпера-во-франкфурте/a-79634875?maca=rus-rss-ru-all-1126-rdf
+title:феномен макса коржа как прошел концерт белорусского рэпера во франкфурте
+seen_urlhash:8d2bd6fc5c7a064bc9bf0240b9480d74405c8b6b538080fddec974f5370b8da4
+seen_titlehash:bc5f128b0eb12df953a8d83f9fb77869dbce1274ff117689f268430124f65c9f
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-рунете-произошли-масштабные-сбои-после-ударов-по-дата-центрам-яндекса/a-79634682?maca=rus-rss-ru-all-1126-rdf
+title:в рунете произошли масштабные сбои после ударов по дата центрам яндекса
+seen_urlhash:3389f59cd4c8fbd3444ba26e3c874d268e435ce2cf91a11908b39e9fcc195307
+seen_titlehash:e0e7f58b69f1e46cb490b2fd716a0a468e0cc3741f165d58a7ecb53ed4e71a26
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/ru-judo-japan-reclaim-mixed-team-world-title-with-eighth-gold-in-baku
+title:дзюдо япония вернула себе титул чемпиона мира в смешанных командах в баку
+seen_urlhash:c05b5e76f929a528110483ab814573c35e369cdf70e870e60204d86c02c708c3
+seen_titlehash:b1fcb7a25c5bc6ddef862c88a4c54f2ece5ce647c26434362015f3cfe129b1e5
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/glucksmann-wins-socialist-primary
+title:праймериз французских социал демократов рафаэль глюксманн уверенно побеждает в первом туре
+seen_urlhash:fcbc0e292e59b93a3e76e25959823a1361d55eca5d1ec051aaaed1b9ea5fd1c0
+seen_titlehash:0bdabbff60a8191c65652f1b3a73b4507e8221b6dafdf8e7db1309817e3d0d79
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/shakira-record-prime-video-es-team
+title:шакира в мадриде бьёт рекорд amazon music по просмотрам своего прямого концерта
+seen_urlhash:b75c2dc433d1058f77b7ac5bf35c4353fc6c6528be8e7f5736fd9683415ebf0a
+seen_titlehash:530e933c387832bd6d8092566da0baa24bd2dafeb2adda795e0ca42834bdeb2a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/httpscmseuronewstecharticle9947954event2932769
+title:антарктические пингвины ежегодно выделяют до 7 млн тонн метана
+seen_urlhash:20516f30197c3b411d9261ac580c660b6f1698f894433aa6ba8c05ff20bbc0b6
+seen_titlehash:46c52b075ee041be79c249470253eade05a9397c72fa368898215748a5583967
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-causes-budhi-gandaki-flash-flood
+title:непал объявляет эвакуацию после селевого потока на будхи гандаки
+seen_urlhash:4d82a07f35f3733b98e1c3c9224fa89c2e8e7ff6b95ce4f2e5b1430df6f2b6e8
+seen_titlehash:d59f8e66a01c059295a021bbe89420cf822325f82e193247d1abd39be3c68f65
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/na-mitinge-v-bryussele
+title:десятки тысяч на митинге в брюсселе требуют от ес действий по климату
+seen_urlhash:04fb22f360bf49b89bd76c35a6f9b14fbb7bba360c88a5767ea5abf6bc91fe8e
+seen_titlehash:470a17904f3a2507043ee7d982d6a8b13d5c4370fea8a334b4a3026ec16a07be
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/11/pope-surgery-announcement
+title:папа лев xiv в ближайшие дни перенесёт операцию по удалению узла в лёгком
+seen_urlhash:2f25ad679c3b2d0014b5b4ffcc44d00edb0f35875fad40cffe8eb95cac0bd2de
+seen_titlehash:1cf61c28a91fdbb9d64e1c132d7ed5b2497b6c2ae681184369451c301abdd10c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/11/zelenskiy-zayavil-chto-vsu-poluchili-prikazy-v-svyazi-s-energeticheskim-peremiriem-o-kotorom-ob-yavil-tramp
+title:зеленский заявил что всу получили приказы в связи с энергетическим перемирием о котором объявил трамп
+seen_urlhash:6f07313d967433073ccf1e6fd765d32bbf291c79c585a9c1a0afe4aef490d1a8
+seen_titlehash:a506aab4ccdfafb9bde24b72b123a8c9bfefb64eea0a0880bd0fe6de44906f44
+seen_reason:processed_not_published
+url:https://ft.com/content/655af6f3-552f-4f51-aa52-02168cdae4fa?syn-25a6b1a6=1
+title:raphaël glucksmann wins nomination for france s centre left
+seen_urlhash:c7afe224b337db66f5ae023da56341a9f7f5e781f6c8fdfeba34b7f58ccba75d
+seen_titlehash:1f28e970f95550e9c623f96b85c38390aa8f82f8a180ee7028208fa3485647ac
+seen_reason:processed_not_published
+url:https://ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1
+title:eu safeguards hybrid car sector from chinese imports under new deal
+seen_urlhash:786913ef475003a1041caac775ba1fc032d0c08ddeac9bc60fc2e6dc0d9ef7d2
+seen_titlehash:2e4bc0c437e0661d033d237f59c78ea4c7de9379df73ff67ab413f9e28e0fde1
+seen_reason:processed_not_published
+url:https://ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1
+title:us threatens to block arms for ukraine over attacks on russian refineries
+seen_urlhash:0665e061266da4566f0eb5962f21285be6d608f8abce81b6f780d56b961a5c22
+seen_titlehash:b2157394ccb71e1f1e71fbf1872c2f54298eff4f4122a52211f611bdbf24a4b4
+seen_reason:processed_not_published
+url:https://ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1
+title:vw chief calls for france and germany to co operate on china car fightback
+seen_urlhash:2aaddec1f85874ec3159c3c30b520bf8ddea25735976f6021f1612033754c7b9
+seen_titlehash:d8e7fe441de5ee114f9c5c7ad8f190da3675dee11b846aeb04c65f9f5dd7dc94
+seen_reason:processed_not_published
+url:https://ft.com/content/5b90cdd3-b78b-44ee-8045-8a0602ac0ef4?syn-25a6b1a6=1
+title:imf and world bank to warn central bankers of a gathering storm
+seen_urlhash:7dac7bda9ebbf04165ff36516ed1b6fa00d5b22daf25b876a3e9bfd7c9c8e1cd
+seen_titlehash:5032611dae628d4b00d4ebce6fe99d3fc9397b28038b503892fcce53a9aeb883
+seen_reason:processed_not_published
+url:https://ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1
+title:can russia meet trump s diesel demands
