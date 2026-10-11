@@ -144283,3 +144283,93 @@ seen_titlehash:2727542641133db12f60dc8d65de670f6db1d695434829548487ed932b1476e0
 seen_reason:processed_not_published
 url:https://ru.euronews.com/video/2026/10/10/novosti-dnya-10-oktyabrya-2026-g-dnevnoj-vypusk
 title:новости дня 10 октября 2026 г дневной выпуск
+seen_urlhash:26dae2e90675a16c72ab34cdc1c57004a73ddc2e447e479211e56648fd4af50e
+seen_titlehash:1ab5c17734072c47b227dd9c386b45d8acc219f3709c72d3579e426fbd5fb929
+seen_reason:processed_not_published
+url:https://theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record
+title:my body is still peaking eliud kipchoge wins first marathon in three years
+seen_urlhash:ff9df030c90ce16aa4993d8967246bdaa02a6a77e67b7cdc95dff2b9faf1cfb7
+seen_titlehash:ae8009c44b1ffc2286b645bdb6dd3f41c801c2511f2cc27c0014d5442d6c78ba
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss
+title:ice agent in new york shooting also involved in assault of pregnant woman
+seen_urlhash:d0c2741b66627c2637c6fd287124224eb0f4c1149da67dbac4248e894920586c
+seen_titlehash:98ebb90e0cd5f442bd92e02f69a0ce7fcb029c60d4e02b966c184b6b83b193d7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss
+title:taiz hospitals near collapse as houthis tighten siege yemen government
+seen_urlhash:f9f5359e3102075df5a90316da3a42884386fceaca6a680de38ead75ab7801ad
+seen_titlehash:0b997815b5295fd441086b8d874a23bd1838f4e955ab960d050743cfa387027c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss
+title:us forces disable ship attempting to run iran blockade in gulf of oman
+seen_urlhash:da07e1d3006bf51e12302e8861be5b919b41c2cb2b86b2fd5cc8bb0b89cc00e8
+seen_titlehash:3bef27a68fc8bae673ec5a23783aab8b6714512a4af0dcedb9e56a6a254fa95e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss
+title:world condemns deadly houthi attack on saudi arabia s riyadh airport
+seen_urlhash:07e1fa573a0f16e7966180befe65fe87375e28d87cd08ec675c6a3535f6d7abf
+seen_titlehash:5ef5327e208eb313cbee4cf64c4c6846c1111b08e28a8c5fb00c9d7ab5c8da9c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss
+title:trump may join saudi strikes on houthis after riyadh airport attack
+seen_urlhash:cd7e39ad5b9401340124984f71a91e39c44c9e3f60dadba78534382f59bbb75b
+seen_titlehash:2f8f37bfa8bfafb08f58f7ed7ce54808c77b30548272f0b7841d92b849f03a75
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss
+title:man dies after entering tiger enclosure at england wildlife park
+seen_urlhash:703ff1430263bbf6b8bd35d6a1ec7fb59da0cb0aec2011f24236897f9d09d358
+seen_titlehash:0fd0128d73f3e09108af4d340f8cdbc81e18d353b3d5717931adb0340ad27d61
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss
+title:global pro palestinian protests one year after gaza ceasefire
+seen_urlhash:237dd8f99c0721d43f389d6145de83a172edfc9a624e46adf6cce82cf849a498
+seen_titlehash:851445aba3622592b775d8864707b3402e9110ffa902b4e02a1adde4535e1b2c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss
+title:twelve killed more than 300 injured in riyadh airport attack
+seen_urlhash:dc4d789961929228dba24e5269a9f41203e7ec9b2ea1b90acdc7961836243d02
+seen_titlehash:6cd56db2ca1d968b423143c9b6ca9f16ff2a23398bd51a16f2d5daf8c7c61b32
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss
+title:ebola spreads in eastern drc as kenya confirms imported case
+seen_urlhash:bf06d3127b78a19eddcb1ad88531694f8246800ff762ab5e99d8e2b32ed21df8
+seen_titlehash:33eae1c8d6fe378c1509b1b8ba65f9dde9393eac4a1d2cfabd81bfea8a166267
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss
+title:iran war live 12 killed in riyadh trump to speak with saudi arabia s mbs
+seen_urlhash:82fe8f3fd8ad4d53599a1609d36824ad1561ace3b42f1e283f02dcd0d34f66c4
+seen_titlehash:c5707443f920f9bd748968633f940dad60f108b8eece1ef4c7d40d3383d9ef37
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-конгресс-сша-внесут-законопроект-о-запрете-закупок-нефти-из-рф/a-79630889?maca=rus-rss-ru-all-1126-rdf
+title:в конгресс сша внесут законопроект о запрете закупок нефти из рф
+seen_urlhash:d9d19ad8dedc553354dcfdacd97b767fb95168739560160ad320ef8a8e60b754
+seen_titlehash:ab587f7458fd1bd9bc6d60d19f21949687fd99186b8cf3490da98b905a8b48a6
+seen_reason:processed_not_published
+url:https://dw.com/ru/вс-сша-вывели-из-строя-судно-в-оманском-заливе/a-79630869?maca=rus-rss-ru-all-1126-rdf
+title:вс сша вывели из строя судно в оманском заливе
+seen_urlhash:eff2010887093ce8663e86219e4be7eec183585a5e4f1edfe4be5783df787c73
+seen_titlehash:dbc6ddd3834193ed32d3394d95bc1a2ca243be8c53c1e78da60a08559fa7a799
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-пна-махмуд-аббас-перенес-выборы/a-79630850?maca=rus-rss-ru-all-1126-rdf
+title:глава пна махмуд аббас перенес выборы
+seen_urlhash:fc378d4f71309d984daecfc7a4b4e7ea751ac1ca504c89bada97559d824abc16
+seen_titlehash:451def1d5509630202c2288e1bb6b054bd5a3edc352d3f448af6a0a3c4e95bd6
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-на-аэропорт-эр-рияда-погибли-12-свыше-300-ранены/a-79630734?maca=rus-rss-ru-all-1126-rdf
+title:атака на аэропорт эр рияда погибли 12 свыше 300 ранены
+seen_urlhash:9788dd7422853cecc169104e4b1f9509a49164954e5fae88555cf261f09c52c1
+seen_titlehash:1ff38cb9d215ff98d00000431998cbbd1d098ba85843c73a092874501f8a86cd
+seen_reason:processed_not_published
+url:https://ft.com/content/09cde3c2-26d3-4390-8fc0-f6292561a5bf?syn-25a6b1a6=1
+title:global private equity fuels indian healthcare s push into smaller cities
+seen_urlhash:37d5c5d8cc37b6370879830cac940c9a7ad1623b18df9c2e4c928015c5cdc3b3
+seen_titlehash:a356f9210f700ee71c65e994ab90e9ba31b95b5c970316bc569885d071dc3ab4
+seen_reason:processed_not_published
+url:https://ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1
+title:us hits commercial tanker in gulf of oman as tensions flare
+seen_urlhash:e17664f83255dbdeef437995254eb1aafa0a152636281f488bb6495f215c2428
+seen_titlehash:404232765232f1bc4bb05f48cfca31610be1b58004098efa7c64c30ace2bdf44
+seen_reason:processed_not_published
+url:https://ft.com/content/ff4ec1b7-1ccf-4aa2-8ca0-8faa3bfa0c6e
+title:the prisoners of war at the heart of korean ukrainian tensions
