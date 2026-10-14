@@ -148858,3 +148858,153 @@ seen_titlehash:2e8029ed64f52f77dd94d8e90c339364c0511a6ce9f1416a4044166483e6287d
 seen_reason:processed_not_published
 url:https://ft.com/content/b77a0094-c6f1-449a-9323-2b4d16696cb7?syn-25a6b1a6=1
 title:russia arrests japanese journalist on espionage charges
+seen_urlhash:958f4d19e47bb58b3fd168655ee1899c64ffa6f565402c567950a5bbae3ce098
+seen_titlehash:a53808c7ec262a8d85405529c7adec654449d26190f0c3c1aa3db2c1ac3e9977
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss
+title:germany puts ukrainian on trial accused of blowing up nord stream pipelines
+seen_urlhash:7431dcec689344db3ae81532823140345212d93d1f0e9fc804332f3f6bce538d
+seen_titlehash:0f03914f95ef90dd15dadbf3bdddc3f5aebe04e80f5ac72316c6136ac56f066b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss
+title:zimbabwean author denies using ai to write award winning story
+seen_urlhash:8b17a08eb5f225fd98e22d582420c93043bec576f1e236c8557e18e71a452b2e
+seen_titlehash:608dba0ad79700d7294de12750b839b33ba2b2a8e9d74db72adb63179225bc51
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss
+title:what we know about the man who died falling from a six flags rollercoaster
+seen_urlhash:fa8f9356d0df88fe8abe5d4807ec818e3912b8675d4feee9df7d0089eed619d7
+seen_titlehash:4280c7f2b7a4675f783143c373d4ba00517afc34e01c4095bac26846825fde38
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss
+title:watch witnesses describe traumatic moment man fell out of six flags rollercoaster
+seen_urlhash:8dc27c90c786857b44a57b22e8bcf59db301990e485e8f658b00df35b9552db4
+seen_titlehash:7c8534d0aab848be04445bd953241727d1dbb85df3cdaabe3c7902d4448c2634
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html
+title:pope leo s cancer surgery draws outpouring from world leaders
+seen_urlhash:d4c11df4a072a33af23f0cf1a1facd48ad41f133deefefa902a5abdc14ca88fa
+seen_titlehash:3c2adba3dceb9537c3875ab92f2db6aa8e5692ecdee3dbf97b19c2c2685f8b90
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html
+title:leo xiv s lung cancer diagnosis tests a papacy still taking shape
+seen_urlhash:1667722dc3888630324b54648037c9b48b42d4d57dac3f9de8c61eca10077343
+seen_titlehash:5e1ed37db17974491fea4ee9223c734805d654117d2d2878a24e57f9dbb4020b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html
+title:senators urge trump to reverse diesel deal with putin
+seen_urlhash:89f641dfc47a5d482915e54d9258415bbaba5dbd6f0d4aceaed3526170a5e87b
+seen_titlehash:3a1d47a8d1d5cfdc23427aaba206ec2a8bd423761bfd1e1f5f89ec7760a99def
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
+title:russia arrests japanese journalist on allegations of spying
+seen_urlhash:647dbe4b6ea1cc73c086e9a4e5554c0aaa9d63683aa1637e48d9d975b3461803
+seen_titlehash:8b3617c33f77fd6608339b1bdfda801fe43a4740ab8d1092e95796ddbca0a697
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest
+title:graduate student accused of poisoning colleague and trying to flee to china arrested at lax
+seen_urlhash:29c5cbd0248e852a6a9e8dc13c7ea8a4f33ec4d125b8f4214d3a376d21f9d971
+seen_titlehash:c82b3edcaedb22706ed1bc8a42156a2fe15a17c1eb2b373e7e6923e4b09443f6
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb
+title:beau lamarre condon trial shown crime scene reconstruction as ballistics expert traces bullet trajectories
+seen_urlhash:1f2af62650ddd55d2357ea8adb296c302c715934b2342dadc52155322bbba6c8
+seen_titlehash:ddfca009098e80dc441021d67b0eee85e235963c60d0e35a7bc650a7e91d3575
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney
+title:court overturns tanya plibersek s protection order which company says blocked controversial nsw goldmine
+seen_urlhash:a552f13287b66f79521c289931388103280588b9cb6634c5c42dfb11b8517ace
+seen_titlehash:ff86b1388ea455ff0571e01a40f9b4293e5f1983376e78cc3d38b66e60923a5c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/14/rachel-smith-will-turn-39-in-prison-the-high-court-says-she-could-freeze-her-eggs-from-behind-bars
+title:rachel smith will turn 39 in prison the high court says she could freeze her eggs from behind bars
+seen_urlhash:3b1a4d31ded306149c4e8bee9bb438c5a333c353e62860ed58b69d5971aff554
+seen_titlehash:f5f79bf7d2d4543166f169e7bb2d7fe98ed7bca4cf77bd7724259e91b7baa9f9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/14/jim-chalmers-denies-anthony-albanese-rolled-him-over-credit-card-payments-for-tax-bills
+title:chalmers denies albanese overruled him on ato credit card ban after pm says i will get it done
+seen_urlhash:b77c6235616ce0eb7eaf9d912d51242ad9425eb4a5f2f3bb5b5d33c747d911b5
+seen_titlehash:0864903a609fdaa86fbdc3316fb46360195ef84ae313506ff9a45be555542a2a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss
+title:violence in pakistan over emergency rule in imran khan stronghold
+seen_urlhash:2a91c212522c7464c976ee3844a57ecbe6506a204e6c6197b73e7c0c49e79551
+seen_titlehash:c656cafba3f5f22235136268711cb53c2724e80a7a503203c6592b19e0a31214
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss
+title:jamaica accepts first flight of third country deportations from us
+seen_urlhash:e487a0fffc7dda73c8dd6f6ee165d09947c63163a9c0ea9c5c47f0cba2b703d7
+seen_titlehash:6d1dc3566a44e2bf5b1c717c1e0f966d43ce1812b15610eb38115808663c2894
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss
+title:colombia peace tribunal charges ex farc members with anti indigenous crimes
+seen_urlhash:92dc8883cd58dbba29b2e1a79e0bbf4985db840815755312c05c5de5ce16a6b4
+seen_titlehash:8b4305ea20973aec9fe3ac1eb1b6cbe7a7c481414f0d3ff9db7c62991b00bef2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss
+title:us fines bank of america 1 2bn for money laundering sanctions violations
+seen_urlhash:ba539de3ea200f5e2503e222bf20756f839bd51c4fa4ff27c0946143df2be9d5
+seen_titlehash:98e06f92bc171d3ab4c39cd5923c2185fa4fcb497a44a6051ed5d3153ff4b59d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss
+title:namibia battles cattle disease outbreak as eu suspends several meat imports
+seen_urlhash:3da30f81604f3415690b04c2e748c1b4e91ad927933cd037e0de95953cbd7279
+seen_titlehash:57b9d3eea4381b09f0363e9a7b4c23da884978d22b8e978077c94bc4b4714b26
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss
+title:israeli attacks kill one in gaza wound journalists in occupied west bank
+seen_urlhash:3199bd7324145cb9faaff022544af0a664395965108684945a9994cb43ec633c
+seen_titlehash:5338e7a73d7e2517f532d76ea24588fc2ed68155d3eefd2f9d7c21fbb5c13289
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss
+title:how podcasts became political powerhouses
+seen_urlhash:896f0091c161d8697991d0332a02097dcf28f017236e8ff5901f93c006f51ce7
+seen_titlehash:6c033d8c7c1b5ef6a61e26f7293f363bbcd44a43ddc0faa3caa25362f7e9ccc5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss
+title:iran war live saudi coalition hits houthi sites aramco office hit in east
+seen_urlhash:80223fa2a567cb9bbeefa0b482303a188925b83602b27f06d89a36e7a5c6dbbc
+seen_titlehash:a8bb50a1c4e95fe41f3c0ea14dcd8522d870781381ab35d9114187f08a952869
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss
+title:openai engineer charged after listening device found in meeting room
+seen_urlhash:cfb3679b42e307ea678442f31ce971ab9563df653fbc9d460586c66f3df6cf51
+seen_titlehash:51cfa1b0c624758e4692bc86bad9ae9c82b801a432dbb7d40756f84d85604e3e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss
+title:ex gang leader gets 40 years to life for rapper tupac shakur s 1996 murder
+seen_urlhash:7f67af55c8e92da34711a75b6b6245cd1e12656c01262ae999500ef7a03f365d
+seen_titlehash:e3145df6141269a9b62fdc11cef14ac6477f96daacc5d761cd88f22a09100331
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies
+title:kyiv power plant hit by russian missile without warning from allies
+seen_urlhash:e5277335d99c04224b4694ce515a50466dac5eb19ed106b033efc5e209c3f158
+seen_titlehash:3dd2fc58062d44eaedf56712c7df764d4153b2d19919803fa059b7e544ede291
+seen_reason:processed_not_published
+url:https://dw.com/ru/группа-сенаторов-сша-призывает-дональда-трампа-отказаться-от-дизельной-сделки-с-президентом-рф-владимиром-путиным/a-79656182?maca=rus-rss-ru-all-1126-rdf
+title:группа сенаторов сша призывает дональда трампа отказаться от дизельной сделки с президентом рф владимиром путиным
+seen_urlhash:066b8e540573f0710dcebba5050a862ea5624fff277836f3ebbc9fac683cdd39
+seen_titlehash:5d9020da3d38a05fbf75356308040ed16a4ff481595b634d650f1c5a02027801
+seen_reason:processed_not_published
+url:https://dw.com/ru/японский-журналист-имаи-юки-был-арестован-в-сахалинской-области-рф-по-подозрению-в-шпионаже/a-79656073?maca=rus-rss-ru-all-1126-rdf
+title:японский журналист имаи юки был арестован в сахалинской области рф по подозрению в шпионаже
+seen_urlhash:594d13c90a9a968e7ba7296e28b86da223b7b79b481fe475c393fcbd42e55d16
+seen_titlehash:5f3830b87c10b5c715ab1d936fafac2025534e4fdc442d1573bd218e064d5b5c
+seen_reason:processed_not_published
+url:https://dw.com/ru/фридрих-мерц-выступил-за-гибкий-подход-к-учету-рабочего-времени-и-расхвалил-преимущества-12-часового-трудового-дня/a-79655756?maca=rus-rss-ru-all-1126-rdf
+title:фридрих мерц выступил за гибкий подход к учету рабочего времени и расхвалил преимущества 12 часового трудового дня
+seen_urlhash:fdcf029b66aaffa61865d3c4b96b292694f75ea86e20e3a0ff0799afa653febc
+seen_titlehash:9f371c3c3f9d41b03ab7fc0342c5786ced4ccde714d5e36094ecb85b3a88d638
+seen_reason:processed_not_published
+url:https://ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1
+title:us arrests saudi employee of openai for allegedly bugging its offices
+seen_urlhash:11895b521f212b16e300c56bedaf38d3315d072aaae3b4ee0c164ecacc9ac59a
+seen_titlehash:23b24acb74fac41f0de784d7dfdce76454480f15bc3beef0fa26afba6e4ade9c
+seen_reason:processed_not_published
+url:https://ft.com/content/1386e75c-d292-4e56-a6c5-c69b0b77ad7c?syn-25a6b1a6=1
+title:home of london s oldest restaurant rules given to national trust
+seen_urlhash:e9813cdf507e035c649d4a69ac10406f1e536e9a47ab01c6f856c5ee12b7fea7
+seen_titlehash:b1b87d7296e8f9fab6ec5b1380a29592e84f141b42e6ce6b977656e356f91945
+seen_reason:processed_not_published
+url:https://ft.com/content/3a3d3eb8-ff86-418e-9704-c1ff601718c4?syn-25a6b1a6=1
+title:tougher competition for internships strains uk graduate jobs market
