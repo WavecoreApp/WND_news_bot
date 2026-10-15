@@ -152413,3 +152413,193 @@ seen_titlehash:9cd14d73154f858140909903cd605ee5daf9d66e18e561bad8df1a0bbcc6f826
 seen_reason:processed_not_published
 url:https://ft.com/content/7604138c-a7c0-485c-b5ac-d86b16590276?syn-25a6b1a6=1
 title:calls to scrap employer national insurance for under 25s rejected
+seen_urlhash:f84172567921590d38230f8028031d701919c4ab93c4c80f3f9ddbe7a88c0071
+seen_titlehash:1bd728a5375a21692178b826614b2ea98ed8a6ec5fa3a265089600500e41525e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss
+title:maduro pleads not guilty to new torture related charges in new york
+seen_urlhash:79e55a8d4c600c5a32c5235a0734065bf8e3239f197df308f831701b487c422a
+seen_titlehash:1dfa53d6d1a0998659742641d90ba181f683a961e6c722796fa1f3570294f02d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss
+title:houthi missile attack on yemeni presidential palace kills two minister says
+seen_urlhash:e865793e173e858769e798303c81e6704bedb86748487ab8eacce49b31450eb7
+seen_titlehash:5e100fac24f80f56a180bdb545960661e9b50d6e46f2a7ee23530f8c23c075fe
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss
+title:was neanderthal life violent this wound suggests lethal fighting was more common
+seen_urlhash:2e7e6d06b389bee588195fb5120e1dfdbcd50d0dd7e2284ecf01df6cf15d8644
+seen_titlehash:4bf9b72618c544ecd396a7b63fc2a27dd606f694d72a6eeb4fbc5039f2451ea6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss
+title:letters with suspicious substances sent to us election offices
+seen_urlhash:b208905c6bf40dfc214aad32569d5b53d38ceb804c72c7e9d097008bc71e2c45
+seen_titlehash:1e92ebad4173bcbdf21b1f8aca186280040c6c44b39d86f36d3010caf5cd13a6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html
+title:dublin hotel accused of revoking bookings for an event to combat antisemitism
+seen_urlhash:bc60281e06cd6b0646ac8a5e6f339b7f9e5e5a8fab0179b33d38e3763bdc8b24
+seen_titlehash:c99be0cc92384963fca7fa80f7c5cbdbaedbe444a5abe329901a8bd87ebc67e1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html
+title:second ebola infection announced in kenya
+seen_urlhash:43149047360d81265b6252a77852f196525c7787611950a46694f9557de44b73
+seen_titlehash:061a563ce64972d6354aac32e7e60155a84017040aaeecb6897132acb8ce6b94
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html
+title:america s most expensive senate race
+seen_urlhash:c394940a29d69011d245f5dbd948722a5eac0064c7f6eb26e24d0b856b5a18c1
+seen_titlehash:09cc2f8b46d449f9ea90e404d3502eb4cad00b1883eb07992b9683c9c7f5e8c2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html
+title:6 members of south africa s biggest party are killed in shootings
+seen_urlhash:9f37a2ca393cce9c7db2d7671f9bcec5a5e5b30414e74baac48e688e6e8834f9
+seen_titlehash:27a410e2e650410d604e6ab1a6668a3406488f86a3f3cc1cc58bc17b42b8e865
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html
+title:20 hours after falling overboard cruise passenger is rescued near greece
+seen_urlhash:bda21ec43697984d32b53c8499914a170021bad13b8c599e03e7d06c061e3521
+seen_titlehash:e52d0960a4ee11d668d5ad3cea1154eb2f159d25f53c8cc2d6e57f4ef76cdbde
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss
+title:will israeli voters punish benjamin netanyahu
+seen_urlhash:1d8fa7829627d6fb3b51c57076d8b538148419d22846315ff8a16e1047bd2043
+seen_titlehash:00b6c721921a5d12c6dbb44538b402e3073adf07f7dfc57579d3f0f0e69fcf2e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss
+title:dying in ice custody inside one family s story of heartbreak
+seen_urlhash:0520427c30a73d934bc31e0abd8f8bf7f533f6038f8facb215e9b53822a56053
+seen_titlehash:a3cdbb4e12666d3f523d558ed8f09f9005906a071b017dca2c2c01a83c8ceae7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss
+title:ethiopian forces expand control in tigray as militia claims eritrean losses
+seen_urlhash:02ec332a7e65cec0567af9b31837023063c3fac7615732357ffcdd2ec72c8688
+seen_titlehash:e9aa083aa6a5e09ea7b75e7d7301585b07c3dbe471c09461321a15ab91ebee8c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss
+title:ahead of us midterms voters are frustrated with trump want change poll
+seen_urlhash:4ff1b5bea4014a1f05110a7f868b06639007049c1c7e71e633f43ac8a595d56c
+seen_titlehash:74424894124ea910853d51ca0f6ed74b63c577bcad19475a454b753c34fd69d3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss
+title:trump ramps up third country us deportations despite global rights outcry
+seen_urlhash:576e150ea17e2ecea155d0731ece06b256c0e3b8d07aa10c074cc1e28e6bc932
+seen_titlehash:cf78039f718f7ef55e21672088b97f2209ad0fbf535ac531596fe36f18adfce0
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss
+title:a mother s touch helps premature babies grow strong in gaza
+seen_urlhash:b3ecf5588edc07cee878fa0748abee88203231f8e4f3b7be0c316da0d6b6f033
+seen_titlehash:683fabcd653315f4c266a79e6ea0599d592015fa63c6b4bdd01701acbdee7840
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss
+title:pope leo resumes work in hospital while recovering from surgery
+seen_urlhash:092c9545d9af9b943504ed0c46d0c0bd85264e670a1fabfa71556a33c8c1f4f2
+seen_titlehash:5932643d03cea0769de6e2536b5e2f83f22b6f18e8e6c449715bc73c3b194113
+seen_reason:processed_not_published
+url:https://france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep
+title:it is clear that sooner or later we will have european casualties romanian mep
+seen_urlhash:35180475b12f8bf31b5ef27f962a89bcf84a7ebecbbaa1621051f78c3a47f1dd
+seen_titlehash:9e2ea556299530838e14904822f405fbcef1e82e76372e6cc3fa8e1317da9f6f
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five
+title:houthi attack on palace used by yemen government in aden kills five
+seen_urlhash:861c6792f3a7a707b4560802d9468ba3e1a0f1df1181fc046f6d094b94126d75
+seen_titlehash:67792d60f9f53ccdc294ee6abcde319a86ccf596e66b5a231e88e54abfa322fb
+seen_reason:processed_not_published
+url:https://france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says
+title:donald trump openly financing russia s war with ukraine nobel peace laureate says
+seen_urlhash:a9399fccc833014c626a85119382e2a3c47acbe9f5d8093c497d49027a785c87
+seen_titlehash:3f76abd6b0b9e463bcd1e9f288a3a6b3c81df0b733caf3c5d7644786ad33719c
+seen_reason:processed_not_published
+url:https://france24.com/en/fake-ai-images-of-protester-go-viral-after-woman-punched-at-trump-s-ohio-rally
+title:fake ai images of protester go viral after woman punched at trump s ohio rally
+seen_urlhash:db349f7c1a7c2289b4cd8f5209388b034d54794ceb066720e4be88cd368466d9
+seen_titlehash:b881e1b2832fbb617d9ddb6417b53ec99dadfdce4ce86a0d9c902a63f476087a
+seen_reason:processed_not_published
+url:https://france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks
+title:seven missing off romania after latest black sea drone attacks
+seen_urlhash:a08c69ec999bb605718e902703d93602594009b445a5924e837d8e141b8d727b
+seen_titlehash:2799ba8df48974e248ced9be61e107308abc7700a6977eddec17020bf7b9473d
+seen_reason:processed_not_published
+url:https://france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital
+title:albania s leader defies calls to resign as student protesters rampage in capital
+seen_urlhash:aa36ae92e1da5cc7037024f182b01b9d101ac14cfab7eefe57bb2961a3c1847f
+seen_titlehash:3d15ac267392c962adc72b847b1189f263a81c5633d87ded17da9380d2c58d5d
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain
+title:will trump really pull the plug starlink restored but ukraine s fate still uncertain
+seen_urlhash:1d765a22fd3570c61f2624d9b121a3b3ffdc985bc43b76e3383b0704355380c4
+seen_titlehash:10d36b2322881b2e64a560a67a914e57c2b5d175df6f71e869252c5ef81e7645
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261015-venezuela-s-nicolas-maduro-and-wife-cilia-flores-deny-us-torture-charges-as-false-accusations
+title:venezuela s nicolas maduro and wife cilia flores deny us torture charges as false accusations
+seen_urlhash:9b42cd173e27269dd240af1aa902b7e03da5c46543670ad0911785387001f123
+seen_titlehash:6efd4a719cfef609a894f3cf08b73e141c3b3f9040adcb53ccaa22010158bca2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms
+title:why have us ukraine relations soured ahead of the midterms
+seen_urlhash:f94ef4e54c513141ab09461aa61078beb4e241af3c8885f3f049f1c59423997c
+seen_titlehash:e0ab0f051a3b2083d220461779fe48d3c53862f6e994b7efaa7e84e82be0c45b
+seen_reason:processed_not_published
+url:https://dw.com/ru/протесты-в-албании-охватили-новые-города-после-столкновений-с-полицией-демонстранты-требуют-отставки-премьера-рамы/a-79674266?maca=rus-rss-ru-all-1126-rdf
+title:протесты в албании охватили новые города после столкновений с полицией демонстранты требуют отставки премьера рамы
+seen_urlhash:0ba772811bb92d03612b80a62d8df7d9ada597be22aeb277e69135deac7deb70
+seen_titlehash:751fc52b500c263e95e21270336aa93b009a003d33850beb28f5d94f51dc1614
+seen_reason:processed_not_published
+url:https://dw.com/ru/нато-включит-ситуацию-в-черном-море-в-повестку-после-серии-атак-дронов-на-суда-у-берегов-румынии-и-болгарии/a-79673823?maca=rus-rss-ru-all-1126-rdf
+title:нато включит ситуацию в черном море в повестку после серии атак дронов на суда у берегов румынии и болгарии
+seen_urlhash:b12e9c1863c0892f73626f789ffd44be5a629049c1ee2f7a4f1a5dd3ae3fd777
+seen_titlehash:08b36ca79795851abce34283275949adb7cca0f238cf2829e645bfce1c04d734
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/15/unicredit-can-take-control-of-commerzbank-ecb-gives-green-light
+title:unicredit может получить контроль над commerzbank одобрение ецб
+seen_urlhash:9e9c5d4c66e28b59baf8128fc947bc2a58f97498262ffc0486aee764cb9f169a
+seen_titlehash:45753bb87b0ae40548668ae50dc8fbf9d142cfe89311daa9c0993c876f988ce0
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/15/klipping-novoe-cifrovoe-oruzhie-politikov-v-socsetyah
+title:французские политики вплотную занялись клиппингом зачем
+seen_urlhash:434200bca9373931aff94761829398771825abfa6414ee4d7ebb8f3eca7c312e
+seen_titlehash:fecf2c12d24fa4428e9ee73d9e3f71051d597e8f5e3eaaa054c591fe3e5db160
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/15/iran-says-anothe-oil-tanker-is-on-fire-near-hormuz-strait
+title:военно морские силы ирана сообщили еще об одном пожаре на нефтяном танкере у ормузского пролива
+seen_urlhash:0a702fb5347c2826047c80a87010988c67520844ac365899d75dcb429b611f67
+seen_titlehash:c1cfbad7b140ccb2259336132685cc371dd77a084dae62d31bfbaf82eff0f7be
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/15/v-ekaterinburge-17-letnego-podrostka-zapodozrili-v-podzhoge-mashin-politsii-pri-zaderzhanii-politseyskiy-vystrelil-v-podozrevaemogo
+title:в екатеринбурге 17 летнего подростка заподозрили в поджоге машин полиции при задержании полицейский выстрелил в подозреваемого
+seen_urlhash:36c16163b212a0e99ec54c5192ca04c37385fd5a2369346d7058b57df83ed96f
+seen_titlehash:30aab45c8c49b506fc8a0f93c7e94ca66578142e0a8ecd7162bdf972e08ae038
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/15/v-peterburge-inostrantsam-s-patentami-zapretili-rabotat-v-parikmaherskih-magazinah-i-fitnes-klubah
+title:в петербурге иностранцам с патентами запретили работать в парикмахерских магазинах и фитнес клубах
+seen_urlhash:5dd54adc4e8d19ea7431610ec21f27ef6da783ae1ecc5b26527157baa01c572b
+seen_titlehash:f031efb9de7ffdc9a854c8c3a525bc4c90b665b59229379fd5a1441382188a3c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/15/gosduma-odobrila-otpravku-srochnikov-na-sluzhbu-v-voinskie-pozharnye-chasti-mchs
+title:госдума одобрила отправку срочников на службу в воинские пожарные части мчс
+seen_urlhash:4f7158d1b01dc4e8ca0121b886c8370985d6bdb81c4a1a9642bf37585a6ab682
+seen_titlehash:55620ad9c3a76c09c3c5fa440d80353ca591f1782399887212c8f95f0562da5b
+seen_reason:processed_not_published
+url:https://ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa?syn-25a6b1a6=1
+title:commercial goods blocked from entry into gaza
+seen_urlhash:543633418cda34d8ff04e24515316ecec905061bfa2f9e91f645dc7898635dd0
+seen_titlehash:d2b24ccba214116356b51f3f18b89a20ff55bb78197987d9ace6c13885fac439
+seen_reason:processed_not_published
+url:https://ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1
+title:anthropic grants non profit metr employee like access to monitor ai risks
+seen_urlhash:3a4310751c488e03bf40f31ab5d9f14e73909e9e344d96b82efc1a1ff24161ce
+seen_titlehash:10a388451c781d33c548afcb74fe39766625c0504152a424574a37fdc192a1d9
+seen_reason:processed_not_published
+url:https://ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1
+title:healey signals bank tax raid in uk budget
+seen_urlhash:8f295a5059abb79d27f007a7d6c595fca571643f8b3bb3110d23bf265aa54340
+seen_titlehash:21010325e58041d6b464925bb9200e963ba22ef91cda100dc2db2a6f1019de41
+seen_reason:processed_not_published
+url:https://ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1
+title:bankers and advisers set for 334mn easyjet payout
+seen_urlhash:b2aadc86136e047a5cfdb4fe6df09349240d004f6198b5756bb8a08b84c2a711
+seen_titlehash:68073c24f6f58df5be16f1da4f3e6c0f0366d5c23f8df0fda51041893a42bfc5
+seen_reason:processed_not_published
+url:https://ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1
+title:criminals stole 90mn of crypto by hiding password readers in usb like devices
