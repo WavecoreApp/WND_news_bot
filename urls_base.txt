@@ -154173,3 +154173,223 @@ seen_titlehash:63cb1d84910f9cdfc76ac666d286bc62cd384d53b8bf68b878279a37ddbe077e
 seen_reason:processed_not_published
 url:https://ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1
 title:china unveils draft export controls on ai technologies and chips
+seen_urlhash:6656cdeedda8c8818ce61054411506c7f5413e86452ad532fb3be88e3a7b8061
+seen_titlehash:f8726807ab2ce78ddd77943055b2792e16f7f3f043f793c23b37f0b3fbcb3545
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss
+title:trump denies limiting ukraine access to starlink network
+seen_urlhash:7db5049e04a91ff58566d7f929b90b92b7084d0fa345ce582260c5ac9e94e169
+seen_titlehash:e6a703f5cb56176d543c302afa24857a435b198ce396ed2da20f8ec09b61d806
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html
+title:pope asks putin for a cease fire for a ukrainian city under siege
+seen_urlhash:5c2c78ef5a63fc9f13bed9f2a3fa76161e7db9bf8b3017870ec2ba7de157dc79
+seen_titlehash:6ffc9cc0d4cbec5ad05ba014e1522f754a0ee3622076552240b8edaa98ab84b7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html
+title:israeli settlers attack palestinians and washington post journalist in west bank
+seen_urlhash:233b686794b698f9113953a822f736593f02edf43d0c2ebaaa66210721d8d5ca
+seen_titlehash:160e64853879f62a33287f21682def65f55b751420c29c3615c071f3206564dc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html
+title:16 people rescued in pacific ocean off mexico u s coast guard says
+seen_urlhash:05503069b08f589ae87e9f72009c19f3b5404f29792a11267d90c183024bb5e1
+seen_titlehash:dd0a031d86d7127170c22c713ea0dd1926af6797c70c0eda0e86e778d799192c
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election
+title:brazilian amazon deforestation falls to lowest on record as pivotal vote looms
+seen_urlhash:959416dbb65317baf979e7558d7886f2bd8ef8b40f960acf44a027ab89b61293
+seen_titlehash:49c2f82fb2982416b697173d1f9d56ce627edaee1a3de52d8f33b6c6a08c5f12
+seen_reason:processed_not_published
+url:https://theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme
+title:no 10 leaves option open to impose chinese ev tariffs if uk joins eu scheme
+seen_urlhash:2d6ef2b0fdb8a7ae32dc2e58102861ee3f2fae0abd3cba51e1cfa796c642d293
+seen_titlehash:c8d2239e6b99a9d090805954aa77f02b007641955e8f8d9720160c3047530fe0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss
+title:trump told new press secretary to reconsider role
+seen_urlhash:ef956da096d5e93745e2aa9fb01a8633ace8b9bb8b6d8600ea69b4947d7a5c32
+seen_titlehash:2058282a89c9a2b79b4790fb6578a95246e90b90d27354f4c871afd95b8f44fd
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss
+title:can diplomacy resolve longstanding ethiopia eritrea differences
+seen_urlhash:fec7bbc3c9e780f4afbac0363d793f9c8142084d4c32e89f695a1f3f4fa0b3d1
+seen_titlehash:02626f190d09031258fd21e4c45bc28888b1baf115544fd9655db3277afb7c9f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss
+title:white house press secretary katie zacharia fired after five days on the job
+seen_urlhash:9d7853f2a6dc621e3bb89cdeb340d884002690ff47f53945382031353be01af5
+seen_titlehash:fb097c44192d859932ff5c82f479e74842ebf2116f410a4ce503246029536181
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss
+title:kenya records third ebola case linked to first patient who died
+seen_urlhash:ee462e3380be545d12424a4c45a0e40f0b9b020c3a6987a81b1e783d77112e1c
+seen_titlehash:8a6eccb4f1090eb365c128242ea071ff1d2561111f405f8d324636c8d704a119
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss
+title:uk pm adviser s wife expresses support for palestine action
+seen_urlhash:18c5b87cae1faf80051ccac5b4fe6c7b57bcd995d61db39b9864a171f7b59686
+seen_titlehash:05c8bea324719dd35d01535e637697ea4292613178f801cfa4039d71918516da
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss
+title:how iran messaging highlights cost of war ahead of us midterm elections
+seen_urlhash:be23ff0caccf3c6a305cddc3d2d77487af8d5f97478807a00580dbbab052ce90
+seen_titlehash:eff23110157dbe71b7681b65b2d77d11d284e3fae70d81e932ab4788e55240de
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss
+title:ukraine president targets trump putin at eu summit
+seen_urlhash:b729a920206dff47b6d9a03ecd587a76781a47a33998666f9063c66372f14cbe
+seen_titlehash:8cf577321ad7ba488a203cef30e052894d8ad2567c42df93c903567cf1a954aa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss
+title:us records 4 410 measles cases as outbreak grows
+seen_urlhash:4b1649159bffbc032c278d982d6a4826169f0150f287b330d05475b5803f4bd3
+seen_titlehash:a290394428a17a06c67fcded0a4032b4f45f4226e218e9e49e9fc5ef281f0a28
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss
+title:ukraine advances in occupied donetsk as trump hands putin diesel deal
+seen_urlhash:520093fd7980124e5218a3dab978ca8bc9a0cb31d026bb11ae7211b9a3280e3f
+seen_titlehash:4be8efcc4d6c61b859913ff69e62e7062d7cdf88201d239ea17514b430d6224c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss
+title:real madrid demand resignation of la liga chief after goebbels comparison
+seen_urlhash:aee7a276c90dec17c7fc410383d1a6bc47269bea895b796f1e52136ad053cb4f
+seen_titlehash:a4f3f787cfa3e805ea74ef6cab9feaf541f11aa743077a5bef9b1afa6bdfd176
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss
+title:pope leo to make public appearance sunday first since cancer surgery
+seen_urlhash:986c0fe6ec72bcf7ce77666b2c7220418c56ffb433ad8bc30df6e141ce692d1c
+seen_titlehash:f1ba77fa6160e33219573993ff5bd2c5b356d005103ac7babb02ebdbcbc197ba
+seen_reason:processed_not_published
+url:https://news.sky.com/story/quick-take-less-than-a-week-in-the-job-trumps-new-press-sec-is-out-13600067
+title:quick take less than a week in the job trump s new press sec is out
+seen_urlhash:aa7d332347cec21907b739a47be499f3d5dd5bcb7aa71f31d19b477543c90b45
+seen_titlehash:583672d406e924fb1a31824d133032daa50b69bdb598b2b9634033a3c97c4761
+seen_reason:processed_not_published
+url:https://news.sky.com/story/four-dead-as-istanbul-suffers-worst-floods-in-80-years-13600016
+title:four dead as istanbul suffers worst floods in 80 years
+seen_urlhash:09d2cebb40e37aa5a7129f9c915a2a352f15fb7d424fec30b1c1495982af60be
+seen_titlehash:1326001b5593cdeff7e891f601cda59db80ebb9153fcbcdfbd3caae6cc5b1a99
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests
+title:finish what we started after student protests france braces for return of the yellow vests
+seen_urlhash:61bd5f0afc11d2e1eb18f68630a61514428782f6843bed0a9080b8c1e0afaaf2
+seen_titlehash:2c8765a891d15c1dc188d3db3b87e2ebb77f09c690fcf5d55adedfaa327d41b1
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli
+title:trump vs zelensky from the screen to the streets gen z protests from paris to dehli
+seen_urlhash:fd7ac74e63d2fd4fb8085366bdfb1daf7756c9a9d49fdb3afd1541139150778a
+seen_titlehash:a4f0c0627969d9353b0d22526de2a50421a594804eb99aa04060a17835d0551a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky
+title:us tilting toward russia europeans are standing more and more solidly with zelensky
+seen_urlhash:2c043d9b4ff1ef56756de526022511182929d0e7e39dcbb8df45ad051af2111b
+seen_titlehash:c31719071baee41866c965b1bd22df7f2927454bb869012978487102a2a42026
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role
+title:embattled new white house press secretary zacharia let go from her role
+seen_urlhash:16a98525fe3c664d0524c75a3d86fbb847efc7ba6b021cd68f1d6f23a1c7ff1b
+seen_titlehash:c10d181aab6808db773333016c80ec0e6706e096be09e5dc05491d9077e96f7e
+seen_reason:processed_not_published
+url:https://dw.com/ru/бундестаг-одобрил-программу-детских-пенсионных-накоплений-с-шести-лет-государство-будет-перечислять-на-счет-ребенка-по-10-евро-в-месяц/a-79684510?maca=rus-rss-ru-all-1126-rdf
+title:бундестаг одобрил программу детских пенсионных накоплений с шести лет государство будет перечислять на счет ребенка по 10 евро в месяц
+seen_urlhash:087abf06ff92d976aa6fa8267c135ab4d1d130e918e69120239081139b7ddf7b
+seen_titlehash:2969065209664b3eab1693962e94de15ee16bc3293bcb58f1061ba8b194d2ab9
+seen_reason:processed_not_published
+url:https://dw.com/ru/саммит-ес-в-брюсселе-обещали-поддержать-украину-но-не-дали-ответа-на-ключевой-вопрос-как-помочь-украине-пережить-очередную-зиму-в-условиях-войны/a-79684446?maca=rus-rss-ru-all-1126-rdf
+title:саммит ес в брюсселе обещали поддержать украину но не дали ответа на ключевой вопрос как помочь украине пережить очередную зиму в условиях войны
+seen_urlhash:b616070f5dc03aba14d3f1842dc12227413bc9acb3347476a125c5c5f21405a4
+seen_titlehash:478cd23e8686dd00ed667d09a71abb99ddaaa162d5b8a1e39411710b977af0d1
+seen_reason:processed_not_published
+url:https://dw.com/ru/закрытие-аэропортов-может-ли-россия-обеспечить-бесперебойное-авиасообщение-на-фоне-атак-дронов-всу/a-79683729?maca=rus-rss-ru-all-1126-rdf
+title:закрытие аэропортов может ли россия обеспечить бесперебойное авиасообщение на фоне атак дронов всу
+seen_urlhash:e263161e4b9ca2fe476156d56060919380d8daadd853f1f4de11511adee36468
+seen_titlehash:851b6b01646ba44667450e1b582bc905d6c1315c7abde77e8d7ec79c38872e73
+seen_reason:processed_not_published
+url:https://dw.com/ru/папа-лев-xiv-из-больницы-призвал-путина-к-прекращению-огня-в-алешках-чтобы-доставить-помощь-и-эвакуировать-мирных-жителей/a-79684098?maca=rus-rss-ru-all-1126-rdf
+title:папа лев xiv из больницы призвал путина к прекращению огня в алешках чтобы доставить помощь и эвакуировать мирных жителей
+seen_urlhash:237d9f6e064f5d3a9b76eb3ff6c95cf4dbbe823a0d8b12051390db18801a1053
+seen_titlehash:1074b1f655c211ef783fcfd0b7d99d4593cb7ee7acdb31961c8fefebbe5174db
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-ранений-индийских-моряков-нью-дели-призвал-россию-и-украину-обеспечить-безопасность-гражданского-судоходства-в-черном-море/a-79683714?maca=rus-rss-ru-all-1126-rdf
+title:после ранений индийских моряков нью дели призвал россию и украину обеспечить безопасность гражданского судоходства в черном море
+seen_urlhash:45fe2d0aacf9de9cb644885e38e2ed48666a8540e603600fbff663cb22bc5791
+seen_titlehash:ab114257fb2883b35e68b10076241a553009fde083f7fae00402effb89867b0f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/16/albanian-prime-minister-blames-external-forces-for-the-escalation-of-protests
+title:премьер минист албании обвиняет внешние силы в эксалации антиправительственных протестов
+seen_urlhash:a2685416f17dcdc7d8f54b4860ce95a31eff5158ddedc22e1e32ec141d71b2fb
+seen_titlehash:6d3ab40b778123d3df6ddf3a33224acaf1ef9246b05d280b988a9c2016cebee2
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit
+title:бюджет украина миграция пять итогов саммита лидеров ес
+seen_urlhash:1e75ba7caa6ceb87d8bd4bcd732be6e33b923f958170b305d46f3c200ecc34e3
+seen_titlehash:5074fdd84502f5594b6c3803545bb39b7c2a97c8c3af2b7652440e40159bced6
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/16/pope-and-putin
+title:папа лев xiv позвнил путину с просьбой о перемирии для осаждённых олешек в украине
+seen_urlhash:1d40ca6cb87545e2ccaa111ba480fe53a02429c145e1a934f5c5e15c6a8384d2
+seen_titlehash:d979004170475bf531cae105e08f2f20a39c6a922e0dbe6a022b5cbdf661fd7b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/16/russia-nato-and-kalinigrad
+title:на варшавском форуме по безопасности обсудили калининград и угрозы москвы
+seen_urlhash:70108977b55c4de73ad658f16b8bc1f5da19dec7c0bf99b71edc54f00588838f
+seen_titlehash:188b8b11a31c366887a0ac68ae17167a77a70637afc0fe2e399598bdf598cdfa
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/16/vot-tak-matematika-iz-moskvy-semena-krasotkina-obvinili-v-gosizmene-povodom-dlya-dela-stali-zvezdy-v-telegrame-na-summu-dve-tysyachi-rubley
+title:вот так математика из москвы семена красоткина обвинили в госизмене из за звезд в телеграме на сумму две тысячи рублей
+seen_urlhash:a42ec85488d7a11c18acfca3a9884359c0c4deef6ff18f9598ab90a1e37277ac
+seen_titlehash:cd4c7376af579b708f34de84b89407c5279fe634cf2bf3d5c6731b1b9dccef46
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/16/spiegel-k-podzhogu-stantsii-starlink-pod-varshavoy-mogut-byt-prichastny-chleny-turetskoy-gruppirovki-izvestnoy-ubiystvami-i-vymogatelstvom
+title:spiegel к поджогу станции starlink под варшавой могут быть причастны члены турецкой группировки известной убийствами и вымогательством
+seen_urlhash:4780a51e7bc56c25a166872b596ff4d0d7ddbf75c21a31e5e51879b1147ae62c
+seen_titlehash:f677d3546265c82bdd4f7991bc9af6e66a7e8957d0309ae1d1aab42b4bdb26c5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/16/novaya-press-sekretar-belogo-doma-keti-zakariya-uvolena-utverzhdaet-the-new-york-times-ona-prorabotala-menshe-nedeli
+title:новая пресс секретарь белого дома кэти закария уволена она проработала меньше недели
+seen_urlhash:2116f55b58bffc371d2f5682c5992fa916ca6ccf95be23524de80dde5c6fb9ea
+seen_titlehash:ab1b1a805e2a358d36de7483ead12f8846e4fe3cd69a1881864310c94fa061b3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/16/tramp-zayavil-chto-rasporyazhenie-ogranichit-rabotu-starshield-v-ukraine-otdal-ne-on-kto-eto-sdelal-emu-neizvestno
+title:трамп заявил что распоряжение ограничить работу starshield в украине отдал не он кто это сделал ему неизвестно
+seen_urlhash:f1e87bb494f0cc2ad3b6956f6c83ac7179ff387b7bdca426923661eee3f5760a
+seen_titlehash:cc8bc886646c6670b494e37913a64f7143baf026c6f148698f6e3e19fca0f7ad
+seen_reason:processed_not_published
+url:https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1
+title:trump s press secretary katie zacharia fired after five days
+seen_urlhash:19ae887577dcf9f6f070b8c36241da8e428b11417f0d3ab51d38889fb3e6cc04
+seen_titlehash:9f898563edb3e264d146087d56f9215707c8abf4f557c2d34f4862c025a17b42
+seen_reason:processed_not_published
+url:https://ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1
+title:rich make millions by flipping private jets
+seen_urlhash:248bfcb049f80c33e2ef67296a70634caceec461e8c921cc403e3a046e1fe18b
+seen_titlehash:2ca4c987851407fba6d27b5e34368df5f417145981ad2bcc6fec954ad7016b7a
+seen_reason:processed_not_published
+url:https://ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1
+title:israeli settlers attack palestinians carrying out olive harvest in west bank
+seen_urlhash:6cff105f1f064a50c725f7bbe19b284989a7e4269724aa242fc4547004e02c9c
+seen_titlehash:57cdaf9da6fd1633e99ba30a2c002a6d09cf5aa6fb6d5f1fb535650ff1223168
+seen_reason:processed_not_published
+url:https://ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18
+title:it s nearly ft alphaville s 20th birthday we did a chart show to celebrate
+seen_urlhash:74036da8f93a402a0eef849cea7251bfa1693eabec53810f2cd2476d23dcbfa3
+seen_titlehash:0c0a87af26f946840ba94d5efcc8f39cbf586636978b38b2f71e87d8b863cb5c
+seen_reason:processed_not_published
+url:https://ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd?syn-25a6b1a6=1
+title:us illegal border crossings from mexico near 60 year low
+seen_urlhash:cec64720e647ab2288adf48ac7f9ec5f2c7061300054281287fc3686ab440b65
+seen_titlehash:82ee83aa46a02d3d3e1cabe83ddca03506e5e983a9e6cae6e358fef9f73da8f6
+seen_reason:processed_not_published
+url:https://ft.com/content/5b9c0cfa-849d-40a2-92bf-0bd2e2b58871?syn-25a6b1a6=1
+title:olly robbins wins payout over mandelson scandal sacking
+seen_urlhash:ffbe2554f562363950c1088dab581a7563b3f8bb6262aea676d6cb27a65e978e
+seen_titlehash:018ea10aece32b30811377038bbec4a4be202846b996cf2bf994dc6969f2a677
+seen_reason:processed_not_published
+url:https://ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457?syn-25a6b1a6=1
+title:fuel price surge turbocharges global ev sales and spells end for diesel in europe
+seen_urlhash:624b1720d9ea127dc8ca09659abbafac0032863c6ad5793b153ec7143810066e
+seen_titlehash:2640e971646e2b9b0d679d4acbd525f28b2360cb3aaa0f0d16f4a7abcb280a77
+seen_reason:processed_not_published
+url:https://ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608?syn-25a6b1a6=1
+title:italy secures eu deal to lower its electricity prices
