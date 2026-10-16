@@ -154393,3 +154393,83 @@ seen_titlehash:2640e971646e2b9b0d679d4acbd525f28b2360cb3aaa0f0d16f4a7abcb280a77
 seen_reason:processed_not_published
 url:https://ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608?syn-25a6b1a6=1
 title:italy secures eu deal to lower its electricity prices
+seen_urlhash:c2c5465548c985124b9c107b1ef94e275fb5e00c339eabf303e708942bd2275e
+seen_titlehash:64e5fa106a556f3bc7709623ba8dba1bfac55fa3e85548af786ee7d2d94a0f31
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html
+title:the world s oldest shipwreck maybe but we re all excited by maybe
+seen_urlhash:70b8c9156efaba4ff9c58c0d5a11e9be4503d5eb244389bc8ac9b738daed005b
+seen_titlehash:bacbf75c835d16a23861bfce976055280c54aa4dc8a02f92b8848ddaafbbc6f8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss
+title:families demand justice after pakistan school collapse
+seen_urlhash:e1768d25479125bc301d30d5c726d9d5e90e3f1efd372949760860a50ff4aae7
+seen_titlehash:dc85ecb12867dad921d937820cdb19ee4b57d63371edf8a4ef757a08b49a32f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss
+title:yemen s government says houthis fired two missiles at aden airport
+seen_urlhash:ecde71ea724f1ce37ffa84a478b5b12cace1532015e7eedd2b9e4ef94ebef460
+seen_titlehash:24354013cf79cdc5ce87b02243301ab92a6e046b1fb5ad744518140f47dca37b
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss
+title:meta employees say lula s accounts restricted in brazil election report
+seen_urlhash:9c502a879ef9c538f10be1b80f12ff2b9c9a8df405f7ac3e7879b3369abd4f5c
+seen_titlehash:23fcf2516f9b05b27f695a11c148ee11c24e2da6fb57832723a181959ac99e51
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss
+title:how israeli spyware used zero click hack on al jazeera staff
+seen_urlhash:5d08b964c1ee7aea2985198e1bd3503724696b66b4d4d3f4a333b8859c85aacd
+seen_titlehash:ace285e38c6bd126c49d4bafa6c20fad70167c38009e333f904239babf1e449c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss
+title:students in europe are rising up to call for better education
+seen_urlhash:a352473415b93d72b4c37b8cf071b98a05046fbc70783a4af6810a0989d76e51
+seen_titlehash:2d800c6c43dbedc1f6876867a42906d38d9e0e0e7380583b0dc8023529a69f97
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss
+title:food affordability fears plague gaza as israel halts commercial goods
+seen_urlhash:27bfaed5e8cd7bf97419671ff737fc670a96f79a539ca6d8b2cd748c56b1ed4d
+seen_titlehash:1f085699f2a23fc22962ffd25787c24dd75870c1b39161c750c92bb7fa769fa3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss
+title:oregon community mourns victims of school shooting
+seen_urlhash:b462a5bb4ff22db5e4ca34e1f41befbbfe4dbab9ccc94e5b0ce129c3c5102c13
+seen_titlehash:6a4672b850e1f949e006c9274ebda6d55a4c8fa61ae029e66176ea539aa860fc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss
+title:aoc transfers 1m to michigan candidate el sayed in progressive push
+seen_urlhash:c102b37ba956187050bf5c108ee36ef06cd9045dbd256edaddbff7a24f4770d6
+seen_titlehash:c051d908bdb37bf5cca22bd448b74f0ad3a91cfc41d1076c590418e4fc2e8c3d
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate
+title:zelensky turns to europe for backing as ties with trump deteriorate
+seen_urlhash:e20f2d1363053ace6eaa3e85ac48d59add8f6b8be37c51c3a6e2e638daa6e26f
+seen_titlehash:26c33c5db14400c1928f4c3177896410c0743e38e23b58c6ce326625b5d68158
+seen_reason:processed_not_published
+url:https://france24.com/en/kenya-confirms-third-ebola-case
+title:kenya confirms third ebola case
+seen_urlhash:996de652212099eaceda519c6252e8b46d62e9babde8a5feb50c0dc38f398386
+seen_titlehash:72817fe1b045cf3f4826616d029f280294ce37e1af76cb805740ff03a58a32e2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands
+title:clashes grip tirana as albanian pm blames foreign hands for mounting unrest
+seen_urlhash:69a94efaf5f43205f03d47bd553a6800272fc2fce70b00010345234a76a44071
+seen_titlehash:997735c4bef53f2cb57591abcdc4da4203b69442e574cee034a88fa6bfb965e8
+seen_reason:processed_not_published
+url:https://dw.com/ru/российские-удары-по-харькову-и-днепру-есть-погибший-и-пострадавшие-повреждены-жилые-дома/a-79684886?maca=rus-rss-ru-all-1126-rdf
+title:российские удары по харькову и днепру есть погибший и пострадавшие повреждены жилые дома
+seen_urlhash:e376ca61ab14b9a4b92753d5f68d2e72a9de0a2c997a6af363ef2259ad521c33
+seen_titlehash:cf338ab3839d972f3e868d7b20812b6bc8909e864543baa244191e00e518d1c8
+seen_reason:processed_not_published
+url:https://dw.com/ru/дональд-трамп-заявил-что-ни-он-ни-илон-маск-не-отдавали-приказа-ограничить-работу-starshield-в-украине/a-79684855?maca=rus-rss-ru-all-1126-rdf
+title:дональд трамп заявил что ни он ни илон маск не отдавали приказа ограничить работу starshield в украине
+seen_urlhash:802cd4c90cbf1f5dc102d9e5012d80ebe3c8393a2130fa6aa3723b9c260b980e
+seen_titlehash:e9ed55cb0204c44eab21baf80563e3d431c5b4bb9ebda6eb669888381fee40c9
+seen_reason:processed_not_published
+url:https://ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1
+title:oil hits five month high of 110 on new escalation in middle east
+seen_urlhash:996e49cddb928bfe5a1e7ca6dce750c38e3ddee2f45ba88abec8288d60ef01cf
+seen_titlehash:4a1c2bd2ad24805656abb0c997bef9f51c023265d184073088fa13a5aa54951a
+seen_reason:processed_not_published
+url:https://ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1
+title:healey says new heathrow runway would boost growth despite burnham wavering
