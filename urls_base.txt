@@ -155493,3 +155493,118 @@ seen_titlehash:cf9b8be60186fafa3f2c10019a19bd53ebace32525381073de629fede8859704
 seen_reason:processed_not_published
 url:https://ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1
 title:protesters clash with police in paris and marseille
+seen_urlhash:cf116c45b6fd3b2197e3012e1aede1f0da028f5c4252057c5c725b8e9a12127a
+seen_titlehash:58d0a0052393ad88c5b88e758801df223f81d012927f56ec99deae7b275e10d5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html
+title:israeli settlers attack palestinians and european officials in west bank
+seen_urlhash:45df030570caef700ea69127a2790cac06f762de61dc7f780be128c88617fe8a
+seen_titlehash:af1083044c98383a72e321cdee8c7fdc100dad00abcc90298293b1003e52f199
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html
+title:unrest mars day of protest in france as student movement turns national
+seen_urlhash:9cdc4a29ad320af3e11cffd9586760bbb1d22974276189127fdc5d12c670c580
+seen_titlehash:9542219e1a2a1b3591606714636eb7a5a74517f62479b0e95b2a51ed78c03bc8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html
+title:egypt s president says he will leave office in 2030
+seen_urlhash:9ca62cc29499a1762e84827bf0d43eab5e42f0f29211b815aa8711aebef3ad78
+seen_titlehash:14d4e90a9927c0907aae582479fa3d08e140c599ba7084e6e7b6279339e3b266
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html
+title:trump signs order waiving new russia sanctions
+seen_urlhash:153ed86345ec573810f7ce9fcc4ca76caffdc55ac2ae5e9b262f54cc3ccd06dc
+seen_titlehash:e963059446493a1de1aed1bc6aff166f92f9537e916d963093947c0f2f7cb04f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/africa/kenya-ebola.html
+title:kenya confirms four new ebola cases
+seen_urlhash:685164e2b971d739a42cabe0e0c6012bb01a9b1094cd59f335f5370bacf1c4cf
+seen_titlehash:554f259ecb67ef8df4d5e8847bfda4b13002bdd6142c2386b61f3b3977e91ffb
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/us/politics/russia-gas-trump.html
+title:u s floats lifeline to russia allowing more gas sales to europe
+seen_urlhash:2e1975dbfac390c8562e7720c681a88db2fe126f140579e3a82eb74f58d9de61
+seen_titlehash:5d2f089edd597bd1bf3881ccb1435bbd6b743de62a556b25637d106f153e463a
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues
+title:plover not a fighter masked lapwing nesting on tasmanian cricket ground indifferent as play continues
+seen_urlhash:ef9c77d9587228ad37a3f17d65047b4295e6f143495fe611242f825c286532f6
+seen_titlehash:101dad1b720695bb97ba2bf1a9c9d4d135d48e27ec6f2357cca9a9d305e54a9b
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone
+title:almost all nsw homes destroyed in black summer bushfires were within 100 metres of flammable vegetation
+seen_urlhash:abb66960e47fea63a60a8bbd5c998885d827c31091cd6280858f4b640df7c8cb
+seen_titlehash:718e58a2b2ed7138fdb2cb07842577209d3b918acc9e68109a89570172e955b4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss
+title:albanian police fire rubber bullets as protests against rama escalate
+seen_urlhash:c01487a5db448ba3f2bd2c80c71b8867cb6181f936b6422648c96024f67bd883
+seen_titlehash:5d96af6ea32d9d66cf81215b2e7ae92cdef28645e51c942135e139966ee90651
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss
+title:hundreds rally in kyiv to demand the resignation of mayor vitali klitschko
+seen_urlhash:de475ca915945301129bfc52f9da3aa776f655fccb9bb89ae73783453c9946aa
+seen_titlehash:ccd4e4a9eab2ccdd26c3964bac6e515c660dacc654b1f8a4e44db64cb9ecf0f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss
+title:will the eu come to ukraine s rescue in war against russia
+seen_urlhash:8c81a91d782734d83aaf289cd1e9de3e78516b2d9e35dfc11c71ec2ad4a7273b
+seen_titlehash:1d9b86b72d985c78a6d77876e0db87e6e8e76099b64a1f2ca7d409a1abe7bcee
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss
+title:is the us embassy in jerusalem for israel or america
+seen_urlhash:a730a5ecaf689dd4279254e93120c8136f18030bbeb3b1a58af494bb82dd0a69
+seen_titlehash:3f220f40b2e453375450038b03447bfbd315407fb98a247b348130a7d14ba16f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss
+title:israeli drone attacks kill six palestinians across gaza despite ceasefire
+seen_urlhash:273a7554b918825a3108c2354411797e710570dbc5d31c3e61fe952186b91b2e
+seen_titlehash:446430a46f2f1a8a385ede788016387f6bcc2f47b9e8dc4969e3cca74e12dfba
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss
+title:india and west indies denied a thrilling finale as rain hits final t20
+seen_urlhash:34df3e26c4cc091c1646ce4ddb474f7c5e3ac1c7b418bb23d92066cbbc11fd43
+seen_titlehash:98795ff1935e0d8cac54a6b7dc95425d8ebd2a2c48a7cde661bb39022fec4b68
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss
+title:pope leo returns to vatican after lung cancer surgery
+seen_urlhash:4cecc2c1a40d79bb4f30107c409646cef72cc12c658c912764ce3e6cc3c15aaa
+seen_titlehash:0446fbbcc8d17b88215acbcde8352563d93b08f2768d6c76387ee930a58d8cd2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss
+title:trump faces bipartisan backlash over russia sanctions waiver
+seen_urlhash:8fddabc2373b3be4c89bc56442770323ba3d994fe1c3b80dabef7a077487362a
+seen_titlehash:c2a9de8b4a374f991e92c7d44bb9b64c12b7b82b11ec72d5176595bc7fa80b28
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss
+title:jerusalem daily israeli settlers attack farmers and journalists
+seen_urlhash:838d191c5fe11d097bbac0c24e89dd5358d7ae2a9f51f979a2d92a730c1ee209
+seen_titlehash:caa591a98b279ab5ef943188e66e1fff776e323bc3c19dc92b07b74099230891
+seen_reason:processed_not_published
+url:https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419
+title:israeli settlers attack european diplomats and french mayor in west bank belgium says
+seen_urlhash:bdf6ce2bf31be35fae86b85c8230c6828b722edf6d466454429868e65fbed1aa
+seen_titlehash:ba50e4fd0140829b63ef6a20a1a56ac259a4ca118fdbfe1d504b904cc4c1c69d
+seen_reason:processed_not_published
+url:https://france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations
+title:looting blazes and clashes in france amid nationwide protests
+seen_urlhash:045e0d891ce93c5a212b794101b4fa1eb14c5925a91442852b1f3c982dec6dd7
+seen_titlehash:381d000caf0d8cbdb20153a4cf78173428787297265b1aa5456dede4b7bb92be
+seen_reason:processed_not_published
+url:https://dw.com/ru/румыния-сбила-два-беспилотника-над-своими-территориальными-водами-ранее-бпла-атаковали-танкеры-у-побережья-страны/a-79689557?maca=rus-rss-ru-all-1126-rdf
+title:румыния сбила два беспилотника над своими территориальными водами ранее бпла атаковали танкеры у побережья страны
+seen_urlhash:a91888036d4b94f2b037cfebf2cea6a80e73ad2f0b56b63d2a3d24aeff70375b
+seen_titlehash:4985663d0a26364b5022851d019b63f1337c36fd92f53cb6c183fb69fd06623b
+seen_reason:processed_not_published
+url:https://dw.com/ru/израильские-поселенцы-атаковали-дипломатов-из-стран-ес-на-западном-берегу-накануне-они-избили-журналистку-the-washington-post/a-79689159?maca=rus-rss-ru-all-1126-rdf
+title:израильские поселенцы атаковали дипломатов из стран ес на западном берегу накануне они избили журналистку the washington post
+seen_urlhash:bb20805fd33cb18ece0e0b97e5cd9b43845f6d890055ce966bf62bb627517664
+seen_titlehash:91873514c2dd2e0ee424b15b0f5db0fa26196b24fbffc81fb7d86f9a39b7923c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/17/v-aeroportah-moskvy-prodolzhaetsya-kollaps-v-sheremetievo-passazhiry-reysa-v-hurgadu-zhdut-vyleta-uzhe-bolee-40-chasov
+title:в аэропортах москвы продолжается коллапс в шереметьево пассажиры рейса в хургаду ждут вылета уже более 40 часов
+seen_urlhash:d1c25dd082bf190d2c8757f7bd281f06d11aca717bca7f7673b44f9aed5ef074
+seen_titlehash:215e1cdc7bc93e6e29e42d32ef6ac4a48d35307f6e487e6a64e5c6edad14bfd6
+seen_reason:processed_not_published
+url:https://ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1
+title:white house chaos overshadows trump s midterms push
