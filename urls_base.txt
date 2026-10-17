@@ -155693,3 +155693,13 @@ seen_titlehash:e50893b1311b7d08af501fdbdb8c6c676fbb7541a812ea48b8fd2e68600c998a
 seen_reason:processed_not_published
 url:https://ru.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france
 title:историческая ратуша лиможа охвачена огнем на фоне протестов во франции
+seen_urlhash:ab268176d3a6bb94302fad806c25e404259b7011d233478b50c0d9fa2415185d
+seen_titlehash:c159cf54411e2b2eea5db24cc3518491cc3b1e51bbf8464311e97b6c4d41fffd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss
+title:photos show luxury boat with 50m pool and water slides near kim jong un s summer retreat
+seen_urlhash:ae1b119e2f278d887e136a685df6218990f690fa0fdf3be6922b8a551cbbab3e
+seen_titlehash:8b164ab6f2cc524250b241fd8034563ae57cb0890bdf2731d9a3a0bdaef95f3e
+seen_reason:processed_not_published
+url:https://dw.com/ru/массовые-протесты-во-франции-более-полумиллиона-участников-1200-задержанных/a-79689929?maca=rus-rss-ru-all-1126-rdf
+title:массовые протесты во франции более полумиллиона участников 1200 задержанных
