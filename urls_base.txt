@@ -155608,3 +155608,88 @@ seen_titlehash:215e1cdc7bc93e6e29e42d32ef6ac4a48d35307f6e487e6a64e5c6edad14bfd6
 seen_reason:processed_not_published
 url:https://ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1
 title:white house chaos overshadows trump s midterms push
+seen_urlhash:8b2b018d0b201db1ba7eb536431de89285477bcb485719a46879acd83ffc817e
+seen_titlehash:0f26a107fccfa4602246d844a2c8790518665fa85b0cb147dd5acd8c72fe8698
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss
+title:violent clashes looting and buildings ablaze as hundreds arrested after france protests
+seen_urlhash:95a125987cf4242e5a8e92f28d9e26f85f46dfd76f20a176ce0f7f2e028b6b32
+seen_titlehash:f740b31bf5ac1639f79423a763e6e9a5b94371192640c6eb061162b3c516bbfd
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss
+title:european diplomats attacked by israeli settlers in west bank
+seen_urlhash:4bb18abd0d556e211c42f3e11bec94d8bf7ea2550c23557a4fc9c7c4c0f4a9a0
+seen_titlehash:c6a9504cbd81ca664cb6d4e5436cee172533b07eeaa284e39c49b1e6e5c2d0eb
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss
+title:anti government protesters battle with police in albania
+seen_urlhash:698ad8cf0872c3b939bd0214222332811fdc3b30056d7ef21044a4ad77a73c92
+seen_titlehash:dea52f64b651c5f34f1b0fb24b3c617aca08fd41000f560a5b223489a23aef32
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss
+title:at least 17 dead in crush at hindu festival event in india
+seen_urlhash:d57f7f0352a8dfdfd986d6b53389d9f178fa2f6c523f3b31396b1073362dfdbc
+seen_titlehash:2ea2030a556d53f5af434a78ba9e29a78c63c892cf6cd16bdf15eee8d3032595
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html
+title:17 dead dozens injured after stampede at indian religious event
+seen_urlhash:6c7aa0707d34167a81700ddd996286f4b42c46dd4f413e5b2d6978d789d9f8bd
+seen_titlehash:c1d67776cc1c284e6dd56cb78ab0eb8f661dc4bd4832d22b4db6ddc8b78618d1
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html
+title:mexican judge sentences 3 men to 159 years each in surfer killings
+seen_urlhash:62fc3bbd78c5133a93f17aa687d0653fe304c86d39af66c6debef52917a4993d
+seen_titlehash:ffea8bda0e7debc6320a37f5ccaf120cb8b1f3e3aa78ccb7ad70113ac7ee33ec
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss
+title:photos no kings rallies in us urge midterm voters to cast ballots early
+seen_urlhash:0d061ee25c4415dde36c255f4dd31f5926cc811ba7e8921219d52defddcff028
+seen_titlehash:72482e101003e116b763f1b9b7bb2b53c7e24330f8386f171f58fa1568e0f4aa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss
+title:cost of living protests hit belgium italy portugal and france
+seen_urlhash:efa7b1c25f0c14b30045ac74eb56dbf82f7a245feb9a904b44b7251aa7d858b4
+seen_titlehash:321c2c09de0a3e9efe01d485b3b8d7fcfb00bbaf28466469f10008320db66e91
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss
+title:ten killed in fire at beach resort in bangladesh
+seen_urlhash:881e41cd4a2d3803da7ad26b90de241b3af0e3b84b545b3956c0d5b24d5e8e44
+seen_titlehash:93dc764a03d8769c5d87ce5582c7d27c74d018f8ada1dacfa5de2feb7a4b76e9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss
+title:protesters allege police brutality as violent clashes rage on in albania
+seen_urlhash:cd23e754fbd651ec10210b4d0b8170bb3fce12d1d3bc49d2bd5a758cfdfbd9c8
+seen_titlehash:bc2166f0cea7508c7fe2c387ed9dee556f2cc638de7d6a590aec580078501e68
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss
+title:al jazeera reporter harassed struck on head amid france protests looting
+seen_urlhash:423d422af82f672bf90c376c3cd31501a1039e7e1a5b8e59d7a72c9954b6ba89
+seen_titlehash:18c10809d26461ddef9f9c3244d073362e125044041c904f2caf15f324493df7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss
+title:iranian tv airs video said to show tanker explosion in hormuz
+seen_urlhash:0b82fd13c8bda73dd1be8d7e60eea11d639c43200607f7366ded6f3ceb63ee8a
+seen_titlehash:ee3dc9f5f05f389fdcb1bb292ecbe7831ada31108eb046e3a9bc31322cf8d1d9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss
+title:at least 17 killed in stampede at religious gathering in india
+seen_urlhash:f73a3c438ae126fc8e305b728a074c4f1f28ec7ad1a11857df54bec7f225c329
+seen_titlehash:c1bf22b5883f796c9fcadabc4aca076b644e46e1a192f508bef24d8220487684
+seen_reason:processed_not_published
+url:https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451
+title:crush at religious festival kills at least 17 and injures dozens in india
+seen_urlhash:2358cda6fa31a85a36e9f14d100a6625973f1a69f12ff98d82bb45c9578306c5
+seen_titlehash:ff9f2822511e8bcaf6c6a3e323c9632ffd8020b11003c5ff822ef4b319df5b54
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france
+title:looters seize on massive french protests to raid and vandalise shops
+seen_urlhash:e1756eddc861a9bf117d2a9e3f2f51b1c269edf01e52c70f456789dd72afc0da
+seen_titlehash:e20ecfe3ec0f3b5dbbaf29607f18f338232a5133ef7157c787101ef8ed00ad8e
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests
+title:fires and clashes rock france amid massive nationwide protests
+seen_urlhash:aaa1113770cf5712a0c73206199e0cc55518e70a94e7ac27a8d41f0cde261c89
+seen_titlehash:e50893b1311b7d08af501fdbdb8c6c676fbb7541a812ea48b8fd2e68600c998a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france
+title:историческая ратуша лиможа охвачена огнем на фоне протестов во франции
