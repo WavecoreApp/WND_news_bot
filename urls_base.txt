@@ -156788,3 +156788,133 @@ seen_titlehash:a3cc3abd04ffc5c3bafe327bc4fb506e6d4a4365ef8d36aa5cffbc412e792eb9
 seen_reason:processed_not_published
 url:https://ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1
 title:us threatens europe over starlink restrictions
+seen_urlhash:0b1b48bdbe7674e428aafb55a30b1a0f8e44716fd946f0bada7d331a8cc36659
+seen_titlehash:359d8c6e1b39729b69cc4104da5b6f10648dda8677b06aa0bb36fddc487b9114
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss
+title:macron calls for calm and order after riots across france
+seen_urlhash:536e843ffed2cdc952e1961c1a96e9e260757ef30fdbeab95ebf881896ce366b
+seen_titlehash:9704cf20c1d3ff49a3e37b0f29b72e40e6b8445ce910c10abce05fe6cfb3c5b9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss
+title:what we know so far about deadly fire at canadian military base
+seen_urlhash:36feee99e69b14f83e41c5165d12a49ba5977f4de280fbf4adece629520b9eb6
+seen_titlehash:6ee878ed430f7b0ee23b199519e5780ef52881356d38e6c9cb241284e7471a06
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss
+title:inside chicago s battle against the synthetic drugs flooding the us
+seen_urlhash:5628694441aa1bf622c1e8057ebe3fb8eed6faa364cfa278f89c38d43a500905
+seen_titlehash:15f7cc16ec258f2fa50ba1ee372ec8319b99d5172c0290d02da82a01353418f3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss
+title:cindy crawford beyond heartbroken after death of son presley at 27
+seen_urlhash:29e3e81b30e8f4dec514e931921cd040dea6212ecf76fc48b6b983fd41d9b9da
+seen_titlehash:d21a1c66ffd0d02d309f394f83c590af6eddbb5264b792f22ed787dd5363eab6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html
+title:planet earth and brazil s election
+seen_urlhash:2fb3fff2278161b125f89c28da65b7cf321e9a0a528df989db42a58b9ccd1aec
+seen_titlehash:5cc26b605dd7be8c23c06dceb19adbb50cbdb3b60214d458384a5a668693ffb4
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb
+title:sydney man charged after alleged gunfire prompted dulwich hill lockdown
+seen_urlhash:c7359c8125448a2392b748f5515f495c919fb0e88497ed9d078bb73a75368101
+seen_titlehash:387dce1f34256767385c49d03677a2d0a53c7b410c2764e9b21fe1f496a15967
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb
+title:jordon steele john says i m not on leave and accuses greens leader of making bad call regarding complaints
+seen_urlhash:445b960ec36735a1c14a4d886c9278ab55f929cceb050a3ba7b31566160e6d73
+seen_titlehash:fc705fd096ce2ab9f4721a44b1d47f09a60345b5b044dd64273f2b94bf386f99
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss
+title:macron condemns violence after riots lead to looting and mass arrests
+seen_urlhash:35a894396a1992d4819b180a8ddb79f262a2d9db47aae95ee80ce4e687f562d9
+seen_titlehash:219d42df17b49f2aa9b2e12d7d47e2f362458dfc28f30da9892fc8c4a3a42a06
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss
+title:fire engulfs albania s supreme court as protests enter fifth day
+seen_urlhash:27782f26b9fa0416ebda66901e45f6c993a0a65f2ef6b89bb911abf5e4191b72
+seen_titlehash:2b38da094ef8f04d5bc181f4dde71c0b7800e1dc6259858e45581c062e3103f4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss
+title:anger and shame macron denounces france s nationwide rioting looting
+seen_urlhash:f12ea8fb6b66fd55ca589e8d801e21810ca17f8ed5a1cef665fa5411047d75a1
+seen_titlehash:76646ccc4b61773307e8007076c334ecf34c36cdf4d0a0915d9f88926afe4704
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss
+title:what s behind europe s youth protests
+seen_urlhash:db0697787225cdaa6851c4dcae4884b0b0b940efa877e72af3aecd6328c3427d
+seen_titlehash:70871b88ef6b48d17f1673f5e250a39c20b8dda0c8dc0ebf19a4b93f5ca928df
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss
+title:india s crackdown on cockroaches critics and cameras
+seen_urlhash:044f19753f08182dc943aab57e75f7dc7e61ac79f4adf847047595dd9ed57b1d
+seen_titlehash:741fb7c0b5e7d02f3a5230941c3b55d7076a5aa3e6509d896f0be9af8145b99e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss
+title:how will europe deal with youth led protests
+seen_urlhash:2cfec054f1925436de74d57f1f463421503fbc0f2c9651dae302fee8a9c0f52f
+seen_titlehash:be7ac9836d12b600053da2727fc488463404f8cd1a045298f060c36555ef6706
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss
+title:clarence seedorf calls out genocide in first corinthians press conference
+seen_urlhash:a64873c9862c776e0b7314723fd3d6c434e7a3b86b96a8d333487140e3324942
+seen_titlehash:5e869bb3aba9255e072ec1ce865b7d4adfd4b2014e463b29e8b4ad91636bf66a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss
+title:russia s war on ukraine must be brought to an end zelenskyy says
+seen_urlhash:80272227575be473f13f1532c629d92e0ca5cfbf82f4645a2beb5397b865a3de
+seen_titlehash:1055903146dfe5bafe246956088b0370aa312cb10466e9397158ffd5ca9e7856
+seen_reason:processed_not_published
+url:https://news.sky.com/story/flight-from-tel-aviv-to-vienna-makes-emergency-landing-after-bomb-threat-13600784
+title:flight from tel aviv to vienna makes emergency landing after bomb threat
+seen_urlhash:0a1caaca48cad379a89b06e78d1e4865c2d58a5f80c80a8bee86126df3262186
+seen_titlehash:182d716fb24eddb529439fdb2b3df35cd1f029082ffff6f2ec2b18480deedf1e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765
+title:second day of violence in milan as protesters clash with police
+seen_urlhash:f0ca77deff304b258aea7bccf46f95d23fc16ad7e845526c87dd4c3ffdc8397e
+seen_titlehash:012a3425273e1ac4a066ac30b66219f88cd32e15604fac29175d2e8686b79b73
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions
+title:trump defends russia sanctions relief accuses zelensky of rejecting peace
+seen_urlhash:a81010fb46094f87c3d73fe5bccab694e88457723027fca1d78452c61530f0cc
+seen_titlehash:0a28e14aeced6b07f6854e68e520100d2f70b0a27b3686149d3a93328466b47e
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters
+title:paris police clash with demonstrators and looters as protests continue
+seen_urlhash:39aaf47800ed7c07acdafb375af76f7703b8be20815573fc8cd7e970a5bd75d9
+seen_titlehash:52b478c9b837f27f7396d5a91705069633403b7d67a474fd9bce9e0d0e80400f
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-связал-действия-администрации-трампа-с-попытками-склонить-украину-к-капитуляции-при-отражении-вторжения-россии/a-79694526?maca=rus-rss-ru-all-1126-rdf
+title:зеленский связал действия администрации трампа с попытками склонить украину к капитуляции при отражении вторжения россии
+seen_urlhash:bf01391f5820f1a4ea9bb1ee07f10d15b63b83425bfa3bded7bb955624f96be5
+seen_titlehash:dfb73758ec7368e408b20a1f2e8249cf95cb7452f0d98134000276636be40fa0
+seen_reason:processed_not_published
+url:https://dw.com/ru/макрон-осудил-беспорядки-на-массовых-протестах-из-за-роста-стоимости-жизни-во-франции/a-79694083?maca=rus-rss-ru-all-1126-rdf
+title:макрон осудил беспорядки на массовых протестах из за роста стоимости жизни во франции
+seen_urlhash:1fad0ddd821f0ef8d67dbf7ac734f9a43a589acce9a6eb8df3c93050ac884099
+seen_titlehash:3c1fc578bf7f31b838307bd4a626129df32e4ab4d8d0aba3fd028fde14b810f0
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/18/macron-speech-france-protests-violence
+title:макрон те кто пытался свергнуть республику ответят за это
+seen_urlhash:05894d70c1d9e1a097d6786bf15433dc8bccf7085cafd57cfb427e8e01b6bfab
+seen_titlehash:ca5f98b6db71340748c05c1ebe00b62b480ce1ba0f187fc90091f1c1a86cc3e8
+seen_reason:processed_not_published
+url:https://ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1
+title:evercore appoints co presidents for the first time in leadership reshuffle
+seen_urlhash:b39386ddcb92f8590a6094b549304950a75883b21046e541c7bc956928d42bd2
+seen_titlehash:f733bad65d14e1360adff78f43cf9a5741485ff68d609445d533032518c4f56c
+seen_reason:processed_not_published
+url:https://ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1
+title:macron faces political firestorm after riots
+seen_urlhash:625c3f24296b20b805b9fa2b4c8f83504a400a289b6ce79729e32c2572ce87c7
+seen_titlehash:49b1f751bc389999948f5a4db2dc9ec0168e3efcfedf2f02e747e7f5785d117a
+seen_reason:processed_not_published
+url:https://ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1
+title:trump to begin transforming historic golf course despite court order
+seen_urlhash:5f61d84632d78d43168c45a35e55001dff9ffb5811472aec83ffb79cb1804391
+seen_titlehash:95b9aca6bd80aba43e5a4feee3cf972323863825ab53a01d80978ffd8a88e6f3
+seen_reason:processed_not_published
+url:https://ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1
+title:us army chief in asia calls for show of enhanced military muscle
