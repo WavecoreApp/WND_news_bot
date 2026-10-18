@@ -155703,3 +155703,58 @@ seen_titlehash:8b164ab6f2cc524250b241fd8034563ae57cb0890bdf2731d9a3a0bdaef95f3e
 seen_reason:processed_not_published
 url:https://dw.com/ru/массовые-протесты-во-франции-более-полумиллиона-участников-1200-задержанных/a-79689929?maca=rus-rss-ru-all-1126-rdf
 title:массовые протесты во франции более полумиллиона участников 1200 задержанных
+seen_urlhash:a5ca2b59040510aed72169e44b13fbfe7c62b61841e829434e649bb1628bac10
+seen_titlehash:6b8f1f1aff2194604f35713306b4ea8238666ef839960ed840305eaff891cc37
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb
+title:ebike rider 13 charged with sexual touching after girls and women allegedly harassed on northern beaches
+seen_urlhash:53e39e53c3b96f6132f53f20bad10e1c65b2f4e722bbe9ba49cd1661a119113b
+seen_titlehash:7a4139c45470c849802fb6809a2eb69774fdda47dfb36dda20010686c8404d88
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss
+title:buildings burn as french protests go into the night
+seen_urlhash:51f520b5b82f229171d36397e8080cc3e046f108b5f804aad323481a6e6c2a3b
+seen_titlehash:0a2746cf588b2cd5f06b718973b371ff6a3627847b6cc177cbe99aaf468cbc48
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss
+title:saudi led forces try to break houthi siege of taiz with airstrikes
+seen_urlhash:e2214e0dc1e2d4bcdb57ef01644de8f2fd108a01a52a848240e2aa773a3bdd9b
+seen_titlehash:1ae783c63fa9ccfa127bfcfeb9f1ba87ed4977aa653477a32c632925fd581787
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss
+title:israeli settlers attack european diplomats in the occupied west bank
+seen_urlhash:eb5bff47b8cd1fa69f96b6f5d176793a5fbb83dea08f790b27fcfa4991e2a12d
+seen_titlehash:a92b36704b41a96d17c767cd1036d3870a8c2e1e6ca23f140f7931ae9f93e755
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss
+title:iran war live israeli settlers attack eu diplomats drones target riyadh
+seen_urlhash:1aeeda89cff55a8be9eaa99c9e8717faa0f221a739c1ad01efaa9398582e1e90
+seen_titlehash:af89da3937d4f72952aea001c7a3a45c3b1bf0683d485f9e447b315d06c27ff3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss
+title:us ambassador urges israel to prosecute attackers of american journalist
+seen_urlhash:89561c6cdadc4e33f89e20fffe9e75c25827c35c859c8129f1a8e3cacf631c0c
+seen_titlehash:f257fce2f9cdb709c7d666e1815c47588f8a0d7bb8d8cc0db69345b9cc4b96ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss
+title:saudi led coalition intercepts drones as egypt weighs sending help
+seen_urlhash:1c128272459e326903d04bed082fa2c5229c5af69492fd83202774bf33df863f
+seen_titlehash:e65f02038a828d95f6617dd32e3b78219c815c05300c95b4e2c89aa087b30c37
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms
+title:standing up for democracy atlanta no kings rally draws trump critics ahead of midterms
+seen_urlhash:bfb0f3ef177c3068542c0212509e36413c199792a1f2e8a067440edd2ca0b229
+seen_titlehash:4250bb58606f3d648895f6b7747273e3b6a2d274287d42547306901175762786
+seen_reason:processed_not_published
+url:https://dw.com/ru/nyt-сша-предложили-ес-возобновить-закупку-российского-газа-в-рамках-мирного-соглашения-по-украине/a-79690500?maca=rus-rss-ru-all-1126-rdf
+title:nyt сша предложили ес возобновить закупку российского газа в рамках мирного соглашения по украине
+seen_urlhash:acd40f68d433343d21ac28b130f67cb67a0027fccb6d030f09f9588eaf1593b9
+seen_titlehash:0afe629fa51f739332fc369330c719a19394cf1e4506587218b74345fc3bbd83
+seen_reason:processed_not_published
+url:https://dw.com/ru/собянин-195-бпла-уничтожены-на-подлете-к-москве-за-сутки-ночью-атаки-продолжились/a-79690220?maca=rus-rss-ru-all-1126-rdf
+title:собянин 195 бпла уничтожены на подлете к москве за сутки ночью атаки продолжились
+seen_urlhash:2955415786e9a5d80397246b0487f1283834fefb1ab5b0a9f4d8ff58c783b7d7
+seen_titlehash:b5653b82ab717a0ff809bff290c19930d3bd603b32f8a1ee53403c385d3d3c2d
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/17/novosti-dnya-17-oktyabrya-2026-g-vechernij-vypusk
+title:новости дня 17 октября 2026 г вечерний выпуск
