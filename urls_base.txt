@@ -155758,3 +155758,273 @@ seen_titlehash:b5653b82ab717a0ff809bff290c19930d3bd603b32f8a1ee53403c385d3d3c2d
 seen_reason:processed_not_published
 url:https://ru.euronews.com/video/2026/10/17/novosti-dnya-17-oktyabrya-2026-g-vechernij-vypusk
 title:новости дня 17 октября 2026 г вечерний выпуск
+seen_urlhash:a54af17bd175779133bdbb6e06526dcca33dc21a147c247a87a15710bf319c70
+seen_titlehash:5ba56874b38966d378844a9816daee1ab2422a04a2365c751c70a359a1319159
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss
+title:a wave of homemade synthetic drugs sweeps us and deepens crisis
+seen_urlhash:3605019eb300445f4ada7767c74c4963de0fb7172cbce68eac43606b316d11e7
+seen_titlehash:e4c88c881d9b88466eb4ff5c3f629226a5ec4411f3d31c895c47d8874d2678b4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss
+title:several dead or injured in major fire at canada military base
+seen_urlhash:4dd4f65aee9eacfc8a0cc157a6bc11dd6a842b5c492327ee6785f68721f10347
+seen_titlehash:2f08d534a35f6ba37774ebe1349e6caf52d1f01516ef5719effc2393ba5b0f12
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html
+title:deadly incident at canadian forces base wainwright sparks fire
+seen_urlhash:870974f8ad2caf60d99e883998eca2489e271e8b74ab7db6cdaf0d9c2136b645
+seen_titlehash:d9951406ebdc7d493f5c15f9151b10dafa5320b9cb7f95c08f04f69c7d1d1ad8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html
+title:in india the scion of a political dynasty tries to seize his moment
+seen_urlhash:011235b01aaccd01ed7178a43920abc83a08e803e3e3bbb482cd9f42dc44b132
+seen_titlehash:9611334f188293a120de84d284915bddb15dffb4f6914f5599e1fa7b1b0847b0
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria
+title:an extraordinary life descendant welcomes biography of woman gifted to queen victoria
+seen_urlhash:39c58da1b4c4ff253736a97a435b3b9928371c37d5cfef7bcb1f595e04a8c6d1
+seen_titlehash:4e48f885f43c17ebe44267fd15fe0775f4ae5ed1c742b1741fa9a3d586a9dcb0
+seen_reason:processed_not_published
+url:https://theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina
+title:4 000 people minding our own business four decades on falklands again face a hostile argentina
+seen_urlhash:47760cfddecbae673cceba39641403d265d08e0716bc1446ef1b3fbce3a6b7ac
+seen_titlehash:7e1b49dc613e144eca899cea9607e3a589bd5ff9ebd6251b1a4777708e12a683
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright
+title:serious incident at alberta military base causes deaths and injuries canada officials say
+seen_urlhash:3730c5d3f496c582252cce3229f9e69a459de20f9f7afab246b3639ea2e4b1c3
+seen_titlehash:51455ce046f520b6f96537d2605b46b14b12ad9e633b2113f0e7eb155223463b
+seen_reason:processed_not_published
+url:https://theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books
+title:many family stories tim winton s cloudstreet takes out abc radio poll of top 100 australian books
+seen_urlhash:38402ddfe8f0325bf9e84b4c5683d9b506712df92cb1e7e762424355dfe8eb20
+seen_titlehash:6941901766aecaa8b247025021c5f83a1dffa6dffe91a8c099ad2f50bd96a6f9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb
+title:indigenous woman shackled to hospital bed while in labour in queensland
+seen_urlhash:703436c48e890380afb637a3fd376223db6c020ce605c4ec6f2b03431263e365
+seen_titlehash:1518bdce8608d1e77ceaef845af1d2c845f489d55673a8a02b907642c3c874f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss
+title:daniel dubois defeats fabio wardley to retain wbo heavyweight boxing title
+seen_urlhash:b8a2bf57b007b43c3bd64ba96bc5245e237f6c1316094a3b170c8fc315b6a682
+seen_titlehash:89c9a4756e4d3dfe9727fba3c9c7935105abeb47f28e8708592f98b8a1352268
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss
+title:guatemalan former prosecutor shot dead at sports centre
+seen_urlhash:0ade9bfb8e22ba28f7a957a01b0fd966cb40c1e5e18c08b2851fc11c4b469336
+seen_titlehash:e93ff165976f52a5a2f314fe8c94dbff55469aeca5db3f98845e6d5adee2509c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss
+title:ai tool helps stranded protesters find their way home in the indian capital
+seen_urlhash:f7423454a317a8687db812e00dbee152ee2057febb272838a081844fff17609d
+seen_titlehash:8f81844dd2dbeadf7ef3b3b2a4a203982f1018d66f8a4f3618cf8bd8d6bff4c9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss
+title:why marco rubio s visit to mumbai has ruffled feathers in india
+seen_urlhash:9fc21de75f88c2bd55dbd678a315d2a1429a50c79cd3f22f08b6624da8ca1985
+seen_titlehash:4fc12652737d94a35535b7968641ecbb8d1a0e245fda0f2ad09633aa97e0d735
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss
+title:deaths injuries after fire at alberta military base canada minister
+seen_urlhash:f97229f5d24312f2341c6524af2a97fcafbfed04b46a179714c1f108365f91ee
+seen_titlehash:fdce875e4a0dcc616e6ebc952faa4e796acfe6ae00debf0c90dcc46910701431
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss
+title:st petersburg under attack from ukrainian drone swarm
+seen_urlhash:1e344cb1e5b811f689169e85a33644ab1991b8caa2e7b1a611b7107fec7cf2b2
+seen_titlehash:d2cba1badf307f4a2b67ba5f9ba63be09efb6a226cd699e6fa66466863a6a16e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss
+title:uk police rule out probe into palestine action post by pm adviser s wife
+seen_urlhash:20da54f0a4e93103032fd3c5bb7edf45928ced00f6e5f9b6f3b2296d4786c2c8
+seen_titlehash:425ea2299c022a3b5bd1063b4a0703f82ce9d6063505a810fc3de72491e3e3bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss
+title:at least 19 dead in stampede at kolkata hindu festival
+seen_urlhash:da1642cd5d418a293a7a9cf278afeab55afeaaa174fa4949f42877eb264e5156
+seen_titlehash:69a8251c4bca88f824ca05fdff3b02b905fd7a8cfbab7e4508dc4c76ccb077fb
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss
+title:tunisia s economic crisis deepens as the promise of a better life fades
+seen_urlhash:21912bd005ba2406b56e782ea4361b5e6aa9a52297981f8850644f3118cf4271
+seen_titlehash:2ec1da03c24af06cddc99614ab8d40e225b9a8b9aa4d0f0430d0ecc4cd8797c4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss
+title:rubio wants crackdown on settler violence after us journalist attack
+seen_urlhash:19c9c224ab1b2326c98485fdd97765c33a0362eeb1e76b36a37c261b01518e3e
+seen_titlehash:d0fb6135d04fcbe142489929bccc50584abe923c9500bdc526c0bba1edbaef76
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss
+title:search continues for 11 missing after boat sank off mexico s baja coast
+seen_urlhash:d4c05cc131dad9663e92c26f200e6afb38383d2ef90f126079f40972b6cc35a1
+seen_titlehash:ace2ff4348f2d9744a89d08a048466a5a7daa89e821ccfc2a3ee178e48c50c63
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss
+title:fears grow in drc as former president joseph kabila joins rebellion
+seen_urlhash:0b3e2062ed0bb880fc623ec6729a8d20a5bdbec8028e67f6090a9a26c8e87959
+seen_titlehash:970916b9d43d4c45f9842e09efada38399dd4285afda0eef69934e978a16d42c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss
+title:iran says two tankers catch fire after hitting mines in strait of hormuz
+seen_urlhash:2d0662419d7e403bd06fea237cc91bb578144f550841505dc8d66cd7f87eb1f7
+seen_titlehash:4718f2eb601ed1af07cddd60cb3c8c2e43dad7aec46ab840432310bed531a3c0
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia
+title:months long indonesia wildfires spew toxic haze across southeast asia
+seen_urlhash:e9767662712d34a1ada49e7944d5e8e1fefd9fb6f3f2013bd54a35e2de876032
+seen_titlehash:f8cfc24e19c83a77dfd7112048d47ade16d20dd81ad7bb46c8a94d2e12576ab1
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody
+title:india s cockroach movement founder released from police custody
+seen_urlhash:00f88ca1eccc0969177b3e176d74bc1af7eb7b3d49e860644eddfea423d51162
+seen_titlehash:3f583eae5710ba2978ae5cbb872983ae251dac2639ee4d17734f89e757d6a2f7
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france
+title:live a record 855 people detained in paris during protests police say
+seen_urlhash:84378dd5e095cdddd78528370ae30b31f963514fb89afb6d2022e6aaf4226fc0
+seen_titlehash:8142d4dc6e9d90a660d0cc8b61414a8f0d42c8eefd54f2536d35e5dddf9aa738
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact
+title:rubio says trump to analyze global impact of russia sanctions during pause
+seen_urlhash:ea9702f51b9855d7bdd815d7655c2a9ab637f3a48de58432e37a7a80fc9c8dcb
+seen_titlehash:249f31ad02340233226a35bf5ab473a858c9732cc33cca5e620ba02c7783528f
+seen_reason:processed_not_published
+url:https://dw.com/ru/жителей-севера-литвы-отправляли-в-убежища-из-за-неизвестного-объекта-в-небе-об-опасности-предупредили-и-латвийцев/a-79690968?maca=rus-rss-ru-all-1126-rdf
+title:жителей севера литвы отправляли в убежища из за неизвестного объекта в небе об опасности предупредили и латвийцев
+seen_urlhash:f8be4b6e00b422afb2030e257a6af3e4a1574551a92e00a42644253f9dce226b
+seen_titlehash:0ec28131fa0f0260929222ab2eb8c7487ac5bc90e088bb13072839545a475ebb
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-аэропорту-лейпцига-прорвано-ограждение-у-взлетно-посадочной-полосы-где-с-2022-года-стоят-российские-грузовые-самолеты/a-79690886?maca=rus-rss-ru-all-1126-rdf
+title:в аэропорту лейпцига прорвано ограждение у взлетно посадочной полосы где с 2022 года стоят российские грузовые самолеты
+seen_urlhash:b459061121f8b680d6484101efa45324c1cb6e6a09fa58f17ae1be186bff3ecc
+seen_titlehash:ac76a099017a884950e3a9450bcaa34a90941a955703ab4a27c27d76ac767bee
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-бпла-на-петербург-и-ленобласть-поражены-нефтяной-терминал-и-дата-центр-vk-сообщается-об-ударе-по-мосту/a-79690590?maca=rus-rss-ru-all-1126-rdf
+title:атака бпла на петербург и ленобласть поражены нефтяной терминал и дата центр vk сообщается об ударе по мосту
+seen_urlhash:ca21417e71fc4672754d643d31c05a0c0267a25d6c0052cb1c93c8e21f48be7a
+seen_titlehash:e154551d56dd7a03f8693231249b146efee163e47b596beb16813e32d4b7ef9c
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-атаковала-регионы-украины-вечером-и-ночью-два-человека-погибли-в-полтаве-и-запорожье/a-79690512?maca=rus-rss-ru-all-1126-rdf
+title:россия атаковала регионы украины вечером и ночью два человека погибли в полтаве и запорожье
+seen_urlhash:6c161c09336f05d1cde091f4fc192c0c6989dbf514ddbf4bf519135527df9b01
+seen_titlehash:ec6aae6e858fbe4fb7a18ec6ca44050ffb07be164b7f39791b1b9ad9f5f3532b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/18/france-destruction-protests
+title:франция потрясена после дня хаоса на фоне массовых протестов против роста цен
+seen_urlhash:a2422f69aba380854b55f174578bfae8238a2c2db7dd4605955d08c1643f574a
+seen_titlehash:274c8ef780a79d933cdaf3660165e9573d35ce92157a9b50464f6fe54ab34936
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb
+title:без рук euronews прокатилась в первом роботакси европы в загребе
+seen_urlhash:2b8cddeb7e4dc14e568a2e05c50e962ec409df2ee38c8555c2ab454b187019c0
+seen_titlehash:c8364da8b147f370334659fbb9cac58e7b6e68ed13f6f11c53570d9281096efb
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/18/every-sunny-surface-is-being-put-to-work-europeans-are-transforming-their-homes-with-solar
+title:каждый солнечный метр в деле европейцы превращают подъездные пути в солнечные панели
+seen_urlhash:428974694df710d59e6433c35cf299a5788682ba32262b5a6bd1c2e303f80b1d
+seen_titlehash:160aa734102727bddb3a73825809166631d43d13a0c86870df45a40b9b7b0d50
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/18/tee-off-in-europes-most-underrated-golf-holiday-destinations
+title:стартуйте на самых недооценённых гольф курортах европы
+seen_urlhash:e63d541814aafdd408fdd6c17a565dca4c9b773d12e98ee7877779a7893b4b5a
+seen_titlehash:b8ae1b3b6123d859efaeafaa91ca59cb723812d03140cad4a390230cbb8656e6
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/18/the-wall-street-journal-rasskazal-istoriyu-rossiyskogo-perebezhchika-lva-stupnikova
+title:the wall street journal рассказал историю российского перебежчика льва ступникова его сотрудничество с всу привело к гибели сотен его сослуживцев
+seen_urlhash:b947cff4f1b0e56ae2cb45e7548e5229acd534d64738521ccb0da87ae77bbcb9
+seen_titlehash:65526bd0584e732dbf5c4707a807452b519c344fe5a262f9ee3aa19d8fa176fb
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/18/voyna
+title:война 1698 й день санкт петербург и ленинградская область пережили крупную атаку дронов повреждены нефтяной терминал мост склад ozon и дата центр vk
+seen_urlhash:ac2fd2359f36b15cdb949e4d3268760fc50215a5a4656c6f66edf70c5a68fe63
+seen_titlehash:4e7800e4f5543055347f65edb46dc474e29268c17642d8aac6844f068e4584da
+seen_reason:processed_not_published
+url:https://ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1
+title:cash is making a comeback in digital india
+seen_urlhash:a93088918086b53e9401329fe21ac12c3fc0058002929f0e6ec9cc15a0a810f0
+seen_titlehash:43e13d93c116e4c4b543f92faf13516b20ea738e520cf3e58abdfe3213cb3adc
+seen_reason:processed_not_published
+url:https://ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1
+title:america s 10tn ai infrastructure boom is starting to fray
+seen_urlhash:7bb49f2a12db5229e0b4f56c33996bcf43785fc986850bfc6566146d31b6b46f
+seen_titlehash:b6ac9dc4ab7277aabfe30c9d946a974282e6e79d1b908052d4a6282be0e8b885
+seen_reason:processed_not_published
+url:https://ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1
+title:the trump administration has entered its utter shambles era
+seen_urlhash:be04f481dc89964faf5884dfdd564fce21a18ad8cfa9e4a2febf2d53af0de2a2
+seen_titlehash:13c93593465543c2d19f5dd176a73c54c165d6eec6f1a9ba34989842d4b07485
+seen_reason:processed_not_published
+url:https://ft.com/content/fbba5e95-a6f1-4881-a42d-85ef32c28b7b?syn-25a6b1a6=1
+title:far right election gains threaten germany s investment drive
+seen_urlhash:1a87cd9d304bb31eba54ab61eff9b90675831f78d7ab21932c1280db31186b06
+seen_titlehash:67fb23b7083035508f942e7d5b6386e67bd82f1b07f9180582217b408d5c9099
+seen_reason:processed_not_published
+url:https://ft.com/content/747f16db-17fd-49d0-b109-981274333feb?syn-25a6b1a6=1
+title:is american democracy safe martin wolf on the us midterms
+seen_urlhash:eb9517010b68251d4b25700767a387d3cfcc2eb6d65693857a3e23162ee54fa9
+seen_titlehash:bd382041615601ec269d14df8e5102a05d0099fe069bc6a63cd1ece5ae68a9fb
+seen_reason:processed_not_published
+url:https://ft.com/content/d5a46c91-7e08-4787-806a-c8c43c4ab6c1?syn-25a6b1a6=1
+title:how perella weinberg s m a dream died
+seen_urlhash:6fa2caa4bcc92b94bc1a5f26631fc22c7f84b905b599b3df1c42cf203e638129
+seen_titlehash:0b433a67a24127b9c40575e2b2a78a2c344ea8402fb0ac8a44f9ce5b16ac9f14
+seen_reason:processed_not_published
+url:https://ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1
+title:russian shadow fleet fakes locations to appear in two places at once
+seen_urlhash:e77da7db3a2f54a0d1854c11dc0b8f4ba22318d37e7e881707d55afef0502c78
+seen_titlehash:99b50ab074f2d8b42989b5caffd65be20a1b78fc6c0a1d694cab97ce49c5988d
+seen_reason:processed_not_published
+url:https://ft.com/content/236f73b9-cd71-4ef4-a5dc-303a9d7be673?syn-25a6b1a6=1
+title:why we just can t quit the site formerly known as twitter
+seen_urlhash:8f1e299ea7789cbfb8d9a9645aa16fdf71e03a864f3d65e72bf57f0f76b61856
+seen_titlehash:05433c86a2dfda95737953d2676826fb655779549b9119af3dc9bcb824a19871
+seen_reason:processed_not_published
+url:https://ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1
+title:latvia calls for visa ban on russians
+seen_urlhash:cdb283cc95b7a561f0c117153ab17161cdf01493d4fa407b192bd7c825b20455
+seen_titlehash:de12aba241edad986b456db6eabbd202c66f7696741adc1c599196267f15e10e
+seen_reason:processed_not_published
+url:https://ft.com/content/8195ec25-5915-45f1-b79c-15b1e9c30488?syn-25a6b1a6=1
+title:why london looks better than ever for a business shindig
+seen_urlhash:c83e55468577779c023fa9ae19ad60b6fe50c40e16f615c040fa866d85e23a83
+seen_titlehash:f8e958b41d5440a51641dd0fa3c7fa9d1365c90cedac7232c38bb0814ed37319
+seen_reason:processed_not_published
+url:https://ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1
+title:the world s fastest growing cities are not where you think
+seen_urlhash:cc175bd4638480f5a3b965794e20f032dd815dea26051da9c40654ce9d7cd784
+seen_titlehash:d61c3bfa99a2f028e61954daa89d29a989bd9880b56be8a5be097bc48f8460ed
+seen_reason:processed_not_published
+url:https://ft.com/content/a1b2bdd8-212c-45bf-91d7-7e56a6fe14bb
+title:the us needs a social compact on data centres
+seen_urlhash:6597db10af508804747f7dfdea4b0f0dc4b64ad25b4350a4297eef41106cb31a
+seen_titlehash:5f20a0807171dbfc5f10a43b084890f3337f0620850ffb8a95fae382358fb6b6
+seen_reason:processed_not_published
+url:https://ft.com/content/5427eed7-6cfc-4e8b-892f-efbb289e4a53?syn-25a6b1a6=1
+title:how youtubers finance their videos
+seen_urlhash:2e6f1a9e1a51824986645fc3b6f84aab549efa4ec206443942852fa4e911c80c
+seen_titlehash:03d92c7d1ba731ff566d4cdfc2862ee9a5f87ef24de0614951ae80ffc8326f98
+seen_reason:processed_not_published
+url:https://ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1
+title:global economy set for ai driven surge ft survey suggests
+seen_urlhash:56dc8d4db1f4aff8705c2f2c2ab20b211a413fd160e8e09877e4989e55e64c31
+seen_titlehash:8b57b796fd9228f132770070eb074ee325d72c3ee885b83eb99e37bd00117f42
+seen_reason:processed_not_published
+url:https://ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1
+title:europe must liberate belgium from its huge russian assets risk
+seen_urlhash:c907ae1fceb5cc7a633f6d01c9f0fa2f8f0218a16bfb909ab081b90da016e7de
+seen_titlehash:69ae788bf29ca548d99bbb06685f3ec99f92afcea992d690271879df57d33894
+seen_reason:processed_not_published
+url:https://ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1
+title:anthropic turns to lawyers to help ai agents strike deals
+seen_urlhash:e7e8fa80f8d2ad3c27746373f02ccf256153c5f864a2d135d4e1cf1b1ba34160
+seen_titlehash:d35ecc4b2cc91162e60eba74d7dd9fe7181af9aeca93fbc4dbebc71bdd66c9d3
+seen_reason:processed_not_published
+url:https://ft.com/content/c3f4c343-ea37-4ae4-a129-7c5aefdb55c1?syn-25a6b1a6=1
+title:arab israeli voters aim to eject netanyahu
+seen_urlhash:f25263187cebb3965d62200f81ab769ad1505a2664e2891c5f026f094ac2d950
+seen_titlehash:7ebf2e6daff42cafa8b998d3e3478f0015b6a40cc858d6015f9a0dd6590534a7
+seen_reason:processed_not_published
+url:https://ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1
+title:listings in south east asia gain momentum with 1bn ipo
