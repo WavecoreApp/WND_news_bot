@@ -157253,3 +157253,533 @@ seen_titlehash:c049c606d5517b1dd0c703405ab4193c2e68404798b45d5ae3f80602bf1f2f0b
 seen_reason:processed_not_published
 url:https://ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5
 title:flight from israel diverted after threat
+seen_urlhash:21ac2af572f8febc95a98c67ed49451b31ecc69984ec7591a055bd3232255a29
+seen_titlehash:d0e1a0712a4abe7843dc9a7091a9525c1e807d8526de6ba470c79e4c172c5bef
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss
+title:alberta heads to polls to decide whether to hold vote on separation from canada
+seen_urlhash:e3b1cf6f21cdef8c06246efc9333da960f83b69becbd8e9a6451bd5243d7b015
+seen_titlehash:33ee6c80b15cde47217b0d78abc1cff12bd6bdcabe11b0f5508d868998a715c4
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss
+title:funding shortages force world food programme to cut aid to gaza
+seen_urlhash:6d90a735ac50ff01b1a6ff04a84d401b0b206a2fa14ba52252e79d0e043425e2
+seen_titlehash:e1ae21a7ce2bffe7fb28f3a776e3b458c9895797732e89c4addf417fe2a518d1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss
+title:possible wreckage of amelia earhart s plane likely to be trees say researchers
+seen_urlhash:8058ac548045705782c768b5ec2b90f71b86e718ec6dfd6155ac67c84f8f4522
+seen_titlehash:ee8b2327e150224460e3a8e4c5f3895f852220977b6ee53e4306955b9d22b62a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss
+title:italian pm meloni to hold emergency meeting after weekend of violent clashes
+seen_urlhash:5b47c15818f6e2f35ace67fd4b5e249ab1cd4e80bbc5a271af282d13c0fd0190
+seen_titlehash:ded22e53c59d3428492d723968d2f6480edbe44b6d6382c82da5c602bb9772a6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss
+title:bangladesh says it was not informed of its citizens execution by saudi arabia
+seen_urlhash:ce53d6e02bc78d03f86f1753c932ae605321a3536774eee637ad4b96f8884f1a
+seen_titlehash:5f1e8dbfe190061671e8400bb0b247d4486b6badb1d721b92a29f87455094786
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss
+title:deadly fire at canada military base moved a kilometre in 30 to 60 seconds
+seen_urlhash:7ac7c720666461814fb38353b083ce8ccbc2d870cc7fe7e842cf4d1277c734a0
+seen_titlehash:9d839958eeadfb2b750ca0c45f96750596f427ef481a7db58f6fb96bb53c61c3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html
+title:how a trillion dollar industry launders illegal gold
+seen_urlhash:3477450b7252ecd1b25e5c7357d7bfb51eb367111be661ca5e5e43a801fd6e1b
+seen_titlehash:97b92eb374182850579f2509c0b240e8fa0c76809817d432e935734ca91398c8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/france-far-right-protests-riots.html
+title:france s far right seizes the moment as rioting stuns the country
+seen_urlhash:a665f050955b968697aefbe72218dfc7b23b1a4ffa2c9c680444ceb6c894fb70
+seen_titlehash:e8d11bd645bbc311935abd6a7a22972d57b0521f70c6d8e6f7b61bb9399ab93f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html
+title:for israelis and jews in the u a e an eroding sense of security
+seen_urlhash:f0a1876ba39a2273b6dbd039e2ed6a8037099f2979877271eaae60e760476d24
+seen_titlehash:4568166f396942343887a10a0daf0aa4eccd4aa44f43060f530825255e25ebe2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html
+title:ukraine uses f 16s to shoot down russia s jet powered drones
+seen_urlhash:ba8cb112b9e09d4119f804c7dbf05512f168a2b3aa9b6822b2c86000dfd33439
+seen_titlehash:24b9fa9af56e56ae2f68b7c79bda5547c4d3bd711f87b6333b1f338b235dd775
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html
+title:australian lawmaker helen haines injured after attack prime minister says
+seen_urlhash:7460949d7e454a40ab5a76676526e12a9df6a75b095ecc51c795bf4bd31677e1
+seen_titlehash:329cb834f7a07f7056d7a5d6115a88f8db1d5d49a41c4c4985a631aa08629e12
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html
+title:maría corina machado on venezuela s future and her relationship with the trump administration
+seen_urlhash:eec9dc936d4c3aaa720617fbef463674fcae1e03182b5ed5e8b38d26a5f9176c
+seen_titlehash:2956150fc7d593652fd2d9fa3ab5cdeabb751ffd5bcc9d77d56fd7ecd961f289
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html
+title:as alberta holds a referendum on separatism premier danielle smith has alienated both sides
+seen_urlhash:81ff5a04d6f704c5550700aee3ae9ba380b27d9f7f2ca6109a8f1030d7597b58
+seen_titlehash:0d16f571ee38929bfd1b8768dace37ed8b1597bb76f36b8cfbf22046eeed1706
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html
+title:to find criminals and child exploitation in gold mines we just had to look
+seen_urlhash:1bdffa93aaad7fa9dd73b724b0a53fadccca8261fe1b37ae0fb51b804ebe79a2
+seen_titlehash:cceb4c414c895899321b9536c06cea815aa71849c8495dfc8482a042eda43372
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html
+title:what to know about the search for amelia earhart s plane
+seen_urlhash:9039a663e39326cf78400910bddf83d4e27f888fc4282d3e3c86203170d8a9a4
+seen_titlehash:8d18c4d9f7b9106203ad7416cdc14cffeac3382ce6ab886a65ab74f17a0f2508
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html
+title:can this international force stop haiti s gangs
+seen_urlhash:d57b8e6983afb70e462ae546837ddafce3e8b3c2a9a1ed7c44ece43da4f53236
+seen_titlehash:90ac0ee9d8189ad936b2d90f2a2cb8fdfeaf9220422732c7a1c51c647a454105
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/19/science/evolution-life-earth.html
+title:how did life arise three turning points in early evolution
+seen_urlhash:0303ff403b11de9b1e0fd78443350de52571e7feac4d9326098a2eea9b3e16b0
+seen_titlehash:5a7368f15aaa2982343fd0c608be959f5ffa2163ed8e1481988b63028663e646
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html
+title:coast guard halts search for survivors of capsized boat off mexico
+seen_urlhash:fbfce4ff49cd07a81536b483ef8b980120f52d7413111d19c18c79485969c9a2
+seen_titlehash:1a5171400c40be6f095b4d785f1f1f29da1b48d60dec540aea5fcb62839b9d5e
+seen_reason:processed_not_published
+url:https://theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods
+title:hurricane trudy menaces mexico s pacific coast and greece hit by deadly floods
+seen_urlhash:44c5336093e01f5a48d665bd61f1c7721b6a248865fb5e264ea4b3ac8d48cca8
+seen_titlehash:9cff7943b6cf7d040c6902b784bd5431c41780071bf72678986055a1baf0ed13
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports
+title:china s economy grows faster than forecast after ai boom boosts exports
+seen_urlhash:7740647b29fc515df3c844c3eadd796102fe86f59ffd768787983f9e7a87c108
+seen_titlehash:815a30d88721b9aa273292452654184a11aab9437ba0c5daa784948816a60ec3
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents
+title:three deaths from float crushes raise safety concerns over japanese festivals
+seen_urlhash:6a95c25d971a3187c63166ddf5bebdf95278e7644e2f0480f6e68f5ce89e747a
+seen_titlehash:2b3d152ca20bd61c2f71f8dac2a7547642583803f0a4e7d8d08a50df908c49f9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb
+title:deeply appalled politicians condemn alleged attack after independent mp helen haines critically injured
+seen_urlhash:c34ae7081c94b64a40274d8146ab13768cad52f66e8d389e9c0631cb83f769d5
+seen_titlehash:0cc1a3d7f3ade126ac05f0437fba8d4331fc7e256c70c749541a68cce55098c3
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb
+title:premier deeply appalled after indi mp haines injured as it happened
+seen_urlhash:5020eb6779eb2c788280b86e2fd5615aad9e462412d66fa37d3dd41bfcf5e350
+seen_titlehash:e4df53570667e056602668f5052f370855c1cdba29b7bf8d02077a147a708771
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/19/pregnant-women-being-forced-out-of-employment-through-sham-redundancies-australian-human-rights-report-finds
+title:pregnant women face workplace hostility and sham redundancies australian human rights report finds
+seen_urlhash:1aebe27f352f95a6744d11b4279772342be842929662d23b7614ee13a50bf739
+seen_titlehash:a036baba0b828744fbc0a3d2e624b59a31231149dde68835142acf905cd8fbbc
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/19/mother-assessed-as-posing-no-immediate-risk-to-others-three-weeks-before-elizabeth-struhs-manslaughter-inquest-hears-ntwnfb
+title:mother assessed as posing no immediate risk to others three weeks before elizabeth struhs manslaughter inquest hears
+seen_urlhash:922171649fb168189962b9e7a03308fee3a9cd6b5eddd2fb1652b987ae53f6c0
+seen_titlehash:faaee2d4b050e405218eb54b5abd29e8d21970daef1e9821dccc8191816dd8fc
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb
+title:kings cross strip club owner fails to overturn ban on entering his own high risk venues
+seen_urlhash:f23066105a27e26ac3cd0f100b59fe7cb9281041e5e6b8119567e536368fbb10
+seen_titlehash:3b0612fbd35cf013f402610ffb099efaab25a685f9b903d4f71aa6064e331682
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss
+title:indonesia battles worst forest fires and toxic haze in 11 years
+seen_urlhash:a568839e9504c8ca8f5be9a3d9819455b2cf9c68bacbee62fbaf74820c22c6c6
+seen_titlehash:f27185b23d312f85ecab195682f9f60097fbc47358fef65dadcbc412ddf78145
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss
+title:museum protesters in colombia accuse gov t of erasing history
+seen_urlhash:9667b85f24c8d46909932b03794f601cfead13490696cd1e7f7c571278d2286e
+seen_titlehash:580ae8449ab2f3d26e1fbbdf9a939a238df1c41da2f7416b8609429b21d08701
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss
+title:iran support for houthis probed as yemen war re erupts and saudi cities hit
+seen_urlhash:b047a4d7a7262be0c55f8cf25234f1d52da46992b39449ba572f0bf52853b401
+seen_titlehash:011eb2fc6046ebea606376e6f4e7a664ff057f01f886e96cf27e20791de0c1b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss
+title:israeli police arrest 10 after settler attacks on journalist diplomats
+seen_urlhash:2ca7c79b4bdf8e9ff0853bb2d220c9ca2d3ec88d44869939a1a833cc4d6661a5
+seen_titlehash:d57b9417f8369c92360330b5bc41aa5e3808bd978ab13a9d573f00f96f345370
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss
+title:australian mp helen haines critically injured in deliberate car ramming
+seen_urlhash:57aba2a338804cbf1c9ff9abfd80d449ca45f8df5536b150780a110012666c3f
+seen_titlehash:de663c2b077ffac2542d7ff632f8507cbceb54d3ba3b367ddd789e2dcbed9f24
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/by-the-numbers-3/2026/10/19/whats-wrong-with-schools-in-france?traffic_source=rss
+title:what s wrong with schools in france
+seen_urlhash:e8d72a39ee37f5573d72948abea167cac1931ef2e6bf7c11b6f1255ecbec1db6
+seen_titlehash:66c87dfd1301a62685fc67645e92fba0ac58ed53c1884dca2bc4def3fd786c58
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss
+title:wfp cuts aid to 500 000 palestinians in gaza amid funding shortages
+seen_urlhash:4a17087b61ed936813928534142ad59bbc2ea10b06cd50bd250b851d3fa867ea
+seen_titlehash:8c5c0f0b5107464c110a142f12633c45cde529adc2a3788ef9b8bc413cb7d8aa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss
+title:mexican protesters demanding clean water storm state congress
+seen_urlhash:f236be869e0359d9ab95ee5419719a27b88f80353941784d3bdedd2202d4b833
+seen_titlehash:4566587b10ef81e0f4b8c5191428569aa7d3522c0afb27c0677e66ab4973176f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss
+title:qatar warns global energy shockwaves from iran war have yet to peak
+seen_urlhash:4f9905934e1fed4638524272f7c84226c245787310730f82f5bee5cf7d7888d7
+seen_titlehash:e3aa35086d8dd51db98a5e7c59ed9ff80c1749bb7deab057ec0d9738e40bfacc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss
+title:how a grass fire at a canadian military base killed four soldiers
+seen_urlhash:b856eabd04be3f93bc15b1c148167026bee5bf657a6cc360e90b05de6e980152
+seen_titlehash:669fbc70af40febe60c549d40e09b37a798d2d2f7172ed6e744bde4fc4059e11
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss
+title:rubio says there was no us pause in intelligence sharing with ukraine
+seen_urlhash:86bd7381fea55655ac15f8ae04377a5969a3388ae439e3b56e8bf295a43cacc8
+seen_titlehash:84846e23b905a04532f4f521eb798bcb7e61bb7aca659b10d4139d4ce2da7639
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss
+title:nfl s azeez al shaair honours palestinian children for fifth straight week
+seen_urlhash:b0e04091a27a5b0566b2f9f00cfb5b6d2d015a097583367bb9ae633d8539cb9e
+seen_titlehash:d32b5a3a96879c7f136b025fe3eae8f24171a182408eebe4501ef5e3934f9b66
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss
+title:hezbollah funding plan indicates a new challenge to lebanon s government
+seen_urlhash:37adf87f3dcba5f2de470c1f475342358f1f8292d754b0f9654c39c41e3fce0e
+seen_titlehash:50f2ad68dfbe4b9e27378ff1196d2c79106f2469ded4a062b49a449a7ce4d861
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss
+title:france s macron declines minister s resignation after violent protests
+seen_urlhash:395d2c766462e93567fe20f36279f24dd3ca2f1f82f954118db3ba9c8d5936a4
+seen_titlehash:fcf82e53c464b97c59523a37175f019fd8cb9395b4c859d25151b3c8ef1052b7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss
+title:mali s military and armed groups committing abuses against civilians hrw
+seen_urlhash:3a3a9a2ec7289776e0bf4c5ed115fbe8c4c210e507e7c98663ff682e5aa37d71
+seen_titlehash:b97d560a2a4214c538d2af457d60b395fcc8304e1d3c45e4ce0a880c02e27e7e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss
+title:elderly man forcibly detained at elbit systems protest in germany
+seen_urlhash:3252b215f4bc9c1148824acdb9cbe8bd7b3bdb6f13666c7d8a1c61e741e670c3
+seen_titlehash:4b447a47da1b3fa59fc30d99b8f780754a6340d04d88bed6cd588cb114763f9e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss
+title:france protests live pm wants some cities to impose curfews after unrest
+seen_urlhash:5bca3eab13cc57986c761ba9fd0a91662560ca688c159b7745275f084d45b2fb
+seen_titlehash:7019e944d41be37c348b7b318cab40f3ed95eb720274b55f88faf011b0cf1c62
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss
+title:losing cuba the global trickster
+seen_urlhash:beb06cecee73c6bc8d9465410e77f761fda20d02fd8f85a48b21c37ad95ff3d7
+seen_titlehash:98e9c2f4b0a4d3f2824defc42c8f19b915e43fbf8c7fc4be8db4e3b9308ab96f
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss
+title:in pro palestine hub of athens israeli buyers increase local resentment
+seen_urlhash:e42343ba325fc492967ac0b9ab6e9c16b208346a8ebc837b9d8f2f4f65f0837c
+seen_titlehash:7c5982efe6ea9c612278741d98bb74dfc1296f8e2eea2ffd890c163bdea0d454
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss
+title:no turmoil at the white house
+seen_urlhash:3a2e9a1b77af567f77795d28cfacd5d106b83b6a2428730649cbc1750310b4bd
+seen_titlehash:59d64bbf781fe5d511e153289c9e07414fba806c214b532d8f33241a975cfe2d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/australian-mp-attacked-outside-her-office-says-pm-13600871
+title:australian mp in critical condition after being hit by car as counter terror police investigate
+seen_urlhash:b8e9115e2a159f3dd20cf912d40496d3c7c74d54300beb7041beda86ce6a52a6
+seen_titlehash:a6b198ebdcd80b7cbccb0c5345af6852fc905618997a142018ad693d11559e54
+seen_reason:processed_not_published
+url:https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842
+title:arrests over israeli settler attacks on us photojournalist and european diplomats in west bank
+seen_urlhash:d519da99b56702c6b8136e1496b2eb92cebe0912535ab2aa2ab9eefb8da1abde
+seen_titlehash:d5ccfb01f5268a9e51f00fdd3953f705fe340323cfac08668c17a5bc8648bf97
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future
+title:les misérables macron s sense of detachment amid rising living costs and youth fears for future
+seen_urlhash:ed6f0a881adbf2d8347888cde258f2763f5ba3573f8b107e520b25125f8c3bd6
+seen_titlehash:a98786dc84e590b83820affa652bae72c0b11187187fb947b2c4b3b015a890f8
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-marseille-cleans-up-after-looting-and-vandalism-in-protest
+title:marseille cleans up after looting and vandalism in protest
+seen_urlhash:92ca0e0dae74127990e19ad3088ec23770736b5df0813501ccf10b4af02423f7
+seen_titlehash:de3007d754e4f9204fa4d2d453cda6ab5ab00525aa9cab963bfb2e2907c1808b
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-lame-duck-president-macron-notes-failures-after-france-unrest
+title:lame duck president macron notes failures after france unrest
+seen_urlhash:507e028c8c8337472feafd5b02dbb0dab0cce40c002ec64acce846eedf394f12
+seen_titlehash:d70bedd07d16f369ff1541a1da0ed6b3e11114383bbc71269e02013f23de53e5
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20261019-french-retailers-reel-after-weekend-of-riots-looting
+title:french retailers reel after weekend of riots looting
+seen_urlhash:0b3cf5091734b3e0a7fae9a04bed9fc856806d0179bb5ca93fd2e2060b629012
+seen_titlehash:ead02e363128c8a4c7c962d14d892cb54b3eed3f83d216b316d6d3c81f410a29
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-massive-clean-up-operation-sweeps-across-france-after-protests
+title:massive clean up operation sweeps across france after protests
+seen_urlhash:1b14db33229be1f449eab3e8440e82e84990c0c5d13ebb17ae85b93f059d8c98
+seen_titlehash:9ba7c2cdae1504f5e9d7d03a02d200fecf9231d3732ed442380bbc01c01baaf5
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/press-review/20261019-shame-anger-chaos-papers-react-to-polarising-riots-in-france
+title:shame anger chaos papers react to polarising riots in france
+seen_urlhash:9d06dd0eb3791bc6a4ba062ec78d3532d0bfa177f28c78830cacca548fbf0c51
+seen_titlehash:28055ffcb627bd7b2cb3ea25efab2e8a8eaadf235152889a7b20d046dde948df
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-french-interior-minister-admits-police-lost-control-of-protests
+title:french interior minister admits police lost control of protests
+seen_urlhash:d54427e9cb3304968b9791c0c45a944f1428e972327a078bb6fe3d2df236878c
+seen_titlehash:9ce90cd20545aa5e602a116e0a094acfe7cf639d5426b991e3f03f148907c10b
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-protests-continue-sixth-day-in-a-row-in-albania-s-capital
+title:protests continue sixth day in a row in albania s capital
+seen_urlhash:8eafaa75f00fa91a334dcf502d14f1abdab6d65126c0923fdbd93e948ce54582
+seen_titlehash:e025c29ec8c6b1063a5a987b13feb7a7cee5be9c51a521954d6a0cd6e3527ef7
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-french-shops-demolished-after-weekend-riots-across-the-country
+title:french shops demolished after weekend riots across the country
+seen_urlhash:f6a405f043f995f5716f3a4c750cf8a926fa17df3fff86ec56088f76f39e3536
+seen_titlehash:ee3a0a806f5aadc2b123d54c25e16dec4ab0e05f8bd8220283dad666c2475ae4
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest
+title:live france s yellow vest movement calls for new round of protests after weekend unrest
+seen_urlhash:f6a405f043f995f5716f3a4c750cf8a926fa17df3fff86ec56088f76f39e3536
+seen_titlehash:74ce1f4632bd126944769b69601b2ed61dfecd5bf03c40e23504d884bad9851a
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest
+title:live student protesters block access to louvre museum as france reels from weekend of unrest
+seen_urlhash:df5a2b20808297779349160f3f6460cb5692db34c4a493dae5cf95d7226db994
+seen_titlehash:0eac73f65cf3721c896c5c7f5ee118e7591f9b69dc0642ec4eb879819bf3f96e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall
+title:world food programme to end aid for half a million in gaza due to funding shortfall
+seen_urlhash:d16142246dcc96b94019dce34b06bc6b1f18d478cd5b6b29670227932909d041
+seen_titlehash:635852971235dbd4bc6a9faf4af4454c14906093fbcd0acf12271ff482c9ec86
+seen_reason:processed_not_published
+url:https://france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now
+title:french student protests there s been lack of investment in education for years now
+seen_urlhash:36447a1fdb2c3f648582060b00ed7819efb094d31d74ec29657c6c438d0aae93
+seen_titlehash:d1138d1c4402a1b8ae269fedcf00e4102afb8db7550926a371fbab6137a2d1e8
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1
+title:quite horrifying afghan economic crisis leaves eu deportees with very little to return to
+seen_urlhash:8923b9e7961bbc3c740395558b9b66adda2677d94557aa115dabb2d7ea61c4a4
+seen_titlehash:f1c4cffcd5102b7381b2bed8706f4e0cf7bd5c0f60709a153b474208aa3483d2
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine
+title:russia pounds kyiv as rubio urges ukraine s zelensky to focus on ending the war
+seen_urlhash:c38a13df7dfb30eff6e8347ee48ad2d76724b298439243ecb097043da8d13310
+seen_titlehash:f73a79e6c82b2b2d720ffc199e535b195049c2d8a6df2029d3a6ce4655948369
+seen_reason:processed_not_published
+url:https://france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions
+title:not a problem of short term solutions french students demand structural change better conditions
+seen_urlhash:f6a405f043f995f5716f3a4c750cf8a926fa17df3fff86ec56088f76f39e3536
+seen_titlehash:0937bb15db3e801dd768e4c96983c14c9f260e95a1bfcef71e125d70e31ff1fb
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest
+title:live macron rejects french interior minister s resignation after weekend of unrest
+seen_urlhash:f6a405f043f995f5716f3a4c750cf8a926fa17df3fff86ec56088f76f39e3536
+seen_titlehash:9275c9d3eb607c34cddb377edb706467c8a67cf58deb3fdab53cee81059bbbb0
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest
+title:live french pm lecornu calls for partial curfews in cities hit by riots and looting
+seen_urlhash:5227ce1ac87bc1d4437a16b0565e65af0434a384e4a433db224565574ebe28c3
+seen_titlehash:9f14fe4dfc36caeebd6e33d3c4232b6d8fd87138a38781563e314a90a55165ee
+seen_reason:processed_not_published
+url:https://france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space
+title:iss mission it s really exciting to see this renewal of french women in space
+seen_urlhash:7d7db47f89ca4657810ea427f6022d25e36826df60362e57d76222519ddef2b0
+seen_titlehash:8c05cc76b69da532063d618a320011a52ccf5e84e4e869ed92b2f1e58b90abe4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/polish-satellite-maker-creotech-instruments-plans-to-increase-its-capacity-tenfold-by-2029
+title:польская creotech instruments намерена увеличить мощности в 10 раз к 2029 году
+seen_urlhash:3c4e2bc9e7b22161fc3e68389268aadd663d6b543a0188dec674be1797a996de
+seen_titlehash:5e561e77b43a43d179f076066465869dc155c10c72e4b0a2eda4b15558301301
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/did-an-ancient-egyptian-god-inspire-the-oscar-statuette-a-2700-year-old-bronze-offers-a-cl
+title:древнеегипетский бог вдохновил оскар подсказка из бронзы
+seen_urlhash:17d34cd4ced4acc78db9546680c896d00839177d728bf4eb1760d39ac4517807
+seen_titlehash:58728fc41dad11de6b75e7b51f51a814577b6bb9574ae0030e07b7429203d50b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/what-do-travellers-want-from-ai-room-rates-not-personalised-itineraries-study-says
+title:чего хотят путешественники от ии цены на номера а не индивидуальные маршруты
+seen_urlhash:20aed9cfc73d86cacf9490ea41c5efa87ab6dc3355b70fdab5c81df560e430d0
+seen_titlehash:17a380279dadf17e9c2fb1e0db7b38da78973e85185377def72ad2d4c8830155
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/ru-mother-leaves-children-on-poland-mountain-trail-for-whining-hikes-to-summit-alone
+title:польша мать оставила детей на горной тропе за то что они ныли и в одиночку поднялась на вершину
+seen_urlhash:a0d88df5e53d7a9f53746bbf2dc91b4dbe8a953bbe443066b574bcba3412e7bc
+seen_titlehash:5f47be67b92796a98f196ae7871db57658874f4373498ea1461e28938cebd736
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/inflyaciya-vysokie-stavki-i-neopredelyonnost-kak-zhit-v-novoj-norme
+title:инфляция высокие ставки и неопределённость как жить в новой норме
+seen_urlhash:e1090c74fd6d58ad3fddb1fa4c460b400f47852c706fbe9aede613174cc39c8e
+seen_titlehash:721a9bc66c00b627c662da49ce8503ef3b48fd0999532dddbabf465c39f0d6f8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/can-european-luxury-brands-still-rely-on-china-for-growth
+title:могут ли европейские люксовые бренды по прежнему рассчитывать на рост в китае
+seen_urlhash:63d06b9a1e1b8ca55d45d12e0f59ca852bd4f81db5781f13d73747853d310464
+seen_titlehash:96909a179f0b5b949eb7cf87670f49797c85d49c919559aee052d87d7cf3f06b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/ru-kyiv-has-become-a-true-frontline-city-eu-ambassador-to-ukraine-tells-euronews
+title:посол ес в украине киев стал по настоящему прифронтовым городом
+seen_urlhash:04271fd77e5a83f970f7d78022d75270711a92fc9960fa665956465d1292674a
+seen_titlehash:59c6a057eecee94ef3677ea3a6e32b289aa99155e70bca93a386e12b4b6a3bda
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/19/no-kings-day-thousands-rally-across-the-us-against-trump
+title:день без королей тысячи выходят в сша на акции против трампа
+seen_urlhash:efbcb1d5a948080ac77077745ca15c06b0660afec26230d5987d8cfd920d021a
+seen_titlehash:f5ccb450effc6c7628e26fe945ac7e1f83702ba91444fae9fea74c7fb9517e8f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/poland-poverty-report
+title:бедность в польше 15 миллионов человек живут за чертой соцминимума
+seen_urlhash:d6095b2cd671fd3c2f78497b6517ced48a7e48077420b3b0e7d1e264fc4537ab
+seen_titlehash:46a9b457a629f147608a8737b7f6b76815853bfe7f133fca7a2223f73aef5af8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/access-louvre-museum-blocked
+title:протесты во франции продолжаются студенты блокируют лувр
+seen_urlhash:521bf3f4a828969211787bb08a1692927582ce993dc2f873be1123a4603f8584
+seen_titlehash:78bcf1b24835967d9fe8c2dc2dd0756b965668bb1f06841317d180e1f8e8c63c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/the-big-winners-you-need-to-know-about-from-the-world-travel-awards-europe-2026
+title:главные победители премии world travel awards europe 2026
+seen_urlhash:af7f5d9a59ecd2484e9d855d582e8906f8ed48461c1db666eb8a267e3a8b1254
+seen_titlehash:9b80490760ae104323ec74397a59b78d58fd06b540e1576b1715c0981096f801
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/19/ghost-shark-australia-unveils-submarine-drones-secret-weapons
+title:призрачная акула австралия раскрывает секретное оружие подводного дрона
+seen_urlhash:ef558b05d8f3ddab1bad18e64af7681cccae04cd679e10d98a1aa6227707f232
+seen_titlehash:4d876a9586565024f3a7bedc39ef6aecfc4a95ab90100726a18578d763d6a40a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/start-crying-your-heart-out-why-liam-gallagher-is-wrong-about-fontaines-dc
+title:пора разрыдаться почему лиам галлахер неправ о fontaines d c
+seen_urlhash:340c8dd4df0882c5eaebfca66cd2c58cba697770d26877981f48d4dd21397caf
+seen_titlehash:b92e7a398228ea43a1f54c7cd5e0db619dea1d0333c193b346ac97c97b454162
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/lyudi-v-otchayanii-protesty-protiv-rosta-cen-prevratili-parizh-v-ruiny
+title:люди в отчаянии протесты против роста цен превратили париж в руины
+seen_urlhash:6a93d97bb760889751af58d57de3dd55b71ede8bbeca200408f79abc620c8e56
+seen_titlehash:ab0662ee093d3876836eed9d1f6c613add7a1fc219ffda7501e027c4bee3aa1f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/ru-putin-seeks-ukraine-summit-with-trump-and-xi-but-refuses-talks-with-zelenskyy
+title:путин за саммит по украине с трампом и си но против переговоров с зеленским
+seen_urlhash:a5e06c0018c143679c73994c42765766aa514540dcf798df7e1bf1ed30fd995a
+seen_titlehash:d2761ad63ec27b028da9ae6c29a6519e0d641eac44bf35d544d1c9ada5ce5dd8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/braziliya-nakanune-finala-smozhet-li-lula-da-silva-perelomit-hod-vyborov
+title:бразилия накануне финала сможет ли лула да силва переломить ход выборов
+seen_urlhash:c62befcfd208cf6e648ab91833fed09bc5173ef088e24697040111c445e60b8b
+seen_titlehash:55032334383673aae72ce5b8cd3f661e5c89ee0463481b0271d9cdaa308e1a29
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/ru-us-is-coming-to-central-asia-with-deals-to-stay-rubio-tells-euronews
+title:рубио euronews сша приходят в центральную азию с долгосрочными сделками
+seen_urlhash:64e223b9c568e7b9a33dd5c1026e169b83c6e9e9c3b15845bd873f60640a926e
+seen_titlehash:74aa9958323c450fbbd4b3fd98300f20d970d7783181837adda335664235cc62
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/european-stocks-open-lower-as-french-businesses-assess-the-impact-of-the-riots
+title:европейские биржи снижаются французский бизнес подсчитывает убытки от беспорядков
+seen_urlhash:ad15e605923f095c2a51ca2f08eb64a5fee0ea5b2a422e078cb4b06b6fb1a74c
+seen_titlehash:b98e9ca199bb50483a23c9f8c920f40bbc20337f8d83d508ac331cefbafa39aa
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/19/more-than-200-arrested-in-second-day-of-street-clashes-against-cost-of-living-in-milan
+title:милан демонстрации против роста стоимости жизни на второй день арестованы более 200 человек
+seen_urlhash:af37e0f6617ee5461e82c1f27cda936cecf5bddbd1eaf526a18ef4fdec1e389a
+seen_titlehash:0e09dc7a5ddc9f54fba9c7e9132bd985f8ffe7c4b9a559543b7913c1d18c8816
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/v-parizhe-zakrylsya-luvr-pryamo-v-godovschinu-ego-ogrableniya-vhod-v-muzey-zablokirovali-protestuyuschie-studenty
+title:в париже закрылся лувр прямо в годовщину его ограбления вход в музей заблокировали протестующие студенты
+seen_urlhash:de641096256658ccace1f29c4c790c099752086605d3b0ffa9c47e867e60693a
+seen_titlehash:023664b09a95efee92a983a8d7f545f5ccf0600c3addb9c5071f0393e046f5a2
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/19/videli-rozovuyu-parteru-ubegayuschuyu-ot-politsii-na-protestah-v-parizhe-vyglyadit-derzko-i-effektno-no-uvy-eto-lish-ii-feyk
+title:видели розовую пантеру убегающую от полиции на протестах в париже выглядит дерзко и эффектно но увы это лишь ии фейк
+seen_urlhash:480b184c7603b28ea4ee851398639248609ca3767b2fddd4bfb7cf2eb21d9e14
+seen_titlehash:9717fe460d539e94bfd9129c222efb46d67768a5042b4b04cdb8f276c7c2d836
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/19/v-moskve-arestovali-administratorov-populyarnogo-fotosayta-o-poezdah-railgallery-ih-obvinili-v-nepravomernom-vozdeystvii-na-kriticheskuyu-infrastrukturu
+title:в москве арестовали администраторов популярного фотосайта о поездах railgallery их обвинили в неправомерном воздействии на критическую инфраструктуру
+seen_urlhash:009cfccff7bae872bd066a4534398f044fff17f7fbed5f3af7820f8904cdf5a6
+seen_titlehash:f6e39c177e961dc5f4b7e2d30c88709395729907be7dc761f05c29bb1c74f7d3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/film-sergeya-loznitsy-imperium-poluchil-glavnuyu-nagradu-londonskogo-kinofestivalya
+title:фильм сергея лозницы империум получил главную награду лондонского кинофестиваля
+seen_urlhash:7d6a24f7b5ff9869039d809d544b830676d12314044069050d52c670a2e81ead
+seen_titlehash:4b3829d993876181f9126ef7198b77781abe4f384d28d1eb1577f84f578fa47e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/figuristka-kamila-valieva-po-dannym-istochnika-tass-vernulas-k-treneru-eteri-tutberidze
+title:фигуристка камила валиева по данным источника тасс вернулась к тренеру этери тутберидзе
+seen_urlhash:023b2aeacbf24e7cc71918c27975dffa4a0365bee58d68eb7fcaa8fdccede330
+seen_titlehash:d8a0b0eb27dc36a712b89a1190ece1e07c64f8be9159887765e3af6e31542056
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/v-ssha-prigrozili-evrope-razrushitelnymi-otvetnymi-merami-esli-es-ogranichit-dostup-spacex-k-evropeyskomu-rynku
+title:в сша пригрозили европе разрушительными ответными мерами если ес ограничит доступ spacex к европейскому рынку
+seen_urlhash:223ae18251b9983756324c1858b1e3840f089edc395d0be131dddcddb6d4ebc7
+seen_titlehash:bf73a604029bbe1970ea96ae0c405951594c77f747e045362c3547f2f4c8fc0c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/perestanovki-v-pravitelstve-rf-siluanov-i-kozhemyako-stanut-vitse-premierami
+title:перестановки в правительстве рф силуанов и кожемяко станут вице премьерами
+seen_urlhash:79d2805728ccf75126f439ea68fe5a49b2ce1b82a586ca82fb3284bb88e2a540
+seen_titlehash:29007259f4217c7f811fe01a00d61ff54638cf4e5e87d5e2ec5c835a7894b781
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/wsj-putin-predlozhil-trampu-i-si-vstretitsya-bez-zelenskogo-i-obsudit-zavershenie-voyny-v-ukraine-na-vygodnyh-dlya-moskvy-usloviyah
+title:wsj путин предложил трампу и си встретиться без зеленского и обсудить завершение войны на выгодных для москвы условиях
+seen_urlhash:6354a09fa6eaf231cea02ae0f8f4002e15bcc5e4adcdce30986c43e2498d9f73
+seen_titlehash:b4e5a2141048533ae73f8d7e04261ec8e5567fc748b56c4e41522b1dea143e75
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/glava-mvd-frantsii-podal-v-otstavku-na-fone-massovyh-protestov-makron-ee-ne-prinyal
+title:глава мвд франции подал в отставку на фоне массовых протестов макрон ее не принял
+seen_urlhash:060d0f95fae0bb55444341c2e0ca1b8be4b6264529b98cc26be355a4e4f944f6
+seen_titlehash:6b1348c89111fc9c5ee5c5cfb44e2178fe7ad81bbb2f598f0b421271dc9f0be7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/v-kieve-v-rezultate-rossiyskogo-udara-pogibla-21-letnyaya-devushka-ukraina-ne-poluchila-ot-ssha-preduprezhdenie-ob-atake
+title:в киеве в результате российского удара погибла 21 летняя девушка украина снова не получила от сша предупреждение об атаке
+seen_urlhash:9a83d8e55a6d434fc0a0721a67a2fb6e8923550141cac14249c75ef5b52fee47
+seen_titlehash:cfd0f8676c8052df3e6a58888ee7f5f1b696e7ed0605e876a81c6ad0787bbcb2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/19/tramp-zayavil-chto-ne-hochet-ottolknut-rossiyu-ot-mirnyh-peregovorov-i-opyat-raskritikoval-zelenskogo-za-udary-po-npz
+title:трамп заявил что не хочет оттолкнуть россию от мирных переговоров и опять раскритиковал зеленского за удары по нпз
+seen_urlhash:80d3f7e21ed8421a43ea8a575bc4fe5880823b4311cef5d8133a4c6d882f9c12
+seen_titlehash:4ab8b9bb090b65cb4d35bc352bbb8c757376d41c3495e79ff3b8ec41e2455be5
+seen_reason:processed_not_published
+url:https://ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1
+title:macron rejects interior minister s resignation after french riots
+seen_urlhash:31a855f915dd5a9a49d948c593a9372e37b443a0583dc5500fd95350786648f5
+seen_titlehash:901c182d417e38c2be61382467c58754982774113f9a17254ec58948da0e2209
+seen_reason:processed_not_published
+url:https://ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1
+title:zelenskyy europe and the end of trump whispering
+seen_urlhash:6d20de311fb6f6ac5530f0344eabf66e1e1831be5f7a50e551a0690020e6e7cb
+seen_titlehash:9faf814a015b7c13f7f76bbbce75b8646c03f22eaa75fe303b0a561d28ab4070
+seen_reason:processed_not_published
+url:https://ft.com/content/a381df3f-a1bf-4889-aa5d-e4e594a3ea33?syn-25a6b1a6=1
+title:ukraine receives partial intelligence on russian ballistic missile strikes
+seen_urlhash:a4c44a759fb360533e73a6ca35c3008d0cc82425fdb06fda8833cacd84746e6e
+seen_titlehash:eb14a12c03cace3b0a715d00d992fe4d804d4cc5a316b7f81bac744801233101
+seen_reason:processed_not_published
+url:https://ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1
+title:us grocery giants head to court in 9bn battle over failed merger
+seen_urlhash:0d60c601f40600a09d3269859619d4ef04ff9273ee5ea85883f5694768445347
+seen_titlehash:6adcd28aef5854fecd117368b7ba3c85491f55983d3f57057b3873afbc6530ee
+seen_reason:processed_not_published
+url:https://ft.com/content/1f23e859-5e70-4d99-8f9b-56de3d0ae43e?syn-25a6b1a6=1
+title:iranian hardliners say the time for nuclear weapons has come
+seen_urlhash:2b08af9fea2bdf74c4f5aebb9f63182e6fa31e1855f90679090f589cc4531f05
+seen_titlehash:5e7b997acb2a9959cf914ac586d2c226e72dfdd2617c825604fe65da5fd43537
+seen_reason:processed_not_published
+url:https://ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1
+title:us stocks set for rebound after ai sell off
+seen_urlhash:0d70872656c9cfb59b53eb33377f97b1eeb841d05a90b0f8e618ab064f8ccbb4
+seen_titlehash:325b797690a0c564f19c1c6bbef3e6c504f8140b6f97688cb91f1523a74417d2
+seen_reason:processed_not_published
+url:https://ft.com/content/d98a97e4-5ba4-481e-af20-35dcb2fc3a14?syn-25a6b1a6=1
+title:swinney tests limits of burnham s devolution pitch to scotland
+seen_urlhash:4fc6c0cc9d0fd25bbcc00c786f3c77e10d230d9a35f169f8712d39da1b3ae5f0
+seen_titlehash:96efc976922fea09a848a5c218f8e809d4e6e0b82564a352186a4685785e1201
+seen_reason:processed_not_published
+url:https://ft.com/content/c5bbb2a7-e00e-4e20-9db3-f4d00504857a?syn-25a6b1a6=1
+title:frenzy in australian deals as investors swoop on cheap assets
+seen_urlhash:96702dc40827130df6424db98c3b7e3bcb13a623449d202765ae47bf091e8136
+seen_titlehash:65e671a638725b77809d3205ef851efeaf465408e4300fff8be991651a4c6e3e
+seen_reason:processed_not_published
+url:https://ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7?syn-25a6b1a6=1
+title:japan leads mission to make first return trip to mars
