@@ -160443,3 +160443,178 @@ seen_titlehash:047e09ddfee65465da0fe35890f4f1e597ea92ffc44a1aa099ec167fd185d2b6
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/10/20/donald-trump-human-wrecking-ball
 title:donald trump human wrecking ball
+seen_urlhash:c346c5a0656975cfe5a9db3ca267ec23c76929e4eab5ee7db71aa35ecd40102f
+seen_titlehash:dadb4bd220df98e48037a89f0c71e0c2296c3ad8b45988fc466a1ba58d6cd86c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss
+title:elon musk says tesla spacex merger being considered
+seen_urlhash:2698ac796e97114064a615f87ae9c816e8a50f516b4d64614f608725433783e6
+seen_titlehash:e260add3ab125d09dd4fb7a01f4e6ab8d8ae3c865183e8eecee59243a5332dc6
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss
+title:alberta s decisive decision to stay in canada gives carney backing to take on trump
+seen_urlhash:ba8e66a84280413e845d64e6c7664dc68021165f4b5007f6baa8e1446add922c
+seen_titlehash:71dc3586d3445538677acd04daed387d0e57bd31da399e412509c9bfff6b7aca
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss
+title:cornell jane doe says embattled university head doubted her gang rape allegation
+seen_urlhash:c113a29188f5a0f7149a151990ce5dfee6fdc2a928cda87ff38999f218caab6f
+seen_titlehash:2cd747f3f6886b9c0b9362d87885d3221bf32916a996d0e1522b0e58282e9c67
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html
+title:as alberta rejects canada separatism carney gets much of the credit
+seen_urlhash:eecae2f4f0eb1ba7ff64584930d866989fdcb4931a7edecdaea3b6e275eeaf94
+seen_titlehash:5e48262a2865dfcaf328786a03929e8bd0dc964b7aeaedebba8d1cf67d57c933
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html
+title:art basel paris preview draws interest despite protests
+seen_urlhash:ee462893f9df2ee79a3c658105d2b8d286e0e646a9217a86290a59ffaec5bba2
+seen_titlehash:8e5b82a4ca1b916d8e19e79ccaec3c21187f31332ea104c5ed85e70b3d540264
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html
+title:nigeria announces first case of ebola in current outbreak
+seen_urlhash:74e6daf8eb049a91755b3af4130127ad3c0dd6ab3fc670e58ea0c7f989202739
+seen_titlehash:f9e25e0fd1a3a581e1a67ec081810f8c93cf7260b203bf3af83d53f3dfb22296
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening
+title:odds of fifth interest rate hike this year likely to shorten as rba deputy warns inflation outlook worsening
+seen_urlhash:138fa530fa99edc523955b040f194c1e179a66451cb36bed865f8409733c0542
+seen_titlehash:e9e1e080dc2734b8d8f8a705b536d752ce72c40861f251182147743dbafdcf7e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/21/i-forgot-to-pay-victorian-premier-ben-carroll-drove-off-with-paying-for-petrol-sparking-police-inquiries-ntwnfb
+title:i forgot to pay victoria s premier ben carroll drives off without paying for petrol sparking police inquiries
+seen_urlhash:c10be1eaaa08358d710d60f9ba4bff90a2254f62f112393291d6ca01b9f5f55d
+seen_titlehash:f1722ea41fc921ce691a5301652c300083d165237547d02e1362446eb0b95159
+seen_reason:processed_not_published
+url:https://theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions
+title:australian researchers identify new subtype of depression linked to body clock disruptions
+seen_urlhash:98dae0ef045c25e3502da3442a67ed3d418bc951d6456f935f770f076a7dee50
+seen_titlehash:7a6e3b3684d93b636035328d14189d5d12fe53e87f5845b69135538bc29faadb
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss
+title:iran war live us warns peace deal with tehran is extremely difficult
+seen_urlhash:9679680cf06935f3c94816094654665c84eb13d1b7e16a05f81f17f2a33f631c
+seen_titlehash:cf073c989e16851da3f35478da183b1016d5727bdd60cd7129b5fdf920832d78
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss
+title:moment plane crashes on a busy highway in the us
+seen_urlhash:339a76996caf9a2d20d0e3f6b5175177f8c46cf4cf23280535aa30bdca3f505e
+seen_titlehash:b81f464877ceb981df66943a9cde8a9797a734f8c658fb9561498a20614fdd41
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss
+title:nato to send additional patrol planes to black sea after drone attacks
+seen_urlhash:4ffaae70894f86618acc1a6f24d57cdfd5d75c1e8bc22ce2fbd9960eedb9a573
+seen_titlehash:fabaefd28c2ad003e9fbf6a9b831ad1219d7e9edd087c393d8b45f361f9cfcf2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss
+title:the gambia to pay reparations to ex dictator s victims from sale of us mansion
+seen_urlhash:02d1f4b3a2d4d53a91fc3b54fa4a74d5f9824a26e3945be9a639f0e558009f36
+seen_titlehash:6b73bc035661f0f46a600109e7f9e38563514de89b529aeadfa94710fd611026
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss
+title:i don t care how it s done trump pressures ukraine to cut peace deal
+seen_urlhash:4c7eac9766a6e5b0fd2707b652981d6a5f2fe6bafd21cf339a7b5844966d7fca
+seen_titlehash:7359a1209c61f98e9ee43af6ca1cc3c294c8e9f2eb447ac919d89feb34d85caa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss
+title:trump commits more than 400m ahead of high stakes midterm elections
+seen_urlhash:039b37186f274d74e3eda60671b5606b80e61a42a0cc4b7f2b2937b23de753ba
+seen_titlehash:6269f94f521b24d1331be4dc301a1ced2d8b1c98d6ca5a6cba45b94b45d44328
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss
+title:us food importer sues trump over 50 percent tariffs on canadian goods
+seen_urlhash:4962fec8e1ce13cd80eb6cd38a86ec96bf79fff6e27b0a34eed2915405def62b
+seen_titlehash:50544862f7ae38c16d7d30d9c62356bcae26c062f71d4905180b26c24ab3db5a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss
+title:why do the us midterms matter for trump and congress
+seen_urlhash:ea058b041df134061a808b070cf1349b85e307b899177e0eec75bcfad50330ea
+seen_titlehash:0ab23f8c09c4d4beee8a1a54a93dacf1d5c4e5c81a8a4ffcb203cb3b50cc9801
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers
+title:italy announces new security measures after milan riots deploying 500 soldiers
+seen_urlhash:d78f159ebe5b7777d146bad9db9ac32314b41d9dec9e2c2cd0208c4e43afec9a
+seen_titlehash:9779d5ff282c54b99ea0a214791b546c763b640608c6703b064e243095a599be
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa
+title:nigeria records first ebola case as outbreak spreads across africa
+seen_urlhash:585670339a7d7d179f51ec3fa9ece6365101c721f926b62ebb3487f109214709
+seen_titlehash:d08dfa0b472b804921cd945d50c364068dce35cce1b21b22862a3f5813674761
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres
+title:ai on the ballot voters in us midterms revolt against data centres
+seen_urlhash:2cb6fafdc9fdff2e4986fc1ee9c313d07120ea7b3c86cd75e17fbe13fbb8e693
+seen_titlehash:7d57bb0d0e2b9e9cdc47826ae28f1808ba6d8db8f0c30ef731918516b11eb5e0
+seen_reason:processed_not_published
+url:https://france24.com/en/nigeria-confirms-first-ebola-case
+title:nigeria confirms first ebola case
+seen_urlhash:7116df23f9dde69a464dbfdd37cf51c48f48b5fac68e51ece596055157f5af3f
+seen_titlehash:4f1b8ed0b2f8486f113b449ea4ea5a958430d54cbb6c73b53c248d6c9ef95cb0
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says
+title:egypt involvement in yemen may actually weaken cairo s regional role expert says
+seen_urlhash:4532f6688397c1640145f85eb56cf7d6d05a9eef27139b97cea88383d3d7a9e0
+seen_titlehash:a634397dccf06c2222e02d3bbf644ced1b88f764d84eaa91f8f0fcf91e520130
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference
+title:lula s campaign seeks to disqualify bolsonoro from brazil presidential vote over meta interference
+seen_urlhash:f082bc1873f51fa06a087f79211c508c789bcf35e257160e046aabb926f9283d
+seen_titlehash:4f1b8ed0b2f8486f113b449ea4ea5a958430d54cbb6c73b53c248d6c9ef95cb0
+seen_reason:processed_not_published
+url:https://france24.com/en/egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says
+title:egypt involvement in yemen may actually weaken cairo s regional role expert says
+seen_urlhash:9a6924d7a60c5187f26f63417c3aeac069689302621e31aaa0bb9796044e0440
+seen_titlehash:137ec5e681011a4bd530ef36697872fd1627fb56fcd38529c896f49bcd5dfcc1
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay
+title:us regulators certify boeing 737 max 10 after years of delay
+seen_urlhash:2c066010f2a544f43129f2da5120fdae6759d2ccfee7cc2b8fd76555509b3c3e
+seen_titlehash:576804bd8c251a2d49d81fdd6246295982e650e2f4049444e1efa8aef2e763ca
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police
+title:i m alive paris street medic isn t dead despite viral claims he was killed by police
+seen_urlhash:4683fee78b173c30bfbec2b00bb892a29dbde8a31b2efa11e6d35c4c034c73ef
+seen_titlehash:a9fbcb43d9973b49c64354072b08ebd4efacd0be9e893446e3aeeffafb6cb2a6
+seen_reason:processed_not_published
+url:https://france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls
+title:trump campaigning in republican strongholds amid slide in polls
+seen_urlhash:6f2f510a2c8b690d7f1878271acaf3f92c220c891749fb19a8501bc2653cecda
+seen_titlehash:c5d5b8461631718aba08a955e0a82e1e1ccab09ce08447643b0385a9feb6f102
+seen_reason:processed_not_published
+url:https://france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes
+title:italy sends troops toughens security laws after milan clashes
+seen_urlhash:27782458edfa6d087b1a383658a36a7c9706a1309afb9a470ac2c457805ce9c8
+seen_titlehash:e83c307874d1b6e0ee0e29568c0aee7550379603e73f5b40a6a0e8585a157077
+seen_reason:processed_not_published
+url:https://france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations
+title:french pm vows massive police deployment for new demonstrations
+seen_urlhash:b38ce52677dda504358d0a56885b3f06b80a361d736fc0797eb66ea2cd80dcc6
+seen_titlehash:ff9b305e9986c9902bceeb45a2db9192eb3baeccfbd2b01190c26ddacd3db39f
+seen_reason:processed_not_published
+url:https://france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote
+title:netanyahu is fighting for his political career expert says a week ahead of crucial vote
+seen_urlhash:2bf1df8e3163ac9c8a7064331043be59e5e96a87d0765f53c30be7d2ccc3f304
+seen_titlehash:9a85b6d7abdbd76bbcb407115e224cec6c057d5d38d5213a305ef140aac2d4f3
+seen_reason:processed_not_published
+url:https://dw.com/ru/выручка-компании-spacex-илона-маска-выросла-на-161-благодаря-росту-направлений-ии-и-starlink/a-79717833?maca=rus-rss-ru-all-1126-rdf
+title:выручка компании spacex илона маска выросла на 161 благодаря росту направлений ии и starlink
+seen_urlhash:6260c7fe7baaf2ba866c5eef2594d26854eabc144b44a69df616862c0d1b05e2
+seen_titlehash:9b22099bbf9cc61810cc5f19ee62255e7ba9bec66440c402eab23689d30a8833
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/20/novosti-dnya-20-oktyabrya-2026-g-vechernij-vypusk
+title:новости дня 20 октября 2026 г вечерний выпуск
+seen_urlhash:fc2bc7c5fc5e845dfeecd56e256a972d38e7a465058316cd3636ff5f9069274f
+seen_titlehash:2c7d9ccb51cd4869c2219745f2ef41d936039d1b200ec9369c160cfb4fd1e5f1
+seen_reason:processed_not_published
+url:https://ft.com/content/e2bce5a9-0cb2-4166-8a14-3adeb5af6545?syn-25a6b1a6=1
+title:lula fast tracks brazil welfare payments days before run off vote
+seen_urlhash:bf40330273ef4f98776ab26d25a8161defdcfa030855044c39dee00a772638b9
+seen_titlehash:f51df9ddd7f85a704747930a16c069a928449f45641aa70893f9f9f5fa95e9c6
+seen_reason:processed_not_published
+url:https://ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1
+title:uk to approve development of jackdaw gasfield in north sea
+seen_urlhash:3bb350fc5d7b8c0939f0cf1e9490e2c5a8827127ac52d9cc9379b1a8f25ebf7f
+seen_titlehash:624650dd7032347d6a0e66b55efd2e115b999c0b5e6b3ac34be5c44e3426e2ed
+seen_reason:processed_not_published
+url:https://ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1
+title:joel kaplan to step down as meta global affairs chief
