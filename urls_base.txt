@@ -165393,3 +165393,423 @@ seen_titlehash:3acbb16a8d158a4f4e7221b5fa4fce07792ed56a1580b9f722f51146ce7bff56
 seen_reason:processed_not_published
 url:https://ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1
 title:selling the devolution dream
+seen_urlhash:94b2c0fd733a5555c4f839fc8388c4ee2e593ce21c0fd879b16611ac5113e8c7
+seen_titlehash:61d4ca767f5d4c9122da65118d77bae1182b377ddeb91fcc0b44b0e193006d6b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss
+title:white house says melania trump brokers truce for ukraine city on brink of disaster
+seen_urlhash:bbc2303b34ad6dd6eda48ab55c0f929a7e3ffd6a2d07611b03435e85d7fe84c0
+seen_titlehash:16325f37a1635b0da77fe7f63d5d93bdc29125e9ade3bab6f652a30c89559592
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss
+title:oil spill washes up on uae beaches after tanker strike
+seen_urlhash:a2dc7b90296ada931824bc8bc894a9dd289fb123f8b71d1712d3b2c8d0c9aaed
+seen_titlehash:069e9118cb545cebdba54e5fa61e3fdd1238e34fc655b7a9d16c51904385b415
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss
+title:psg v lyon moved as paris prepares for more protests
+seen_urlhash:49049e6b46b330b83aa0ebde31edd8a6d7838ae64ff975d611f44a95e39cb3fc
+seen_titlehash:f1373ab35fe81633220496b898c8c10a07e59bfdfc41c1aef7b5b04ebadc42a9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss
+title:us justice department investigating corey lewandowski over dhs role
+seen_urlhash:19730bc28d3ef733691a0d37b9a53402d3c71c4291da362b4fbbc058fb325493
+seen_titlehash:83b7909e9de4b9970c92d083b4c4ac182ac203aa2f2b8fc8aaf78ec20aceadaf
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/world/europe/france-police-protests.html
+title:france plans to bolster police presence expecting new protests
+seen_urlhash:50798586134cf56fde3d4714868c3e8bd089ae566c42e89070eef9483043d0ab
+seen_titlehash:4d36c8766aa00b9545a56393954293bac54c65e11f52af2e5a22c8cd69fbd8a3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html
+title:how a u k official s wife set off a debate over free speech and palestinians
+seen_urlhash:f16e44c29a808b9c01acde26f3f6aadad1c3c1898600f14dc7bed82c643fe35d
+seen_titlehash:18d6934d245f781eceb6532888904272a24e63d3b2b19aa274d2f2d41b6c1eb7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html
+title:finland s puppy livestream provides comfort in troubled times
+seen_urlhash:32071dde46cb9eb978b89a7fb7c872b3e5c40249ab6849fe95e39495d4088e87
+seen_titlehash:4b4b22c4e6bf4abf1d069b0c6c090e07f5061a8977de954ca8ec894662df3614
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html
+title:under u s watch venezuela grapples with tensions over democracy
+seen_urlhash:81ae52639f9747aa0b28d992f8150cb9d77f925f9d303bf4c8e87c2c33f9948a
+seen_titlehash:efe0082a767e961d322d023bf8d4d11ba109a92fa60c46d42156efbd2451a17f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html
+title:israeli settlers turn a palestinian rite into a gantlet of violence and fear
+seen_urlhash:326d0044355987e751115588dedde033a27672ba8aa8a70a2609f4f5ebd9db99
+seen_titlehash:059ecc6ee3934b17eeeeb6dca39860bbd4ece5ddedb69ee0ce68e222a48b7db2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html
+title:meghan says she is distressed by claim her father kept child abuse images
+seen_urlhash:f13570a7d630e054426b8782a276403fc49f466b31f5bb317b7de204f52f4eb2
+seen_titlehash:e76b3dacf033261a106b026f10e87e1ff97bc3d3b98bd8e3e1b26af0efb8642f
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread
+title:mystery over source of ebola infection in nigeria fuels concern about spread of virus
+seen_urlhash:01d9c228cbf3a9db4fdfceb1fc2c63cb13542241cb2d7adb4044278f54997a93
+seen_titlehash:9c160e1ea427ad43d10f003647d45e63ac772122cd84e7727ccfdbc7d2e6c6b5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss
+title:jerusalem daily israel to lock down occupied west bank
+seen_urlhash:b33217642d82d653826f1bbab2d0bcdf512f688c15f5246e9ece6c279480797b
+seen_titlehash:4c96ecff8809776a01aed51e941b6ac5f7d118b6901344cd517aabd91a77c3de
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss
+title:us consumer sentiment hits a near record low before midterm elections
+seen_urlhash:09fa692a0d0dd012c78e4e3b8b387c651d12f8499d15537086ece9213d09ddd5
+seen_titlehash:d8a8c7acb2720e933ea895a9a32787ef1b1df4d7042143938f8fa4670f64fe0b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss
+title:romania blames russia after drone sinks ship in the black sea
+seen_urlhash:4772c64ac3d75e4493de316eaa34ede8dab876a8bbab4ca91237089fb6aec01b
+seen_titlehash:e54f4e339add79718da34c7aec07af16f99ba97f448e6141b69524ca0985a25a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss
+title:why chinese families are rushing to buy gold
+seen_urlhash:a04aebdaa2fe228ff599d9fd19f89336ad42a4a4a4b4931162a218ae13cf7e95
+seen_titlehash:8df9a8b4b9488fc079c1a7733abbf2ee4abbd183c9b9822514ab81d71b5ec0ac
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss
+title:many feared trapped after kenya building collapse
+seen_urlhash:5550838a695a942edb1afd2eb5e0ad495a07a80df08e14e7a3132409befeb745
+seen_titlehash:f422da3c915518a81620ef63a175b54d8d9b11e211104626c04380ca1f9ac952
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss
+title:indonesia seizes more than a tonne of ketamine from tanker
+seen_urlhash:82f5a1efdfc5b112b0fd2d36c5eaa245479086d47005b6652308ab081129f62f
+seen_titlehash:2f9cc20e97f7c2a4a58b3da83cbb11c5b2959113d678bdb18e235aba45aa0c5a
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss
+title:brazil s right has already changed the balance of power
+seen_urlhash:15042bd30071459f734e841b99d1318a49a7d45c4806e6cab95fda0799964f0b
+seen_titlehash:0e1249bf0730387ad95251de4fa84910742445243e52e1b885404c5b8cf1dc51
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss
+title:israeli roadblocks disrupt schools and medical care in west bank village
+seen_urlhash:5add5f5984b94659e4d9d5c66172bfe8a57aa0b54d2f6b3103778329ca87b72d
+seen_titlehash:b7b9003c69997f9c542907d723ad58aec52870110d5614653258541b54af1c51
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss
+title:european middle east ministers urge us iran diplomacy not new attacks
+seen_urlhash:fa5ea5e112ec998788ed02c37ef56e529331611fe8a5ec705b3b6f70a7a31846
+seen_titlehash:fff8df7981db707ecafdfff21d2f3598cec485fa198b5841d09c5d70906b3491
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss
+title:one person killed in suspected islamophobic shooting near paris
+seen_urlhash:5913216eb5b5ac695a3587fb895bd71290ca2dae44cf0cac8ed91ed997a0cc21
+seen_titlehash:7e8d9ecc2df36786eae0dab81a0a437d7fc0193130e87855445f0d477ef364fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss
+title:foreign policy is the economy how iran war is shaping us midterm vote
+seen_urlhash:03499e6f0feef8806c8143ceecad6473c1a9980b2624a3ec79ed973e7c5e3236
+seen_titlehash:b2f59cbd68df0c59f0b89da363b7643f428d013de1504e2d110f9c241af63622
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss
+title:carrick accepts blame for man united slump but confident of a turnaround
+seen_urlhash:47058a607a4917a474f0b47eff01d43705b0d38a6ef04815658322db832e959f
+seen_titlehash:5a7d4e1acf2c06dad986528a442567ee5ab41be164e91e1b2ddf2e226629d9a6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss
+title:what to know as brazil prepares for tense presidential run off
+seen_urlhash:f2a888c90a9ebecc8bde96f74f40b1b05ebfc1ad6d80ecb27958aae4312bb640
+seen_titlehash:5f88ea6ffa92c13088109710f13c0e4be02e4dcd89ec8046236bb84294995f5d
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss
+title:conte dismisses reports of man united takeover with carrick s job uncertain
+seen_urlhash:3b36e65bf2a8bdbca417c73fca197d4237fcb51e35e7eda35bebdf990babe7db
+seen_titlehash:69e89abb36cef3ab9328fc07324690231668266679c3c0ba134cb88495c6d625
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss
+title:mississippi releases video of 1 year old s fatal police shooting
+seen_urlhash:d08d637317da6f5ad4e937ee0c299fb2ec549e1fe4a685231f453a485c00ca26
+seen_titlehash:c289927a05973fd19517d70b0cb83afabc97dbc81c1c97768566e60bb2f30ff6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss
+title:finland nearing opening of world s first permanent nuclear waste repository
+seen_urlhash:2b3c3601bd8c25253c28d0cd464c0dc4ea5e79e3645ca438d0e37cd1c6367469
+seen_titlehash:83c2647140911550cca0c71a49967df783a5b27e237a37b58acbee8cd0d80d0b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791
+title:bayern munich coach vincent kompany taken to hospital after collapsing at training
+seen_urlhash:98e3e7da9dd20aa2695df07d92ea0e1a8c3935b6f1fee7af1e931ff65d4be096
+seen_titlehash:c946e6ea7f0bacf9d752066899b93981ab8bb77c97aae9aa9717e92b81e0087d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/kenyan-former-olympic-marathon-champion-suspended-after-failed-drugs-test-13602695
+title:former olympic marathon champion suspended after failed drugs test
+seen_urlhash:dfec2afc6f2abfae0424e36fc402e737cf702dfb4bc2b7ad6e05b941eaf98c6e
+seen_titlehash:865cd58485b2aaf6ec7dee7bdaaa2d3b1918321d07fb3c4aadbf3756de6d298e
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves
+title:how israeli settlers wearing keffiyehs are attacking west bank olive groves
+seen_urlhash:d5a9a894a5cd2f01406df3e0984b06c216adb520cd4f5688bbcf5ff023cf1924
+seen_titlehash:95e00ce7fb58fbc7b9a51f6155ee10a0439e9153bab1894ce852ded43ea6ffb5
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset
+title:israel could arab parties play kingmaker in the next knesset
+seen_urlhash:e78b658b4dd83c4033af580216c7cfe3448692824614e41fbc3725ab4a6dcc71
+seen_titlehash:e1476df6e9b4dad7eccd4ade68d9dca4de6f7edf6302cd28103b4cae051e2a53
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble
+title:gaza digging up the bodies from under the rubble
+seen_urlhash:51043434dfe35718b2d2f402def0eb6d1fc94313918201e61455ba2353dfb486
+seen_titlehash:1d6e763b3b9b555bc829050847fd1fb6bc8aab8f0a935e1eac707196a334ec5d
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says
+title:west bank extensive military operation on the way netanyahu says
+seen_urlhash:eb0bbc1e5f02782ed268aae04926d836b95eac458284b0be4d6016fe0452ceea
+seen_titlehash:df64f9dfa68f17ecd3cbbb5530b8237ed02ecdedbc51f73b62c82b25c2bdbc04
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake
+title:yes israeli settlers are ripping up west bank olive trees but this video is fake
+seen_urlhash:9b15405bf16193e7593832b881e80e0a20fc89dd30144f18b592503f7e586ea5
+seen_titlehash:9206e6620388f25aaf014532654f512f3452c921fc347df16ed6e28921fd9bd0
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris
+title:akaa art and design fair brings african artists to paris
+seen_urlhash:a11d3ea4a688a01484876b27ad080bb2d27478e3df1f8e987632f03f5eec7928
+seen_titlehash:bc0c895cc4d3792a46952fa9220a00c89b57f5434e7cf51cdea970c21d131e68
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna
+title:europe faces threat of organised sabotage terrorist attacks estonian fm tsahkna
+seen_urlhash:a89e56f7aec4265c954d24f014a5e3536220de9f82d8922b827174dc43be3653
+seen_titlehash:2557e8c5ec670bafabb14a0f1b8f622ea216e5db9cc1ea32bbd284b58be081ea
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible
+title:eu member states wrangle over all important budget is a deal this year feasible
+seen_urlhash:3fa4561c097575f2a67d4c838f564a730519786553644b5296ee0c92cbba3712
+seen_titlehash:6059bf4fe2fc8cbdff202b7e9442efacaf14578556e11445a97c373173e0e935
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections
+title:i killed lots of terrorists but it didn t make me feel better the trauma haunting israel s elections
+seen_urlhash:151be34e193534641dd01f357b5c7b5a6980aff2d0bd834c8a2c70cc9533cd64
+seen_titlehash:261a0c23f1747784010b1e09405ad09b10bd6e7b4a5d884f6018422d7da5ebc0
+seen_reason:processed_not_published
+url:https://france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives
+title:french protests president emmanuel macron meets student unions representatives
+seen_urlhash:f8b7f78dad235359130cb4132b4a76408c70cfb6f9519f12dc0cc1beb8f0124e
+seen_titlehash:e73f5e18640a75d0aeac900c8cf342784b69d79696e9d91a8856d5eafaad72dd
+seen_reason:processed_not_published
+url:https://france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb
+title:suspect arrested after 1 killed and 4 wounded in a shooting in paris suburb
+seen_urlhash:75a7191c226cf8d7ec81260b0b1082e22d0c70bacbb79b8e3851aafb718d905d
+seen_titlehash:70c171bb97ff63e4f9e3737839079e5af882e4fcb2562ce78b7839a7a8666f6b
+seen_reason:processed_not_published
+url:https://france24.com/en/france-gunman-kills-one-and-wounds-four-in-town-outside-paris
+title:france gunman kills one and wounds four in town outside paris
+seen_urlhash:2320a785be4445a2896b98e8f5b767773fda2b02a658325cbe732619a42e87da
+seen_titlehash:10ee5b91781014f3ce13f0179f54f2e32f41ef7f3d2add0829a966f00e6ddc3c
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting
+title:several killed dozens wounded in jordan church shooting
+seen_urlhash:6f83014d58aab0ca9770950a5c9cc4fc5c71b90dc4119ad0647ef4cf44a99a22
+seen_titlehash:4905495d079ad73f73aa3191b078fac390a5604e422d76eebbedfe87ffdb02ab
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-51/20261023-why-do-women-in-public-life-become-targets
+title:why do women in public life become targets
+seen_urlhash:94d8eb88840181bcc30dc8d5e1dc24d1dfa3d0de48ac388493e12e0b6110bee3
+seen_titlehash:f189c512ce519f88db77c60e57bdfdd60514e3400e0ccf7c476eb4597af787fa
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261023-french-authorities-tighten-restrictions-and-ban-specific-protests-1
+title:french authorities tighten restrictions and ban specific protests
+seen_urlhash:59fa99b0630fa933e1aa2184e7f21fe1b99b50eb8cb6d8a4e918805964a50a70
+seen_titlehash:23d04eac54d4428805085ae04adb0edf4f59c61f8074ea1d422ecdc26f96f910
+seen_reason:processed_not_published
+url:https://dw.com/ru/metro-не-одобряла-передачу-1-млрд-рублей-на-оружие-против-украины-от-имени-российского-подразделения/a-79746986?maca=rus-rss-ru-all-1126-rdf
+title:metro не одобряла передачу 1 млрд рублей на оружие против украины от имени российского подразделения
+seen_urlhash:c37a611bbe54297bdf4646908fea8a7af9aeca8037d8e7990fd9b08263bc92d7
+seen_titlehash:603e2cb239b3b3d57848630d3777be77849033f7dd4163faf72ed45ba9f74dd8
+seen_reason:processed_not_published
+url:https://dw.com/ru/сербия-выбирает-парламент-студенты-против-партии-вучича/a-79745150?maca=rus-rss-ru-all-1126-rdf
+title:сербия выбирает парламент студенты против партии вучича
+seen_urlhash:8e893506f93b5ecfc9b9e5a051c236f47da8b32dc927d6009305da84fa65ca46
+seen_titlehash:a2730ae07ee7b75ebbd015e38cbfd3a42685d222ec5f61d1e42a546a23668222
+seen_reason:processed_not_published
+url:https://dw.com/ru/инвестировать-в-украину-значит-инвестировать-в-безопасность-европы-интервью-dw-с-вице-президентом-еиб-карлом-нехаммером/a-79746410?maca=rus-rss-ru-all-1126-rdf
+title:инвестировать в украину значит инвестировать в безопасность европы интервью dw с вице президентом еиб карлом нехаммером
+seen_urlhash:416c877bb20a19b8a92d693d13d07121c2367cd07c56f99e226db52387d21172
+seen_titlehash:a99f32dbcb3819cbbeeeaff93bde49869cb3fe2e5a62c6ab8d7322f61208c7c8
+seen_reason:processed_not_published
+url:https://dw.com/ru/70-летие-венгерского-восстания-премьер-министр-петер-мадьяр-хочет-исправить-образ-революции-1956-года-и-подвести-политическую-черту-под-эпохой-орбана/a-79743880?maca=rus-rss-ru-all-1126-rdf
+title:70 летие венгерского восстания премьер министр петер мадьяр хочет исправить образ революции 1956 года и подвести политическую черту под эпохой орбана
+seen_urlhash:c24ed88f11e0e9302709fc992e23708c7de04864639be998d76146c22d4b9ce7
+seen_titlehash:f35d0755eae20247ab213b121094c51f65e38116199022403f9dc79673d2ee04
+seen_reason:processed_not_published
+url:https://dw.com/ru/международный-союз-немецкой-культуры-и-издателя-московской-немецкой-газеты-объявили-иноагентами-в-россии/a-79745492?maca=rus-rss-ru-all-1126-rdf
+title:международный союз немецкой культуры и издателя московской немецкой газеты объявили иноагентами в россии
+seen_urlhash:30c52b1c8e58f62440f31f50511fadc967b1143bee47f5e250ecfb9e3ba34f76
+seen_titlehash:755c392b14ea567795a3b73545f52df0db00eb008ad76bbe5d107a585e2fa96d
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-удара-российского-беспилотника-у-берегов-румынии-затонуло-грузовое-судно/a-79746239?maca=rus-rss-ru-all-1126-rdf
+title:после удара российского беспилотника у берегов румынии затонуло грузовое судно
+seen_urlhash:99811250c327c32d41180573362332b93cc55a093bce26097b255b369758bcf6
+seen_titlehash:80c376731e9b7ec751a5ddb54ef906d5cf19802ceef6f9ac20446c33098e3c31
+seen_reason:processed_not_published
+url:https://dw.com/ru/кто-и-зачем-протестует-на-центральной-площади-мадрида/a-79744919?maca=rus-rss-ru-all-1126-rdf
+title:кто и зачем протестует на центральной площади мадрида
+seen_urlhash:a4bcd36e951ce80d3ef0433cff8e5855a3c6f6aa11665e6a5320071bc897baca
+seen_titlehash:105d0b98431a33ac0c6caa129a68dc42d40834a5e071dda8600b16c77064c5a2
+seen_reason:processed_not_published
+url:https://dw.com/ru/лишний-час-сна-что-немцы-думают-о-переводе-часов/a-79744318?maca=rus-rss-ru-all-1126-rdf
+title:лишний час сна что немцы думают о переводе часов
+seen_urlhash:1d7806f37b811b30c74940408a02936d9f54b0ea7f6976ad46bd6943066e2e83
+seen_titlehash:e55dbc01e186af0f5173df4dd9bfba6a4e3a3499193503deefeb18649055c0c3
+seen_reason:processed_not_published
+url:https://dw.com/ru/большинство-немцев-не-верит-заявлениям-путина-о-готовности-к-миру-за-исключением-сторонников-адг/a-79744584?maca=rus-rss-ru-all-1126-rdf
+title:большинство немцев не верит заявлениям путина о готовности к миру за исключением сторонников адг
+seen_urlhash:52b14e2c673abc929b0f9430e00291496a69cdf5125ed15b851d5a7362983957
+seen_titlehash:015b4bf180a7dad4c48a1fbed5d3cfd7abeceebb526db2667ee18f00953969d8
+seen_reason:processed_not_published
+url:https://dw.com/ru/270-на-270-украина-и-россия-обменялись-военнопленными/a-79745229?maca=rus-rss-ru-all-1126-rdf
+title:270 на 270 украина и россия обменялись военнопленными
+seen_urlhash:b350b48a0a9e2bce507ecc39b29238079fa58d538ec725bf0bd906bb208d346b
+seen_titlehash:0898b2dbf368dc746d6906e3c57c94d8d6f00108cb3b2ac55f94eb0be201b517
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/informal-fac-trade
+title:ес стремится сбалансировать торговлю с китаем и рассматривает возможность принятия более жестких мер
+seen_urlhash:57dcd1715bed538f609b4a558caf635b7ce851daa6962a65c080312a1d2d245e
+seen_titlehash:905e528c4e4f5d9613b392ef821cf5b3f6fa608b79d32e178da6a685db10405e
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/a-year-ahead-of-the-wrecking-ball-scientists-find-new-clue-to-predict-when-el-nino-will-st
+title:за год до шара разрушения ученые находят новый ключ к прогнозу эль ниньо
+seen_urlhash:b52fdb1b02ee9b8f5746a46faef877872494af6f4fe6032f2da6c146934241bb
+seen_titlehash:5a7cb7aceca71149c8c990f09afa30bd1a8f24fe1140f5732d0e24a33ad5e778
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/italy-and-france-ready-for-saturday
+title:италия и франция усиливают охрану городов и готовятся к беспорядкам
+seen_urlhash:ebc27df59cf9edaa840bf13427aecaede811c78f10d1a989321d4dc6f98370ec
+seen_titlehash:1cc5868e2aeefd7352cbc028f483b1ed6b562cce1137e118cb68e51c7b9f80b7
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/23/eb-s2610e23-itw-lopez-domenech-ser
+title:аналитик борьба на досрочных выборах в сербии будет очень напряженной
+seen_urlhash:c90d0d5511e5c92488c27bbab7020f9e119d14538b8f39fcb9c7d4440f645ff2
+seen_titlehash:1789a79fa3768ee79c03c1f30676abd5f3c20e5a31e82fd2d8477453b7404055
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/ru-kz-pl-gold-reserves
+title:рынок золота и центробанки россия и казахстан продают польша и китай покупают
+seen_urlhash:81dd471b96d7196305a6b063479bf69d952bc15ceccbd2fc3add4b3fba83d44e
+seen_titlehash:1f85b9a322084867b6d978ee485a5db036afed9fc40171cba5ca85f829ba7e0f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/hungary-1956-anniversary-guests
+title:годовщина венгерского восстания гораздо меньше гостей чем ожидалось
+seen_urlhash:001103c4ebbf4849ffd8e93b5bc50206180194707bc906f6105a649c2281bd84
+seen_titlehash:997a87575d6567a123eb9384b679abbb78bf6c24ec9903a2a47c6139f92c078f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/ru-eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking
+title:война россии в украине ес добивается более значимой роли в мирных переговорах
+seen_urlhash:b7aa721fd6e0bd93a7ab4a2191b013283103a2d1e9d8ed16e1b11bda701bfc87
+seen_titlehash:2d4193b3ad0491e6351921decf98062d4d09b5701672738d665cc8a4a733bd9b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/be-energy-subsidies
+title:бельгия увеличивает помощь на покупку жидкого печного топлива для уязвимых домохозяйств
+seen_urlhash:92e9d8388890b1d403a3d13e88ab639ffd27be5dd8635cdff3acfe21e9f5ada2
+seen_titlehash:d450a9c7948e0e04f594d4ec28105be8f97424e1b5b15cab6833f72b1a5106f2
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-a-high-rise-building-collapses
+title:кения после обрушения многоэтажки остаются горы обломков
+seen_urlhash:487eea5e9637a877915bf7958b6d8fdadf15e5c86d82c6cebea9d0605bb65ef5
+seen_titlehash:17db91060d6bb08fb7469b506199990157d58b92eafaaeff4cd6b7ce1cf59bef
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/ru-moscow-airports-restricted-operations-due-to-the-threat-of-attacks-by-ukrainian-drones
+title:московские аэропорты ограничивали работу из за угрозы атаки украинских беспилотников
+seen_urlhash:f63b0b9dc5a1fe70adf09f28f9cdc6437d0ca2c84b40b5aaf7651188bbb8b8c8
+seen_titlehash:2d554e42a30736f7883c613835b41cb4d10f2223a1bb293f6a1092fe1b98e761
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/ru-melania-trump-secures-ceasefire-in-russian-occupied-ukrainian-city-of-oleshky
+title:по инициативе мелании трамп москва и киев согласились на локальное перемирие в оккупированных рф олешках
+seen_urlhash:2e03ff10e526c1d4f170bce496c6560870b9330831b960f8ddcfd778152b1327
+seen_titlehash:814d31bac8599650bdf0c3b146ea13d8968a0b674f13b2bc8b244ace812cc5e4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/cica-members-look-to-turn-regional-dialogue-into-action
+title:члены свмда стремятся превратить региональный диалог в действия
+seen_urlhash:89c060f12ea5a2015d40a5f7f3d1bf6746cae6a4b66ef067f6b129cca2cd9da8
+seen_titlehash:f339d8bff8570d922e8128b9199378048a048b70c2e5daa4175ecfcc6f38c667
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/23/shamonda-virus-first-human-case-is-an-alert-not-a-reason-to-panic-says-eu-health-agency
+title:первый случай вируса шамонда у человека стоит ли европе волноваться
+seen_urlhash:f131e5cc6fb624b6f2c529221644f693423039b3b20b12725caf02ef8fb75ba6
+seen_titlehash:9949c53be680c63c2c536641096781a0a63e67f61c34adccf03bd0f33289239c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/politsiya-kipra-nachala-rassledovanie-o-vozmozhnom-uklonenii-abramovicha-ot-uplaty-nalogov-po-dannym-zhurnalistov-v-etom-emu-pomogala-odna-iz-krupneyshih-auditorskih-kompaniy-v-mire
+title:полиция кипра начала расследование о возможном уклонении абрамовича от уплаты налогов по данным журналистов в этом ему помогала одна из крупнейших аудиторских компаний в мире
+seen_urlhash:d83c173969e329b9be59147a239a0e511e03cb7f121ab106a19ab3794f63bf79
+seen_titlehash:58f768764136400cf87fda99e50cab54786b529f110919c16e26c95500ee5f39
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/23/kreml-prodolzhaet-borotsya-s-kommunistami-byvshemu-deputatu-gosdumy-i-samomu-populyarnomu-politiku-v-komi-olegu-mihaylovu-grozit-do-semi-let-kolonii
+title:кремль продолжает бороться с коммунистами бывшему депутату госдумы и самому популярному политику в коми олегу михайлову грозит до семи лет колонии вот каким был его путь от борьбы против мусорных оккупантов в регионе до ареста за оправдание терроризма
+seen_urlhash:c7b1f85f4c0f233b4dc42f8e5c2bcceef5f9bad885f4f7f8f5b69ebb0580ba37
+seen_titlehash:68a7b0db7ba035b72d62fbbed27b8df1c035b90c9230da1486a03a434eefd1ef
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/rossiya-ob-yavila-o-prekraschenii-ognya-na-hersonskom-napravlenii-s-27-oktyabrya-dlya-evakuatsii-zhiteley-aleshek
+title:россия объявила о прекращении огня на херсонском направлении с 27 октября для эвакуации жителей алешек
+seen_urlhash:b06e0b064449cc0ce7c224e3e5d3531d1ae0e29e9aa15302bf0beb54c557e00f
+seen_titlehash:bff021fd0c3ff31a308b80c8d9c1d2e126bb5492d6c6f09a3690719f43ca7c4a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/23/vsu-vpervye-evakuirovali-ranenogo-s-peredovoy-s-pomoschyu-drona
+title:всу впервые эвакуировали раненого с передовой с помощью дрона он ждал эвакуации полгода в одиночку и ампутировал себе поврежденную ногу
+seen_urlhash:6df08cbf7d5eeebf9fee325816fb8aacd35568dbce5b4379c01deddda711e100
+seen_titlehash:d394009cc8824d1000f1ce41bb8a9c4852ceb36f8cf506d828fca59a29df6867
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/orel-atakovan-raketami-tselyu-udara-po-predvaritelnym-dannym-stal-voennyy-zavod-proton
+title:орел атакован ракетами целью удара по предварительным данным стал военный завод протон
+seen_urlhash:7f086e92e57cce44c0283fb3464f70b96da4eb0dd437d00b484dd85ce93c61fa
+seen_titlehash:7a005cbfb50c9487e7e912671666bb3ea88af7302ee17b6667d6f25d36b19522
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/metro-kotoruyu-peredali-vo-vremennoe-upravlenie-mesyats-nazad-pozhertvovala-milliard-rubley-rossiyskim-voennym-na-peredovoy
+title:metro которую передали во временное управление пожертвовала миллиард рублей российским военным на передовой
+seen_urlhash:22bd076838c82fb52cc9c752215662af4f38ac4bb3e833f7297202e0ac986329
+seen_titlehash:b031d17ef8c9be6031aca76ac1694dd9b1f8d9d0c4cf3a1683fded6f78e30e20
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/izrail-nachal-snos-zhilyh-kvartalov-v-hevrone-na-zapadnom-beregu-povod-ubiystvo-dvuh-voennyh-tsahal
+title:израиль начал снос жилых кварталов в хевроне на западном берегу повод убийство двух военных цахал
+seen_urlhash:6dcd95afb375ce8fffe7f8a94e852258fb7fb55adab562469db448c9980b2619
+seen_titlehash:31044ca97cba312741cdc3d037fb67087f5b7f05ef01314562506a571b8ce9ab
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/minyust-rossii-zapustil-reestr-vragov-naroda-teh-kto-popal-pod-vremennye-ogranichitelnye-mery-v-nem-hodorkovskiy-shulman-i-chichvarkin
+title:минюст россии запустил реестр врагов народа тех кто попал под временные ограничительные меры в нем ходорковский шульман и чичваркин
+seen_urlhash:f3afd8095600db8f01cc80626152880235fad6bad1a3bdc2476a73ade470a83a
+seen_titlehash:303e1601a7bb8a8a0b14dd91db33334bccde834c8ce975229c513201f6f74a52
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/23/v-serbii-vybory-pobedit-aleksandra-vuchicha-mogut-studenty-kotorye-uzhe-neskolko-let-protestuyut-po-vsey-strane
+title:в сербии выборы победить александра вучича могут студенты которые уже несколько лет протестуют по всей стране почему выборы проходят именно сейчас и что их результат будет означать для россиян живущих в стране
+seen_urlhash:1539c6c33c3c76c9375dede7d63ccfc7a8b3a7bccb50be0efea73c1a16425596
+seen_titlehash:34f639af160577955d51700e7d57ab1dc1054fb8913189083318e7b355203d56
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/avstriya-vysylaet-chetyreh-rossiyskih-diplomatov-ih-zapodozrili-v-shpionazhe
+title:австрия высылает четырех российских дипломатов их заподозрили в шпионаже
+seen_urlhash:5f4a1c0d6cdb0cdb65745d21c425607073344a09fedd9f5c302cd1e37ac87674
+seen_titlehash:a72dbff188ef63723f787f295358b1b39b8d79319a20de02ab9684eec7597ea5
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/23/novyy-inoagent-glavnyy-redaktor-eha-maksim-kurnikov
+title:новый иноагент главный редактор эха максим курников
+seen_urlhash:c81da68eaae904dcc1da8494f2c6e472f7ed46a66a11c74ca0374432cc073bdf
+seen_titlehash:df80544488a957109d6fd8c1fb0a6bdaa79149e24b9b92bae981980a7abe6ac4
+seen_reason:processed_not_published
+url:https://ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83
+title:the ledger problem
+seen_urlhash:7de8e3fd4476c355449834ba23d07a8117baecd1ceca760e3b2004813f3dc948
+seen_titlehash:ad31de098e9910959fc4df54486c70277d4ef774f5931cdf8cb1ebe170253702
+seen_reason:processed_not_published
+url:https://ft.com/content/e669f0f9-5042-4554-9cd6-39d2d9fd27df?syn-25a6b1a6=1
+title:burnham should not rush on giving tax powers to english mayors experts warn
+seen_urlhash:07574b061f71d5c20a21ef25c1a4599a791caa7b431396ba6febcf611f72ad20
+seen_titlehash:1105d6ce87c52b365a40938eebbcfa5d483f819caee228ff8d0ae977021e8f3b
+seen_reason:processed_not_published
+url:https://ft.com/content/786adb71-2e7f-4218-b8dc-146bfb1db8b6
+title:some budget tax reforms really are better than others
+seen_urlhash:0ea2c43de6d47be7cd5c24c23769a3e14acccdf9453bdd2eb4f28e3834ecaec6
+seen_titlehash:51ed756fa6153de5f103cd37429b903015c89e0b2a13fa9f4737deb26e533798
+seen_reason:processed_not_published
+url:https://ft.com/content/c6182105-608b-461e-a274-4b0ae6c224d4?syn-25a6b1a6=1
+title:the biggest ever investment theme has only just begun
+seen_urlhash:c0182c74ece68658639a1bed80ea1497fb4b0f88e0f9a58687168d1007f219e0
+seen_titlehash:71d967455d0400684b3a515348a15f50985465a0e31f7718458dd47389171d2e
+seen_reason:processed_not_published
+url:https://ft.com/content/9bf81e98-08b7-450a-a804-51030934646e?syn-25a6b1a6=1
+title:deadly shooting near paris investigated as possible racist attack
+seen_urlhash:0e6eebb36de6ce681b6a3cf38cd39774df2e63ad878f0f250ce6808d5dd8ffaf
+seen_titlehash:5beb1a5741955622c91fe543bc8921e8103050dd6dc0d3dcde355148f7cfb005
+seen_reason:processed_not_published
+url:https://ft.com/content/90afe6b1-0ca9-4795-9665-cab3e789df96?syn-25a6b1a6=1
+title:submit a question what does the budget mean for your money
