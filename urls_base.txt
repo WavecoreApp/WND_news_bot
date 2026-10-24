@@ -166368,3 +166368,313 @@ seen_titlehash:d3af6f016b3ededb4a5d4df0530cb002c8c5ee2c6f401239edbbe7ec7b39113b
 seen_reason:processed_not_published
 url:https://ft.com/content/a4d00561-9309-427d-a5b7-556c2b4a74e8?syn-25a6b1a6=1
 title:cannabis drinks boom sparks rift in us alcohol industry
+seen_urlhash:be38a047d0a7e0cc4585bdc498dc96ee6ae69fe792e97fd16ac357767f97d7c1
+seen_titlehash:25e2df6449564592569d21d541f5a056fd0b0456e6a243efe0106a0a48d09e23
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss
+title:father who killed oregon school gunman describes anguish over children he couldn t save
+seen_urlhash:7a5061c4c5ef3bbaed9548f7936992ab8e7327599361f7daab0f8768187e00ff
+seen_titlehash:9309ab429fc18d6796f95dce0c640723cedc8d0bf65a818aa0129d60d0dfd0ad
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss
+title:white house lifts tariffs on some canadian goods as midterm elections loom
+seen_urlhash:d95e1d1f2b857df6f829c22b423181bb54e8fee1e303601574c15e117abc19c0
+seen_titlehash:05ceac35d5e26a56b5db893086ec3842b7d59a48138a1ab4597f6ccd026d1f94
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss
+title:seven missing after multi storey building collapses in kenya s capital
+seen_urlhash:098fff26d3d954de4e704a491a0329c5ecceb71d84072f34a5f3eb9fbf008d05
+seen_titlehash:95b4b9babdaf31028587f09c64e30a774da480106b20b77ce5feecd6a3743f4d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss
+title:minneapolis withdrawal was surrender trump s ex border patrol chief tells bbc
+seen_urlhash:77149c28060cd74c2014570cb2160cfcde08c8ccb9137bc63a2c65fad8dfe878
+seen_titlehash:ff6a43223ec9039aa7ec6adea6323b9109b8ecbb68fe76dfec1b0428ef6f41b3
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss
+title:who actually controls ukraine s access to starlink
+seen_urlhash:45f86c3b9b4b14cca473f9fa3894da453bd1fa4bc6c7f7a876e0a54b6b9fc150
+seen_titlehash:b595f18692fe3d49cb3acce274c5dec444f2efdc2e001570f068f9740cd849c0
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/10/24/world/france-protests-riots
+title:live updates france deploys vast security force in effort to prevent more riots
+seen_urlhash:bbbabdfca81b768191d8c39dbbf2570ef5adb7cfe2b7ce3e88b9d659d71ee2de
+seen_titlehash:60002dadda29e966df0a78c5ff70eaadd5f5cc2a15f3568eff4e0b196934b2df
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/europe/ukraine-trump.html
+title:ukraine s feeling of moral whiplash at the hands of trump
+seen_urlhash:8eb241efb565c4618f4658b6d3fbbdcdb3e2a6068bc7d9f6a6c0229f0c467262
+seen_titlehash:f1e095e9f4c55ec81c8ac739e35b83e4aeb20da745f588c4f87aa70d6c764772
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html
+title:looting left damage and fear on paradise street in marseille
+seen_urlhash:60dbc5f690f86c93e7f0abf978af941178135797570b305da395463dcda167bd
+seen_titlehash:9b46651290e12e7814539b1c3fb4fd191e85363183102a18a0ab5104f721db1d
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html
+title:north korea s kim jong un arrives in china south korea says
+seen_urlhash:bccf0276d58d784eb2db35437b5a59f08f04241089c5dc8197043a370025825c
+seen_titlehash:f8b133953a3f9432914c6367a33a75d2452f1816b82b401d942e017b1d685233
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html
+title:u s pressures mexico to deliver a security win ahead of midterm elections
+seen_urlhash:bcc6010dbc28c50803a23cf9e124736f39ae2e55b19e259b0aa82883351ff0f8
+seen_titlehash:53831aaa603cbbbc4f6da06f9364f7a2a3767f478cfe1053e61b2c435fcb3710
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html
+title:could lula be on the brink of defeat in brazil s election
+seen_urlhash:5047a45ec67595ac68237eb1283bf3be6fcb7b4ca495ca70f681d2c6860c641b
+seen_titlehash:5d1d3ab8528e96ea19b1de9f2fe94a538eccd3e93af16700a8ce4a6dc16cacc9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html
+title:the other bolsonaro who could become brazil s next president
+seen_urlhash:cc85c7194335a13c77835041b24636bf87b4b29fe7390d60796628a5a100a7d8
+seen_titlehash:883259897175c086d8720b02b044c1cce605401e77f494ed8b48d9656db15d61
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/europe/france-protests-timeline.html
+title:how a small student protest spread across france
+seen_urlhash:08503aa8734fee7d7bd40946e8dc2600c6076f26a7c9322d98b4b4e19ae53eee
+seen_titlehash:26f46945ceaf5a9052c41c6dac307e8ff12e8ae3279da68f82bbf1a2dea84539
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html
+title:why brazil s election could come down to crime
+seen_urlhash:59964228f2a6d494a3441a1830ee89255b9a060ae24551839a77f7b56d5471c0
+seen_titlehash:7cc4b88ebc3338138c58ef8ea0e9b8ea4137684a221fde1b450c8109ee6ce824
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/travel/gr20-hike-corsica.html
+title:corsica s gr20 a visual diary of the hike
+seen_urlhash:49d930a79280048c1a2e86406cc76c446626b1313272ac6a431046719207ffdc
+seen_titlehash:6a77b55a3d7e909db4c33785a6f599e3491229e9f12657d83648cc577e5a7071
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip
+title:british woman dies trying to save sons on bahamas snorkelling trip
+seen_urlhash:471ca754298d62ffa3be2bb69f44ab215c0cf28f0941264db40b573d0d5b8ff1
+seen_titlehash:380586ffba41e00ff7517ebd219ffc6d2eee04a28acd0bc164e685585b9e7ab8
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china
+title:kim jong un crosses over newly opened bridge into china
+seen_urlhash:c2cb473d1b0cc70b14779137b552f596726799f326bf41d75e1318299fe23888
+seen_titlehash:195b56154c4cbc8dbd6e48d924f2ab14f6b495a84da9324a047347f3aa35e89d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss
+title:ethiopian pm s advisor tigrayan forces and others hinder stability
+seen_urlhash:2e54a807b0137935ac4ffd140bdfee42c460e3a3a40108d7291e1398acf18ae5
+seen_titlehash:60161e6e20089449a4cc1f4bde1645631fa937144accaa571c3f2bed8cf2fd99
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss
+title:just eat apologises after ai generated images blunder
+seen_urlhash:09cd833d86f03cc197ddcf2ca3fee183cb9cea3efa0b3eec1c294fc01692f693
+seen_titlehash:3b9b41dc8df749cb4206318144236da49eaaef2fe887e737d042c213392c1966
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss
+title:ilhan omar votes as trump renews attacks amid federal probe
+seen_urlhash:38e3996040f774a0dd1f851f072947ef70534f015fb74835434a4bfd1fafe762
+seen_titlehash:0e6f65f33c6c942ebd18d7769fa0023666e03919a90839e6dc9fd747874bda8e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss
+title:why is israel launching a new military operation in the occupied west bank
+seen_urlhash:583a2c683c6b5bb8d2d193b25499d90dfdff7675af431b0ba28b40bee327337c
+seen_titlehash:a6c7913ceca288fd1c446dc5a4b789e7f2a3615976107de327961e708abf647e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss
+title:bolivian teachers strike over wages and education reform
+seen_urlhash:db0c1c979e4194261e3bcf8fb168dff9c94f217c5b54ca24f4f3227b7dc7718b
+seen_titlehash:b0c8491be782e1f69d83288573d1e89cee02f090c6ddf95581e40b65219b43b1
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss
+title:the muslims finding belonging in southern spain
+seen_urlhash:3142a0bb751d7e966aa9377e18053014a1368a26f72d662e8e66418899ef47ca
+seen_titlehash:85089f6207fab9d87aafe123d0a9fdb8de39e2cd90cfad58eac430f74b8637b1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss
+title:rubio calls on cubans to partner with cia to create positive change
+seen_urlhash:77c53ebf18841313178176a377ee2cafdbefeadd68aa8b1813ef410fa75846a0
+seen_titlehash:e1dabb924a79c307adba496910ad3fc7d6e2090898e6e5c7ae650d2ee31dd985
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss
+title:chicago bulls storm back from early deficit to beat milwaukee bucks in nba
+seen_urlhash:a91c076c75ff24523a17e990a4e72faaec48d1cb47df4587a456efb0a4e064f1
+seen_titlehash:30ed4f318990f984810a72021ff95f2698af0a841591f3214b504e927a1f6203
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss
+title:massive chemical plant fire triggers mass evacuations in mexico
+seen_urlhash:adcd5e89e21557a5cfbac667e2618e5f60ba4555e7625c82928cfb8b3e74822e
+seen_titlehash:336fe95f0d28fae83508a75bd67ed55c5156e978c2786c44d10056be67d8858e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss
+title:dan sullivan vs dan sullivan why is trump s doj suing in alaska
+seen_urlhash:fcd6d6a9995ac6d3e9d82879759dfd4f90c26dcfa672d94c89a59425e7f05177
+seen_titlehash:b1791cfd20dd2a521609ee152a3d695c7dd1fe9f526c4e053e84cff6d314affe
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss
+title:man arrested after fire breaks out at hitler s former alpine retreat
+seen_urlhash:b0bcba732dfa54bce8455f3ecb7ca0563641494c06902680baad2a3b4d49bf64
+seen_titlehash:294aefe10e2059e299c02368c8141658f0ea6ec40a45bb84258ced98c410a34d
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss
+title:displaced west bank palestinians face growing hunger after un cuts food aid
+seen_urlhash:39ccdc63172ba8036ed79aa0c5a0dea2843389839473e000a56fdede25ed48d4
+seen_titlehash:e1d5befa1b1094aa0025c2b0dd45ad2d0503b711fe0c4e88063306a31e5f76f5
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss
+title:north korea s kim jong un visits china via newly opened bridge
+seen_urlhash:e994a76939d5304b741a9e0cb996117627c93738798a5b4a83b3c2d378d0ab75
+seen_titlehash:bc870cac2e435df462843d18788bade92bc1d89452e033912c49faad367933fe
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss
+title:cop17 puts armenia s environmental record in the spotlight
+seen_urlhash:d8ca2bafdf329e66afb71c6af79076da4a4bfa84f1531a2497d40e7ce7a83748
+seen_titlehash:0e5e044fbf45d619a3d5b0bc5bdec73a0fae8aa5ae2ce9dfb79c10f2870e7de8
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss
+title:ronaldinho s comeback with ravenna at 46 set for next month at forli
+seen_urlhash:6631b252ebd98a882dd61783623669a156823a55f6e2028ac29b5859d801bd31
+seen_titlehash:a9af35b1111266c92d4f2df7cbba37232e9d7dbbfa1eeeada937e5c9f6c1f884
+seen_reason:processed_not_published
+url:https://aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss
+title:keeping the world safe when no one is in charge
+seen_urlhash:d222460dd7148e8164f42ab297bbd70dbba68cdbeeaebf1b755729ba597358f1
+seen_titlehash:e15904e0e23942f08f27f78ee7e2ecc4d5dc988dba104676994104fca8544446
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss
+title:lionel messi receives top spanish award in recognition of social work
+seen_urlhash:42f55a83d4ac08215d87dd21ff2d9be31f6aec37a9ccf42d1fcfdd4b9de3a967
+seen_titlehash:c89d050d1dd1cca04fdf9bfa1929264f1a63086ee2ad7d93cb400885cc33187c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss
+title:has vivek ramaswamy s attack ad against amy acton backfired
+seen_urlhash:7fdf7588e08e98b0c6da29cb9ce7c59e83f670f3ab89363f7ce3e5b863324eeb
+seen_titlehash:649c274befc06429f7ffdc3cab9a795cf068e8bc25aa88ef0649aa48c929660d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss
+title:how benjamin netanyahu reshaped israel s institutions
+seen_urlhash:2a52d453c167d4758a28d3c8465c5588886bbb82e7a0149ec9f2c37b315f83ad
+seen_titlehash:ab37c333364723542b79343dccdd209cb530f7133b644c922922fad99701ca49
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again
+title:ukraine says starlink and starshield connection stable again
+seen_urlhash:b56595dc1ba0102d2e59b84107956def465c5bd8ac626058f66400a3da20df38
+seen_titlehash:02826b188059da31778671f853d977f5c91e9d6bdb767f3c9dfc3085677dcd7c
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security
+title:protests against cost of living expected in italy under heavy security
+seen_urlhash:d6ceb6a57fc818396d84da014e9462e701be6c5ce45e3a7a73e6fd5be52844e6
+seen_titlehash:8fcbfa5cd9e50905b169a51a15dabfacbfe76baef4244755b4e40b1f4ca41777
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests
+title:french police deploy in large numbers major paris museums close ahead of new protests
+seen_urlhash:400ec9f196f0348622667b8d04070a2f8dbd92a230a04502fd6da1caacd14348
+seen_titlehash:7d81e6a2eb1c7eda03b23c60fafc42615f7ef3aca1eb80e597f7c1de9cee656e
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence
+title:live france braces for fresh wave of protests amid high tensions
+seen_urlhash:eb8d365cf556648a3aaf20b2849fc4f02a506632f6c6e569fb2f3486d36f8fea
+seen_titlehash:0e673f1a2318a9fe203d422c71356e0e97fdbdb18d543c7bd117a505a591cf60
+seen_reason:processed_not_published
+url:https://dw.com/ru/войска-рф-атаковали-украину-ночью-бпла-и-бандеролями-более-100-целей-сбиты-в-киеве-двое-раненых/a-79749369?maca=rus-rss-ru-all-1126-rdf
+title:войска рф атаковали украину ночью бпла и бандеролями более 100 целей сбиты в киеве двое раненых
+seen_urlhash:c4b0f7ef0cfa784913dabc079cd6a54d9b1113be280c2da21cc9f2ed964a9b1c
+seen_titlehash:d16c2bb4d7d4a82b02442d2d0549e4a087bc5a8b79a6b971ff63a51bc6068d37
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-бывшей-резиденции-нацистов-в-альпах-произошел-крупный-пожар-полиция-проверяет-связь-задержанного-с-возможным-поджогом/a-79749170?maca=rus-rss-ru-all-1126-rdf
+title:в бывшей резиденции нацистов в альпах произошел крупный пожар полиция проверяет связь задержанного с возможным поджогом
+seen_urlhash:e1417ad6c8c8872f5fe61ad1b5aab28e623b1078536e465e3dc9b3f3279bb5b5
+seen_titlehash:c6279917e3ad0b33b9157b6926ae8c09e1517ddbc94797f3f4d60b63523f1b4d
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-ночной-атаки-беспилотников-в-тольятти-возник-крупный-пожар-на-предприятии-тольяттикаучук-сообщается-также-об-эвакуации-сотрудников-автоваза/a-79748577?maca=rus-rss-ru-all-1126-rdf
+title:после ночной атаки беспилотников в тольятти возник крупный пожар на предприятии тольяттикаучук сообщается также об эвакуации сотрудников автоваза
+seen_urlhash:c761f1c5feadacbe084e9b2bc81baa471980ee58b06be307529565caf6755e7e
+seen_titlehash:e9b1dcd9a88c5449bec8b5662837fb443ef7838b94e027fe60d2f971398b91d2
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-германии-отмечают-40-летие-фильма-имя-розы/a-79731157?maca=rus-rss-ru-all-1126-rdf
+title:в германии отмечают 40 летие фильма имя розы
+seen_urlhash:e340e78d3b0b5a0a7c40ff35024cf958c0d5533109f5975488d452b57b901f33
+seen_titlehash:b1b1c10d077273680ba62aa9670823240920ad74a35a92e6f892891f9702491e
+seen_reason:processed_not_published
+url:https://dw.com/ru/выборы-президента-болгарии-как-удары-дронов-меняют-кампанию/a-79735599?maca=rus-rss-ru-all-1126-rdf
+title:выборы президента болгарии как удары дронов меняют кампанию
+seen_urlhash:f22060072ce47671e3e8a60b9b84232d477ee4c0c54dbf9cd74feb92217276a9
+seen_titlehash:5272c8ec916b80b03bd6a48de26d7754de35417df5ba2cd3b6b4e423e0baee0d
+seen_reason:processed_not_published
+url:https://dw.com/ru/конгрессмены-и-сенаторы-сша-призвали-главу-пентагона-расширить-контракт-starshield-и-гарантировать-украине-бесперебойную-спутниковую-связь/a-79748235?maca=rus-rss-ru-all-1126-rdf
+title:конгрессмены и сенаторы сша призвали главу пентагона расширить контракт starshield и гарантировать украине бесперебойную спутниковую связь
+seen_urlhash:77549f4d4604f8adc2014c4bae660e74138a791fa38fe3a4770bfde6190de7d1
+seen_titlehash:87797859b40fe3b6b307ab89fc63fb3efd38fcdfcaa8d53e991508b5cc3a2387
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/sensation-on-island-desolation
+title:генетическая сенсация на краю света пингвин кричащий как осёл
+seen_urlhash:531df6c62d49eac9c998be4f7fff77c5ddb63f575aa58c741f1de63212e9d383
+seen_titlehash:510cfc2488630a5f2288b543eff805d3515c5b837405f3074fc459040dea87d2
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/bremen-has-worst-railway-station-in-europe
+title:рейтинг ес худший железнодорожный вокзал европы находится в германии
+seen_urlhash:eae3b2a71b4164c3bbb85b13a35a27eafdcc53e446faec489271491007b8e7c5
+seen_titlehash:d1829fa5963b60991fcbe1d5c6e62b87c28489fd73b44d855f382f9a3bde4309
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions
+title:новые протесты охватывают францию власти в последний момент ввели ограничения но они накаляют обстановку
+seen_urlhash:67b2e845d2a4f86514565c6c9a0d07d300033ccb0183a39014bd9705820d31db
+seen_titlehash:ee383ac12d8cd576a5fe697d21e7d2285f5c4cbe3b078a3ba517fc848cc1fd27
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/rubio-cuba-cia-comments
+title:рубио призвал кубинцев желающих перемен к тайному сотрудничеству с цру
+seen_urlhash:e6c0b8da2cfbdcdc363ade372f53ea42ce8da48cb469f5ed89265e6b4e5dbe36
+seen_titlehash:6f8b70f94f8491a1f98bd960ca2775b099dd8b8791596ee2f849c3295bfc1378
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/winter-time-or-summer-time-what-science-says-about-the-best-option-for-health
+title:зимнее или летнее время что говорит наука о том какое лучше для здоровья
+seen_urlhash:75f2da40beb629f7e501746d3ba9b8ec5d9f78c4959fd9c94f869362143eb9d7
+seen_titlehash:812b03e7147f610b09e292756850d95ca89400746d15486ace4cdf72224fcf6e
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/moodys-spares-france-a-slight-respite-not-a-vote-of-confidence
+title:госдолг moody s сохраняет рейтинг франции легкая передышка не вотум доверия
+seen_urlhash:3167e264daeb95b9665235828d25a5316c0cf4f6a843b917e266e9704721a802
+seen_titlehash:7b79dc5837880fa93ce856dc2bfa398978c18908d69a06e918b2b0b0e8c3cdaf
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/hitler-mountain-retreat-fire-and-arr
+title:в резиденции гитлера орлиное гнездо в баварии произошел крупный пожар подозреваемый задержан
+seen_urlhash:2df7b523c98436bc8adf515881ee8f0c101b5cdf3729ea1708ab810404c25b98
+seen_titlehash:7136e313c86fef2bf4f460a6a889bcb4a9ac23613cbfff1393d0d788702e0d02
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/the-heiress-and-the-award-winners-call-for-hope-in-the-face-of-darker-times-at-the-princes
+title:леонор и лауреаты принцессы астурийской выступают за надежду в тёмные времена
+seen_urlhash:4b76729be7ebb00c511dedd9bffb7039ee243eb16356ba73ee2ffa2e30e8a8f1
+seen_titlehash:f6ce57f21b1dd03f88f610bc92002b6ef5723c5b20609fd58bd25c35e531d455
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern
+title:youtube ии и нейроотличные герои как зумеры меняют истории
+seen_urlhash:ab8029ca75852e4dd8d54863521d6f1f75fa5364d7d5fe3968215f636f8db0c3
+seen_titlehash:6012deaaeae3567e8a459fc62f972dba44557e95e3c76067620e9abdf941ef15
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/v-bavarskih-alpah-proizoshel-pozhar-v-byvshem-dome-gitlera-politsiya-zaderzhala-podozrevaemogo-v-podzhoge
+title:в баварских альпах произошел пожар в бывшем доме гитлера полиция задержала подозреваемого в поджоге
+seen_urlhash:d4f394e9494779692fdf705bcb0d0a38424f4a586ba330a544b587300d57fa4a
+seen_titlehash:54184c7317abe60de642897ce44046e4d786eb8862f22e8c2e3bca59d052b06c
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/v-krymu-ogranichili-podachu-vody-i-elektrichestva-posle-ataki-bespilotnikov
+title:в крыму ограничили подачу воды и электричества после атаки беспилотников
+seen_urlhash:a2c1689d189ef7af8c9bcf49388123d146b3a1c35285100320e5f86d5b29de2e
+seen_titlehash:5be3c0be28ebc41e5139a194ec67a1a87740d20897f99833c2bbd6ebc87cf0e3
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/24/zhit-s-sdvg-tyazhelo-i-knigi-po-samopomoschi-eto-horoshaya-podderzhka-dlya-vseh-kto-hochet-spravitsya-s-trudnostyami-no-knig-tak-mnogo
+title:жить с сдвг тяжело и книги по самопомощи это хорошая поддержка для всех кто хочет справиться с трудностями но книг так много мы выбрали лучшие за вас
+seen_urlhash:7263677d462f038af1c11319c5e325f7b874c1a4d9c43a40c9661becb451286a
+seen_titlehash:cc195975648b20c17a5b05bc997babbb399a9ba909467915195978763dbb25e2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/devushka-aktivista-iz-izhevska-kotorogo-arestovali-posle-popytki-provesti-miting-za-chestnye-vybory-rasskazala-chto-ego-pytali-pri-zaderzhanii
+title:девушка активиста из ижевска которого арестовали после попытки провести митинг за честные выборы рассказала что его пытали при задержании
+seen_urlhash:86f8fdcc7f28a356a739ec6a1e6e5a3f1e31e98b5492d8c07656c503b88f047c
+seen_titlehash:d3ad00a468632c8b08e7d707ab9b74893cedbfd256042f815e97811e316ddd59
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/voennyy-obozrevatel-the-breakfast-show-podtverdil-chto-byl-geroem-filma-bi-bi-si-o-rossiyanah-sotrudnichayuschih-s-ukrainoy-on-otritsaet-svyazi-s-ukrainskoy-razvedkoy-i-prichastnost-k-ubiystvu-generala
+title:военный обозреватель the breakfast show подтвердил что был героем фильма би би си о россиянах сотрудничающих с украиной он отрицает связи с украинской разведкой и причастность к убийству генерала
+seen_urlhash:01ba06f3511c882c756be39a71c718d0a91a13152743f1438b91b165edaac90d
+seen_titlehash:f3924e805ccd3f0aaa75ba9491ba45f0618b3e63c493f5c7b29fb8200548edbd
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/ukraina-nanesla-udar-po-tolyatti-atakovan-neftehimicheskiy-zavod
+title:украина нанесла удар по тольятти атакован нефтехимический завод
+seen_urlhash:9ddcd8debf12fd6207b5fc071379441a0cfeeb400a13af878ccecec1326fe8ce
+seen_titlehash:c212495e69d4924c304c82800e3955f70dc336d5de88b1874c90507ab0c6a93f
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/24/na-vyborah-v-brazilii-prezident-idet-protiv-syna-byvshego-prezidenta-pochti-chto-brazilskiy-serial
+title:на выборах в бразилии президент идет против сына бывшего президента почти бразильский сериал в первом туре победителя определить не смогли скоро будет второй
