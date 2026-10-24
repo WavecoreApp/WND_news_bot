@@ -166678,3 +166678,308 @@ seen_titlehash:c212495e69d4924c304c82800e3955f70dc336d5de88b1874c90507ab0c6a93f
 seen_reason:processed_not_published
 url:https://meduza.io/feature/2026/10/24/na-vyborah-v-brazilii-prezident-idet-protiv-syna-byvshego-prezidenta-pochti-chto-brazilskiy-serial
 title:на выборах в бразилии президент идет против сына бывшего президента почти бразильский сериал в первом туре победителя определить не смогли скоро будет второй
+seen_urlhash:272e06c52b1d875be8b94bdc8b35911a24a833021a55b1b6b6faa61e672a730a
+seen_titlehash:45b1fc2e527c169eeb7464d5c621c15a308076de17532ee6be6ea7cb21f90ce8
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss
+title:ukraine says starlink connection now stable after network limits
+seen_urlhash:86babd10c7667372301118119f8f5e1053559b7ce453b0cb0ff10ae03d4f36b7
+seen_titlehash:2d73a18e8bd690e33dd0ff7038dda8645dfaaeed393c1ae5d569246c868147b1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss
+title:british woman dies after trying to rescue sons swept away at sea in the bahamas
+seen_urlhash:0e47c17e5f6f6445aadca1609472d6ffe190c95f324267453d371be848e74a30
+seen_titlehash:7fc0fb21cee20315cc69d18e11c3a4d709655626824bb5dcbfd074d82f1b8c7d
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss
+title:three released without charge after fatal arson attack in ireland
+seen_urlhash:7ef6191f2bff8ab93ff38a172e59bb844f09768896bd5c21cc084a20f5e2e730
+seen_titlehash:2112a073ee566d1e85dc646f0425eb116180db064b606a38bade65c43e3f4aef
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html
+title:israel launches crackdown in west bank city after deadly attack
+seen_urlhash:1bef44831f9997fd4201ce26bf9d1512eb0b8978d531df845ddfb16033466bdf
+seen_titlehash:64f9391b571a9d22f8d3e8881a16e70f97a6def5d8b57d7dc5e8183af3ee6ff6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html
+title:eagle s nest nazi era guesthouse in german alps is gutted by fire
+seen_urlhash:52a60af44c05e2c82b29f791b5ab91f29f9be75d50ddbfde7036cc306bf5564e
+seen_titlehash:790e890f90ed29f995d76aacca4bcd6ba848dabecb69415673183217029df11c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html
+title:speed of starshield satellite network is improving ukraine says
+seen_urlhash:3182e97bb6c292abe0333fbed8a0a50fddfc5ef0cd9dfcc2400c14201d270f34
+seen_titlehash:1afeda813946287c669db5ba2c269bd409724e3ed58a4265d81c28398b88e56a
+seen_reason:processed_not_published
+url:https://nytimes.com/article/france-student-protests-why.html
+title:why are there protests in france
+seen_urlhash:eaef5fca22057e2f1269dbc568aa89a45ac9a772e9b8d1c521b81eaaa903fb1e
+seen_titlehash:c507166415b890899ff1cfe2840bfca60304d74bd2830e40f6e8473121f74192
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html
+title:alberta s referendum was clear unlike danielle smith s future
+seen_urlhash:32da02d517f859600b16312e513a495a4189268896c14c0b4f00340ac23a6ba4
+seen_titlehash:a04c9e449420235f887f119cd875e6bb116019c1bc4d70102e200a2a3911b024
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss
+title:who was behind the deadly church shooting in jordan
+seen_urlhash:afefd50bed7218b640805d7db305d9c69b1db3d8547f6c65cff7ccc2cd5589f3
+seen_titlehash:fd7741302656d8cc53123050c7fb1a0089b14f41d75b73dd7b4684e8930b057d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss
+title:netanyahu floats crypto to bypass sanctions
+seen_urlhash:1bb3961cd74331f841ac6e756c34c479967c692e9171d58aeaccf44b9c0342ee
+seen_titlehash:01f28c16191a0f4fde97efd42cc7312c6d7215bacd602707dd00a4f9c5f879cc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss
+title:armed israeli settlers try to break into palestinian grandfather s home
+seen_urlhash:d0a82a929cb1d2fdac04d01f7268bacf6dd6776c592029d7a01aa1006d85c442
+seen_titlehash:ce1cc5f50798bb0e669630ad43aa2e6a58e4985e7d91fa8b37a3773d0f6a6595
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss
+title:fifa s infantino touts global re election support amid resignation questions
+seen_urlhash:d1c2abb41e491fabe4cbb3bde5a18cc840959ae894449a0b6a6e8efc3cf09e0e
+seen_titlehash:f5fba56f1b5e9a76f8297fa9e71ca570cb125c06d84f2e75de66a1707cd47939
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss
+title:iran says won t allow us warships to get close as trump ponders new attacks
+seen_urlhash:5ff3ad00121236accf93d17ce87380924ae6a6bdabd902a316873df5c7b549bc
+seen_titlehash:4ed09fa74953be1d837add25e1b55b7f20bc275185d1f7c7cbe01dc273994d6d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss
+title:jordan s king abdullah orders firm response after deadly church attack
+seen_urlhash:38703a242a3d3079d21deb926f98b38efca2affc63616527c0aaa13b6a8b7a80
+seen_titlehash:c593281f088dcfbedce0dca9c9bf3afd0a3f57f6249bf556e2eeb73955b4405c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss
+title:france protests live 135 arrested as marches held under tight security
+seen_urlhash:21eb6483c2a3c8515490a265543d495c72511e713b52dbe7c57004f80594848d
+seen_titlehash:7debce58666045557b9162dba17fb073823cba5b8d564ba2cdda501a474fa297
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss
+title:is iran planning attacks on americans why is the us on alert
+seen_urlhash:37f579ed4938f266dd9c0e38b70fed5073bbd6ede419ea67626f28d44aeaa75e
+seen_titlehash:ecc4254ae5c3c91c6c54aa469248eddf95bcca08106b0ced0cfd6d42f46c74bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss
+title:malaysia considers complete ban on israel based navigation app waze
+seen_urlhash:0846ec73efb14db7a094728054c8b3a22e095921696b64f43de5da0d86e8d17b
+seen_titlehash:8405f4eee1849d17436d69cb42ab18708522bbc0fd4a1e467e8088d1b88589d0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss
+title:serbia elections test student movement demanding justice for 16 victims
+seen_urlhash:52f5a609f22234b1e549a197738b90b126a76bc9c07357a64b9368e97c5209ba
+seen_titlehash:f55ee68ebc931fd6b1cecbc8cb2b162bf2feb1e275a4e4855737485fc341cb3b
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss
+title:barcelona housing activists evicted by police from residential building
+seen_urlhash:ba88af91ac248e59193445f6ec331dfbf67e7f59741de4a81634c1073aeffaf2
+seen_titlehash:1ed0ab3619f2d46bb58907c111f13785f8cd5f093b6705b701edf5c73b3050e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss
+title:barcelona vs real madrid top 5 el clasico matches between la liga giants
+seen_urlhash:d237a9961c5074bcaa373df55bfe6629dc7a5c1684f4b708a8b1ef8fbfd63401
+seen_titlehash:56d3a0befae87bbb5bac6197609cfa5fd2521a3323ad2d7130c70ec40c6b1e38
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss
+title:czech republic advances media funding overhaul despite criticism
+seen_urlhash:6b8d9e7403e136818f10274fc55a61fdf7836d40fb12c06a20b9ff19cb76e108
+seen_titlehash:25427427f06a3a7237121661836d9c095df6e35f615f0772629ee703c722cb58
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss
+title:democracy by zip code two americas one election
+seen_urlhash:eed8dac2b302311306021036a377753731bb3d9213ba08980f94308589d9c0ad
+seen_titlehash:2991cd887e94dcd68c50a630da0a071a18f6277ddf0fd212611b18bd566a08ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss
+title:german police detain suspect after fire engulfs hitler s eagle s nest
+seen_urlhash:e1709c095c272423014f3a4339bd24c240520249698d45bda069e43c07252594
+seen_titlehash:dbfe9e41bc161db81ed7013919d8e7ba9bf6dc66c875d11392fea8f9b8f7795c
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss
+title:bayern say coach kompany stable in hospital but will be out for weeks
+seen_urlhash:3d7186f875560d4a08cd7d1a43f93274f3757b3b55821d5e1d261a98cc976435
+seen_titlehash:3521e486ac959a1d3575bafc7239378c4ef815a03c5462cdf1ee8a9974bfa0a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss
+title:deadly racist attack in france are hate crimes rising in europe
+seen_urlhash:592f9ff3cdd75eecbff5fb022f21ec9b6804617896146f67547260404bb4ceed
+seen_titlehash:a46efa3d9f59b98b3b7d90f805f9899e2ad9203acb9da4144e23a5825dbf587f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss
+title:france security on high alert as another day of mass protests kicks off
+seen_urlhash:ffea69109d87df7dd66d19d3cacee26a6aa1fcffed1450a7e8154fdcd7ad33d1
+seen_titlehash:453cb9d11ab15248c9599056d6a1127b36a092cf7261d9d0777cd1d20e040b96
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss
+title:brazil s lula and bolsonaro debate policy proposals before run off
+seen_urlhash:a6a66a15bcada94349ef33ea873cfa3dab48a619855f891f3b3cfce55063473a
+seen_titlehash:860cb946ec85ba243153df3a26457bc0ebfc1626fc2d0c7c30e06c2c45540a9d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938
+title:suspect arrested after fire at hitler s eagle s nest retreat
+seen_urlhash:410f0eeac6f422b1c0d74f2c727dd1c0d530664cafbd8b7891bfe12e65b24836
+seen_titlehash:b47772eaf32ccc5aa386b70e838578ac0d7e9914908449802cafe27367ebe833
+seen_reason:processed_not_published
+url:https://news.sky.com/story/bahamas-police-investigate-after-british-woman-dies-trying-to-rescue-sons-13602998
+title:bahamas police investigate after british woman dies trying to rescue sons
+seen_urlhash:a2fc807a2329286b91017d5ad3cd656ac7126b35d02d6f4b34a44f51ee2f651c
+seen_titlehash:0ba39c4de8e4cc0f928c1cbd4b8789128f9279a6fa390ddc6babc5c8229a9744
+seen_reason:processed_not_published
+url:https://france24.com/en/fresh-protests-across-france
+title:fresh protests across france
+seen_urlhash:4f47cdd963b42851971d38f479e44802c2579e4943de490c7d7be208be604bd9
+seen_titlehash:117097dd36fa8e1001129349d31c6b2c7ae5d0b330f8ee5eb5e08021982b92ce
+seen_reason:processed_not_published
+url:https://france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb
+title:macron condemns racist terrorist attack in paris suburb
+seen_urlhash:53b0a3e27551b6b44bec6f80073354f617802c3598d0af60e71f09ed03cad6d9
+seen_titlehash:b2b044befe4c7679f4a1641eec3ed3aebbe2bfeb58c99b637d7b6d11710ee0e3
+seen_reason:processed_not_published
+url:https://france24.com/en/france-anti-far-right-protest-in-orleans
+title:france anti far right protest in orleans
+seen_urlhash:7ebc6734bbe960b17a1231f465bdbe4573bd0d96d0ef201e34560dea6f6765a7
+seen_titlehash:96950eda688cf28ac4d029ea5cc5e6cc5c8cf15f5d694d518d925eff9b2bf7ad
+seen_reason:processed_not_published
+url:https://france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route
+title:paris protest starts at porte d italie after last minute change to the route
+seen_urlhash:3a16040f09eba1c81b997df91cc0ee75999ba6921d9098fe4ba56d22206bd7ae
+seen_titlehash:26fdb0bbe39fd60f374a61524a22c1b31c9dffdb779eeb10a9ed03fe43822bad
+seen_reason:processed_not_published
+url:https://france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust
+title:andrew smith warns that policing political blame are no substitute for social reform public trust
+seen_urlhash:ef4e941933743b01bcdc3009778e580c781ad69eb3316af491f948ddcc09f404
+seen_titlehash:f5f64885c8c492944278313a9e0ceb5bcbf1933d902ddff01bc5ba91c82b9f3a
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress
+title:france thousands march in orléans against national rally congress
+seen_urlhash:ad63e32ca4c4990f5f2d3130e6f5833cd0875a4b1484283a08361c0e25a37a25
+seen_titlehash:2bbd747c6bd5cc654e6dcfae9f55ab9a89cdd72f571f1234cdd9a58c5cae0d1d
+seen_reason:processed_not_published
+url:https://france24.com/en/us-seeks-to-topple-cuba-s-government
+title:us seeks to topple cuba s government
+seen_urlhash:397dc835955b7bda1566448e49d4ce3b2f09c51602ef4109d9413074ff3ea4be
+seen_titlehash:523edd02ed8213906205088ee3de5b6cd8377382ff033ffcfd20c7fe30197771
+seen_reason:processed_not_published
+url:https://france24.com/en/donald-trump-challenges-alaska-senate-trace
+title:donald trump challenges alaska senate trace
+seen_urlhash:96970fcdc7ed31eefd4e6ec5025df79b241496576fa6a197cbed3a0bdc4ed5e8
+seen_titlehash:70d0afa04028ff0b349932bde1664125c24d0da709f5933b51fca4dc50b05b9e
+seen_reason:processed_not_published
+url:https://france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron
+title:france young demonstrators demand concrete action from macron
+seen_urlhash:5b4313e48cb5dd79aa70c2cdb70d0d77e87bc3200517039efe3e8da96eec44cd
+seen_titlehash:99f2d1e7cbd0c0258cd8de22744753745024a81ca3e1bbed3c0f3096fc353499
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race
+title:trump administration sues to block possible democratic win in alaska senate race
+seen_urlhash:bf0283444126d689f66440ae04fe6b96cdf621e41bd05b14b655e0c4dfee2670
+seen_titlehash:1629403666eeb5c7613cb611ab6e2ac43621ecc9291d699d732e6fc4f1ca72b7
+seen_reason:processed_not_published
+url:https://france24.com/en/france-braces-for-new-protests
+title:france braces for new protests
+seen_urlhash:ad4bf675608b1a815f0ab53df44c2ffb139a914aa5396ce5fb803a9022f1a9fc
+seen_titlehash:1519f8a941f23d144b9745d5a1f49056c158784e39b0ad7a4be24923379e5a4d
+seen_reason:processed_not_published
+url:https://france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says
+title:nfl would cancel paris game if unsafe due to protests steelers qb aaron rodgers says
+seen_urlhash:69ed0067685ba301bba284da789f0286050b1f7d03069c0ddf69dc3cb32bd6be
+seen_titlehash:3507eb3a97a2f7efccaab7ac5a78fb2cb9c26ad56a7b50c2b715f88f505b9e59
+seen_reason:processed_not_published
+url:https://france24.com/en/netanyahu-orders-west-bank-operation
+title:netanyahu orders west bank operation
+seen_urlhash:b83f069f34e9775f5dfa0f73aeb489fb25bb12da2f018b0ac78692f6e79c58e6
+seen_titlehash:fde60b15279634af45237b3f6a3acd7b67479611163225b5dcb84a33f80c4cc2
+seen_reason:processed_not_published
+url:https://france24.com/en/typhoon-champi-batters-taiwan
+title:typhoon champi batters taiwan
+seen_urlhash:7b5c65ffb52ad0db72613306bbf03057ba5538811db2a9ef2c4dea224e03c041
+seen_titlehash:1cb0b0805e3cca564f63fa2dc937c864dabef0f771a2d4f9e0bfad3f57870903
+seen_reason:processed_not_published
+url:https://france24.com/en/french-students-vow-to-keep-protesting
+title:french students vow to keep protesting
+seen_urlhash:5ecf5e1dd5969ac75385f6246959cfe9eb965f50430c53f72d85fda5ad721966
+seen_titlehash:3409ece810c44a3e3cd27e8669c657d5d099f32f892f585a5d11c7cc51afffe7
+seen_reason:processed_not_published
+url:https://france24.com/en/france-march-against-national-rally-in-orleans
+title:france march against national rally in orleans
+seen_urlhash:fd2e7d2b61a0d4a058a99eeeeebead573ebc0078058f985aee462056082e3b8e
+seen_titlehash:ea6c0882401f715dd320e0b9da304abd7b916a42b8ba6ae02cb085868201d88c
+seen_reason:processed_not_published
+url:https://france24.com/en/paris-last-minute-change-to-the-protest-route
+title:paris last minute change to the protest route
+seen_urlhash:8c9261b1e64c41dfe59a4bd9af0dc27a928185b50a62b5840d6cea35bfc9a83f
+seen_titlehash:29c1c26fe30615bbd15261517ad784d560050523bde714e9ef28915b288a2f34
+seen_reason:processed_not_published
+url:https://dw.com/ru/фридрих-мерц-призвал-блок-хдс-хсс-к-единству-заявив-о-необходимости-противостоять-политическому-экстремизму-в-германии/a-79750618?maca=rus-rss-ru-all-1126-rdf
+title:фридрих мерц призвал блок хдс хсс к единству заявив о необходимости противостоять политическому экстремизму в германии
+seen_urlhash:2d0704eefc011fac7107ec978a8292bf09da367ef728d002061121dfba76f8de
+seen_titlehash:8c61af52487092a8ca48d9465fbc29ddc6bd00852e20c6507533fdecc49174bf
+seen_reason:processed_not_published
+url:https://dw.com/ru/польша-хочет-участвовать-в-программе-nuclear-sharing-сша-и-развивать-сотрудничество-с-францией-в-сфере-ядерного-сдерживания/a-79750174?maca=rus-rss-ru-all-1126-rdf
+title:польша хочет участвовать в программе nuclear sharing сша и развивать сотрудничество с францией в сфере ядерного сдерживания
+seen_urlhash:a975929029457326646e513a90ddb7644bf14bd4d2ccaab4ac5d45fcd7941a3e
+seen_titlehash:47184cd50118726575c8cac2b894333c50c0e14215d5a81e704c4ef33e5b8139
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-крыму-после-атаки-всу-пропали-свет-и-интернет-для-населения-вводят-ограничения-на-подачу-света-и-воды/a-79750165?maca=rus-rss-ru-all-1126-rdf
+title:в крыму после атаки всу пропали свет и интернет для населения вводят ограничения на подачу света и воды
+seen_urlhash:62c3afc095aa59a1481d38455d3d6f1b44787c095c2911eb09287e9060ca9c1b
+seen_titlehash:173d7283269b81af93b0127f9cc90d8a94df1cbbdd78b362acce7f915a7029b7
+seen_reason:processed_not_published
+url:https://dw.com/ru/власти-франции-вводят-жесткие-ограничения-на-акциях-протеста-после-недавних-беспорядков-на-улицах-будут-дежурить-около-70-тысяч-полицейских/a-79749777?maca=rus-rss-ru-all-1126-rdf
+title:власти франции вводят жесткие ограничения на акциях протеста после недавних беспорядков на улицах будут дежурить около 70 тысяч полицейских
+seen_urlhash:73eeb68d41ce83f121b09a26b305cae8a0c666bf68864a577b3bd5b42fa6df7e
+seen_titlehash:82383388c85bf3a026c4ba865309ce9a4908d89971046cdae780ddb4f3fe0712
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests
+title:солдаты патрулируют улицы милана магазины заколачивают витрины
+seen_urlhash:2d6f1a997a2dfb08a3fadcf9439b596ffaba5dfccd04d1266d353f1126122ef0
+seen_titlehash:8d81d57ff7d1006401a6594ef58a201f72bd0612f469f5628e43c9c5151351a4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/24/footage-shows-smoke-plumes-after-a-deadly-strike-on-a-russian-factory
+title:кадры показывают клубы дыма после смертельного удара по заводу в россии
+seen_urlhash:8185a39747b90d1da72209dbef1d5fb4ea951886d9958d111624be5be0672141
+seen_titlehash:5c4ecad54f1f999984e795a10ce109ab8f2eea1048d913da94a09e85174882c7
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says
+title:украина восстановила стабильное соединение со starlink и нанесла удары по важным объектам россии
+seen_urlhash:e7f9892eb318214b890fbe7c5f58a25b9c3fe605436b930ae9b755d26b808109
+seen_titlehash:3b0fe67b95e4a63b73897a8590ff0d6aaa516cddc03693e112d80e09c7d9cb41
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/24/novosti-dnya-24-oktyabrya-2026-g-dnevnoj-vypusk
+title:новости дня 24 октября 2026 г дневной выпуск
+seen_urlhash:5a5a04b7b1afc2c8ab2a1cbf0f2ff880a77674dc3a2cb1538a9476a92b109aa4
+seen_titlehash:76ac426197aa1ca95b700d4448cf992605d77f3879e1da6c548af8f92d19d02b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/minenergo-rf-soobschilo-chto-anneksirovannye-rossiey-regiony-ostalis-bez-elektrichestva-iz-za-vneshnego-vozdeystviya
+title:минэнерго рф сообщило что аннексированные россией регионы остались без электричества из за внешнего воздействия
+seen_urlhash:7e2e8d42b1a011eeb6a4c6ed5239531b70b018c32c4321eaa59df1d549629af6
+seen_titlehash:8b56beaaf736931e50f299dc890f77ebc833f00991621b0ce701335b9447534b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/24/nyt-i-financial-times-amerikanskiy-proekt-po-proizvodstvu-gaza-na-alyaske-tayno-kontroliruetsya-novatekom
+title:nyt и financial times американский проект по производству газа на аляске тайно контролируется новатэком
+seen_urlhash:e07c6867545f990516c386f6682c204d190de10bc671bacc168d7f36c2d2443d
+seen_titlehash:a7024a10e55d6cbbb67908cb0cbd5a64b5afeb5face4d61b7a55c3e9d26daec2
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/24/posmotrite-na-etu-kartinku-kakuyu-muzyku-vy-slyshite-kogda-vidite-ee-esli-ona-zvuchit-kak-turuturuturuturutututu-tututu-tututu-etot-tekst-dlya-vas
+title:посмотрите на эту картинку какую музыку вы слышите когда видите ее если она звучит как турутурутурутурутутуту тутуту тутуту этот текст для вас рассказываем об истории легендарного трека из деревни дураков к 30 летию шоу каламбур
+seen_urlhash:bd9bdba60d68c3539e5d0e018a2b2cbb99c7c7891f01c4e8c40c9ae525ec9ee4
+seen_titlehash:3d5d93ab05c19888b3eef094398469eab1f9757a996910528a72a6e6e4fb0afb
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/24/voyna
+title:война 1704 й день в украине сообщили что работа starlink восстановлена всу атаковали заводы в тольятти и орле
+seen_urlhash:c4e0e26f4b5a0261d43e083295a2d428850076515f3498c666e9a8dcc8c0ed38
+seen_titlehash:86fd1820419f3cdd42051f046f63085904b098d2824d2081a61dde6ed1ccdb61
+seen_reason:processed_not_published
+url:https://ft.com/content/d8758ccc-e6d7-40fb-bba9-50b01cc62623?syn-25a6b1a6=1
+title:mayfair club maison estelle set to reopen after alleged firearm incident
+seen_urlhash:bc586a951cf3423a65d1fe45379bf55715cc35d09d78ff4629672a3381b0bde3
+seen_titlehash:a596dfb600cbcad115c02b3bda6803716b84a568f54e865e1f09b17c42326539
+seen_reason:processed_not_published
+url:https://ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8
+title:ukraine military says starlink service restrictions have been lifted
+seen_urlhash:3bcc2db400eed58dad7605ea4a862197274d01f5229d9152435be78331079fc1
+seen_titlehash:7e0e94002056067e923488593452bff391062d3341342354a0629f89fd4ab18d
+seen_reason:processed_not_published
+url:https://ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1?syn-25a6b1a6=1
+title:davos in the desert s old fox richard attias faces his latest test
