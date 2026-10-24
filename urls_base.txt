@@ -167153,3 +167153,123 @@ seen_titlehash:7757266fc24f45dd4b79de91a0a558580c1eec5348f1f7121f8aa49abbb93070
 seen_reason:processed_not_published
 url:https://ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1
 title:intelligence memo warns iran is plotting to kill americans in middle east
+seen_urlhash:bcc8fc2d4f3dec058270225dbe09e6cb5663e848198c224c7dda9da2309b31b1
+seen_titlehash:ff0cc2285dc98253573f0241ac6b63bdbc0b1181741b807c1db19254ab7937ae
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss
+title:palestinian families displaced as israeli forces demolish hebron homes
+seen_urlhash:8a354f272941590fd09ab90c7d2aca99b52f60bd3bebe8830fd812b4e93ac2c9
+seen_titlehash:12f896136e46e876b9bfd13ed2ef62f6057c1c7f4b49890bcad8665e103c0a3f
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro
+title:tens of thousands of lula supporters rally on eve of brazilian election runoff
+seen_urlhash:5ac0619cf6c066bb29c1334f863bf27b5babb74a1264bb27ae623fb1a7b56a97
+seen_titlehash:b95eefde01eaf9b61813a38636c7fdb47460a2f48ae4c57ba3f32129d16c9b92
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss
+title:thousands of israelis rally against netanyahu gov t days before election
+seen_urlhash:12300faa7f467999ee4322c0a6b5f9edb8b5a7078a3cd0aa0588ab7ed7807e2f
+seen_titlehash:ec056d3dfdc4eefb34fcf5e4092a57324008923fc1849b6892da7877ac2347db
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss
+title:thousands join paris protests as authorities clamp down on disorder
+seen_urlhash:8d1ae44601c58a743240526917542e03ded5b9e9c009f993b4c2946c6e0b3841
+seen_titlehash:a7ecdc4e81f4ca05ca8711f742c32f893d3184ab9dc959ee787bd9ac0e6ed413
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss
+title:thousands gather at new albanian antigovernment rally
+seen_urlhash:75c65381f8b1273832585477633b97d82b4c44ccc9d38bb232c2df777a68cb65
+seen_titlehash:14d5fec68124ddd2676b40f59ac6959c764dae604a63fe920cde5fd2418d92c0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss
+title:kim jong un crosses new bridge linking north korea and china
+seen_urlhash:5a4d4ac54f8f53c88bc60458182d524a0ccf21204930ca0159d88f46edafa212
+seen_titlehash:0abd638e3a44052f6853b62f9ac9ea4745a8b6cd50b163475c433338c45a5181
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss
+title:trump says he may move white house press corps to new location
+seen_urlhash:2bfade9e904c07518c4cb148dfeb49f59e28e75dc1ce7d2bcf0ed7716c90fe5e
+seen_titlehash:135e923527533ecdb517ec2c49995730565c35922e44c91faabb4fb1a6eb705a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss
+title:about 25 000 rally in madrid in support of spain s state pension scheme
+seen_urlhash:86b08d79cc8cb75d2976f1065f1e6e2ace2a652c7df92f6de06a11c14f217aed
+seen_titlehash:f54f8e3ed8976f6f1ced729c6ce6d8528e0dfefdcf99ec1d0985e4fd615b78db
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests
+title:france watching the post riot protests
+seen_urlhash:72bf89efb41868a6261c6565e1904f3e5fa4dd6b10e99ac89b85ba083333f9c1
+seen_titlehash:433da60f5164a67f7be8a1b3202f82ec7a9ee9f1b3affa42a7b53a7ac8340b57
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief
+title:witkoff should step down says ukraine committee chief
+seen_urlhash:c3cc9600c25517212c4b940efc1abbdd8a7dd9436538b6621c2618bf07fe8693
+seen_titlehash:89a01bb1fbc060d441a5ac927d97ccdd8d133bb3b3f38f1822a8a68428824ab2
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu
+title:thousands take to tel aviv s streets for protests against netanyahu
+seen_urlhash:e982aca8c8217ae581de573c89203071418b4321cc1f905aec596d8e8ca2c5bf
+seen_titlehash:9e1a11d94daa6aaf6786ec9c7f195bd0cd331c0b695a4dc1dc8f4ff6d2f48ba0
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia
+title:yemen s houthi rebels claim new attacks on oil facilities and airports across saudi arabia
+seen_urlhash:ffcd12f76e1f89fca6f0c3cae5f74fc60e6cc0b7ad596211e0be2a61e1a24b34
+seen_titlehash:01c8805295d25ff9219f6bfa1174a755790dd593a9ab6feb6c8066259a8399d7
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities
+title:france clashes erupt as protests sweep across cities
+seen_urlhash:bf399f9ddfb47046668fb944e79ae99d6f7041e96ad1157cb7a645f60d137f24
+seen_titlehash:6e67ed0d4aac5010b67f3fe8397e782c546a1f46fee002292eda96fcee2ece9b
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-begins-demolitions-in-west-bank
+title:israel begins demolitions in west bank
+seen_urlhash:3d525bf76aacd24a86786928da19db95ddb2a3cacd1034ef8aeaefac40083633
+seen_titlehash:2f03adb19dea9a02ac2fcfab0fa801382836ebe2dd38465f29c8d0feafc73a7a
+seen_reason:processed_not_published
+url:https://france24.com/en/italy-hit-by-new-cost-of-living-protests
+title:italy hit by new cost of living protests
+seen_urlhash:fdfc09d585d853298479d9f693e1532441c83ba558c3c1dd6fcb1cfe0506e7f1
+seen_titlehash:de9e8faf4c7f6c50dd09ea9fad40e49ccafa41037b1903434a4e44f964a09e6f
+seen_reason:processed_not_published
+url:https://france24.com/en/paris-70-000-police-officers-deployed-nationwide
+title:paris 70 000 police officers deployed nationwide
+seen_urlhash:fdf41d9e82d86ffc9352ee102d4368359748502ee6f7e7a604c558de834c9f8d
+seen_titlehash:3eca443f88b5c97a97659facc480bf6b1584812b31db6667bf08c562e8568033
+seen_reason:processed_not_published
+url:https://france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators
+title:france protests continue while police fire tear gas at demonstrators
+seen_urlhash:f9482281dd9fd3c766ab447259821bf7828fec97841ccfc093c724daadb23bf7
+seen_titlehash:6ead043beeced916aabde42807a8c7316cb46b1b3c5ab41734e5206bc83bf493
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-новых-протестах-во-франции-задержаны-около-тысячи-человек-профсоюзы-говорят-о-800-тысячах-демонстрантов-по-всей-стране/a-79752368?maca=rus-rss-ru-all-1126-rdf
+title:на новых протестах во франции задержаны около тысячи человек профсоюзы говорят о 800 тысячах демонстрантов по всей стране
+seen_urlhash:1d224739310a32b3660378618fab366d7426ca74d9578a32b002adf8bab18871
+seen_titlehash:cf121717da639805f88ddb519b89959875692454b3cf3875bd21408be93f29cc
+seen_reason:processed_not_published
+url:https://dw.com/ru/разведка-сша-иран-готовит-покушения-на-американских-дипломатов-на-ближнем-востоке/a-79751917?maca=rus-rss-ru-all-1126-rdf
+title:разведка сша иран готовит покушения на американских дипломатов на ближнем востоке
+seen_urlhash:cc90d566dd3f07a30935afedcecd1c16ae90153c759b45e435fc53c4b6adac17
+seen_titlehash:4a8c5d9658f48cee8506bc77ec82fcb875df1d0531804465344c1f6491c575cf
+seen_reason:processed_not_published
+url:https://dw.com/ru/nyt-и-ft-руководство-газовой-компании-в-сша-ушло-в-оставку-из-за-тайного-финансирования-новатэком/a-79751514?maca=rus-rss-ru-all-1126-rdf
+title:nyt и ft руководство газовой компании в сша ушло в оставку из за тайного финансирования новатэком
+seen_urlhash:657cd09dade3548973c818a1829ea76db189ac7edd416f4a88894b39829c761d
+seen_titlehash:ed4cffc62a8e2cc8608e6003d2952f427a23a1b89187fc2bd6eff7171abcbf71
+seen_reason:processed_not_published
+url:https://dw.com/ru/украинские-бпла-вновь-ударили-по-омску-сообщается-о-пожарах-на-заводе-омский-каучук-и-складе-маркетплейса-ozon/a-79751722?maca=rus-rss-ru-all-1126-rdf
+title:украинские бпла вновь ударили по омску сообщается о пожарах на заводе омский каучук и складе маркетплейса ozon
+seen_urlhash:c6028bd47552a6469c4560581ac6bfe2453c9f3c318a9aaab12463f0fd39bea5
+seen_titlehash:db4849e3fc42fa69e56b1f29146b0164f2905a4038a78dfa1e3c2a3577705623
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/24/vlast-eto-narkotik
+title:власть это наркотик ft рассказала про неофициальные переговоры между москвой и вашингтоном о мире в 2022 году их инициировали американские юристы и инвесторы связанные с россией
+seen_urlhash:eeb8bf1a21a982dfbca32631a0890af5644335ed1061d4954ed816d1d912592e
+seen_titlehash:85f35e7cfaab4ac72e2dba91ce5147c91df48ab8340f0f1f7a2ab0319258cabe
+seen_reason:processed_not_published
+url:https://ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1
+title:israel central bank rejects netanyahu s plan to use crypto to evade sanctions
+seen_urlhash:c1230d873f9a71a77e65a16b78b2c02c5f1efb8ba8db84a5404a248ae52cc5fd
+seen_titlehash:c25abe119831b1f233c697fcd9791beb1d83c9eb700bc879720d484f5828dcec
+seen_reason:processed_not_published
+url:https://ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1
+title:kim reaffirms ties with china amid worries over russian friendship
