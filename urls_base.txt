@@ -166048,3 +166048,58 @@ seen_titlehash:0ea52718d0358a75bdbba902da78f9b6ae99585d0bd331e430603b6869fabfbc
 seen_reason:processed_not_published
 url:https://ft.com/content/5260aac3-e339-47f7-8473-d8ccee5d3bfc?syn-25a6b1a6=1
 title:global insight the cockroach protesters modi cannot stamp out
+seen_urlhash:9c4817917a62bb0310725676e43bffe3dcbabf5de23e67ebfe7b46005ea95461
+seen_titlehash:fed54d49b466b7a47419a19716ab091b145070094e377d770aee85ffd0824ede
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia
+title:thunderstorms heavy rain and flash flooding predicted for much of australia
+seen_urlhash:ba525715832080aa52272f8e7b0d9a44ae45c313e1500ba63bb2e6854b0ef783
+seen_titlehash:1be6050bc3af2de117e2b69d8cbb97f7aa74accc7b0a264581a68d429540a936
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss
+title:macklemore i say free palestine as he kicks off a new tour
+seen_urlhash:828962f9c0a810db0322729516d5a9e63f1654f603a58db06b68c04df02b2cf6
+seen_titlehash:654688d4f3840c5d90ec7b7f547f3885f0c78d285f664756efbd3fec05cd9536
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss
+title:typhoon champi hits taiwan killing one and injuring 350
+seen_urlhash:4d6458994a13356a2d1b4c6c50d0164a5bbc258bd6e87d54f67c47ee0bf5b4ac
+seen_titlehash:f503654d807a59b688a5f0c77a4dd55f8531cf5aad2e222208e9c954c2b43ee0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss
+title:kenya announces second ebola death says no evidence of community spread
+seen_urlhash:96a7822f69dc06ff9e96cf7f1bfe52f2fa8f3b3049002954e829bba7df9ef022
+seen_titlehash:93589097b195994c9ae892a6a3c27ec7a7178e767960f740addb0ae0ef78852e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss
+title:why is israel increasing its presence in the balkans
+seen_urlhash:770c73ed06a188996dccbc40e22539cfa9e9ec0890ff02ad7063875490f1055c
+seen_titlehash:9219e87aaa23e9e6205b086206d2bb6f48dd1f80b4f87534e5eb851067cee651
+seen_reason:processed_not_published
+url:https://dw.com/ru/атака-дронов-всу-на-москву-привела-к-закрытию-четырех-аэропортов-и-эвакуации-в-москва-сити/a-79747761?maca=rus-rss-ru-all-1126-rdf
+title:атака дронов всу на москву привела к закрытию четырех аэропортов и эвакуации в москва сити
+seen_urlhash:6ad2f37ee977810f50e8ac6ca20f65e1fbf8735d207b8dce8b513bba24684a36
+seen_titlehash:9fc5f48ec4adceac6b16f7f3a5666d14637c227b1d02d2cdda5fa2ca0f3f62c9
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-орле-под-ракетный-удар-попал-завод-протон-выпускающий-оптоэлектронику-для-военной-промышленности/a-79747672?maca=rus-rss-ru-all-1126-rdf
+title:в орле под ракетный удар попал завод протон выпускающий оптоэлектронику для военной промышленности
+seen_urlhash:efe208a9a9651ab294d852277f62f46d25a20e2d99decdd7545602ff656292f2
+seen_titlehash:895d5fc30fd9e2d941b73e3bca654d5ca0bd055845199cad1cdcd8e99e523d30
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims
+title:венгрия через 70 лет после подавления восстания лидеры чтят жертв
+seen_urlhash:4be6733fed49318f1e3c1d9f6a3463fcfcca391d21a065bc339c280620dc4927
+seen_titlehash:3f60fa7893a5889b16c2794f3381694e6f208893d8a3c2e80ebff210d9d31d11
+seen_reason:processed_not_published
+url:https://ft.com/content/4111c10c-c13c-4620-8ce7-df3b4f9324f1?syn-25a6b1a6=1
+title:john healey to give 20bn boost to uk s business lender and infrastructure bank
+seen_urlhash:c447c0075461b8edbd945e8047464b4cc262f4db0e8d38e2f0c1dc3362025383
+seen_titlehash:e4968685376e0ba5c74d76dfe0dc7f28d80392393ed3ca84a2fe26ad785e33f9
+seen_reason:processed_not_published
+url:https://ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1
+title:uk sets up ai lab to monitor biosecurity threats
+seen_urlhash:cbb908fb181bc37b2b229ea7685e6a1c8b9228cf5858fad1464846e9be500483
+seen_titlehash:c2ef572f0708833626db66bb191f45270fefab6e3875d6635c5433a117e3e774
+seen_reason:processed_not_published
+url:https://ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1
+title:france avoids downgrade from moody s in boost for macron s government
