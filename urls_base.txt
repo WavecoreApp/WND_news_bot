@@ -166103,3 +166103,268 @@ seen_titlehash:c2ef572f0708833626db66bb191f45270fefab6e3875d6635c5433a117e3e774
 seen_reason:processed_not_published
 url:https://ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1
 title:france avoids downgrade from moody s in boost for macron s government
+seen_urlhash:ae70c880b48881b74a5874e91983227d76f26edeb92533047d80ea3cbe4c12e5
+seen_titlehash:5f22eba3f00630379551b9fa16bf27348df8de6d1eddfddbb30f3a90cd14519a
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss
+title:france prepares for day of protest a week after nationwide riots
+seen_urlhash:50f9545c84f637af013c90a5a7a7f6a86a15d196b9902c208bf492385f696990
+seen_titlehash:defee6e7d3cd633fdf29206a6b8ee72a024a84d72496b8e24d40b78f1c959716
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss
+title:woman 65 becomes second patient to die of ebola in kenya
+seen_urlhash:a3e67dfbbd1b9f1101e1a93104a01e2055164f14159f4081c869a09331755bbd
+seen_titlehash:7ed32b0757e8c4de7f118e3a1d41e11c986bb086a6edbcda001bca68c2adb376
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss
+title:arrest made after fire at hitler s eagle s nest retreat
+seen_urlhash:eed933ebe03e649c2309321250a2b4fd7c39aa43190edf4fb69bb1d48203ca91
+seen_titlehash:631cf6df8d7c834119d12c984d03af72a5dc48c63032c3c63c362e9468c386bf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss
+title:student movement takes serbia s vučić to the wire in neck and neck election
+seen_urlhash:b01909049d84eef963803b1f24359956a8df29e6a99ee1705ed9b4e695cb6311
+seen_titlehash:8dfae0b40402f3e1439d2becb98977389d3296f014d9dd16c9c37ba434735c8b
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss
+title:trump administration sues to block certification of upcoming alaska election
+seen_urlhash:483dd15f805004a8b6f0fa9503ea44f902e2fec950f4baa66a46f2ef75787fdc
+seen_titlehash:3986111089d087bd270cb3173c9fd0e5c5de06cd05b815499d9f1d44ffdd09c2
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss
+title:australian mp s condition improves after alleged car attack
+seen_urlhash:f35feb6e880c999999cfa9b2532f5fd57a57a57ff54d9a27c1df4953ea745b56
+seen_titlehash:2df3a7f0e1f204bf8705b4cef970230fa272cca427f41a30f8b21cec77758162
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss
+title:the rise of ai election ads in us midterms campaign
+seen_urlhash:b2f099d36049d4b75cd8869f82eaf1faeb632bfde2a567fc243ee37fe1aa8901
+seen_titlehash:f51aeb13d41505f6b95834c2b993bc270c4d561764b575498a6ce141b9e5f1b0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html
+title:netanyahu has reinvented himself will voters think it s enough
+seen_urlhash:e24eb4bb8193a876496aed7bfc531470acb8e54e401fbb15b26ce632e3526dcd
+seen_titlehash:3cc4f5445b1e62c01d9351af4cde0d5c1d8f24ffae367af2ebc93e938fdbe6f8
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html
+title:how defiant youth are testing india s idea of democracy
+seen_urlhash:ca71fb96468027d8fdfac503aec94992300d834f2aa239831fef18717b652cda
+seen_titlehash:243b6b10fe4d0602bde0b7bcf0009b304fe28be295ec32bf84a39920bc5fccbc
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html
+title:iran in advanced stages of planning attacks against americans officials say
+seen_urlhash:784a45441497d45bfbc652ecfbd5fe2e60dead2d6c9797915856d02d0ecea649
+seen_titlehash:c18e7df26abecd3ee3aaf0541adb37edd3cef0b9176c9919e3ae97b922ba8a9d
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump
+title:rubio tells cubans now is the time to act to see political change
+seen_urlhash:4b96f3596cc1ff95482922182baccd505cf039db6dceae75c12a1dacb43c4368
+seen_titlehash:16a7a2f0e68455c3f160aae35d27b8e853de68cae9ae4644691bb4fffc1c159c
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china
+title:typhoon champi kills one and injures more than 500 in taiwan as it heads to china
+seen_urlhash:5050043859d79fa220c17dea0b371382d1808fc3e71cdb371e442adc4d89ecc4
+seen_titlehash:5f2e42fd149726d7c494add15e738ff7b720f873dec26fd17fcd3535023c56d8
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb
+title:embattled greens senator jordon steele john confirms leave from parliament after allegations against him made public
+seen_urlhash:1433ca99c7299ce97e920573da415e08fca7f80c0d31afec6473989ff69a9234
+seen_titlehash:f6b852a7fb2115ce5c86b43b9ed8c001135b32eebe5f7e52349024e6828c637c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb
+title:helen haines s condition improves days after losing both legs from alleged attack
+seen_urlhash:3530b07ee4a19abff1ca0c33cbb03123efcf42207a78600a935c6c6192e79277
+seen_titlehash:0c5899631deb6621ccf3215a1355afb1e70e990c1b75bfa43a0c81e014ac7f2d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss
+title:massive oil slick seen weeks after tanker struck off uae s coast
+seen_urlhash:dae91154c7adb0ccc73be59c5ca47ca0c1560c3353124852d775fc2d01b2c6bb
+seen_titlehash:4bb7559755fda9e004b0773a41837b6582d4f01e03c1817dcfd4d74068e429e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss
+title:argentina identifies dozens of victims killed in its dirty war
+seen_urlhash:1193f2fb12bc2e258ce03835868c4d4b007fe02fb133237dbd19a67a942aefe8
+seen_titlehash:e25565981fc92dd9dbdfc3f5db8579681aabb0a9eb0b98230f2b0da2fbca504c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss
+title:marco rubio urges cubans to collaborate with cia to topple gov t
+seen_urlhash:52058ff44f1a93ecdf58de1517da1af6304e708d98913d59475ed45840beba1e
+seen_titlehash:f27199db80435d9feb0a6138364ded25a80f92fd2bbfcbef9b3b9db9325598f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss
+title:israel raids towns detains dozens of palestinians in occupied west bank
+seen_urlhash:c2f39073f3d04e35280962983897c02243d5f75966f21e22aa291586ae223efc
+seen_titlehash:23ac75cbf28070d8dc4bce4973dd8aaec82724b55f2f9abac65c8de90445e032
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss
+title:pentagon designates confucius institutes a national security threat
+seen_urlhash:3274d4345fa2660979605383fbf8a5207b3483c4eed05f4cb46271f47e171ab1
+seen_titlehash:efbdb219992548cce941cee740102710ad3014b01c494b6e2b22ff470cb518b6
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss
+title:century old mosque near indian pm s residence under gov t threat
+seen_urlhash:2cf62518e3ca868686399029e4d3b5c11c910dc67537e22a2e8fc9598d7a0951
+seen_titlehash:ec2c4df767a7c2fe18ee18be08cabf8b6b38efd044de23a5f9eafdb076658b07
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss
+title:argentinian judge drops fraud investigation into milei over crypto scandal
+seen_urlhash:b33933a940c3387957206cab4d85644d143d7fa02c3c2d8872a045dcb25bb096
+seen_titlehash:561910f491cc59b20565eb8a632deee3277048fe7d809b9efa3362f8683e10b0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss
+title:syrians protest israel s incursions near occupied golan heights
+seen_urlhash:9d477d4f757befc0a110772002bd2544e6de3a5bbb3d54680c5c04bd12412d37
+seen_titlehash:6dfc04d031abfc35d5219314186731735cf43cb42d23bd4919e43f67c6a274a7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss
+title:who announces start of ebola vaccine clinical trial in dr congo
+seen_urlhash:531eabc1a9aed2969ebb8bcc2fe62dae2943ee09a6318d62abd372cd59ec66b8
+seen_titlehash:99d21a54104a81787eb3299511ba39d9e4a8774f5c3067172adba10c54e979bf
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss
+title:iran war live saudi arabia downs houthi ballistic missile targeting riyadh
+seen_urlhash:390a4d53fb8327112813322e24232cd0df9360c73f2753879678ae4b9d96b832
+seen_titlehash:c255eedd65bd9be5c9a7281ddf75858b7d3f747abb509cea6025144a3229e0b4
+seen_reason:processed_not_published
+url:https://news.sky.com/story/suspect-arrested-over-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938
+title:suspect arrested over fire at nazis wwii eagle s nest retreat
+seen_urlhash:bfd278fe9761d6df443a4728915553c0b37b59de83ab5e743c343ac986b69bb8
+seen_titlehash:254768a5cdb87434c1238806de6cbf90946034516d82520eb239fa43fa193676
+seen_reason:processed_not_published
+url:https://dw.com/ru/политолог-кынев-и-активист-морозов-оказались-под-арестом-по-наркостатьям-почему-эти-дела-вызвали-тревогу-у-критиков-власти/a-79659893?maca=rus-rss-ru-all-1126-rdf
+title:политолог кынев и активист морозов оказались под арестом по наркостатьям почему эти дела вызвали тревогу у критиков власти
+seen_urlhash:915a50152eba560b26507b99c95840bc0cd4b81296337207d347d7df829967a9
+seen_titlehash:08fdc2cf1f064548b6b0008faeb60b4d831d7f85284403226f3d52b0784dc520
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-отменяют-50-процентные-пошлины-на-ряд-канадских-товаров/a-79747890?maca=rus-rss-ru-all-1126-rdf
+title:сша отменяют 50 процентные пошлины на ряд канадских товаров
+seen_urlhash:a4e92ffecd076dfb8047db130fffb336da238755ae9a43ee7f5270ab3dc069c2
+seen_titlehash:05492dcb121c0a994db1a043be3873729968bb73220ebe065a08adeab0ccf84a
+seen_reason:processed_not_published
+url:https://dw.com/ru/bloomberg-германия-хочет-закупить-тысячи-ракет-европейской-сборки-для-сдерживания-россии/a-79747816?maca=rus-rss-ru-all-1126-rdf
+title:bloomberg германия хочет закупить тысячи ракет европейской сборки для сдерживания россии
+seen_urlhash:35e06ca16f3804868e787092edc09e4536d010e4571eaaa956032357e05aed3c
+seen_titlehash:7d370a9a914198221ddb5efa2f33612b667c7b06b1bad74e86a1b07a3718f876
+seen_reason:processed_not_published
+url:https://dw.com/ru/reuters-новые-переговоры-делегаций-сша-украины-и-россии-возможны-в-оаэ-или-швейцарии/a-79747807?maca=rus-rss-ru-all-1126-rdf
+title:reuters новые переговоры делегаций сша украины и россии возможны в оаэ или швейцарии
+seen_urlhash:04cabe358e84314025e3e8bba512ea6c33fcc715f204d74ed919f3394dfc738d
+seen_titlehash:d1a25a3444e3d0b03f91c17de08a6a3771de4c4d30760ab052eb099b80b59cbc
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-украины-ограничения-скорости-starshield-starlink-до-сих-пор-действуют/a-79747779?maca=rus-rss-ru-all-1126-rdf
+title:президент украины ограничения скорости starshield starlink до сих пор действуют
+seen_urlhash:c28633ee9058cf130fb86681b836d048941cf1ced0c3a590dd5bc4699ac8f217
+seen_titlehash:e230b169ddae2f7ce46fdba43d594ae2726451d3f4659852e74fbe2657b033e7
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research
+title:электрические рейсы в европе появятся через 10 лет говорит нидерландский исследователь
+seen_urlhash:a68dc858f652290fff15dd65abc16399840132b029323178d3a1fa045f7e09fe
+seen_titlehash:1ed8c75bcf68be64e5df355d7c44e25637fd0f2bdb64cfc0de87bea9672fc79a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why
+title:цены на продукты в европе где дороже всего и по каким причинам
+seen_urlhash:79908b333beff66d51ee6541dd99ac1468bf5ad7fa8759125599399d4b99904f
+seen_titlehash:4c1e21fdadd9c2b103c6c9d9942e70193d926931e55aad2089dcda70e8fd4c19
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/24/sun-sand-and-snorkelling-a-week-in-the-maldives-on-two-stunning-resort-islands
+title:солнце песок и сноркелинг неделя на двух курортных островах мальдив
+seen_urlhash:54e1eaa9439527aeb88a75a70af02039bb4a73514336030427ec2d8150a1f0a1
+seen_titlehash:63f7fd5d9ea39a8a5b1f1fbabe2d6bd3c2d0c4f332a7c592b64b37ca709480cb
+seen_reason:processed_not_published
+url:https://ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1
+title:france prepares for protests with big police deployment
+seen_urlhash:3f16b33ddde1756d8eaa9d04b21c20b286d09321ed84ba54e8a7a271d9d239f2
+seen_titlehash:bcda772339409c3a53a4d1d336ae310ffadbc8c3acedb347ee11fb7073111b54
+seen_reason:processed_not_published
+url:https://ft.com/content/6a940d99-579a-481c-953e-a61cc23486e5?syn-25a6b1a6=1
+title:uk mortgage market failing to adapt to new patterns of work
+seen_urlhash:e446ace3f2dede74cac87debfbd26a88648c07586bb9df941b56c8242cf032e3
+seen_titlehash:cd7842541fe68e63b1a7f3d4820f71fff1234a2a5f79c008a7d96f1300b5d43d
+seen_reason:processed_not_published
+url:https://ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1
+title:gadi eisenkot can israel s ex military chief beat netanyahu
+seen_urlhash:1376c5e68da155ef8f1f7dd9e48eab6585bf6b634508dc954178dbedafe059c2
+seen_titlehash:498bcc34e825be2848fdc8353769ddb8c18877a41b70a13848268b21dbd8edba
+seen_reason:processed_not_published
+url:https://ft.com/content/40a3e26b-a4ca-40f3-ae06-2d1ec7346134?syn-25a6b1a6=1
+title:country music and cowboy hats brazil s rightward shift
+seen_urlhash:a4701e6c4a575c7f3cacc1545d5b69e80600500a6de8aed51e0cc834db1c20d9
+seen_titlehash:fe99357075eb5e4be0faecdfe710f1ad1cc49b912096ffeb598555b4814c0517
+seen_reason:processed_not_published
+url:https://ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf
+title:a little bit of luck is lifting uk budget expectations
+seen_urlhash:05d0ca12d1c1ad3fc25a20c30a972f85b3f66eae6ccbb9e0288e79d8db366cd4
+seen_titlehash:15a80befef2db4dfa9dde3b74f54048d62667f8400e89dbf53fc7317eaf8c80d
+seen_reason:processed_not_published
+url:https://ft.com/content/e41fe456-48c8-4bb1-8802-88b39f563d29?syn-25a6b1a6=1
+title:tobacco taxes work even when they give smugglers a windfall
+seen_urlhash:0701cc3dded0429b66a0198fa6e5e16dad55fd7aba799f785771bc8f77707e76
+seen_titlehash:67db9f5acef1652f5045c490e7570afcddeb6423f93e7a5050133b4b22992e67
+seen_reason:processed_not_published
+url:https://ft.com/content/2aef4c58-2d1c-48b2-8626-23384895a870?syn-25a6b1a6=1
+title:patrick dele cole journalist and diplomat 1940 2026
+seen_urlhash:46ffd89e78fd9571ff379aa4133b0a4a1be89997ac7204cb912cda44c2c02cb9
+seen_titlehash:425afecc43218aab9244de626ca4c9a5b54e64dce9ec62fbb1d260c8f86c1fdc
+seen_reason:processed_not_published
+url:https://ft.com/content/995ede2d-c1de-4ba7-99e3-2e18d1c43c50?syn-25a6b1a6=1
+title:china s luxury brands are ready to elbow western rivals aside
+seen_urlhash:577e83738b510e5dbc72cd15e7433a3b0c407ec2efde6d2f637d39774f70d78d
+seen_titlehash:6388f74d2ae8948b38f7bf8fbb6a59e9ded600d22b6e6d4d1938f46953b9f7b2
+seen_reason:processed_not_published
+url:https://ft.com/content/d6bd7c50-81e9-49cb-96ce-a6351020046c?syn-25a6b1a6=1
+title:a union storm is coming for employers
+seen_urlhash:4666df14e7ca133db5c7fabf0cd9d7567b438aa03541a5336a63995f7fa39119
+seen_titlehash:ada77dd539b948c6b57579a253034d89eb5af6f1d445f2d17f6341301ed87542
+seen_reason:processed_not_published
+url:https://ft.com/content/dfe64d5e-f5f3-444f-a233-a516483fa6f0?syn-25a6b1a6=1
+title:musk s bet of the century
+seen_urlhash:3555d81f407a24bd0ecafb1a70d2acc282be6ecd9047bfdc596f4bbaae6e23a5
+seen_titlehash:0abd6593ff8739c998faf183dfc4e8f20f3f82494a5e2edde77c063e7a055b08
+seen_reason:processed_not_published
+url:https://ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb
+title:france is in revolt but the real storm is yet to come
+seen_urlhash:753fe02139c2ea5fcfc61c2edb3e6b5455eba8e90eb23ec56c4360252abb11b1
+seen_titlehash:b9eb6bae118077f4e6480c1c9c973fcde5d721c5c178cfd2180bd1f61320c3a1
+seen_reason:processed_not_published
+url:https://ft.com/content/4eac7c4c-888f-49a2-acba-ab92ed3444bc
+title:how dolce is orient express s new grand tour
+seen_urlhash:9a87f6bb26dc2fd7518d4179b949efaa2eecd13faa97ff43c4e4d61bab2aad62
+seen_titlehash:e098e156167b3a77da5849684de46a58c16505064345470e6710b3327e309350
+seen_reason:processed_not_published
+url:https://ft.com/content/f7793e22-13f6-4cd7-9613-a11a0f0f30e4?syn-25a6b1a6=1
+title:pubs pints and the art of the budget gimmick
+seen_urlhash:f45cc70a91b53c10476c385440f9fc57283db25b237021982303f514f69daff2
+seen_titlehash:c0d97743be8111f5efafe5f78762a264496b3bd7fb6a97ca1ecb7e010a98872d
+seen_reason:processed_not_published
+url:https://ft.com/content/dcb57f30-bbfe-418d-9e52-5df3074d1764?syn-25a6b1a6=1
+title:the putin whisperers
+seen_urlhash:a9a73ebde728743152fac293f0c100f2b1097e82acd94e4ba56bf9ed75a92765
+seen_titlehash:9d2085366af5c4d54fcbf4c74b4de05584a5916545dde7f1ed6f7d3aa3f4b225
+seen_reason:processed_not_published
+url:https://ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec
+title:how itunes came back from the dead
+seen_urlhash:ecac859f963e1bddcb1f4eb7b6c9f20476449bdbcd32ce1fc64e6488e897f4af
+seen_titlehash:c91d25e4d3f41f2529e50d5433b6ede8d26e9074584ceca7bd485e62952370a3
+seen_reason:processed_not_published
+url:https://ft.com/content/ec4f1473-dfcc-45bc-9705-8c7175f51737?syn-25a6b1a6=1
+title:london s tennis players cry fault as bots snap up court bookings
+seen_urlhash:b3d3bb11950323fed816fec36324fc07f8222709a17fd95cd824ed74d1ea33cd
+seen_titlehash:0cd7cb6c7df18dfc4b87f83b8a8b216355f5b944ee9d9bab5dfc6be41b9de84f
+seen_reason:processed_not_published
+url:https://ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1
+title:tucker carlson i so overstated my power it was embarrassing
+seen_urlhash:4db1bc175f4b6bd1fd1301ec0d536018a38a1781410491ec1c53516b6fd4c094
+seen_titlehash:983d47fa023ed7ef703fb22642efedb1c17f11535dde292842de0dd450afe7b7
+seen_reason:processed_not_published
+url:https://ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1
+title:disrupter exchanges battle for etfs in challenge to nyse and nasdaq
+seen_urlhash:b1314d8956d3ea6bdefbb4afee441106ca7dabd652bbd7d632ff3c7539031e66
+seen_titlehash:657d640848a76b1aea1b28ae3d2c213d950582614354365fe0bb39aab10ae915
+seen_reason:processed_not_published
+url:https://ft.com/content/7355e663-9cff-43b4-889c-6f3613411386
+title:the cut price route to buying your own yacht in the med
+seen_urlhash:bd918abcd61dc59f9d5afd73890bce4cf6ff299d0339709e3555d442e45da5a4
+seen_titlehash:d3af6f016b3ededb4a5d4df0530cb002c8c5ee2c6f401239edbbe7ec7b39113b
+seen_reason:processed_not_published
+url:https://ft.com/content/a4d00561-9309-427d-a5b7-556c2b4a74e8?syn-25a6b1a6=1
+title:cannabis drinks boom sparks rift in us alcohol industry
