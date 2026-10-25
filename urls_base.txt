@@ -167333,3 +167333,58 @@ seen_titlehash:cc3becea2b4ee8b73ae4e937f3b62ec1e043bae1418991019536b59deef5c617
 seen_reason:processed_not_published
 url:https://dw.com/ru/армия-рф-атаковала-ферму-в-сумской-области-тц-в-харькове-и-многоэтажку-в-синельниково-есть-погибшие/a-79752964?maca=rus-rss-ru-all-1126-rdf
 title:армия рф атаковала ферму в сумской области тц в харькове и многоэтажку в синельниково есть погибшие
+seen_urlhash:ee0039f710d58e909e7216ead59eb292298389b5235c440b4707c2c46e606f3f
+seen_titlehash:943dc04d6f5e943e11d9c88fdc0b39d364d7d387a5bec09bc5b6b7ca75591051
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html
+title:remains found in haiti could be those of missing salvadoran soldiers
+seen_urlhash:de52a1d0441a989278fbee53e9c9249c39ba91628ec47be73a15b3feb3521fdb
+seen_titlehash:11ae822781b4a5e271b3010340c109604edd6630660430ddd0565245829d2f1b
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html
+title:iranians face anxious wait as threat of attack looms
+seen_urlhash:531d92f3aae7d3104aa8a9756089676bacee5b37698325718ef6271699a4c5f1
+seen_titlehash:ca9c8ae4f4a87a08e60099f6d222ab395d22fba98338c6d2ed2b25e0cdddca9d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb
+title:four people injured after drive by shooting outside boxing event south of brisbane
+seen_urlhash:e02be470df6c3d1db202b9a02db37e0b76e19a90b7ac626825d4c9e48ada2776
+seen_titlehash:05182337ac53a546dcb6c284542a926b5d9dd716eeb703eda964dff8060a1e13
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss
+title:violence breaks out across europe after another day of protests
+seen_urlhash:51e8f9f93da5839bdac5d3ed0b1dc651a418659463a89871c6b71804d0405d16
+seen_titlehash:ed66f5886d065a671debaf2fdc826f90d9e03ac31085d0ec5aed229a31d7741d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss
+title:iran war live trump hints at possible sunday iran attack or deal reached
+seen_urlhash:2f4a4bf62c6f419a02ce7ca7d48bd0f95ca779f280f246b9ba6fd90360601d7b
+seen_titlehash:693ffea3c6d15517c1f162c1b502c39c53b1f25f3bf308040a6e74f56101ff98
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss
+title:trump lauds melania over russia ukraine localised ceasefire deal
+seen_urlhash:4c8c7646413294b47c4319089d43c2fcc05e453ac0af4308e8d57c74447b442f
+seen_titlehash:7447bb1dd26fb8196fc8ab0f7a7b283966b661bc82a915c090c46dd8a2d6e968
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss
+title:gunmen kill at least 10 people in eastern nigeria police say
+seen_urlhash:b36a31ae4fd64fda6f33d3b17fd33ae2b15296a3e4fabed39f039686c0fe5d60
+seen_titlehash:26fb08ba3e6e1e36e8a80e4979dfedbc3582881ce7f8c324be416669fd9aaecf
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss
+title:how have democrats policies shifted since the last major us election
+seen_urlhash:0be1750d3a6673633a9f5c95a4ccf6aa19730429cf806a8588e7ca8969237f45
+seen_titlehash:d84d065273b282e1badbc2d34cb25e150b68490c588f825a4d8ccfe5c7a9924b
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-and-french-paratroopers-take-part-in-major-wargame-in-germany-13603116
+title:british and french paratroopers take part in major wargame in germany
+seen_urlhash:29c73151a9fed49c3c1f9e61786a4f7610be9f2fd94dc02ef27d69dcda9d0e20
+seen_titlehash:70b690ee379758249a94ff24c345ad114afb804c417508f3692f6810d692fe5f
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-италии-продолжились-протесты-против-высокой-стоимости-жизни-в-полиции-заявили-о-сотнях-задержанных/a-79753166?maca=rus-rss-ru-all-1126-rdf
+title:в италии продолжились протесты против высокой стоимости жизни в полиции заявили о сотнях задержанных
+seen_urlhash:b218002655f606b086443a8608a54ef2d1c1c0fb7b01254b43539ce8bebdae29
+seen_titlehash:31cd24a622f8ab33d60a9baf23ba0370aba130dfeb8d7361aba3a4de5b1c6a68
+seen_reason:processed_not_published
+url:https://dw.com/ru/илон-маск-обвинил-всу-в-использовании-starlink-для-наступательных-атак-с-целью-убийства-людей/a-79753048?maca=rus-rss-ru-all-1126-rdf
+title:илон маск обвинил всу в использовании starlink для наступательных атак с целью убийства людей
