@@ -168753,3 +168753,268 @@ seen_titlehash:8c9e1327b6a4bfaacdaa152bc608c87572ac64ff199fcb04e7da10400dc04fae
 seen_reason:processed_not_published
 url:https://ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1
 title:lula re elected brazil s president in knife edge election
+seen_urlhash:a162a61a1ebb6b8bdbcaf782dcb0a30d2e4fa1d2335fd8fb9ff10abba1fa17d2
+seen_titlehash:c831e34c8121f27172e57bf498d7a58f8058f91ecb3783cbd3b512abcd8163cf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss
+title:australian murderer loses bid to eat vegemite in prison
+seen_urlhash:6c200fbdb0d985cda6fdb7e3ec39dd7d3930a7a751add314e3b41495b80ea8db
+seen_titlehash:6d4d34cb944aec0c9e23586656b7cb792c73297c236d1bac15e559a967804bf1
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss
+title:russia to host first olympic federation world event since ukraine invasion
+seen_urlhash:e519811464e8b5e861a25fede96a0e680b979857c00406c35dbf528dbc9dc3da
+seen_titlehash:72908dd1fa41255a3cc5a8800ad1224290800917f5566a87d83551f4d26280c5
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss
+title:rapper nicki minaj joins trump onstage at michigan rally
+seen_urlhash:c5ab82afde5da45c4ac8e910f4ce748ff6d70f86f4c279864744b4d2388f7b91
+seen_titlehash:64e88046451cfc7b8666c4716c61aba75289184d87ddd80fbe242a9ee1310f10
+seen_reason:processed_not_published
+url:https://nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html
+title:who is netanyahu s main opponent in israel s elections
+seen_urlhash:1139e4656d643bed4620ac0a1eb218d40672021c7fe6ae40328a0795ea0dfed3
+seen_titlehash:b73d19402b37fb380350516034c3b3a22bd4a07698523c9bf80bba62e53cb4d7
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/europe/venice-soceer.html
+title:is the venice soccer team ever going to be as good as it looks
+seen_urlhash:f2a7b09929378c880f396de47d449e044c557f6b1a5becf6e272a53691170251
+seen_titlehash:13d3f810b367ab966a0dbaa6dddf329c28fb84f3328ea2bcfa9ea0cc44c73984
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html
+title:israeli jews across the spectrum face an election of fears
+seen_urlhash:8068f816bcb72736f90ac9e77ff6352145aa278212242bc0cf5f267312e2156a
+seen_titlehash:c8db7b159a3c2b474db1f7936021105967af1daad9f122d55c7112215a1c150e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html
+title:pull out the sick trees xi s constant purges pave way for next term
+seen_urlhash:9e57b651178b94aa886d9b57f004faebbda99bc5984cac352c68e935b435318f
+seen_titlehash:a8bee3354e30ae5d717cb92c78494c585cff4c40aa2c4b945fb5a999aa35bc20
+seen_reason:processed_not_published
+url:https://theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research
+title:labour urged to plug predicted 400m shortfall in overseas aid funding in 2027
+seen_urlhash:e5706939e80a18740420c8c7f710481ce596cc68fddb66426a5c4a72bcef45bc
+seen_titlehash:b73d9601beb00ccdf5e97541f7b1c75d39ad44c157e794e429b6f1bc61febc50
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum
+title:xi jinping s corruption crackdown in the spotlight as china prepares for meeting of top leaders
+seen_urlhash:27d38ab63d2fcd3b535af708f18f002367370a1e35ae4776022404d11b340363
+seen_titlehash:fb9321ca45a6215608eb0dab9873393cfd9b549108d55499d63f93b607ee32bc
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb
+title:former raaf pilot who allegedly murdered wife was love rat and master manipulator jury hears
+seen_urlhash:65cd0488702bea0d2ef580f5a16d349eb65c6b07f3cab291bc82feb33ed81c2d
+seen_titlehash:eac2c90c36b668eaa2ce3b9046cd2fc79fc1515185d5c9ef274a53911d632690
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb
+title:birthkeeper who allegedly groomed pregnant women to fear hospital could face criminal charges
+seen_urlhash:0b6fd1f476cf25fc57cdf9845d8f00138e963ff04ea5809381ffeb072ee0e4a0
+seen_titlehash:cd0d2ca5396da453d4853dbe9bab96f8442ca944696f238be7a0b846049ea547
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb
+title:covert recording of prison meeting between beau lamarre condon and friend played to double murder trial
+seen_urlhash:6ee60f90e73e91ddb7e1c8bf9cb96d1b50e000e36d7ad6e027bf1c8906b668d9
+seen_titlehash:9006d5c279c6e88e417f7d96ce861dd4e53655e63f50a8b609e2da2950f92b3e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss
+title:aleksandar vucic the serbian leader brought down by students
+seen_urlhash:c0d8d47d9ddfb4eaf483c515df3826f0e03ba5d795f7216324053e9bf0cd756a
+seen_titlehash:597e7f76d72f7aa89df9d458c2176e0c526331f6367bd976e49f41bcab48501e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss
+title:the gambia s first blind magistrate tests a system built for the sighted
+seen_urlhash:e2db90d028000bb95bebb23b3ad1920c3b5900756613913d6dec652f17807b9e
+seen_titlehash:5ff4980fa89077e01f16692b702720f66b1379ad16ab9968cf22fb36573563f7
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss
+title:israel s election five key things to know
+seen_urlhash:b748a9ae8c8872bf0e4a9abe1425be0f9c82789ff3736ee250bb929ebf886bf3
+seen_titlehash:3b9051ec6cebbc91c59555072e9bfee5e4b0d835c686381625738214f0201626
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss
+title:social video captures moment brazil s election turned
+seen_urlhash:07b4feffc0897df27b5d7e8090859def5617a1b8e90a09dccf703db7b003cc45
+seen_titlehash:1329b3fb169eb1dc9499cd68fca7eeb7ddbc2d2dbaf2ab1ae55ae9cb9bb4b3ef
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss
+title:bolsonaro calls for brazil election result to be annulled
+seen_urlhash:52f4792ecdb2f35809bc39bba89277d0217c91a02ead9862edc89458c28bda49
+seen_titlehash:fb07aa538e1e7907360491d1ccf40c61a1c99ca6a2ffa1a30726f484a6968338
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss
+title:us appeals court sceptical of trump s lawsuit over california voter rolls
+seen_urlhash:daf52a3dd9f1ff9e05826823f635ad300345cec1f125b8090c75d7019ef66ca3
+seen_titlehash:f364f3e8827c816e03e794a6b50ebea4a40385ef264e6cf12cb054cbd7428a79
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss
+title:attackers kill nurse injure health worker responding to drc ebola case
+seen_urlhash:7963849615c587313292d0fb354ffc05c9aeb85c45022daf7034ad5a705ad21f
+seen_titlehash:48c84925fedf7b76197ec47aea238e86b82839a62a694fd8752929eaf91ce4ee
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss
+title:us military says it helped gulf states export 1 5 billion barrels of oil
+seen_urlhash:8e8d4ccdd965b789a4e7b324619e491befb15af768dec5b5324fd8132040a924
+seen_titlehash:54d54caa5aa7eea00cc195c336dad5889c515642168c639aab192e0c40c4ebbc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss
+title:trump dials up islamophobia against abdul el sayed at michigan senate rally
+seen_urlhash:b5112000f1e96e69847e61a477d42f0b8faca814cc579a6158ee82900c3ee98f
+seen_titlehash:5fb872cd1f7ecbcc548506f9568692b343238fc25c908397ac928b9997e5a5c2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss
+title:world reacts to lula s victory in brazil s presidential election
+seen_urlhash:71a8ff144cb77794c059df1d31a134e1e853c28998b0f6d39b646b14e8db389d
+seen_titlehash:91191b141da94b81d74875db0464a292302c747c50ccb1ad855c47c8b043188f
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss
+title:ballon d or 2026 predictions yamal mbappe and kane who will win
+seen_urlhash:a4bbdf439d15f66b695af470ca6402c9b7129f5c4c5bff5ebe199373fc9c54f1
+seen_titlehash:ad511b8ff79802afb8ed1cb929ca986a8ccf10d1a491dcdfe39655540163b0df
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss
+title:lula thanks brazil s youth for historic election win
+seen_urlhash:384a1259fd54e59d89995c7a408c750a501223f510dfbf3f35686fa38edab311
+seen_titlehash:6a522d462bfcbf144865d0b7a9cfa53504e36ba7c2b50c06740c25cc961fabf2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss
+title:brazil election results 2026 key takeaways from lula s historic win
+seen_urlhash:356b66486b877e898c5c7e7703dabc4b28c1ac4d2d6656c7316f8e042a6cecae
+seen_titlehash:b5f79a7d7d872f49413b68ed23e0b7caf44773f01e2cdf090edcb7092985083c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss
+title:seoul fabricated landmine blast north korea tells un in letter
+seen_urlhash:ec794f1894636dcad0a599da0bb8de827cc850a780f9ca84cee1bb06b367632b
+seen_titlehash:547ca0766ce84c013236546af6be2e258511ecc0ff446e83e399e138b20f30c6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss
+title:two storms slam northern europe cut power to 150 000 homes
+seen_urlhash:a2a9ead1e4efeb5ff1c45a99821f02b7a343850ec1afbe670c49cf965d841330
+seen_titlehash:5b8a38aa984cd1c57f10bad1ab949be88fd9363544291af7e5ada5257f4cc24f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss
+title:netanyahu rival eisenkot holds final rally before israeli election
+seen_urlhash:b03869e1c0347e777e1d96f09ee6578bbe14b0840f942a172efa5d3ff2b5b14c
+seen_titlehash:c0bd48a86a246feab5825ce5395df459f3b61ff4ed34c785fefd7eb40a931587
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss
+title:serbia celebrates historic election win for student backed movement
+seen_urlhash:6f424102604367a896445e549e125367e7cedfe936f7e2bf64679a75b39228b2
+seen_titlehash:19db0b6d78879978d7844098adf8c0173f6350a091b428ec7c25eb34889cb060
+seen_reason:processed_not_published
+url:https://news.sky.com/story/the-ukrainian-veteran-of-the-battle-for-mariupol-who-lost-25kg-as-a-russian-prisoner-of-war-13603850
+title:mariupol veteran who flew in classified mission on what every ukrainian should know
+seen_urlhash:ab71f26fca6a145e135197346214bd54fc3ff468494fcd09a91c91618d6e0e4d
+seen_titlehash:beba93bce159715f355826f3a79fdea526d0449eb637917f343e6480a5f9d084
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president
+title:what challenges await brazil s lula in his fourth term as president
+seen_urlhash:a8109dc20e6e01279580ca3d57e39c2c0df0a3c316adf52e1549879bb4af110d
+seen_titlehash:a9ddac9b7bb1367dd3162c1d14d13ad36ba8cbf95ce544e56359ef823e644672
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-болгарии-не-смогли-выбрать-президента-в-первом-туре-второй-тур-пройдет-1-ноября/a-79758941?maca=rus-rss-ru-all-1126-rdf
+title:в болгарии не смогли выбрать президента в первом туре второй тур пройдет 1 ноября
+seen_urlhash:6e5faf124c007a04f6a3eca1ccc5464e3f8e297a90093d39ce040f2b89c384ed
+seen_titlehash:73310c33fa283f99d381d1e3bb62db730335641cec2a61de31386296cced7ce8
+seen_reason:processed_not_published
+url:https://dw.com/ru/луис-инасиу-лула-да-силва-переизбран-президентом-бразилии-после-второго-тура-голосования-флавиу-болсонару-требует-аннулировать-результаты/a-79758722?maca=rus-rss-ru-all-1126-rdf
+title:луис инасиу лула да силва переизбран президентом бразилии после второго тура голосования флавиу болсонару требует аннулировать результаты
+seen_urlhash:6333b1abbf307ff61245766ecd0c9d62576f89fa01d362323ee13d342bf9654c
+seen_titlehash:ed36f58a71819b65c3528fb9b296cbeaf1d9660b84c343653686abc89d6eb760
+seen_reason:processed_not_published
+url:https://dw.com/ru/оппозиция-грузии-заявила-о-старте-новой-волны-протестов-против-политики-правящей-партии-грузинская-мечта/a-79758388?maca=rus-rss-ru-all-1126-rdf
+title:оппозиция грузии заявила о старте новой волны протестов против политики правящей партии грузинская мечта
+seen_urlhash:e0438a11b41928167d81f66e514c549a3bac4f283c9070cba5556ccc3c63969e
+seen_titlehash:5940579077ba7387c8bdf51b3890dd135bc40c73d94b16ceffe4403384f5c43c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/26/brazil-second-tour-lula-wins
+title:лула да силва побеждает на выборах в бразилии болсонару не признаёт итог
+seen_urlhash:f0a7bf76d2ae9f4bd7e021a8f10d8dedc688aa964a81dda8353103050e9e2de7
+seen_titlehash:305baf9670d2d0641d3c9dff7aa4e2c81e3e719ff5d9168fd0eb44ea2b59488b
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/26/lula-da-silva-pereizbralsya-na-post-prezidenta-brazilii-vo-vtorom-ture-ego-sopernik-flavio-bolsonaru-otkazalsya-priznavat-porazhenie
+title:лула да силва переизбрался на пост президента бразилии во втором туре его соперник флавио болсонару отказался признавать поражение
+seen_urlhash:6e76fc61746aff0a37d5a4af1aa1c212f01b127b857ace5af31f0cdd9ff0713e
+seen_titlehash:65fddf83e7c0b2cd11ebfa59c5768b73977b831d35ed6647caa9157027bd5bb4
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/26/chasto-iskusstvo-stavit-nevynosimye-voprosy-ty-za-kogo-za-stalina-ili-za-mikki-mausa
+title:часто искусство ставит невыносимые вопросы ты за кого за сталина или за микки мауса интервью павла павликовского о фильме фатерлянд победителе каннского фестиваля в нем томас манн едет в послевоенную германию
+seen_urlhash:a4761aae876beb415cc343a3e4db751c08cfdd3c75c743ebc804bef565e13f8d
+seen_titlehash:3c0ec0e73fedd338c323ae3d3e0dc903bbccf5b2dfa6914ba8aeac80c599d986
+seen_reason:processed_not_published
+url:https://ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1
+title:eu weighs mirroring trump in securing critical minerals
+seen_urlhash:6d12bf3ab5211384bd6cda85beb1427cc6291831e98c5f53be44f4c0f748040b
+seen_titlehash:016502297c44688d5bcf3c6567e94ef5d2f7f8ca38c1e060fe50333c91e292be
+seen_reason:processed_not_published
+url:https://ft.com/content/5f56b300-f8a6-4834-a2e6-75902880ef87?syn-25a6b1a6=1
+title:uk financial ombudsman hits phones to cut through ai hallucinations
+seen_urlhash:7fa489b05f577d9595e8d119ca3f576a3206a304c46c24f777730d8eef0adcc5
+seen_titlehash:f1de8b105f106da11f36fd93c033ea49073c64184dc2ef2dbd333fe926aaecec
+seen_reason:processed_not_published
+url:https://ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1
+title:germany to tap ukrainian tech with missile purchase
+seen_urlhash:a0739fa662bc0c10cbfa6fc31ae5ada31b715eaf042d3d2eb97e730d17952df2
+seen_titlehash:076d744182ce3419d36fed8f30997e8e6e3d361137bb0c76241cb2d9e9bc0f08
+seen_reason:processed_not_published
+url:https://ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1
+title:oxford street s pedestrian revolution is finally here
+seen_urlhash:7353d5cc14fc23ab65f42bbae537439faee9211cb76e511406d9a8c171ed01bf
+seen_titlehash:903f41af23a97c8d7c3307128b05241788c824edc95206279e809d3c07f1a25b
+seen_reason:processed_not_published
+url:https://ft.com/content/244ae9ad-0778-4afe-8b6a-c2b1b9f81771?syn-25a6b1a6=1
+title:do no harm what gilt investors want from healey in the budget
+seen_urlhash:7809572a7941a5a5cbc124e2a233e0205581c6e812f2cf7e5deacb0257eeb1d3
+seen_titlehash:1a43e5207fde9e84d0c563f55b9038055df7048ebc262b461e4a98e7dcecf7e1
+seen_reason:processed_not_published
+url:https://ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1
+title:chinese wind turbine maker builds european firewall from beijing
+seen_urlhash:d43f81ebacbdee8542a28000a59a9cbc981da138aad6e1a7b1eda9a94da32ef5
+seen_titlehash:9153b98da061013ae5b5de69b8b903bd57df813ead72caa0ae258eed06927f85
+seen_reason:processed_not_published
+url:https://ft.com/content/a2be99e5-b952-495f-9776-1ce7e4f994aa?syn-25a6b1a6=1
+title:we need to know if ai agents are accessing british services
+seen_urlhash:49bf5cd2b91b8dade38a3c049014002bc6093f6087a97338402b60fa8cc3ed06
+seen_titlehash:e2fefbf8240ae7db9baa36b351fbb72e61065190bddc9aa8b6439a2c4ce05c06
+seen_reason:processed_not_published
+url:https://ft.com/content/a1a6d129-f271-49de-bdbb-671e660b0749?syn-25a6b1a6=1
+title:why class matters in america
+seen_urlhash:bc8fdd8d3dc70d48136981d58ff7ce6f54e4d27d94b497242126fcf724be3989
+seen_titlehash:7b0bb01961ec4a9d5050623ef42f8cdd193f8a2e1f56b447b32609430d37ec71
+seen_reason:processed_not_published
+url:https://ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173
+title:a day in benjamin netanyahu s heartland
+seen_urlhash:ee10dd5845e5b81dfb4b191f47a04f0becc553c393ffe4d7525f20a3f8412a1d
+seen_titlehash:d76ee0b6605b2d9557cb242b6d3db3ecf361a4df76abea328409dd055e8c78da
+seen_reason:processed_not_published
+url:https://ft.com/content/c8db9b39-1922-41f3-b8e9-4488d16f8a2c?syn-25a6b1a6=1
+title:tesla s ai ambitions take flight as rivals race to keep up
+seen_urlhash:576391bd98b1676ef5c5452aaf54d576c574720a92892c42818ca558eb999adc
+seen_titlehash:8eb9c5457fae120c47c619b08319de9ceac755668380b8773e9a8e99618e6869
+seen_reason:processed_not_published
+url:https://ft.com/content/053a8758-2814-45a5-87ca-0c71ce5f7816?syn-25a6b1a6=1
+title:junk borrowers are stuck between a 2tn rock and a hard place
+seen_urlhash:762fd0aaa45b4d35cf8390b17e8b89078b20c3f9ce43abf88f97773d0f418272
+seen_titlehash:e1d88dfe5d055e034c40cb6bdb66cb9ebfcee61c3145b07ac12aba28e1dcc2e0
+seen_reason:processed_not_published
+url:https://ft.com/content/14242b5e-0975-4c7d-92fd-e7c04e87238a?syn-25a6b1a6=1
+title:can pakistan s military government make the economy grow
+seen_urlhash:04541a7e3bb6df6fa24c3f9d51f4d5fcea1fb15fc3bbdfff436f56c2053ddef4
+seen_titlehash:058a05fc5ef6f97d7778d93cf02b95b41267300b9a0dd02a6d36f410c02fb2c4
+seen_reason:processed_not_published
+url:https://ft.com/content/4c3bf863-b21b-4626-83dd-26c6da3f0d8d?syn-25a6b1a6=1
+title:guernsey jersey and other havens rake in revenues from global minimum tax
+seen_urlhash:d56d9214c9dbf6e2eb698f08d96be1dc47e24154de30f560bd23ae5c8b08fae1
+seen_titlehash:ea53ff07d099faac62fa3bb13e709d0bc1c5df2ccea1bb11d1def95299a8ea60
+seen_reason:processed_not_published
+url:https://ft.com/content/133c0f88-419e-4c6a-ada2-a911ffd90754?syn-25a6b1a6=1
+title:kone tries to limit asset sales as it seeks brussels approval for 29bn megadeal
+seen_urlhash:79b4069941663528a8dc35b43b4163391166296ff71594fb3672398797b4455a
+seen_titlehash:76fe39c015ffb73ed5af3ebea08f1940470802cce28c0689c4bc2488521bcf8d
+seen_reason:processed_not_published
+url:https://ft.com/content/2d9a682d-fd71-4d76-878b-fe7980f6988a?syn-25a6b1a6=1
+title:serbia s strongman leader voted out
+seen_urlhash:eee472b629dcd990a4a1269eb76847e2dc83391a248b47eca39523d71592aa63
+seen_titlehash:dc77b48e31696f787e1d06f1aa0aa44d0f82e8369ceae0b9f36d6869bf6f5d25
+seen_reason:processed_not_published
+url:https://ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1
+title:after stunning victory lula will face a deep hangover
