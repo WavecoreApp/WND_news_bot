@@ -171638,3 +171638,573 @@ seen_titlehash:67b27f5be4cf55a003dbc158f95c0fda7d17b70b4fe880a1863939cac0ce8d43
 seen_reason:processed_not_published
 url:https://ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1
 title:us voters and trump s overflowing swamp
+seen_urlhash:6ecd0dfe87f7329ddfcc191db817af772688046fe22c1db6099d7f6906e257c0
+seen_titlehash:db5a61e4c34c46c146c17e78920df4a5cab21077252d40bcf5fd8997316e2867
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss
+title:ballon d or ceremony raises case of french sports journalist jailed in algeria
+seen_urlhash:fd8250172c204f598d5fe6782f96e0425b18544a6fbbff506e3b0eb7c5b323e9
+seen_titlehash:b7e86235cd8799fa865c457450436fffff1e516bf45e78e1aab644f2f25df81c
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss
+title:controversial islamic cleric shot dead in northern nigeria
+seen_urlhash:30775c87582720ef5b9549902dbb6087f0ee02a6b9d43cecb2300a4f79f778e2
+seen_titlehash:8bfa6ba36918e3869cd94b7b84da64e6ee0de8b65a0f019df81d873184c1b8f7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss
+title:egyptian journalist lina attalah detained after court orders news site s closure
+seen_urlhash:8b06afe975cddc214abdce8180fffca6525209b4abf609a630f37db3c3520484
+seen_titlehash:eb072a4d446372b05037ca7cdcb2d937fd7aad3112310af7fe5f1a2a48228b10
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss
+title:west warns of famine risk in sudan as civil war grinds on
+seen_urlhash:070d13f32a7687e893c4622f0e48fc56c9e862e4d09b7c61c14684a1dacade3f
+seen_titlehash:8a2df6ac290ae05c9a39141427bf6fbc3295b5215627b091a3ccead7e33e1514
+seen_reason:processed_not_published
+url:https://bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss
+title:how kane defied doubters to become world s best
+seen_urlhash:40511622450206a3ef36553317e2461855c7016b4331f42095b4ea608a902cc3
+seen_titlehash:0a274cd6d2146f76c09d3a13a3cb69938528884c95b9f7fbb5c1dc2a5d04ac22
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html
+title:european leaders split over phone call to putin
+seen_urlhash:0d3e99f07dc52d0f1e8a72bf651f799c5d0fd83b5dae5b664e054d371dda50cd
+seen_titlehash:56aee0087abc6e457e2dd40cd4008665f2787336117c8246a3ebc091063c011c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html
+title:south africa deploys 500 soldiers to quell anti immigration violence
+seen_urlhash:5b10965577b8e6fe0349ecded255b68a7e338ec46a722e21f57cae4f1ab19927
+seen_titlehash:abd00ce7a913d057ee59c11998f1e3d908405cf8a50e20eeac3a70caf88cfda0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html
+title:serbian students victorious and leaderless go after the media
+seen_urlhash:c3ff46aaa448af0792e0d4146b407cd28493b9f4b1d001d4d205e7ed26b2945d
+seen_titlehash:8a9262fe89152b2d37097d0b2efb0c2e292c1bcb642876a1d0b58fc1b52aa642
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html
+title:egyptian court orders news site closed as critics warn of a crackdown
+seen_urlhash:9eb632fc4ff9089d02e6d1f0abf179f19e91189adc0ce647d6a54153576a7f11
+seen_titlehash:a201ec395a624825964edc80a06a78618f21bab963ff14a6ee67367372a034c0
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html
+title:meghan actress turned duchess will join australian cooking show
+seen_urlhash:b48f86ab4b4d4fd2fd720c2d504d8570a3f1f7c7b705686b0a709656dfed82a2
+seen_titlehash:b77225a2fb72712d9269d1097b591d3be7d1dfb537cbd7833c08b99c77868eb7
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters
+title:netanyahu accuses arab citizens of trying to steal the elections in racial appeal to voters
+seen_urlhash:2de2580753227ef2e3f81d0728c12d9835813042372098d77980895663a28496
+seen_titlehash:3878dd009eb3481c64aab2598844b4820f51a454d018e40c0bd69e1eb79e3582
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/10/27/world/israel-elections/relatives-of-victims-of-the-oct-7-attack-israeli-election
+title:relatives of victims of the oct 7 attack are running for parliament
+seen_urlhash:70dc065c9b8a73a8f7360320f971a5969b5a0274010eb17e7e82355678cb6580
+seen_titlehash:34370bb193ae1b94559e4324acc5754da94e77c226983abd50b682abf6a4d6ed
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/middleeast/house-democrats-us-israel.html
+title:in congress support for israel is waning among democrats
+seen_urlhash:84f757c5e967edd2b9565850146c8adbdba254e9c76d18c6a84e17fe6d958b5e
+seen_titlehash:29efe6b357a98685c0db0dad0aec79dbaad30694162a0aa659a5ed1160286494
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/middleeast/israeli-election-authorities-and-volunteers-seek-to-counter-threats-to-voting.html
+title:israeli election authorities and volunteers seek to counter threats to voting
+seen_urlhash:94834b28542bd9f098cd3f28b12b0dbf8eee38a4b5892df1a7f945da09f5942c
+seen_titlehash:1a4e5e32a17ca22ededbf580a3aa99d4745b7bf9869b52b5a1a000d087dda467
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election
+title:votes from israel s arab citizens could help decide the election
+seen_urlhash:21e97496f74c6f3fd514800c0a6f9f48f57aee4fb15eb2e00a4d133a2739dd84
+seen_titlehash:387c4e7dd632231b77f58e170d1a4b5bee00f584423ba64afd8e6a8d01d79d1f
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled
+title:flávio bolsonaro flees brazil after presidential election loss reports say
+seen_urlhash:e4bc241b167d384ef62d227b3ba53d6a25bbad3007b185598fe1574a0fd236bf
+seen_titlehash:7814b15dba2b3c2bfe8b26711d96327ac9ae1f4cc13e7684aac55a33c6092415
+seen_reason:processed_not_published
+url:https://theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific
+title:us military says strike on alleged drug vessel in eastern pacific kills five people
+seen_urlhash:528d087fd7f5948889455c07a7776375f8ca698b1ec88638f14a9589ec8517b4
+seen_titlehash:6e92856029a290ebf7ac3def771d6d476e8bf78670e0648e0b852bdceac2017e
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb
+title:mp calls for rethink of pre poll voting amid heightened security concerns in wake of haines incident
+seen_urlhash:60c25aa680e276a31d4ddc8b141df67397583dbb3bd6dd1a2dfc39692dc82ae7
+seen_titlehash:5cc941e36470ee782e9dc8bc169fe21b4f936f159aba82d71799cf1a000c2ec5
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool
+title:greens push for human override in aged care assessment after ombudsman s scathing report into algorithm tool
+seen_urlhash:4455ef4fa6cfa88aba84f73b47f1b283d4dc8f0dd727e857eed549d51887e8fc
+seen_titlehash:082462082eb2534b4229a905298c94c3b504e38f8eb3c0c1c80b1efed427e681
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb
+title:guardian essential poll one nation and labor s primary vote on par as discontent with albanese rises
+seen_urlhash:e4e8dcdaffb85c9beabd4bd0d2a55e76a0bed55a39ab7da1cbf9a84a3b39a270
+seen_titlehash:6f746a2e1bd8a44115772613349505b037e56b4fe9bebd0c7d079b46ecf05be9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss
+title:russia jails it worker for 13 years for donating money to ukraine
+seen_urlhash:9a118d59346316809130a77d8d616dff5860f3d1f6d308a7a00c9860c6e402e0
+seen_titlehash:63af938430b89bf74095112ee32411c10b4a6f7aefdf61068beabc65022b06e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss
+title:rain brings temporary relief as southeast asia battles fires and toxic haze
+seen_urlhash:f2921e4bd96640fa691c99ad1ef83979a986180e4ee5c1126165fbc759f8c47c
+seen_titlehash:6a8ede5dbfff4a8ad0a177cbb377f9962c04f8838d4ca61b16c61696acf5f0e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss
+title:harry kane how the runt of the litter conquered a historic ballon d or
+seen_urlhash:696c0d5aad6f26c6ac6db2a3c23ca01367ebbf789278ea86819b4168887f92f1
+seen_titlehash:108c60ce98c07a049362965e5918efa958299eefa0379626df6eafdf77bd4cc0
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss
+title:the whatsapp general behind lula s election comeback in brazil
+seen_urlhash:0654569a0236e47439bf5da4805fcbcc00e26ad09c348d1e3dcff7d5d955c57b
+seen_titlehash:5b61b1732a4e547aba7296a809bb5739674b458ba66d2e92e085d6b59263dab6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss
+title:if they re honest trump casts latest suspicion on us midterm elections
+seen_urlhash:397cde99fafeb037e22dd8e1932bd88c6437aed39d53a7296b79ebef01e35423
+seen_titlehash:5f406925bdc514ac1a2878239840f3d71eb78d6c2117e9f8370a44d03af676a7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss
+title:jerusalem daily israeli elections underway
+seen_urlhash:0f01703d30a034162597615d60c7f3ac1267da3c51c488eb3bdfa0d73e3331c8
+seen_titlehash:2f95317042459273d7dcb75be0adea07437483a3c4a1cb1f147b8de5ee4d5cb1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss
+title:arab parties in israel accuse netanyahu of inciting hatred to scare voters
+seen_urlhash:118724f8d91e0d2c8f10e4b59ca0479a4de17856cd36a159dc9ccaf7de6f1912
+seen_titlehash:a4cf8667b5b5fed2f3d3afdc220edb9e002828a1688daa37e7ed7849ea0ee101
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss
+title:protesters storm serbian pro vucic tv station after his loss at polls
+seen_urlhash:8fc2c817ed6b2965a16d45423cdbcd1d2584376beeec37d8984458c126076bab
+seen_titlehash:e4777bc58bd9061aa430d1c4bb8988db96e04f9646903eb3023c067f8477e5b3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss
+title:spain deports migrants from ceuta in move criticised by rights group
+seen_urlhash:5eec9680b2437ec225ce8631b74f201d3f545667bbacb5f1e4b93f66b788fd7a
+seen_titlehash:6fee868b12751809c7ad35c1f8994ca91ad51e73fbdd6a5676e9c0fe2b1e2d83
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss
+title:fire engulfs seoul s last shanty town forcing hundreds to evacuate
+seen_urlhash:f3a01518f6a0b87d27bfc9ea8bd1abd11d48ca91b948e163eb3c5dda0d05ad81
+seen_titlehash:6007d922b1048c4760b18424476790b150784db9fe9e6bc8942f0442746203f1
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss
+title:funeral held for family killed in jordanian airstrikes in syria
+seen_urlhash:c638e85e3e6eb15e45f361d4c4875980ef8cb6b75bb853af62dbd1cf5e20da0a
+seen_titlehash:99080189e56fb2865b8087cc97c98932e5723e18cb82ef713d9d24d48f438afa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss
+title:lula s victory echoes across brics after fears of a bolsonaro win
+seen_urlhash:3d72b6255db7fa119a15e0de14d458249a924a476deba3328c2674ad839aec4b
+seen_titlehash:59242d2e795705aa5fff936af0067b692143d5a466157722d9d5849d234fd85c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss
+title:death toll from attack by gunmen in northeastern nigeria rises to 62
+seen_urlhash:d18022947e0af944a51c052dfaf5433a8c6de03d463466c6a6fa2746510cd1c0
+seen_titlehash:ace31467ae20ed4aab39fd6d9838d53900bf498b40f114e449707e5842ecc2c7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss
+title:iranian and qatari leaders meet at russian energy forum
+seen_urlhash:9b05c9f4e26da21746e4b0db0de03f2ea8f1a87b8748db9edaa8c99e558915f2
+seen_titlehash:e8d45af4e96fab955117325a9c03045e03d8a734569149ebe3449a8d7c7dd082
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss
+title:iran s calculations as us escalation looms trust midterms hormuz
+seen_urlhash:87484cf23ee5a950815344594021f2bbe46ca0b9f16181736dcc7a097f761c46
+seen_titlehash:01f8d465371e557db3614d6bdeb7c2cea831f195ddc97746b2b0ff0164a9982a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss
+title:israel election turnout highest in 50 years as voting continues
+seen_urlhash:af684cf04f4ec6d5d76a7cd67c77090a64cce4daf9a2a9dace1cf43e79926e00
+seen_titlehash:007536566c11730ad43645d99a4c92076b161e58751231d15e995ea02d9e02b8
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss
+title:cyclone arnab batters india s east coast
+seen_urlhash:93ee442e1cfec8269944da3987091528a2b147c7a7b862b5a14919e71bae8f8d
+seen_titlehash:48a0bb62a8fb8a175b75f3b77a741252dae71bed267e42ed4396ba4f25abe54c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss
+title:israeli military detains egyptian national who crossed border
+seen_urlhash:12304ab975a67e683e42b11f4bba25fec5132ce5f5a9742bd6884fbaee102ac7
+seen_titlehash:70e803eb55e8111bc12cb7a0cc283c8160e6269151e313f84105e98c322c0578
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss
+title:hegseth heads to manila to shore up us ties with asia pacific partners
+seen_urlhash:164046abaca2ab8d57d6e8ada0d6269d35bebcc6ad7b84d8382e6169fa6132bf
+seen_titlehash:e330bd74430fb150bc6174a81db7d1e34b0a448746856e359b0cf1c92ee1232e
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss
+title:carrick stays on as manchester united manager for crucial chelsea match
+seen_urlhash:5048ad5b9c90dc03c4dd68c17dca91f394368bebeecdb69dba987895233a00e1
+seen_titlehash:a8c1e9fbd1488f8a8354a822a6f7c545228c516859bfb384ba8c4d9318f1ea90
+seen_reason:processed_not_published
+url:https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365
+title:defeated brazilian presidential candidate ordered to hand over passports
+seen_urlhash:1599bb7cb13b81c5d67a181595abbc0fccd1dc548c8a07482a8f10dae2980436
+seen_titlehash:8927a02d87c4084e8a32672a81571ae9fef895e93a4fc3a2f579940689ce48dc
+seen_reason:processed_not_published
+url:https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353
+title:at least 62 killed and thousands displaced in gunmen attack in nigeria
+seen_urlhash:ac7f916612d3d00d24a93d76afc1acd3f7b2ed10083db19a572894c8a5980033
+seen_titlehash:2243f200c8f47008a9edc6686fadd43cf7e950ad37b51ee7c06e23305a1beb9d
+seen_reason:processed_not_published
+url:https://news.sky.com/story/south-africa-more-than-500-troops-sent-to-deal-with-anti-immigration-protests-in-kwazulu-natal-13604332
+title:hundreds of troops sent to deal with anti immigration protests
+seen_urlhash:26a0ce72c0e5421a16df39d8a876c63e4b2f9358ff5a9dbb27afa1695c79b1b3
+seen_titlehash:c751350adce8a2831b3fada139a34c22d717455968fa35fb53666dbe3dfb9967
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community
+title:ibrahim abu ahmad on israeli election crucial for arab citizens to have ally in jewish community
+seen_urlhash:303c335fa1f137fd6800cf6028de3e4bc31320a085f1c30ad329a963a6c877af
+seen_titlehash:599e32fba4302e47854238043b06133161688517175bd5e8941414227d3b0d18
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government
+title:how student assemblies brought down the serbian government
+seen_urlhash:a1b565e3331e2a5b242caaa3ef0e5e1dc6dbfb6ac950203beaef5f8f8d7be7ec
+seen_titlehash:dc78594745454b36c544e99d81f877ac7294ae444aba413365dfaade8ea5a492
+seen_reason:processed_not_published
+url:https://france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy
+title:israeli elections a referendum on netanyahu security and whether israel will remain a democracy
+seen_urlhash:c805373296c934f3811bcb95cb32cf28e1b05214378425a66a273ebf271d87c3
+seen_titlehash:47062de786e9e841dd93687a8c42b3db78b818c0185f957aefcc2b5788b67dae
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack
+title:live israeli election committee refuses netanyahu s request to extend voting hours
+seen_urlhash:2e0f371d6631688be99d3076e5a2094fe55322c8fd61825c8a59e0b2761691c2
+seen_titlehash:8fc6832158261e0f2c0be3b64f23594099fdf10ae0125c4a28d0a61de0928d04
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic
+title:rights groups say proposed french law to make rioters pay for damage is anti democratic
+seen_urlhash:41b37e03180b89418b43709c1c560caca44359f4822d1fd59033f174b4750869
+seen_titlehash:fd749501b1b726f287de160c6b7a5ba8bf0d6431eb576014bae2bbac991d9a82
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1
+title:france lawmakers hold a minute of silence for pengo bossio wangi victim of racist attack
+seen_urlhash:1059231d6c1ffc7a5c2002a9d218514b9eb953339f48568efdfc1197a30105e9
+seen_titlehash:00bfbeb25df89f168b66e626067ae43e2da5c2890de25f22f72dcd821bb3ac7b
+seen_reason:processed_not_published
+url:https://france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake
+title:israelis vote in a tense election what s at stake
+seen_urlhash:4c12f5620bdea7631086e84c7c9fa4f112284983cddf6675ccac3751c74c591f
+seen_titlehash:222ad3e7bd716635ee5ac39da6adf4aa8a271d47f6f290541a7ab68752cbe956
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time
+title:israel elections voter turnout reaches 55 by 4pm local time
+seen_urlhash:17a3aad65d087b16dea55dcdb74e8278a839edd8166e4874b00f5c95c25fc08a
+seen_titlehash:18eac3a5624d9168ed4a4d5f875ed393bea1e7efec7ec12ec0766a84e5d2010e
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown
+title:defeated brazilian candidate flavio bolsonaro flees to us despite cancelled passports
+seen_urlhash:f7939cb8b51627143cba01edec3328622fce15ba69044dbb71c28a9542d77c7e
+seen_titlehash:be785007263eb96eb6316cd9d9013d9f7743cd0a776a781871984e55eff6a9f2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261027-usa-could-a-democrat-win-a-statewide-election-in-texas
+title:usa could a democrat win a statewide election in texas
+seen_urlhash:a6f506af2fc66cf971d2213dbc80cb632e0929c73eda4ae5cb1564a307c2f802
+seen_titlehash:10f8305dd4cc90164fb77c485a07f7173ed349576582357ea2da950d54d9e057
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo
+title:africa s ebola outbreak tops 10 000 cases mainly in dr congo
+seen_urlhash:c805373296c934f3811bcb95cb32cf28e1b05214378425a66a273ebf271d87c3
+seen_titlehash:f32075f07cad94c8b973ff8e1692926c763f4f659bf782bd4048a355323ef5ee
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack
+title:live netanyahu s party asks to extend israeli election hours amid record turnout
+seen_urlhash:9c01455234556f6f880720352d36e4d132eb9a9389d52b00f41ee11c89b8c9e7
+seen_titlehash:62d240f60f076c36df11c23cac8eabfba870b84ada3d05027ad48d1315ad0f06
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close
+title:israel votes in decisive election what happens after polls close
+seen_urlhash:095c47cf683a0af1520a3a8e37f40089ab6d327e796e36e0d6ace8f41a392c4a
+seen_titlehash:5faf31a270ff5b5c5379e711d30b9f846d7f3554916656cfe0f0933f276c584c
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/arts24/20261027-canadian-dance-punk-legend-peaches-reaches-the-ripe-age-of-60
+title:canadian dance punk legend peaches reaches the ripe age of 60
+seen_urlhash:8cbb85dbec9843c87dee8ddb2d59529f8e8bc6e853cc058b87932906241fd459
+seen_titlehash:02e68dfc244f84f3b00336c39d93cd1b30594da5672687c29ea1d791d076f2a2
+seen_reason:processed_not_published
+url:https://france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu
+title:turnout high as israeli voters deliver verdict on netanyahu
+seen_urlhash:19fac9a776a413462f80162f1f06deeab0e2539c50c0ef77817aa7969bb86439
+seen_titlehash:1b3a796a100bee39b376c2e059ad73d671d3d0146d88d11270b9ddaa04c8dffa
+seen_reason:processed_not_published
+url:https://france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes
+title:israel netanyahu supporters gather as pm votes
+seen_urlhash:8e7dcecbd997890128757a255c4678ad173e28cbd6466aa5deab444b5b9e3041
+seen_titlehash:edae6d4a186aae54b1fb9b77dd60f07836e417cc088536ae0918ed8c057b776e
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues
+title:as china s communist party holds plenum xi s anti corruption drive continues
+seen_urlhash:11c32e6f488b92f3ca5060448bba7b3e060437e31ff8027f9de51d7f0d903a57
+seen_titlehash:f0f822357291e34838f066c97c0c5f38ff7794c14d567571c9a4d21a0c193862
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests
+title:france s senate takes on the rioters pay bill after protests
+seen_urlhash:ee987d29beb63ff2b10ac236b397523f4a2593ef2e61232b34f6bc82c3e08f32
+seen_titlehash:f7c57488c159e7a6360ce55c21f5043b2c472eb0bd4227fa0c6663e093b44f4a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/entre-nous/20261027-revisiting-the-delicate-art-of-french-patisserie
+title:revisiting the delicate art of french patisserie
+seen_urlhash:e29f72cc4dfb2caf9b388985a17c1d0c392366522e45179dc4ca5f284553611f
+seen_titlehash:30552bc257d2f2d3073a855557b981b61ddb0293d7160d6a6261d03057bd5930
+seen_reason:processed_not_published
+url:https://dw.com/ru/дроны-над-москвой-и-петербургом-как-там-меняется-жизнь/a-79766912?maca=rus-rss-ru-all-1126-rdf
+title:дроны над москвой и петербургом как там меняется жизнь
+seen_urlhash:42cb195d39aa59502d3272a9aa48736eef96247948e250d6356f7c6c63cad997
+seen_titlehash:eb3f892aa9185dad1e2b078e2b0c5591006244f2a68804951c1282cceae1db4c
+seen_reason:processed_not_published
+url:https://dw.com/ru/берлин-резко-осудил-признание-мснк-иноагентом-в-россии-назвав-это-частью-репрессий-против-гражданского-общества-и-потребовав-отмены-меры/a-79780931?maca=rus-rss-ru-all-1126-rdf
+title:берлин резко осудил признание мснк иноагентом в россии назвав это частью репрессий против гражданского общества и потребовав отмены меры
+seen_urlhash:97af2f9860e49d8760f52233c4556ec840d8463a9c3c2275a16d68e3fb3c0108
+seen_titlehash:7df8625a79a7af4e08e9bd71e35e61fcbd2f08f5f1f0c5bc98c6f9757801d315
+seen_reason:processed_not_published
+url:https://dw.com/ru/осужденная-по-делу-неонацистской-группы-nsu-беате-цшепе-сможет-выйти-на-свободу-не-ранее-2035-года/a-79780161?maca=rus-rss-ru-all-1126-rdf
+title:осужденная по делу неонацистской группы nsu беате цшепе сможет выйти на свободу не ранее 2035 года
+seen_urlhash:15a1ec64b5f272661819cee89837967c3e3936277f27284904425b58ac5bd996
+seen_titlehash:6e983a8236fa4d64ff6c3b36daa32daae3535bb55f6883e8c02c89e4b741d635
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-кризиса-в-сеуте-еврокомиссия-предложила-увеличить-корпус-frontex-до-30-тысяч-человек-и-расширить-его-полномочия-по-возврату-мигрантов/a-79780182?maca=rus-rss-ru-all-1126-rdf
+title:после кризиса в сеуте еврокомиссия предложила увеличить корпус frontex до 30 тысяч человек и расширить его полномочия по возврату мигрантов
+seen_urlhash:3fcd23dbe1d1be1c9043aa2a9ee1b6e045de7fc3836f7f4c043bf96fc8bbca1d
+seen_titlehash:cf5efa5eb561ae6d349d5fd70f07b48788ea2abadd88df967ef3ade8bf3bf29e
+seen_reason:processed_not_published
+url:https://dw.com/ru/протесты-зумеров-власти-германии-опасаются-беспорядков-как-во-франции/a-79779912?maca=rus-rss-ru-all-1126-rdf
+title:протесты зумеров власти германии опасаются беспорядков как во франции
+seen_urlhash:4ada933c9bf0c1792f2b06a2540fa4f4dbff3a1b1edf4bb3c75d29300206ce14
+seen_titlehash:fc700c2f7eb2a846840d4cdefd063a31c64d0562bf7d620b4feaa115af20a33e
+seen_reason:processed_not_published
+url:https://dw.com/ru/иордания-заявила-о-гибели-более-20-джихадистов-после-ударов-по-сирии-нанесенных-в-ответ-на-нападение-на-церковь/a-79778777?maca=rus-rss-ru-all-1126-rdf
+title:иордания заявила о гибели более 20 джихадистов после ударов по сирии нанесенных в ответ на нападение на церковь
+seen_urlhash:b1c26654ef9c6e99aca1eaab39137c0fb7e1eddbcfd664dbfdad6b77ada5b721
+seen_titlehash:502a90b22e373f629843e4c6a56448a972957d4c645d5811ad1399635d0b7fef
+seen_reason:processed_not_published
+url:https://dw.com/ru/подрыв-северных-потоков-ходатайство-защиты-о-прекращении-дела-отклонено/a-79778786?maca=rus-rss-ru-all-1126-rdf
+title:подрыв северных потоков ходатайство защиты о прекращении дела отклонено
+seen_urlhash:8f38f8068dbd1f1917cdcb483d8050a3346b20b6f1477e75cce176cba6f3fa2f
+seen_titlehash:61d52bb39d49d4cb67b5d53c0ca26d9c9a2ebed627875849d3669120d637663d
+seen_reason:processed_not_published
+url:https://dw.com/ru/партия-болсонару-признала-победу-лулы-в-бразилии-сам-политик-оспаривает-итоги-выборов-и-сдал-паспорт/a-79777413?maca=rus-rss-ru-all-1126-rdf
+title:партия болсонару признала победу лулы в бразилии сам политик оспаривает итоги выборов и сдал паспорт
+seen_urlhash:0645ab6b84ae3b48c74c6c0edf92c5c79483a7aa056fa590b42dbc6fbbaa8bc7
+seen_titlehash:84e95ec773f4621e85774da96731b068420c4d60c6ae70811e68b83f226815c8
+seen_reason:processed_not_published
+url:https://dw.com/ru/общественное-вещание-нидерландов-отказалось-от-участия-в-евровидении-2027-сославшись-на-раскол-в-обществе-из-за-израиля/a-79776492?maca=rus-rss-ru-all-1126-rdf
+title:общественное вещание нидерландов отказалось от участия в евровидении 2027 сославшись на раскол в обществе из за израиля
+seen_urlhash:3f43148d989123ee15963b0da4a94407f48ff383b7fcc27da94e83474ea45dfc
+seen_titlehash:58a87b0c7a33f0968cac0b75ebb3dae7bf4a4ae4f635881a39853e83f89bee7d
+seen_reason:processed_not_published
+url:https://dw.com/ru/после-внесения-издателя-в-реестр-иноагентов-mdz-приостановит-работу-как-самостоятельное-сми-минимум-до-конца-2027-года/a-79776730?maca=rus-rss-ru-all-1126-rdf
+title:после внесения издателя в реестр иноагентов mdz приостановит работу как самостоятельное сми минимум до конца 2027 года
+seen_urlhash:329f9ffebf1a147e2a660a914c4ac24703ad8f1c405057b67df7606de8ae3213
+seen_titlehash:111a5dd80af6867c8552d588b06411c2f37a995242fe0616cccf79392fa61f9d
+seen_reason:processed_not_published
+url:https://dw.com/ru/чм-по-футболу-среди-юношей-собрал-189-команд-но-германия-отказалась-участвовать-в-чем-причины/a-79776129?maca=rus-rss-ru-all-1126-rdf
+title:чм по футболу среди юношей собрал 189 команд но германия отказалась участвовать в чем причины
+seen_urlhash:0e54f66f5b19d40b7b15f8b07c39fe71a554176116cef55888829b108531e1da
+seen_titlehash:bc2dcf1d1968eee18e13a424c4c5fb67ed718c75ded03396307a0df647164001
+seen_reason:processed_not_published
+url:https://dw.com/ru/арахамия-режим-тишины-в-оккупированных-рф-алешках-продлится-до-вечера-1-ноября/a-79776799?maca=rus-rss-ru-all-1126-rdf
+title:арахамия режим тишины в оккупированных рф алешках продлится до вечера 1 ноября
+seen_urlhash:3db88aa6654fba28270a93e95fea0087dfcbb8a60d66c7f358cdb5ae4c37d5fd
+seen_titlehash:bf2c55bdd5e5ad38f68920835096ade4c22683186ee41961b88dd2ec7d9f0899
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden
+title:звонок путину противопоставил финляндию и норвегию дании и швеции
+seen_urlhash:ca598ed42fca941353e260d6e9a64ad1a28eb13ddb468e5313a1592df167c41b
+seen_titlehash:955d3158f759705a84e53884136cc5793c0508d28d207814bc98777359c77cdf
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/bolsonaru
+title:бразильская полиция расследует возможный побег флавио болсонару в сша через аргентину
+seen_urlhash:0f77814060154f9f47cc26805bf54c3e77f4bfe7f0612587d4433bac582ea30d
+seen_titlehash:72ca638a0f2b65a4eae3a70ff52897c7c3c726f34762fdbc67ceea12c02ad192
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-the-last-six-month
+title:норвегия заявляет число успешных кибератак утроилось за полгода
+seen_urlhash:6c65d48944ebebadb5bdfcf65b49c3536ca10dd0c0e80dad1bbf27079dac1768
+seen_titlehash:9b1c1cc28da779dcbf674750f73b4f9171327f139fbcb4951b0a945abc99a831
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/nedopustimoe-narushenie-siriya-osuzhdaet-udary-iordanii
+title:недопустимое нарушение сирия осуждает удары иордании
+seen_urlhash:99571cacd5e2e53bd9cde04e71aa1d26c8178d9d04578a68a179cf0e1ed2064a
+seen_titlehash:72dab52e6f74c4e1ad6e797e4eab714bb4bdad02c10a3fb79f895a0709dda6eb
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/27/south-africa-athlete-crosses-600-monkey-bars-beneath-a-216-metre-bridge
+title:юар спортсмен преодолевает 600 турников под мостом высотой 216 м
+seen_urlhash:3dafa8528e09fbd2bbaa635c80bdbba133276ec127bbcb2b778d49c79e86812a
+seen_titlehash:a519d2f109ad7bfa3365e046c62f4e9dd760f53e85a6d6eb9b166e65484405ad
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/european-disease-control-centre-sends-experts-to-nigeria-as-ebola-cases-surpass-10000-in-c
+title:ecdc направляет экспертов в нигерию в конго более 10 000 случаев эболы
+seen_urlhash:6200ebcb86e3fe548987cfc3ed5305c87df235c9e412da0b16b8013cb9d96eec
+seen_titlehash:691c7ac1e49eec4d2b9dd100c8d8e2a497ba7109eea3b21fb99b538869af4b81
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/profiteering-from-pain-investments-of-the-super-rich-fuel-climate-crisis-and-capitalise-on
+title:нажива на боли инвестиции сверхбогатых усиливают климатический кризис и наживаются на восстановлении
+seen_urlhash:41d1e25da3f7013a8757a54e62b378bff4a7504d0e07e2078ff82b123925abfa
+seen_titlehash:f3a8aa15be8b23c63434fcff0031322a238606a7bdfc0f5837efa18c5c3f4f28
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/27/myanmar-spectacular-lantern-festival-illuminates-ancient-temples-in-bagan
+title:мьянма зрелищный фестиваль фонарей озарил древние храмы багана
+seen_urlhash:c3f7f26294bd8ef0ac46bd63872a53c1e117f9b3f8f798b1710d7439bc013de6
+seen_titlehash:711719c284c9fd71946e085bf9e5c764994a67bde3f1c2a823cacf72791e60aa
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/15-days-ceuta-declassification-es-team
+title:национальный суд испании дал властям 15 дней на рассекречивание отчетов о событиях сеуте
+seen_urlhash:29b97b94863c5af6d57be3555fe97378cec66c1cb79ec914448526e7f22869fc
+seen_titlehash:da189a215963a1d4ae94e349656121c80007448b037b7cfd802c096fab59681f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/ot-ugroz-v-chatah-do-obyskov-kak-idet-rassledovanie-milanskih-besporyadkov
+title:от угроз в чатах до обысков как идет расследование миланских беспорядков
+seen_urlhash:9fa9674add750da2af68d82e70fed38f34eb799cee22071ef0fe8d436a794c6f
+seen_titlehash:32a721dbd69c352ce63fe5d03976444b4eb8270fffc0c14f597f5f3c11188335
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai
+title:битва за контент европейские издатели через суд блокируют новые правила meta
+seen_urlhash:d5f647fa249bf0594288d551b680e531d2411e895820cb21147a9750d3fed76e
+seen_titlehash:c5305ca16d2805e9a8eff5bc92126f207aa119e4960a207c06d3ddcf200412a2
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/mosquito-toilets-how-scientists-are-using-mosquito-poo-to-detect-viruses
+title:туалеты для комаров учёные используют их экскременты для выявления вирусов
+seen_urlhash:a586dacd937bf2d4f9c99b903eb53470e99bfba2ed35861ddb6dd4a299cac6e7
+seen_titlehash:a31f96ab28224b0c2f61fcf2f11a7eb76788bea166977f62aaf046e4aa8e6884
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/neil-young-sues-donald-trumps-political-committee-for-copyright-infringement-once-again
+title:нил янг снова подал в суд на политкомитет трампа за нарушение авторских прав
+seen_urlhash:72b60a2386812ff3979bd82c768b8ae302ff9526aeaae5c7a7950ee49017ee2c
+seen_titlehash:a2ce797bfb059f6029bbfcaa941a4fec3110b29e03cbff05cfcb3575a21a5642
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/what-to-expect-from-the-fed-as-warsh-weighs-hot-inflation-oil-and-us-midterms
+title:чего ждать от фрс уорш взвешивает высокую инфляцию нефть и выборы в сша
+seen_urlhash:8c58732c0eb181364915da4f6f71d3b4e9c1c368baa76a81f1bd3a060c38708b
+seen_titlehash:c89f806996563fbf20657f07fa6bdaf1fe51888da0ffc36045d11427fe59dc5a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/australia-warns-of-unprecedented-ai-powered-cyberattacks-heres-whats-driving-them
+title:австралия предупреждает о беспрецедентных кибератаках с ии
+seen_urlhash:a4c4b53535fbd30600c49b1839d3fba6ea339d8cefecbac7bc50120649fffb4f
+seen_titlehash:4b475a40c166e760a4d3a39338027dd16f5a86eed406eb13b5e1f6737e97738b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/eurovision-in-crisis-netherlands-make-u-turn-and-pull-out-of-eurovision-2027
+title:нидерланды передумали ехать на евровидение в 2027 году
+seen_urlhash:8ca9860ef5b84fbd2fa91947046c19686816829d2cb19f393ee013ba22a935c2
+seen_titlehash:f437dc292ad8356a22aaba87f296a9db76e5c14ede8ef388aece02dcf419f042
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/27/itw-euto-1-mekelberg
+title:израиль и после выборов нетаньяху может месяцами оставаться у власти считает аналитик
+seen_urlhash:ddca0ce1354a0c4a19af5de30e0e6046830361246d03b14b38a36946521bcc57
+seen_titlehash:d01aaf111e562925b017c16768c5a1a93b7626121efc97c95177d7d98e899fc2
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/27/flaviu-bolsonaru-proigravshiy-vybory-prezidenta-brazilii-bezhal-iz-strany
+title:флавиу болсонару проигравший выборы президента бразилии бежал из страны
+seen_urlhash:fee3f970eb676f6ea89226bd6c11ed502cdd5a36e204a1a8d594d1b42761e32b
+seen_titlehash:f87f9276e708c1ffeb6cffeaa9be9acf767a47e57e6e4693c75c2abf401b5337
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/27/gumanizm-teper-tozhe-zapretnoe-slovo-milliarder-dmitriy-alekseev-vstupilsya-za-arestovannogo-politologa-aleksandra-kyneva
+title:гуманизм теперь тоже запретное слово миллиардер дмитрий алексеев вступился за арестованного политолога александра кынева
+seen_urlhash:4013c509d95157041ffb162c0ef92f46df8982955ecb742a7289c148320ef277
+seen_titlehash:ffdc1953d05ce42aece6eab6957926ec2e1c6f252c796545dc9ebf182560c937
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/27/rossiya-i-ukraina-ostanovili-ogon-v-aleshkah-radi-evakuatsii-zhiteley
+title:россия и украина остановили огонь в алешках ради эвакуации жителей это украинский город который оккупировала россия там гуманитарная катастрофа
+seen_urlhash:4a4c90caaeb890f376b56c2d9195cfc05a2c77b8fb898da7c847d65debdec0b5
+seen_titlehash:779fa492c4a9a7c60848822b5a5986d1c41fda55a8da443ac33ba9912c5ec3d1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/27/ilon-mask-ob-yasnil-pochemu-dlya-vsu-ogranichili-svyaz-starlink-potomu-chto-rossiya-mozhet-nachat-sbivat-sputniki
+title:илон маск объяснил почему для всу ограничили связь starlink потому что россия может начать сбивать спутники
+seen_urlhash:c7f7a61acf48c2915515bb7f79f5eaaa0fb537124cb5c3e6986899c751a54cc8
+seen_titlehash:42bb9fc3845e816fa08eaf4a629a576663adf90f35b319fe84903c091eb8dc7d
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/27/pletenyy-muzh-redkiy-primer-netrivialnoy-kinoskazki-s-oliviey-kolman-i-aleksandrom-skarsgardom
+title:плетеный муж редкий пример нетривиальной киносказки с оливией колман и александром скарсгардом одинокая женщина выпрашивает у корзинщика супруга из лозы а тот оказывается идеальным
+seen_urlhash:d88e6d718535aaa4971421fd2af8320bd3cc2cb86b9620fc8657a5daf04306fd
+seen_titlehash:a1b34c5818f9c0034f470b337e5eb04789e5077da08841925914b1e3a6686aa3
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/27/apple-predstavila-novyy-14-dyuymovyy-macbook-pro-s-moschnym-protsessorom-m6
+title:apple представила новый 14 дюймовый macbook pro с мощным процессором m6 он работает без подзарядки до 24 часов и стоит от двух тысяч долларов
+seen_urlhash:f44666986adb81a39219b5b165766a0f129eee25cc78de6f7690cc0d314e3238
+seen_titlehash:5c78e65187ceb1ca0a1d0de242f1f8ab4796a1e0c89906f5c701fe1c7fbdc1f3
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/27/v-2gis-v-otzyvah-na-punkt-otbora-na-voennuyu-sluzhbu-v-omske-poyavilis-zhaloby-chto-mestnyh-zhiteley-zabirayut-s-ulits-i-otpravlyayut-na-voynu
+title:в 2гис в отзывах на пункт отбора на военную службу в омске появились жалобы что местных жителей забирают с улиц и отправляют на войну
+seen_urlhash:05b4eaca0a17f4b4da037cea5898acb6b81e7ac3c7d78e7d5773a24298876cc2
+seen_titlehash:a399ab485a1b6fdbd63508a011900f993957cbaec71260b6c86caf54b56c3453
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/27/esche-odni-sudbonosnye-vybory-golosuet-izrail-skoree-vsego-pobedit-oppozitsiya-no-eto-ne-znachit-chto-netaniyagu-uydet
+title:еще одни судьбоносные выборы голосует израиль скорее всего победит оппозиция но это не значит что нетаниягу уйдет что нужно знать тем кто следит издалека и почему все самое важное произойдет после этих выборов
+seen_urlhash:c026ac4c3b139362eb0c0efb87dc0b0c2331588213854a5409c26f2b8e349487
+seen_titlehash:d7caaa781e180fbe7ccdb3a7ff4c1fa641f1ade898f8350b49496e69aade2208
+seen_reason:processed_not_published
+url:https://ft.com/content/92780ba3-5201-4002-abca-3ee1a053eb30?syn-25a6b1a6=1
+title:uk government quietly axes more than two dozen new road schemes
+seen_urlhash:0fa4ef680e693613924b96a1dd165e2ceccb4790148ec4fac36b0101e1c4cb22
+seen_titlehash:0a4939bb7c8661e0c0f6814a262d2089d1311582dd871716823a8f48982ab65e
+seen_reason:processed_not_published
+url:https://ft.com/content/f116a855-61cc-4e36-9f9b-c2ff168b6605?syn-25a6b1a6=1
+title:britain is trying to cut its deficit quickly can it do it solely through tax rises
+seen_urlhash:ef9da1430b3b76718a8ac2480d291f92ee14c4a2801e25b3aba542b301c6f2ee
+seen_titlehash:4d2fc966a63ad0d36d126f53e0b6b12c9e34ebcf04a9c1c37e44c5cfa0315a79
+seen_reason:processed_not_published
+url:https://ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f?syn-25a6b1a6=1
+title:boeing shares slump as planemaker cuts 737 jet delivery target
+seen_urlhash:b9061b8a6a243d9ef5349edf4b586d1178716df89c21ef56179e519285a22f0f
+seen_titlehash:605a42ab1d99a78a52bcaac477fd0ff3f683c9477b7a2378f3712358bbdef63e
+seen_reason:processed_not_published
+url:https://ft.com/content/49bb03a5-e9f5-45bf-8c2c-b02d3fcfa712?syn-25a6b1a6=1
+title:australia s drive to transform economy with data centres aerospace and meat pies
+seen_urlhash:98c879cd0f65629648c220c7508534e70428c113b881801440ceb30273f532f7
+seen_titlehash:dd716026215e25e4dbe0efa61d4d8b3baecdf59387af99ccf61b64f2e0663223
+seen_reason:processed_not_published
+url:https://ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1
+title:apple hit by crackgate outcry over iphone duo screen problems
+seen_urlhash:952d6dd428652b8b4312d38be4fcb02fcbca7fa3d1b3449dad96d2d9b6f0ea34
+seen_titlehash:78808389b5ffe0ecbb476b489c10297b2f3bd348f6db174820bbe58f872647a8
+seen_reason:processed_not_published
+url:https://ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1
+title:flávio bolsonaro s passport cancelled as reports say he has fled brazil
+seen_urlhash:df2be5a611cd0acd79fc82818514125098bbd0ae8ffa5990303837706670b547
+seen_titlehash:9bf3f42d710d4fff33c3d4f80bb280340847a025d2f51608fd26645ec11b9a55
+seen_reason:processed_not_published
+url:https://ft.com/content/fdc70b65-af31-4697-91b3-69c6f1a1db9e?syn-25a6b1a6=1
+title:nord stream sabotage suspect under direct command of ukrainian army
+seen_urlhash:aeffc2458ea58632c5679643814a85a220f6cf2b1cc6c32d371ef11e3b6bb74f
+seen_titlehash:885fa6ed3b091d1f4290742d2702f0b20c72063a5343f1e07a1fc36355edc3d9
+seen_reason:processed_not_published
+url:https://ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1
+title:the limits of hedging the ai boom
+seen_urlhash:2136ed3a00780f6074fcda17d4c35c739e42c52716dc8d81e7903aa7595673c0
+seen_titlehash:f63211949d159d2e079b908a6c938d54737605499429dde8f0dc2cbcf0913e1e
+seen_reason:processed_not_published
+url:https://ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4?syn-25a6b1a6=1
+title:anthropic meta and the k shaped company
+seen_urlhash:d50cbf3c3a444fa6631b7eda99783cf5d90c591ad83bbeffb832ad7a63f95cab
+seen_titlehash:902bca65b14a4dd8c7cd06b7883893ad9ddd82db5b2e6436fbf5948a9bcd05b0
+seen_reason:processed_not_published
+url:https://ft.com/content/44ff901d-8087-4a2a-989d-7bfe05ae7d9e?syn-25a6b1a6=1
+title:there is more oxford street can do to get tills ringing
+seen_urlhash:8eebc1daf8252f63a97d8fbfdefd69a8f8cd944901cafefb25d6345905779f76
+seen_titlehash:c4b55cda668d0c229749eea5d7a290463eb40351a954648660be0a6bd3ae5165
+seen_reason:processed_not_published
+url:https://ft.com/content/8aba217f-064f-4193-89fc-3565bd2ee910?syn-25a6b1a6=1
+title:eu pressures allies over looming ukraine funding crunch
+seen_urlhash:fa4b490aa04361558dec611ed7ac3774a5aed901d3df573724d1d942d1cdc06f
+seen_titlehash:80eaddc9b462d8e8e2ef63c4c65c7b5b169e88c787556ad960b673e8566e1758
+seen_reason:processed_not_published
+url:https://ft.com/content/171ffdaa-e3e7-41b9-a4c6-09c9ace3f719?syn-25a6b1a6=1
+title:iran threatens south korean shipping group over hormuz transits
+seen_urlhash:b854ff07234891ab19a22b6e6fa2889f863b00622250d781df11c3bc942261de
+seen_titlehash:456870a0eebabb951ae122afc7b3a4b38a31d4be7e42006977d4ded6ba527af9
+seen_reason:processed_not_published
+url:https://ft.com/content/9ee42ad6-7d26-4688-b1f7-ffc75c613707?syn-25a6b1a6=1
+title:egypt shuts down one of the country s last independent news outlets
+seen_urlhash:86cb62226757e3d049d64da687b0644fae24d61a1201dfe6bc305a99c7584b29
+seen_titlehash:abea67e3ffd757c177ae380bf589f564d85f79c53822baf0d7a368e10e6b1483
+seen_reason:processed_not_published
+url:https://ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1
+title:gm to switch listing from nyse to nasdaq as it accelerates ai push
+seen_urlhash:cf0c6aaefdddef91ca9f856d9c77a1f6d8c73063fbf3ab920b79eb684e2b6823
+seen_titlehash:5a83d0930be9a79d7e5a40c3fb6c972d497de13d0d8027326796ab87ef3452b4
+seen_reason:processed_not_published
+url:https://ft.com/content/0025f8af-d34a-4170-bbae-31dce32e45c6?syn-25a6b1a6=1
+title:pop mart sales fall up to 50 as labubu fever ebbs
