@@ -170468,3 +170468,183 @@ seen_titlehash:29945aae612cb4c524e20e21e53bb5a27d579c98b6914fc97385011c29f25a09
 seen_reason:processed_not_published
 url:https://ft.com/content/b04b46d0-8d02-4169-8159-04972931b747?syn-25a6b1a6=1
 title:the five policy splits emerging in andy burnham s cabinet
+seen_urlhash:60428a95ea500d4dc66b119af100152d25fadb8aed7efcfdb97ec45a291a6665
+seen_titlehash:a86229228bead03146cc3f5ed017c88c33a46585cbc37bdafa3192898d7cc394
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html
+title:brazil supreme court orders flávio bolsonaro to hand over passports in money laundering inquiry
+seen_urlhash:98a7fa268a7384da3d01c20087fc66b1c819c1cc0f12385ff3b6677194124b3d
+seen_titlehash:f06b87a60349ad6fb6e9e1b8bacee82e266961ae8d279e191cd20156bb91e593
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html
+title:machado s return to venezuela tests limits of u s sway
+seen_urlhash:dd96b07cdb6d709d841c3dd5acfa7ddcc046ba2dacb926f3f1a388edfdb60757
+seen_titlehash:3f63a75720d9312f4b3d01c61fe1c4ce8e0263d609a6a47e1a6a8a63295b3e68
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/26/world/europe/france-student-protests.html
+title:france makes concessions to students but not enough to halt protests
+seen_urlhash:0898203de3077ef30e2d1705578c72e404fbf94d42e43120b0aad6502061cd87
+seen_titlehash:d2b01978b258bf6ef907fa6fa5f614d1fb46cdd4cad131570e260583a563a1cb
+seen_reason:processed_not_published
+url:https://theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro
+title:reader q a after lula s sensational victory in brazil s presidential election post your questions for the guardian s latin america correspondent
+seen_urlhash:85a12e74f354eba5256e2fca2b6e4bbcdd13adae3020351cf081db436c9d39d4
+seen_titlehash:5f7674b8d7cc3444f32dc5e6c37d324411d0aeb2e38fbee5e6a962bbf2f55da3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss
+title:bolsonaro s party accepts brazil election after trump calls vote rigged
+seen_urlhash:20f0dc936d67dab34c9ff14bd6e5b4671e2a9402945a31601899796a73fd09e5
+seen_titlehash:0486ddabbf9b0b63ea81f8be454de6909f1ac56a1cafa59269c5b15795cc7c43
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss
+title:harry kane wins ballon d or ending england s 25 year wait
+seen_urlhash:88c57cb8c2cd152357f506f5e08cfba35ae4e73052d278773df79b237cd9466b
+seen_titlehash:536a1caf82b7c1b94c76dfbbdcb27d326c057b5cef681dee45dc58ade0b2d83f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss
+title:serbia s students celebrate for a second night after election victory
+seen_urlhash:ce838a4c94016abda34da455e4a773e78b5f5a4d10f7fff84ae2fbaa75803c86
+seen_titlehash:aa1a64f98a78d9fa9a9cb4c07a4422294ecf432407611a06ae3059120bca50a3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss
+title:us court rules against trump administration in california voting case
+seen_urlhash:fb6b8cad6c72dcc711870674f018b322a60319cfc7754bb1ae77d39a935ca3c6
+seen_titlehash:f89858315523623b3b593dcaea7bbc61abc2502017061148edfb0e862bd53ac8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss
+title:romania says russia run sabotage network set fire near weapons factory
+seen_urlhash:f2bca58acceaf77ac41e8eb1994e161378af258bf72672a66a6948e725f7e9c8
+seen_titlehash:346098e911de1e304cf3a456cb2737dfd8a9b615279c0c25fba12a0d335b9e2b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss
+title:iran war live iran says us not serious about talks ship ablaze off iraq
+seen_urlhash:cbf1a6ba1010f961d619209cbc4dc1c6714747a7b175042d5cd025fab617526c
+seen_titlehash:f8eb41c505b433eb2c452277b7d8e94bdf8fb0d0c758f553e6c26aa5d38b87df
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss
+title:bolsonaro says police demand passports after brazil election defeat
+seen_urlhash:d1d6c98af01e88ca2aebb1f9888e9ea32f46a21e910ceac35e2d11d01d8b7b7c
+seen_titlehash:0f94c4257b83a22f1d950e406cb3f2e74b409178e9f538e2d41d70a7b791541b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss
+title:jordan strikes syria after church attack killing at least seven people
+seen_urlhash:14fd444900bcdfd33dd3c0110f571a033e2acfd7074da1b878aae9a555cbaf26
+seen_titlehash:99565d33939faa43f972c8bc31713269f319a8645b992eeca38fbf6b5c069162
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss
+title:jordan attacks syria in response to karak church attack
+seen_urlhash:c6056293e74b5fd73501d3d8e2485a6f4c2d3717202d4bdd90e2d0c7231e7e5b
+seen_titlehash:35a4455daf5a42c5a32843af0a0431ca06cebf71db6b588b59cb7491c05b5bca
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss
+title:england s harry kane wins ballon d or alexia putellas takes women s award
+seen_urlhash:67ea2026054d0d6cd00318de0c1df5eaeb753154f3edfda062662c3f81d7d47c
+seen_titlehash:f77ff450d195ed89cd460cda612f036ea13258419127620ee69338c683efcf3a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss
+title:mass brawl between galatasaray and fenerbahce after istanbul derby
+seen_urlhash:b280771f5e099458907c6fae2ba35c17c76ba03a13b58a68c3d8afa50a2eb8ba
+seen_titlehash:03bfdbc8638ffb2988977042213a1bb17b461f6c442c9022620b09f42064fde3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss
+title:former fbi director james comey hit with third set of charges under trump
+seen_urlhash:9102495c4008545de6bf4fc16dd7c85436d7bbbebe9759c37f760d5652c72e87
+seen_titlehash:25b493ae600ce6b923c06c61db355f6918983b9141d44c8022ce0f25737091f1
+seen_reason:processed_not_published
+url:https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077
+title:harry kane ends england s 25 year wait to win men s ballon d or
+seen_urlhash:0f8dc3786f8f5857181c12e3e44156d137aab0024ecfb4801748207589b996d4
+seen_titlehash:1d6a3fd35c19648734201031b9fd62c71499cc2a793b83477dee43386d7a0d15
+seen_reason:processed_not_published
+url:https://news.sky.com/story/un-report-claims-israel-genocide-in-gaza-has-continued-after-ceasefire-13604179
+title:israel genocide has continued in gaza after ceasefire un report claims
+seen_urlhash:94406c0101188948cc2c474f40a4091270825a196a887713adf502f5430756f5
+seen_titlehash:ea97162bb56c1bf7e676cf6b892cb86b2d133cadc5c1707d8957191b007128dc
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban
+title:flavio bolsonaro vows to lead opposition after brazil court imposes travel ban
+seen_urlhash:788cbb9ddfd2e4030c30468cfeba73ffe1c169970d06d6681a6966ba0aceb2e6
+seen_titlehash:97fdaae7f3938b7ff81e5208f0e7cacfa8bd85593003127443e8bd6c2a346491
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance
+title:europe s top nato powers pledge greater defence role reaffirm us alliance
+seen_urlhash:3ca3cf5902e522c342df7a3763ebef7de61ccdfd2f29b5208e2a877223efa591
+seen_titlehash:11cafa43387aa0b2adca7e44ea4bc90e9377272cc97a3a006b527258d044abc4
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war
+title:mecca pact nations hold talks with iran to prevent renewed middle east war
+seen_urlhash:7415b0e162f49b31fdc3bc05541767494e30105bc1b9cbbfb2c69bb5e86e15ef
+seen_titlehash:9cfc31997306ee0977a1a9f02f1e69806699cd802e48b6c3b5dbdff3834f056a
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos
+title:protests in europe fact checking viral videos amid claims of chaos
+seen_urlhash:a1527827becd84b3499cbeb2aab2f8c17e53b889023d06f49861ea11333a416c
+seen_titlehash:3299fa0c83846b1f79ca3a2761b91cf8f6aeec9fb0e7b3201051c3ab611694b3
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses
+title:anthropic s ipo filing shows soaring sales and steep losses
+seen_urlhash:ffb61b64682eb214aa9198f767c1f6afbc8cbddb49e3ceafb0821755c4d9cd36
+seen_titlehash:80ec68834fbd7810eeaeb1ca352b8587fccb5caced34a1b75611586d58aa00d0
+seen_reason:processed_not_published
+url:https://dw.com/ru/обладателем-золотого-мяча-и-лучшим-форвардом-2026-года-стал-англичанин-гарри-кейн-выступающий-за-мюнхенскую-баварию/a-79771255?maca=rus-rss-ru-all-1126-rdf
+title:обладателем золотого мяча и лучшим форвардом 2026 года стал англичанин гарри кейн выступающий за мюнхенскую баварию
+seen_urlhash:cbd981fea73f50a33c54cd5f7a03d2c42b4d065aa742683653f0161c16a9bc3f
+seen_titlehash:3d65adeb163e9cb601122767400df9808e11179d9844c1c5a326a06a1b2e4e64
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-румынии-раскрыли-сеть-российских-диверсантов-пытавшихся-поджечь-оружейный-завод-в-брашове/a-79771076?maca=rus-rss-ru-all-1126-rdf
+title:в румынии раскрыли сеть российских диверсантов пытавшихся поджечь оружейный завод в брашове
+seen_urlhash:f34c3ebb35028d62a06053e056ef00e9fbbd3ae2dc89f8ff5c23526dc8934c53
+seen_titlehash:14fdba945e3cb2d7b5d62e2d942eb6df731c3c5d45f4a03d87945bbbf2844073
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest
+title:франция митинг против расизма заполняет старый порт марселя
+seen_urlhash:d08128df1c0ccce183d4e952379f18bb90e684603e3c3dad51ad9ea8ba78f9cd
+seen_titlehash:b719c3b0fc73a640d5e142bc0f9528a777d0c80ed3afc1a2bceb919775a6a1c5
+seen_reason:processed_not_published
+url:https://ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1
+title:bolsonaro s liberal party accepts defeat in brazil as trump calls result rigged
+seen_urlhash:78f9258f451c57b48129ae1989d8fd796c94bef0ac1b9a010f3cf33c5fefe966
+seen_titlehash:777d1ad17333beb8e88f0a44b97de4492d83da655910c749d7457b990a879917
+seen_reason:processed_not_published
+url:https://ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1
+title:channel 4 strikes streaming deal with disney
+seen_urlhash:bc698a8cae2a48031f289b9f90526b0af120f6849eca5fb523106b9569ad6dfc
+seen_titlehash:d0f99f417410028e5d70ca08831393f666e74e2d33bb662eb879e5c3c6392379
+seen_reason:processed_not_published
+url:https://ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1
+title:england captain harry kane wins ballon d or
+seen_urlhash:210f391792604633a7cf87c9f1cb21763a6c52192db87a58ff1dc21af64f2b6a
+seen_titlehash:3d622a8a63cdf52fbf044b78f042861c60f7cc78490ad497bf2a94a7659803af
+seen_reason:processed_not_published
+url:https://ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1
+title:healey poised to increase adult minimum wage in uk budget
+seen_urlhash:91cd3f47b81e60acd59842611b82c05b9921a66ac1b4b2bad5cba9dd14c4851b
+seen_titlehash:0929e94723a69bb9f05655ba0f3629ef07acd4367e0547b8a2c10d01cd0bb922
+seen_reason:processed_not_published
+url:https://ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1
+title:us charges ex fbi chief james comey for third time
+seen_urlhash:fa978fec7573847e93c4ce6f2dee48b8ccf3a1730fed2c5785ca08c5bd6847ec
+seen_titlehash:870cb6d2522297afd666dafdf64f55bead2d574f5723025d49ba65e40d3735f3
+seen_reason:processed_not_published
+url:https://ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1
+title:eu loan to airbus threatens trade truce with us trump trade official warns
+seen_urlhash:bb27e8198925bfd2d18935ccd49e5f40b30734709a9a306ae50c97021aa71450
+seen_titlehash:c5f1aa18cdbfd32e83fecc236f7f10279691a35d60bf26e4c8baab18c3640372
+seen_reason:processed_not_published
+url:https://ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1
+title:healey focuses budget on everyday fixes as energy costs bite
+seen_urlhash:519619296e3715d08eccd28e0d574171d6d2a350078c64febbd95bbe30306636
+seen_titlehash:b0ff7b9f8e76bd607fca58a11a4bf871f8f048d306d813ab2d13bd5d63828271
+seen_reason:processed_not_published
+url:https://ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154
+title:uk needs more powers to intervene when telecoms providers fail minister says
+seen_urlhash:4a8c8235a94cdc79d4b34b391a2210ebad9a77959e22f79c585dde3a14b9c9d7
+seen_titlehash:dbd6894b91730617eeb31eea04daeb9450727c7f22236b401f063aca62b1a7b2
+seen_reason:processed_not_published
+url:https://ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1
+title:trump offers 1mn reward for tips leading to election fraud conviction
+seen_urlhash:6182dbb034c7461d1431d3c1282036681756338c3043b1a570d3fac1db25fadd
+seen_titlehash:46005268c7e7b312e7eab55720ea146d33f1046d01ac6da0c5d64b885e0656fa
+seen_reason:processed_not_published
+url:https://ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1
+title:firstft anthropic unveils long awaited ipo prospectus
