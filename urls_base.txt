@@ -173808,3 +173808,418 @@ seen_titlehash:7a052144870a2ee0913f9d3e8798c43ef18481580df9d12d06ad0db134b08e95
 seen_reason:processed_not_published
 url:https://ft.com/content/8c40598a-a946-4901-a59c-c513689a5351
 title:the great american investment boom
+seen_urlhash:6ecf03050cf9a476f1224652df8095a26bc9531ac666c7ba1766a55fd35d9635
+seen_titlehash:d759ebd3ef2341268840f2363ec356b651160962a002616d3cc3571a6b909423
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss
+title:flávio bolsonaro lands in miami after defeat in brazil s presidential election
+seen_urlhash:90b6c7a8e0ae1731f7ebaf9d0b7e70e1d7afc910810e5297190547d769c05836
+seen_titlehash:709b207547eb738defdc1e856dc9b39d24cb8b6eaf8cea857a453c1f3c033575
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss
+title:netanyahu s bloc leading israel election but short of majority partial results show
+seen_urlhash:ee29e80eb9c2db2682b6449155fa97d529157bc975465068578e48bc07920475
+seen_titlehash:aafc80233bc0badbc2615601661c60d9afb908794ccd684dd98d9a74963a6db9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss
+title:how did flávio bolsonaro end up in miami
+seen_urlhash:48a2d1fda80eb0dc8ee9f4d14fcee7c56bd793cc0297fedc114aa230478f92cf
+seen_titlehash:1d420da153403d1e6afcbbe2c0f59745c5685c5c9bf6ae3eb81e5de6d0f609ba
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss
+title:myanmar diplomat breaks down as he urges world to end our suffering
+seen_urlhash:57702cc4e23d34a9a8fef6b45379f76a900725a9ffee92d93d816054433a49fb
+seen_titlehash:b0d4557e83277e56d231218fff5e54c9b8a6467c38981bb30cbc149d7f59e2b6
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html
+title:nigeria s ebola patient evacuated as investigators press for answers
+seen_urlhash:f501d6f3e8f7d244e2959891f802563de1006c3c0caca4d19c06bbf7dae00389
+seen_titlehash:563bfc73f76ebb8c8daf7e7a6715cbf499bc1730cf0a2e8cf7bc9305325cae57
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/world/israel-election-results-spain-train.html
+title:what to make of israel s ambiguous election
+seen_urlhash:f70adead6a6fc648c296ebfff797cdfb07d3430e938ef40af9a7f13760ce5d9f
+seen_titlehash:70cb0833c730389fb4e5afe7334824239046272302773016d546b03b5834ccb2
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html
+title:how andré janones helped turbocharge lula s comeback in brazil s election
+seen_urlhash:0cc77812da583c507cdb009a762a65f2cb7a0faa69a7338960e28b6316bbe840
+seen_titlehash:597aca0eb17d3f0d6cd5b7c990be54c1afda36f6f5b2b931497b8ce29250b698
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html
+title:israel s parties gird for wrangling to form a government with no clear path
+seen_urlhash:34278b62b9f7ab111fc1483ac5da982b8255f517d12c4b6fd2d40e031ee08b91
+seen_titlehash:6d0e5e02de14dea857e0b7211006e85f4ef05eecdbb1dd8c53bd7f3d16853e42
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html
+title:spain train crash kills at least 68
+seen_urlhash:156c0f8135c55f8586e8bf09a6d0fe3d2b937ba9678047bd01c4812cc1e97477
+seen_titlehash:edcb4900057a18b122e588abaa2a4b171ff2439aaae41dc2ebf4697a63a77bb3
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html
+title:an endless cruise around the world is suspended leaving passengers stranded
+seen_urlhash:d87ae081e4e354e40a15b6a01a8fde7287b0a9a8ab908c1565d51eac4e460d15
+seen_titlehash:2687ae60a524ff5df3a47cdc6919735b9e49309585218f032d1e2a6f39eeaa60
+seen_reason:processed_not_published
+url:https://nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament
+title:israel s opposition may not be able to form a government but it still could control parliament
+seen_urlhash:79e8bd94df254d9334e0a76d29bd7842400899763c20cb700390c90e07412624
+seen_titlehash:58b9937be2fdb1b9df52ad7c663e64057d304c9abbe513bdf63a72ddab70e5d9
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/28/european-union-canada
+title:eu backs away from offer to canada to start associate member talks
+seen_urlhash:11696a7a4c18846f0fe3c74c4e3fa9efff17c32062168ffca810597aa25f58c3
+seen_titlehash:85f76f694952cbc46775ddacf9a8dc3222e60cc42b193dd4154f97c26ad738b4
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms
+title:us ambassador suggests trump could blame canada if midterms don t go his way
+seen_urlhash:6283b356408966e78c1c3c51af9c772e931c7036443002dd7234da768325f509
+seen_titlehash:fcfa05544cfa8d5f201b734370c010b3eba3495050e710f23e10ab39721f8b2d
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb
+title:politics live hastie dubs inflation a silent tax eating away at wealth half of young australians say us a threat
+seen_urlhash:6b612100d3246fa03f31359d950a9e5cd49ce93214283898f91fa4bcd95d67e3
+seen_titlehash:6e3f0beceea25fddc8b94b5826889923806786ff0bdba1dcabc27efd4c4996d0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland
+title:worldwide legacy almost 20m raised to protect majestic tract of land in far north queensland
+seen_urlhash:9c9957ccd8d20ad2e7443e58c2270d5e6a110748d8b92e7a756f5b68e14e2d0e
+seen_titlehash:7449c6b7daef26ad6449895bcf17c25535cc3074f4099cb408e767775748fce4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss
+title:what s next for brazil s flavio bolsonaro after election defeat
+seen_urlhash:5b399f6e2fdb9e418c960b72854d8a30b9ffb1daaaa80c0f2332693797741330
+seen_titlehash:092361876ba6b4a5ac61cf3d2d61ec92076bda9a4adc1f49a2dac131f48358dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss
+title:un votes to condemn embargo of cuba despite us lobbying push
+seen_urlhash:b927a2b1b35d58ac9de8405f4bdf66dcc69e57c276fc0e018b0b73ea858b31f0
+seen_titlehash:d040f8b04dcc8574619faf87107a4db525e009cdae81b7730b44982dc54e617d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss
+title:rwanda s milk bars
+seen_urlhash:0e5a1a3862f1ee17ae2f1c92083e94c9592c2426e5e537cc10e0441a37b2a84e
+seen_titlehash:1c47d54352c978072b6c4513f4dc4bcd28464bb35ec0df8371de30fcd0f99e51
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss
+title:us envoy reads anti castro book during cuban fm s un address
+seen_urlhash:051a9c01c68331bc041d272643c8d55186fc7b8fddc443978134b700f6226db1
+seen_titlehash:e2610bc0bf054edf6547d8d859dde659cddc5f1600da2fbe9e51722ea5c77de3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss
+title:spain demands answers after deadliest train disaster in over a decade
+seen_urlhash:c2a0675798b8cc098e490ef8fc1e00558c842a20b85f9add6c30f1c9bc521329
+seen_titlehash:704c47d3df60620b0b6167228a4c18e948df4781f4554e97eb91c98177052a9a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss
+title:putin russia is african continent s best partner not colonial west
+seen_urlhash:fe874a7fc341538b162e357c26e52aec6c23a9d6f1841f40194c2e2049ead440
+seen_titlehash:fd19535fe08d73d7ca3be22702092b4ff65e62a735626313b5465e66cee193ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss
+title:fed leaves interest rates unchanged despite inflation in the us
+seen_urlhash:90179aedfb2347490e17d67fd7b3612f4926901b16c0c52cb95d3787364baa38
+seen_titlehash:dca064d8b4e6106920870f7d18e8616646a9002bf7a708f2cd86e7b5c135250a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss
+title:what are the implications of israel s elections
+seen_urlhash:861a7f5b263b07290cc30333927ecf6306a93d1c917d1091a288e854a6fbd29b
+seen_titlehash:ef45d3cc8c6356476bc7592442a5cea69c7f1d4dc65f3fd1724f2cc2d18d2a2a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss
+title:us jury convicts rwandan american of lying about role in genocide
+seen_urlhash:88b87ce2ac7a09b021e48f94c87522d167fd5eb0800b458db0800284df7e9ac5
+seen_titlehash:3c9e3e64d6a5e531e40c6d42bdc327e38a20e5ff72438ea14200fdf280292831
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss
+title:putin tells african leaders moscow will not pursue neo colonialism
+seen_urlhash:09c63407a6c4843a254a2405360858ff5cf07309fd532a321edda3a2e63f7302
+seen_titlehash:223c6b7305aaa98cf5718f9fcf1452ec3a88ef1c5bdf78d59f9f64e2e88a8cc4
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss
+title:students on hunger strike in india demand restoration of student union
+seen_urlhash:2e671c11e0ccb07931679f418fd36d1b7047298d77235db078acc62573f028f7
+seen_titlehash:e7eab4d4ede22ad715d276426e579edf22ea1fe8e3e7cd619e1f837b283d05c2
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss
+title:five key takeaways from the uk autumn budget
+seen_urlhash:7515934160f79e0e0bde1b1deb5bdd0a34f302e028890a393ad10c3b5df217cd
+seen_titlehash:cd345173abd81048bb6d58b6a1b4871ec65cdee6dfdb2dece68d51689af79534
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss
+title:fuel costs force us cruise ship to suspend multiyear voyage in cambodia
+seen_urlhash:e74f9f2fdc3ab6b80aed0b711221c67d86bc681437da799f544ce9aebac16f2d
+seen_titlehash:08bf26ce4127fa625d8215339f0821c1257c5aa28b63c3f7f36e4d0f69668b13
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss
+title:jerusalem daily what s next after israel s elections
+seen_urlhash:b5c32d9542476ff8ef54ee06f2cbec53d1cbc79b5c6624c2ad5c025ead6fcc39
+seen_titlehash:4a79c629922654fa02ae393f995f4c0a89a145fefd68e15889101984e8455e5b
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss
+title:balad leader blasts racist exclusion of arab parties in israel
+seen_urlhash:b108938126bc68ec9231b36989429fc1e67624d1cb9de1cb0044f5bcaccbfbd4
+seen_titlehash:a3efb5da46e8d7953ac9b5419112d492adb7ed8b78ea695164422ea8ae2c8064
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss
+title:sudan war and inflation leave families struggling to survive in khartoum
+seen_urlhash:e85796d5eed16b869a7ea92581edf6dbbce2413e1ae9f0c7606c5a7faf17473d
+seen_titlehash:6e26985dfd729ce8f241be00852ebe6d088bb84b6f84785d8708d3608b1267e0
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss
+title:canada eu summit what do both sides want and what s at stake
+seen_urlhash:bdf449a2830d694bac40b32afb9aae9ee97d23dfff16ecfeff7349bbbb6a912d
+seen_titlehash:45da9046d613cd18f37421c56323ea43ac254af1a09bc8df1a81de340b616b04
+seen_reason:processed_not_published
+url:https://news.sky.com/story/flavio-bolsonaro-insists-he-is-true-elected-brazil-president-despite-losing-run-off-vote-13605006
+title:defeated election candidate bolsonaro thanks trump and says he will lead brazil opposition from us
+seen_urlhash:37fe5fd1ce99dd9a8448d167ad26fffb626c29f2b1a27e86b9ffd8ae8822fb16
+seen_titlehash:6d46be530ba5a93074b25e6d1ac7f3a8354d3e2873e777ed12954676a5439b19
+seen_reason:processed_not_published
+url:https://france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election
+title:historic gains for arab majority parties in israeli election
+seen_urlhash:1dd02aaa7fc7360983ddb54841ce284f9d78cdb7d2f468c641a26d5a253116ee
+seen_titlehash:d9362f30cc3a58db2b741259139158270ef1df8eb9c635c0ab101d98063f53e2
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92
+title:top us federal judge who handled 9 11 trump maduro cases dies aged 92
+seen_urlhash:2be709f28913f17b63b2b118b754b48603a4d4272f814efe9edd3fb2771b343e
+seen_titlehash:9bfccd2283d0d93cc10d01514439f37a954cf6f5497776e36778977ff04b92d0
+seen_reason:processed_not_published
+url:https://france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened
+title:bolsonaro s escape to the us how it happened
+seen_urlhash:05d592bbd0b249f296192bcc5bc90cc71195a5e9f64df793ecbbb351958985da
+seen_titlehash:fd55baf8db5a5f6860eef46ec8dc3d34a08544d28c15cdba8cecfe24dd9b1fb4
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland
+title:amid uncertainty over eu aid vitalii kim insists ukraine has no choice but to fight for motherland
+seen_urlhash:bdd045b3fe64239c569d615c1c55628e2d8674a16eb998ec5f8de2a9d1322268
+seen_titlehash:fd55baf8db5a5f6860eef46ec8dc3d34a08544d28c15cdba8cecfe24dd9b1fb4
+seen_reason:processed_not_published
+url:https://france24.com/en/amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland
+title:amid uncertainty over eu aid vitalii kim insists ukraine has no choice but to fight for motherland
+seen_urlhash:d5e90b3ebb48bef08d392eba89641f5333e0095b46828bf895635c72bb4dc905
+seen_titlehash:4a20689bfacd8b55b188b9e4dea0c2c8fc0c43a1e2fa4b8f6513a0f8a6a36cd7
+seen_reason:processed_not_published
+url:https://france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat
+title:bolsonaro flees brazil for us after election defeat
+seen_urlhash:c69d9cfb12330030a9953c57e96a53df8427025227e47580a523c844121d9d2d
+seen_titlehash:5773028538fd987db1523be886217b52276605cc8ebbb2ab708769f277319fcd
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises
+title:which way will israel break netanyahu still in it after election night surprises
+seen_urlhash:f9288a6f56da91e0d53c920fa66c726a2b2c97d1781ca58962c46b15d6e01a5e
+seen_titlehash:516607a790965369ed62e0e39246562014b1c0375f640c1a6a955fd16a61c9f2
+seen_reason:processed_not_published
+url:https://france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100
+title:spain high speed train crash kills 68 injures over 100
+seen_urlhash:bcf61bcf2a74f87d6f07729e7f2886fb9b47dc25923d2a16d6d39abc9837367b
+seen_titlehash:91691453402402d6b399a5ba1fe6dd32c71d7fc11f6ab36542416110b63cbc63
+seen_reason:processed_not_published
+url:https://france24.com/en/israeli-electorate-has-moved-rightward-many-underestimated-extent-of-fracture-in-israeli-society
+title:israeli electorate has moved rightward many underestimated extent of fracture in israeli society
+seen_urlhash:f842cf2b39e14bad2fa2e6fe9d01ef188bfd9e190cc4ca335e4039c52813132f
+seen_titlehash:552dbadb77f86d82db3f355cd8d2bce4305dcd1c8af154010ef1e6173d3118f0
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa
+title:putin woos african leaders as moscow seeks to expand footprint in africa
+seen_urlhash:4a0e18ce8dfdfc81cbd8574ec17416c3d369ac285a402be842a670ce8349c400
+seen_titlehash:125f5adc4662b639cce23e95dfd9f5f40973dd71181b21d6d4b453eeaf89257c
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96
+title:si se puede us civil rights icon dolores huerta dies at 96
+seen_urlhash:36f09d2e9785a589081bd1aa51c280e3dc6c81fa2790017169199837120326d9
+seen_titlehash:0f10875ce3f038cedb80c9b7a48159daf20a392af26a84fa96df94bf09bac8f6
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro
+title:us grants visa to defeated brazilian presidential candidate flavio bolsonaro
+seen_urlhash:e8b7d82d28811f8a09dccce2560b66a8c76544b3065638b93a06a2a3557c064d
+seen_titlehash:9b029aa360df7a837689d8231e88bedea766144438d1ce734390ab45876652a2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues
+title:israel election what impact on iran as the war in the middle east continues
+seen_urlhash:140aadcf01a6550de73c5cb3f40eaa358f89c3a7a23efaed4fdd18f63caca683
+seen_titlehash:55cabe851bd36125edb751956ed3dfc7effb11c4f9373524d96f0c81dad80c44
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community
+title:france racist attack in trappes deeply scars local community
+seen_urlhash:51bb8a32112a87857e8106d7b1044e600147d531b90d2061858972a6ef5ee54b
+seen_titlehash:c9cfd56723b3435f31e8e0d8b76ed5e9f6ef9bae4186c3732cd197bc74c847ba
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil
+title:defeated presidential candidate bolsonaro lands in miami after fleeing brazil
+seen_urlhash:40e0c050d82829e9a9205d2ea128f862ba91981e72194aeebfd54c1b83843241
+seen_titlehash:02ea780c242fee7cd9ed5db06335863e8a23d1ef96e58dede15fb6acb6a96c47
+seen_reason:processed_not_published
+url:https://dw.com/ru/желающих-вернуться-в-украину-жителей-алешек-вывезут-через-анапу-и-гомель-в-сопровождении-украинского-и-российского-омбудсменов/a-79791365?maca=rus-rss-ru-all-1126-rdf
+title:желающих вернуться в украину жителей алешек вывезут через анапу и гомель в сопровождении украинского и российского омбудсменов
+seen_urlhash:88972eada55d6dd32499f65a9d02ca477d257ce70e780f99772f310c7e4a2ced
+seen_titlehash:df20905c69c6f352f6b73e194f37e04c95635c3544b3276ec1800ed4d0564420
+seen_reason:processed_not_published
+url:https://dw.com/ru/морские-дроны-атаковали-греческий-контейнеровоз-у-берегов-болгарии-вмс-страны-эвакуировали-всех-18-моряков-с-борта/a-79790996?maca=rus-rss-ru-all-1126-rdf
+title:морские дроны атаковали греческий контейнеровоз у берегов болгарии вмс страны эвакуировали всех 18 моряков с борта
+seen_urlhash:8ab57b2ac826794702880b2e078e4862bc9a6c97b0491450a68ce2aadd36bba8
+seen_titlehash:bb8276146aeb6eca7d1b0a2e77f0cd2386849a42002a33c491e41d2a969de856
+seen_reason:processed_not_published
+url:https://dw.com/ru/токаев-дал-сигнал-зарубежным-партнерам-казахстан-готов-строить-аэс-с-рф-и-кнр-развивать-транзит-в-европу-и-менять-условия-для-инвесторов/a-79790863?maca=rus-rss-ru-all-1126-rdf
+title:токаев дал сигнал зарубежным партнерам казахстан готов строить аэс с рф и кнр развивать транзит в европу и менять условия для инвесторов
+seen_urlhash:e97bd44492865b96b342030df5306666747ab352d1d1151c8aae068c82f4e8cf
+seen_titlehash:db206eea9875a6d4fff51af87859fbd2bb0cfe24e1a237b5fff1738219bd258f
+seen_reason:processed_not_published
+url:https://dw.com/ru/арестованные-в-германии-граждане-беларуси-подозреваются-в-подготовке-диверсий-возле-железной-дороги-и-лэп-в-баварии-и-поджоге-завода-в-румынии/a-79790287?maca=rus-rss-ru-all-1126-rdf
+title:арестованные в германии граждане беларуси подозреваются в подготовке диверсий возле железной дороги и лэп в баварии и поджоге завода в румынии
+seen_urlhash:1878747ca3733df43f89cba302a4c5b4995c483a2600265649a9d5887d5dfc4a
+seen_titlehash:553d40dc2cdfc26dfca42592b4b940374bfa1361bd5b0993addded3f6e72a365
+seen_reason:processed_not_published
+url:https://dw.com/ru/forbes-минцифры-россии-обсуждает-ограничение-объема-зарубежного-трафика-для-пользователей/a-79789732?maca=rus-rss-ru-all-1126-rdf
+title:forbes минцифры россии обсуждает ограничение объема зарубежного трафика для пользователей
+seen_urlhash:6c941488b2037198d5366c6686b3f4f666ea525bc920cca5d8d7cdfc45e7e849
+seen_titlehash:6297a9ccdd0652d27304205f3af01cf316d46eebe34f829fcf9ed51aa023fa9b
+seen_reason:processed_not_published
+url:https://dw.com/ru/катастрофа-на-железной-дороге-в-испании-унесла-жизни-68-человек-причины-трагедии-связывают-со-сбоем-системы-безопасности-и-действиями-диспетчера/a-79790419?maca=rus-rss-ru-all-1126-rdf
+title:катастрофа на железной дороге в испании унесла жизни 68 человек причины трагедии связывают со сбоем системы безопасности и действиями диспетчера
+seen_urlhash:1ff9e54a6ef88950ede3032381873303639a9cc9392b6f74f3c2f861751fa8c4
+seen_titlehash:7f2c81246c4e7176cb40824d4a96df07ccb3f5e8ac518c220bedf807b5456682
+seen_reason:processed_not_published
+url:https://dw.com/ru/новая-уполномоченная-фрг-по-борьбе-с-антисемитизмом-кто-она/a-79789975?maca=rus-rss-ru-all-1126-rdf
+title:новая уполномоченная фрг по борьбе с антисемитизмом кто она
+seen_urlhash:de781db399c92c29fc66bbf9e039a7fb2e1b31e573973eaedd83db94e64ec1a5
+seen_titlehash:9439893b8c36d58f115c95f196cd1e641a8aa4458f909b85715a25c75ad4bd12
+seen_reason:processed_not_published
+url:https://dw.com/ru/ft-вашингтон-и-москва-обсуждают-возвращение-американских-компаний-на-нефтяной-рынок-рф-в-рамках-переговоров-о-прекращении-войны-в-украине/a-79787449?maca=rus-rss-ru-all-1126-rdf
+title:ft вашингтон и москва обсуждают возвращение американских компаний на нефтяной рынок рф в рамках переговоров о прекращении войны в украине
+seen_urlhash:c9db450a148ddd5eefc978e72de31183a443a8366fbd316bcdc31648c41025b8
+seen_titlehash:c03e54870e1586120e42bf785c9ee74af2e906f04068463ee1fb9b275cfa3803
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/28/ssha-prinyali-proigravshego-vybory-bolsonaru-v-rodnoj-brazilii-ego-podozrevayut-v-korrupc
+title:сша приняли проигравшего выборы болсонару в родной бразилии его подозревают в коррупции
+seen_urlhash:fc781d183463275a099c6db7f643ca442d30e741b4834d161a932c07792a0464
+seen_titlehash:fe083fbc6d2973f4e36363dab9e62c773373fbdd9bf143703fb732620be2ad6b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/28/german-federal-election-votes-recount-pos
+title:рухнет ли правящая коалиция фрг почему решение карлсруэ важно для мерца
+seen_urlhash:bd82e449ee04c707e866e29efaacb68315c9bda823fa146f8cb937c436bf686c
+seen_titlehash:a4bdde73876badad137ec37b32dc426e605abe9981078e2b3c140361a8b861b3
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/28/marco-prelec
+title:победители выборов в сербии явно стремятся улучшить отношения с ес
+seen_urlhash:d3c43aa303dd20011462ae275f38169959271258c8621785fd362ac482f4b4e5
+seen_titlehash:20d4f2bdc5ec36d00666c58b0240ef1858e9117a833a45a0057cbe9b122f1913
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/28/france-uefa-football-changes-matches-protest
+title:протесты во франции уефа меняет время матча стад ренн болельщики возмущены
+seen_urlhash:9351753a1bf16ce52d9b5ed8289767a237b49310446f9af6930a0be5551590c2
+seen_titlehash:ca721e8ccbdf13b653727ee58f9910ea39f70abb82cf9255d26b7a13d0c70cd8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike
+title:фрс сохраняет ставку накануне выборов в сша два чиновника за повышение
+seen_urlhash:7d63614bed0f209d9a8acd4895ebe961360c023535b9a84b6387b66097451be0
+seen_titlehash:37f67beccf193a602cd7982539165a7b5d352fad96843e6e8196fe3857551bc0
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/28/mirnye-peregovory-sostoyatsya-posle-4-noyabrya-zayavili-v-kremle-data-budet-zaviset-ot-situatsii-na-pole-boya-i-obstanovki-voobsche
+title:мирные переговоры состоятся после 4 ноября заявили в кремле дата будет зависеть от ситуации на поле боя и обстановки вообще
+seen_urlhash:adfbd02e9b5b505343edfe8afd261b6e858ab387f87843cd32481ffb8c2d5620
+seen_titlehash:2144b6f661f069ee82b8a50c38c48fc6d838a8eb0027973b270f97c1ca525d51
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/28/sergey-lavrov-primet-uchastie-vo-vstreche-glav-mid-bolshoy-dvadtsatki-v-ssha-hotya-nahoditsya-pod-amerikanskimi-sanktsiyami
+title:сергей лавров примет участие во встрече глав мид большой двадцатки в сша хотя находится под американскими санкциями
+seen_urlhash:3673ed0faadbd6619be143bd00c2996fc8ace9e82cf743fb76ab1eddf7a594ec
+seen_titlehash:f00d3251252a5370cc58f1ac2da0a2a666d34004946207e9bc40bc52d3ee2a72
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/28/pravitelstvo-rf-predlozhilo-dobavlyat-ot-500-do-1000-rubley-k-stoimosti-kazhdogo-aviabileta-dlya-podderzhki-otechestvennogo-samoletostroeniya
+title:правительство рф предложило добавлять от 500 до 1000 рублей к стоимости каждого авиабилета для поддержки отечественного самолетостроения
+seen_urlhash:13e938dd4a697ae811a83254db77cc799e7668b4960b84a7210db6cccfccba93
+seen_titlehash:1509cdae2bbb05f41020e435ca7b9dcb64b21c7576eb4335bddada872ed91b59
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/28/apple-pokazala-pervyy-v-istorii-macbook-s-sensornym-ekranom
+title:apple показала первый в истории macbook с сенсорным экраном
+seen_urlhash:f71416c04759cf0d6fc8875c6443a4385eda8a73901f79d5446928904cc4696d
+seen_titlehash:b7ec77660d949898bad7a88836991e0a0977877333c83221114c6035a113b306
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/28/byvshiy-vladelets-aeroporta-domodedovo-dmitriy-kamenschik-pereehal-v-izrail-i-poluchil-tam-grazhdanstvo
+title:бывший владелец аэропорта домодедово дмитрий каменщик переехал в израиль и получил там гражданство
+seen_urlhash:52413f3d6602b0d337ffdadb3a60333e54fcea4e865f4167659525c5a812fed9
+seen_titlehash:a89b549c2d4e379d12852ee4fffc6d9f2f4152b63b758840ad4c42d7486c104a
+seen_reason:processed_not_published
+url:https://ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1
+title:microsoft cloud revenue beats expectations
+seen_urlhash:058a7a5a97c19b67db0d442668568aa1eada1fa9699ae16d6f0a9c934e4255c7
+seen_titlehash:549cef3747e7dc943e04cefcdc415a8328e064c27da61fc47c033dbddc50d853
+seen_reason:processed_not_published
+url:https://ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1
+title:google shares tumble 9 after 51bn ai outlay deepens cash burn
+seen_urlhash:aeeb59946247f1a298e69996e44e5b9a760d5b0784600e6c626b9a2ae6d934cb
+seen_titlehash:5e1d62ad76f823ac8b7dd8a20474dcb279e4e5183293ba3dfcba31c05611551d
+seen_reason:processed_not_published
+url:https://ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1
+title:weil leadership tells partners firm should be dissolved
+seen_urlhash:a27c04d69686f2c7ba00bb04f11f74e6e642e47324486a4e8fdbf1b9659ba14f
+seen_titlehash:a6793e8ae948f987453db1f291464c2f1b8cb6861357cc55d905772b2a2a3c40
+seen_reason:processed_not_published
+url:https://ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1
+title:republicans seek to deflect epstein anger on to democrats
+seen_urlhash:4815bc264825f3d486af62db54708b86ced9f868d4d8c408cbfbf973b2260b92
+seen_titlehash:4939bb50a4b832eb5050628ff28ced223b9c29882753b20d69b10d2f205fa065
+seen_reason:processed_not_published
+url:https://ft.com/content/1c9a9c4d-5f84-40e7-bd2f-fe55e9e0d3a7?syn-25a6b1a6=1
+title:healey praised business the feeling was not mutual
+seen_urlhash:9c022643a992790c933650678a64b2e9aaa95b2d65bdd2ae14a8aa199eaefc2d
+seen_titlehash:ad93072bd88cdfbf493a5977ae618f26c7ce1b94abc3c9100f2fa6146b1efc5e
+seen_reason:processed_not_published
+url:https://ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1
+title:oracle rallies after telling investors its ai bet will pay off sooner than expected
+seen_urlhash:c8ea889fa09a15ceb26670a6120c70fb2354d1c078feb97e55d47cefc42edca6
+seen_titlehash:aa278593540b98581247695b1b9631a0af70df47d476ff43b41a38f3444528f6
+seen_reason:processed_not_published
+url:https://ft.com/content/bf6c30c1-aae3-44bd-95d2-079596dad895?syn-25a6b1a6=1
+title:london cap for new first time buyer scheme needs urgent rethink
+seen_urlhash:a9b4e6579037f796043d95b93724b0bc9193a32df5d1471d68cac38c04d6c8dd
+seen_titlehash:ef0f634a483d5f8350df512613ad942e23c76595ce61b4f02ff7c21e46029503
+seen_reason:processed_not_published
+url:https://ft.com/content/165e3954-19cc-469e-9eab-1557953bbb19?syn-25a6b1a6=1
+title:chancellor s budget placates markets but delays crunch decisions
+seen_urlhash:1672c71357ca1be1c9a54e470bc4aa5f0c7ce3ab572c5ad5258043bed9d65273
+seen_titlehash:916e2ba348e6a9e5e5d96c07d80112e0e772767b6efec274f03deb8e0232a3a0
+seen_reason:processed_not_published
+url:https://ft.com/content/2d14dcd5-090b-4995-b4ab-d2123b145445?syn-25a6b1a6=1
+title:healey fiddles while the uk stagnates
+seen_urlhash:8410e4feb7a1fe31e9b9b6be8b0bdf2bb2a0f92ffb2793dc0c72d300440a51c1
+seen_titlehash:d3591d1e7450bf6ee9df252688bbf0ae6bdc09a94265b0d98d6ebe7be5e69664
+seen_reason:processed_not_published
+url:https://ft.com/content/142690bf-4294-401f-a13a-81a8f4b70494?syn-25a6b1a6=1
+title:hmrc prepares 1 3bn tax squeeze on self employed
+seen_urlhash:61a9471768a02da577a0f6837770a7566c198b2c2c18510ecc75c6df7deeebd3
+seen_titlehash:d37772ce79e0fbfbc590e82e3c90ea003503ef413da63e10d9d039453b951e54
+seen_reason:processed_not_published
+url:https://ft.com/content/722c0e11-805a-4a0c-aeee-04545dae72cf?syn-25a6b1a6=1
+title:let s keep isas simple
+seen_urlhash:5f86dc90bb7495a8fe8590c0ac0c336c567c5b89e210171528f6eef445b8c608
+seen_titlehash:459d721d8e20d205d85c70673bd7d644b013f7a2bdb8cbf58454c87795388fae
+seen_reason:processed_not_published
+url:https://ft.com/content/de6a8b48-1afe-4ece-9d21-27160b2d97a4?syn-25a6b1a6=1
+title:is that it opposition parties attack healey for lack of ambition
+seen_urlhash:35102758e2775d6f5b7fd6ba6dc20189d1112e962519170fb5127a0d019b29bd
+seen_titlehash:83603f40ef8a246b9a8ff3dcd5a1ad0eb7b5654d5d7c27f72296e50255964061
+seen_reason:processed_not_published
+url:https://ft.com/content/089b0e61-32bc-4f43-90a4-ceeb693c2dea?syn-25a6b1a6=1
+title:britain s budget buys time but ducks the hard choices
+seen_urlhash:63cf3b13e50fd602568ccdc526a72d8a6cac0ca82bac8389c2e7126f6abb4ac1
+seen_titlehash:39217ddf154c9ea95d8a225c17ebb5aafcd92c39d5565d4894fbdcee0e4d3c3c
+seen_reason:processed_not_published
+url:https://ft.com/content/6300de66-e767-4ce6-bf20-8ffac86df09f?syn-25a6b1a6=1
+title:property tax rise will push more landlords to sell healey warned
+seen_urlhash:f85f11111129730601f5adca97ebcfc2a6ce42fc6642a0ab23c9329b284d544c
+seen_titlehash:cdcc74f294a6c7940972a2f219459779bffe204c69860baeef713d329ef793a0
+seen_reason:processed_not_published
+url:https://ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1
+title:us judge overseeing maduro case dies at 92
+seen_urlhash:4b37adcba159e5a1327f5b4eb08b64962ce0af48bc26972855fc1478a31c99e8
+seen_titlehash:39ecddb11b33c23563583f9ba9826df3feff3590d694873d5556cf4c0d7e110d
+seen_reason:processed_not_published
+url:https://ft.com/content/08484381-f831-4f3f-9ae4-302453b5a763?syn-25a6b1a6=1
+title:investors bet on miami s luxury boom with 817mn skyscraper deal
+seen_urlhash:0b02eda687b1307cb9765c701175774dfa192ae6a3ef9a26f90949460d068583
+seen_titlehash:5c7dad4beaedd056b7be0a713fb9cc0133efb7ce326d9932f884814146d75ba1
+seen_reason:processed_not_published
+url:https://ft.com/content/eb7ac014-33a2-43e6-a2dd-55b141886197?syn-25a6b1a6=1
+title:uk living standards will flatline this decade says obr
