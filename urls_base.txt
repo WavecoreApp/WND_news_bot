@@ -172518,3 +172518,108 @@ seen_titlehash:a70ca792e436d9bcb11c923fb77797683ac855099c47a9d1095c1ba10f52d403
 seen_reason:processed_not_published
 url:https://economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death
 title:donald trump may love the middle east to death
+seen_urlhash:48b9b7a7fb44e8946a71ee3f0712786f5ae395e8ed183f7274bd725176ff5c64
+seen_titlehash:6305b7ee5788857397fb857b774c2bbf3aa7678ee397a28ac47f9abd03b2430e
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss
+title:watch what happens now after close vote in israeli election
+seen_urlhash:7974baff1c668bc4e548508f882f7a6e1c46c0461b2435e36726cce7d2884cd0
+seen_titlehash:88917d86edefd267d6788aaed77830a593117580f3e273208dbe5d2929fd8034
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html
+title:arab parties strong showing may bring role in formation of israel s next government
+seen_urlhash:ec59f16c0a871a0b1bfd8c9bddad062b77feaf0ce632200b994266e5adc4bec4
+seen_titlehash:f43ea0eda1011ac117e5da19563ba647960cb32712950e5380be5aa0c9296929
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit
+title:king charles to discuss legacy of slavery with commonwealth leaders at summit
+seen_urlhash:79bc1e5ff37892b77e54f6511a4fc23f47cb69432d76d284c5e911ff158e49f2
+seen_titlehash:60828853052629ae176264340a626dd078fb2705fa900a028709d5472d8c3085
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release
+title:australia s inflation rate rises to 4 3 fuelling fears of fifth interest rate hike this year
+seen_urlhash:0767671a5981538232fcd40e0a41f1f557cf72f433ff978c65bd3ec5dd4cee95
+seen_titlehash:9d934584bc43c12e46a2ad06badca95206e2fbc6037ddc350bde8a549d8b9c06
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb
+title:criminal case against alleged bondi terrorist delayed amid unprecedented investigation
+seen_urlhash:e301e93100c637a897e382acadb8e5608896d06c7a076f336553e160dd5855b5
+seen_titlehash:0d849d462d9bef971d7dd79b85888f10063cb716a9dbd9b6341ff6fed8cff455
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics
+title:i use disposable cups chris minns backflips on takeaway coffee cups after media and business backlash
+seen_urlhash:d246b821130b419830ffef3a517a889f9a68c68e530251c08d3e3160ff3dd51b
+seen_titlehash:4a4585362502c6ce0afb7ba47d028a94ebe7888e895f9d169b8325226b06d709
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss
+title:netanyahu coalition with arab parties would be shameful
+seen_urlhash:e8c80ab8e87cd088d7f017a5ea30eef41b80f125f027b859cdcf0f9d7baa3bb8
+seen_titlehash:1371bb2d0268b222d198706b7aefbeafdc3708e622c595e6f6447fd3860887b6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss
+title:arab parties projected to win 18 seats in israel parliamentary election
+seen_urlhash:b3e2e6811fceaf7de96fcb21dc6b7d4323efe121aa3742527f096466fb8cd778
+seen_titlehash:7e0cdcf2ebf88f4aac399a2d685802b0000c1fcf3b27f74e57395a6f00b4f182
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss
+title:netanyahu eisenkot camps clash over israel election projections
+seen_urlhash:4982b3b5dd0cd8bc36a69f07167e69ad77b5888129cd5b798f2f259560eaada1
+seen_titlehash:f3c5d3ec8fc58db5c547f39967dd2cfd69a70291474493e6cc13701af518c2b9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss
+title:israel s eisenkot says country voted for change
+seen_urlhash:356157b42788a3b008c6027c6d6d097abf5c7d8c7b21d075a5fdad82c3763306
+seen_titlehash:0ad68231ac8d7d060c50877ad483a9cdb87e944864dea6a02431a4f61b9293e0
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss
+title:this is america us envoy scolds cuban diplomat at un
+seen_urlhash:290d1fe2211a87584f85706f0d39f6d1504314345235f1d8ceb625f8b209f8ad
+seen_titlehash:0eff3e47b2861fec6848fb6509e726bec6a06e3466aadcec6c78bf247cfa4a03
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss
+title:gaza s women filmmakers turn pain into cinema as new academy launches
+seen_urlhash:ceb18783b826e66ff85c10e774298fd62b832f1296607bbe6400156f8ef661b3
+seen_titlehash:5477250318aef25b482688ea5ec475f7d68c9009d38df115b74bfcbbbfc9716e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss
+title:president lula calls bolsonaro s brazil exit shameful
+seen_urlhash:9fd85957c1190f153180cb06953daa29cd6028b6367dd98dac1a816479a43da2
+seen_titlehash:048662d0119e6ef3ee287db66ed6d31b79f8a336aacabe468219f2d2b7915b32
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss
+title:a bad day for ben gvir as he addresses his supporters
+seen_urlhash:15097959af436aca00a6c8be953613d382d5d2b5e2b2cb85736ea673e17e5499
+seen_titlehash:7f37c31fa4e0289857280467ecedd2db6e25c9c0a0436ec7cbae48e92e079675
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss
+title:israel election results no clear winner projected what s next
+seen_urlhash:01b16cd9394fb70d511de867e8c6f810b392c9f363ab1fef66db279af0428a57
+seen_titlehash:ddee80ef16a9ba4a9815cc4651934edb4e58d917f1795e44edd39b3a178941a7
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups
+title:rights groups oppose uae s lana nusseibeh for un chief over sudan claims
+seen_urlhash:49516090deb4ffade7c92abd28840ba97c037be5a92b1203f357ce117df8bc2c
+seen_titlehash:30ffc6e449c0dff30cd4f81c37b825e255e0930d3c37b37a4da8a10e1e5f719a
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-польше-будет-построен-центр-технического-обслуживания-ракет-patriot/a-79782296?maca=rus-rss-ru-all-1126-rdf
+title:в польше будет построен центр технического обслуживания ракет patriot
+seen_urlhash:d23d753eb00508d22e1e2a9d9e7785958c9f6fdb888dbd7c2d2d4b87650ddaa9
+seen_titlehash:8042e86fa0a1ead5167367b53b4283d309b5564d2f97896af9c137ec605ffd40
+seen_reason:processed_not_published
+url:https://dw.com/ru/армия-рф-нанесла-удар-дроном-по-жилому-дому-в-харькове-четверо-ранены-среди-них-ребенок/a-79782180?maca=rus-rss-ru-all-1126-rdf
+title:армия рф нанесла удар дроном по жилому дому в харькове четверо ранены среди них ребенок
+seen_urlhash:50efe004b35f4447f7d9a232f7802ae9fb7f8ebe1f4ad2da8736c15d9089e4f3
+seen_titlehash:1bc86ce7449cf961fdaab1858b384d0036b2ee1bbe0bcc2c3756690045d59fde
+seen_reason:processed_not_published
+url:https://dw.com/ru/nyt-администрация-трампа-рассматривает-возможность-снятия-санкций-с-рфпи-кирилла-дмитриева-чтобы-фонд-мог-участвовать-в-поставках-дизеля-в-сша/a-79782046?maca=rus-rss-ru-all-1126-rdf
+title:nyt администрация трампа рассматривает возможность снятия санкций с рфпи кирилла дмитриева чтобы фонд мог участвовать в поставках дизеля в сша
+seen_urlhash:4aa021e9f34ab5fdf57a8121377e9b8c46930d35b900c6a38048f80e53e4a53a
+seen_titlehash:1d7d6a0b83c228514d7c3890716b2ee685e1bc48e0af87d821bc1f64e120eb85
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls
+title:израиль сторонники оппозиции празднуют небольшой перевес по экзитполам
+seen_urlhash:2f719bfd41aee3e774160842ac3d4a351cbf8b531f22aa9b9c5af1c23c844126
+seen_titlehash:11b134531a85f3a8075107ec461a0d39fc1035999562965c58ab710e89c78222
+seen_reason:processed_not_published
+url:https://ft.com/content/bc330ee4-f151-4552-88a8-8879a26d8fdd?syn-25a6b1a6=1
+title:sizewell nuclear plant is terrible deal for british taxpayers mps conclude
