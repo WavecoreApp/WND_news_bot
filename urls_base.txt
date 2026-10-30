@@ -177678,3 +177678,343 @@ seen_titlehash:3aabb29165175611b64d6f0ddfb3d553903a49c7ae4ab8955a669cc790481595
 seen_reason:processed_not_published
 url:https://ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1
 title:exxonmobil and chevron post bumper profits and warn on diesel supplies
+seen_urlhash:bdada3ca6d2e339d0e8918b2744b736436eade51bcedb60fa8183820ddde9708
+seen_titlehash:204fba5b8eefc1644f2d9784e0d8566de165a161d9f8bb9e96aa11bacaeece05
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss
+title:crypto giant binance attempting to recover 6 3bn stolen in hack linked to north korea
+seen_urlhash:4f5cc60d82d474313383904675e2d8906114938c8f12e1dc354fa942281bdc75
+seen_titlehash:97b06c70396b1476de1c4eec4180130c5a29b8fb60478fe568c9fa919eb2f362
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss
+title:g20 family photo cancelled after protests over presence of russian minister
+seen_urlhash:181d89ae8f2ef6b9930912391512b3e4304bb074f07c2564f0edc6d2ad079e04
+seen_titlehash:d07df5da32a3e287499c547c7b5cf5fed9ff37afaafaf21cad00b60cd2e63b14
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss
+title:canada stops using avalanche dogs for rescues in rocky mountains stirring outrage
+seen_urlhash:696a1f904d5a25511de020fc74bb6def35569bf2d6459c48e593b0da467f1ba5
+seen_titlehash:f469a03a58160ff9a8de2219beb7604b7ad0500fb9f87164efd9701e6300def9
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html
+title:could el salvador s bukele be haiti s savior
+seen_urlhash:7f6494dcc4ab75bd5f7e21e08be7a95209c4a09fc836c47c1dca2f41c2a27a61
+seen_titlehash:ccb84a439653405c96f056ff49924dd68057a461c71a37bbaf5b3fb05d57cd47
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html
+title:carney commits canada to becoming european union s first associate member
+seen_urlhash:65f3006f8f243f39b83e6c4294b0a1bc38fe8890407ba98be17a0e0b4f83fd3d
+seen_titlehash:a3f85de5ce7db983848455e2ae2c56f7a838f0ef5690cdee038986fb89864176
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/30/canada-european-union-alliance
+title:canada and eu announce new alliance open to like minded countries
+seen_urlhash:bd6a15f8396410900a7b576780bb383d627be2c5a44829e0848c22d6a47171d2
+seen_titlehash:406fcc7563944d4b8036a82493c50eeda480524203c49f317c557b8c744b3387
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme
+title:how crypto hacking funds isolated north korea s nuclear programme
+seen_urlhash:eeb7626b43eaffc6bd4dfd4dbee2eb98b75df8fffa3e9f99dcf8cef2370666c8
+seen_titlehash:27aacb628a1ab812c7b5c4d9f4966c12ca23c7aac143e098e2ea612fbd610e3f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss
+title:swiss supreme court upholds liberian ex rebel commander s 20 year sentence
+seen_urlhash:c5fc7f2ce1a1c5ff2c91cb8618938421df519da31b1d57260d2536f077df26a4
+seen_titlehash:73a26a9b74614ba3aa76cb989084dbcf0b0acbcc526f436e07dd2423da25dfef
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss
+title:us appeals court again rejects trump bid to set aside california ballots
+seen_urlhash:bfd4378b0e61202762fce6cd1a9914909e180750e315ba027c23c5d15ebf1102
+seen_titlehash:a097062cc2935a44612c7440c870f325491a5de78252d37a8950c20a3d2c81c6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss
+title:g20 drops group photo as europeans refuse to stand with lavrov
+seen_urlhash:8e4fe57f22c586b1c7e8f1f48840f47926bf38ea5343c68f3bd3a88ff97a8b63
+seen_titlehash:89c1b8e78dfd151573be27c62e47257a323e12afd36282a8b7321fa2bbd168dc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss
+title:rubio hosts g20 talks as russia s lavrov presence sparks tensions
+seen_urlhash:ef9e4d5d3e2b8b5661f532b26067736dc5c17cf03c3bb6804300eee6573ce142
+seen_titlehash:76f5c55d36c4cffe1e7a93f2d48e5be441f1cebea025e7bc2364285a36d8a8f3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss
+title:port sudan families can barely afford water as shortages persist
+seen_urlhash:8bd8c865901b8b879486681b050e399b4ad539ef5e358514c2744d3afa45e399
+seen_titlehash:01adf4b6d9b46319c2bdfc22cc4a127d0a0f91bee551064e1d5c653e6a790161
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss
+title:eu and canada seek deeper ties amid worsening global uncertainty
+seen_urlhash:20da9bc923e23be3ae55167540194f57bdd6a1ed4fec1495f8c1877d886a5212
+seen_titlehash:42f2830b0a2f58f7edaaaeb6f60c52e414c70235369fa3ac76087661c1c81019
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss
+title:how 20 year old kimi antonelli is making f1 history
+seen_urlhash:128e3fa5379633535a593751c4f11f9523cd0b489b741d6360e818dbb6c62ca8
+seen_titlehash:ddaf7ddd2bb766dd605e8e30997e50f931409e2da0fbe11edf073e785f74a0b6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss
+title:what to know about california s midterm elections
+seen_urlhash:758234aa949e79d2a72069db9cbe687a3f55eb9af3b6afa87bef8733ae8c7de9
+seen_titlehash:b2d4d0a34141248ac71accdb08d4ff6c574b5829f319d4f03f184efa28628d0f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss
+title:why is netanyahu accusing palestinian israeli parties of fraud
+seen_urlhash:59e458f2e16dd97c2ed64b1b59040f134f3f8b8b7ee472dc0b12379bd6144bdf
+seen_titlehash:207ba8a8d87d9c8309569e46ce18a84c5b7ca6e81184806c65f18f7dbf211e03
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss
+title:texas grand jury indicts ice officer accused of running over man in houston
+seen_urlhash:22fffb933112b2d38e7f8acb5f3c5742c910ae40026062d0d35ab42205faae1c
+seen_titlehash:5ee8f7cea15e1a09d0e50d5193c2f73bec175286f4459ee2d8f3302f2d07e834
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss
+title:pakistan army cautiously optimistic about us iran mediation efforts
+seen_urlhash:9253770bd72ac072ae4c7ba04bac31b7f4dd389053bf3b96bd81513047e940e9
+seen_titlehash:c1b47d594e1c5b85fc08c4c4a4c6cac6f31c072215f6d0218335f0c0e4240313
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss
+title:israel demolishes homes of palestinians blamed for attack on soldiers
+seen_urlhash:f1c96591d55c02ce39fea1ac8eab6b1d8e198391e7ad2893f06493da22c2a3cc
+seen_titlehash:60a254dc7daa53a7b6b88afe95088eb50c7534a8da19ec8a00d21a084f5824ce
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss
+title:oman rescues 25 from burning oil tanker in strait of hormuz
+seen_urlhash:7609868ed89b825a4101f56800ccade2076650fb1fffc40f28ca899ed0aa0c45
+seen_titlehash:e5b66ca1410cde8817264dc4a86d51dbdc10940cbf62fe00ba3b74abe46c91e3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss
+title:kim jong un calls for north korea s drone technology superiority
+seen_urlhash:3a8c6e6f3f271478e26da1b9c30b321b76c9e0f656533af765a15f184c9ee1e3
+seen_titlehash:2707ea0bceb65f263d604adeaf1f1683384ca778929b30a1afd0e257c749a10c
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss
+title:how cuts under colombia s de la espriella threaten a key human rights court
+seen_urlhash:e3221293d2cc31d07c90ce7fa238a343aedcfde8a22311fcd7abad6c27a0cd3c
+seen_titlehash:ac58eff1eef1d8f855970bf0cffdebf44555cde60b66d4b72a9a1a24f1b9bbfa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss
+title:report reveals campaign promoting racist islamophobic anti qatar views
+seen_urlhash:fa81576cfb9ebd15fcb58a394d6e135efc26bcdf09d214a9051f4e5ffc1bfd4f
+seen_titlehash:d6931582ec414b55c6d61a3f97a63fe1c4cd9765ee6390fba3b622ca30d212de
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss
+title:barcelona s flick praises yamal s mentality after missing out on ballon d or
+seen_urlhash:2fcbeedf3c961b42c7e5e0359b7d3262907a1f53d5cbdb7ad834eee30dfd0b30
+seen_titlehash:210dec19599dc4880ec783f1d1754391374d2cc1c0d8ef4ef99e6d2705e2a820
+seen_reason:processed_not_published
+url:https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874
+title:g20 photocall axed after miliband and other ministers refuse to be pictured with top russian diplomat
+seen_urlhash:e20e412680aa448e7ff4b39998654dc03945acba94867af2484344be3159e060
+seen_titlehash:c02b90f66919d58ceb4d3d43268c842bbde8b854012e3d35ededc765637889a5
+seen_reason:processed_not_published
+url:https://france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations
+title:un nature summit approves two key agreements after marathon negotiations
+seen_urlhash:90f47dce842fbcd84471e902a61bb3c38398ae3b1bf8485272d044d5f543a261
+seen_titlehash:6ecb0f8b8f951541f522cacf6a8265831e4d26170b235985f3245f8301708cdf
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts
+title:five churches set on fire by muslims fake news by islamophobic social media accounts
+seen_urlhash:cce5508289f12743f4348fb65828d29e95440bc67b03c1424f631b22d3230850
+seen_titlehash:8bafaf0c621295c026334074c02f805d32b552858b2a4537752d5f191a8bdd32
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing
+title:maga why trump s movement is fracturing
+seen_urlhash:0aa353806f4a8f4030984c1af5fa09f1bbfa215c09e002a867f9353e93d8dc87
+seen_titlehash:007acf952aeeac127c69ade7ed3be82491062d96d2944251ffa0a1998c39def3
+seen_reason:processed_not_published
+url:https://france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance
+title:oleshky no access to basic needs ceasefire offers limited opportunity for humanitarian assistance
+seen_urlhash:535bda2c284aa51dc02d402df45a338b66944c22058b5588ae547ddc23952202
+seen_titlehash:d35c83763c289c12a712e9670e4f30a7ee8a219de80b7811c6120459ce7394d2
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown
+title:russia s novaya gazeta to cease publication amid kremlin crackdown
+seen_urlhash:cc1d7304ab2474b6970f49f5e635a83de475504987bbf1f9aa87e8c7e5bbf25c
+seen_titlehash:8dd6bfd70d85cecee28a0d045553cc347ac047a842d039374626368f6c1fc077
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts
+title:the international criminal court deserves the sakharov prize cjeu president koen lenaerts
+seen_urlhash:1ae1528b3d135d16d7704d06f377fd598e852fa30ecc24efdf8d2e7494c91bf9
+seen_titlehash:44d4153660e42455516faafebbe6e723b43ee968726a4683085532e4ec65e58c
+seen_reason:processed_not_published
+url:https://dw.com/ru/европейские-участники-встречи-глав-мид-g20-в-атланте-отказались-от-традиционной-общей-фотографии-с-лавровым-из-за-войны-рф-против-украины/a-79812668?maca=rus-rss-ru-all-1126-rdf
+title:европейские участники встречи глав мид g20 в атланте отказались от традиционной общей фотографии с лавровым из за войны рф против украины
+seen_urlhash:ff9a3321f6ce51ff6f7f5c0f7bff393388199bdf4cda91ad3a8cebfbd3ee24e0
+seen_titlehash:955b63177fcb8278b1383f253b33209b213c54e50b9114c3caecf4a7b23e6b57
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-строит-дружбу-с-африкой-на-крови/a-79811752?maca=rus-rss-ru-all-1126-rdf
+title:россия строит дружбу с африкой на крови
+seen_urlhash:d0fa030ef6868aaa583289d58e26372cd5423611531aaa9acf7f954d47780498
+seen_titlehash:d71494f59eb324130c511288cc43e760a1d994a875e3949549956df80735494d
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-акции-возвращение-имен-в-берлине-вспоминали-жертв-советских-репрессий-и-говорили-о-судьбе-памяти-в-современной-россии/a-79812257?maca=rus-rss-ru-all-1126-rdf
+title:на акции возвращение имен в берлине вспоминали жертв советских репрессий и говорили о судьбе памяти в современной россии
+seen_urlhash:5183ee5e90544a0fb78ed7c4b12b93635d84f4b20a3332bcdf267b07a4e4b867
+seen_titlehash:84155c6a8557998ff29fff7de976ef89bbd2ec23e52e7fac6442073aa5e267cd
+seen_reason:processed_not_published
+url:https://dw.com/ru/гуманитарная-миссия-в-алешках-завершена-эвакуированных-сопровождают-омбудсмены/a-79812278?maca=rus-rss-ru-all-1126-rdf
+title:гуманитарная миссия в алешках завершена эвакуированных сопровождают омбудсмены
+seen_urlhash:36c44a12106c99adf5bc63028c54f84e5973e79467b7b94ce6521a0440382656
+seen_titlehash:f4fa22f996eb7e5da7cec4fadc41f4495451c04012b70943e07f02feb688687c
+seen_reason:processed_not_published
+url:https://dw.com/ru/премьер-министр-эстонии-михал-заявил-что-продолжит-открыто-говорить-об-угрозе-со-стороны-россии-вопреки-просьбам-сша-смягчить-риторику/a-79811640?maca=rus-rss-ru-all-1126-rdf
+title:премьер министр эстонии михал заявил что продолжит открыто говорить об угрозе со стороны россии вопреки просьбам сша смягчить риторику
+seen_urlhash:958fdfd6ac432a8ac07f55abedf13c6d74569c08294846a2395686bde941e9e0
+seen_titlehash:c76e829d465154c26883f62e6fa17bfa3a3fc3d25ece24f807d6a657f7361dff
+seen_reason:processed_not_published
+url:https://dw.com/ru/сша-могут-смягчить-санкции-против-теневого-флота-россии-а-что-ес/a-79810288?maca=rus-rss-ru-all-1126-rdf
+title:сша могут смягчить санкции против теневого флота россии а что ес
+seen_urlhash:e2aae72b0258b4c50c7da5eeab3760ef2cdd25109d341b0c6a40cf61bb52b826
+seen_titlehash:ca4d819ac27be620667ada5a1cb3afadf996d0c878a74a749560e0ab1615f9fe
+seen_reason:processed_not_published
+url:https://dw.com/ru/вице-премьер-рф-новак-украина-ударила-по-трем-нпз-в-том-числе-в-самарской-области-и-по-газохимическому-комплексу/a-79811288?maca=rus-rss-ru-all-1126-rdf
+title:вице премьер рф новак украина ударила по трем нпз в том числе в самарской области и по газохимическому комплексу
+seen_urlhash:a17fa53e570c2a443dcd254da911de37858397e8c08899a297d1a85744d6ec15
+seen_titlehash:50130d2481ddf4f2755aa3969c6e0417526d7413b72b7e60718d194ce6672611
+seen_reason:processed_not_published
+url:https://dw.com/ru/режиссер-максим-диденко-снял-для-би-2-музыкальную-драму-о-власти-страхе-и-человеческой-свободе/a-79811311?maca=rus-rss-ru-all-1126-rdf
+title:режиссер максим диденко снял для би 2 музыкальную драму о власти страхе и человеческой свободе
+seen_urlhash:feaa34b21241239f9fdee36d966f528fda67f9e12fedc2d6b9a34900ec6ccd90
+seen_titlehash:1ecb524fe959b6c815aa11fefe5891f4065c95f3fe5c22b287f44abfa8b984f0
+seen_reason:processed_not_published
+url:https://dw.com/ru/претендующая-на-пост-бургомистра-берлина-эральп-заявила-что-опасается-людей-с-контактами-с-хамас-ее-признание-спровоцировало-политический-скандал/a-79809547?maca=rus-rss-ru-all-1126-rdf
+title:претендующая на пост бургомистра берлина эральп заявила что опасается людей с контактами с хамас ее признание спровоцировало политический скандал
+seen_urlhash:5c9080373740c6f612f6ee103d0fdf40a0959166a930377160357d2b3865a871
+seen_titlehash:e115893296b9c0785197b74cc498a2d0f042f5a52b133ec4d46e2bfe41dcf799
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/grecheskie-porty-paralizovany-zabastovkoj-protiv-militarizacii
+title:греческие порты парализованы забастовкой против милитаризации
+seen_urlhash:c0e234e6f558b19998905755c9c18b6c0efb5ec7c0bcf13af36ba221de09280c
+seen_titlehash:e204cc521a7d8f0ff9b756f18880caab120d19a8f252aa9a536bad1225529f19
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/ukraine-residents-evacuated-from-oleshky-a
+title:жители оккупированных россией олешек эвакуируются после объявления перемирия
+seen_urlhash:81d4ecc570b350b76f2e4ebb3f802864f068348aced9c4b8762f4ffca0a3905d
+seen_titlehash:1639c6b716204fac92c5d16bcd743d6739b6e25e57ea6f8c7d8bd70ee031f0a6
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/canada-eu
+title:канада намерена стать первым ассоциированным членом ес к июню 2027 года
+seen_urlhash:0fa81c4f2aac71e9e8b591ffe2ca09c9e0efbde311609502b772164ab08faa9c
+seen_titlehash:4dc6cd7c7bf79fd5f77eea67e487f4d4dc744b78b8b17724d3718c9f9a87e69e
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/south-korea-offers-talks
+title:южная корея предлагает переговоры пхеньян угрожает сеулу ракетами
+seen_urlhash:f3a026b2b635913034d4ea8b1889e98eed883951ada2519d13d22a84cc5d0dad
+seen_titlehash:85e858c4b94d87af9b7c6ca830444329ba7481204a176b64b5eca3e0c66e78a9
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/the-french-economy-at-a-standstill-what-effect-on-the-budget-equation
+title:экономика франции на пороге рецессии кризис вокруг бюджета усиливает неопределённость
+seen_urlhash:8be5d9ada7bb4a2301e965064e831620842fa8ff5c16d1b878b4389e3c761933
+seen_titlehash:a444888c652dd9377ac392f8a7cb6537b69e8292e3f638132741ce1b12b7a8af
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/10/30/tankery-pod-udarom-iran-blokiruet-ormuzskij-proliv-vo-vremya-kriticheskoj-missii-katarskih
+title:танкеры под ударом иран блокирует ормузский пролив во время критической миссии катарских посредников
+seen_urlhash:406a17646b22aeefbf733e84f81907bcd300b648a97d45cb92bf7ba9d730afca
+seen_titlehash:587529116b3513661ff21c107d6c20c405515b173a26aa8627667d6d6aea269c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/10/30/novosti-dnya-30-oktyabrya-2026-g-vechernij-vypusk
+title:новости дня 30 октября 2026 г вечерний выпуск
+seen_urlhash:e937393cdab812bcd1f170054e94c6cf6be60c172c458d8810500420e0837a0f
+seen_titlehash:60f2cda1557d42c6b0d8dfcccbca0203d9124d9200ef3161059e39aeec51f8a9
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/31/v-polshe-otstranili-predsedatelya-konstitutsionnogo-tribunala-zdanie-otsepila-politsiya-a-oppozitsiya-zayavila-o-perevorote
+title:в польше отстранили председателя конституционного трибунала здание оцепила полиция а оппозиция заявила о перевороте
+seen_urlhash:7cd80cd67885d82a69e29170c7918bca10a74b82dd54e5073516e78bc871e3ca
+seen_titlehash:7db7409cffcd7f530e8d4567916a9c682b0d4883bfa109ca2a654cc43b180299
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/30/evrosoyuz-otverg-ideyu-sdelat-kanadu-assotsiirovannym-chlenom-soobschestva-protiv-vystupila-germaniya
+title:евросоюз отверг идею сделать канаду ассоциированным членом сообщества против выступила германия
+seen_urlhash:7ab19c62302192f212002db3116994e80feacbd430629d92ef7fc4950c65f2f7
+seen_titlehash:c4d3909474ceb6ddb7b409c0d4d6f81c875f115c486c2244ee92622213bc3f7f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/30/gosdepartament-odobril-prodazhu-ukraine-500-raket-dlya-patriot
+title:госдепартамент одобрил продажу украине 500 ракет для patriot
+seen_urlhash:bc750a9111b0db5b716059eea62344c5df14f2d039d618378200283d88e65314
+seen_titlehash:3e427f64bf10db4944fa06a6925b0c11253eb027ba683419222b6a5b7f722fd1
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/30/na-sammite-glav-mid-bolshoy-dvadtsatki-otmenili-traditsionnoe-fotografirovanie-iz-za-prisutstviya-sergeya-lavrova
+title:на саммите глав мид большой двадцатки отменили традиционное фотографирование из за присутствия сергея лаврова
+seen_urlhash:c7557e3cccd6ba853efaef37e6ef73788b1a847868a4b722e625325648c29f65
+seen_titlehash:8928e1be65f839220b0c8e2ac831895762793e971396e84a1b776ca7a17e59bf
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/30/opyt-feniksa-u-nas-est
+title:опыт феникса у нас есть интервью главного редактора новой газеты сергея соколова он работал в ней с основания но власти все таки добились закрытия дела его жизни
+seen_urlhash:489d50e6567e4f50a0c61d614f5fc1e1dac528e859830e6f8117fdd82bb27778
+seen_titlehash:acf1a8ecc51f4e6c20e1f88d299dc02ba8888f221eb0a7f0a81dc731e13cd55d
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/30/v-eti-vyhodnye-protesty-vo-frantsii-i-ne-tolko-mogut-vspyhnut-s-novoy-siloy
+title:в эти выходные протесты во франции и не только могут вспыхнуть с новой силой как получилось что студенческие акции переросли в беспорядки и погромы кто в них участвовал и что будет дальше
+seen_urlhash:eca9eb2f07cc76b525fb0c3226d134f5151a5c4fa2d31c2f5464de3274e5a146
+seen_titlehash:78662dd9d2f542ca4fe60eb6f504ff87b7afa38f6ba1464c88207573a62af4f2
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/30/kandidatka-na-post-mera-berlina-elif-eralp-boitsya-radikalnogo-propalestinskogo-aktivista-ona-sluchayno-soobschila-ob-etom-zhurnalistam-der-spiegel
+title:кандидатка на пост мэра берлина элиф эральп боится радикального пропалестинского активиста она случайно сообщила об этом журналистам der spiegel теперь многие считают что ей нельзя доверить управление городом
+seen_urlhash:02919bb79a4908f116bff49b0b1f9ff728864aec5b859b2a880de5a26ae8158c
+seen_titlehash:2b67c03fa7f620752b89f0d71e1e40990e8db9cf7015e1b5dd276d0357c1a68f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/10/30/amerikanskie-fondovye-indeksy-upali-vsled-za-aktsiyami-tehnogigantov
+title:американские фондовые индексы упали вслед за акциями техногигантов
+seen_urlhash:d68c0c60711447b0f92d2a935b9278bbf492285f6e6a4bcb8d1075ef915a5593
+seen_titlehash:b6e663407a0ddabc6440dea4e0e522fd002dc66e47d9c294c11eed266a6e8b3b
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/10/30/v-strane-gde-nichego-nelzya-byla-odna-neudobnaya-gazeta
+title:в стране где ничего нельзя была одна неудобная газета 33 года новая писала правду о событиях в россии вот каким запомнят это время и себя три журналистки издания елена костюченко екатерина гликман и надя юрова
+seen_urlhash:7f63d2b99a3703139d48ec7ffe7eba4696953b7bd040b584a0fc4634d2b0d292
+seen_titlehash:1dcfca80dab09abeb5c1a3d819f892a927cf8e237c6e80d13abaa8d3995410c9
+seen_reason:processed_not_published
+url:https://ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7?syn-25a6b1a6=1
+title:healey buys time with pray and delay budget as tough decisions lie ahead
+seen_urlhash:ec5ecbfa874b20b7b2ad1fa20cb0162d9adc3bb69ceb02d9175b43b8866972dc
+seen_titlehash:d0abfe5027e4e5e1cb079de04758954c37e4812c71fbfb8fdd54b30a14bdd715
+seen_reason:processed_not_published
+url:https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1
+title:anthropic may not secure investment grade rating after ipo blackstone says
+seen_urlhash:c4fa7f6a5487d760694fffb39efcc42304e1f77adf861f56cd9d41c97d0e3b38
+seen_titlehash:78e1a217e07220a3bcd5a8571c91f336d1a16a95ce3883e7e75540a3bca6f1aa
+seen_reason:processed_not_published
+url:https://ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1
+title:how ai might be deployed for better bank supervision
+seen_urlhash:7dc75a1ec635aa9197c76a279354c48aeadff3a4a15faf094e98953577b8bf59
+seen_titlehash:6b83bf2ddb50d0413fe598a823f88174f172f3c4c7a8df7b96c9b543e4164f9d
+seen_reason:processed_not_published
+url:https://ft.com/content/e8b9c03f-5741-4c81-a103-d888db7f0242?syn-25a6b1a6=1
+title:how to return big cities to pedestrians
+seen_urlhash:35fbded406046eaedbdff106612fb9e66656101d22e81ab936fdeee0ac5898dd
+seen_titlehash:8bc08797e560ea703d29dbd0e33008c450eb5ec2edd71b4b0867c6e53b93281a
+seen_reason:processed_not_published
+url:https://ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf
+title:stick or treat
+seen_urlhash:444772106b4d8e0fa7cb439891a034b402723a4995d540505ca4e16bca18fc10
+seen_titlehash:5bc12ccae6349a36d1a734e82fa564a465cd8f9e1a4096e78ddf03e13c8defaa
+seen_reason:processed_not_published
+url:https://ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1
+title:apollo and thrive capitalise on private equity s generational shift
+seen_urlhash:999e4740a96851053b283b757fb950d6a3bb87daaeb26842dcbecfb9374e1ecb
+seen_titlehash:a15a758719b5a330e121f65a04cb4b4c89c7824c4e07456b5d7cdbda066fc480
+seen_reason:processed_not_published
+url:https://ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1
+title:cd r pursues buyout of 40bn card processor global payments
+seen_urlhash:25396997a81baa37aa3b9d252257030daaae9952bc970f93fb535075556f639b
+seen_titlehash:90126c777f511ad9fa434cb77c1bde41d312951fce684ea3332b0eeca803a84e
+seen_reason:processed_not_published
+url:https://ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f
+title:the effects of a midterm blue wave will be felt for years
+seen_urlhash:84afa9c7838cf43868b672b0f32a00ec98883fd14e35bb12a37042e5555bbd72
+seen_titlehash:c5e9a4e5bc73f2abef71c737e4626a96ce4b6cb221f6c9b8c59ec45f76c48ca0
+seen_reason:processed_not_published
+url:https://ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1
+title:lula brazil s 81 year old comeback kid
+seen_urlhash:eae54e1fd5a659f1b9a77b390095abedc005eb2ac2571de7b444f373cff1a401
+seen_titlehash:98df0fc9f2709edff9fad85e8b52d6da0fe428249bb1e6404b805233e6c0687d
+seen_reason:processed_not_published
+url:https://ft.com/content/a7d0b547-88e3-4a30-953c-9490f7be1aa5?syn-25a6b1a6=1
+title:ducks at dawn maga and liberals unite in midterm foie gras battle
+seen_urlhash:77ff00041c7634b1f7f8f1810528570800f1db05940caf4aee51d61a6168c637
+seen_titlehash:e389bcbc3c155c0933aafa72688104895f754198f07fdae479a6cbf303a19bc2
+seen_reason:processed_not_published
+url:https://ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4
+title:the us midterms the verdict on donald trump
+seen_urlhash:44be8e9b5146f92afa0daf29d523aa18382d175000db7106d154b96cb2436fe5
+seen_titlehash:c4099cd907f19aada0ee49008a9008a54da33d43c9f580678a4110ec052ce34d
+seen_reason:processed_not_published
+url:https://economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history
+title:the war room newsletter the best warplanes in history
