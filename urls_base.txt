@@ -180283,3 +180283,103 @@ seen_titlehash:034c878fb928a25a703a965d081f08e4a2e385cd2944bd33ce1e4cbc6feffa66
 seen_reason:processed_not_published
 url:https://ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7
 title:france and the uk require a new entente
+seen_urlhash:b4a1d3b760d73c44ca0714551c283d0b08d16d1717188f09e0e76171abd73891
+seen_titlehash:71d525acf9eed1b28e116e0da0cdb7868092e33efb4f3db38b5ded95b942c005
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html
+title:a lesson from germany
+seen_urlhash:5d545711fbe41b9377086691c7a9799b03d426dca6a641929c477690d49b0fe1
+seen_titlehash:a0fae9549e0cdda87fadd6d30ce47d8753a04336f276869bd93bbd822d15cf3a
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda
+title:uk was vehement slavery reparations should not be on commonwealth summit agenda
+seen_urlhash:c2403d272d7990829b370ef29b09885b9af3f3fb2b84bc993e71ba330534160f
+seen_titlehash:b4fbd883abb67166a89899049af4b57bb0ab1b67e63957e9571fe5cc3dd432a0
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb
+title:nationals leader matt canavan to run for lower house seat in possible showdown with one nation s james ashby
+seen_urlhash:aab802b8bbe26a2123d14134e13c2a6798fc7ac8c645e0d1acb7ef1bf2826815
+seen_titlehash:b5be040e66aa9aeba151bc71a6a9bf58493315945d02166787f832e3c1c7099e
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss
+title:high ranking us democratic senator suffers stroke
+seen_urlhash:ef24e8e56396f664ef9d431f6744bb627e1f65ce2820c99ebbe0910abea7a8f2
+seen_titlehash:d2083489ad535837e1d0119e6438f17c1270e0392276d197b628718f966678ef
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss
+title:kherson braces for return of war as localised russia ukraine truce ends
+seen_urlhash:dea9350ce9e0d7d48fc206955388a30993f656fc744911cbaba38d32a6f79612
+seen_titlehash:3f238bc69015f61e441956add3944c820ffaa86f9ad76cc783530607010ce79f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss
+title:democrat haley stevens heckled as she backs el sayed rival
+seen_urlhash:2ba3fba0b5a64525cf24543a123655a378fe535d6325a9b3e4e5795d955d4e95
+seen_titlehash:394fdfe6a529e11faf8d4830f195ac6da5c9b8029180cdc90521f3a4751ed79f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss
+title:thousands displaced from hebron as israel carries on siege
+seen_urlhash:cb9c85da1de2822962fb2d97ba63f01ebc01e02ee4040375526539973bf22e08
+seen_titlehash:d562d32214fe61fd7527f2ad03997ef1aecf929772d939b8673e3eef39e35567
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss
+title:carney signals progress on canada us trade deal talks as midterms loom
+seen_urlhash:d6d4cb3e7f3191ef593b94d5ffe186f28cc5b76fabc434e4cb7d0e5791b0b0cc
+seen_titlehash:4c9b8a9d29dcab9901400e0879367d01d287342f051f431e75027cee0ac86aa6
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss
+title:why did democrat haley stevens just endorse a republican for us senate
+seen_urlhash:a8b3eb5b933b78fddc36756d1cd4bb5a41097bd6d1664409609127281e8e932c
+seen_titlehash:478e0a50da78f1b7fc31c666d34cfb7f355ec6270e36ea62b03dedd29121d1ca
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss
+title:al jazeera director general hails 30 years of groundbreaking news
+seen_urlhash:740c26c1242c859d4300402a7e290e7ed0eaf88cf48c68a9c6fc9eb427face6b
+seen_titlehash:7171ca815c5bcc912b85c55c0979ff3ef1146a8356d08d51772643e96c532217
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss
+title:bulgaria s acting president iotova leads in run off exit polls
+seen_urlhash:bf579eea11ac7f4421498e427c7baa638b16b2d1504afe647dc95648ecbb83ca
+seen_titlehash:a4b5d9abe92167706b3a42a105e40391c213e48bc738981cdc184dee72450c19
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss
+title:police clash with housing crisis protesters in portugal
+seen_urlhash:34c209f109a6f88d010e3120a252840a1e6654d99ecf96a55a2c473dba40aa4c
+seen_titlehash:dbe0f7e57f85de79b9733802d05512abf09032e250bd69e434ee9e27b31504d3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss
+title:al jazeera celebrates 30th anniversary
+seen_urlhash:5a213dabd3f7b3cefcdd1f42f09da7553defdc652e55ee567c29ce75d580b3b5
+seen_titlehash:768b72912d305c4af9e24f0f9187866f8e3a3035ae9132d2c7c1153ef3992de3
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss
+title:video captures house collapsing due to ecuador floods
+seen_urlhash:df4b04c5f5b38559c40e4f6d6bb2c8a2cb69db55d99db50326d39b7c81be2d7c
+seen_titlehash:9988e2bb9d62b7273238532f007b104d168f03631a14444c96cca66ebbef9bd5
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary
+title:french presidential candidate édouard philippe rejects centre right primary
+seen_urlhash:1e8a1a9c49db26360fe6e9a16806f1a84d0fbdabf3543d60d80aeecaf7bbe321
+seen_titlehash:7357aa40c071b7f59fbbdd387c9cba076b0408699fdf6b0234e81d327a38a1fd
+seen_reason:processed_not_published
+url:https://france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years
+title:un s peacekeeping mission in disputed western sahara ends after 35 years
+seen_urlhash:4a8897e314828453e7ec2890b38b98ffd58e1b03730a1c7ed579dfcc633a6638
+seen_titlehash:d2b629d4564ac0e1be5ba2fb304ea3bf530e4e5138d74c861f72f5ec7d57a636
+seen_reason:processed_not_published
+url:https://dw.com/ru/на-выборах-президента-болгарии-побеждает-илияна-йотова-выступающая-за-дружественные-отношения-с-россией/a-79824944?maca=rus-rss-ru-all-1126-rdf
+title:на выборах президента болгарии побеждает илияна йотова выступающая за дружественные отношения с россией
+seen_urlhash:8e2a4432f9fd6388afba83807bd3bb917f6568efbf384f43b9ea8b88898acaf3
+seen_titlehash:c9ff290c961d4ec73a6b1dfb8fd97d6c15d85cfbb5cdd3b8f34130a1cec79dbf
+seen_reason:processed_not_published
+url:https://dw.com/ru/мид-ганы-путин-запретит-вербовать-граждан-ганы-на-войну-с-украиной/a-79824757?maca=rus-rss-ru-all-1126-rdf
+title:мид ганы путин запретит вербовать граждан ганы на войну с украиной
+seen_urlhash:78c0a7891b54433f443f060be432f3803e4f7e9bc8e3e1ca07da1ccba3e3806b
+seen_titlehash:4e8aa7015e8f6e570d0a3c71aff77403ca26ab8ff410eec10a0a407deb5c7cb0
+seen_reason:processed_not_published
+url:https://ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1
+title:what s the risk of political violence martin wolf on the us midterms
+seen_urlhash:2ade9e83e159301782480f12d4ad86b30b8ca2aac0cebf88c8dd61b2d5494198
+seen_titlehash:624666ed8c0a22ae8c2be76dfcf325f672dca7d78d36fb12be3c7b0e06618380
+seen_reason:processed_not_published
+url:https://ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1
+title:firstft gulf braced for renewed war between us and iran
