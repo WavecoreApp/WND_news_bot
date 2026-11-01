@@ -179593,3 +179593,458 @@ seen_titlehash:10cb76d18dd5028f7370efe090b52d496dfda7c863ab219ce6458d6b2e4555d1
 seen_reason:processed_not_published
 url:https://ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1
 title:toyota backed truckmaker bets on aftersales service to fend off chinese ev rivals
+seen_urlhash:bfe53bee94c33856f43e3fd1fc76d681c30bfcab7b28fb2f72b2818f10058a8d
+seen_titlehash:54cd0e9b76697b3eac57b92d0985ea33ca5923863b8195d24681acd9239ec834
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss
+title:judge dismisses trump s lawsuit against wall street journal over epstein birthday book
+seen_urlhash:56f6306a5864fac18dff092d6d751c92fa39f9b5f776c6e4498fed50a78443bb
+seen_titlehash:2c4f16c2aba1244b13d75f5e2495d29f043554d969e86831bc2e214b9eef16c9
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss
+title:judge orders trump administration to stop threatening us election officials
+seen_urlhash:ba7bedfd377eae1b9ce6577671c7294dc70688640bca8441965fb73d5676b05e
+seen_titlehash:2d84bfd593b7bf97251d8d070f9aa3f0d44d1462d62727a6209add9c41429b7a
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html
+title:putin breaks down his isolation with a big assist from trump
+seen_urlhash:e54ff101aaa3eea0c59ffff8f9097acba65d00d4730ca1af225429aad3a6c0b2
+seen_titlehash:59e5a3d8c08fd9c5be342d940df402028f4824c9b00084085e702d9fe2ce4bce
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html
+title:netanyahu s bid to stay in power will test his political savvy
+seen_urlhash:03cb56333f72753a723b5fd8ce6d13ddb5eaa607b9f7ec7d399dd3ee05a26c65
+seen_titlehash:d0011e49f05ee6d04d1b442493cf43c0a3ab99c816978800d5db341a14c47ef5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html
+title:ukrainian evacuees from oleshky tell survival stories
+seen_urlhash:5d16322504f436703d2181939d25760e42297b0e4e5c3c16f52625599a189df8
+seen_titlehash:b117a6ae1f6b7fc5e234e4a312712af8273787e37b1fb17bfb1e4fe3e2a0707c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html
+title:where do israel s arab parties stand
+seen_urlhash:474fb5e19016db5d6ae7be0f2f1ed0becada62c295245d0aa442db2c410f5c45
+seen_titlehash:d924b40c726f43884211ec84f180e4be1ea38841a52eb2451a3d44209a6348da
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html
+title:joseph lagu who led independence movement in southern sudan has died
+seen_urlhash:3bdaaf79bf36db89a30a5f6f51877e807f5362ccd4d135d1d38f3b72af4b3fd4
+seen_titlehash:186ed88541e1cba03c38cd456c1742c5f5db253323bd1a75b7188b930f485b20
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi
+title:the us china trade war seems to have subsided but the sense of calm is misleading
+seen_urlhash:796d1f09be986633eb9dba677bb95d9ac579b84f0f8b58e34d190dd74f1a7621
+seen_titlehash:cd27aa030b6d6f6a825d1d4cffd9f910c3a05ab38bca1e2f7ad7e86b6b9eaac1
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand
+title:home values fall for seventh consecutive month as interest rates dent demand
+seen_urlhash:75a7337ef47a756adbc8d99ea48c63a6d8f52e24222f91738d1767ac5f78e1e4
+seen_titlehash:cf3474662bd1b1bbbd1a7a82a125e0cddc19c11067f94b63f46d6a68e48643bf
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb
+title:former nsw liberal leads overhaul of one nation candidate selection process
+seen_urlhash:61677fd76c611dcaf76c545ee6cd665e7b875743927dd6eb6c5808c91d528e0a
+seen_titlehash:99b4cf07875d0a5a3cefd98f73088befb9e13ce1e0a8d2c7997d0878d0037ccb
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature
+title:northern territory water plan condemned as blatant and shameless attack on nature
+seen_urlhash:02714d673c67703084fa7c424cf1138ce7d8764eb6a1414c623d33d9dd7d0023
+seen_titlehash:76807da01025a8ba7e7a3b7f8cf95786308855c8ae199529c34b0262e6797278
+seen_reason:processed_not_published
+url:https://theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb
+title:ai is stealing indigenous australian art and churning out temu slop artist says
+seen_urlhash:0ed32347c7f6644a837354d42bbdbb8d6ad14052664c33af4aca9cd7cac7d29b
+seen_titlehash:6b7a712887f582696dc7f1c857dc9673fb4d51dabc18343de2ca7f39f4fc7a91
+seen_reason:processed_not_published
+url:https://aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss
+title:photos thousands join india s opposition rally against election chief
+seen_urlhash:ada6202932a08c4832e28b973016462d2ebb3a5be4fb20fe3e9b51af467c2007
+seen_titlehash:232a531f9e7455abcd39a052ada12d11a06a13ea95c66fc062866f495b296824
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss
+title:why is morocco celebrating the defeat of a un resolution on western sahara
+seen_urlhash:7892d001b23ec68c2007992c6578f93485ddcbbbd4d53f8be76979a8bff2305e
+seen_titlehash:75c670ce88d1cfcc9c73000d7839c47a1e3a7a3527b741f8b28f9b5b223ed459
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss
+title:israel election when will government be formed who will lead it
+seen_urlhash:a0b4b70cb269df1d64cd10cfa312398af8eb2eaa9dc236b8ab4f07f2675a51ee
+seen_titlehash:e41e58ad6ee27580c74b1db2313235dae42ce01336e606cde208e16c0b942e4a
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss
+title:israeli attacks on gaza kill at least nine people
+seen_urlhash:3a64cccc59401eeb85691bb1c945562dbe35f0a645ee40592183a589d6cdde19
+seen_titlehash:dcc4871d84ce398e51b6dc4b56b8e23ca5c3dab3e20bf02605a389f21633a144
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss
+title:macklemore concludes free palestine tour with solidarity message
+seen_urlhash:7ed37ebee9fdbd9529eae2d7640934362311a542a56e586c529f55f8bd35238f
+seen_titlehash:fd4a2a5baa3bfb98457b26867e48158a2004196785f077abadf0d3d1cb22aaf6
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss
+title:ireland s european athletics champion ciara mageean dies aged 34
+seen_urlhash:7c479b59157690bdcc4311eecf9ed4432bcbf7be239a1fb6eecdef33fd4b6eb4
+seen_titlehash:998cdbf8d3790c7fd96f1d3448b07b2558bd3d1cf3f402d3f1db5026b80abf6f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss
+title:us midterms live trump democrats in last ditch efforts before polls
+seen_urlhash:5882b9e6a7b00a219bff336408eab3131625ea3a7456bf440f41413821be4747
+seen_titlehash:9629b972cee7908d5e32900cbf01bb7419fa5c17f15bc21ff84068b535adac64
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss
+title:at least eight palestinians killed in israeli attacks across gaza
+seen_urlhash:90422f221dca14dc03b0d555d792e6a732832db66e01bbef9b2fe5b8a983a274
+seen_titlehash:511284aa3540de1e9a54ac674ef81ef33fdecb894178f8933321fb264100db7f
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean?traffic_source=rss
+title:more than 50 million votes cast in us midterm elections what does it mean
+seen_urlhash:db9b8bb27c595105cd50159db9223bd8364c8e11f5d4ef5be579613033a4947a
+seen_titlehash:e8100285060c0aeeb2c99a2195aaef62575ee87dba4b453a816428c8c057481b
+seen_reason:processed_not_published
+url:https://aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss
+title:palestinians in lebanon suffering worsened by high energy prices inflation
+seen_urlhash:07c94e9bffec69a972d0f20da0e341ca6aee12b2f4d339d64b3332c95c2c4858
+seen_titlehash:c69cff706b74bad08948752fe4f784983e58cd24afd2a483e86c514396baabe2
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss
+title:michigan race all you need to know about abdul el sayed v mike rogers
+seen_urlhash:2cae822e2b272615eda58650a961f0f36903012f8eb45202a4adcdbf34214934
+seen_titlehash:0155b747fb9988d543dc6db528c680582b933a56dfe1785b900e15375b0658cd
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss
+title:iran and us explore diplomacy amid rising threats of war
+seen_urlhash:01bdd2bdf908ad99393906b3bbb2d2174a7d992eb0610f039db07e1199f3b0da
+seen_titlehash:01dc824040756c1efe35fb751bbf28682d7d68dfebcb7ff1d39b74e95b6890a1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss
+title:binance restarts withdrawals after 6 3bn heist
+seen_urlhash:b8484ec502f0ac7e0b734e42b6c1eac93fd89e4296f7ce6ff729035db5da3e21
+seen_titlehash:fb368f6760adefd96be4222ab7357eaabb729769f13b149dd3a4d7b4e549d373
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/senegal-kicks-off-the-youth-games-2026?traffic_source=rss
+title:senegal kicks off the youth games 2026
+seen_urlhash:eab59731543b3e36de647f8bf9c92f44e6f5240b6d882a45054ef7c056325253
+seen_titlehash:232304836f3513b2339e2b2124db9f660ef63216a8bb7ffad897b278c23aa26b
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss
+title:yamaha pulls out of qatar motogp over situation in the middle east
+seen_urlhash:caf4ad5fb9c4c658d76780b129d0ca7ae1a81016a0b7c8630e8136291890f277
+seen_titlehash:00554fce5043c412ee6fa39c453818892b7df90ee85d81121397bada10d2705c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss
+title:fire engulfs hotel in nepal along everest base camp route
+seen_urlhash:203834f6bfdf58d79fb6134729f76b3d0902465efafd05ba073f41591ab9d5c1
+seen_titlehash:e02a352ede44002c3ebacd0b040ff98f24999ad4423d432a72d19c074395296d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss
+title:thousands rally in new delhi to demand india s election chief resign
+seen_urlhash:0883fe7f3c0972d25b92b646661a14dd2ad31a20555585e95ebcdf850718f4ee
+seen_titlehash:aa0c7e406942181a7d493cc3a02973fd18cc72fce8a66440f0642da2d2e22238
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss
+title:mediators continue us iran negotiations amid war rhetoric what we know
+seen_urlhash:bcd57ae8677ada8a88a88f0d1c287999dfe731b1980c25f41ade9b9afec7f048
+seen_titlehash:c691252357876e4f19aa936d371a323207a8a5c07287910357af4c77519d7300
+seen_reason:processed_not_published
+url:https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613
+title:university of cambridge scientist died in spain train crash
+seen_urlhash:58e323cede6af0862bbb696119c9a8b1e039a8313c994da641539485a123b04e
+seen_titlehash:ab822b1eafef32d9defff60a3c976ae149a8ee03a2119b0116fde8c1f5b03617
+seen_reason:processed_not_published
+url:https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579
+title:former ireland european 1 500m champion dies at age of 34
+seen_urlhash:3cfe4290f6d5608d2c41e2a22c531007786a8c1d06e36f8832c14faaa4bfb550
+seen_titlehash:19bc146e47f7dcc80d5d281d7162ea54e3c2542a27c020afa408643b5c937d9c
+seen_reason:processed_not_published
+url:https://news.sky.com/story/suspected-far-right-activists-from-britain-with-tear-gas-bombs-detained-in-france-say-authorities-13606604
+title:suspected far right activists from britain with tear gas bombs detained in france
+seen_urlhash:595875c557c50b3fa9db5995a4edb7614550b9b3bb5f331cd45555806a5d62ca
+seen_titlehash:b143b3cb1b3b4621ecaf7504db66e6aefa74b4a2d67b0b0974bbd795c794babe
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say
+title:french high school blockades to restart on monday student unions say
+seen_urlhash:37bf891ac0cd2862070d4bb1b3c43e8d7a5ec4c7ec72d461fa272f7b8812115b
+seen_titlehash:986e2ca279f094f422be3bf1ac09c41cbd252f0cb3679601c77dddfe54fa027f
+seen_reason:processed_not_published
+url:https://france24.com/en/us-midterms-democrats-face-leftward-surge
+title:us midterms democrats face leftward surge
+seen_urlhash:cebffa325cc540da3df7ce5f8826981f6908a48f4d633a70b49198b7b1ef47a8
+seen_titlehash:1d4962ce50cde3a1d1ab0ce34f03e21dd273ac6e01cdb1dd4c3d8fcfb49d524c
+seen_reason:processed_not_published
+url:https://france24.com/en/poland-rocked-by-constitutional-showdown
+title:poland rocked by constitutional showdown
+seen_urlhash:5f272b74c58bfe2081720d2a0214e5db8c5e329e6e4f1fa684d8573781049ee6
+seen_titlehash:9692596fa4b291d5390006cfbff016304acf52634e0a51e1312eadb39d29db64
+seen_reason:processed_not_published
+url:https://france24.com/en/france-route-du-rhum-fleet-ready-to-depart
+title:france route du rhum fleet ready to depart
+seen_urlhash:bb9ba38c22192d404229e1b3ee7653efe96158e058c5e5e34a8955b17b9e2434
+seen_titlehash:b553bb24e6417452162539045c582417f35bebbeabb42a4110888f0c6e21f008
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261101-the-week-in-pictures-lula-s-victory-israeli-elections-and-spain-train-crash
+title:the week in pictures lula s victory israeli elections and spain train crash
+seen_urlhash:11f2a1f36490fe484f412fe615e89f733c218c72e374aeb2b4e0526d76910156
+seen_titlehash:5b62578df51aae8ea32d3e6c6ae32c8d4425e2a2b3cebb4969985c5abbfe4bc8
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway
+title:a day of celebration in senegal as the youth olympic games get underway
+seen_urlhash:b9f191e5c69dfe7a818f7d71d172422019a21774e3b419d484749367af23a8d0
+seen_titlehash:04cdd44f53f656b4a6c49533e20bb46929c613cc80b8f30d378f27dbe380bbe5
+seen_reason:processed_not_published
+url:https://france24.com/en/senegal-hosts-first-olympic-event-on-african-continent
+title:senegal hosts first olympic event on african continent
+seen_urlhash:7d7e68019d61770756e8d667894da9dd62db29f5c39495f7061ccac51e79b5ad
+seen_titlehash:f674bd2d38a1773ab4d4ae47f3460cef4e69075f38d9dec36fb0b6d0242fe2f6
+seen_reason:processed_not_published
+url:https://france24.com/en/youth-olympic-games-kick-off-in-dakar
+title:youth olympic games kick off in dakar
+seen_urlhash:0741d3e14beb194680d6374974492f70b87369ef122833f557bd1b5ad7559879
+seen_titlehash:e466a53bbbc91f5a219f54914296de2e11da0cc4864e728140f69e6d5aa2d491
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261101-the-world-celebrates-halloween-traditions-costumes-and-pumpkins
+title:the world celebrates halloween traditions costumes and pumpkins
+seen_urlhash:804cf011c851765058b03ee2847cdbaa3c69c1afe75b67af4b856a4858f24fff
+seen_titlehash:9d5b018b6af4af5f6e93d7e954b365e69c661909a3986b0cb1bd75c3d890525b
+seen_reason:processed_not_published
+url:https://france24.com/en/france-115-yachts-will-sail-out-of-sain-malo-for-route-du-rhum-race
+title:france 115 yachts will sail out of sain malo for route du rhum race
+seen_urlhash:8229a1b6bb858aad33d306b897dd2545af82e3d218e92db0daed7240707df3d2
+seen_titlehash:11dfd068b93aa138a95d7fa4666c53bf86e432f40860c5001288e32b35386b2f
+seen_reason:processed_not_published
+url:https://france24.com/en/us-midterms-affordability-at-heart-of-michigan-race
+title:us midterms affordability at heart of michigan race
+seen_urlhash:31a8bc0b2eaa377701988e69050a71726cbfada74fcbd24043d0299d1f1cb1d9
+seen_titlehash:a4ccfd98ae0f20ca28ab99e9f4ee1c88830c3d0145bed8b1785e5e6f30518567
+seen_reason:processed_not_published
+url:https://france24.com/en/youth-led-rallies-sweep-europe
+title:youth led rallies sweep europe
+seen_urlhash:5f7a58759804c58d3c774ef85e5ddd0ef83c85881f84f11376908ef7e454bab5
+seen_titlehash:82bb0c4fcbf4822b11cdda33d0baf05bc83de64d68008f844f1709b037b41498
+seen_reason:processed_not_published
+url:https://france24.com/en/how-social-media-are-central-to-protests
+title:how social media are central to protests
+seen_urlhash:2394c5f57a142799fde5a572924efcd7aeb8aebdfa22f5fc207a025589497ef9
+seen_titlehash:7c1df65e64dac2b2b96e22cd10a3b5fc6d516b9900feba988037778f26e39de5
+seen_reason:processed_not_published
+url:https://france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii
+title:hundreds of thousands protest in france for act iii
+seen_urlhash:c72239995c6b5e87debc49c05467828b715295ebab23b7ba954e841125db9795
+seen_titlehash:482ff4ece0b770ab53e1448039b5f80e355d2d0a9e003cf26a0451862aa11f42
+seen_reason:processed_not_published
+url:https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack
+title:binance resumes crypto withdrawals after major hack blamed on north korea
+seen_urlhash:7bf462ce4280337a11aae80ed2d58fbafd374cfb6d0b7ac544c46664bfc8a4ee
+seen_titlehash:fd9e628d1b34bbbe8c9831bfad71d447d4d09a3413e7a35d94f628bf46c4c68b
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea
+title:bulgarians vote in presidential runoff amid security tensions in the black sea
+seen_urlhash:d413580a01eaba09dbe11784bcba53d7d384e9ddc42ada5c6079c70c9535ed39
+seen_titlehash:94429bca00062f0e4e0644489bb83c5bd64e1df3f13703db1bf6ce4841f029f2
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-мвд-фрг-добриндт-связал-беспорядки-на-демонстрациях-в-стране-с-левыми-группами-и-хулиганами-из-мигрантской-среды-и-пообещал-суровые-последствия/a-79823084?maca=rus-rss-ru-all-1126-rdf
+title:глава мвд фрг добриндт связал беспорядки на демонстрациях в стране с левыми группами и хулиганами из мигрантской среды и пообещал суровые последствия
+seen_urlhash:3f60be123dcc26e64195c8c94eaa71c071a0fa73f0032437f25af85c38d7821a
+seen_titlehash:808e1d8d52a9a2e3fe882dd065bd92c2fe9b48b5107047bf1a5560fd5e5cf7b1
+seen_reason:processed_not_published
+url:https://dw.com/ru/спецназ-швеции-провел-рейд-на-связанном-с-рф-корабле-в-балтийском-море-судно-принадлежит-компании-подозреваемой-в-гибдридных-операциях/a-79823042?maca=rus-rss-ru-all-1126-rdf
+title:спецназ швеции провел рейд на связанном с рф корабле в балтийском море судно принадлежит компании подозреваемой в гибдридных операциях
+seen_urlhash:e975225fab8dcf65633aef07d382502804d3392bea98651a8b9b2f088791a407
+seen_titlehash:0f4e9dffed62827ef9faf9d67f15b01341ae9de011fc21b9c2d15a380179f17d
+seen_reason:processed_not_published
+url:https://dw.com/ru/газохранилища-германии-не-выполнили-нормативы-по-запасам-газа-к-началу-отопительного-сезона/a-79822528?maca=rus-rss-ru-all-1126-rdf
+title:газохранилища германии не выполнили нормативы по запасам газа к началу отопительного сезона
+seen_urlhash:c97039a657664a34ad52bdc4f7f881ffdd3eba1ec1fb97a69edbe73ed144aae4
+seen_titlehash:c27601bc980e95a406c678f3702cd3e834712f33f98b9423e2999e49d7cd9c57
+seen_reason:processed_not_published
+url:https://dw.com/ru/эвакуированных-из-алешек-поместили-в-пвр-в-краснодарском-крае/a-79822307?maca=rus-rss-ru-all-1126-rdf
+title:эвакуированных из алешек поместили в пвр в краснодарском крае
+seen_urlhash:175f61bc2853485923bac3a6474ea7b0f1d66153952062ab967b51c6dc57d502
+seen_titlehash:d3c3bebbdd1dfcf104b0d6668602269661db0928b2662a69965abb8d8898be86
+seen_reason:processed_not_published
+url:https://dw.com/ru/германия-предупредила-граждан-фрг-в-рф-об-опасности-теракта-в-царицыно/a-79821837?maca=rus-rss-ru-all-1126-rdf
+title:германия предупредила граждан фрг в рф об опасности теракта в царицыно
+seen_urlhash:8e843bf0a24417985bae69ea3c163257bdec2afc2d21c183c70cd78cf7911397
+seen_titlehash:253cb6f88e4bc8aba930a9b844ab7430f57003524853210bb08d741c07a2cfcf
+seen_reason:processed_not_published
+url:https://dw.com/ru/кремль-переговоры-по-украине-нужно-начать-в-трехстороннем-формате-с-участием-сша/a-79821828?maca=rus-rss-ru-all-1126-rdf
+title:кремль переговоры по украине нужно начать в трехстороннем формате с участием сша
+seen_urlhash:3d06c6f36a9d17b0c51e86b0abab509750fc7795319735c0bbbc1ef81f061295
+seen_titlehash:ba94f158879d969b4a5e75027fc257b41f41c8dccba3a1504e62d8281946f8a1
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-фрг-китай-не-заинтересован-в-саммите-по-украине-с-путиным-и-трампом/a-79821551?maca=rus-rss-ru-all-1126-rdf
+title:президент фрг китай не заинтересован в саммите по украине с путиным и трампом
+seen_urlhash:00e4c3456c334f7b7aa19053423dc9edb052b56e5784f339fcd26f13269cfd00
+seen_titlehash:0ca83a62c12a97de5d72d01f9ee02a58d212cd55ae70026dd7b4babc2a908db3
+seen_reason:processed_not_published
+url:https://dw.com/ru/ночные-атаки-россии-на-регионы-украины-под-сумами-ранены-шестеро-под-ровно-пострадали-четыре-человека/a-79821382?maca=rus-rss-ru-all-1126-rdf
+title:ночные атаки россии на регионы украины под сумами ранены шестеро под ровно пострадали четыре человека
+seen_urlhash:e763f35db84bba3f55f5acb2932ba6ed25091c1cf5d067c3a4cd2752281e5be2
+seen_titlehash:1b0dca136ea13b4d38a3f23733e8b50f21802c3f4e251b1086c07758344424f2
+seen_reason:processed_not_published
+url:https://dw.com/ru/белорусские-хакеры-провели-успешную-кибератаку-на-сайт-росстата/a-79820996?maca=rus-rss-ru-all-1126-rdf
+title:белорусские хакеры провели успешную кибератаку на сайт росстата
+seen_urlhash:084828a0aa07db71791d0405b6588bc5936332ef310c9ca1a4dec70c401d74be
+seen_titlehash:3e30d88ca0026e3f88bdcac05b5c8745d7163e77bfac9f64ee9f8c63864737a5
+seen_reason:processed_not_published
+url:https://dw.com/ru/в-болгарии-проходит-второй-тур-президентских-выборов/a-79820654?maca=rus-rss-ru-all-1126-rdf
+title:в болгарии проходит второй тур президентских выборов
+seen_urlhash:763c7a93e433cadec8bda0ddd177761a1883aa3aeae3e3b0136e0ae9a88af5b1
+seen_titlehash:c7e1f17ca89a536cd449719aec8cc13cc0d84c8052a3d964bb6d2c6f79800ebd
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/switzerland-north-korea-relations-restart
+title:глава мид швейцарии впервые с 2003 года посетил кндр возобновлена работа дипофиса
+seen_urlhash:5c193628f1782100e4a52fcdf91bff67811633db808833c009c249a9eb7d8b16
+seen_titlehash:fed1ac1b687a9f7a1d0e48db7121722ddf5d2935d0e39ec79f5edbe35ccf4703
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/us-russia-terrost-threat-warning
+title:посольство сша в россии предупредило о достоверной угрозе теракта в москве
+seen_urlhash:f7662f4afd0920907b3d72f102928ab18d3d2320ea0dce5a5c9e48eb657bc73b
+seen_titlehash:a25439a2ff003c0cfcd0c65f7ba87d90b7cc9d93a5b85cd1da3170cf2dfee716
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/01/looted-shops-and-burning-barricades-as-riots-break-out-in-frankfurt
+title:франкфурт после демонстрации вспыхнули беспорядки и пожары
+seen_urlhash:dbe473c490b834bc09f5e9a0bfc25899dc5212eb1c4e6b906c9074c41fbe26d3
+seen_titlehash:323d4a3ee4b4d26c093fd92b0be43b5663561e3efd08a7cfc9100d742cacbb9b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/kricak-serbia-arrest
+title:в сербии задержали главу управления уголовной полиции он был доверенным лицом вучича
+seen_urlhash:58454a6e757093180dc5506acbd5399d69344cbfa382e90e9bfadcb1203e04c6
+seen_titlehash:0b8bfbf48283c8d1ee87a2fda8cacca13e86ed58d03da2f21e84ac6cd063f6b0
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween
+title:хайди клум на вечеринке хеллоуина стала гигантской отрубленной рукой
+seen_urlhash:8c654ec50efe0dae548fa2101b3ee31c86963d19deafe97e4a2ab71d443a5381
+seen_titlehash:4217c26e97038d33c733942b2d90e10e12609b863461bf0ab09bf2be39ad56f1
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/us-iran-war-khamenei-reaction
+title:хаменеи пригрозил сша географически неограниченным ответом на удар
+seen_urlhash:22754b21ddadd1102203fea262d25ad1041f9de16aa92b5784b717af53cdcb40
+seen_titlehash:e702057e21235bdd22785116602701ebf2e3b704060f94490cc42cd5ce430728
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/heidi-klum-queen-of-halloween
+title:хайди клум оделась на хеллоуин в костюм окровавленной гигантской руки
+seen_urlhash:4c9d578eb1d658182515d5d7dd50b2349e3fc2e8d908101c32223675359c1d3c
+seen_titlehash:4d93697702b377eb10817cc54b0934a69b4965fae4a58ee292a32ab219b8d334
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/01/flags-banners-and-chants-at-youth-protest-in-berlin
+title:молодёжь митингует у бранденбургских ворот в берлине требуют отставки мерца и макрона
+seen_urlhash:c0acd76d8b226c5a78524b0e051ed2ba110af824b425c14bef9aad40ccc9fef4
+seen_titlehash:bdc665443766025f08adfd13a7b19a2579a9678a2ec1dc9a03e198e42b9fc1f8
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/germany-protests-violence
+title:беспорядки после молодёжных протестов в германии погромы поджоги и столкновения с полицией
+seen_urlhash:e126924edeef079fcfd04257047cc121af9d38edead304c2793c2df4e72ead87
+seen_titlehash:99bec37efffc64221a609aecc6c4823a63776d25fc05c01b3e9c999e2d2a42ac
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/01/novosti-dnya-1-noyabrya-2026-g-dnevnoj-vypusk
+title:новости дня 1 ноября 2026 г дневной выпуск
+seen_urlhash:cccd03633aaff47b129ebe62d4b20a3d6a19b353701a062c431f88b224a77eb6
+seen_titlehash:042d0b047ba802932e64f097c7df330e22faab02d9b26a792d61b66c691bde41
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/gen-z-protest-berlin-euronews-correspondent
+title:протест gen z в берлине требования молодёжи палестинские флаги и радикальные группы
+seen_urlhash:e19d307310d6df3849f693855ea55d4735ebf6dca7044d7cfc3060624c6ce242
+seen_titlehash:997e5c73bb656dccd8ab44e278cd183bb1225d82d34ac60288bdc30877fe66e0
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/greece-nko-scandal-money-theft
+title:в греции пожертвования больным детям тратили на договорные футбольные матчи
+seen_urlhash:c38d04c5ec9f348aad33b2d83230ee37be631841b7aedc2fc6ae37259356349a
+seen_titlehash:00186b86e7da4a97119cf8fca12ed598ecd61831ffac6065bc1b50284c327c08
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/01/liquidation-of-strategic-reserves-diesel-price-drops
+title:франция снижает цены на дизтопливо после распечатки стратегических резервов
+seen_urlhash:75aee81e60438a31893f68e7a6819597884920a5fc24be5184f7b8816ea05dc5
+seen_titlehash:4bc0b8b02f36c432e060b70e31430d9cd9bfcef39974cd83d7ad9e93a1a40f1e
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/rossiya-testiruet-otpravku-zerna-cherez-arktiku-iz-za-ukrainskih-atak-v-chernom-more-no-etot-put-ne-zamenit-yuzhnye-marshruty
+title:россия тестирует отправку зерна через арктику из за украинских атак в черном море но этот путь не заменит южные маршруты
+seen_urlhash:18a5637eb92d9d9bec215e4fef8931a77831a32125c2606351d7481d7454e280
+seen_titlehash:c1124b71d0fbddbe363917bd5817870bb85c395fd0ed00ae330d6742e29a6be4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/fsb-zayavila-chto-informatsiya-o-podgotovke-terakta-v-moskve-ishodila-ot-podrostka-opublikovavshego-rolik-v-tiktok-on-zaderzhan
+title:фсб заявила что информация о подготовке теракта в москве исходила от подростка опубликовавшего ролик в tiktok он задержан
+seen_urlhash:0f5a8c9ce047ad871f2e910009ce87528876ca0879950c3b629199374afbc1fb
+seen_titlehash:ea0494f38cf82f796a8504d403a4c58438cb57b21c61b24fff64f34774e50f19
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/v-nizhegorodskoy-oblasti-ogranichili-prodazhu-benzina-posle-ukrainskoy-ataki-na-npz
+title:в нижегородской области ограничили продажу бензина после украинской атаки на нпз
+seen_urlhash:fa62ef5b79e8cd35ec7ff89af53a3631d3e1e6a1b5b8d8548807b5f6b08682e6
+seen_titlehash:814b22cb44d8190f6cb0772476c70bb49e3f71fcf904de77c86b7eedf59fcc7c
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/01/u-menya-est-dva-dnya-poka-produkty-v-holodilnike-ne-zakonchatsya
+title:у меня есть два дня пока продукты в холодильнике не закончатся в сербии заморозили счета клиентов банка alta им пользовались тысячи российских эмигрантов в том числе хранивших там деньги от продажи квартир
+seen_urlhash:5ca52c1346d10094ffcf0c83f72888becc7106a3a2564a55e25fe2a8559fa9d7
+seen_titlehash:3d8a99cce3492fddce46e425531ba5dcfc4e1f95c3878bc942c96bf67212bf41
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/v-tsyurihe-i-bazele-proshli-levoradikalnye-protesty-ih-uchastniki-podzhigali-musornye-konteynery-i-bili-vitriny-magazinov
+title:в цюрихе и базеле прошли леворадикальные протесты их участники поджигали мусорные контейнеры и били витрины магазинов
+seen_urlhash:7fa1fe687e2fdd99e0ccac6d5a2213cbb9aceb60ae7e1f0a722c4bad283ac443
+seen_titlehash:019ea279a5ff1e0029425416f0ae9fe91914f3c90ed2ba1f0abfa8e31890d19a
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/01/voyna
+title:война 1712 й день трамп не против пригласить зеленского на саммит g20 туда позвали и путина в украине сотни тысяч семей остаются без света из за российских атак
+seen_urlhash:83368fa3beb727492a6aa172712f7df33d5b91608434f5c6d39d5880b284baf9
+seen_titlehash:a7be9c9f87ae325a533e52255e3b159470bb11a74f62b4a9a7cd9749d1d112b4
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/otvetit-konechno-pomoschnik-rossiyskogo-prezidenta-zayavil-chto-putin-pogovorit-s-zelenskim-esli-tot-emu-pozvonit
+title:ответит конечно помощник российского президента заявил что путин поговорит с зеленским если тот ему позвонит
+seen_urlhash:c4d2f2b838aad05e3864f02e5654bf7e562031b3029d1a549597c5292226adc8
+seen_titlehash:e33cb94d65eb009bab5df0ffaea2f2c4ddea259a56310375f09903b54d2f9f90
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/preduprezhdenie-o-vozmozhnom-terakte-v-tsaritsyno-vypuskalo-takzhe-posolstvo-germanii-park-zakryli-na-sutki-on-uzhe-otkrylsya
+title:предупреждение о возможном теракте в царицыно выпускало также посольство германии парк закрывали но спустя сутки уже открыли
+seen_urlhash:8fddfe6a0f6dedb33da2b4006ce56a4b0cd08e2e8ff43d57d2bc2299e7f5e26f
+seen_titlehash:aa5066c0834c4d591b267bbae403dd00e431361c2801eb74c24ad8ba9ae6bb55
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/01/rossiyskie-chastnye-kompanii-zapuskayut-sputniki-i-prodayut-ih-snimki-pravda-eti-kadry-kazhetsya-sdelal-koe-kto-drugoy
+title:российские частные компании запускают спутники и продают их снимки правда эти кадры кажется сделал кое кто другой исследователи полагают что за такой схемой может скрываться сотрудничество россии и китая в том числе в военном космосе
+seen_urlhash:3a02a381b39e08a1497031fad96f9ce262e2697b65dfbc940e61e244b87718aa
+seen_titlehash:fff1a10a8bbdcf7a6fdca1e20560c0937f62961e3cab834a0c66572d3fbe81e7
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/01/siloviki-proveli-reyd-v-moskovskom-svinger-klube-gde-prohodila-vecherinka-v-chest-hellouina-povodom-veroyatno-stala-proverka-na-propagandu-lgbt
+title:силовики провели рейд в московском свингер клубе где проходила вечеринка в честь хэллоуина поводом вероятно стала проверка на пропаганду лгбт
+seen_urlhash:fc1a739f59f8fd8528d7e15a5a11a35474d5956bfd3c54b9fe16fa0d4e0afa7e
+seen_titlehash:86568dc876b8670b1b0561d3f10f0e3d57e60d3066d73960f5525bf4714c728c
+seen_reason:processed_not_published
+url:https://ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1
+title:junk debt rout sparks bloodbath for credit investors
+seen_urlhash:f8523f6e5ffc3d661d6a34097e0df4947c044cea7c603a0aa9b1141cbbd59c9f
+seen_titlehash:233781723d77518b4c8cd34e0fdad37e21bac40d604f8310e1eb5133cb0efa11
+seen_reason:processed_not_published
+url:https://ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1
+title:trump makes final pitch to restive voters in midterms campaign
+seen_urlhash:892e46d74c0892da20a71b2b1a0e88d8895766f21ca69f81a91df6f36fd8ee98
+seen_titlehash:6a1e7e15c024d52d643a316afc567ca352a3c20aae5e05516e46bd2b939365db
+seen_reason:processed_not_published
+url:https://ft.com/content/97c97295-a35a-45b6-9e6b-29ca836fa3c2?syn-25a6b1a6=1
+title:unions hit out after healey signals delay to youth minimum wage pledge
+seen_urlhash:1bcc62696ded4235d6d9c5d667145a5db2e11f11810dcabe633d7de5233d7728
+seen_titlehash:6aeb8c2263263ad1107f0dd33152581219a4821babaaed73eb059aca9da359e3
+seen_reason:processed_not_published
+url:https://ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1
+title:britain s welfare ratchet
+seen_urlhash:82a68b54523fce36c17e75b80801a314c8463a4f064db1a050529b01ff307f35
+seen_titlehash:ebac9b93a7ff656e14be3cc9ef9fe3eed8e5254b4d02dfcb01d5359675b49f9e
+seen_reason:processed_not_published
+url:https://ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1
+title:weil gotshal what happens now at the troubled wall st law firm
+seen_urlhash:74743648553db6b74aec54fe4b68d2c56e1c3732c199374dee323b250842ad58
+seen_titlehash:c261f0d5b50c24a5577ba78c3260d8f3a2d426d72a699de7b91196270cb865da
+seen_reason:processed_not_published
+url:https://ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c?syn-25a6b1a6=1
+title:will us jobs growth remain subdued
+seen_urlhash:09efafa9e574e8ced0850500a9ac333cba4b467ef889b6f7abdfadc6324c2d34
+seen_titlehash:b0dbe139739ad29658875a659775544067974f661d4a66a4b7da16fb8443f446
+seen_reason:processed_not_published
+url:https://ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e?syn-25a6b1a6=1
+title:america needs a real congress
+seen_urlhash:5a3d23315c77e81511ba6610a482185ccc3464abaed0b033dc9401637734f3d0
+seen_titlehash:6a91a717be8c95869015ae6f4473c1698471e7a0bf2d3b00ddba4f140315d629
+seen_reason:processed_not_published
+url:https://ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1
+title:us critical minerals push delivers a gold rush for washington lobbyists
+seen_urlhash:0c38b1292d89289156e9633f88bab3099c135e916f4cfdce7193c6d0c1e385a3
+seen_titlehash:fbedbeda1c6193ee93d6cd73c95bc8c245f40e98e233208b70ab46be6247db4e
+seen_reason:processed_not_published
+url:https://ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1
+title:gen z protests turn violent in germany
