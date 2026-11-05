@@ -184908,3 +184908,263 @@ seen_titlehash:6a8d9b1cedc8f2ba44a9580598f66d27fcb15567c03e1ab8bc58a3bb7c527248
 seen_reason:processed_not_published
 url:https://ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1
 title:how the trump era crashed
+seen_urlhash:567fa0df3b54b69e0fe2a0d4ed1e94766cf27b2b53c4072b69ef65d7176b9ffa
+seen_titlehash:f6099e3a38049bd3f4558f49e7869a462c9e1093d91308c6b42a35f35d28758c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html
+title:bob dylan meets with pope leo
+seen_urlhash:38a7cd0d1f18047c85dbe625301f3eb2f0fd31c52e491bf59500b0697ca7bada
+seen_titlehash:9bf17503c1d05d2c374a4c9b2eee0b4f933f40bc3c93e9b43135eaf7bcdb718e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html
+title:after 3 months lost at sea five survivors are rescued on remote island
+seen_urlhash:678b7a8e04c3fe1d419db4bc53e025f1ed31276543ca24d385c2c30c9e712c1f
+seen_titlehash:8d99f2b4943dac6da4e69b81363da525190178efe94965c22b4a9323379f0e5e
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/04/world/us-midterms-trump-israel.html
+title:a trump reckoning
+seen_urlhash:ba2a367fc721378107552bca70aa2bb2d7d24587cf605cac96d7090ef5c659fd
+seen_titlehash:50b09cf5c798746ef8e5e9dce3fe23dc0988f8227bb41e66bd4f84a6c7f47fb5
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/04/style/john-frieda-dead.html
+title:john frieda hair care mogul who soothed women s curls has died
+seen_urlhash:003e59a7e2992b212608f328bf5a5335019171583a7450cb16419b744a3847bd
+seen_titlehash:f1ff0fbdf360d68837b4384ecceadd67000b8acf17b0977bff365d67d72155f0
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows
+title:british healthcare worker with ebola evacuated from dr congo to uk
+seen_urlhash:3e04ee80a275a8f7a8501b65b0f6caa3da3685fabc0b0826eb1e79516ffe7a7f
+seen_titlehash:6bdd3cf748fb22ec17805bd3dc6f19f387f2bebc07559da2f9f806238b5d5984
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed
+title:mother and daughter killed in grizzly bear attack canadian authorities confirm
+seen_urlhash:8b0d0f7401dbb99e9a42e59c795d43638661701c230b89e64a5ff556e09f649d
+seen_titlehash:9fd57f8478713580f3670df38c536dfdd297a4d17795214927b0ab53f28947df
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration
+title:david jones goes into administration with store closures expected and thousands of jobs at risk
+seen_urlhash:604880ec3b1a1e97fc83fa0c9f8e290f3416d0b012212ca386657a68c6508363
+seen_titlehash:a9230b1c054a295429e7835f8ab93599f7b2d8450a62973dfbf03eb132800835
+seen_reason:processed_not_published
+url:https://theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology
+title:telstra apologises after customers mystified by phantom missed call notifications
+seen_urlhash:10d1ec6338f5ed1537c21ebce53bfb58c6ee258187378b173db182426a18a032
+seen_titlehash:a463b2ddf10f83eb2215c33ae934cbdfc257d8a8889a20f95dfda507a99876a9
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb
+title:food grown in illegal west bank settlements being sold in australia as produce of israel
+seen_urlhash:bc751b53a205940b896c0034a1a4f1b8eb8e9193b3a756bd6feb88511bf57a30
+seen_titlehash:5fbb0f3a50b0aabd34b0d5dae553a5d447d1d2b4ea49f44e6693f60414b85b33
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss
+title:democrats won congress but can they deliver on their promises
+seen_urlhash:906d128da4e6fb7f9e95c5a2b9ba7525a328e195d2f76bce317208098c4d0187
+seen_titlehash:6164baacf6b3196a3025f751fbd28f2ccdc3e1d8eb89dfc013c7626e5c64082f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss
+title:historic firsts redraw us political map in 2026 midterm elections
+seen_urlhash:842b04428cc6b91e6839ddad90bab87ae20e763ded7169f833ce5256585acb5c
+seen_titlehash:20a9baa5a553cc5fd62139ec045b1a5c136371e7e5bbaa333a70570b8691dfea
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss
+title:iran war live trump says war caused election wipeout but he had to do it
+seen_urlhash:4db541b400637b576cf5fc7bb9ac0926269ba5e0302f75af886ac4b2b06ae0f3
+seen_titlehash:651e77ad898ed0cbb8909edc3ce3315b79060eb96bcc3bd7efae443c92312a7c
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss
+title:who gets to vote in the us
+seen_urlhash:6e1e5711b8f26f4a3a2ba276018280a485991a77f65e9cf5bcd4bf1dc09441a5
+seen_titlehash:9b625ee771e1d215192f430365aab5a8ec7c90c37f16d6ef2d924bd3a9bfeff3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss
+title:ethiopia expels six sudanese diplomats orders closure of consulate
+seen_urlhash:7c7ebd84449aa0d26c947fda2d8264102a03885cd150a0790b1e32fb5b56d5c9
+seen_titlehash:ffe165977cbcdd6f0772ae1f4d6bb248c3da6e046974258af64d7bfd173d1c3d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss
+title:giant banner of trump vance and netanyahu burnt at tehran rally
+seen_urlhash:6b7c8663e7d1dba07432b5ae41d010096fdc8d406d6a6dd6b7966122c2997578
+seen_titlehash:2f56c1851317c1d4160f6c62d6a85d3b0ef26929d0efed0306c7c2a7c71a7c48
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss
+title:trump blames iran war for midterms losses
+seen_urlhash:e26ac6931384fc0d1f18068f6a39d5aaaab1c56d8844fabf7993f579f0b2554a
+seen_titlehash:b74702f31dfd83bbb0905f2e7e735da054a6f18a3506b2bbc23e611b575abc50
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss
+title:democratic socialists of america see record wins in us midterm elections
+seen_urlhash:51569a1cbe24b52a5669ee72c86fbacf338e400ddef45c85504f167b20645817
+seen_titlehash:9ef6a619289c3515fda087832bdd76cc1244dec570ea3a329f78d24fddb3e581
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss
+title:sudan factories struggle to restart after devastating wartime losses
+seen_urlhash:25eafcea16b783ada7293d2458a4cd6f8ba2d3496da2109c7ac1d6d7b9046c4b
+seen_titlehash:eb9ec3b95d80120a4142db25a8368580053b9e4c427168a613cd41001a609cd7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss
+title:palestinians israelis react after democrats sweep us midterms
+seen_urlhash:b553e4e4efac6d1effc42d1a1f27ccb0e93d789d796b0e1a40e865d83967dfe8
+seen_titlehash:33068668d02477d881118a14774871fbb2707f602d4f566b1e2e3b29a1c48aa5
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss
+title:social media reacts to democrats takeover of us congress
+seen_urlhash:e70db161eda01eacce24a7b674c84967ea6385810744de7dffc94cc1e60384ca
+seen_titlehash:c2d96325202ff1ec391576ed4919296cfe023e332b7ee2576104702a22e20aa4
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss
+title:israel restricting treatment for 1 100 child amputees in gaza ngo
+seen_urlhash:b7542a69b055b8626747ae3dcd4772c6b03331b4a3f38801beefe93e9f6f3816
+seen_titlehash:099766193127b305adbfd5e811ab11332e640300cce239a1b177bee343aaf4c1
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss
+title:us midterm election results live trump blames iran war after losses
+seen_urlhash:022564ef7cfd48956caa260b248beb153292e7358653b31266c3ff52521cbdc3
+seen_titlehash:d6c9066770fae832bcb15a93486906ddc0b4ec53ed205efa6986930adf28af44
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss
+title:democrat leaders hail midterm election success
+seen_urlhash:8a5d8181644270c9bf9ca88160c316be55e797d28ae7f7945cbfc34b169ab9b1
+seen_titlehash:4f14eee214cc3b8dd9dc0df113087fb67cbbfa8dc2dabf47767a55d29da1b68d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss
+title:ukraine raises death toll from russian strike on zaporizhia to 40 people
+seen_urlhash:b4c03c57771bea469fa90bb77ff0977a7eda2b9983b1cbc868f083450bbb33d3
+seen_titlehash:8c92bfe4a2a68a64c5f7eed7098e87ee3509da73166c33f80d04ef45da9d5c2f
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss
+title:will the us resume its attacks on iran
+seen_urlhash:230db7c2e78cd98005f199e6fa44bbceeb5f1074b45140e0d508e9eda986d401
+seen_titlehash:5d483d0f8cb42744f2ee60ecaa353f7fa9357681010ca718f8ff6d06a0f7bdaa
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss
+title:iranians celebrate democrat victory in us midterms
+seen_urlhash:a050c28b245184bd3ee7be83ef37738a3fb69cb4469f5f91a263919b7788ca09
+seen_titlehash:16a8127380b528986128679b2597098695e1bcfae3f36b8cbf56ee5575c6b2cc
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss
+title:democratic progressive wing notches win in california central valley
+seen_urlhash:b14af0e04ac2625b99f34069a1e016f8acb93802c5b1ed8df8cb702914269af8
+seen_titlehash:3907dde533a0902462e47de9c499439021bdc63ee00972894ff76a3a3ae042d8
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss
+title:hakeem jeffries promises affordability focus after democratic midterm win
+seen_urlhash:35b6c1453125a9e45d3199074a4d8907de9e7f21a277e7f83f2ab0a2e9077e58
+seen_titlehash:974d621042a7c75c804e41185c90b542e8ad7843737677cedfdac5aa137c155a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss
+title:who approves trials for two new ebola vaccines
+seen_urlhash:23866c05a879d945344747e6ac12510d1d6156e31d366aab43f256b3466c6cfe
+seen_titlehash:68b86af6d438d744ce67595b3ebba5b1133a11634d870113dc5e102dcc9eb362
+seen_reason:processed_not_published
+url:https://news.sky.com/story/russia-attacks-ukrainian-aid-hub-in-one-of-the-deadliest-strikes-since-war-began-13608095
+title:russia attacks ukrainian aid hub in one of the deadliest strikes since war began
+seen_urlhash:4e74fbe9638980d634b73098e85a174e32e8222d6466b958f33a843aa044597a
+seen_titlehash:7e97998cb64d20d27245f49ee7cb3ddd3d4c027678cd1d5051b052db15bcdd2c
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election
+title:netanyahu claims serious concerns of foreign spending to sway israeli election
+seen_urlhash:84a42d7e9c2760101de222b05ea25dc01ab034462ec21d28a9f2e556beada29d
+seen_titlehash:2b560eae2d4588311132e7338185ee373e1a04fb9a6de80b7492778a2df7509e
+seen_reason:processed_not_published
+url:https://france24.com/en/south-africans-vote-in-key-municipal-elections
+title:south africans vote in key municipal elections
+seen_urlhash:0c771420245e80708be4ec0cd926709161ac43816e78c3f3232d3867f3bfc304
+seen_titlehash:47c266abfe9b30c462941bd409ca77e2bdf3a4a642d005720e948f7979dbe97e
+seen_reason:processed_not_published
+url:https://france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing
+title:musk backed candidates lose midterms despite financial backing
+seen_urlhash:0054ad1ae3d62ffe24f527b25224e22862f333ecc8db25748503f8a8832093d1
+seen_titlehash:e216319c907f71880df40335291a385e3675c2634b25c522423e38d5d09e272e
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics
+title:trump s second term playbook fake news ai and attacks on his critics
+seen_urlhash:20013facdcf4a87cb7ff7be9bd18760ae740b25fbb463a95d38af7096d9e28b0
+seen_titlehash:bfcb2181a2a21d63138d391a82f3cd95202b38212f19d6650a499adc6b41c84c
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261104-how-chinese-ai-is-censoring-the-controversy-around-mbappes-chairman-mao-comments
+title:how chinese ai is censoring the controversy around mbappé s chairman mao comments
+seen_urlhash:4d55a945392429b2bc0f027adc57b73ef8763645156b1df8344bf2770dda9641
+seen_titlehash:a2594a8d4ad4718e7e1f62be390400657d6bc4c83e6cf33a51af392417168447
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/the-debate/20261104-blue-wave-across-america-do-us-midterms-signal-beginning-of-the-end-for-trump
+title:blue wave across america do us midterms signal beginning of the end for trump
+seen_urlhash:d49aba2afde787b05cacb620c10f18b37f1355e7d834db9c38c2011752bc8afb
+seen_titlehash:3e12c80dd4a52c5970e7c11d9375f21851d7801f434fb0bc57025f658fed1aba
+seen_reason:processed_not_published
+url:https://dw.com/ru/зеленский-ждет-большей-поддержки-от-сша-после-победы-демократов/a-79859601?maca=rus-rss-ru-all-1126-rdf
+title:зеленский ждет большей поддержки от сша после победы демократов
+seen_urlhash:4d37fcf2250b3864ba7e02217ef73e21b8b046490a59dd57ecba7c3269874de7
+seen_titlehash:35d88a4894c4ff70b6b0cd7cce4657fca493681d76767aab68a8b40f6baa9e16
+seen_reason:processed_not_published
+url:https://dw.com/ru/вице-премьер-баварии-айвангер-найден-мертвым-в-отеле-в-центре-берлина/a-79859569?maca=rus-rss-ru-all-1126-rdf
+title:вице премьер баварии айвангер найден мертвым в отеле в центре берлина
+seen_urlhash:9d3c63bd422adb4c4c4ce440613c5d062413334ede509f25f6dc030b9d8c7846
+seen_titlehash:23d59a09472aec062440fa53bfc35d9f13a9766ed561e51a5d53f91888e4b8b1
+seen_reason:processed_not_published
+url:https://dw.com/ru/мерц-считает-что-политика-трампа-не-изменится-после-поражения-республиканцев-на-выборах-в-конгресс/a-79858934?maca=rus-rss-ru-all-1126-rdf
+title:мерц считает что политика трампа не изменится после поражения республиканцев на выборах в конгресс
+seen_urlhash:6f8713e01d1abf5d197396bb18e116d4553f43e9830f2da847882cf74cc08b0d
+seen_titlehash:1a80fff7ea93bee287e7693dc80c89ccac826893d6e2c633686378b6cffbaee3
+seen_reason:processed_not_published
+url:https://dw.com/ru/вице-президент-сша-вэнс-назвал-войну-с-ираном-причиной-поражения-республиканцев-на-выборах/a-79858471?maca=rus-rss-ru-all-1126-rdf
+title:вице президент сша вэнс назвал войну с ираном причиной поражения республиканцев на выборах
+seen_urlhash:e7b6eaa36fe66e48ee903e2c686fe12e2e530d06917d30d6d513a71e95359846
+seen_titlehash:dc6e44e712dcde7184c9f5254d96ff8fdbe7c555ea6e4ac38cd654e472473720
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc
+title:мадрид принимает 30 й ибероамериканский саммит сообщества из 22 стран
+seen_urlhash:60bf1802020a892a25efd0a6cb98e36b2c310ba8f3e90d193a77f3c0b9eecf8a
+seen_titlehash:9e7436baa703ead4df8e1ed88309878b12ea8407dcd68c8a0c94344d85515143
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/04/indra-leads-the-spanish-alliance-that-will-protect-europes-underwater-infrastructures
+title:indra возглавила испанский альянс по защите подводной инфраструктуры европы
+seen_urlhash:ec46991c20160a66260d6bb4f89a714562903cc5d38c6776c1eda68ea35d2e0b
+seen_titlehash:edf747b28831deb3fb6137022530adcea9809789a0ac4ac5b82b9b748b89b051
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/04/the-cruise-ship-villa-vie-odyssey-left-cambodia-without-passengers
+title:круизный лайнер villa vie odyssey ушёл из камбоджи без пассажиров
+seen_urlhash:8bbc9cac19d1352b309a74eb6ae65135c33835613e4848472be56d3e6a92de8f
+seen_titlehash:2747a6919fe02df517378efa1f0db216f009f4c892f4c35c10a52930fed96c93
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/04/a-rare-endangered-rodent-was-found-in-an-amazon-warehouse-in-wroclaw-ru
+title:редкий исчезающий грызун найден на складе amazon во вроцлаве и приехал он из франции
+seen_urlhash:90110974e033f2b3836a8b69273a2e2fdbaac20f9de776ab73ca521c7fb8ebd9
+seen_titlehash:2b83d5172b30fca8c7d3cc81b7b675c0bddb2b931627b5b894a629b9df5f75ff
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/04/hungary-has-revealed-the-names-of-tens-of-thousands-of-former-agents-ru
+title:венгрия раскрыла имена десятков тысяч бывших агентов
+seen_urlhash:b902a095548f8bb3b3fbf562ba03515c095e6f8bde865cf20c37a02cca5104a3
+seen_titlehash:65032c088c3e6d3badf34065e9fc8d23e31c67e786368e53b6d1b43efcfeea74
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/04/american-elections-trump
+title:хромая утка или бешеный пёс итоги промежуточных выборов в сша пугают европу
+seen_urlhash:635d67c87bf3d9a348aec5acb294d82b3e45d4a605f24b2264f78ee95cec911c
+seen_titlehash:1fd3fc4fbe43b22b221d9c487084fcbc0e32c17b56f229c22b7384387a9a095a
+seen_reason:processed_not_published
+url:https://ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1
+title:the money didn t work big tech s 600mn midterm campaign falls flat
+seen_urlhash:5be5b25ed04dd5db47fae096a5ca989504c95b56a8f85bab355357b7c28716f1
+seen_titlehash:e3398798db656886567497da307cae7d4aec9991d1cb30b01bd4dcd639d4f4c9
+seen_reason:processed_not_published
+url:https://ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1
+title:firstft republican infighting erupts after landslide midterms defeat
+seen_urlhash:8881edbd43a6e86cb1cd231e972f03a86df1cf444076cf35f40777ca72497bd3
+seen_titlehash:b7d149758308845c9a5a9f26f0d2923141b16fb42b53012e664b32ca80a28673
+seen_reason:processed_not_published
+url:https://ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1
+title:rupert does not want to be with a loser murdoch s media empire cools on trump
+seen_urlhash:5def6066487a9510d3d52debe6759cdfcba3094afbc197c1993820f834ccef07
+seen_titlehash:1f687031b62445e5072b35b4dbaab8a7286bf5c8f7a70e30c93da4fce6c50dce
+seen_reason:processed_not_published
+url:https://ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1
+title:how democrats pulled off the blue wave in maps and charts
+seen_urlhash:99e6e732b52e3f877dba4773ab8e78357b69f0c9875799452b4d8f4d288284b2
+seen_titlehash:b9946eeaa0769c1a9eca727233fe4b1293d4919e1f2d748b53c64ccf983d7881
+seen_reason:processed_not_published
+url:https://ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1
+title:impeachments iran and the presidency what s next after the midterms
+seen_urlhash:c68ef33abaed6602a13469d1b580adfd8760124f11512908fd31ef58dc138140
+seen_titlehash:8133198a2c6a08e320b4703a80c4e1c78378d91ddf57074ace1235526edb732a
+seen_reason:processed_not_published
+url:https://ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1
+title:trump diesel deal with russia falters as us fuel supplies hit 20 year low
