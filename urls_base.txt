@@ -189278,3 +189278,243 @@ seen_titlehash:b90c810eafe9705d3b13c091cdd1282bf8577482861e8a70e67c87a4b64e0409
 seen_reason:processed_not_published
 url:https://ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1
 title:data centres rebuked
+seen_urlhash:e73e3dc17d14a75dab526c309db077c9539908a894674f31842107cf1d204346
+seen_titlehash:866b40c0e57ec07b43542912d4a5a7ef99de48823a1e3c3714800901ed55fe25
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss
+title:what we know about krakow mass shooting so far
+seen_urlhash:40782c326e317eb7ddbf9f778186a2aa12add05f3d5a68e1bbe09d849c530fce
+seen_titlehash:8ced37e98f53f837dfec18fc679a6c379dccc2008635af76e81bec5e603684cf
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss
+title:us offers 20m reward for information about iran s nuclear programme
+seen_urlhash:66c5a939292cf11f50cacbfe893dafd8af8a38754f8526d9eb83694ab7c4fc5b
+seen_titlehash:c8de021101fab83f930fd29db3fd64fcd826bff25960215d8690cf6d3d8d15cc
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss
+title:houthis say at least 25 killed in saudi air strike
+seen_urlhash:f24cdf6f865b4973a5e3f124c4a3033c5595d48b4e6a3a2b260bf3d8c18222cf
+seen_titlehash:309cad4018f436ddfd616721cfcc21961a89ce4d4d70fe7b9c8fa19183eebf56
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss
+title:uk cannot cherry pick eu single market deal barnier tells bbc
+seen_urlhash:9fff680c0c4dd42c9e85347b063ce03cde3bf150414d1c827bb02aa5611d3117
+seen_titlehash:fce3704a5cbdfb7f79f396675ab1289c6d167fd69028a912e64054a54fe46b05
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss
+title:italian foreign minister says hackers leaked his personal data
+seen_urlhash:aec467788fb3932ea442955242b51d993667f74dc609cd3001b9ad8335c921aa
+seen_titlehash:1308fec6bcf399765c526756ff6478fbcd567057ddff0e10f6fc2de52b31d0ff
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss
+title:meghan s father thomas markle under house arrest after child sex abuse material charge
+seen_urlhash:da8416b346144c92a32c3299559f7d1e648e4bb56ba28312f9ae00b473026447
+seen_titlehash:82e4674ecea7f171f4da9c9b1485e6b999c5ca2e4a1a3e08991417f62623bfe7
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss
+title:texas mayor instructs police to limit co operation with ice
+seen_urlhash:19dd656b68879f2e9fc9e03ee53f36800e7122b7beae269c78f0622cfc81293f
+seen_titlehash:b68f96f1e27cdfa7515372e16a02807a489a2303c25e9fa6ad11bf84aee28aab
+seen_reason:processed_not_published
+url:https://bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss
+title:gaza wedding festival sees 250 couples married at the same time
+seen_urlhash:3cbfe59b64782f74de0ed63873f320c16592bdee05ed5a283e3e7ab078de04c1
+seen_titlehash:1949df9a58feed838d8a39cfe951fae8c09d4f96ef198d14724b1597d194600c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html
+title:at least 6 dead in poland after gunman opens fire in krakow police say
+seen_urlhash:612016917f92876a2186971866df9d1926bd69d8bf1e6b5470edafdf7eed4dbc
+seen_titlehash:7216896b4796d98c074091bae4ee7d1253fe9deb3fc79e89117557a1387d1041
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html
+title:more than 50 killed in yemen in one of the deadliest 24 hours of the war
+seen_urlhash:fdecc05adf76fb52fa7117b385764f43d41676af89d96d8fe85e2dbcf80ecaa3
+seen_titlehash:619b23d23f318b258e64a13930d61be0b96d49c20d60a9d76d61b81562a0028f
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html
+title:a chaotic race for the world s top diplomat
+seen_urlhash:973d1414cc2c573affcf3d429868531bd33a56153ed87336a73259d074e2495c
+seen_titlehash:afe7c49a3de00176dbc97be4631cf5cdd74fb12c2d0f464fc71cfe8a16677fcb
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals
+title:how do you broker un climate talks when your own country is a big coal and gas exporter chris bowen is about to find out
+seen_urlhash:62ecd9ae5566a09810512bf13c833347fb0690776bcb8fe7b65c2acaf20e6c3d
+seen_titlehash:5f63f434127c27f482153cea09dd15fa9db469a679b516406c2f88844d5caf5c
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb
+title:a big build royal commission helped ben carroll become premier will it be his downfall
+seen_urlhash:d4fc2a57ad0ad95d503fad2b6f2f08c4fab9daffb1ddb216ff6bc124a48836f8
+seen_titlehash:07e996b377e8a2adcfc23c54dd358897fe13a6ed5255f7d0cc0da2e05e055a63
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss
+title:latvian farmers protest over blood grain trade with russia
+seen_urlhash:fa0ada0010348c04df11812c7f6750688425381a3ebf6c8fe0bcbd5eb6d9e890
+seen_titlehash:aaffb230f764a987556e74a3923b3a8645ba552f245856da408b3249010b8f83
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss
+title:yemeni gov t forces report advances as houthis say deadly strikes hit sanaa
+seen_urlhash:7f4d5f1f48faaaf2d9551fff5660569741fc3a2bd83aa968f25c323c6afc3118
+seen_titlehash:139da9c89ae22b2b4cea2dec19687e298dfde353021a3d926f2a69e0832b0e70
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss
+title:demonstration in berlin calls for an end to arming israel
+seen_urlhash:15c4f6920a6b4de425831aa1fd377479fab28f4bbdf86eb35c2e200e75baa02b
+seen_titlehash:69ac230937c4f4fceb9dffbe51721fbc601259a6ba3e8be2b9b32ab221e0b354
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss
+title:houston mayor orders police to limit cooperation with ice
+seen_urlhash:67b7bdb03cac564039b13d2a091c9643c5192c1bd4f4c56f76b38057ee6c1c3b
+seen_titlehash:2eedf260ad5f75282a8811ddcf2ecec270d7230e990d78da95935556ad5077a3
+seen_reason:processed_not_published
+url:https://aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss
+title:paraguay s ousted president charged over banking scandal
+seen_urlhash:1e4868813258edf0b08938562113faa372c02cab29bf8f17774fbdced1446725
+seen_titlehash:1dc9e39beec55b9eab05d4eb23804a0b605a1ab0206659de8f623cb886fda14a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss
+title:pope leo hold first mass in uruguay urges crowd to be bridge builders
+seen_urlhash:aed823f5f3ec7039c9756bdb8c16ef092e658bbf7d7f71540ca2377ff4cd0e59
+seen_titlehash:108b374ff2029bf535cf00df3bac070ae31b8d83ba19fb974ae6ed69ec9344ea
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss
+title:houthis report 25 killed in yemen strikes
+seen_urlhash:19b6cbd4ce5b0092972652863280e5e8d2d5d1c155ead07d63a32fb87feeb7a7
+seen_titlehash:460248224b5917b37783577d02d84cb27b194af137d232f547756580e653a981
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss
+title:lebanese footballer refuses to give up after injuries from israeli strike
+seen_urlhash:e59072b539cd40bb453da3402f7e886da8ec263f434bc264b793b4cb86274d93
+seen_titlehash:2da71271d8448cfad50d35639b7ef4795f1274941c618eaf114edd95bf206e7e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss
+title:jerusalem daily heavy rains flood gaza
+seen_urlhash:0e9d577f9e4604c577222fcb2543968375e63b40ca132a1559e227aa218b8e9b
+seen_titlehash:56956f4f8bf94616eac4a173cf41ff517837705ba1c5a909e14c4a13af12d059
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss
+title:valencia vs real madrid live la liga
+seen_urlhash:1e976e18160874a716c26a8f6107e78bb4ab1814794983168f3e6a78d12a8228
+seen_titlehash:f3f18252f42b6fb418847434ab48cfa7d6d8f729c59355193742a3e2ee43ffbc
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss
+title:israel builds 90km network of military roads across southern lebanon
+seen_urlhash:7f7af75c8409c45ebb1d9b272294a90a97925e129ab4dc7d6bc79d810b5d59ad
+seen_titlehash:23d48d7998b9851e6c3e0e1c8cd5c23bdc2a089ff4338ce85c36e6d1d6eb905a
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss
+title:guatemalan lawmaker and three police officers killed in armed attack
+seen_urlhash:6d286ff71c4ece62353173b0f69f8ccab2cf6ecbea973b3e34032401193b2ee8
+seen_titlehash:86b39659d8e47862325ade0a5a6ad01e55b34e74ebed4604a82e64129650ede7
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss
+title:hundreds march in pau france against high living costs
+seen_urlhash:9580bd3be1731835c640b7ad87ede67e039b2e24d6c3891bec8b20fbdf3ec5b4
+seen_titlehash:5f36ee0a4c3480544bfb03f75d294ec86ca9ddb6fd58d50e2dae706a18c806cb
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss
+title:five killed and at least 10 injured in krakow shooting
+seen_urlhash:8fea67e7cd23f4b0409fbfd521e9e6632b2a013bad43ab83a902d5d382661a2b
+seen_titlehash:672c0abb6196d500614019d47c10f4a9c73121f2859821d6fc783dae81fc82d9
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss
+title:iran s irgc says building underground sites for weapons production storage
+seen_urlhash:9f099b01b46e9ae795c30b79e5710c155899246ee66ecf0e7ce508b46cbe621d
+seen_titlehash:735056127fbce222a2f75d3d4064db4e64e265aa9b0361fe25c7952ff417bf86
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss
+title:trump s new chief of staff stephen miller says he saved america
+seen_urlhash:00ec691b21914eec4a24c15ceebcf739af1d8faddc472be23548226182dda85f
+seen_titlehash:cd326d844cd242ad26f109b07ac515d3eab7254366a3bb48505023fadc82db21
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss
+title:at least six people killed in shooting in poland s krakow
+seen_urlhash:fe75511ce0113aa1ba8656b7393b72443a191188e02a74346a3405dd402e407e
+seen_titlehash:49f5a388d66b83029397f32c0ed36061999d12ac4977597e64de3ff354f27291
+seen_reason:processed_not_published
+url:https://news.sky.com/story/new-zealand-election-too-close-to-call-with-conservative-coalition-on-brink-of-slim-majority-13609199
+title:no clear winner after new zealand general election
+seen_urlhash:0372f3f4259943da80f173033956714dfd3eedbb6f9d5c9e73f9bcb0cb6e4d0e
+seen_titlehash:0825d57feb2366c7e6c21fa7a91e603fc3b3e4da3f680bdc913e0121b0f57791
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government
+title:israeli president picks netanyahu s rival eisenkot to try to form government
+seen_urlhash:0372f3f4259943da80f173033956714dfd3eedbb6f9d5c9e73f9bcb0cb6e4d0e
+seen_titlehash:0825d57feb2366c7e6c21fa7a91e603fc3b3e4da3f680bdc913e0121b0f57791
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government
+title:israeli president picks netanyahu s rival eisenkot to try to form government
+seen_urlhash:4febe1a219d7b3e2fa54daf051acea2ff59b507f5e988154a2eea08b80d32e33
+seen_titlehash:b831944723d6937ee55edc5a41e61aaddf9151145a20ac4488ecfaff5ad25a9f
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme
+title:we must change everything french far left leader mélenchon launches presidential programme
+seen_urlhash:31d43641ec8230c5bba052343eaff3f61c40e1d8c31fc6be200b7e241568b01c
+seen_titlehash:81d4ee5d96efc8c83ad654ac40e06b977e23b00b90b07f80f9890cad2eb3e609
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers
+title:france investigating if bogus bomb threats against airlines linked to foreign powers
+seen_urlhash:e8317c27d2f181cf2e6cd177c3037e532a67caf5c63c06206702c8ebbfbdd411
+seen_titlehash:15be803b1f55388fcace8bdee12030fccdac7ffb80ab5bdadcb9814a59c23cc5
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say
+title:at least five people killed in shooting in krakow polish police say
+seen_urlhash:e8317c27d2f181cf2e6cd177c3037e532a67caf5c63c06206702c8ebbfbdd411
+seen_titlehash:4351db654a4091239076216999a219e166825d63c88946497531b8fd111a5c60
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say
+title:at least six people killed in shooting in polish city of krakow police say
+seen_urlhash:14811a7c6382ccbb873395a862afc2b45591e8083752935f3860a70659595bf9
+seen_titlehash:6e04bf96e2cd47dcd18848a112a792d2e2e82a8d9e77862055f986fff7556285
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-мид-италии-заявил-об-утечке-данных-и-угрозах-семье/a-79887517?maca=rus-rss-ru-all-1126-rdf
+title:глава мид италии заявил об утечке данных и угрозах семье
+seen_urlhash:6cabb8f966b836e2ea19e665f97da75f4987f989f08d3d422e864f105df950e2
+seen_titlehash:7cab4c7e0978762ae4e204e897dafa134c819e85550a7dec51b2639d6b4dcd0b
+seen_reason:processed_not_published
+url:https://dw.com/ru/стрельба-в-кракове-шесть-человек-погибли-15-ранены/a-79886782?maca=rus-rss-ru-all-1126-rdf
+title:стрельба в кракове шесть человек погибли 15 ранены
+seen_urlhash:fece42732bd874de1becf981639553342accc2d7bc9f2cf1e8e077b27af33d03
+seen_titlehash:d4609f09aa61e08745d81b6c33b2929d2e60f5d1f42763185cb5e490aa7ef52d
+seen_reason:processed_not_published
+url:https://dw.com/ru/глава-офиса-президента-украины-буданов-заплатит-штраф-за-русский-язык/a-79887400?maca=rus-rss-ru-all-1126-rdf
+title:глава офиса президента украины буданов заплатит штраф за русский язык
+seen_urlhash:e82e1d376133adffb213066a4c5764d82cf0d4fd39e557c358302265cca86cfe
+seen_titlehash:a6c10b9629ed386e6a4a8de1550d8245a26a4b5cc7a29877a89ac4947ac4ddaa
+seen_reason:processed_not_published
+url:https://dw.com/ru/писториус-фрг-пока-не-может-дать-украине-больше-зрк-patriot/a-79885474?maca=rus-rss-ru-all-1126-rdf
+title:писториус фрг пока не может дать украине больше зрк patriot
+seen_urlhash:669746b355d4c0836aee121c925479fb982aa5e3d37c29c37df012f40384e643
+seen_titlehash:6d4d9b43eeda357c7059867e83b5fd1ccf3e331ac1db7ff8021be1ab0a01ae5b
+seen_reason:processed_not_published
+url:https://dw.com/ru/лашет-мелони-права-еc-нужно-единство-по-урегулированию-в-украине/a-79886600?maca=rus-rss-ru-all-1126-rdf
+title:лашет мелони права еc нужно единство по урегулированию в украине
+seen_urlhash:c20e64e92968ce912444749699a01cce52930f81f0ed2971878e0ca244f217f9
+seen_titlehash:6cc02c4613cf08608a3088dadc55a4040572e992691c922725e4551fa3dbdd6b
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/07/video-shows-people-fleeing-as-a-gunman-opens-fire-in-krakow-poland
+title:стрельба в центре кракова не менее шести погибших и раненые
+seen_urlhash:f7848df9e3f51a73ba36fc56eaf4cf7bed8f353cc3811d196d8feace279a7ce8
+seen_titlehash:a7068361495d1c461a2e3ac546dec215980165e228ee74897097a6e4094c903c
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/07/poland-krakow-shooting
+title:стрельба в центре кракова 6 человек погибли 15 ранены стрелявший задержан
+seen_urlhash:b848d4340a826810f192b169620af782354cf1dd7c3dd6576529cba789485498
+seen_titlehash:2f09fca4619436b75f4307f98fc08c09ed18e2ee2b1ce467079792985c4d5315
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/07/holod-rossiyane-rasskazali-chto-ih-doprashivayut-v-aeroportu-berlina-sprashivayut-o-voyne-i-mobilizatsii
+title:холод россияне рассказали что их допрашивают в аэропорту берлина спрашивают о войне и мобилизации
+seen_urlhash:28ad7086d6d6412bdea99e7b02d71827acacf2a822d8e11367b19176e9e07cd4
+seen_titlehash:b6b3553288c50fbfe0f450d9d98b596b2623fc05332a16feeba08a0218165287
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/07/prestupnik-otkryl-strelbu-po-prohozhim-na-rynochnoy-ploschadi-v-krakove-pogibli-pyat-chelovek
+title:преступник открыл стрельбу по прохожим на рыночной площади в кракове погибли шесть человек главное
+seen_urlhash:94f07e9bf26fc0b8d466b26fbd8b8b3d9fdee8eb0618eec1bb3c5e286a88e8fa
+seen_titlehash:f3b771b3bc7b533df9d7e38a6a90219624fafd593b279a06be33cc5c6c9d0213
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/07/apple-zapretila-pisat-s-pomoschyu-svaypov-100-tysyach-slov-i-vyrazheniy-sredi-nih-dictator-trump-a-na-russkom-frazy-o-putine-i-vvode-voysk
+title:apple запретила писать с помощью свайпов 100 тысяч слов и выражений среди них dictator trump а на русском фразы о путине и вводе войск
+seen_urlhash:1f949395f7f088b09aff57f1b2dc58aab4ed71643a5b04932bf745a80188a954
+seen_titlehash:3e80e47dd4efbf7e68d256d75a2935a251626d08dd8c93033040b19d3761d8d5
+seen_reason:processed_not_published
+url:https://ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1
+title:french far left presidential hopeful pledges revolutionary remaking of society
