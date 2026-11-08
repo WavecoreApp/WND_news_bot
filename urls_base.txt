@@ -190108,3 +190108,383 @@ seen_titlehash:dbe3ffb40aa9d9724e3d167a024933b245f99a4386379d137b4cb1029f9781ce
 seen_reason:processed_not_published
 url:https://ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58?syn-25a6b1a6=1
 title:indonesian president s adviser says msci downgrade threat went too far
+seen_urlhash:fc15bfc1fad6c9df564b28f267476877a1d18938ddd69e6873411a8e7e0f7737
+seen_titlehash:9f645fda09c7dd5cd4e75029a753568fce0c857cd45b2bde9aaac2bf3d4bdd5c
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html
+title:what to know about the mass shooting in krakow poland
+seen_urlhash:4b048aa7144b2d108c72ae48e1b7a8c27e78215cb118972551554983df355cf7
+seen_titlehash:7c3985fa586f7db1c3c13e3551f9cb2bf66fc0c0814d16655a878700887dbf92
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html
+title:saudi aramco tower damaged as yemen s houthis attack riyadh
+seen_urlhash:2f57f5da32b7a504493376653b73713e0e5faa593168efc4b3cbebe39b5c9a70
+seen_titlehash:d7546824320ea2a8ee2b7243a918d4c55772050c0caf013389d536d2c6a1dc64
+seen_reason:processed_not_published
+url:https://nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html
+title:who is gadi eisenkot israel s opposition leader
+seen_urlhash:bfe8ab38ddd0a88ed4b56dabce4ca8612d3fef569ec8dfecb110c37d520b5ea5
+seen_titlehash:de3346b7c0d9e68ec2813c440474fa8daf0454192dbdabe1bf87a5fa794991b2
+seen_reason:processed_not_published
+url:https://theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision
+title:collision of two trains in egypt kills at least four
+seen_urlhash:afbcd56d76a7c46e28d2d79f2e4e59636e76908920e25fc2eb63f06f71bdcc0c
+seen_titlehash:3edd81d2ce90a1afd8f4f2b00d36e609bd0167379e3d877644a971dc0cc6530a
+seen_reason:processed_not_published
+url:https://theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester
+title:how african philosophies inspired a new approach to staging film festivals in manchester
+seen_urlhash:30b89629481bb08a80f80c0dd2ed050fa05ae5d16d928944f5c3b6479a67e182
+seen_titlehash:3efac752fcc20ab55ea60f49c481c314310c61678c8f43c1b83e495866c15d6c
+seen_reason:processed_not_published
+url:https://theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia
+title:weakening ai copyright law will spell disaster for creativity global music body warns albanese
+seen_urlhash:917761a910707eb5a730d8141591840fd87c091d164c5ff63d051e27f77d02bd
+seen_titlehash:93cc73fea61f10ccec73b662783386024ab0ac7d21c10f0dcba26a6130d0f16d
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says
+title:cop31 must deliver climate progress that people can see is real host says
+seen_urlhash:fc777389503a98ef22b3d5230a69552731c9e9e7c0b3d0a17b324fb148b66e63
+seen_titlehash:9b046be5eb562a7d94f13248a6daf7d3c0026c75952ec78d9d32a459a7b5e64f
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks
+title:who s who at cop31 key players at the climate talks
+seen_urlhash:4bd8ae89d45442f294ed9ed4b19cd30f3e6481174a7d400b96bcd4847e031d27
+seen_titlehash:6bd0c4f8066e40a9a29ba428818b94814b29fec8995c32b3752f4824c2950bfe
+seen_reason:processed_not_published
+url:https://theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve
+title:cop31 what is at stake at the un climate summit and what can it achieve
+seen_urlhash:599600e79f490ec55013e033621103c3532dc454759ceef615c2be66d38cb7be
+seen_titlehash:ba6bf976eff4bacb1db47b1afeffda9a43b10b6f78f16136adfb895905e69620
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss
+title:train crash kills seven injures dozens near egypt s cairo city
+seen_urlhash:93513c054596af20db9c2bb1c35330783c5621ebc251005e28352fc8dd2d3bc9
+seen_titlehash:e881db7e7d28451b4c833b421cdbd101d991e19cf996596a9fd963cc49f0d97e
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss
+title:four killed 88 injured in train collision in egypt
+seen_urlhash:df36d911dda76eefceaec7ad0d65a28b888f7845d1135da2512514c93b055757
+seen_titlehash:bdb3886289024d7c18163a4ebbb8167dfe1088b73513077aa8810fac2cf9f574
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss
+title:israeli forces release palestinian journalist abou shhadeh
+seen_urlhash:d2293496428a68c7d0eae3624e2872ccf362d72b8aea3f31cf111ccd4358aa3e
+seen_titlehash:c219367b2af1fee277055878a5bf06245d1f7b98e025d2ce18888fb9ec63b5e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss
+title:egyptian embassy reopens in libya for the first time in 12 years
+seen_urlhash:4156b49ab911cf09e6a3f773e34fffce6630ca2ad776039362f7a64abaa8c400
+seen_titlehash:45983ddc4d93795aba918e34ff703e2f6e06855a6926f46e930af6d2adc073e1
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss
+title:tenerife s jesus de miguel honoured in tearful tribute by teammates fans
+seen_urlhash:e2673375f11f0c7ad8245b5e4932c966e1baadea17a46269508ac5510031896c
+seen_titlehash:f5fd8c8e96b6a934027846ffdef12b262de0fb2f0593f810985457237ede28e2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss
+title:palestinian journalist abed abou shhadeh released after 5 days in detention
+seen_urlhash:bd59c0ee74c08536a1ea614df591406c10e6efafc4f6c6235b8cd34296402e48
+seen_titlehash:bd50a8b82a99013c2472c2818f201d3dbba18aca5484fad90efa4c28e44cc1da
+seen_reason:processed_not_published
+url:https://aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss
+title:tearful alex eala loses hong kong open final to claire liu in straight sets
+seen_urlhash:b8434577d096cee757e971d34132344f978111199205a991043e42b7eeaddc82
+seen_titlehash:2d5e97705fbbd201b5c6f8425fca5597ee6310ac34a44366a8beeb8d47104a00
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss
+title:us task force to cut off iran s transport of advanced weapons what we know
+seen_urlhash:ddc11fa98b51942a36959fef3c699c33a9be477722f580259b90e98e6152abf9
+seen_titlehash:b4a4679236576294c7a0296c90deddd263814ebf4dc15ecd06a18ff702e8a024
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss
+title:at least 21 dead as small boat sinks off senegal
+seen_urlhash:914e2362af4ede6c8d39a3bda3613813ede5fc581b8957950520c1e8d1854570
+seen_titlehash:a8a1bab038b58bd1dc2d73b48130f0012fee456589b5e35658f2b37674fa09ed
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss
+title:egypt s reopening of its embassy in tripoli signals regional shift on libya
+seen_urlhash:6410438002234f6d745036f2dac9cf4d80e5498221c29e659b37aefecacc6356
+seen_titlehash:62d19eaface2eea06b0af317215c78316c938b27dfb0674c676a4a4e9f549a3d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss
+title:cctv captures streets shaking as 5 7 magnitude earthquake hits japan
+seen_urlhash:351f10476cdda3aaf3b3c24b96edbda599afebba3a9347f8e7d74179e1a03965
+seen_titlehash:5f816aa20ea2c4b416c3675efdd2eeb7e07ec4029b84f91a42c6fd0217cf0770
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss
+title:could iraq s kurdish region return to two separate administrations
+seen_urlhash:027368983a895d639927034d166eeaaa832381091428781dcbe3d10cbb3b4b90
+seen_titlehash:7f18d60556ac07277c283f58b7eb4c5a9a399bf0a71ad12c80314f72d48140fa
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss
+title:poland mourns six killed in attack as authorities launch terrorism probe
+seen_urlhash:7b0ec421ffe3d9bb84252cf8b0d4fb9628e5675dc3bf21e1f21015efe85f6155
+seen_titlehash:0b9c76161b653c95215610260de7ff468c879460e7741c9d470db1176e50dced
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss
+title:russian strikes on ukraine leave hundreds of thousands without electricity
+seen_urlhash:3c9fba83c14187e85c68ef01e01be7433117921d0864c8a17ecbf527655a2372
+seen_titlehash:8606c68dd597d7edec270e0ff4912c5becec58c910853b9470e8551612557139
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss
+title:south africa s anc suffers setback in local elections
+seen_urlhash:a634f1918c8fbd09ba2d1e52913bab137d291f05c23830ea5c7c5da5afc7afea
+seen_titlehash:1cb26d8e061d10a68eddc17c9c56a47cb6e8f93e7bb05b85ea5b4cab7906724d
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss
+title:could ufc boss dana white be next white house press secretary
+seen_urlhash:700869a90b3626fbdff51aeaf5e71ecbc43a2fa2bdd0c4593ae40d952182f248
+seen_titlehash:95daf464986d56d585addd37b50e198c00bb378f71e0cdaefbab24e8ba57fc78
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss
+title:will eisenkot be able to form israel s next gov t amid divided opposition
+seen_urlhash:c18c75ae93951feb994d5c18c8ff83a415e912b7ed4ea8266c9a8b4c2d592df2
+seen_titlehash:8a526a107fe1bc07e11807519da2660973ea84e837a3d055159dc8cda5410a1e
+seen_reason:processed_not_published
+url:https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748
+title:four dead and 88 injured in train crash near cairo
+seen_urlhash:1f8a30f9dafb146e565e6f378a2f2fca4b87d65882029ff82aa743dc339da255
+seen_titlehash:0fa5bc11121248750adb1d64021f7c2852c90b1368ac318e47e1e4ac51b2e5e6
+seen_reason:processed_not_published
+url:https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678
+title:one dead in russia after ukraine drone attack as emergency workers struck by moscow
+seen_urlhash:8a7a2c2033a46d718c8098676fc90cf2835348e6cc3988f20a18e4ba82b253c7
+seen_titlehash:7af09b80c5b3269733d9c712b751039cb4ec3145c5b41530d5c0952ddb6a39d3
+seen_reason:processed_not_published
+url:https://news.sky.com/story/human-rights-and-freedom-have-ceased-newspaper-that-defied-kremlin-pays-price-13609715
+title:human rights and freedom have ceased newspaper that defied kremlin pays price
+seen_urlhash:298e3bdb246d95e3706c632e6b82059a210d299254d1d92dbf956a2c888a4880
+seen_titlehash:86c9d4932591a0c323aa5c3f6ff01427d6f78c087508c39818c601d548bafc72
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics
+title:the week in pictures us midterms blue wave french protests and dakar youth olympics
+seen_urlhash:0a705eaf7d89298a9c8b6a135651deb66b5332617f68f50fd2e5a500545d6fc7
+seen_titlehash:8ac882144cd2d04956d44190e466de2285e8ee821ab6c1754c5a1b38507fd535
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france
+title:us voters reject ai data centres could the backlash spread to france
+seen_urlhash:3f52fee83e1c4e33fe7db8d95024675ee6aac3cdb1123fea408e1d70b3a87894
+seen_titlehash:463d5706c92259ec880038bf7faf300fef17d53de72ced68a130b8e62aeea3dd
+seen_reason:processed_not_published
+url:https://france24.com/en/yemen-s-humanitarian-crisis-worsens
+title:yemen s humanitarian crisis worsens
+seen_urlhash:99eb29ea3663c115078aa224814e6f0c928911869dfdaa6a31ce5e15d6a1c8b3
+seen_titlehash:880a5e180c6e5764cf55f684933c31c1234994c721cadd41fc3496a9d31e9796
+seen_reason:processed_not_published
+url:https://france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting
+title:poland in shock after 6 killed in krakow far right shooting
+seen_urlhash:c611b94eb850dd11180ca28c3c63abecc149561f702c802e5c78bdd32bea18e3
+seen_titlehash:b24612f43220146d8ca9d7b30d4ed54a0852c1b36974adb12c2608d3681a4244
+seen_reason:processed_not_published
+url:https://france24.com/en/french-skipper-wins-route-du-rhum
+title:french skipper wins route du rhum
+seen_urlhash:81dc0bc3bf237c1eee1b2d67a546cd9ff18936357949a6ababb27f3c41abcaeb
+seen_titlehash:ac30ce490ed9c744bfae56862b13a6017753afa376cfac79001afdd008df8eb3
+seen_reason:processed_not_published
+url:https://france24.com/en/mourning-in-poland-after-mass-shooting
+title:mourning in poland after mass shooting
+seen_urlhash:c1403f4fb108f90e5792c07fc19dcfa58d6419bc041474da0ff11b397c0acf4d
+seen_titlehash:2280bbada56913221b634c901ddc2022bc42c74854502b22fb19c9735e4d538c
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says
+title:europe will take part in us mediated ukraine talks in abu dhabi french fm says
+seen_urlhash:410d486029b2255baf5855fe8869a2847b4a527cce28d727b8f58819faaac963
+seen_titlehash:a41ac9202505f1bedc73cf1f35861711c89fd64f1ba825745105102faae4b3de
+seen_reason:processed_not_published
+url:https://france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america
+title:pope leo urges men to respect wives amid latin american femicide crisis
+seen_urlhash:0131a5e1c37a612bc3985d5fc241bb0d2ec9fa4fcab6b15fca1348002d251262
+seen_titlehash:a42e313249d9ba94da3dd4f3e1fd2d172394ae5afdf46cfea0e6b1b12af3e7a7
+seen_reason:processed_not_published
+url:https://france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police
+title:10 times more painful menstrual disorders fuel calls to ban tear gas at french protests
+seen_urlhash:c2a382eca1e484439337d9b22754da25846393ed3d3fd078ebc45f1e4f889f3a
+seen_titlehash:fc6d31c33f0cf042ee07749860ebcd55628e867426790393c5717f3d9f9f93a0
+seen_reason:processed_not_published
+url:https://france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal
+title:2026 dakar youth olympic games golden double for senegal
+seen_urlhash:66edb914ead06abd1703153ede3966a41bf6af0c801695f6519a8d7360c2a917
+seen_titlehash:d3193c7e5f0523bb4480192a39a64485eb5a30d6fdb36a58e2255755c16b5e66
+seen_reason:processed_not_published
+url:https://france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness
+title:diwali over one billion people mark victory of light over darkness
+seen_urlhash:b41d7a507f852d1ed8da6aa23df6f35d3c5c18c061a062c13ade846c01911f7d
+seen_titlehash:2f08df5b8ed3e753cf4bf199adc26b84e6cc16dfa71fbcc618d195b5febf2298
+seen_reason:processed_not_published
+url:https://france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign
+title:paraguay senate impeached peña rather than accept his offer to resign
+seen_urlhash:732081fe4952ff9ff922fc2ee50fcdc162ebe55c5d0a05e8c6bdf69f3b30b8cc
+seen_titlehash:fa355317f2d02405a7fc887fef9f8deda4102165237a3e30904b86dce0b5fc08
+seen_reason:processed_not_published
+url:https://france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting
+title:poland launches terrorism probe into mass shooting in krakow
+seen_urlhash:19cac4f4c496b5da98b4f00223a8bbac839a41d7e1b1ab04e80528429ff6a9b8
+seen_titlehash:62d30672ecf0de68e49672e9be097c3b6a6ab4422fff55907eec5db50865cf6d
+seen_reason:processed_not_published
+url:https://france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district
+title:yemen s houthis claim attack on aramco skyscraper in riyadh
+seen_urlhash:f17aa1579f9112e06441ef943fdecde171d51d1bf8157c8a8fd45b3bf3a9f3b3
+seen_titlehash:9d6a2834da70e388c1871e0a68f1f330c1e3d607184ef3da515fa0594f8403b7
+seen_reason:processed_not_published
+url:https://france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains
+title:new zealand s knife edge parliamentary election delivers no clear winner
+seen_urlhash:0baf61c5c12bd55dfa4e2052a47de5ee0665cb6cb8f5e6a00cfe0567862b7ff1
+seen_titlehash:dfd57aefb5dc96fe595bee51c518c679fd60fa005d2f59b39471e94ca57660ea
+seen_reason:processed_not_published
+url:https://dw.com/ru/франция-анонсировала-участие-европейцев-в-переговорах-по-украине-в-оаэ/a-79891865?maca=rus-rss-ru-all-1126-rdf
+title:франция анонсировала участие европейцев в переговорах по украине в оаэ
+seen_urlhash:1c51c99229eeb05a6013352006c809c87c113c08a861936863a834d51516ef5a
+seen_titlehash:99df98a5dd287f9edb83ab8f613d994cf13b7c231ce431d0cbc0fde403f5ea20
+seen_reason:processed_not_published
+url:https://dw.com/ru/россия-может-вытеснить-норвегию-с-молодежного-чемпионата-мира-по-хоккею-в-канаде/a-79891077?maca=rus-rss-ru-all-1126-rdf
+title:россия может вытеснить норвегию с молодежного чемпионата мира по хоккею в канаде
+seen_urlhash:23a95878e53b3e8acf126ffdf675f6a159fe37f1606b259485e1a5d5333e1dd0
+seen_titlehash:6b5d0293e771908768c2287b752cbd91f78120f6a9f5c45fc18ffe85daa6b546
+seen_reason:processed_not_published
+url:https://dw.com/ru/хакеры-на-войне-против-украины-погибли-почти-400-тысяч-россиян/a-79890412?maca=rus-rss-ru-all-1126-rdf
+title:хакеры на войне против украины погибли почти 400 тысяч россиян
+seen_urlhash:30b6f97b9c91435bf5237736f5a0db7c385a60b7ab1ab83117c5348b3cd21a43
+seen_titlehash:fe264228f7fd01dd960ca747f06b272ad055508fa46dc998d81ec2fabf2e2a63
+seen_reason:processed_not_published
+url:https://dw.com/ru/заэс-вновь-потеряла-внешнее-электроснабжение-после-отключения-лэп-из-за-повреждения-причины-пока-неизвестны/a-79890265?maca=rus-rss-ru-all-1126-rdf
+title:заэс вновь потеряла внешнее электроснабжение после отключения лэп из за повреждения причины пока неизвестны
+seen_urlhash:4eb1a4791d1f7c536ed2e869074ff3cdf8ba533e0dd7ecd0c56e3a4b14b46f71
+seen_titlehash:1caeff4683949ecb9f0636a2eee3d5942da944da64905e2ff372eda965a8e357
+seen_reason:processed_not_published
+url:https://dw.com/ru/вэнс-готовит-платформу-к-выборам-2028-дистанцируясь-от-трампа/a-79889910?maca=rus-rss-ru-all-1126-rdf
+title:вэнс готовит платформу к выборам 2028 дистанцируясь от трампа
+seen_urlhash:2e15131afb700253c0280381152395bdc82f9cb88624307b09c9d997b2cedcf7
+seen_titlehash:80c4c95841e08577f2566fa71b2d4ac3868201142c6c29189e9355c58ea99503
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island
+title:редкий двойной водяной смерч над итальянским островом капри
+seen_urlhash:30350c2519e106352dbd62e3d8a5303a8a630bd1ea5f022389e2711cf8b8f23f
+seen_titlehash:cab63cf917a416b4577ce8e0bafb088f74d8b2317580e9970e0fb70fbe87b6d3
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/tarantula-infestation-in-austria-more-than-200-reports-in-two-months-ru
+title:нашествие тарантулов в австрии более 200 сообщений за два месяца
+seen_urlhash:75d4b7c2bf7bb519faebd2b30aa2f7232330304d323adfb07582e7ae1af44ea5
+seen_titlehash:84811449683a6c7ce4e9782dfcac50d795163b8e617d144141c847f712c68a4a
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/egypt-train-collision
+title:столкновение поездов под каиром четыре человека погибли более 80 пострадали
+seen_urlhash:6f79214eef25c86508dac66e7bc174a31354c583c46e68c0b47409b45cdce847
+seen_titlehash:6fe272c8a484f1b6b8fade2a177301d2ea69552d6035ff2663201e41bc9176d2
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/war-in-ukraine-sunday-update
+title:удары россии по украине лишили электроэнергии 850 тысяч человек
+seen_urlhash:0c7a3365dd3e09261f51939b62c1d7a8083fd76579acb9f67197ce9cc0ee17b1
+seen_titlehash:233d8041cb85d99fc606cdc88f775165657c7df11137fbca664e80c2b28f8c30
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/europeans-will-take-part-in-the-ukraine-talks-in-abu-dhabi-ru
+title:европейцы примут участие в переговорах по украине в абу даби заявил глава мид франции
+seen_urlhash:244ce192fe713b283c836058fa87bf5c5d66e10cadfb167fdec1897e3e620032
+seen_titlehash:89c1359fb23d4974830a243976c487105a119b34cc472c38e4ee9d0feb217035
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/hackers-hacked-rosstat-russia-lost-more-than-390000-people-in-the-war-with-ukraine
+title:хакеры взломали росстат россия потеряла более 390 тысяч человек в войне с украиной
+seen_urlhash:f3f0db5b0e708210d110128c435868eb58ec5defe2553dbfb7a7428dae48d3bb
+seen_titlehash:324e5839c84a5c894b9ca98a9b98e3721a9d6be10638cbc9586749bb74b1fc19
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/iihf-announced-the-participation-of-the-russian-national-team-in-the-tournaments-ru
+title:несмотря на бойкот ряда стран иихф допустила сборную россии до участия в турнирах беларусь нет
+seen_urlhash:8d923fe1a3fe9267b569189408c254ff77dbae50a7c61527d6bdbf9c57ad249b
+seen_titlehash:013d378279569ec52496ba2f06ab491e974eb23e3a60088c9c336ef4bb67d7fa
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/croatia-janaf-pipeline-accident-results-in-nearly-half-a-million-liters-of-oil-leak-ru
+title:хорватия авария на нефтепроводе janaf привела к утечке почти полумиллиона литров нефти
+seen_urlhash:e53f6ccfed156c6565f456f081679f7debf86cb8adefb978efc612130b9a9339
+seen_titlehash:822682bd035d298a1a2b320bf704f846fd5e09c6b4ece3159fdc9714094ac536
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/november-7th-protests-in-france-a-participant-described-a-festival-of-joy-ru
+title:протесты 7 ноября во франции участник рассказал о празднике радости
+seen_urlhash:5b7b95c3566b07b05f4be258369178384b6a0c5d53fe42719fc0cb97dab28853
+seen_titlehash:5285355c26b11ebcec623f6e61436110d6f1ddec5a3caf2d0bfaf48bf066d6e5
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings
+title:вс сша вывели из строя грузовое судно в оманском заливе
+seen_urlhash:cc9b5d56cf1f981bcb7f8649fc087d788a34a7441f0963925dba743eed070d1e
+seen_titlehash:35d9c425e98a9194ab25840bf2a8410ee20084bd377c4cacaa4d76afd62612a4
+seen_reason:processed_not_published
+url:https://ru.euronews.com/2026/11/08/warsaw-security-measures
+title:власти варшавы повысили меры безопасности после трагедии в кракове
+seen_urlhash:ed64273125a2e5f9a45fcd85335b7f3bc572d2ff4ec0ed32b85b68b486c1319b
+seen_titlehash:98700342f02fe51db63ad52ca9f567f282d904739dc491f20c688ed5c5993994
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/08/v-berline-aktivisty-snyali-glavnyy-ofitsialnyy-flag-germanii-on-nahoditsya-u-reyhstaga-i-povesili-palestinskiy
+title:в берлине активисты сняли главный официальный флаг германии он находится у рейхстага и повесили палестинский
+seen_urlhash:3edd71a6f710239c9c272517ef988c68647712f1607a7fe51995960154c19b2d
+seen_titlehash:c8e76258c76cbc37ff38b1a1788c942491232900595af2b0bbe0fd4834750984
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/08/velikobritaniya-zapretit-detyam-do-16-let-polzovatsya-ebay-i-vinted-a-do-etogo-feysbukom-i-instagramom
+title:великобритания запретит детям до 16 лет пользоваться ebay и vinted а до этого фейсбуком и инстаграмом
+seen_urlhash:721d9f53c3518dc2ea101fc29a452eb8bf1492c42ee2a2be252854da88cc4e60
+seen_titlehash:e8320912eb342b25cd269c02122b9f2367cf52c9a28ca5ec9e1a719e36f876cc
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/08/voyna
+title:война 1719 й день россия продолжает наносить удары по энергосистеме украины в днепропетровской области блэкаут без электричества остались 600 тысяч человек
+seen_urlhash:a8652a2f9562b36c2e6b2ae3a9c9cedac2b093faa3b56405ea70597516a32c7c
+seen_titlehash:bb220bfc475a29d627f9892d50147e78c7eea56ee141a5ff6a2d4bc45d50b619
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/08/sbornaya-norvegii-po-hokkeyu-soobschila-chto-ee-vygnali-s-molodezhnogo-chempionata-mira-i-dobavili-tuda-rossiyu
+title:сборная норвегии по хоккею сообщила что ее выгнали с молодежного чемпионата мира и добавили туда россию
+seen_urlhash:01f10149d8c7cae2d0b597ab91932bd6e39d8db5b1b290dd65344717a1bc7ccd
+seen_titlehash:cc4757c608e66d903d61d3bed9701e29c9540154c166e57975a328fbbbca8fda
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/08/vy-nikogda-ne-zadumyvalis-pochemu-babochki-takie-krasivye-ved-eto-im-vrode-by-ni-dlya-chego-ne-nuzhno
+title:вы никогда не задумывались почему бабочки такие красивые ведь это им вроде бы ни для чего не нужно ученые кажется нашли разгадку и она связана с кораблями первой мировой войны
+seen_urlhash:6272596b0a2f749b5058a6317dd562206950a281c8db379f8bdcc27df04f45e1
+seen_titlehash:0e06e42a80b422dd0880f559520f14fa9b6438093aff11dbe0e9117f46b7bfc9
+seen_reason:processed_not_published
+url:https://meduza.io/feature/2026/11/08/u-kitay-goroda-v-moskve-zaderzhali-sotni-podrostkov-ih-chasami-derzhali-bez-vody-nekotoryh-izbili-drugim-vruchili-povestki
+title:на китай городе в москве задержали сотни подростков их часами держали без воды некоторых избили другим вручили повестки главное
+seen_urlhash:9b4934f5d742475a37cb728d01124a1b70e3da0c69733a576bf0f1dc8216f741
+seen_titlehash:dbab40677e98688df890e1301786ddde755eca15b85bf20d275345d10407b61f
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/08/rossiyskie-voennye-atakovali-dronom-spasateley-razbirayuschih-zavaly-v-kamyshevahe-tam-v-rezultate-udara-rf-po-ubezhischu-pogibli-bolee-50-chelovek
+title:российские военные атаковали дроном спасателей разбирающих завалы в камышевахе там в результате удара рф по убежищу погибли более 50 человек
+seen_urlhash:b5f796c37b8b7e755c65906933da7b856553a4a201546a5c31882b7b0c881914
+seen_titlehash:e98d30885e9d257061c9424c613586d9e067e9b15bf52870607eef401ee3ef6d
+seen_reason:processed_not_published
+url:https://meduza.io/news/2026/11/08/hakery-ob-yavivshie-o-vzlome-rosstata-utverzhdayut-chto-v-voyne-s-ukrainoy-pogibli-bolee-390-tysyach-rossiyan
+title:хакеры объявившие о взломе росстата утверждают что в войне с украиной погибли более 390 тысяч россиян
+seen_urlhash:51e6c1174bc15e2881c85a658221f51fdb82dc9a2bcafe469703ef6fac586294
+seen_titlehash:1bb3d9b78da124a247503db7aefdbbe5875bccda71af12898f5690889d1f0233
+seen_reason:processed_not_published
+url:https://ft.com/content/9dfb0201-ef77-4c05-93cd-1e277c7017cf?syn-25a6b1a6=1
+title:how each country s emissions compare
+seen_urlhash:8e61ff260280e644ccbf614eb4d47ddefcdb1f36ebcff7b904c4fe83e789023d
+seen_titlehash:125a4b76b1313852bc0d0ec5a428d85e3d0a1911a7b56a6c56d8c50392c81048
+seen_reason:processed_not_published
+url:https://ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1
+title:sequoia s new chiefs sweep away last remnants of botha era
+seen_urlhash:dc1da7954150a887225f795fa6a320a6972625ecc77eb2c865d995b6317ddb97
+seen_titlehash:ee662cf8ca7acf8e203f21fa435aff1815c47717dc2718cd64207b523c289645
+seen_reason:processed_not_published
+url:https://ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896?syn-25a6b1a6=1
+title:dublin launches blueprint for united ireland
+seen_urlhash:18e70cbc8f384bb47efd2439f408f7361a864228d1f0aeea9c42db853de98f44
+seen_titlehash:799bd5c8b3ee1683293175e3f54eb22dd44d50f6e7c436cd62ed67135ca3309b
+seen_reason:processed_not_published
+url:https://ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1
+title:republican infighting mounts over corruption claims after midterms wipeout
+seen_urlhash:92e22ae80d08837f4a0869bb036814ff453f4d9920f2e4d2b2d28486ca98a6aa
+seen_titlehash:be5ddfcbb9d30a4562443e751d6ba59e33d8e053da9cfb6525d179e916e00fba
+seen_reason:processed_not_published
+url:https://ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1?syn-25a6b1a6=1
+title:uk culture secretary lisa nandy questions whether rejoining eu is a choice we have
+seen_urlhash:3a90a69457585ec3220650bcede6c64473de16c3a9ced3facdf5ce602a836734
+seen_titlehash:02474588f2ec27f9c9cc9a8fd85751308e45ce1c74b77b29a245864a463e80d7
+seen_reason:processed_not_published
+url:https://ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1
+title:saudi aramco office in riyadh damaged in latest houthi strikes
+seen_urlhash:0a4589b7f309dd5e39ec980219130b02ce794ec9fabb5012dd0d6fbc9241ccee
+seen_titlehash:9c3ac3958d81c3c61121af011741d69c4c2d69207779250466b5315c0143d7a1
+seen_reason:processed_not_published
+url:https://ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1
+title:data says the unsaid about british welfare politics
+seen_urlhash:b47966071ccb78ccd3f08e2b286c2c41748f8729d6e8e3c2d60ced0f7d90fcae
+seen_titlehash:d690e913a2e286630bb009938f5ef06a0bdd49cd05a69753f488fb66aa07d293
+seen_reason:processed_not_published
+url:https://ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1
+title:anthropic strikes 3 4bn deal to generate gas fired power for data centres
