@@ -189663,3 +189663,78 @@ seen_titlehash:a08b910811d9fe6e5ed0eb3bd0ae9f9b243f7756a528e48ef20e4c42e4b7e3c0
 seen_reason:processed_not_published
 url:https://ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1
 title:trump asks ufc boss dana white to be new press secretary
+seen_urlhash:78fba69947df44457da479ed7b6a8883cf40ee86c6295eac6783812e61c6e19b
+seen_titlehash:df73427c46689d2ff728c87ecdf9947333e3099036675c5068fd9d075ac850d2
+seen_reason:processed_not_published
+url:https://theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation
+title:uyghurs facing deportation by thailand say they will be like slaves in china
+seen_urlhash:802d6f99862b800f25fe8cf89486d22c77cf044812640be060602cc377920681
+seen_titlehash:1043cb7145cd1ead21455f482b66bcf132716be1489adf84e10e678e31ec88f6
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino
+title:cold blast brings springtime snow to alpine regions as temperatures plummet across australia s south east
+seen_urlhash:cb416b4ed6dac1ce7f0e93758b7a3b4cc843e6729144db86ca67c5dc4429f5a1
+seen_titlehash:ffd8daab9b60184499deb4ded10afa78b8b5be1ee018c27aab047530c79fb744
+seen_reason:processed_not_published
+url:https://theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles
+title:victoria barracks in sydney and melbourne to remain in public hands after partial backtrack on defence property selloff
+seen_urlhash:a95df406233ea4469a6f756cbaaa668866789757d597be87afab6b5e2fabcaf0
+seen_titlehash:308e8e638cb4c8bdd8a8dedaa6d014ff4042128fa07bab8bacc7df803d32c1d9
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss
+title:egypt sacks winning football coach after wives scandal
+seen_urlhash:b071335b7f724b8d075bb13624fba5e2e16061d08e3a02e8f4921b618ac6b7ac
+seen_titlehash:ce930fc5aef0b2d615f6b90a4bbbff1b9cee04907d3a915677fee4078353b54d
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss
+title:us launches task force to disrupt iran s land based supply routes
+seen_urlhash:22a379ec35da0fae226c555f432697334cf1dae5955f34af8e8073b4ef569c8d
+seen_titlehash:8f3e094cc90ce30db24fd1d0addd6bbbcf44050fa6e45b42c0652847a089cbb3
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss
+title:canary islands el hierro declares emergency amid migrant refugee influx
+seen_urlhash:3a91a363285d1d5c2934708d0930e231f560a1a16a5d5b8599f1045a13cfeff4
+seen_titlehash:6a722d52ad859529de42b52f5e984462985b61346120957aebd6e20cbd3560f2
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss
+title:polish pm calls deadly krakow shooting an act of terrorism
+seen_urlhash:0939859c628f62cd383367a5f049d4d369261cc1d37af26c6c2e9a85a97d93db
+seen_titlehash:38f52428b034158ae81770e5540840491ae5c87695d87092a89e26debdad7826
+seen_reason:processed_not_published
+url:https://aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss
+title:iran war live us moves to block land supply routes uae rescues 22 sailors
+seen_urlhash:473db509be1f84259afa30179863339c330e6d41e885cff5a3c37ca2c323d6dd
+seen_titlehash:8a475b85ed3a6d5f7bc514a69b647c0237458275655e325a59d1c0f19c1a7e78
+seen_reason:processed_not_published
+url:https://aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss
+title:eisenkot chosen over netanyahu to form israel s next government
+seen_urlhash:a2a8c5e3ea96be14260be3415c6cdb6d70b469b8c4027ebf31af9e106746afd4
+seen_titlehash:a596be4d40b3f7a8500e14ee5b0c98f7bae6aff8f11456389590f8b508d6ed02
+seen_reason:processed_not_published
+url:https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612
+title:briton among six killed by far right gunman in krakow rampage
+seen_urlhash:3a85aae8635c6115509278d6550c17135303889a82e729a5b503570232438221
+seen_titlehash:1ba0978c2f0494754f43ef00b5830021c5378fd0fdb72c9dcc28ac6683512cd8
+seen_reason:processed_not_published
+url:https://france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house
+title:gunmen kills six in krakow three more bodies found at his house
+seen_urlhash:2d2f30f25ba5b4ee9b6b4dd269f4715132221c5ed65b348db9010ab96e1733a5
+seen_titlehash:75ac849c95034e5f580c511f5d4afa5f2372332d37d31913314328ca81b5def7
+seen_reason:processed_not_published
+url:https://dw.com/ru/президент-израиля-поручит-сформировать-правительство-оппозиционному-политику-гади-айзенкоту/a-79888565?maca=rus-rss-ru-all-1126-rdf
+title:президент израиля поручит сформировать правительство оппозиционному политику гади айзенкоту
+seen_urlhash:56fbae60ba82b4464a6ac213e44af32ec255d67ed33d37bb044dd16364045554
+seen_titlehash:972c48c12d2a8d3d9dff22946f94363f48007b48bc8716b762a9e5d32442b3f2
+seen_reason:processed_not_published
+url:https://dw.com/ru/туск-назвал-стрельбу-в-кракове-актом-терроризма-среди-пострадавших-есть-россиянка/a-79888539?maca=rus-rss-ru-all-1126-rdf
+title:туск назвал стрельбу в кракове актом терроризма среди пострадавших есть россиянка
+seen_urlhash:ade5788ea96a37e1e1a377357c431ebad3b06056d3dcd8636cd835fe8b998273
+seen_titlehash:213ebd9e3db004d93c4cb0cc27aa203bc4752156c954a09a9bd55d7da0977a2f
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/07/novosti-dnya-7-noyabrya-2026-g-vechernij-vypusk
+title:новости дня 7 ноября 2026 г вечерний выпуск
+seen_urlhash:f3fe9db76fa4b2992fc0627a5d67e27108f2647faa63b35452dd9abb2ec84a4f
+seen_titlehash:99b7a52395b002db4e7f3027b9e3d33a4dd1328d99db50b24a763b073e847637
+seen_reason:processed_not_published
+url:https://ru.euronews.com/video/2026/11/07/novosti-dnya-7-noyabrya-2026-g-dnevnoj-vypusk
+title:новости дня 7 ноября 2026 г дневной выпуск
