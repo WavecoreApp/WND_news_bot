@@ -1,32 +1,43 @@
 import os
 import re
-import time
-import html
+import io
 import json
-import math
+import html
+import time
+import base64
 import random
 import hashlib
-import difflib
-from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+import calendar
+import tempfile
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, urljoin, quote
 
 import requests
 import feedparser
 from bs4 import BeautifulSoup
-from openai import OpenAI
+from PIL import Image
 from google import genai
+from google.genai import types as genai_types
 
 
 # ==================================================
 # WND MAIN DIGEST
-# Architecture:
-# - Groq/Qwen only
-# - Groq batch scoring per source
-# - top 25% from EACH source
-# - theme dedupe across sources
-# - Gemini 3.1 Flash-Lite batch Russian rewrite with API key rotation
-# - Gemini is used only for final Russian rewrite
+# Pipeline (one run per hour):
+# 1. collect fresh RSS entries (last 24 h) from sources.txt
+# 2. score all new candidates with Gemini in batches (importance / freshness / reach)
+# 3. keep score >= MIN_SCORE_TO_POST
+# 4. dedupe: exact hashes -> token Jaccard + event_key -> one LLM event check
+# 5. for each selected story: fetch article, Russian rewrite (one Gemini call per article)
+# 6. publish with the article's own image/video and two URL buttons,
+#    random 30-120 s pauses between posts; overflow goes to the queue
+# State lives in state.json (small, bounded, written atomically).
 # ==================================================
 
+
+def env_str(name, default):
+    value = os.getenv(name)
+    if value is None or str(value).strip() == "":
+        return default
+    return str(value).strip()
 
 
 def env_int(name, default):
@@ -34,9 +45,20 @@ def env_int(name, default):
     if value is None or str(value).strip() == "":
         return default
     try:
-        return int(value)
+        return int(str(value).strip())
     except ValueError:
         print(f"Invalid integer env {name}={value!r}; using default {default}")
+        return default
+
+
+def env_float(name, default):
+    value = os.getenv(name)
+    if value is None or str(value).strip() == "":
+        return default
+    try:
+        return float(str(value).strip().replace(",", "."))
+    except ValueError:
+        print(f"Invalid number env {name}={value!r}; using default {default}")
         return default
 
 
@@ -44,9 +66,9 @@ def env_int(name, default):
 # SETTINGS
 # =========================
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "").strip()
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 
 GEMINI_API_KEYS = [
     key.strip()
@@ -54,58 +76,115 @@ GEMINI_API_KEYS = [
     if key.strip()
 ]
 
-DB_FILE = "urls_base.txt"
+GEMINI_SCORE_MODEL = env_str("GEMINI_SCORE_MODEL", "gemini-3.1-flash-lite")
+GEMINI_REWRITE_MODEL = env_str("GEMINI_REWRITE_MODEL", "gemini-3.8-flash")
+GROQ_FALLBACK_MODEL = env_str("GROQ_FALLBACK_MODEL", "openai/gpt-oss-120b")
+
+MIN_SCORE_TO_POST = env_float("MIN_SCORE_TO_POST", 7.0)
+MAX_POSTS_PER_RUN = max(1, env_int("MAX_POSTS_PER_RUN", 12))
+MAX_POSTS_PER_DOMAIN = max(1, env_int("MAX_POSTS_PER_DOMAIN", 6))
+ENTRIES_PER_SOURCE = max(1, env_int("ENTRIES_PER_SOURCE", 25))
+
+POST_DELAY_MIN_SECONDS = max(0, env_int("POST_DELAY_MIN_SECONDS", 30))
+POST_DELAY_MAX_SECONDS = max(0, env_int("POST_DELAY_MAX_SECONDS", 120))
+if POST_DELAY_MAX_SECONDS < POST_DELAY_MIN_SECONDS:
+    POST_DELAY_MIN_SECONDS, POST_DELAY_MAX_SECONDS = POST_DELAY_MAX_SECONDS, POST_DELAY_MIN_SECONDS
+
+DIGEST_CHANNEL_URL = env_str("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
+
+STATE_FILE = "state.json"
+LEGACY_DB_FILE = "urls_base.txt"
 SOURCES_FILE = "sources.txt"
 
-GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3-32b")
-GROQ_REWRITE_MODEL = os.getenv("GROQ_REWRITE_MODEL", "openai/gpt-oss-120b")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
+MAX_ENTRY_AGE_HOURS = 24
+SCORE_CHUNK_SIZE = 40
+SCORE_DESCRIPTION_CHARS = 300
 
-# Important:
-# Source top-percent cutting is disabled; this variable is kept only for compatibility.
-TOP_PERCENT_PER_SOURCE = env_int("TOP_PERCENT_PER_SOURCE", 25)
-SOURCE_MIN_TAKE = env_int("SOURCE_MIN_TAKE", 1)
+PUBLISHED_RETENTION_DAYS = 7
+SEEN_LIMIT = 5000
+QUEUE_MAX_AGE_HOURS = 12
+QUEUE_MAX_RETRIES = 2
 
-# 0 means no global cap. This matches your request: publish all deduped top-25%-per-source stories.
-# If later you want a hard cap, set MAX_NEWS_PER_RUN to e.g. 10.
-MAX_NEWS_PER_RUN = env_int("MAX_NEWS_PER_RUN", 0)
-MIN_SCORE_TO_POST = env_int("MIN_SCORE_TO_POST", 7)
+DEDUP_WINDOW_HOURS = 72
+JACCARD_THRESHOLD = 0.6
+JACCARD_THRESHOLD_STRICT = 0.5
+LLM_DEDUP_RECENT_EVENTS = 40
+MAX_ALTERNATES = 3
 
-MAX_CANDIDATES_PER_SOURCE = env_int("MAX_CANDIDATES_PER_SOURCE", 20)
-ENTRIES_PER_SOURCE = env_int("ENTRIES_PER_SOURCE", 20)
+ARTICLE_TEXT_LIMIT = 9000
+MIN_FULL_TEXT_CHARS = 300
+MIN_DESCRIPTION_CHARS = 200
 
-GROQ_BATCH_SIZE = env_int("GROQ_BATCH_SIZE", 20)
-GROQ_REWRITE_BATCH_SIZE = env_int("GROQ_REWRITE_BATCH_SIZE", 5)
-GEMINI_REWRITE_BATCH_SIZE = env_int("GEMINI_REWRITE_BATCH_SIZE", 5)
-GEMINI_BATCH_DELAY_SECONDS = env_int("GEMINI_BATCH_DELAY_SECONDS", 7)
-GEMINI_REWRITE_RETRIES = env_int("GEMINI_REWRITE_RETRIES", 2)
-GEMINI_RETRY_DELAY_SECONDS = env_int("GEMINI_RETRY_DELAY_SECONDS", 5)
+HEADLINE_MAX_CHARS = 140
+POST_TARGET_CHARS = 550
+POST_MAX_CHARS = 650
+POST_MIN_CHARS = 80
+BOLD_SPAN_MAX_CHARS = 80
+CAPTION_LIMIT = 1024
+TEXT_MESSAGE_LIMIT = 4096
 
-POST_DELAY_MIN_SECONDS = env_int("POST_DELAY_MIN_SECONDS", 60)
-POST_DELAY_MAX_SECONDS = env_int("POST_DELAY_MAX_SECONDS", 180)
+IMAGE_MIN_BYTES = 15 * 1024
+IMAGE_MAX_BYTES = 10 * 1024 * 1024
+IMAGE_MIN_WIDTH = 600
+IMAGE_MIN_HEIGHT = 315
+VIDEO_MAX_BYTES = 50 * 1024 * 1024
+PAGE_MAX_BYTES = 4 * 1024 * 1024
 
-MAX_POSTS_PER_DOMAIN = env_int("MAX_POSTS_PER_DOMAIN", 3)
+GEMINI_MAX_ATTEMPTS = 3
+GEMINI_RATE_LIMIT_BACKOFF = [10, 30]
+GEMINI_TIMEOUT_MS = 120000
 
-DIGEST_CHANNEL_URL = os.getenv("DIGEST_CHANNEL_URL", "https://t.me/wnd_digest")
+REQUEST_TIMEOUT = 25
+TELEGRAM_TIMEOUT = 60
 
-REQUEST_TIMEOUT = 30
+# Stop starting new posts after this many seconds so the run ends well before
+# the 30-minute workflow timeout and the next hourly run.
+RUN_TIME_BUDGET_SECONDS = 22 * 60
 
-groq_client = None
+RUN_STARTED_AT = time.time()
+
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+HTTP = requests.Session()
+HTTP.headers.update(BROWSER_HEADERS)
+
+gemini_clients = []
 gemini_key_index = 0
 
 
+# =========================
+# LOGGING (secrets are always redacted)
+# =========================
 
-def get_next_gemini_client():
-    global gemini_key_index
+def _secret_values():
+    values = [TELEGRAM_BOT_TOKEN, GROQ_API_KEY] + GEMINI_API_KEYS
+    return [v for v in values if v and len(v) >= 6]
 
-    if not GEMINI_API_KEYS:
-        raise RuntimeError("No Gemini API keys configured")
 
-    key = GEMINI_API_KEYS[gemini_key_index % len(GEMINI_API_KEYS)]
-    gemini_key_index += 1
+def redact(text):
+    text = str(text)
+    for secret in _secret_values():
+        text = text.replace(secret, "***")
+    text = re.sub(r"bot\d{5,}:[A-Za-z0-9_-]{20,}", "bot***", text)
+    text = re.sub(r"([?&]key=)[A-Za-z0-9_-]{16,}", r"\1***", text)
+    text = re.sub(r"AIza[0-9A-Za-z_-]{20,}", "***", text)
+    text = re.sub(r"gsk_[0-9A-Za-z]{20,}", "***", text)
+    return text
 
-    print(f"Using Gemini key #{((gemini_key_index - 1) % len(GEMINI_API_KEYS)) + 1}/{len(GEMINI_API_KEYS)}")
-    return genai.Client(api_key=key)
+
+def log(*parts):
+    print(redact(" ".join(str(p) for p in parts)), flush=True)
+
+
+def short_error(error, limit=300):
+    return redact(str(error)).replace("\n", " ")[:limit]
 
 
 # =========================
@@ -126,14 +205,24 @@ def clean_text(text):
 
 
 def strip_markdown(text):
+    """Remove markdown leftovers from plain text (used for headlines and fallbacks)."""
     if not text:
         return ""
     text = re.sub(r"```(?:json)?", "", text, flags=re.IGNORECASE)
-    text = text.replace("```", "")
+    text = text.replace("```", "").replace("`", "")
     text = re.sub(r"^\s*#{1,6}\s*", "", text, flags=re.MULTILINE)
-    text = text.replace("**", "")
-    text = text.replace("__", "")
+    text = re.sub(r"\[([^\]]+)\]\((?:https?://)?[^)]+\)", r"\1", text)
+    text = text.replace("**", "").replace("__", "").replace("*", "")
     return text.strip()
+
+
+EMOJI_RE = re.compile(
+    "[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002B00-\U00002BFF️‍]"
+)
+
+
+def strip_emoji(text):
+    return EMOJI_RE.sub("", text or "")
 
 
 def normalize_url(url):
@@ -146,7 +235,7 @@ def normalize_url(url):
     blocked_prefixes = ("utm_",)
     blocked_keys = {
         "fbclid", "gclid", "mc_cid", "mc_eid", "cmpid",
-        "ocid", "smid", "ref", "ref_src", "ito"
+        "ocid", "smid", "ref", "ref_src", "ito",
     }
 
     query = []
@@ -163,7 +252,7 @@ def normalize_url(url):
         netloc=parsed.netloc.lower().replace("www.", ""),
         path=parsed.path.rstrip("/"),
         query=urlencode(query, doseq=True),
-        fragment=""
+        fragment="",
     )
 
     return urlunparse(clean)
@@ -188,29 +277,66 @@ def chunks(items, size):
         yield items[i:i + size]
 
 
-def extract_json_payload(text):
-    if not text:
-        return {}
+def slugify(text, max_len=80):
+    value = str(text or "").lower()
+    value = re.sub(r"[^a-z0-9]+", "-", value).strip("-")
+    value = re.sub(r"-{2,}", "-", value)
+    return value[:max_len].strip("-")
 
-    cleaned = text.strip()
+
+def to_number(value, default=0.0):
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def clamp_score(value):
+    number = to_number(value, 0.0)
+    if number <= 0:
+        return 0.0
+    return max(1.0, min(10.0, number))
+
+
+def parse_json_tolerant(text):
+    """Parse model output into a dict. Accepts fenced code, extra text, or a bare list."""
+    if text is None:
+        raise ValueError("empty model output")
+
+    cleaned = str(text).strip()
+    if not cleaned:
+        raise ValueError("empty model output")
 
     if cleaned.startswith("```"):
         cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE)
-        cleaned = re.sub(r"\s*```$", "", cleaned)
+        cleaned = re.sub(r"\s*```\s*$", "", cleaned)
 
-    # Prefer JSON object.
+    candidates = [cleaned]
+
     obj_start = cleaned.find("{")
     obj_end = cleaned.rfind("}")
-    if obj_start != -1 and obj_end != -1 and obj_end > obj_start:
-        return json.loads(cleaned[obj_start:obj_end + 1])
+    if obj_start != -1 and obj_end > obj_start:
+        candidates.append(cleaned[obj_start:obj_end + 1])
 
-    # Fallback JSON array.
     arr_start = cleaned.find("[")
     arr_end = cleaned.rfind("]")
-    if arr_start != -1 and arr_end != -1 and arr_end > arr_start:
-        return {"items": json.loads(cleaned[arr_start:arr_end + 1])}
+    if arr_start != -1 and arr_end > arr_start:
+        candidates.append(cleaned[arr_start:arr_end + 1])
 
-    return json.loads(cleaned)
+    last_error = None
+    for candidate in candidates:
+        for variant in (candidate, re.sub(r",\s*([}\]])", r"\1", candidate)):
+            try:
+                value = json.loads(variant)
+            except Exception as e:
+                last_error = e
+                continue
+            if isinstance(value, dict):
+                return value
+            if isinstance(value, list):
+                return {"items": value}
+
+    raise ValueError(f"could not parse JSON from model output: {last_error}")
 
 
 def has_cyrillic(text):
@@ -229,14 +355,73 @@ def is_valid_russian_rewrite(headline, post):
     return len(cyr_words) >= max(3, len(latin_words))
 
 
+def utf16_len(text):
+    return len((text or "").encode("utf-16-le")) // 2
+
+
+def visible_html_length(text_html):
+    plain = re.sub(r"<[^>]+>", "", text_html or "")
+    return utf16_len(html.unescape(plain))
+
+
+STOPWORDS = {
+    "a", "an", "the", "of", "in", "on", "at", "to", "for", "from", "by", "with",
+    "and", "or", "but", "as", "is", "are", "was", "were", "be", "been", "it", "its",
+    "this", "that", "these", "those", "after", "over", "into", "amid", "says", "say",
+    "said", "new", "will", "would", "could", "can", "has", "have", "had", "not", "no",
+    "up", "out", "about", "than", "more", "his", "her", "their", "they", "he", "she",
+    "we", "you", "what", "who", "how", "why", "when", "s",
+}
+
+
+def title_tokens(title):
+    words = normalize_title(title).split()
+    return frozenset(w for w in words if len(w) > 1 and w not in STOPWORDS)
+
+
+def jaccard(a, b):
+    if not a or not b:
+        return 0.0
+    return len(a & b) / float(len(a | b))
+
+
+def is_http_url(url):
+    try:
+        parsed = urlparse(url or "")
+        return parsed.scheme in ("http", "https") and bool(parsed.netloc)
+    except Exception:
+        return False
+
+
+def clean_url_for_use(url):
+    """Drop tracking parameters and the fragment but keep the original host (www. etc.)."""
+    try:
+        parsed = urlparse((url or "").strip())
+        query = [
+            (k, v) for k, v in parse_qsl(parsed.query, keep_blank_values=True)
+            if not k.lower().startswith("utm_") and k.lower() not in ("fbclid", "gclid", "mc_cid", "mc_eid")
+        ]
+        return urlunparse(parsed._replace(query=urlencode(query, doseq=True), fragment=""))
+    except Exception:
+        return (url or "").strip()
+
+
+def url_without_query(url):
+    try:
+        parsed = urlparse(url or "")
+        return urlunparse(parsed._replace(query="", fragment="")).lower()
+    except Exception:
+        return (url or "").lower()
+
 
 # =========================
 # HARD CONTENT FILTERS
 # =========================
 
 BLOCKED_CATEGORIES = {
-    "coupon", "coupons", "shopping", "deals", "promotions", "affiliate", 
+    "coupon", "coupons", "shopping", "deals", "promotions", "affiliate",
     "casino", "betting", "gambling",
+    "sport", "sports", "celebrity", "celebrities", "gossip", "entertainment",
 }
 
 BLOCKED_KEYWORDS = [
@@ -261,7 +446,7 @@ BLOCKED_KEYWORDS = [
     "coupon code", "promo code", "discount code", "voucher code",
     "black friday", "cyber monday", "limited-time deal", "limited time deal",
     "shop now", "buy now", "special offer", "flash sale",
-    "affiliate link", "sponsored post", "cashback", "trip.com", "AnimeJapan"
+    "affiliate link", "sponsored post", "cashback", "trip.com", "AnimeJapan",
 
     # gambling / betting
     "betting odds", "sports betting", "online casino",
@@ -271,6 +456,7 @@ BLOCKED_KEYWORDS = [
     "you won't believe", "viral video", "top 10",
     "best moments", "must watch", "internet reacts",
 ]
+
 
 def is_blocked_news_item(title, summary, category=""):
     category_l = str(category or "").lower().strip()
@@ -298,80 +484,297 @@ def is_blocked_news_item(title, summary, category=""):
     return False, ""
 
 
+# Source priority when several outlets report the same event (best first).
+SOURCE_PRIORITY = [
+    ("reuters.com",),
+    ("apnews.com",),
+    ("bbc.co.uk", "bbc.com"),
+    ("dw.com",),
+    ("wsj.com",),
+    ("france24.com",),
+    ("aljazeera.com",),
+    ("politico.eu",),
+]
+
+AGGREGATOR_DOMAINS = ("news.google.com", "flipboard.com")
+
+
+def _domain_matches(domain, name):
+    return domain == name or domain.endswith("." + name)
+
+
+def source_priority(domain):
+    d = (domain or "").lower()
+    for index, names in enumerate(SOURCE_PRIORITY):
+        if any(_domain_matches(d, name) for name in names):
+            return index
+    return len(SOURCE_PRIORITY)
+
+
+def canonical_source(domain):
+    d = (domain or "").lower()
+    for names in SOURCE_PRIORITY:
+        if any(_domain_matches(d, name) for name in names):
+            return names[0]
+    return d or "unknown"
+
+
+def is_aggregator_url(url):
+    d = get_domain(url)
+    return any(_domain_matches(d, name) for name in AGGREGATOR_DOMAINS)
+
+
+def rank_key(item):
+    return (source_priority(item.get("domain", "")), -to_number(item.get("score"), 0.0))
+
+
 # =========================
-# DATABASE / DUPLICATES
+# STATE (state.json)
 # =========================
 
-def load_db():
-    url_hashes = set()
-    title_hashes = set()
-    raw_lines = set()
+QUEUE_FIELDS = [
+    "link", "url", "url_hash", "title", "title_hash", "normalized_title", "summary",
+    "domain", "aggregator", "alt_links", "rss_images", "rss_videos", "source_rss",
+    "published_ts", "importance", "freshness", "reach", "score", "category",
+    "event_key", "reason", "queued_at", "attempts",
+]
 
-    if not os.path.exists(DB_FILE):
-        return url_hashes, title_hashes, raw_lines
 
-    with open(DB_FILE, "r", encoding="utf-8") as f:
-        for line in f:
+def public_fields(item):
+    return {key: item[key] for key in QUEUE_FIELDS if key in item}
+
+
+def read_last_lines(path, count, block_size=65536):
+    """Read only the last `count` lines of a (possibly huge) text file."""
+    with open(path, "rb") as f:
+        f.seek(0, os.SEEK_END)
+        position = f.tell()
+        buffer = b""
+        while position > 0 and buffer.count(b"\n") <= count:
+            read_size = min(block_size, position)
+            position -= read_size
+            f.seek(position)
+            buffer = f.read(read_size) + buffer
+    lines = buffer.decode("utf-8", errors="replace").splitlines()
+    return lines[-count:]
+
+
+class BotState:
+    def __init__(self):
+        self.published = []
+        self.seen_url_hashes = []
+        self.seen_title_hashes = []
+        self.queue = []
+        self._seen_url_set = set()
+        self._seen_title_set = set()
+
+    # ---------- load / save ----------
+
+    @classmethod
+    def load(cls):
+        state = cls()
+        data = None
+        need_migration = False
+
+        if os.path.exists(STATE_FILE):
+            try:
+                with open(STATE_FILE, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if not isinstance(data, dict):
+                    raise ValueError("state.json root is not an object")
+            except Exception as e:
+                log(f"state.json is unreadable ({short_error(e)}); starting with an empty state")
+                data = None
+                need_migration = True
+        else:
+            need_migration = True
+
+        if data:
+            if isinstance(data.get("published"), list):
+                state.published = [p for p in data["published"] if isinstance(p, dict)]
+            if isinstance(data.get("seen_url_hashes"), list):
+                state.seen_url_hashes = [str(h) for h in data["seen_url_hashes"] if h]
+            if isinstance(data.get("seen_title_hashes"), list):
+                state.seen_title_hashes = [str(h) for h in data["seen_title_hashes"] if h]
+            if isinstance(data.get("queue"), list):
+                state.queue = [q for q in data["queue"] if isinstance(q, dict) and q.get("url_hash")]
+
+        if need_migration and os.path.exists(LEGACY_DB_FILE):
+            state.migrate_legacy_db()
+
+        state.prune()
+        return state
+
+    def migrate_legacy_db(self):
+        """One-time import of the last SEEN_LIMIT lines of urls_base.txt (never the whole file)."""
+        try:
+            lines = read_last_lines(LEGACY_DB_FILE, SEEN_LIMIT)
+        except Exception as e:
+            log(f"Legacy DB migration failed: {short_error(e)}")
+            return
+
+        url_hashes = []
+        title_hashes = []
+        for line in lines:
             item = line.strip()
-            if not item:
-                continue
-
-            raw_lines.add(item)
-
             if item.startswith("urlhash:"):
-                url_hashes.add(item.replace("urlhash:", "", 1))
-            elif item.startswith("titlehash:"):
-                title_hashes.add(item.replace("titlehash:", "", 1))
+                url_hashes.append(item.split(":", 1)[1])
             elif item.startswith("seen_urlhash:"):
-                url_hashes.add(item.replace("seen_urlhash:", "", 1))
+                url_hashes.append(item.split(":", 1)[1])
+            elif item.startswith("titlehash:"):
+                title_hashes.append(item.split(":", 1)[1])
             elif item.startswith("seen_titlehash:"):
-                title_hashes.add(item.replace("seen_titlehash:", "", 1))
-            elif item.startswith("http"):
-                url_hashes.add(hash_text(normalize_url(item)))
+                title_hashes.append(item.split(":", 1)[1])
 
-    return url_hashes, title_hashes, raw_lines
+        for h in url_hashes:
+            self.add_seen(url_hash=h)
+        for h in title_hashes:
+            self.add_seen(title_hash=h)
 
+        log(
+            f"Migrated legacy {LEGACY_DB_FILE}: {len(set(url_hashes))} url hashes, "
+            f"{len(set(title_hashes))} title hashes (last {len(lines)} lines only)"
+        )
 
-def append_seen(item, reason):
-    with open(DB_FILE, "a", encoding="utf-8") as f:
-        f.write(f"seen_urlhash:{item['url_hash']}\n")
-        f.write(f"seen_titlehash:{item['title_hash']}\n")
-        f.write(f"seen_reason:{reason}\n")
-        f.write(f"url:{item['link']}\n")
-        f.write(f"title:{item['normalized_title']}\n")
+    def prune(self):
+        now = time.time()
 
+        published_cutoff = now - PUBLISHED_RETENTION_DAYS * 86400
+        self.published = [
+            p for p in self.published
+            if to_number(p.get("timestamp"), 0) >= published_cutoff
+        ]
 
-def append_published(item):
-    with open(DB_FILE, "a", encoding="utf-8") as f:
-        f.write(f"urlhash:{item['url_hash']}\n")
-        f.write(f"titlehash:{item['title_hash']}\n")
-        f.write(f"published_url:{item['link']}\n")
-        f.write(f"title:{item['normalized_title']}\n")
+        queue_cutoff = now - QUEUE_MAX_AGE_HOURS * 3600
+        kept_queue = []
+        seen_queue = set()
+        for q in self.queue:
+            if to_number(q.get("queued_at"), 0) < queue_cutoff:
+                log(f"Queue entry expired: {q.get('title', '')[:90]}")
+                continue
+            if q.get("url_hash") in seen_queue:
+                continue
+            seen_queue.add(q.get("url_hash"))
+            kept_queue.append(q)
+        self.queue = kept_queue
 
+        self.seen_url_hashes = self._dedupe_tail(self.seen_url_hashes, SEEN_LIMIT)
+        self.seen_title_hashes = self._dedupe_tail(self.seen_title_hashes, SEEN_LIMIT)
+        self._seen_url_set = set(self.seen_url_hashes)
+        self._seen_title_set = set(self.seen_title_hashes)
 
-def is_similar_to_published_title(title, published_title_hashes, raw_db_lines):
-    normalized = normalize_title(title)
-    title_hash = hash_text(normalized)
+    @staticmethod
+    def _dedupe_tail(values, limit):
+        # Keep the most recent occurrence of each hash, preserve order, keep last `limit`.
+        result = []
+        seen = set()
+        for value in reversed(values):
+            if value in seen:
+                continue
+            seen.add(value)
+            result.append(value)
+            if len(result) >= limit:
+                break
+        result.reverse()
+        return result
 
-    if title_hash in published_title_hashes:
-        return True
+    def save(self):
+        self.seen_url_hashes = self.seen_url_hashes[-SEEN_LIMIT:]
+        self.seen_title_hashes = self.seen_title_hashes[-SEEN_LIMIT:]
 
-    old_titles = [
-        line.replace("title:", "", 1)
-        for line in raw_db_lines
-        if line.startswith("title:")
-    ]
+        data = {
+            "version": 2,
+            "updated_at": int(time.time()),
+            "published": self.published,
+            "queue": self.queue,
+            "seen_url_hashes": self.seen_url_hashes,
+            "seen_title_hashes": self.seen_title_hashes,
+        }
 
-    for old in old_titles[-1000:]:
-        ratio = difflib.SequenceMatcher(None, normalized, old).ratio()
-        if ratio >= 0.86:
-            return True
+        directory = os.path.dirname(os.path.abspath(STATE_FILE))
+        tmp_path = None
+        try:
+            fd, tmp_path = tempfile.mkstemp(prefix=".state-", suffix=".json.tmp", dir=directory)
+            with os.fdopen(fd, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=1)
+                f.write("\n")
+                f.flush()
+                os.fsync(f.fileno())
+            os.replace(tmp_path, STATE_FILE)
+            tmp_path = None
+        except Exception as e:
+            log(f"Saving state failed: {short_error(e)}")
+        finally:
+            if tmp_path and os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
 
-    return False
+    # ---------- seen ----------
+
+    def add_seen(self, url_hash=None, title_hash=None):
+        if url_hash:
+            self.seen_url_hashes.append(url_hash)
+            self._seen_url_set.add(url_hash)
+        if title_hash:
+            self.seen_title_hashes.append(title_hash)
+            self._seen_title_set.add(title_hash)
+
+    def is_seen_url(self, url_hash):
+        return url_hash in self._seen_url_set
+
+    def is_seen_title(self, title_hash):
+        return title_hash in self._seen_title_set
+
+    # ---------- published ----------
+
+    def published_url_hashes(self):
+        result = set()
+        for p in self.published:
+            for key in ("url_hash", "resolved_url_hash"):
+                if p.get(key):
+                    result.add(p[key])
+        return result
+
+    def published_title_hashes(self):
+        return {p.get("title_hash") for p in self.published if p.get("title_hash")}
+
+    def recent_published(self, hours):
+        cutoff = time.time() - hours * 3600
+        return [p for p in self.published if to_number(p.get("timestamp"), 0) >= cutoff]
+
+    def recent_image_keys(self):
+        return {url_without_query(p.get("image_url")) for p in self.published if p.get("image_url")}
+
+    def record_published(self, entry):
+        self.published.append(entry)
+        self.add_seen(url_hash=entry.get("url_hash"), title_hash=entry.get("title_hash"))
+        if entry.get("resolved_url_hash"):
+            self.add_seen(url_hash=entry["resolved_url_hash"])
+
+    # ---------- queue ----------
+
+    def queue_hashes(self):
+        return {q.get("url_hash") for q in self.queue}
+
+    def remove_from_queue(self, url_hash):
+        self.queue = [q for q in self.queue if q.get("url_hash") != url_hash]
+
+    def upsert_queue(self, item):
+        entry = public_fields(item)
+        entry["alternates"] = [public_fields(a) for a in item.get("alternates", [])][:MAX_ALTERNATES]
+        entry.setdefault("queued_at", int(time.time()))
+        entry.setdefault("attempts", 0)
+        for index, existing in enumerate(self.queue):
+            if existing.get("url_hash") == entry["url_hash"]:
+                self.queue[index] = entry
+                return
+        self.queue.append(entry)
 
 
 # =========================
-# SOURCES
+# SOURCES / COLLECTION
 # =========================
 
 def load_sources():
@@ -386,28 +789,183 @@ def load_sources():
         ]
 
 
-def collect_candidates_by_source(sources, published_url_hashes, published_title_hashes, raw_db_lines):
-    groups = []
-    total = 0
+def fetch_feed(rss_url):
+    """Download a feed with a timeout (feedparser itself has none) and parse it."""
+    response = HTTP.get(rss_url, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+    response.raise_for_status()
+    feed = feedparser.parse(response.content)
+    if getattr(feed, "bozo", 0) and not feed.entries:
+        raise ValueError(f"unparseable feed: {getattr(feed, 'bozo_exception', '')}")
+    return feed
 
-    for source_index, rss_url in enumerate(sources, start=1):
-        print(f"Reading source: {rss_url}")
+
+def entry_timestamp(entry):
+    for key in ("published_parsed", "updated_parsed"):
+        value = entry.get(key)
+        if value:
+            try:
+                return int(calendar.timegm(value))
+            except Exception:
+                continue
+    return None
+
+
+def _int_attr(media, key):
+    try:
+        return int(media.get(key) or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def extract_rss_images(entry):
+    candidates = []
+
+    for media in entry.get("media_content", []) or []:
+        url = media.get("url", "")
+        media_type = str(media.get("type", "")).lower()
+        medium = str(media.get("medium", "")).lower()
+        if not url:
+            continue
+        if "video" in media_type or medium == "video":
+            continue
+        if media_type.startswith("image") or medium == "image" or re.search(r"\.(jpe?g|png|webp)(\?|$)", url.lower()):
+            candidates.append((url, _int_attr(media, "width") * _int_attr(media, "height")))
+
+    for media in entry.get("media_thumbnail", []) or []:
+        url = media.get("url", "")
+        if url:
+            candidates.append((url, _int_attr(media, "width") * _int_attr(media, "height")))
+
+    for link in entry.get("links", []) or []:
+        href = link.get("href", "")
+        link_type = str(link.get("type", "")).lower()
+        if href and link_type.startswith("image"):
+            candidates.append((href, 0))
+
+    candidates.sort(key=lambda x: x[1], reverse=True)
+    result = []
+    for url, _ in candidates:
+        if is_http_url(url) and url not in result:
+            result.append(url)
+    return result[:5]
+
+
+def extract_rss_videos(entry):
+    result = []
+
+    for media in entry.get("media_content", []) or []:
+        url = media.get("url", "")
+        media_type = str(media.get("type", "")).lower()
+        medium = str(media.get("medium", "")).lower()
+        if url and ("video" in media_type or medium == "video" or is_probably_good_video_url(url)):
+            result.append(url)
+
+    for link in entry.get("links", []) or []:
+        href = link.get("href", "")
+        link_type = str(link.get("type", "")).lower()
+        if href and ("video" in link_type or is_probably_good_video_url(href)):
+            result.append(href)
+
+    return [u for u in dict.fromkeys(result) if is_probably_good_video_url(u)][:3]
+
+
+def extract_alt_links(entry):
+    """Possible direct publisher links inside an aggregator entry (Google News / Flipboard)."""
+    candidates = []
+    for key in ("feedburner_origlink", "origlink", "id", "guid"):
+        value = entry.get(key)
+        if isinstance(value, str):
+            candidates.append(value)
+    for link in entry.get("links", []) or []:
+        href = link.get("href", "")
+        link_type = str(link.get("type", "")).lower()
+        if href and not link_type.startswith(("image", "video", "audio")):
+            candidates.append(href)
+
+    result = []
+    for url in candidates:
+        if not is_http_url(url) or is_aggregator_url(url):
+            continue
+        if len(urlparse(url).path.strip("/")) < 5:
+            continue  # a homepage, not an article
+        usable = clean_url_for_use(url)
+        if usable not in result:
+            result.append(usable)
+    return result
+
+
+def entry_source_info(entry):
+    source = entry.get("source") or {}
+    try:
+        href = source.get("href", "") or source.get("url", "")
+        title = clean_text(source.get("title", ""))
+    except AttributeError:
+        href, title = "", ""
+    return href, title
+
+
+def collect_candidates(sources, state):
+    published_urls = state.published_url_hashes()
+    published_titles = state.published_title_hashes()
+    queued = state.queue_hashes()
+
+    run_url_hashes = set()
+    run_title_hashes = set()
+    candidates = []
+    now = time.time()
+    max_age = MAX_ENTRY_AGE_HOURS * 3600
+
+    for rss_url in sources:
+        try:
+            feed = fetch_feed(rss_url)
+        except Exception as e:
+            log(f"Source error {rss_url}: {short_error(e)}")
+            continue
 
         try:
-            feed = feedparser.parse(rss_url)
-            source_items = []
+            entries = list(feed.entries[:ENTRIES_PER_SOURCE])
+        except Exception:
+            entries = []
 
-            for entry_index, entry in enumerate(feed.entries[:ENTRIES_PER_SOURCE], start=1):
-                link = normalize_url(entry.get("link", ""))
+        stats = {"entries": len(entries), "new": 0, "old": 0, "known": 0, "blocked": 0}
+
+        for entry in entries:
+            try:
+                raw_link = entry.get("link", "")
+                if not is_http_url(raw_link):
+                    continue
+                link = normalize_url(raw_link)
                 title = clean_text(entry.get("title", ""))
                 summary = clean_text(entry.get("summary", entry.get("description", "")))
-
                 if not link or not title:
                     continue
 
+                ts = entry_timestamp(entry)
+                if ts is not None and now - ts > max_age:
+                    stats["old"] += 1
+                    continue
+
+                aggregator = is_aggregator_url(link)
+                source_href, source_title = entry_source_info(entry)
+
+                # Google News titles look like "Headline - Reuters".
+                if source_title:
+                    for sep in (" - ", " | ", " — "):
+                        suffix = sep + source_title
+                        if title.endswith(suffix):
+                            title = title[: -len(suffix)].strip()
+                            break
+
+                # Google News descriptions only repeat the headline.
+                norm_summary = normalize_title(summary)
+                norm_title = normalize_title(title)
+                if summary and norm_title and norm_summary.startswith(norm_title[:40]) and len(summary) < len(title) + 60:
+                    summary = ""
+
                 blocked, blocked_reason = is_blocked_news_item(title, summary)
                 if blocked:
-                    print(f"Blacklisted at collection [{blocked_reason}]: {title}")
+                    stats["blocked"] += 1
+                    log(f"Blocked at collection [{blocked_reason}]: {title[:100]}")
                     continue
 
                 normalized_title = normalize_title(title)
@@ -417,557 +975,719 @@ def collect_candidates_by_source(sources, published_url_hashes, published_title_
                 url_hash = hash_text(link)
                 title_hash = hash_text(normalized_title)
 
-                if url_hash in published_url_hashes:
+                if (
+                    url_hash in published_urls
+                    or url_hash in queued
+                    or state.is_seen_url(url_hash)
+                    or title_hash in published_titles
+                    or state.is_seen_title(title_hash)
+                    or url_hash in run_url_hashes
+                    or title_hash in run_title_hashes
+                ):
+                    stats["known"] += 1
                     continue
 
-                if title_hash in published_title_hashes:
-                    continue
+                if aggregator:
+                    domain = get_domain(source_href) if is_http_url(source_href) else get_domain(link)
+                    alt_links = extract_alt_links(entry)
+                else:
+                    domain = get_domain(link)
+                    alt_links = []
 
-                if is_similar_to_published_title(title, published_title_hashes, raw_db_lines):
-                    continue
+                run_url_hashes.add(url_hash)
+                run_title_hashes.add(title_hash)
+                stats["new"] += 1
 
-                item = {
-                    "source_index": source_index,
-                    "source_rss": rss_url,
-                    "source_position": entry_index,
-                    "domain": get_domain(link),
-                    "entry": entry,
-                    "link": link,
+                candidates.append({
+                    "link": link,                       # normalized: used for hashing only
+                    "url": clean_url_for_use(raw_link),  # original host kept: used for fetching and the button
                     "url_hash": url_hash,
                     "title": title,
-                    "summary": summary,
-                    "normalized_title": normalized_title,
                     "title_hash": title_hash,
-                }
+                    "normalized_title": normalized_title,
+                    "summary": summary,
+                    "domain": domain,
+                    "aggregator": aggregator,
+                    "alt_links": alt_links,
+                    "rss_images": extract_rss_images(entry),
+                    "rss_videos": extract_rss_videos(entry),
+                    "source_rss": rss_url,
+                    "published_ts": ts,
+                })
+            except Exception as e:
+                log(f"Entry error in {rss_url}: {short_error(e)}")
 
-                source_items.append(item)
+        log(
+            f"Source {rss_url[:90]} | entries {stats['entries']} | new {stats['new']} | "
+            f"known {stats['known']} | older than {MAX_ENTRY_AGE_HOURS}h {stats['old']} | blocked {stats['blocked']}"
+        )
 
-            if len(source_items) > MAX_CANDIDATES_PER_SOURCE:
-                source_items = source_items[:MAX_CANDIDATES_PER_SOURCE]
+    return candidates
 
-            print(f"New candidates from source: {len(source_items)}")
-            total += len(source_items)
 
-            groups.append({
-                "source_url": rss_url,
-                "items": source_items,
-            })
+# =========================
+# GEMINI / GROQ HELPERS
+# =========================
+
+def init_gemini_clients():
+    global gemini_clients
+    gemini_clients = []
+    for key in GEMINI_API_KEYS:
+        try:
+            try:
+                client = genai.Client(
+                    api_key=key,
+                    http_options=genai_types.HttpOptions(timeout=GEMINI_TIMEOUT_MS),
+                )
+            except Exception:
+                # Older SDKs without HttpOptions(timeout=...).
+                client = genai.Client(api_key=key)
+            gemini_clients.append(client)
+        except Exception as e:
+            log(f"Gemini client init failed for key #{len(gemini_clients) + 1}: {short_error(e)}")
+    log(f"Gemini keys available: {len(gemini_clients)}")
+
+
+def next_gemini_client():
+    global gemini_key_index
+    if not gemini_clients:
+        raise RuntimeError("No Gemini API keys configured")
+    index = gemini_key_index % len(gemini_clients)
+    gemini_key_index += 1
+    return gemini_clients[index], index + 1
+
+
+def is_rate_limit_error(error):
+    code = getattr(error, "code", None) or getattr(error, "status_code", None)
+    message = str(error)
+    return code == 429 or "RESOURCE_EXHAUSTED" in message or re.search(r"\b429\b", message) is not None
+
+
+def is_fatal_request_error(error):
+    code = getattr(error, "code", None) or getattr(error, "status_code", None)
+    return code in (400, 401, 403, 404)
+
+
+def gemini_generate_json(prompt, model, temperature, label):
+    """The single entry point for every Gemini call: key rotation, retries, backoff, JSON parsing."""
+    last_error = None
+
+    for attempt in range(1, GEMINI_MAX_ATTEMPTS + 1):
+        client, key_no = next_gemini_client()
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=genai_types.GenerateContentConfig(
+                    temperature=temperature,
+                    response_mime_type="application/json",
+                ),
+            )
+            text = getattr(response, "text", None) or ""
+            return parse_json_tolerant(text)
 
         except Exception as e:
-            print(f"Source error {rss_url}: {e}")
+            last_error = e
+            rate_limited = is_rate_limit_error(e)
+            kind = "rate limit" if rate_limited else type(e).__name__
+            log(
+                f"Gemini {label} failed | model {model} | key #{key_no}/{len(gemini_clients)} | "
+                f"attempt {attempt}/{GEMINI_MAX_ATTEMPTS} | {kind}: {short_error(e, 200)}"
+            )
 
-    print(f"Total new candidates across all sources: {total}")
+            if attempt >= GEMINI_MAX_ATTEMPTS:
+                break
+            if not rate_limited and is_fatal_request_error(e):
+                break  # wrong model name / bad key: retrying will not help
+
+            if rate_limited:
+                delay = GEMINI_RATE_LIMIT_BACKOFF[min(attempt - 1, len(GEMINI_RATE_LIMIT_BACKOFF) - 1)]
+            else:
+                delay = 3
+            log(f"Retrying Gemini {label} in {delay}s with the next key")
+            time.sleep(delay)
+
+    raise RuntimeError(f"Gemini {label} failed: {short_error(last_error, 200)}")
+
+
+def groq_generate_json(prompt, temperature, label):
+    """Optional last-resort fallback (rewrite step only, only when GROQ_API_KEY is set)."""
+    if not GROQ_API_KEY:
+        raise RuntimeError("GROQ_API_KEY is not set")
+
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
+    payload = {
+        "model": GROQ_FALLBACK_MODEL,
+        "temperature": temperature,
+        "messages": [
+            {"role": "system", "content": "Return only one valid JSON object. No markdown, no text outside JSON."},
+            {"role": "user", "content": prompt},
+        ],
+        "response_format": {"type": "json_object"},
+    }
+
+    for attempt in range(2):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=90)
+        except Exception as e:
+            raise RuntimeError(f"Groq {label} request error: {short_error(e, 200)}")
+
+        if response.status_code == 400 and attempt == 0 and "response_format" in payload:
+            payload.pop("response_format", None)
+            continue
+        if response.status_code != 200:
+            raise RuntimeError(f"Groq {label} HTTP {response.status_code}: {short_error(response.text, 200)}")
+
+        try:
+            content = response.json()["choices"][0]["message"]["content"]
+        except Exception as e:
+            raise RuntimeError(f"Groq {label} bad response: {short_error(e, 200)}")
+        return parse_json_tolerant(content)
+
+    raise RuntimeError(f"Groq {label} failed")
+
+
+# =========================
+# SCORING
+# =========================
+
+SCORING_PROMPT = """
+You are the senior editor of "WND | Main Digest", a serious international Telegram news digest.
+Score every item below. Be strict: the scale is NOT meant to be generous. Most items in a normal
+news feed are routine and must get 4 or below. Only a few items per hour deserve 7+.
+
+Channel profile: world affairs - geopolitics, wars, international security, diplomacy, economy,
+sanctions, energy, major crises and disasters; global technology only when it is politically or
+economically important. Not wanted: sports, celebrities, entertainment, lifestyle, shopping,
+gambling, local crime, human-interest features.
+
+Criteria (integers 1-10):
+
+importance - how significant the event is for world affairs.
+  3 = routine or local: "City council in Lyon approves new tram line".
+  6 = notable international development with limited consequences:
+      "EU adds 12 officials to its sanctions list over election fraud".
+  9 = major event with global consequences: "Russia and Ukraine sign a ceasefire agreement".
+
+freshness - is this genuinely new news.
+  3 = explainer, analysis, opinion, "what we know", recap or a follow-up with nothing new:
+      "What is behind the trade war? A guide".
+  6 = follow-up with some new details: "Death toll from Turkey quake rises to 45".
+  9 = first report of a new development: "US announces new tariffs on Chinese chips, effective Monday".
+
+reach - how likely a broad audience is to care about and forward this.
+  3 = interests only specialists: "Bond spreads in Portugal narrow slightly".
+  6 = interests people who follow international news: "Japan's prime minister visits Australia".
+  9 = everybody talks about it: "Oil jumps 15% after attack on Saudi export terminal".
+
+Also return:
+  category  - one of: geopolitics, war, security, diplomacy, politics, economy, sanctions, energy,
+              technology, disaster, health, climate, science, society, crime, sports, celebrity,
+              entertainment, lifestyle, shopping, gambling, other
+  event_key - short canonical English slug of the underlying EVENT (not of the headline wording),
+              lowercase words joined by hyphens, e.g. "us-russia-oil-sanctions-extension".
+              Two articles about the same event must get the same event_key.
+  reason    - at most 12 words.
+
+Return one JSON object only, exactly in this shape, with one entry for every input id:
+{"items": [{"id": 1, "importance": 5, "freshness": 6, "reach": 4, "category": "economy",
+            "event_key": "example-event-key", "reason": "brief reason"}]}
+
+Items:
+__ITEMS__
+"""
+
+
+def compute_score(importance, freshness, reach):
+    return round(0.5 * importance + 0.2 * freshness + 0.3 * reach, 1)
+
+
+def score_candidates(candidates):
+    """Returns (scored, unscored). Unscored items are not marked as seen so the next run retries them."""
+    scored = []
+    unscored = []
+
+    for chunk_index, chunk in enumerate(chunks(candidates, SCORE_CHUNK_SIZE), start=1):
+        by_id = {}
+        payload = []
+        for local_id, item in enumerate(chunk, start=1):
+            by_id[local_id] = item
+            payload.append({
+                "id": local_id,
+                "title": item["title"],
+                "description": (item.get("summary") or "")[:SCORE_DESCRIPTION_CHARS],
+                "domain": item["domain"],
+            })
+
+        prompt = SCORING_PROMPT.replace("__ITEMS__", json.dumps(payload, ensure_ascii=False))
+
+        try:
+            result = gemini_generate_json(prompt, GEMINI_SCORE_MODEL, 0, f"scoring chunk {chunk_index}")
+            rows = result.get("items", [])
+            if not isinstance(rows, list):
+                raise ValueError("'items' is not a list")
+        except Exception as e:
+            log(f"Scoring chunk {chunk_index} failed, {len(chunk)} items left for the next run: {short_error(e, 200)}")
+            unscored.extend(chunk)
+            continue
+
+        done_ids = set()
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            try:
+                local_id = int(row.get("id"))
+            except (TypeError, ValueError):
+                continue
+            item = by_id.get(local_id)
+            if item is None or local_id in done_ids:
+                continue
+
+            importance = clamp_score(row.get("importance"))
+            freshness = clamp_score(row.get("freshness"))
+            reach = clamp_score(row.get("reach"))
+            if not importance or not freshness or not reach:
+                continue  # incomplete row: treat as unscored
+
+            item["importance"] = importance
+            item["freshness"] = freshness
+            item["reach"] = reach
+            item["score"] = compute_score(importance, freshness, reach)
+            item["category"] = str(row.get("category") or "other").strip().lower()[:40]
+            item["event_key"] = slugify(row.get("event_key")) or slugify(" ".join(item["normalized_title"].split()[:8]))
+            item["reason"] = str(row.get("reason") or "")[:120]
+            done_ids.add(local_id)
+            scored.append(item)
+
+            log(
+                f"Score {item['score']:.1f} (i{importance:g} f{freshness:g} r{reach:g}) | "
+                f"{item['category']} | {item['domain']} | {item['title'][:100]}"
+            )
+
+        missing = [item for local_id, item in by_id.items() if local_id not in done_ids]
+        if missing:
+            log(f"Scoring chunk {chunk_index}: {len(missing)} items without a score, left for the next run")
+            unscored.extend(missing)
+
+    return scored, unscored
+
+
+# =========================
+# DEDUPLICATION
+# =========================
+
+def build_reference_events(state):
+    """Everything already published in the last 72 h plus everything waiting in the queue."""
+    references = []
+    for p in state.recent_published(DEDUP_WINDOW_HOURS):
+        references.append({
+            "headline": p.get("headline_ru") or p.get("normalized_title", ""),
+            "event_key": p.get("event_key", ""),
+            "tokens": title_tokens(p.get("normalized_title", "")),
+            "timestamp": to_number(p.get("timestamp"), 0),
+        })
+    for q in state.queue:
+        references.append({
+            "headline": q.get("title", ""),
+            "event_key": q.get("event_key", ""),
+            "tokens": title_tokens(q.get("normalized_title") or q.get("title", "")),
+            "timestamp": to_number(q.get("queued_at"), 0),
+        })
+    return references
+
+
+def is_duplicate_of_reference(item, references, threshold):
+    tokens = item.get("_tokens") or title_tokens(item["title"])
+    key = item.get("event_key", "")
+    for ref in references:
+        if key and ref["event_key"] and key == ref["event_key"]:
+            return True, f"same event_key '{key}'"
+        similarity = jaccard(tokens, ref["tokens"])
+        if similarity >= threshold:
+            return True, f"jaccard {similarity:.2f} with '{ref['headline'][:70]}'"
+    return False, ""
+
+
+def attach_alternates(winner, members):
+    """Keep the other reports of the same event as fallbacks (used when the winner has no usable text)."""
+    pool = []
+    for member in members:
+        if member is not winner:
+            pool.append(public_fields(member))
+        pool.extend(member.get("alternates") or [])
+
+    result = []
+    used = {winner.get("url_hash")}
+    for alt in sorted(pool, key=rank_key):
+        if alt.get("url_hash") in used:
+            continue
+        used.add(alt.get("url_hash"))
+        result.append(alt)
+
+    winner["alternates"] = result[:MAX_ALTERNATES]
+    return winner
+
+
+def group_cheap(items, threshold):
+    """Group candidates of this run by event_key / Jaccard; the best-priority item wins."""
+    groups = []
+    for item in sorted(items, key=rank_key):
+        target = None
+        for group in groups:
+            leader = group[0]
+            same_key = item.get("event_key") and item.get("event_key") == leader.get("event_key")
+            if same_key or jaccard(item["_tokens"], leader["_tokens"]) >= threshold:
+                target = group
+                break
+        if target is None:
+            groups.append([item])
+        else:
+            target.append(item)
     return groups
 
 
-# =========================
-# IMAGES
-# =========================
-
-def is_probably_good_image_url(url):
-    if not url:
-        return False
-
-    lower = url.lower()
-
-    bad_words = [
-        "thumbnail", "thumb", "icon", "logo", "avatar",
-        "sprite", "placeholder", "default"
-    ]
-
-    if any(word in lower for word in bad_words):
-        return False
-
-    return lower.startswith("http")
-
-
-def extract_rss_image(entry):
-    candidates = []
-
-    if "media_content" in entry:
-        for media in entry.media_content:
-            url = media.get("url")
-            width = int(media.get("width", 0) or 0)
-            height = int(media.get("height", 0) or 0)
-            candidates.append((url, width, height))
-
-    if "media_thumbnail" in entry:
-        for media in entry.media_thumbnail:
-            url = media.get("url")
-            width = int(media.get("width", 0) or 0)
-            height = int(media.get("height", 0) or 0)
-            candidates.append((url, width, height))
-
-    if "links" in entry:
-        for link in entry.links:
-            href = link.get("href")
-            link_type = link.get("type", "")
-            rel = link.get("rel", "")
-            if href and ("image" in link_type or rel == "enclosure"):
-                candidates.append((href, 0, 0))
-
-    good = []
-    for url, width, height in candidates:
-        if not is_probably_good_image_url(url):
-            continue
-
-        if width and height:
-            if width >= 800 or height >= 450:
-                good.append((url, width * height))
-        else:
-            good.append((url, 0))
-
-    if not good:
-        return None
-
-    good.sort(key=lambda x: x[1], reverse=True)
-    return good[0][0]
-
-
-def extract_og_image(article_url):
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; WNDNewsBot/1.0; +https://t.me/wnd_digest)"
-        }
-
-        response = requests.get(article_url, headers=headers, timeout=15, allow_redirects=True)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        selectors = [
-            ("meta", {"property": "og:image:secure_url"}),
-            ("meta", {"property": "og:image"}),
-            ("meta", {"name": "twitter:image"}),
-            ("meta", {"name": "twitter:image:src"}),
-        ]
-
-        for tag_name, attrs in selectors:
-            tag = soup.find(tag_name, attrs=attrs)
-            if tag and tag.get("content") and is_probably_good_image_url(tag.get("content")):
-                return tag.get("content")
-
-    except Exception as e:
-        print(f"OpenGraph image error: {e}")
-
-    return None
-
-
-def get_best_image(entry, article_url):
-    og = extract_og_image(article_url)
-    if og:
-        return og
-
-    return extract_rss_image(entry)
-
-
-
-
-def is_probably_good_video_url(url):
-    if not url:
-        return False
-
-    lower = url.lower()
-
-    blocked = [
-        "youtube.com",
-        "youtu.be",
-        "twitter.com",
-        "x.com",
-        "tiktok.com",
-        ".m3u8",
-    ]
-
-    if any(x in lower for x in blocked):
-        return False
-
-    return any(ext in lower for ext in [".mp4", ".mov", ".webm"])
-
-
-def extract_rss_video(entry):
-    candidates = []
-
-    if "media_content" in entry:
-        for media in entry.media_content:
-            url = media.get("url", "")
-            media_type = str(media.get("type", "")).lower()
-
-            if "video" in media_type or is_probably_good_video_url(url):
-                candidates.append(url)
-
-    if "links" in entry:
-        for link in entry.links:
-            href = link.get("href", "")
-            link_type = str(link.get("type", "")).lower()
-
-            if "video" in link_type or is_probably_good_video_url(href):
-                candidates.append(href)
-
-    for url in candidates:
-        if is_probably_good_video_url(url):
-            return url
-
-    return None
-
-
-def extract_og_video(article_url):
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; WNDNewsBot/1.0)"
-        }
-
-        response = requests.get(
-            article_url,
-            headers=headers,
-            timeout=15,
-            allow_redirects=True,
-        )
-
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        selectors = [
-            ("meta", {"property": "og:video"}),
-            ("meta", {"property": "og:video:url"}),
-            ("meta", {"property": "og:video:secure_url"}),
-            ("meta", {"name": "twitter:player:stream"}),
-        ]
-
-        for tag_name, attrs in selectors:
-            tag = soup.find(tag_name, attrs=attrs)
-
-            if tag and tag.get("content"):
-                url = tag.get("content")
-
-                if is_probably_good_video_url(url):
-                    return url
-
-    except Exception as e:
-        print(f"OpenGraph video error: {e}")
-
-    return None
-
-
-def get_best_video(entry, article_url):
-    og = extract_og_video(article_url)
-
-    if og:
-        return og
-
-    return extract_rss_video(entry)
-
-
-# =========================
-# GROQ SCORING PER SOURCE
-# =========================
-
-def ask_groq_score_batch(batch, source_url):
-    payload = []
-
-    for item in batch:
-        payload.append({
-            "id": item["batch_id"],
-            "title": item["title"],
-            "description": item["summary"][:700],
-            "full_article_text": item.get("article_text", "")[:9000],
-            "domain": item["domain"],
-            "source": source_url,
-        })
-
-    prompt = f"""
-You are the senior editor for WND | Main Digest, a serious international Telegram news digest.
-
-You are scoring articles from ONE RSS source:
-{source_url}
-
-Task:
-Score each item from 1 to 10 and identify its theme.
-
-Channel profile:
-- world news
-- geopolitics
-- wars
-- international security
-- diplomacy
-- economy
-- sanctions
-- major global technology only if politically/economically important
-- major crises and strategic events
-
-Score scale:
-10 = historic/global breaking news
-9 = extremely important international story
-8 = major publication-worthy story
-7 = strong publication candidate
-6 = interesting but secondary
-5 and below = weak or routine
-
-Important:
-Even if the source has weak news, score honestly.
-The code will take the top {TOP_PERCENT_PER_SOURCE}% from this source.
-
-Theme key:
-Create a short canonical English theme_key for deduplication across sources.
-Example:
-"us-russia-oil-sanctions-extension"
-"belarus-russia-nuclear-drills"
-"cuba-us-drone-claims"
-
-
-КРИТИЧЕСКИ ВАЖНО ДЛЯ КАЧЕСТВА:
-- не переписывай только первый абзац;
-- используй full_article_text как главный источник фактов;
-- title и description нужны только как подсказка;
-- сжимай ВСЮ статью, а не RSS summary;
-- сохраняй ключевые подробности: кто, что, где, когда, почему важно;
-- сохраняй все числа, даты, суммы, проценты, мощности, названия стран, городов, организаций и должности;
-- если в статье есть контекст, последствия, причины, детали или сравнения — выбери самые важные и включи в пост;
-- не добавляй факты от себя;
-- не используй пустые AI-фразы: "важный шаг", "новый этап", "меняет правила игры", "демонстрирует", "инновационный подход";
-- текст должен выглядеть как работа живого редактора, а не машинный перевод.
-
-СТРУКТУРА:
-- headline: короткий сильный русский заголовок с главным фактом;
-- post: 2–4 коротких абзаца;
-- первый абзац: что произошло;
-- второй/третий: ключевые детали и почему это важно;
-- без ссылок и без упоминания источника.
-
-Return STRICT JSON object only:
-{{
-  "items": [
-    {{
-      "id": 1,
-      "score": 8,
-      "category": "economy",
-      "theme_key": "short-canonical-theme",
-      "reason": "brief reason"
-    }}
-  ]
-}}
-
-No markdown. No text outside JSON.
-
-Items:
-{json.dumps(payload, ensure_ascii=False)}
+DEDUP_PROMPT = """
+You are the deduplication editor of a world-news Telegram channel.
+
+CANDIDATES are stories that may be published now. PUBLISHED are events the channel already
+covered in the last days (Russian headline + event_key) or has already queued for publishing.
+
+For every candidate decide:
+1. duplicate_of_published: true if the candidate reports the same event as one of PUBLISHED and
+   adds no materially new facts.
+2. group: candidates that describe the same event must share the same group value; a candidate
+   about a different event gets its own group value.
+
+Important: different developments of the same story are NOT duplicates when they add materially
+new facts - for example a new vote, a new casualty number, a new official reaction, a new
+decision, a new attack. Only mark duplicates when the core news is the same.
+
+Return one JSON object only:
+{"items": [{"id": 1, "duplicate_of_published": false, "group": "g1"}]}
+Include every candidate id exactly once.
+
+CANDIDATES:
+__CANDIDATES__
+
+PUBLISHED:
+__PUBLISHED__
 """
 
-    response = groq_client.chat.completions.create(
-        model=GROQ_MODEL,
-        temperature=0.1,
-        messages=[
-            {"role": "system", "content": "Return only valid JSON. No markdown. No explanations. JSON must be valid. Escape all newlines inside strings."},
-            {"role": "user", "content": prompt},
-        ],
+
+def llm_dedup(items, state):
+    """One LLM call per run. Returns list of winners or raises on failure."""
+    recent = sorted(state.published, key=lambda p: to_number(p.get("timestamp"), 0))
+    published_payload = [
+        {"headline": p.get("headline_ru") or p.get("normalized_title", ""), "event_key": p.get("event_key", "")}
+        for p in recent[-LLM_DEDUP_RECENT_EVENTS:]
+    ]
+    for q in state.queue:
+        published_payload.append({"headline": q.get("title", ""), "event_key": q.get("event_key", "")})
+
+    by_id = {}
+    candidates_payload = []
+    for local_id, item in enumerate(items, start=1):
+        by_id[local_id] = item
+        candidates_payload.append({
+            "id": local_id,
+            "title": item["title"],
+            "event_key": item.get("event_key", ""),
+            "domain": item["domain"],
+        })
+
+    prompt = (
+        DEDUP_PROMPT
+        .replace("__CANDIDATES__", json.dumps(candidates_payload, ensure_ascii=False))
+        .replace("__PUBLISHED__", json.dumps(published_payload, ensure_ascii=False))
     )
 
-    return response.choices[0].message.content.strip()
+    result = gemini_generate_json(prompt, GEMINI_SCORE_MODEL, 0, "dedup")
+    rows = result.get("items", [])
+    if not isinstance(rows, list):
+        raise ValueError("'items' is not a list")
 
-
-def score_source_items(source_url, items):
-    if not items:
-        return []
-
-    for idx, item in enumerate(items, start=1):
-        item["batch_id"] = idx
-
-    print(f"Scoring source with Groq: {source_url}")
-    print(f"Source candidates: {len(items)} | batch size: {GROQ_BATCH_SIZE}")
-
-    scored = []
-    by_id = {item["batch_id"]: item for item in items}
-
-    for batch_index, batch in enumerate(chunks(items, GROQ_BATCH_SIZE), start=1):
+    decisions = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
         try:
-            print(f"Groq scoring batch {batch_index}: {len(batch)} articles")
-            raw = ask_groq_score_batch(batch, source_url)
-            payload = extract_json_payload(raw)
-            results = payload.get("items", [])
-
-        except Exception as e:
-            print(f"Groq scoring failed for source batch: {e}")
-            results = []
-
-        for result in results:
-            try:
-                item_id = int(result.get("id"))
-                score = int(result.get("score", 0))
-            except Exception:
-                continue
-
-            item = by_id.get(item_id)
-            if not item:
-                continue
-
-            item["score"] = max(1, min(10, score))
-            item["category"] = str(result.get("category", "other"))
-
-            blocked, blocked_reason = is_blocked_news_item(
-                item.get("title", ""),
-                item.get("summary", ""),
-                item.get("category", ""),
-            )
-            if blocked:
-                print(f"Blocked after scoring [{blocked_reason}]: {item['title']}")
-                continue
-
-            item["theme_key"] = normalize_title(str(result.get("theme_key", ""))) or item["normalized_title"][:80]
-            item["score_reason"] = str(result.get("reason", ""))
-
-            scored.append(item)
-
-            print(
-                f"Score: {item['score']} | {item['category']} | "
-                f"{item['domain']} | {item['title']}"
-            )
-
-    # If Groq failed to return some items, keep them with low score so top 25% logic still has candidates.
-    scored_ids = {item["batch_id"] for item in scored}
-    for item in items:
-        if item["batch_id"] not in scored_ids:
-            item["score"] = 1
-            item["category"] = "other"
-            item["theme_key"] = item["normalized_title"][:80]
-            item["score_reason"] = "No Groq score returned"
-            scored.append(item)
-
-    scored.sort(key=lambda x: x["score"], reverse=True)
-    return scored
-
-
-def take_top_percent_from_source(scored):
-    if not scored:
-        return []
-
-    # Top-percent source cutting is disabled.
-    # Keep all scored candidates; later filters still apply:
-    # blacklist, score/category, theme dedupe, rewrite validation, and MAX_NEWS_PER_RUN.
-    selected = scored
-
-    print(f"Top-percent filter disabled: {len(selected)}/{len(scored)} selected")
-
-    return selected
-
-
-def score_and_select_per_source(groups):
-    selected_all = []
-    processed_all = []
-
-    print(f"Using Groq model: {GROQ_MODEL}")
-    print(f"Top percent per source: {TOP_PERCENT_PER_SOURCE}%")
-
-    for group in groups:
-        source_url = group["source_url"]
-        items = group["items"]
-
-        if not items:
+            local_id = int(row.get("id"))
+        except (TypeError, ValueError):
             continue
+        if local_id not in by_id:
+            continue
+        dup = row.get("duplicate_of_published")
+        if isinstance(dup, str):
+            dup = dup.strip().lower() in ("true", "yes", "1")
+        group = row.get("group")
+        group = str(group).strip() if group not in (None, "") else f"solo-{local_id}"
+        decisions[local_id] = (bool(dup), group)
 
-        processed_all.extend(items)
+    if not decisions:
+        raise ValueError("dedup output has no usable rows")
 
-        scored = score_source_items(source_url, items)
-        selected = take_top_percent_from_source(scored)
-        selected_all.extend(selected)
+    groups = {}
+    duplicates = []
+    for local_id, item in by_id.items():
+        dup, group = decisions.get(local_id, (False, f"solo-{local_id}"))
+        if dup:
+            duplicates.append(item)
+            log(f"LLM dedup: duplicate of published | {item['title'][:100]}")
+            continue
+        groups.setdefault(group, []).append(item)
 
-    return selected_all, processed_all
+    winners = []
+    grouped_out = []
+    for members in groups.values():
+        members.sort(key=rank_key)
+        winner = attach_alternates(members[0], members)
+        winners.append(winner)
+        for loser in members[1:]:
+            grouped_out.append(loser)
+            log(f"LLM dedup: same event as '{winner['title'][:60]}' | dropped {loser['domain']} | {loser['title'][:80]}")
+
+    return winners, duplicates + grouped_out
 
 
-# =========================
-# THEME DEDUPE
-# =========================
-
-def theme_similarity(a, b):
-    return difflib.SequenceMatcher(None, a, b).ratio()
-
-
-def dedupe_themes(items):
+def deduplicate(items, state):
+    """Returns (winners, rejected). Only runs on items that already passed the score threshold."""
     if not items:
-        return []
-
-    items = sorted(items, key=lambda x: x.get("score", 0), reverse=True)
-
-    selected = []
-    theme_keys = []
-    title_keys = []
-    domain_counts = {}
+        return [], []
 
     for item in items:
-        domain = item.get("domain", "unknown")
-        if domain_counts.get(domain, 0) >= MAX_POSTS_PER_DOMAIN:
-            continue
+        item["_tokens"] = title_tokens(item["title"])
 
-        theme_key = normalize_title(item.get("theme_key", "")) or item.get("normalized_title", "")
-        title_key = item.get("normalized_title", normalize_title(item.get("title", "")))
+    rejected = []
 
-        duplicate = False
+    # Layer 1: exact hashes (cheap re-check against everything published / queued).
+    published_urls = state.published_url_hashes()
+    published_titles = state.published_title_hashes()
+    queued = state.queue_hashes()
+    layer1 = []
+    for item in items:
+        if item["url_hash"] in published_urls or item["url_hash"] in queued or item["title_hash"] in published_titles:
+            log(f"Exact duplicate: {item['title'][:100]}")
+            rejected.append(item)
+        else:
+            layer1.append(item)
 
-        for old_theme in theme_keys:
-            if theme_key and old_theme and theme_similarity(theme_key, old_theme) >= 0.72:
-                duplicate = True
-                break
+    # Layer 2: token Jaccard / event_key against the last 72 h (token sets precomputed once).
+    references = build_reference_events(state)
+    layer2 = []
+    for item in layer1:
+        dup, why = is_duplicate_of_reference(item, references, JACCARD_THRESHOLD)
+        if dup:
+            log(f"Fuzzy duplicate ({why}): {item['title'][:100]}")
+            rejected.append(item)
+        else:
+            layer2.append(item)
 
-        if not duplicate:
-            for old_title in title_keys:
-                if theme_similarity(title_key, old_title) >= 0.68:
-                    duplicate = True
+    # Same event_key / near-identical titles inside this run: merge before the LLM sees them.
+    layer2_winners = []
+    for group in group_cheap(layer2, JACCARD_THRESHOLD):
+        winner = attach_alternates(group[0], group)
+        layer2_winners.append(winner)
+        for loser in group[1:]:
+            log(f"In-run duplicate of '{winner['title'][:60]}': {loser['domain']} | {loser['title'][:80]}")
+            rejected.append(loser)
+
+    if not layer2_winners:
+        return [], rejected
+
+    # Layer 3: one LLM event check.
+    try:
+        winners, llm_rejected = llm_dedup(layer2_winners, state)
+        rejected.extend(llm_rejected)
+        return winners, rejected
+    except Exception as e:
+        log(f"LLM dedup failed, falling back to strict Jaccard {JACCARD_THRESHOLD_STRICT}: {short_error(e, 200)}")
+
+    # Layer 4 (fallback): stricter cheap check, never publish unfiltered.
+    strict = []
+    for item in layer2_winners:
+        dup, why = is_duplicate_of_reference(item, references, JACCARD_THRESHOLD_STRICT)
+        if dup:
+            log(f"Strict fuzzy duplicate ({why}): {item['title'][:100]}")
+            rejected.append(item)
+        else:
+            strict.append(item)
+
+    winners = []
+    for group in group_cheap(strict, JACCARD_THRESHOLD_STRICT):
+        winner = attach_alternates(group[0], group)
+        winners.append(winner)
+        for loser in group[1:]:
+            log(f"Strict in-run duplicate of '{winner['title'][:60]}': {loser['title'][:80]}")
+            rejected.append(loser)
+    return winners, rejected
+
+
+# =========================
+# ARTICLE PAGES / GOOGLE NEWS RESOLVER
+# =========================
+
+def fetch_page(url, timeout=REQUEST_TIMEOUT):
+    """GET a page with size and time limits. Returns (final_url, html_text) or (final_url, "")."""
+    deadline = time.time() + timeout * 2
+    try:
+        with HTTP.get(url, timeout=timeout, allow_redirects=True, stream=True) as response:
+            final_url = response.url or url
+            if response.status_code != 200:
+                log(f"Page fetch HTTP {response.status_code}: {get_domain(final_url)}")
+                return final_url, ""
+            content_type = response.headers.get("Content-Type", "").lower()
+            if content_type and "html" not in content_type and "xml" not in content_type:
+                return final_url, ""
+            data = bytearray()
+            for chunk in response.iter_content(65536):
+                data.extend(chunk)
+                if len(data) > PAGE_MAX_BYTES or time.time() > deadline:
                     break
-
-        if duplicate:
-            print(f"Theme duplicate skipped: {item['title']}")
-            continue
-
-        selected.append(item)
-        theme_keys.append(theme_key)
-        title_keys.append(title_key)
-        domain_counts[domain] = domain_counts.get(domain, 0) + 1
-
-    if MAX_NEWS_PER_RUN > 0:
-        selected = selected[:MAX_NEWS_PER_RUN]
-
-    print(f"After theme dedupe: {len(selected)} stories")
-    return selected
+            # requests assumes ISO-8859-1 when no charset is sent; most news sites are UTF-8.
+            encoding = response.encoding if "charset=" in content_type else "utf-8"
+            try:
+                text = bytes(data).decode(encoding, errors="replace")
+            except LookupError:
+                text = bytes(data).decode("utf-8", errors="replace")
+            return final_url, text
+    except Exception as e:
+        log(f"Page fetch failed ({get_domain(url)}): {short_error(e, 200)}")
+        return url, ""
 
 
+def _looks_like_article_url(url):
+    return is_http_url(url) and not is_aggregator_url(url) and len(urlparse(url).path.strip("/")) >= 5
 
 
-def filter_by_min_score(items):
-    kept = []
+def _decode_google_news_id(url):
+    """Old-style Google News ids are base64 protobuf that contains the article URL."""
+    try:
+        path = urlparse(url).path
+        match = re.search(r"/articles/([A-Za-z0-9_-]+)", path)
+        if not match:
+            return None, None
+        article_id = match.group(1)
+        padded = article_id + "=" * (-len(article_id) % 4)
+        raw = base64.urlsafe_b64decode(padded)
+        found = re.search(rb"https?://[\x21-\x7e]+", raw)
+        if found:
+            candidate = found.group(0).decode("ascii", errors="ignore")
+            if _looks_like_article_url(candidate):
+                return article_id, candidate
+        return article_id, None
+    except Exception:
+        return None, None
 
-    for item in items:
-        score = int(item.get("score", 0) or 0)
 
-        if score < MIN_SCORE_TO_POST:
-            print(
-                f"Low score skipped: {score} < {MIN_SCORE_TO_POST} | "
-                f"{item.get('domain', '')} | {item.get('title', '')}"
-            )
-            continue
+def _google_news_batchexecute(article_id, page_html):
+    """Newer Google News ids need a signed batchexecute request. Best effort only."""
+    if not page_html:
+        return None
+    soup = BeautifulSoup(page_html, "html.parser")
+    node = soup.find(attrs={"data-n-a-sg": True, "data-n-a-ts": True})
+    if not node:
+        return None
+    signature = node.get("data-n-a-sg")
+    timestamp = node.get("data-n-a-ts")
+    if not signature or not timestamp:
+        return None
 
-        kept.append(item)
+    inner = (
+        '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],'
+        '"X","X",1,[1,1,1],1,1,null,0,0,null,0],"' + article_id + '",' + str(timestamp) + ',"' + signature + '"]'
+    )
+    body = "f.req=" + quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
+    try:
+        response = HTTP.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            data=body,
+            headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        if response.status_code != 200:
+            return None
+        text = response.text.replace('\\"', '"').replace("\\/", "/")
+        match = re.search(r'"garturlres","(https?://[^"]+)"', text)
+        if not match:
+            return None
+        candidate = match.group(1)
+        try:
+            candidate = json.loads('"' + candidate + '"')
+        except Exception:
+            pass
+        return candidate if _looks_like_article_url(candidate) else None
+    except Exception as e:
+        log(f"Google News batchexecute failed: {short_error(e, 150)}")
+        return None
 
-    print(f"After min-score filter: {len(kept)}/{len(items)} stories kept")
-    return kept
+
+def resolve_publisher_url(item):
+    """Best-effort resolution of aggregator links (Google News / Flipboard) to the publisher URL."""
+    link = item.get("url") or item["link"]
+    if not is_aggregator_url(link):
+        return link
+
+    # 1. Follow HTTP redirects.
+    final_url, page_html = fetch_page(link)
+    if _looks_like_article_url(final_url):
+        return clean_url_for_use(final_url)
+
+    # 2. Hints in the aggregator page (canonical / og:url / data-n-au / meta refresh).
+    if page_html:
+        try:
+            soup = BeautifulSoup(page_html, "html.parser")
+            hints = []
+            for tag in soup.find_all(attrs={"data-n-au": True}):
+                hints.append(tag.get("data-n-au"))
+            for rel in ("canonical",):
+                tag = soup.find("link", rel=rel)
+                if tag and tag.get("href"):
+                    hints.append(tag.get("href"))
+            tag = soup.find("meta", attrs={"property": "og:url"})
+            if tag and tag.get("content"):
+                hints.append(tag.get("content"))
+            tag = soup.find("meta", attrs={"http-equiv": re.compile("refresh", re.I)})
+            if tag and tag.get("content"):
+                match = re.search(r"url=(.+)$", tag.get("content"), flags=re.I)
+                if match:
+                    hints.append(match.group(1).strip("'\" "))
+            for hint in hints:
+                if _looks_like_article_url(hint):
+                    return clean_url_for_use(hint)
+        except Exception as e:
+            log(f"Aggregator page parse failed: {short_error(e, 150)}")
+
+    # 3. Direct links inside the feed entry.
+    for alt in item.get("alt_links") or []:
+        if _looks_like_article_url(alt):
+            return clean_url_for_use(alt)
+
+    # 4. Google News article id (old base64 format, then signed batchexecute).
+    if get_domain(link).endswith("news.google.com"):
+        article_id, decoded = _decode_google_news_id(link)
+        if decoded:
+            return clean_url_for_use(decoded)
+        if article_id:
+            decoded = _google_news_batchexecute(article_id, page_html)
+            if decoded:
+                return clean_url_for_use(decoded)
+
+    return None
 
 
-# =========================
-# ARTICLE TEXT EXTRACTION
-# =========================
-
-def fetch_article_text(article_url):
+def fetch_article_text(article_url, page_html=None):
     """
     Fetch readable full article text only for already-selected stories.
-    This improves rewrite quality without wasting requests on every RSS item.
+    Pass page_html to reuse an already downloaded page.
     """
     try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; WNDMainDigestBot/1.0; +https://t.me/wnd_digest)"
-        }
+        if page_html is None:
+            _, page_html = fetch_page(article_url)
+        if not page_html:
+            return ""
 
-        response = requests.get(article_url, headers=headers, timeout=25, allow_redirects=True)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
+        soup = BeautifulSoup(page_html, "html.parser")
 
         for tag in soup(["script", "style", "noscript", "iframe", "svg", "form", "nav", "footer", "header", "aside"]):
             tag.decompose()
@@ -1022,391 +1742,717 @@ def fetch_article_text(article_url):
         full_text = "\n".join(filtered)
         full_text = re.sub(r"\n{3,}", "\n\n", full_text).strip()
 
-        return full_text[:9000]
+        return full_text[:ARTICLE_TEXT_LIMIT]
 
     except Exception as e:
-        print(f"Article text fetch failed: {e}")
+        log(f"Article text extraction failed: {short_error(e, 200)}")
         return ""
 
+
 # =========================
-# GROQ RUSSIAN REWRITE
+# IMAGES / VIDEO
 # =========================
 
-def ask_gemini_rewrite_batch(batch):
-    payload = []
-
-    for item in batch:
-        payload.append({
-            "id": item["global_id"],
-            "score": item.get("score"),
-            "category": item.get("category"),
-            "title": item["title"],
-            "description": item["summary"][:1000],
-            "full_article_text": item.get("article_text", "")[:9000],
-            "domain": item["domain"],
-            "theme_key": item.get("theme_key", ""),
-        })
-
-    prompt = f"""
-Ты редактор Telegram-канала WND | Мировой дайджест.
-
-Твоя задача:
-Перевести и переписать выбранные новости на русском языке для основного мирового дайджеста.
-
-КРИТИЧЕСКИ ВАЖНО:
-- Используй FULL ARTICLE TEXT как главный источник информации.
-- Не переписывай только RSS summary.
-- Не делай короткий поверхностный пересказ.
-- Для длинных статей делай полноценную digest-выжимку.
-- Сохраняй важные детали, контекст, причины, последствия, цифры, даты, имена, страны, организации и хронологию событий.
-- Не теряй важные факты ради краткости.
-- Если статья длинная — текст тоже должен быть достаточно подробным.
-- Текст должен выглядеть как работа живого редактора международного новостного дайджеста.
-
-НЕЛЬЗЯ:
-- добавлять факты от себя;
-- придумывать выводы;
-- писать AI-фразы;
-- использовать канцелярит;
-- делать кликбейт;
-- использовать фразы:
-  "важный шаг",
-  "знаковое событие",
-  "демонстрирует",
-  "подчеркивает",
-  "меняет правила игры",
-  "на фоне напряженности"
-  и подобный мусор.
-
-СТИЛЬ:
-- серьезный мировой дайджест;
-- плотная, но естественная подача;
-- человеческий русский язык;
-- без Markdown;
-- без эмодзи;
-- без ссылок внутри текста;
-- без воды;
-- без повторов.
-
-HEADLINE:
-- короткий;
-- сильный;
-- информативный;
-- только русский язык;
-- должен передавать главный факт статьи.
-
-POST:
-- если статья длинная:
-  делай 4–7 коротких абзацев;
-- если статья короткая:
-  2–3 абзаца достаточно;
-- один абзац = одна мысль;
-- разделяй смысловые блоки пустой строкой;
-- не превращай текст в одну простыню;
-- не сжимай слишком агрессивно;
-- сохраняй детали, которые помогают понять ситуацию;
-- первый абзац:
-  что произошло;
-- дальше:
-  детали, контекст, последствия, реакция сторон, цифры и факты;
-- текст должен хорошо читаться в Telegram.
-
-Верни СТРОГО JSON object:
-{{
-  "items": [
-    {{
-      "id": 1,
-      "headline": "Русский заголовок",
-      "post": "Русский текст поста"
-    }}
-  ]
-}}
-
-ВАЖНО:
-- Возвращай только валидный JSON.
-- Никакого markdown.
-- Никакого текста вне JSON.
-
-Новости:
-{json.dumps(payload, ensure_ascii=False)}
-"""
-    client = get_next_gemini_client()
-
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-    )
-
-    return response.text.strip()
+BAD_IMAGE_WORDS = [
+    "logo", "icon", "favicon", "avatar", "sprite", "placeholder", "default",
+    "logos", "icons", "avatars", "sprites", "placeholders",
+    "blank", "spacer", "pixel", "1x1", "fallback", "no-image", "noimage", "badge",
+]
 
 
+def is_probably_good_image_url(url):
+    if not is_http_url(url):
+        return False
+    lower = url.lower()
+    if lower.endswith(".svg") or ".svg?" in lower or lower.endswith(".gif"):
+        return False
+    path = urlparse(lower).path
+    for word in BAD_IMAGE_WORDS:
+        if re.search(r"(?<![a-z])" + re.escape(word) + r"(?![a-z])", path):
+            return False
+    return True
 
-def ask_gemini_rewrite_single(item):
-    # Single-article rewrite prevents Gemini from mixing headline/post from one article
-    # with the source link of another article in the same batch.
-    raw = ask_gemini_rewrite_batch([item])
-    payload = extract_json_payload(raw)
-    results = payload.get("items", [])
 
-    if not results:
-        return None
+def page_meta_values(soup, names):
+    values = []
+    for name in names:
+        for attr in ("property", "name", "itemprop"):
+            for tag in soup.find_all("meta", attrs={attr: name}):
+                content = (tag.get("content") or "").strip()
+                if content and content not in values:
+                    values.append(content)
+    return values
 
-    result = results[0]
 
+def extract_page_media(page_url, page_html):
+    """Image and video candidates from the article's own page, in priority order."""
+    if not page_html:
+        return [], []
     try:
-        headline = strip_markdown(str(result.get("headline", "")).strip())
-        post = strip_markdown(str(result.get("post", "")).strip())
+        soup = BeautifulSoup(page_html, "html.parser")
     except Exception:
-        return None
+        return [], []
 
-    if not is_valid_russian_rewrite(headline, post):
-        return None
+    images = page_meta_values(soup, ["og:image:secure_url", "og:image", "og:image:url", "twitter:image", "twitter:image:src"])
+    videos = page_meta_values(soup, ["og:video:secure_url", "og:video:url", "og:video", "twitter:player:stream"])
 
+    images = [urljoin(page_url, u) for u in images]
+    videos = [urljoin(page_url, u) for u in videos]
+    return images, videos
+
+
+def download_limited(url, max_bytes, timeout=REQUEST_TIMEOUT):
+    """Returns (bytes, content_type) or (None, reason)."""
+    deadline = time.time() + timeout * 2
+    try:
+        with HTTP.get(url, timeout=timeout, allow_redirects=True, stream=True) as response:
+            if response.status_code != 200:
+                return None, f"HTTP {response.status_code}"
+            content_type = response.headers.get("Content-Type", "").lower()
+            length = response.headers.get("Content-Length")
+            if length and length.isdigit() and int(length) > max_bytes:
+                return None, f"too large ({length} bytes)"
+            data = bytearray()
+            for chunk in response.iter_content(65536):
+                data.extend(chunk)
+                if len(data) > max_bytes:
+                    return None, "too large"
+                if time.time() > deadline:
+                    return None, "download timeout"
+            return bytes(data), content_type
+    except Exception as e:
+        return None, short_error(e, 150)
+
+
+def validate_image(url):
+    """Download and check an image. Returns dict(url, data, content_type, width, height) or None."""
+    data, info = download_limited(url, IMAGE_MAX_BYTES)
+    if data is None:
+        log(f"Image rejected ({info}): {url[:120]}")
+        return None
+    content_type = info
+    if not content_type.startswith("image/"):
+        log(f"Image rejected (content-type {content_type or 'missing'}): {url[:120]}")
+        return None
+    if len(data) < IMAGE_MIN_BYTES:
+        log(f"Image rejected (only {len(data)} bytes): {url[:120]}")
+        return None
+    try:
+        with Image.open(io.BytesIO(data)) as img:
+            width, height = img.size
+            image_format = (img.format or "").upper()
+    except Exception as e:
+        log(f"Image rejected (unreadable: {short_error(e, 80)}): {url[:120]}")
+        return None
+    if width < IMAGE_MIN_WIDTH or height < IMAGE_MIN_HEIGHT:
+        log(f"Image rejected ({width}x{height} too small): {url[:120]}")
+        return None
+    ratio = width / float(height)
+    if ratio > 3.5 or ratio < 0.4:
+        log(f"Image rejected (aspect ratio {ratio:.2f}, banner/sprite): {url[:120]}")
+        return None
     return {
-        "headline": headline,
-        "post_text": post,
+        "url": url,
+        "data": data,
+        "content_type": content_type,
+        "format": image_format,
+        "width": width,
+        "height": height,
     }
 
 
-def rewrite_selected_with_groq(items):
-    if not items:
-        return []
+def pick_image(candidates, blocked_image_keys):
+    tried = set()
+    for url in candidates:
+        if not url or url in tried:
+            continue
+        tried.add(url)
+        if not is_probably_good_image_url(url):
+            log(f"Image URL looks like a logo/icon/placeholder, skipped: {url[:120]}")
+            continue
+        if url_without_query(url) in blocked_image_keys:
+            log(f"Image already used by another post (site default?), skipped: {url[:120]}")
+            continue
+        image = validate_image(url)
+        if image:
+            return image
+    return None
 
-    for idx, item in enumerate(items, start=1):
-        item["global_id"] = idx
 
-    print(
-        f"Gemini Russian rewrite: {len(items)} articles one-by-one "
-        f"| model: {GEMINI_MODEL}"
-    )
-
-    for item in items:
-        item["article_text"] = fetch_article_text(item.get("link", ""))
-        if item["article_text"]:
-            print(f"Fetched full article text: {len(item['article_text'])} chars | {item['title'][:90]}")
-        else:
-            print(f"No full article text; using RSS summary only | {item['title'][:90]}")
-
-    final = []
-
-    for index, item in enumerate(items, start=1):
-        rewrite = None
-
-        for attempt in range(1, GEMINI_REWRITE_RETRIES + 2):
-            try:
-                print(
-                    f"Gemini rewrite article {index}/{len(items)} "
-                    f"| attempt {attempt}/{GEMINI_REWRITE_RETRIES + 1} "
-                    f"| {item['title'][:90]}"
-                )
-
-                # ask_gemini_rewrite_single() calls ask_gemini_rewrite_batch(),
-                # and that calls get_next_gemini_client().
-                # Every attempt therefore rotates to the next Gemini key.
-                rewrite = ask_gemini_rewrite_single(item)
-
-                if rewrite:
-                    break
-
-                print(f"Gemini returned no valid Russian rewrite on attempt {attempt}: {item['title'][:90]}")
-
-            except Exception as e:
-                print(f"Gemini rewrite article failed on attempt {attempt}: {e}")
-
-            if attempt <= GEMINI_REWRITE_RETRIES and GEMINI_RETRY_DELAY_SECONDS > 0:
-                print(f"Sleeping {GEMINI_RETRY_DELAY_SECONDS} seconds before Gemini retry...")
-                time.sleep(GEMINI_RETRY_DELAY_SECONDS)
-
-        if rewrite:
-            item["headline"] = rewrite["headline"]
-            item["post_text"] = rewrite["post_text"]
-            print(f"Russian rewrite OK: {item['headline'][:90]}")
-            final.append(item)
-        else:
-            print(f"Skipped: no valid Russian rewrite for {item['title']}")
-
-    return final
-
-# =========================
-# TELEGRAM
-# =========================
-
-def telegram_api(method, payload):
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/{method}"
-
-    try:
-        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
-
-        if response.status_code != 200:
-            print(f"Telegram {method} error:", response.status_code, response.text)
-
-        return response.status_code == 200
-
-    except Exception as e:
-        print(f"Telegram request error: {e}")
+def is_probably_good_video_url(url):
+    if not is_http_url(url):
         return False
 
-
-def make_post_html(headline, body, source_url, score):
-    clean_headline = strip_markdown(headline.strip())
-    clean_body = strip_markdown(body.strip())
-
-    safe_headline = html.escape(clean_headline)
-    safe_body = html.escape(clean_body).replace("\n\n", "\n\u00A0\n")
-
-    if score >= 10:
-        safe_headline = f"⚡ {safe_headline}"
-
-    safe_source_url = html.escape(source_url.strip(), quote=True)
-    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
-
-    return (
-        f"<b>{safe_headline}</b>\n\n"
-        f"{safe_body}\n\n"
-        f'<a href="{safe_source_url}">Источник</a> | '
-        f'<a href="{safe_digest_url}">WND Digest</a>'
-    )
-
-
-def send_video_with_caption(video_url, caption_html):
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "video": video_url,
-        "caption": caption_html,
-        "parse_mode": "HTML",
-    }
-
-    return telegram_api("sendVideo", payload)
-
-
-def send_photo_with_caption(image_url, caption_html):
-
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "photo": image_url,
-        "caption": caption_html,
-        "parse_mode": "HTML",
-    }
-
-    return telegram_api("sendPhoto", payload)
-
-
-def send_text_with_preview(text_html):
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": text_html,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
-
-    return telegram_api("sendMessage", payload)
-
-
-def send_text_with_attached_preview(text_html, source_url):
-    # Deprecated safe fallback: do not attach previews.
-    return send_text_without_preview(text_html)
-
-
-def send_text_without_preview(text_html):
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": text_html,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
-
-    return telegram_api("sendMessage", payload)
-
-
-
-def split_text_for_media_caption(headline, body, source_url, score, caption_limit=900):
-    clean_headline = strip_markdown(headline.strip())
-    clean_body = strip_markdown(body.strip())
-
-    safe_headline = html.escape(clean_headline)
-    if score >= 10:
-        safe_headline = f"⚡ {safe_headline}"
-
-    paragraphs = [
-        p.strip()
-        for p in re.split(r"\n\s*\n", clean_body)
-        if p.strip()
+    lower = url.lower()
+    blocked = [
+        "youtube.com", "youtu.be", "twitter.com", "//x.com", ".x.com",
+        "tiktok.com", ".m3u8", "/embed",
     ]
+    if any(x in lower for x in blocked):
+        return False
 
-    caption_parts = [f"<b>{safe_headline}</b>"]
-    remaining_parts = []
+    path = urlparse(lower).path
+    return path.endswith((".mp4", ".webm", ".mov"))
 
-    continuation = "\n\u00A0\nПродолжение ниже ↓"
 
-    for paragraph in paragraphs:
-        safe_paragraph = html.escape(paragraph)
-        candidate = "\n\u00A0\n".join(caption_parts + [safe_paragraph]) + continuation
+def check_video(url):
+    """Only direct video files up to VIDEO_MAX_BYTES with a known Content-Length."""
+    if not is_probably_good_video_url(url):
+        return None
+    try:
+        response = HTTP.head(url, allow_redirects=True, timeout=15)
+        if response.status_code != 200:
+            return None
+        content_type = response.headers.get("Content-Type", "").lower()
+        length = response.headers.get("Content-Length", "")
+        if not length.isdigit() or int(length) <= 0 or int(length) > VIDEO_MAX_BYTES:
+            log(f"Video rejected (size {length or 'unknown'}): {url[:120]}")
+            return None
+        if content_type and not (content_type.startswith("video/") or content_type == "application/octet-stream"):
+            return None
+        final_url = response.url or url
+        return final_url if is_probably_good_video_url(final_url) else url
+    except Exception as e:
+        log(f"Video check failed: {short_error(e, 120)}")
+        return None
 
-        if len(candidate) <= caption_limit:
-            caption_parts.append(safe_paragraph)
+
+def pick_video(candidates):
+    for url in dict.fromkeys(candidates):
+        checked = check_video(url)
+        if checked:
+            return checked
+    return None
+
+
+# =========================
+# RUSSIAN REWRITE
+# =========================
+
+BANNED_PHRASES = [
+    "важный шаг", "знаковое событие", "демонстрирует", "подчеркивает",
+    "меняет правила игры", "на фоне напряженности", "новый этап",
+    "инновационный подход", "стоит отметить", "следует отметить", "важно отметить",
+    "в заключение", "не секрет, что", "открывает новые возможности",
+    "в современном мире", "играет ключевую роль", "беспрецедентный шаг",
+]
+
+REWRITE_PROMPT = """
+Ты редактор Telegram-канала «WND | Мировой дайджест». Напиши по статье ниже короткий пост на русском языке.
+
+ЗАГОЛОВОК (headline):
+- короткий (до 110 символов), передаёт главный факт;
+- без кликбейта, без вопросов, без кавычек-ёлочек вокруг всего заголовка.
+
+ПОСТ (post):
+- 2-4 коротких предложения или два коротких абзаца (абзацы разделяй пустой строкой);
+- всего не больше __POST_CHARS__ символов;
+- плотно и по фактам: что произошло, ключевые детали, почему это важно; без воды;
+- выдели 1-3 самых важных факта (число, имя, место, решение) двойными звёздочками: **так**;
+  выделяй только короткий фрагмент, никогда не целое предложение;
+- сохраняй все числа, даты, суммы, имена и должности точно как в источнике;
+- не добавляй фактов, которых нет в источнике; никаких мнений и оценок;
+- без эмодзи, без ссылок, без упоминания источника или издания;
+- запрещены фразы: __BANNED__.
+
+Если полного текста нет, опирайся только на заголовок и описание и пиши 2-3 предложения.
+
+Верни строго один JSON-объект:
+{"headline": "Заголовок", "post": "Текст поста с **ключевым фактом**"}
+
+ИСТОЧНИК (домен, только для контекста): __DOMAIN__
+
+ЗАГОЛОВОК СТАТЬИ:
+__TITLE__
+
+ОПИСАНИЕ:
+__DESCRIPTION__
+
+ПОЛНЫЙ ТЕКСТ:
+__TEXT__
+"""
+
+BOLD_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
+
+
+def normalize_for_ban(text):
+    return (text or "").lower().replace("ё", "е")
+
+
+def validate_rewrite(headline, post):
+    if not headline or not post:
+        return False, "empty headline or post"
+    if not is_valid_russian_rewrite(headline, post):
+        return False, "not Russian"
+    if len(headline) > HEADLINE_MAX_CHARS:
+        return False, f"headline too long ({len(headline)})"
+    plain_post = post.replace("**", "")
+    if len(plain_post) > POST_MAX_CHARS:
+        return False, f"post too long ({len(plain_post)})"
+    if len(plain_post) < POST_MIN_CHARS:
+        return False, f"post too short ({len(plain_post)})"
+    spans = BOLD_RE.findall(post)
+    if len(spans) < 1:
+        return False, "no bold facts"
+    if len(spans) > 3:
+        return False, f"too many bold spans ({len(spans)})"
+    if any(len(span) > BOLD_SPAN_MAX_CHARS for span in spans):
+        return False, "a whole sentence is bold"
+    blob = normalize_for_ban(f"{headline} {post}")
+    for phrase in BANNED_PHRASES:
+        if normalize_for_ban(phrase) in blob:
+            return False, f"banned phrase '{phrase}'"
+    if re.search(r"https?://|www\.|t\.me/", blob):
+        return False, "contains a link"
+    return True, ""
+
+
+def rewrite_article(item, article_text):
+    description = (item.get("summary") or "")[:1500]
+    prompt = (
+        REWRITE_PROMPT
+        .replace("__POST_CHARS__", str(POST_TARGET_CHARS))
+        .replace("__BANNED__", ", ".join(f"«{p}»" for p in BANNED_PHRASES))
+        .replace("__DOMAIN__", item.get("domain", ""))
+        .replace("__TITLE__", item.get("title", ""))
+        .replace("__DESCRIPTION__", description or "(нет)")
+        .replace("__TEXT__", (article_text or "")[:ARTICLE_TEXT_LIMIT] or "(полный текст недоступен)")
+    )
+
+    attempts = [("gemini", GEMINI_REWRITE_MODEL)]
+    if GEMINI_SCORE_MODEL != GEMINI_REWRITE_MODEL:
+        attempts.append(("gemini", GEMINI_SCORE_MODEL))
+    if GROQ_API_KEY:
+        attempts.append(("groq", GROQ_FALLBACK_MODEL))
+
+    for provider, model in attempts:
+        try:
+            if provider == "gemini":
+                result = gemini_generate_json(prompt, model, 0.3, "rewrite")
+            else:
+                result = groq_generate_json(prompt, 0.3, "rewrite")
+        except Exception as e:
+            log(f"Rewrite with {model} failed: {short_error(e, 200)}")
+            continue
+
+        headline = strip_markdown(strip_emoji(str(result.get("headline") or ""))).strip()
+        post = strip_emoji(str(result.get("post") or "")).strip()
+        post = re.sub(r"\r\n?", "\n", post)
+        post = re.sub(r"\n{3,}", "\n\n", post)
+
+        ok, reason = validate_rewrite(headline, post)
+        if ok:
+            log(f"Rewrite OK with {model}: {headline[:90]}")
+            return {"headline": headline, "post": post, "model": model}
+        log(f"Rewrite from {model} rejected ({reason}): {headline[:90]}")
+
+    return None
+
+
+# =========================
+# TELEGRAM RENDERING
+# =========================
+
+def render_body_html(post):
+    """Escape FIRST, then turn **x** into <b>x</b>, then drop stray markdown."""
+    text = html.escape(post or "", quote=False)
+    text = BOLD_RE.sub(lambda m: "<b>" + m.group(1).strip() + "</b>", text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = text.replace("*", "").replace("__", "").replace("`", "")
+    text = re.sub(r"^\s*#{1,6}\s*", "", text, flags=re.MULTILINE)
+    text = re.sub(r"<b>\s*</b>", "", text)
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    return text.strip()
+
+
+def render_post_html(headline, post, score):
+    safe_headline = html.escape(strip_markdown(headline), quote=False)
+    if to_number(score, 0) >= 9:
+        safe_headline = "⚡ " + safe_headline
+    return f"<b>{safe_headline}</b>\n\n{render_body_html(post)}"
+
+
+def split_post_sentences(post):
+    """List of (paragraph_index, sentence) so sentences can be dropped from the end."""
+    result = []
+    for p_index, paragraph in enumerate(re.split(r"\n\s*\n", post.strip())):
+        for sentence in re.split(r"(?<=[.!?…])\s+", paragraph.strip()):
+            if sentence.strip():
+                result.append((p_index, sentence.strip()))
+    return result
+
+
+def join_post_sentences(parts):
+    paragraphs = []
+    current_index = None
+    for p_index, sentence in parts:
+        if p_index != current_index:
+            paragraphs.append([])
+            current_index = p_index
+        paragraphs[-1].append(sentence)
+    return "\n\n".join(" ".join(p) for p in paragraphs)
+
+
+def build_caption(headline, post, score, limit=CAPTION_LIMIT):
+    """Render the post; if the visible text is too long, drop whole sentences from the end."""
+    parts = split_post_sentences(post)
+    while True:
+        text_html = render_post_html(headline, join_post_sentences(parts), score)
+        if visible_html_length(text_html) <= limit or len(parts) <= 1:
+            break
+        parts = parts[:-1]
+    if visible_html_length(text_html) > limit:
+        # Still too long with a single sentence: send the headline only (never cut inside a tag).
+        text_html = render_post_html(headline, "", score).strip()
+    return text_html
+
+
+def build_keyboard(article_url):
+    row = []
+    if is_http_url(article_url):
+        row.append({"text": "📰 Оригинал", "url": article_url})
+    if is_http_url(DIGEST_CHANNEL_URL):
+        row.append({"text": "✨ WND Digest", "url": DIGEST_CHANNEL_URL})
+    return {"inline_keyboard": [row]} if row else None
+
+
+# =========================
+# TELEGRAM SENDING
+# =========================
+
+def telegram_call(method, payload, files=None):
+    """Returns (ok, status_code, description). Retries once after a 429 using retry_after."""
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/{method}"
+
+    for attempt in range(2):
+        try:
+            if files:
+                response = requests.post(url, data=payload, files=files, timeout=TELEGRAM_TIMEOUT)
+            else:
+                response = requests.post(url, json=payload, timeout=TELEGRAM_TIMEOUT)
+        except Exception as e:
+            log(f"Telegram {method} request error: {short_error(e, 200)}")
+            return False, None, "request error"
+
+        try:
+            body = response.json()
+        except Exception:
+            body = {}
+
+        if response.status_code == 200 and body.get("ok"):
+            return True, 200, ""
+
+        description = str(body.get("description") or response.text[:300])
+
+        if response.status_code == 429 and attempt == 0:
+            parameters = body.get("parameters") or {}
+            retry_after = int(to_number(parameters.get("retry_after"), 5))
+            wait = max(1, min(retry_after, 300)) + 1
+            log(f"Telegram {method} rate limited, waiting {wait}s before one retry")
+            time.sleep(wait)
+            continue
+
+        log(f"Telegram {method} error {response.status_code}: {short_error(description, 200)}")
+        return False, response.status_code, description
+
+    return False, 429, "rate limited"
+
+
+def upload_bytes_for_photo(image):
+    """Telegram uploads accept JPEG/PNG reliably; convert anything else to JPEG."""
+    data = image["data"]
+    image_format = image.get("format", "")
+    if image_format in ("JPEG", "PNG"):
+        ext = "jpg" if image_format == "JPEG" else "png"
+        return data, f"image.{ext}", "image/jpeg" if ext == "jpg" else "image/png"
+    try:
+        with Image.open(io.BytesIO(data)) as img:
+            buffer = io.BytesIO()
+            img.convert("RGB").save(buffer, format="JPEG", quality=90)
+            return buffer.getvalue(), "image.jpg", "image/jpeg"
+    except Exception:
+        return data, "image.jpg", image.get("content_type") or "image/jpeg"
+
+
+def send_text_message(text_html, keyboard):
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL_ID,
+        "text": text_html,
+        "parse_mode": "HTML",
+        "link_preview_options": {"is_disabled": True},
+    }
+    if keyboard:
+        payload["reply_markup"] = keyboard
+    ok, status, description = telegram_call("sendMessage", payload)
+    if ok:
+        return True
+    if keyboard and status == 400 and re.search(r"button|reply markup|url", description or "", flags=re.I):
+        log("Retrying text message without buttons (Telegram rejected a button URL)")
+        payload.pop("reply_markup", None)
+        ok, _, _ = telegram_call("sendMessage", payload)
+        return ok
+    return False
+
+
+def send_post(caption_html, text_html, keyboard, video_url, image):
+    """Video -> photo by URL -> photo upload -> plain text. Returns (ok, kind)."""
+    markup_json = json.dumps(keyboard, ensure_ascii=False) if keyboard else None
+
+    if video_url:
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "video": video_url,
+            "caption": caption_html,
+            "parse_mode": "HTML",
+            "supports_streaming": True,
+        }
+        if keyboard:
+            payload["reply_markup"] = keyboard
+        ok, _, _ = telegram_call("sendVideo", payload)
+        if ok:
+            return True, "video"
+        log("sendVideo failed, falling back to the image")
+
+    if image:
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "photo": image["url"],
+            "caption": caption_html,
+            "parse_mode": "HTML",
+        }
+        if keyboard:
+            payload["reply_markup"] = keyboard
+        ok, _, _ = telegram_call("sendPhoto", payload)
+        if ok:
+            return True, "photo"
+
+        log("sendPhoto by URL failed, retrying as an upload")
+        data, filename, content_type = upload_bytes_for_photo(image)
+        form = {"chat_id": TELEGRAM_CHANNEL_ID, "caption": caption_html, "parse_mode": "HTML"}
+        if markup_json:
+            form["reply_markup"] = markup_json
+        ok, _, _ = telegram_call("sendPhoto", form, files={"photo": (filename, data, content_type)})
+        if ok:
+            return True, "photo-upload"
+        log("Photo upload failed, falling back to a text message")
+
+    if send_text_message(text_html, keyboard):
+        return True, "text"
+    return False, "failed"
+
+
+# =========================
+# PUBLISHING
+# =========================
+
+def prepare_story(item, blocked_image_keys):
+    """
+    Resolve the link, fetch the article, rewrite it and pick media.
+    Returns (status, data): status is "ok", "no_content" (permanent skip) or "error" (retry later).
+    """
+    article_url = item.get("url") or item["link"]
+    resolved_url = ""
+
+    if item.get("aggregator"):
+        resolved = resolve_publisher_url(item)
+        if resolved:
+            resolved_url = resolved
+            article_url = resolved
+            log(f"Resolved aggregator link -> {get_domain(resolved)}")
         else:
-            remaining_parts.append(paragraph)
+            log(f"Aggregator link not resolved, headline-only: {item['title'][:90]}")
 
-    caption_html = "\n\u00A0\n".join(caption_parts) + continuation
+    page_url, page_html = ("", "")
+    if not is_aggregator_url(article_url):
+        page_url, page_html = fetch_page(article_url)
+        # Never use text/images of a different page (homepage, paywall or login redirect).
+        if page_html and (is_aggregator_url(page_url) or len(urlparse(page_url).path.strip("/")) < 5):
+            log(f"Article page redirected away ({get_domain(page_url)}), ignoring page content")
+            page_html = ""
 
-    safe_source_url = html.escape(source_url.strip(), quote=True)
-    safe_digest_url = html.escape(DIGEST_CHANNEL_URL.strip(), quote=True)
+    article_text = fetch_article_text(page_url or article_url, page_html) if page_html else ""
+    summary = item.get("summary") or ""
 
-    remaining_body = "\n\n".join(remaining_parts).strip()
-    safe_remaining_body = html.escape(remaining_body).replace("\n\n", "\n\u00A0\n")
+    if len(article_text) >= MIN_FULL_TEXT_CHARS:
+        log(f"Full text: {len(article_text)} chars | {item['title'][:90]}")
+    elif len(summary) >= MIN_DESCRIPTION_CHARS:
+        log(f"No full text, using RSS description ({len(summary)} chars) | {item['title'][:90]}")
+        article_text = ""
+    else:
+        log(
+            f"Not enough text to publish (text {len(article_text)}, description {len(summary)}) | "
+            f"{item['domain']} | {item['title'][:90]}"
+        )
+        return "no_content", None
 
-    followup_html = (
-        f"Продолжение ↓\n\u00A0\n"
-        f"{safe_remaining_body}\n\n"
-        f'<a href="{safe_source_url}">Источник</a> | '
-        f'<a href="{safe_digest_url}">WND Digest</a>'
-    )
+    rewrite = rewrite_article(item, article_text)
+    if not rewrite:
+        return "error", None
 
-    return caption_html, followup_html
+    page_images, page_videos = extract_page_media(page_url, page_html)
+    video_url = pick_video(page_videos + list(item.get("rss_videos") or []))
+    # The image is picked even when a video exists: it is the fallback if sendVideo fails.
+    image = pick_image(page_images + list(item.get("rss_images") or []), blocked_image_keys)
 
-
-def can_send_as_media_caption(text_html, caption_limit=950):
-    return len(text_html) <= caption_limit
-
-
-def publish_item(item):
-    text_html = make_post_html(
-        item["headline"],
-        item["post_text"],
-        item["link"],
-        item["score"],
-    )
-
-    # Safe mode: text only, no Telegram web preview.
-    # This prevents Telegram from attaching the wrong article/image preview.
-    return send_text_without_preview(text_html)
-
-
-def sleep_between_posts(current_index, total_count):
-    if current_index >= total_count - 1:
-        return
-
-    delay = random.randint(POST_DELAY_MIN_SECONDS, POST_DELAY_MAX_SECONDS)
-    print(f"Sleeping {delay} seconds before next post...")
-    time.sleep(delay)
-
+    return "ok", {
+        "article_url": article_url,
+        "resolved_url": resolved_url,
+        "headline": rewrite["headline"],
+        "post": rewrite["post"],
+        "model": rewrite["model"],
+        "video_url": video_url,
+        "image": image,
+    }
 
 
+def time_left():
+    return RUN_TIME_BUDGET_SECONDS - (time.time() - RUN_STARTED_AT)
 
-def trim_db_file(max_lines=5000):
-    if not os.path.exists(DB_FILE):
-        return
 
-    with open(DB_FILE, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+def publish_all(state, new_items):
+    """Queue first, then new stories, each ordered by score; pauses of 30-120 s between posts."""
+    now = int(time.time())
 
-    if len(lines) <= max_lines:
-        return
+    queue_items = sorted(state.queue, key=lambda q: -to_number(q.get("score"), 0))
+    new_items = sorted(new_items, key=lambda q: -to_number(q.get("score"), 0))
 
-    with open(DB_FILE, "w", encoding="utf-8") as f:
-        f.writelines(lines[-max_lines:])
+    # Everything that qualified goes into the queue first, so a crash never loses it.
+    for item in new_items:
+        item["queued_at"] = now
+        item["attempts"] = 0
+        state.upsert_queue(item)
+        state.add_seen(url_hash=item["url_hash"])
+    state.save()
 
-    print(f"Trimmed database: kept last {max_lines} lines")
+    to_publish = [dict(q) for q in queue_items] + [state_entry_for(state, item) for item in new_items]
+    to_publish = [item for item in to_publish if item]
+
+    stats = {"published": 0, "failed": 0, "skipped": 0, "deferred": 0}
+    send_attempts = 0
+    domain_counts = {}
+    last_post_at = None
+    blocked_image_keys = set(state.recent_image_keys())
+    published_urls = state.published_url_hashes()
+    published_titles = state.published_title_hashes()
+
+    for item in to_publish:
+        title = item.get("title", "")[:90]
+        domain_key = canonical_source(item.get("domain", ""))
+
+        if item.get("url_hash") in published_urls or item.get("title_hash") in published_titles:
+            log(f"Already published, removing from queue: {title}")
+            state.remove_from_queue(item["url_hash"])
+            continue
+
+        if send_attempts >= MAX_POSTS_PER_RUN:
+            stats["deferred"] += 1
+            continue
+        if domain_counts.get(domain_key, 0) >= MAX_POSTS_PER_DOMAIN:
+            log(f"Domain cap reached for {domain_key}, deferred to next run: {title}")
+            stats["deferred"] += 1
+            continue
+        if time_left() <= 0:
+            log(f"Run time budget used up, deferred to next run: {title}")
+            stats["deferred"] += 1
+            continue
+
+        # Try the winner first, then other reports of the same event if the winner has no usable text.
+        status, data, used = "no_content", None, item
+        for option in [item] + list(item.get("alternates") or []):
+            try:
+                status, data = prepare_story(option, blocked_image_keys)
+            except Exception as e:
+                log(f"Preparing story failed: {short_error(e, 200)}")
+                status, data = "error", None
+            used = option
+            if status != "no_content":
+                break
+            if option is not item:
+                state.add_seen(url_hash=option.get("url_hash"))
+
+        if status == "no_content":
+            log(f"Skipped (no usable text in any report): {title}")
+            state.remove_from_queue(item["url_hash"])
+            stats["skipped"] += 1
+            state.save()
+            continue
+
+        if status == "ok":
+            caption_html = build_caption(data["headline"], data["post"], item.get("score"))
+            text_html = build_caption(data["headline"], data["post"], item.get("score"), TEXT_MESSAGE_LIMIT)
+            keyboard = build_keyboard(data["article_url"])
+
+            if last_post_at is not None:
+                delay = random.uniform(POST_DELAY_MIN_SECONDS, POST_DELAY_MAX_SECONDS)
+                wait = delay - (time.time() - last_post_at)
+                if wait > 0 and wait > time_left():
+                    log(f"Pause would exceed the run time budget, deferred to next run: {title}")
+                    stats["deferred"] += 1
+                    continue
+                if wait > 0:
+                    log(f"Pause before next post: {wait:.0f}s (drawn {delay:.0f}s since the previous post)")
+                    time.sleep(wait)
+
+            send_attempts += 1
+            log(
+                f"Publishing: score {to_number(item.get('score'), 0):.1f} | {used.get('domain', '')} | "
+                f"model {data['model']} | {data['headline'][:90]}"
+            )
+            ok, kind = send_post(caption_html, text_html, keyboard, data["video_url"], data["image"])
+        else:
+            ok, kind = False, "prepare-error"
+
+        if ok:
+            last_post_at = time.time()
+            image_url = ""
+            if kind in ("photo", "photo-upload") and data.get("image"):
+                image_url = data["image"]["url"]
+                blocked_image_keys.add(url_without_query(image_url))
+            entry = {
+                "url_hash": item["url_hash"],
+                "resolved_url_hash": hash_text(normalize_url(data["resolved_url"])) if data.get("resolved_url") else "",
+                "title_hash": item["title_hash"],
+                "normalized_title": item.get("normalized_title", ""),
+                "event_key": item.get("event_key", ""),
+                "headline_ru": data["headline"],
+                "domain": used.get("domain", ""),
+                "url": data["article_url"],
+                "image_url": image_url,
+                "media": kind,
+                "score": to_number(item.get("score"), 0),
+                "timestamp": int(time.time()),
+            }
+            state.record_published(entry)
+            if used is not item:
+                state.add_seen(url_hash=used.get("url_hash"), title_hash=used.get("title_hash"))
+            published_urls.add(item["url_hash"])
+            published_titles.add(item["title_hash"])
+            domain_counts[domain_key] = domain_counts.get(domain_key, 0) + 1
+            state.remove_from_queue(item["url_hash"])
+            stats["published"] += 1
+            log(f"Published as {kind}.")
+        else:
+            stats["failed"] += 1
+            attempts = int(to_number(item.get("attempts"), 0)) + 1
+            if attempts > QUEUE_MAX_RETRIES:
+                log(f"Publish failed {attempts} times, dropping: {title}")
+                state.remove_from_queue(item["url_hash"])
+            else:
+                log(f"Publish failed ({kind}), will retry next run ({attempts}/{QUEUE_MAX_RETRIES}): {title}")
+                for q in state.queue:
+                    if q.get("url_hash") == item["url_hash"]:
+                        q["attempts"] = attempts
+
+        state.save()
+
+    return stats
+
+
+def state_entry_for(state, item):
+    for q in state.queue:
+        if q.get("url_hash") == item["url_hash"]:
+            return dict(q)
+    return None
 
 
 # =========================
@@ -1422,106 +2468,77 @@ def validate_env():
     if not TELEGRAM_CHANNEL_ID:
         missing.append("TELEGRAM_CHANNEL_ID")
 
-    if not GROQ_API_KEY:
-        missing.append("GROQ_API_KEY")
+    if not GEMINI_API_KEYS:
+        missing.append("GEMINI_API_KEYS")
 
     if missing:
         raise RuntimeError("Missing env variables: " + ", ".join(missing))
 
 
-def init_clients():
-    global groq_client
-
-    groq_client = OpenAI(
-        api_key=GROQ_API_KEY,
-        base_url="https://api.groq.com/openai/v1",
+def log_settings():
+    log(
+        f"Settings | score model {GEMINI_SCORE_MODEL} | rewrite model {GEMINI_REWRITE_MODEL} | "
+        f"groq fallback {'on (' + GROQ_FALLBACK_MODEL + ')' if GROQ_API_KEY else 'off'} | "
+        f"min score {MIN_SCORE_TO_POST} | max posts/run {MAX_POSTS_PER_RUN} | "
+        f"max posts/domain {MAX_POSTS_PER_DOMAIN} | pause {POST_DELAY_MIN_SECONDS}-{POST_DELAY_MAX_SECONDS}s | "
+        f"entries/source {ENTRIES_PER_SOURCE}"
     )
-
-
-def mark_processed_as_seen(processed_items, published_url_hashes):
-    published_hashes = {item["url_hash"] for item in published_url_hashes}
-
-    for item in processed_items:
-        if item["url_hash"] in published_hashes:
-            continue
-
-        try:
-            append_seen(item, "processed_not_published")
-        except Exception as e:
-            print(f"append_seen failed: {e}")
 
 
 def main():
     validate_env()
-    init_clients()
+    log_settings()
+    init_gemini_clients()
 
-    published_url_hashes, published_title_hashes, raw_db_lines = load_db()
-    sources = load_sources()
-
-    groups = collect_candidates_by_source(
-        sources,
-        published_url_hashes,
-        published_title_hashes,
-        raw_db_lines,
+    state = BotState.load()
+    log(
+        f"State | published (7d) {len(state.published)} | seen urls {len(state.seen_url_hashes)} | "
+        f"queue {len(state.queue)}"
     )
 
-    if not groups:
-        print("No source groups.")
-        return
+    try:
+        sources = load_sources()
+        candidates = collect_candidates(sources, state)
+        log(f"SUMMARY collected: {len(candidates)} new candidates from {len(sources)} sources")
 
-    selected_by_source, processed_items = score_and_select_per_source(groups)
+        passed = []
+        if candidates:
+            scored, unscored = score_candidates(candidates)
+            log(f"SUMMARY scored: {len(scored)} | unscored (retry next run): {len(unscored)}")
 
-    print(f"Selected after source scoring: {len(selected_by_source)}")
+            for item in scored:
+                blocked, reason = is_blocked_news_item(item["title"], item.get("summary", ""), item.get("category", ""))
+                if blocked:
+                    log(f"Blocked after scoring [{reason}]: {item['title'][:100]}")
+                    state.add_seen(url_hash=item["url_hash"], title_hash=item["title_hash"])
+                    continue
+                if item["score"] < MIN_SCORE_TO_POST:
+                    state.add_seen(url_hash=item["url_hash"], title_hash=item["title_hash"])
+                    continue
+                passed.append(item)
+            log(f"SUMMARY passed threshold {MIN_SCORE_TO_POST}: {len(passed)}")
+            state.save()
 
-    if not selected_by_source:
-        print("No selected news after source selection.")
-        mark_processed_as_seen(processed_items, [])
-        return
+        winners, rejected = deduplicate(passed, state)
+        for item in rejected:
+            state.add_seen(url_hash=item["url_hash"], title_hash=item["title_hash"])
+        log(f"SUMMARY after dedup: {len(winners)} new stories | duplicates dropped: {len(rejected)} | queued from earlier runs: {len(state.queue)}")
+        state.save()
 
-    deduped = dedupe_themes(selected_by_source)
-    deduped = filter_by_min_score(deduped)
+        if not winners and not state.queue:
+            log("Nothing qualifies for publishing this run.")
+            return
 
-    if not deduped:
-        print("No stories after theme dedupe.")
-        mark_processed_as_seen(processed_items, [])
-        return
-
-    rewritten = rewrite_selected_with_groq(deduped)
-
-    print(f"Selected for publishing: {len(rewritten)}")
-
-    if not rewritten:
-        print("No valid Russian rewrites to publish.")
-        mark_processed_as_seen(processed_items, [])
-        return
-
-    published = []
-
-    for index, item in enumerate(rewritten):
-        print(
-            f"Publishing {index + 1}/{len(rewritten)}: "
-            f"score {item['score']} | {item['category']} | {item['domain']} | {item['headline']}"
+        stats = publish_all(state, winners)
+        log(
+            f"SUMMARY published: {stats['published']} | failed: {stats['failed']} | "
+            f"skipped (no text): {stats['skipped']} | deferred: {stats['deferred']} | "
+            f"queued for next run: {len(state.queue)}"
         )
-
-        try:
-            if publish_item(item):
-                append_published(item)
-                published.append(item)
-                print("Published.")
-            else:
-                append_seen(item, "publish_failed")
-                print("Publish failed.")
-
-        except Exception as e:
-            append_seen(item, "publish_exception")
-            print(f"Publish item error: {e}")
-
-        sleep_between_posts(index, len(rewritten))
-
-    mark_processed_as_seen(processed_items, published)
-
-    trim_db_file()
-    print("Done.")
+    finally:
+        state.prune()
+        state.save()
+        log("Done.")
 
 
 if __name__ == "__main__":

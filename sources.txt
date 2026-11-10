@@ -1,31 +1,29 @@
 # One RSS URL per line. Lines starting with # are ignored.
+# Source priority for the same event (best first):
+# Reuters, AP, BBC, DW, WSJ, France 24, Al Jazeera, Politico.
 
-# CORE WORLD NEWS / FACTUAL BASE
+# REUTERS (via Google News: headline-only, links are resolved best-effort)
+https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US
 
-https://apnews.com/world-news/rss
-https://www.reuters.com/world/rss
+# ASSOCIATED PRESS
+https://flipboard.com/@associatedpress/top-stories-u7govdf1z.rss
+# AP via Google News (extra coverage)
+https://news.google.com/rss/search?q=when:24h+site:apnews.com&hl=en-US&gl=US&ceid=US:en
+
+# WALL STREET JOURNAL (paywalled: usually only the RSS description is available)
+https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+
+# BBC WORLD
 https://feeds.bbci.co.uk/news/world/rss.xml
-https://rss.nytimes.com/services/xml/rss/nyt/World.xml
-https://www.theguardian.com/world/rss
-https://www.aljazeera.com/xml/rss/all.xml
-https://feeds.skynews.com/feeds/rss/world.xml
 
-# GLOBAL PERSPECTIVES
+# DW ENGLISH
+https://rss.dw.com/rdf/rss-en-all
 
+# FRANCE 24 ENGLISH
 https://www.france24.com/en/rss
-https://www.scmp.com/rss/91/feed.xml
 
-# EUROPE / INTERNATIONAL
+# AL JAZEERA
+https://www.aljazeera.com/xml/rss/all.xml
 
+# POLITICO EUROPE
 https://www.politico.eu/rss/all/
-https://rss.dw.com/rdf/rss-ru-all
-https://ru.euronews.com/rss?format=mrss
-
-# RUSSIA / UKRAINE — USE CAREFULLY
-
-https://meduza.io/rss2/all
-
-# OPTIONAL ANALYSIS / PAYWALL TEST
-
-https://www.ft.com/world?format=rss
-https://www.economist.com/international/rss.xml

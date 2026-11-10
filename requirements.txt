@@ -1,5 +1,5 @@
 feedparser==6.0.11
 requests==2.32.5
 beautifulsoup4==4.14.2
-openai>=1.30.0
-google-genai
+google-genai>=1.0.0
+Pillow>=10.0.0
