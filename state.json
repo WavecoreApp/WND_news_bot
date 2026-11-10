@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": 1794319869,
+ "updated_at": 1794320269,
  "published": [
   {
    "url_hash": "6ac923b7fc86ec30c9749598259c1797b83cb663e4fddcab2cb5c70badc19df2",
@@ -135,64 +135,24 @@
    "flash": false,
    "score": 7.1,
    "timestamp": 1794319869
-  }
- ],
- "queue": [
+  },
   {
-   "link": "https://france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
-   "url": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
    "url_hash": "6f7c9fffde8adc8db129b5974eb23901024c9a1ed10d58866ed1362856e7ca5d",
-   "title": "Live: Pentagon chief Pete Hegseth calls move to impeach him 'sabotage'",
+   "resolved_url_hash": "",
    "title_hash": "1df77fe1644d3bc17a8d3afab053f4a399c5786ab423ac2f6e1f47cc6ccc0dec",
    "normalized_title": "live pentagon chief pete hegseth calls move to impeach him sabotage",
-   "summary": "US ​Defence Secretary Pete Hegseth on Tuesday called ​moves to impeach him over abuse of power in the Iran war a farce that ​would ‌fail. The Pentagon chief slammed the move as a \"political spectacle\" by an outgoing congressional opponent of President Donald Trump.",
-   "domain": "france24.com",
-   "aggregator": false,
-   "alt_links": [],
-   "rss_images": [
-    "https://s.france24.com/media/display/a4ec11da-dd0c-11f1-9edd-5f54d898a954/w:1024/p:16x9/2026-11-10T133812Z-839619578-RC21LOABPNYD-RTRMADP-3-USA-HEGSETH.jpg"
-   ],
-   "rss_videos": [],
-   "source_rss": "https://www.france24.com/en/rss",
-   "published_ts": 1794317568,
-   "importance": 8.0,
-   "freshness": 9.0,
-   "reach": 8.0,
-   "score": 8.2,
-   "category": "politics",
    "event_key": "us-defense-secretary-impeachment",
-   "reason": "Major political crisis involving US national security leadership.",
-   "queued_at": 1794318849,
-   "attempts": 1,
-   "alternates": [
-    {
-     "link": "https://france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-     "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-     "url_hash": "799250bc110751d6da6c0936db8de4c48ec39a879e257feb1df6e7f0e6a6d886",
-     "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-     "title_hash": "d528fcf8d56f5b5099596307b00ceb76b1b4672e37760f98bc6ade9c6bcb9881",
-     "normalized_title": "us hegseth faces republican impeachment bid over abuse of power in iran war",
-     "summary": "A Republican lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting the stage for a potentially explosive vote in Congress, days after President Donald Trump's party suffered a crushing defeat in the midterms. Kentucky Congressman Thomas Massie introduced eight articles of impeachment, accusing Hegseth of waging war illegally without congressional authorisation and abusing his powers as Pentagon chief.",
-     "domain": "france24.com",
-     "aggregator": false,
-     "alt_links": [],
-     "rss_images": [
-      "https://s.france24.com/media/display/0321409c-dcf2-11f1-a6bf-5f54d898a954/w:1024/p:16x9/EN-20261110-110410-110600-CS.jpg"
-     ],
-     "rss_videos": [],
-     "source_rss": "https://www.france24.com/en/rss",
-     "published_ts": 1794308600,
-     "importance": 7.0,
-     "freshness": 9.0,
-     "reach": 7.0,
-     "score": 7.4,
-     "category": "politics",
-     "event_key": "hegseth-impeachment-bid",
-     "reason": "Formal impeachment attempt against US Defense Secretary."
-    }
-   ]
+   "headline_ru": "Глава Пентагона Пит Хегсет назвал попытку импичмента саботажем",
+   "domain": "france24.com",
+   "url": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+   "image_url": "https://s.france24.com/media/display/a4ec11da-dd0c-11f1-9edd-5f54d898a954/w:1024/p:16x9/2026-11-10T133812Z-839619578-RC21LOABPNYD-RTRMADP-3-USA-HEGSETH.jpg",
+   "media": "photo",
+   "flash": false,
+   "score": 8.2,
+   "timestamp": 1794320269
   }
  ],
+ "queue": [],
  "seen_url_hashes": [
   "72695f9efc47462073c3bf4dba17802c05a9158c9dff1fa1aa73e69cc1ee8691",
   "c3bed3b87d1da8597c6463e076f7015df7558f94183ac6018a20a2b0bcf7400f",
@@ -1344,7 +1304,6 @@
   "6817a9fde2e0d2dc0c30f9802d40bff9c6255b5f9b1bb78d0bc14c7caea64679",
   "7140d088900dd0ddf27959c618a3041a7e0702763909c40dd39d990cdd86bda2",
   "799250bc110751d6da6c0936db8de4c48ec39a879e257feb1df6e7f0e6a6d886",
-  "6f7c9fffde8adc8db129b5974eb23901024c9a1ed10d58866ed1362856e7ca5d",
   "2cfaeb0f39a243d5a26bb30e3e4d39c50afefb035546abfc72547cc5773b90f5",
   "717666bb7ca30ee9a97a89b0875ca57bdc4b5ce3a6df5e7b032540ebee52ac73",
   "76ee6cedb8daafed596350fde96b1bc98a40eb0feb37c20f0f70a38bb15d4e4a",
@@ -1359,7 +1318,19 @@
   "b2f7280995e0562f64d24a313f7a878c10d4bc2fb158ba7510f76d9a76ebd30f",
   "1f0399ad979e44617e7690533bc67dc602e5a017b29d623e6eff72d02c893373",
   "fa4ee721e0b0fb1dc1aeb8763910364eeb7a8181a0826e66f6762721a558d0cb",
-  "bcf2a0fa6ed5f1c71c42c4acc03993148dbbf760804f936de293f60dd3b35761"
+  "bcf2a0fa6ed5f1c71c42c4acc03993148dbbf760804f936de293f60dd3b35761",
+  "47230be96f8aaa88311862bbb1da99718a9fffa49a34da13a0da714336e38b22",
+  "e89971ce8d74c108811666533b7f9ef9b9719d4997b94d9605cf5fe928203fc5",
+  "3c858939ad3d6c812760f1ae9f5fd51941d03e78abf175b3d3756bde1bf719fa",
+  "f89c2da42fab17373ed1777e063de761d62c867b214556bb56184f1478810d4c",
+  "b2d78205bed367060e1bae58a489699dde3ab3fbb174111000804a2741fa08a3",
+  "60cfbac19aa023859e2ab4cf0534ed0e142482eb6695353908e7a60dec6c6e87",
+  "67ab5434702355d1864c59bd1b65b75031e4d7cb973a08140ca70144e4d5e1b2",
+  "d860065322de53e6bd489cf0b422d2589d966f85b00f99c1532de8c563911002",
+  "24da0a5ff5a3c84d214bc4be9480d889d55cf7bf22964d399f0ab137f1956440",
+  "a90f6e39edbbab4d5753f913106a649bc4db3e999de5a068d81295cf91319fb6",
+  "3e0f5786f2ec3d92820b6ae0865cb5fd65786ed273805c5a10531ac0cc2e0125",
+  "6f7c9fffde8adc8db129b5974eb23901024c9a1ed10d58866ed1362856e7ca5d"
  ],
  "seen_title_hashes": [
   "c840482d197b36e6522f0249b55bec7b7e2d46c89a460ba5d2c0b3637b189651",
@@ -2516,6 +2487,17 @@
   "3c39d70a124730a66e7135c9acf38f415da7e37d71eecf10bc83ca699db91f42",
   "678cad35f5937aa6608712057955232ecd340b23779824a1ba12b9088ae0cc69",
   "71aad1e4cc3b4b8b27ca646db4463095036065a5b16325131fc0adbe13e5790b",
-  "00c2b20f46dc21e3ae84e2999b9286759885d7bc22b97c86e51b08b285738a40"
+  "00c2b20f46dc21e3ae84e2999b9286759885d7bc22b97c86e51b08b285738a40",
+  "7b13fe41de5cbcb5d398b83b50b0a94b5f4007a95bc116699f53cc0bc1347aa9",
+  "ba8fc8110900fb64b963fb7505da29204088615860f4457c1753dcacbf843c50",
+  "7da3ee493586c3d762c36108bf5c519109c8c0f62ba9cf9343cd3f3fb28252a3",
+  "1db58323049e4b6172a73b16f3e0155a1e861dc6e0cadf26768892aff642fed4",
+  "a635509d6e20397346add019f1422ac449890a395a72b6b9ab0f57dd60ca4c39",
+  "545fc48bef5f2681f386575abd398173104c32823e5924be0647186aebc8618f",
+  "064fd37d31c3a02feb9ce695e8873a74107a764b325386a6f322ed368558b72e",
+  "5f668cac66e53a370a6363a3c906192f4425ade3ab4b103b7546accf971d0eba",
+  "32d2dbdc3188e0e7b41ee72b27a4dcaf42f75a81bbfca972e5eb2bd4927f1538",
+  "76ae101368845111cab7f9361b1a6b22ddb3153f98c0efcbbc3c068119af7414",
+  "1df77fe1644d3bc17a8d3afab053f4a399c5786ab423ac2f6e1f47cc6ccc0dec"
  ]
 }
