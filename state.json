@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": 1794320269,
+ "updated_at": 1794323093,
  "published": [
   {
    "url_hash": "6ac923b7fc86ec30c9749598259c1797b83cb663e4fddcab2cb5c70badc19df2",
@@ -150,6 +150,36 @@
    "flash": false,
    "score": 8.2,
    "timestamp": 1794320269
+  },
+  {
+   "url_hash": "e28ba93f2f3fa234b6acbbdf8860032eaf6b161aeb581cbfb1ebb78661cc32bd",
+   "resolved_url_hash": "",
+   "title_hash": "ff0ee35e68652bcfde09f39943664867824a517bc0076f3faa38237c787a5d33",
+   "normalized_title": "megaspeed and the battle to go high end nvidia chips into china",
+   "event_key": "nvidia-chip-smuggling-china-megaspeed",
+   "headline_ru": "Megaspeed под следствием США за возможный экспорт чипов Nvidia в Китай",
+   "domain": "dw.com",
+   "url": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
+   "image_url": "https://static.dw.com/image/79909063_6.jpg",
+   "media": "photo",
+   "flash": false,
+   "score": 7.1,
+   "timestamp": 1794322910
+  },
+  {
+   "url_hash": "767e101b2c2ed528e26e386670822946369726410e757c3bce8f471d3ecaa1f1",
+   "resolved_url_hash": "",
+   "title_hash": "0cce869648190f314da45123f07b7ce911137b85f84e806f539aab3899198d1a",
+   "normalized_title": "what is shahid kaveh the iran cyberunit tied to france s fridge hacking",
+   "event_key": "iran-shahid-kaveh-cyberunit-france",
+   "headline_ru": "Франция обвинила иранскую кибергруппировку в атаке на системы охлаждения супермаркетов",
+   "domain": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af3151e-1794315550.jpg?resize=1920%2C1440",
+   "media": "photo",
+   "flash": false,
+   "score": 7.1,
+   "timestamp": 1794323093
   }
  ],
  "queue": [],
@@ -1330,7 +1360,20 @@
   "24da0a5ff5a3c84d214bc4be9480d889d55cf7bf22964d399f0ab137f1956440",
   "a90f6e39edbbab4d5753f913106a649bc4db3e999de5a068d81295cf91319fb6",
   "3e0f5786f2ec3d92820b6ae0865cb5fd65786ed273805c5a10531ac0cc2e0125",
-  "6f7c9fffde8adc8db129b5974eb23901024c9a1ed10d58866ed1362856e7ca5d"
+  "6f7c9fffde8adc8db129b5974eb23901024c9a1ed10d58866ed1362856e7ca5d",
+  "6a491a8b0014eaebbfa16cbfcb58352113ecb5452b43f1ff7716e9d3898358bf",
+  "5d5dcbbe660e09799c3b49be79c6fed1447db2dde0a69f56dfcc10c792f4dbc1",
+  "269092032c52ecdc3e10a1d70a3d456a7118401e7c74fae42db3f44ca63aaa0c",
+  "f0636ca2262cbe188d0393700d59cd7d00ade1efbd92c65f176785aa8204172d",
+  "12f4857f3962b23863c2307a75e4698f99eef1c0ab192aca5f7cc4523ea71e2f",
+  "5e9b1fbafca29726fbd490797d0303565ff2a676391df4396038fce7b20be0d4",
+  "1c3ee1302a5b0748df73c7a89dace87e60a658a685b02cb93fb952eac613b245",
+  "42aa8c7d3a7fddc6d0220c353c2021dd814681c3a73e530202453eee4d46f457",
+  "2bd33d26ed6f2dc84b601ab161431a847016706c6a50d112f608e535f15a50f6",
+  "d512695c75f4c136cc8224ecb9850d05eaae2963dcde23b856d8d979c6d7d22a",
+  "28b54acfbc16709eb65d898dc07f43a0c901b9133d64fcf5cadf1129938a88de",
+  "e28ba93f2f3fa234b6acbbdf8860032eaf6b161aeb581cbfb1ebb78661cc32bd",
+  "767e101b2c2ed528e26e386670822946369726410e757c3bce8f471d3ecaa1f1"
  ],
  "seen_title_hashes": [
   "c840482d197b36e6522f0249b55bec7b7e2d46c89a460ba5d2c0b3637b189651",
@@ -2498,6 +2541,19 @@
   "5f668cac66e53a370a6363a3c906192f4425ade3ab4b103b7546accf971d0eba",
   "32d2dbdc3188e0e7b41ee72b27a4dcaf42f75a81bbfca972e5eb2bd4927f1538",
   "76ae101368845111cab7f9361b1a6b22ddb3153f98c0efcbbc3c068119af7414",
-  "1df77fe1644d3bc17a8d3afab053f4a399c5786ab423ac2f6e1f47cc6ccc0dec"
+  "1df77fe1644d3bc17a8d3afab053f4a399c5786ab423ac2f6e1f47cc6ccc0dec",
+  "3f92d81b3f98bb90096078ad95a6ff3387f5f49a334e13b5e4a6c92a2cda723d",
+  "361a2a73484efb18d29363516a9ec2725a1f252ce218745ca77abc2748103fe5",
+  "2c87073bb4fc6c2a0e09131e342e5d6093f851b3c2c6a50a94a791d136b98132",
+  "5e941e531288f67989aa147de1f25fe346b48a68fdf91bea8ee9d51aa25171e9",
+  "5a1723940fb434550df1114eb05d083b75d2cac5cace150c82051b0a978bfe01",
+  "6656098034939fe092c1a264fc49268cba2b033d30fb7c24412750cb4e054d92",
+  "68e9331e65abab583e784e3e84e36cad345be7090a84ee6234178cacf13a38f2",
+  "9ede587087249700b05262be363d43c710e6de30321ad1abf17864b98e9db686",
+  "9bab9415c71c5289d22566af645e340aef17bed99528bfe2ae711bdf71a6bb44",
+  "b3c0901ba418c0b2e867f0609fab6bd72e7567e2d0457c403f88c197ccd52b51",
+  "1e6af721aae9e04066e754aa3c8ac6fb7d1a2d8ae7e3db836f2515e251cd44ab",
+  "ff0ee35e68652bcfde09f39943664867824a517bc0076f3faa38237c787a5d33",
+  "0cce869648190f314da45123f07b7ce911137b85f84e806f539aab3899198d1a"
  ]
 }
