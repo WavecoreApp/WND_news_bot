@@ -9,6 +9,7 @@ import random
 import hashlib
 import calendar
 import tempfile
+from html.entities import name2codepoint
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, urljoin, quote
 
 import requests
@@ -76,8 +77,27 @@ GEMINI_API_KEYS = [
     if key.strip()
 ]
 
-GEMINI_SCORE_MODEL = env_str("GEMINI_SCORE_MODEL", "gemini-3.1-flash-lite")
-GEMINI_REWRITE_MODEL = env_str("GEMINI_REWRITE_MODEL", "gemini-3.8-flash")
+JINA_API_KEY = os.getenv("JINA_API_KEY", "").strip()
+
+
+def env_list(name, default):
+    value = os.getenv(name)
+    if value is None or str(value).strip() == "":
+        return list(default)
+    items = [part.strip() for part in str(value).split(",") if part.strip()]
+    return items or list(default)
+
+
+# Ordered model fallback chains (free-tier Flash / Flash-Lite only).
+# Override with a comma-separated literal in the workflow env block.
+GEMINI_SCORE_MODELS = env_list(
+    "GEMINI_SCORE_MODELS",
+    ["gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-3.6-flash"],
+)
+GEMINI_REWRITE_MODELS = env_list(
+    "GEMINI_REWRITE_MODELS",
+    ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.1-flash-lite"],
+)
 GROQ_FALLBACK_MODEL = env_str("GROQ_FALLBACK_MODEL", "openai/gpt-oss-120b")
 
 MIN_SCORE_TO_POST = env_float("MIN_SCORE_TO_POST", 7.0)
@@ -112,13 +132,21 @@ LLM_DEDUP_RECENT_EVENTS = 40
 MAX_ALTERNATES = 3
 
 ARTICLE_TEXT_LIMIT = 9000
-MIN_FULL_TEXT_CHARS = 300
+MIN_FULL_TEXT_CHARS = 400
 MIN_DESCRIPTION_CHARS = 200
+
+# Stories without any usable text are published in the short "flash" form
+# (title + RSS description only) when their score is at least this.
+FLASH_MIN_SCORE = 8.0
 
 HEADLINE_MAX_CHARS = 140
 POST_TARGET_CHARS = 550
 POST_MAX_CHARS = 650
 POST_MIN_CHARS = 80
+FLASH_POST_TARGET_CHARS = 250
+FLASH_POST_MAX_CHARS = 320
+FLASH_POST_MIN_CHARS = 30
+MAX_BOLD_SPANS = 3
 BOLD_SPAN_MAX_CHARS = 80
 CAPTION_LIMIT = 1024
 TEXT_MESSAGE_LIMIT = 4096
@@ -130,12 +158,27 @@ IMAGE_MIN_HEIGHT = 315
 VIDEO_MAX_BYTES = 50 * 1024 * 1024
 PAGE_MAX_BYTES = 4 * 1024 * 1024
 
-GEMINI_MAX_ATTEMPTS = 3
-GEMINI_RATE_LIMIT_BACKOFF = [10, 30]
-GEMINI_TIMEOUT_MS = 120000
+GEMINI_TIMEOUT_MS = 90000
+# Transient errors (500/502/503/504, timeouts): retry the SAME model after ~5, 15, 40 s (+-25% jitter).
+GEMINI_TRANSIENT_BACKOFF = [5, 15, 40]
+# 429 with a retry delay up to this: wait once. Above GEMINI_RATE_LIMIT_EXHAUSTED_SECONDS
+# or a daily quota: the model is exhausted for the rest of the run.
+GEMINI_RATE_LIMIT_MAX_WAIT = 90
+GEMINI_RATE_LIMIT_EXHAUSTED_SECONDS = 120
+GEMINI_RATE_LIMIT_DEFAULT_WAIT = 10
+# Circuit breaker: after this many consecutive failed calls (after retries) a model cools down.
+GEMINI_BREAKER_FAILURES = 2
+GEMINI_BREAKER_COOLDOWN_SECONDS = 10 * 60
 
 REQUEST_TIMEOUT = 25
 TELEGRAM_TIMEOUT = 60
+BLOCKED_HTTP_STATUSES = (401, 402, 403, 429)
+
+# Free reader fallback (r.jina.ai) for pages that block direct downloads.
+READER_URL = "https://r.jina.ai/"
+READER_MAX_CALLS = 10
+READER_MIN_INTERVAL_SECONDS = 3.5
+READER_TIMEOUT = 30
 
 # Stop starting new posts after this many seconds so the run ends well before
 # the 30-minute workflow timeout and the next hourly run.
@@ -143,13 +186,21 @@ RUN_TIME_BUDGET_SECONDS = 22 * 60
 
 RUN_STARTED_AT = time.time()
 
+
+def time_left():
+    return RUN_TIME_BUDGET_SECONDS - (time.time() - RUN_STARTED_AT)
+
+
+CHROME_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+)
+
 BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent": CHROME_USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",
 }
 
 HTTP = requests.Session()
@@ -164,7 +215,7 @@ gemini_key_index = 0
 # =========================
 
 def _secret_values():
-    values = [TELEGRAM_BOT_TOKEN, GROQ_API_KEY] + GEMINI_API_KEYS
+    values = [TELEGRAM_BOT_TOKEN, GROQ_API_KEY, JINA_API_KEY] + GEMINI_API_KEYS
     return [v for v in values if v and len(v) >= 6]
 
 
@@ -176,6 +227,7 @@ def redact(text):
     text = re.sub(r"([?&]key=)[A-Za-z0-9_-]{16,}", r"\1***", text)
     text = re.sub(r"AIza[0-9A-Za-z_-]{20,}", "***", text)
     text = re.sub(r"gsk_[0-9A-Za-z]{20,}", "***", text)
+    text = re.sub(r"jina_[0-9A-Za-z_-]{20,}", "***", text)
     return text
 
 
@@ -789,14 +841,45 @@ def load_sources():
         ]
 
 
+XML_NAMED_ENTITY_RE = re.compile(rb"&([A-Za-z][A-Za-z0-9]{1,31});")
+XML_BARE_AMPERSAND_RE = re.compile(rb"&(?!(?:amp|lt|gt|quot|apos|#[0-9]+|#[xX][0-9A-Fa-f]+);)")
+
+
+def repair_xml_entities(content):
+    """
+    Fix "undefined entity" feeds: HTML named entities (&nbsp; &rsquo; ...) become numeric
+    references, then every & that is not a valid XML entity becomes &amp;.
+    """
+    def named(match):
+        name = match.group(1).decode("ascii", errors="ignore")
+        if name in ("amp", "lt", "gt", "quot", "apos"):
+            return match.group(0)
+        codepoint = name2codepoint.get(name)
+        return b"&#%d;" % codepoint if codepoint else match.group(0)
+
+    content = XML_NAMED_ENTITY_RE.sub(named, content)
+    return XML_BARE_AMPERSAND_RE.sub(b"&amp;", content)
+
+
 def fetch_feed(rss_url):
-    """Download a feed with a timeout (feedparser itself has none) and parse it."""
+    """Download a feed with browser headers and a timeout, then let feedparser parse the bytes."""
     response = HTTP.get(rss_url, timeout=REQUEST_TIMEOUT, allow_redirects=True)
     response.raise_for_status()
-    feed = feedparser.parse(response.content)
-    if getattr(feed, "bozo", 0) and not feed.entries:
-        raise ValueError(f"unparseable feed: {getattr(feed, 'bozo_exception', '')}")
-    return feed
+    content = response.content
+    feed = feedparser.parse(content)
+
+    if not getattr(feed, "bozo", 0):
+        return feed
+    reason = short_error(getattr(feed, "bozo_exception", ""), 150)
+    if feed.entries:
+        log(f"Feed warning (using {len(feed.entries)} entries anyway): {rss_url[:80]} | {reason}")
+        return feed
+
+    repaired = feedparser.parse(repair_xml_entities(content))
+    if repaired.entries:
+        log(f"Feed repaired (bad XML entities), {len(repaired.entries)} entries: {rss_url[:80]} | {reason}")
+        return repaired
+    raise ValueError(f"unparseable feed even after XML repair: {reason}")
 
 
 def entry_timestamp(entry):
@@ -1048,32 +1131,132 @@ def init_gemini_clients():
     log(f"Gemini keys available: {len(gemini_clients)}")
 
 
-def next_gemini_client():
-    global gemini_key_index
+def current_gemini_client():
     if not gemini_clients:
         raise RuntimeError("No Gemini API keys configured")
     index = gemini_key_index % len(gemini_clients)
-    gemini_key_index += 1
     return gemini_clients[index], index + 1
 
 
-def is_rate_limit_error(error):
-    code = getattr(error, "code", None) or getattr(error, "status_code", None)
+def rotate_gemini_key():
+    """Only used on 429 / key errors: limits are per Google project, capacity errors are per model."""
+    global gemini_key_index
+    gemini_key_index += 1
+
+
+class GeminiUnavailable(RuntimeError):
+    pass
+
+
+# Per-run health of every model: removed (404), exhausted (quota), cooling down (circuit breaker).
+MODEL_HEALTH = {}
+
+
+def model_health(model):
+    return MODEL_HEALTH.setdefault(model, {
+        "removed": False,
+        "exhausted": False,
+        "cooldown_until": 0.0,
+        "failure_streak": 0,
+    })
+
+
+def model_ready(model):
+    health = model_health(model)
+    if health["removed"] or health["exhausted"]:
+        return False
+    return time.time() >= health["cooldown_until"]
+
+
+def record_model_failure(model):
+    """Called after a call on `model` failed with transient errors even after its retries."""
+    health = model_health(model)
+    health["failure_streak"] += 1
+    if health["failure_streak"] >= GEMINI_BREAKER_FAILURES:
+        health["cooldown_until"] = time.time() + GEMINI_BREAKER_COOLDOWN_SECONDS
+        log(
+            f"Model {model}: {health['failure_streak']} failed calls in a row, cooling down for "
+            f"{GEMINI_BREAKER_COOLDOWN_SECONDS // 60} min; using the next model meanwhile"
+        )
+
+
+def record_model_success(model):
+    model_health(model)["failure_streak"] = 0
+
+
+def gemini_error_code(error):
+    for attr in ("code", "status_code"):
+        value = getattr(error, attr, None)
+        try:
+            if value is not None:
+                return int(value)
+        except (TypeError, ValueError):
+            continue
+    match = re.match(r"\s*(\d{3})\b", str(error))
+    return int(match.group(1)) if match else None
+
+
+def classify_gemini_error(error):
+    """Returns (kind, code). kind: rate_limit | not_found | transient | auth | fatal."""
+    code = gemini_error_code(error)
     message = str(error)
-    return code == 429 or "RESOURCE_EXHAUSTED" in message or re.search(r"\b429\b", message) is not None
+    name = type(error).__name__
+
+    if code == 429 or "RESOURCE_EXHAUSTED" in message:
+        return "rate_limit", code
+    if code == 404 or re.search(r"model\S*\s.*not found|not found.*model|is not supported for generatecontent", message, re.I):
+        return "not_found", code
+    if code in (500, 502, 503, 504) or re.search(r"UNAVAILABLE|DEADLINE_EXCEEDED|INTERNAL|overloaded|high demand", message):
+        return "transient", code
+    if isinstance(error, (TimeoutError, ConnectionError)) or re.search(
+        r"Timeout|ConnectError|ConnectionError|RemoteProtocolError|ReadError|WriteError|PoolTimeout", name
+    ):
+        return "transient", code
+    if code in (401, 403):
+        return "auth", code
+    return "fatal", code
 
 
-def is_fatal_request_error(error):
-    code = getattr(error, "code", None) or getattr(error, "status_code", None)
-    return code in (400, 401, 403, 404)
+def parse_retry_delay(message):
+    """Seconds from 'retryDelay': '34s' or 'Please retry in 34.5s'; None when absent."""
+    for pattern in (r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s", r"retry in (\d+(?:\.\d+)?)\s*s"):
+        match = re.search(pattern, message, flags=re.I)
+        if match:
+            return float(match.group(1))
+    return None
 
 
-def gemini_generate_json(prompt, model, temperature, label):
-    """The single entry point for every Gemini call: key rotation, retries, backoff, JSON parsing."""
-    last_error = None
+def is_daily_quota(message):
+    return re.search(r"per\s*day|PerDay|daily", message, flags=re.I) is not None
 
-    for attempt in range(1, GEMINI_MAX_ATTEMPTS + 1):
-        client, key_no = next_gemini_client()
+
+def budget_sleep(seconds, reason):
+    """Sleep only when it still fits into the run time budget."""
+    if seconds >= time_left() - 15:
+        log(f"Not waiting {seconds:.0f}s for {reason}: run time budget nearly used up")
+        return False
+    time.sleep(seconds)
+    return True
+
+
+def gemini_try_model(prompt, model, temperature, label):
+    """
+    One model, with retries. Returns the parsed JSON dict or raises GeminiUnavailable.
+    - transient (5xx, timeouts): same model, same key, backoff ~5/15/40 s with jitter
+    - 429: rotate key; wait once if the retry delay is short, otherwise mark the model exhausted
+    - 404: remove the model for this run
+    """
+    health = model_health(model)
+    transient_retries = 0
+    rate_limit_waited = False
+    auth_rotations = 0
+    parse_retried = False
+
+    while True:
+        if time_left() <= 0:
+            raise GeminiUnavailable("run time budget used up")
+
+        client, key_no = current_gemini_client()
         try:
             response = client.models.generate_content(
                 model=model,
@@ -1084,30 +1267,91 @@ def gemini_generate_json(prompt, model, temperature, label):
                 ),
             )
             text = getattr(response, "text", None) or ""
-            return parse_json_tolerant(text)
-
         except Exception as e:
-            last_error = e
-            rate_limited = is_rate_limit_error(e)
-            kind = "rate limit" if rate_limited else type(e).__name__
-            log(
-                f"Gemini {label} failed | model {model} | key #{key_no}/{len(gemini_clients)} | "
-                f"attempt {attempt}/{GEMINI_MAX_ATTEMPTS} | {kind}: {short_error(e, 200)}"
-            )
+            kind, code = classify_gemini_error(e)
+            log(f"Gemini {label} | {model} | key #{key_no} | {kind} {code or '-'} | {short_error(e, 200)}")
 
-            if attempt >= GEMINI_MAX_ATTEMPTS:
-                break
-            if not rate_limited and is_fatal_request_error(e):
-                break  # wrong model name / bad key: retrying will not help
+            if kind == "not_found":
+                health["removed"] = True
+                log(f"MODEL NOT FOUND: {model} (404). Removed from the chain for this run; fix its name in main.yml")
+                raise GeminiUnavailable("model not found")
 
-            if rate_limited:
-                delay = GEMINI_RATE_LIMIT_BACKOFF[min(attempt - 1, len(GEMINI_RATE_LIMIT_BACKOFF) - 1)]
-            else:
-                delay = 3
-            log(f"Retrying Gemini {label} in {delay}s with the next key")
-            time.sleep(delay)
+            if kind == "rate_limit":
+                message = str(e)
+                delay = parse_retry_delay(message)
+                rotate_gemini_key()
+                if is_daily_quota(message) or (delay is not None and delay > GEMINI_RATE_LIMIT_EXHAUSTED_SECONDS):
+                    health["exhausted"] = True
+                    log(f"Model {model}: quota exhausted for this run, switching model")
+                    raise GeminiUnavailable("quota exhausted")
+                if rate_limit_waited:
+                    raise GeminiUnavailable("still rate limited")
+                if delay is None:
+                    delay = GEMINI_RATE_LIMIT_DEFAULT_WAIT
+                if delay > GEMINI_RATE_LIMIT_MAX_WAIT:
+                    raise GeminiUnavailable(f"rate limited, retry in {delay:.0f}s")
+                rate_limit_waited = True
+                log(f"Gemini {model}: rate limited, waiting {delay:.0f}s once with the next key")
+                if not budget_sleep(delay, f"{model} rate limit"):
+                    raise GeminiUnavailable("rate limited, no time left")
+                continue
 
-    raise RuntimeError(f"Gemini {label} failed: {short_error(last_error, 200)}")
+            if kind == "transient":
+                transient_retries += 1
+                if transient_retries > len(GEMINI_TRANSIENT_BACKOFF):
+                    record_model_failure(model)
+                    raise GeminiUnavailable(f"still unavailable after {len(GEMINI_TRANSIENT_BACKOFF)} retries")
+                base = GEMINI_TRANSIENT_BACKOFF[transient_retries - 1]
+                wait = base * random.uniform(0.75, 1.25)
+                log(
+                    f"Gemini {model}: temporarily unavailable, waiting {wait:.0f}s "
+                    f"(retry {transient_retries}/{len(GEMINI_TRANSIENT_BACKOFF)}, same model)"
+                )
+                if not budget_sleep(wait, f"{model} retry"):
+                    record_model_failure(model)
+                    raise GeminiUnavailable("unavailable, no time left for retries")
+                continue
+
+            if kind == "auth" and auth_rotations < len(gemini_clients) - 1:
+                auth_rotations += 1
+                rotate_gemini_key()
+                continue
+
+            raise GeminiUnavailable(f"{kind} error {code or ''}".strip())
+
+        try:
+            result = parse_json_tolerant(text)
+        except ValueError as e:
+            if not parse_retried:
+                parse_retried = True
+                log(f"Gemini {label} | {model}: invalid JSON, retrying once ({short_error(e, 120)})")
+                continue
+            raise GeminiUnavailable("invalid JSON twice")
+
+        record_model_success(model)
+        return result
+
+
+def gemini_generate_json(prompt, models, temperature, label, accept=None):
+    """
+    The single entry point for every Gemini call: walks the ordered model chain, skipping models
+    that are missing, exhausted or cooling down. `accept(result, model)` may return False to move
+    on to the next model (e.g. unusable rewrite). Returns (result, model) or raises GeminiUnavailable.
+    """
+    tried = []
+    for model in models:
+        if not model_ready(model):
+            continue
+        tried.append(model)
+        try:
+            result = gemini_try_model(prompt, model, temperature, label)
+        except GeminiUnavailable as e:
+            log(f"Gemini {label}: {model} failed ({short_error(e, 120)}), next model")
+            continue
+        if accept is None or accept(result, model):
+            return result, model
+
+    raise GeminiUnavailable(f"no Gemini model succeeded for {label} (tried: {', '.join(tried) or 'none available'})")
 
 
 def groq_generate_json(prompt, temperature, label):
@@ -1222,11 +1466,17 @@ def score_candidates(candidates):
 
         prompt = SCORING_PROMPT.replace("__ITEMS__", json.dumps(payload, ensure_ascii=False))
 
+        def has_item_list(result, model):
+            if isinstance(result.get("items"), list):
+                return True
+            log(f"Scoring chunk {chunk_index}: {model} returned no 'items' list, next model")
+            return False
+
         try:
-            result = gemini_generate_json(prompt, GEMINI_SCORE_MODEL, 0, f"scoring chunk {chunk_index}")
-            rows = result.get("items", [])
-            if not isinstance(rows, list):
-                raise ValueError("'items' is not a list")
+            result, model = gemini_generate_json(
+                prompt, GEMINI_SCORE_MODELS, 0, f"scoring chunk {chunk_index}", accept=has_item_list
+            )
+            rows = result["items"]
         except Exception as e:
             log(f"Scoring chunk {chunk_index} failed, {len(chunk)} items left for the next run: {short_error(e, 200)}")
             unscored.extend(chunk)
@@ -1402,10 +1652,11 @@ def llm_dedup(items, state):
         .replace("__PUBLISHED__", json.dumps(published_payload, ensure_ascii=False))
     )
 
-    result = gemini_generate_json(prompt, GEMINI_SCORE_MODEL, 0, "dedup")
-    rows = result.get("items", [])
-    if not isinstance(rows, list):
-        raise ValueError("'items' is not a list")
+    result, _ = gemini_generate_json(
+        prompt, GEMINI_SCORE_MODELS, 0, "dedup",
+        accept=lambda r, m: isinstance(r.get("items"), list),
+    )
+    rows = result["items"]
 
     decisions = {}
     for row in rows:
@@ -1527,18 +1778,19 @@ def deduplicate(items, state):
 # ARTICLE PAGES / GOOGLE NEWS RESOLVER
 # =========================
 
-def fetch_page(url, timeout=REQUEST_TIMEOUT):
-    """GET a page with size and time limits. Returns (final_url, html_text) or (final_url, "")."""
+def _fetch_page_once(url, timeout):
     deadline = time.time() + timeout * 2
     try:
         with HTTP.get(url, timeout=timeout, allow_redirects=True, stream=True) as response:
             final_url = response.url or url
-            if response.status_code != 200:
-                log(f"Page fetch HTTP {response.status_code}: {get_domain(final_url)}")
-                return final_url, ""
+            status = response.status_code
+            if status != 200:
+                blocked = " (blocked)" if status in BLOCKED_HTTP_STATUSES else ""
+                log(f"Page fetch HTTP {status}{blocked}: {get_domain(final_url)}")
+                return final_url, "", status
             content_type = response.headers.get("Content-Type", "").lower()
             if content_type and "html" not in content_type and "xml" not in content_type:
-                return final_url, ""
+                return final_url, "", status
             data = bytearray()
             for chunk in response.iter_content(65536):
                 data.extend(chunk)
@@ -1550,10 +1802,23 @@ def fetch_page(url, timeout=REQUEST_TIMEOUT):
                 text = bytes(data).decode(encoding, errors="replace")
             except LookupError:
                 text = bytes(data).decode("utf-8", errors="replace")
-            return final_url, text
+            return final_url, text, status
     except Exception as e:
         log(f"Page fetch failed ({get_domain(url)}): {short_error(e, 200)}")
-        return url, ""
+        return url, "", None
+
+
+def fetch_page(url, timeout=REQUEST_TIMEOUT):
+    """
+    GET a page with browser-like headers and size/time limits.
+    Returns (final_url, html_text, status); status is None on network errors.
+    401/402/403 are "blocked" and not retried; 429 and 5xx get one retry after 2 s.
+    """
+    final_url, text, status = _fetch_page_once(url, timeout)
+    if status is not None and (status == 429 or 500 <= status < 600):
+        time.sleep(2)
+        final_url, text, status = _fetch_page_once(url, timeout)
+    return final_url, text, status
 
 
 def _looks_like_article_url(url):
@@ -1629,7 +1894,7 @@ def resolve_publisher_url(item):
         return link
 
     # 1. Follow HTTP redirects.
-    final_url, page_html = fetch_page(link)
+    final_url, page_html, _ = fetch_page(link)
     if _looks_like_article_url(final_url):
         return clean_url_for_use(final_url)
 
@@ -1683,7 +1948,7 @@ def fetch_article_text(article_url, page_html=None):
     """
     try:
         if page_html is None:
-            _, page_html = fetch_page(article_url)
+            _, page_html, _ = fetch_page(article_url)
         if not page_html:
             return ""
 
@@ -1747,6 +2012,91 @@ def fetch_article_text(article_url, page_html=None):
     except Exception as e:
         log(f"Article text extraction failed: {short_error(e, 200)}")
         return ""
+
+
+READER_STATE = {"calls": 0, "disabled": False, "last_call": 0.0}
+
+BLOCK_PAGE_PHRASES = [
+    "subscribe to continue", "subscribe to read", "to continue reading", "already a subscriber",
+    "enable javascript", "javascript is disabled", "access denied", "verify you are human",
+    "are you a robot", "captcha", "sign in to read", "log in to read", "please enable cookies",
+    "you have been blocked", "unusual activity", "403 forbidden", "request blocked",
+]
+
+
+def clean_reader_text(text):
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", text)            # images
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)          # links -> text
+    text = re.sub(r"https?://\S+", " ", text)
+    lines = []
+    for line in text.splitlines():
+        line = re.sub(r"^\s*(#{1,6}|[-*+>]|\d+\.)\s+", "", line)
+        line = line.replace("**", "").replace("__", "").strip()
+        line = re.sub(r"\s+", " ", line)
+        if len(line) > 45:
+            lines.append(line)
+    return "\n".join(lines).strip()
+
+
+def fetch_via_reader(url):
+    """
+    r.jina.ai reader for pages that block direct downloads. Free tier is ~20 requests/min:
+    at most READER_MAX_CALLS per run, >= 3.5 s apart, disabled for the run after a 429.
+    Returns (text, source_url).
+    """
+    if not is_http_url(url) or READER_STATE["disabled"]:
+        return "", ""
+    if READER_STATE["calls"] >= READER_MAX_CALLS:
+        log(f"Reader fallback limit ({READER_MAX_CALLS} per run) reached")
+        return "", ""
+
+    wait = READER_MIN_INTERVAL_SECONDS - (time.time() - READER_STATE["last_call"])
+    if wait > 0:
+        time.sleep(wait)
+
+    headers = {"Accept": "text/plain", "User-Agent": CHROME_USER_AGENT}
+    if JINA_API_KEY:
+        headers["Authorization"] = f"Bearer {JINA_API_KEY}"
+
+    READER_STATE["calls"] += 1
+    try:
+        response = requests.get(READER_URL + url, headers=headers, timeout=READER_TIMEOUT)
+    except Exception as e:
+        log(f"Reader fallback failed ({get_domain(url)}): {short_error(e, 150)}")
+        return "", ""
+    finally:
+        READER_STATE["last_call"] = time.time()
+
+    if response.status_code == 429:
+        READER_STATE["disabled"] = True
+        log("Reader fallback rate limited (429): not used for the rest of this run")
+        return "", ""
+    if response.status_code != 200:
+        log(f"Reader fallback HTTP {response.status_code} ({get_domain(url)})")
+        return "", ""
+
+    raw = response.text[:400000]
+    match = re.search(r"^URL Source:\s*(\S+)", raw, flags=re.M)
+    source_url = match.group(1).strip() if match else ""
+    if "Markdown Content:" in raw:
+        raw = raw.split("Markdown Content:", 1)[1]
+    return clean_reader_text(raw)[:ARTICLE_TEXT_LIMIT], source_url
+
+
+def check_article_text(text, title):
+    """Is this real article text for this story (not a paywall, cookie or captcha page)?"""
+    if len(text or "") < MIN_FULL_TEXT_CHARS:
+        return False, f"too short ({len(text or '')} chars)"
+    lower = text.lower()
+    hits = sum(lower.count(phrase) for phrase in BLOCK_PAGE_PHRASES)
+    if hits and (len(text) < 1500 or hits >= 3):
+        return False, "looks like a paywall / captcha page"
+    words = [w for w in title_tokens(title) if len(w) >= 4]
+    if words:
+        found = sum(1 for w in words if w in lower)
+        if found < (1 if len(words) <= 2 else 2):
+            return False, "does not match the story title"
+    return True, ""
 
 
 # =========================
@@ -1972,14 +2322,73 @@ __DESCRIPTION__
 __TEXT__
 """
 
+FLASH_PROMPT = """
+Ты редактор Telegram-канала «WND | Мировой дайджест». Полного текста статьи нет: есть только
+заголовок и короткое описание из RSS. Напиши по ним срочную короткую новость («молнию») на русском языке.
+
+СТРОГО:
+- используй ТОЛЬКО информацию из заголовка и описания ниже;
+- никаких фактов извне, никакого контекста по памяти, никаких догадок о причинах или последствиях;
+- если чего-то нет в заголовке и описании, этого не должно быть и в тексте.
+
+ЗАГОЛОВОК (headline): короткий (до 110 символов), передаёт главный факт, без кликбейта.
+
+ПОСТ (post):
+- одно или максимум два коротких предложения, всего не больше __POST_CHARS__ символов;
+- выдели ровно один ключевой факт двойными звёздочками: **так** (короткий фрагмент, не целое предложение);
+- сохраняй числа, даты, имена и должности точно как в источнике;
+- без эмодзи, без ссылок, без упоминания источника или издания;
+- запрещены фразы: __BANNED__.
+
+Верни строго один JSON-объект:
+{"headline": "Заголовок", "post": "Текст с **ключевым фактом**"}
+
+ЗАГОЛОВОК СТАТЬИ:
+__TITLE__
+
+ОПИСАНИЕ:
+__DESCRIPTION__
+"""
+
 BOLD_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
+
+ZERO_WIDTH_RE = re.compile("[​‌‍⁠﻿­]")
+ODD_SPACE_RE = re.compile("[            　]")
+ODD_HYPHEN_RE = re.compile("[‐‑‒⁃﹣－]")
+INWORD_DASH_RE = re.compile(r"(?<=\w)[–−](?=\w)")
+
+
+def normalize_typography(text):
+    """Plain hyphens and spaces instead of non-breaking / zero-width variants. Keeps — and « »."""
+    text = ZERO_WIDTH_RE.sub("", text or "")
+    text = ODD_SPACE_RE.sub(" ", text)
+    text = ODD_HYPHEN_RE.sub("-", text)
+    text = INWORD_DASH_RE.sub("-", text)
+    text = re.sub(r"[ \t]{2,}", " ", text)
+    return text
+
+
+def repair_bold(post, max_spans):
+    """Keep the first `max_spans` short bold spans; unbold the rest (and any whole-sentence bold)."""
+    kept = [0]
+
+    def fix(match):
+        inner = match.group(1)
+        if not inner.strip() or len(inner.strip()) > BOLD_SPAN_MAX_CHARS or kept[0] >= max_spans:
+            return inner
+        kept[0] += 1
+        return match.group(0)
+
+    repaired = BOLD_RE.sub(fix, post or "")
+    return repaired, kept[0]
 
 
 def normalize_for_ban(text):
     return (text or "").lower().replace("ё", "е")
 
 
-def validate_rewrite(headline, post):
+def validate_rewrite(headline, post, flash=False):
+    """Bold spans are repaired, not validated here (see repair_bold)."""
     if not headline or not post:
         return False, "empty headline or post"
     if not is_valid_russian_rewrite(headline, post):
@@ -1987,17 +2396,12 @@ def validate_rewrite(headline, post):
     if len(headline) > HEADLINE_MAX_CHARS:
         return False, f"headline too long ({len(headline)})"
     plain_post = post.replace("**", "")
-    if len(plain_post) > POST_MAX_CHARS:
+    max_chars = FLASH_POST_MAX_CHARS if flash else POST_MAX_CHARS
+    min_chars = FLASH_POST_MIN_CHARS if flash else POST_MIN_CHARS
+    if len(plain_post) > max_chars:
         return False, f"post too long ({len(plain_post)})"
-    if len(plain_post) < POST_MIN_CHARS:
+    if len(plain_post) < min_chars:
         return False, f"post too short ({len(plain_post)})"
-    spans = BOLD_RE.findall(post)
-    if len(spans) < 1:
-        return False, "no bold facts"
-    if len(spans) > 3:
-        return False, f"too many bold spans ({len(spans)})"
-    if any(len(span) > BOLD_SPAN_MAX_CHARS for span in spans):
-        return False, "a whole sentence is bold"
     blob = normalize_for_ban(f"{headline} {post}")
     for phrase in BANNED_PHRASES:
         if normalize_for_ban(phrase) in blob:
@@ -2007,46 +2411,95 @@ def validate_rewrite(headline, post):
     return True, ""
 
 
-def rewrite_article(item, article_text):
+def clean_rewrite_output(result, max_bold):
+    headline = normalize_typography(strip_markdown(strip_emoji(str(result.get("headline") or "")))).strip()
+    post = normalize_typography(strip_emoji(str(result.get("post") or ""))).strip()
+    post = re.sub(r"\r\n?", "\n", post)
+    post = re.sub(r"\n{3,}", "\n\n", post)
+    post, bold_count = repair_bold(post, max_bold)
+    return headline, post, bold_count
+
+
+def rewrite_article(item, article_text, flash=False):
+    """
+    One rewrite per article through the rewrite model chain; Groq only after every Gemini model failed.
+    flash=True: title + RSS description only, 1-2 sentences, one bold span.
+    """
     description = (item.get("summary") or "")[:1500]
-    prompt = (
-        REWRITE_PROMPT
-        .replace("__POST_CHARS__", str(POST_TARGET_CHARS))
-        .replace("__BANNED__", ", ".join(f"«{p}»" for p in BANNED_PHRASES))
-        .replace("__DOMAIN__", item.get("domain", ""))
-        .replace("__TITLE__", item.get("title", ""))
-        .replace("__DESCRIPTION__", description or "(нет)")
-        .replace("__TEXT__", (article_text or "")[:ARTICLE_TEXT_LIMIT] or "(полный текст недоступен)")
-    )
+    banned = ", ".join(f"«{p}»" for p in BANNED_PHRASES)
+    if flash:
+        prompt = (
+            FLASH_PROMPT
+            .replace("__POST_CHARS__", str(FLASH_POST_TARGET_CHARS))
+            .replace("__BANNED__", banned)
+            .replace("__TITLE__", item.get("title", ""))
+            .replace("__DESCRIPTION__", description or "(нет)")
+        )
+    else:
+        prompt = (
+            REWRITE_PROMPT
+            .replace("__POST_CHARS__", str(POST_TARGET_CHARS))
+            .replace("__BANNED__", banned)
+            .replace("__DOMAIN__", item.get("domain", ""))
+            .replace("__TITLE__", item.get("title", ""))
+            .replace("__DESCRIPTION__", description or "(нет)")
+            .replace("__TEXT__", (article_text or "")[:ARTICLE_TEXT_LIMIT] or "(полный текст недоступен)")
+        )
 
-    attempts = [("gemini", GEMINI_REWRITE_MODEL)]
-    if GEMINI_SCORE_MODEL != GEMINI_REWRITE_MODEL:
-        attempts.append(("gemini", GEMINI_SCORE_MODEL))
-    if GROQ_API_KEY:
-        attempts.append(("groq", GROQ_FALLBACK_MODEL))
+    max_bold = 1 if flash else MAX_BOLD_SPANS
+    label = "flash rewrite" if flash else "rewrite"
+    found = {"chosen": None, "no_bold": None}
 
-    for provider, model in attempts:
+    def accept(result, model):
+        headline, post, bold_count = clean_rewrite_output(result, max_bold)
+        ok, reason = validate_rewrite(headline, post, flash)
+        if not ok:
+            log(f"Rewrite from {model} rejected ({reason}): {headline[:90]}")
+            if found["no_bold"] is not None:
+                found["chosen"] = found["no_bold"]  # the one extra try is used up
+                return True
+            return False
+        candidate = {"headline": headline, "post": post, "model": model, "flash": flash, "bold": bold_count}
+        if bold_count >= 1:
+            found["chosen"] = candidate
+            return True
+        if found["no_bold"] is None:
+            log(f"Rewrite from {model} has no bold facts, trying the next model once")
+            found["no_bold"] = candidate
+            return False
+        found["chosen"] = found["no_bold"]
+        return True
+
+    try:
+        gemini_generate_json(prompt, GEMINI_REWRITE_MODELS, 0.3, label, accept=accept)
+    except Exception as e:
+        log(f"Gemini {label}: {short_error(e, 200)}")
+
+    if found["chosen"] is None and found["no_bold"] is not None:
+        found["chosen"] = found["no_bold"]
+
+    if found["chosen"] is None and GROQ_API_KEY:
         try:
-            if provider == "gemini":
-                result = gemini_generate_json(prompt, model, 0.3, "rewrite")
+            result = groq_generate_json(prompt, 0.3, label)
+            headline, post, bold_count = clean_rewrite_output(result, max_bold)
+            ok, reason = validate_rewrite(headline, post, flash)
+            if ok:
+                found["chosen"] = {
+                    "headline": headline, "post": post, "model": GROQ_FALLBACK_MODEL,
+                    "flash": flash, "bold": bold_count,
+                }
             else:
-                result = groq_generate_json(prompt, 0.3, "rewrite")
+                log(f"Rewrite from {GROQ_FALLBACK_MODEL} rejected ({reason}): {headline[:90]}")
         except Exception as e:
-            log(f"Rewrite with {model} failed: {short_error(e, 200)}")
-            continue
+            log(f"Groq {label} failed: {short_error(e, 200)}")
 
-        headline = strip_markdown(strip_emoji(str(result.get("headline") or ""))).strip()
-        post = strip_emoji(str(result.get("post") or "")).strip()
-        post = re.sub(r"\r\n?", "\n", post)
-        post = re.sub(r"\n{3,}", "\n\n", post)
-
-        ok, reason = validate_rewrite(headline, post)
-        if ok:
-            log(f"Rewrite OK with {model}: {headline[:90]}")
-            return {"headline": headline, "post": post, "model": model}
-        log(f"Rewrite from {model} rejected ({reason}): {headline[:90]}")
-
-    return None
+    chosen = found["chosen"]
+    if chosen:
+        log(
+            f"Rewrite OK with {chosen['model']} | bold spans {chosen['bold']}"
+            f"{' | FLASH (title + description only)' if flash else ''} | {chosen['headline'][:90]}"
+        )
+    return chosen
 
 
 # =========================
@@ -2245,68 +2698,135 @@ def send_post(caption_html, text_html, keyboard, video_url, image):
 # PUBLISHING
 # =========================
 
-def prepare_story(item, blocked_image_keys):
+def gather_story(item):
     """
-    Resolve the link, fetch the article, rewrite it and pick media.
-    Returns (status, data): status is "ok", "no_content" (permanent skip) or "error" (retry later).
+    Resolve the link and find usable text for one report of a story:
+    1. direct fetch with browser headers, 2. r.jina.ai reader if blocked / too little text,
+    3. RSS description of >= 200 chars. Returns a context dict; ctx["mode"] is
+    "full", "description" or "none".
     """
-    article_url = item.get("url") or item["link"]
-    resolved_url = ""
+    title = item.get("title", "")
+    ctx = {
+        "article_url": item.get("url") or item["link"],
+        "resolved_url": "",
+        "page_url": "",
+        "page_html": "",
+        "text": "",
+        "mode": "none",
+    }
 
     if item.get("aggregator"):
         resolved = resolve_publisher_url(item)
         if resolved:
-            resolved_url = resolved
-            article_url = resolved
+            ctx["resolved_url"] = resolved
+            ctx["article_url"] = resolved
             log(f"Resolved aggregator link -> {get_domain(resolved)}")
         else:
-            log(f"Aggregator link not resolved, headline-only: {item['title'][:90]}")
+            log(f"Aggregator link not resolved: {title[:90]}")
 
-    page_url, page_html = ("", "")
-    if not is_aggregator_url(article_url):
-        page_url, page_html = fetch_page(article_url)
+    # 1. Direct fetch.
+    if not is_aggregator_url(ctx["article_url"]):
+        page_url, page_html, status = fetch_page(ctx["article_url"])
         # Never use text/images of a different page (homepage, paywall or login redirect).
         if page_html and (is_aggregator_url(page_url) or len(urlparse(page_url).path.strip("/")) < 5):
             log(f"Article page redirected away ({get_domain(page_url)}), ignoring page content")
             page_html = ""
+        ctx["page_url"], ctx["page_html"] = page_url, page_html
+        if page_html:
+            text = fetch_article_text(page_url or ctx["article_url"], page_html)
+            ok, why = check_article_text(text, title)
+            if ok:
+                ctx["text"], ctx["mode"] = text, "full"
+                log(f"Full text (direct): {len(text)} chars | {item.get('domain', '')} | {title[:80]}")
+                return ctx
+            log(f"Direct text unusable ({why}) | {item.get('domain', '')} | {title[:80]}")
+        elif status in BLOCKED_HTTP_STATUSES:
+            log(f"Direct fetch blocked (HTTP {status}) | {item.get('domain', '')} | {title[:80]}")
 
-    article_text = fetch_article_text(page_url or article_url, page_html) if page_html else ""
+    # 2. Reader fallback (also for aggregator links that could not be resolved).
+    text, source_url = fetch_via_reader(ctx["article_url"])
+    if text:
+        ok, why = check_article_text(text, title)
+        if ok:
+            ctx["text"], ctx["mode"] = text, "full"
+            if is_aggregator_url(ctx["article_url"]) and _looks_like_article_url(source_url):
+                ctx["resolved_url"] = ctx["article_url"] = clean_url_for_use(source_url)
+            log(f"Full text (reader): {len(text)} chars | {item.get('domain', '')} | {title[:80]}")
+            return ctx
+        log(f"Reader text unusable ({why}) | {title[:80]}")
+
+    # 3. RSS description.
     summary = item.get("summary") or ""
+    if len(summary) >= MIN_DESCRIPTION_CHARS:
+        ctx["mode"] = "description"
+        log(f"No full text, using RSS description ({len(summary)} chars) | {title[:80]}")
+        return ctx
 
-    if len(article_text) >= MIN_FULL_TEXT_CHARS:
-        log(f"Full text: {len(article_text)} chars | {item['title'][:90]}")
-    elif len(summary) >= MIN_DESCRIPTION_CHARS:
-        log(f"No full text, using RSS description ({len(summary)} chars) | {item['title'][:90]}")
-        article_text = ""
-    else:
-        log(
-            f"Not enough text to publish (text {len(article_text)}, description {len(summary)}) | "
-            f"{item['domain']} | {item['title'][:90]}"
-        )
-        return "no_content", None
+    log(f"No usable text (description {len(summary)} chars) | {item.get('domain', '')} | {title[:80]}")
+    return ctx
 
-    rewrite = rewrite_article(item, article_text)
+
+def finish_story(item, ctx, mode, blocked_image_keys):
+    """Rewrite (mode full / description / flash) and pick media. Returns (status, data, rewrite_seconds)."""
+    started = time.time()
+    rewrite = rewrite_article(item, ctx["text"] if mode == "full" else "", flash=(mode == "flash"))
+    rewrite_seconds = time.time() - started
     if not rewrite:
-        return "error", None
+        return "error", None, rewrite_seconds
 
-    page_images, page_videos = extract_page_media(page_url, page_html)
+    page_images, page_videos = extract_page_media(ctx["page_url"], ctx["page_html"])
     video_url = pick_video(page_videos + list(item.get("rss_videos") or []))
     # The image is picked even when a video exists: it is the fallback if sendVideo fails.
     image = pick_image(page_images + list(item.get("rss_images") or []), blocked_image_keys)
 
     return "ok", {
-        "article_url": article_url,
-        "resolved_url": resolved_url,
+        "article_url": ctx["article_url"],
+        "resolved_url": ctx["resolved_url"],
         "headline": rewrite["headline"],
         "post": rewrite["post"],
         "model": rewrite["model"],
+        "flash": bool(rewrite.get("flash")),
         "video_url": video_url,
         "image": image,
-    }
+    }, rewrite_seconds
 
 
-def time_left():
-    return RUN_TIME_BUDGET_SECONDS - (time.time() - RUN_STARTED_AT)
+def prepare_story(item, blocked_image_keys, stats):
+    """
+    Try the winner, then the other reports of the same event (best source first); the "flash"
+    form is the last resort after all of them had no text, and only for score >= FLASH_MIN_SCORE.
+    Returns (status, data, used_report); status is "ok", "no_content" (permanent skip) or "error".
+    """
+    options = [item] + list(item.get("alternates") or [])
+    gathered = []
+
+    for option in options:
+        try:
+            ctx = gather_story(option)
+        except Exception as e:
+            log(f"Fetching story failed: {short_error(e, 200)}")
+            continue
+        gathered.append((option, ctx))
+        if ctx["mode"] in ("full", "description"):
+            status, data, seconds = finish_story(option, ctx, ctx["mode"], blocked_image_keys)
+            stats["rewrite_seconds"] += seconds
+            return status, data, option
+
+    score = to_number(item.get("score"), 0)
+    if not gathered or score < FLASH_MIN_SCORE:
+        if gathered:
+            log(f"No text in any report and score {score:.1f} < {FLASH_MIN_SCORE}: skipped")
+        return "no_content", None, item
+
+    # Flash: the report with the longest RSS description (best source on ties).
+    option, ctx = max(
+        gathered,
+        key=lambda pair: (len(pair[0].get("summary") or ""), -source_priority(pair[0].get("domain", ""))),
+    )
+    log(f"FLASH: no text in any report, score {score:.1f} >= {FLASH_MIN_SCORE}, using title + description | {option.get('domain', '')}")
+    status, data, seconds = finish_story(option, ctx, "flash", blocked_image_keys)
+    stats["rewrite_seconds"] += seconds
+    return status, data, option
 
 
 def publish_all(state, new_items):
@@ -2327,7 +2847,7 @@ def publish_all(state, new_items):
     to_publish = [dict(q) for q in queue_items] + [state_entry_for(state, item) for item in new_items]
     to_publish = [item for item in to_publish if item]
 
-    stats = {"published": 0, "failed": 0, "skipped": 0, "deferred": 0}
+    stats = {"published": 0, "failed": 0, "skipped": 0, "deferred": 0, "flash": 0, "rewrite_seconds": 0.0}
     send_attempts = 0
     domain_counts = {}
     last_post_at = None
@@ -2356,19 +2876,11 @@ def publish_all(state, new_items):
             stats["deferred"] += 1
             continue
 
-        # Try the winner first, then other reports of the same event if the winner has no usable text.
-        status, data, used = "no_content", None, item
-        for option in [item] + list(item.get("alternates") or []):
-            try:
-                status, data = prepare_story(option, blocked_image_keys)
-            except Exception as e:
-                log(f"Preparing story failed: {short_error(e, 200)}")
-                status, data = "error", None
-            used = option
-            if status != "no_content":
-                break
-            if option is not item:
-                state.add_seen(url_hash=option.get("url_hash"))
+        try:
+            status, data, used = prepare_story(item, blocked_image_keys, stats)
+        except Exception as e:
+            log(f"Preparing story failed: {short_error(e, 200)}")
+            status, data, used = "error", None, item
 
         if status == "no_content":
             log(f"Skipped (no usable text in any report): {title}")
@@ -2396,7 +2908,7 @@ def publish_all(state, new_items):
             send_attempts += 1
             log(
                 f"Publishing: score {to_number(item.get('score'), 0):.1f} | {used.get('domain', '')} | "
-                f"model {data['model']} | {data['headline'][:90]}"
+                f"model {data['model']}{' | FLASH' if data.get('flash') else ''} | {data['headline'][:90]}"
             )
             ok, kind = send_post(caption_html, text_html, keyboard, data["video_url"], data["image"])
         else:
@@ -2419,6 +2931,7 @@ def publish_all(state, new_items):
                 "url": data["article_url"],
                 "image_url": image_url,
                 "media": kind,
+                "flash": bool(data.get("flash")),
                 "score": to_number(item.get("score"), 0),
                 "timestamp": int(time.time()),
             }
@@ -2430,7 +2943,9 @@ def publish_all(state, new_items):
             domain_counts[domain_key] = domain_counts.get(domain_key, 0) + 1
             state.remove_from_queue(item["url_hash"])
             stats["published"] += 1
-            log(f"Published as {kind}.")
+            if data.get("flash"):
+                stats["flash"] += 1
+            log(f"Published as {kind}{' (flash)' if data.get('flash') else ''}.")
         else:
             stats["failed"] += 1
             attempts = int(to_number(item.get("attempts"), 0)) + 1
@@ -2477,7 +2992,8 @@ def validate_env():
 
 def log_settings():
     log(
-        f"Settings | score model {GEMINI_SCORE_MODEL} | rewrite model {GEMINI_REWRITE_MODEL} | "
+        f"Settings | scoring chain {', '.join(GEMINI_SCORE_MODELS)} | "
+        f"rewrite chain {', '.join(GEMINI_REWRITE_MODELS)} | reader key {'yes' if JINA_API_KEY else 'no'} | "
         f"groq fallback {'on (' + GROQ_FALLBACK_MODEL + ')' if GROQ_API_KEY else 'off'} | "
         f"min score {MIN_SCORE_TO_POST} | max posts/run {MAX_POSTS_PER_RUN} | "
         f"max posts/domain {MAX_POSTS_PER_DOMAIN} | pause {POST_DELAY_MIN_SECONDS}-{POST_DELAY_MAX_SECONDS}s | "
@@ -2497,14 +3013,22 @@ def main():
     )
 
     try:
+        stage_started = time.time()
         sources = load_sources()
         candidates = collect_candidates(sources, state)
-        log(f"SUMMARY collected: {len(candidates)} new candidates from {len(sources)} sources")
+        log(
+            f"SUMMARY collected: {len(candidates)} new candidates from {len(sources)} sources "
+            f"| {time.time() - stage_started:.0f}s"
+        )
 
         passed = []
         if candidates:
+            stage_started = time.time()
             scored, unscored = score_candidates(candidates)
-            log(f"SUMMARY scored: {len(scored)} | unscored (retry next run): {len(unscored)}")
+            log(
+                f"SUMMARY scored: {len(scored)} | unscored (retry next run): {len(unscored)} "
+                f"| {time.time() - stage_started:.0f}s"
+            )
 
             for item in scored:
                 blocked, reason = is_blocked_news_item(item["title"], item.get("summary", ""), item.get("category", ""))
@@ -2519,21 +3043,28 @@ def main():
             log(f"SUMMARY passed threshold {MIN_SCORE_TO_POST}: {len(passed)}")
             state.save()
 
+        stage_started = time.time()
         winners, rejected = deduplicate(passed, state)
         for item in rejected:
             state.add_seen(url_hash=item["url_hash"], title_hash=item["title_hash"])
-        log(f"SUMMARY after dedup: {len(winners)} new stories | duplicates dropped: {len(rejected)} | queued from earlier runs: {len(state.queue)}")
+        log(
+            f"SUMMARY after dedup: {len(winners)} new stories | duplicates dropped: {len(rejected)} | "
+            f"queued from earlier runs: {len(state.queue)} | {time.time() - stage_started:.0f}s"
+        )
         state.save()
 
         if not winners and not state.queue:
             log("Nothing qualifies for publishing this run.")
             return
 
+        stage_started = time.time()
         stats = publish_all(state, winners)
+        publish_seconds = time.time() - stage_started
+        log(f"SUMMARY rewrite: {stats['rewrite_seconds']:.0f}s in total (inside the publish stage)")
         log(
-            f"SUMMARY published: {stats['published']} | failed: {stats['failed']} | "
+            f"SUMMARY published: {stats['published']} (flash: {stats['flash']}) | failed: {stats['failed']} | "
             f"skipped (no text): {stats['skipped']} | deferred: {stats['deferred']} | "
-            f"queued for next run: {len(state.queue)}"
+            f"queued for next run: {len(state.queue)} | publish stage {publish_seconds:.0f}s incl. pauses"
         )
     finally:
         state.prune()
