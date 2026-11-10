@@ -55,7 +55,7 @@ jobs:
           ENTRIES_PER_SOURCE: '25'
           # Model chains: comma-separated, tried left to right (free Flash / Flash-Lite models only).
           GEMINI_SCORE_MODELS: 'gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3.6-flash'
-          GEMINI_REWRITE_MODELS: 'gemini-3.8-flash,gemini-3.6-flash,gemini-3.1-flash-lite'
+          GEMINI_REWRITE_MODELS: 'gemini-3.6-flash,gemini-3.1-flash-lite,gemini-3.8-flash'
           GROQ_FALLBACK_MODEL: 'openai/gpt-oss-120b'
         run: python bot.py
 

@@ -1,6 +1,6 @@
 # One RSS URL per line. Lines starting with # are ignored.
 # Source priority for the same event (best first):
-# Reuters, AP, BBC, DW, WSJ, France 24, Al Jazeera, Politico.
+# Reuters, AP, BBC, DW, WSJ, France 24, Al Jazeera.
 
 # REUTERS (via Google News: headline-only, links are resolved best-effort)
 https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US
@@ -24,6 +24,3 @@ https://www.france24.com/en/rss
 
 # AL JAZEERA
 https://www.aljazeera.com/xml/rss/all.xml
-
-# POLITICO EUROPE
-https://www.politico.eu/rss/all/

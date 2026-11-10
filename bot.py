@@ -96,7 +96,7 @@ GEMINI_SCORE_MODELS = env_list(
 )
 GEMINI_REWRITE_MODELS = env_list(
     "GEMINI_REWRITE_MODELS",
-    ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.1-flash-lite"],
+    ["gemini-3.6-flash", "gemini-3.1-flash-lite", "gemini-3.8-flash"],
 )
 GROQ_FALLBACK_MODEL = env_str("GROQ_FALLBACK_MODEL", "openai/gpt-oss-120b")
 
@@ -159,15 +159,18 @@ VIDEO_MAX_BYTES = 50 * 1024 * 1024
 PAGE_MAX_BYTES = 4 * 1024 * 1024
 
 GEMINI_TIMEOUT_MS = 90000
-# Transient errors (500/502/503/504, timeouts): retry the SAME model after ~5, 15, 40 s (+-25% jitter).
+# Transient errors (500/502/503/504, timeouts), +-25% jitter:
+# - another model is still available in the chain: ONE same-model retry after ~5 s, then switch;
+# - the current model is the last one left: full backoff ~5, 15, 40 s.
+GEMINI_TRANSIENT_BACKOFF_FAST = [5]
 GEMINI_TRANSIENT_BACKOFF = [5, 15, 40]
 # 429 with a retry delay up to this: wait once. Above GEMINI_RATE_LIMIT_EXHAUSTED_SECONDS
 # or a daily quota: the model is exhausted for the rest of the run.
 GEMINI_RATE_LIMIT_MAX_WAIT = 90
 GEMINI_RATE_LIMIT_EXHAUSTED_SECONDS = 120
 GEMINI_RATE_LIMIT_DEFAULT_WAIT = 10
-# Circuit breaker: after this many consecutive failed calls (after retries) a model cools down.
-GEMINI_BREAKER_FAILURES = 2
+# Circuit breaker: after this many failed calls (retries exhausted) a model cools down.
+GEMINI_BREAKER_FAILURES = 1
 GEMINI_BREAKER_COOLDOWN_SECONDS = 10 * 60
 
 REQUEST_TIMEOUT = 25
@@ -1175,8 +1178,8 @@ def record_model_failure(model):
     if health["failure_streak"] >= GEMINI_BREAKER_FAILURES:
         health["cooldown_until"] = time.time() + GEMINI_BREAKER_COOLDOWN_SECONDS
         log(
-            f"Model {model}: {health['failure_streak']} failed calls in a row, cooling down for "
-            f"{GEMINI_BREAKER_COOLDOWN_SECONDS // 60} min; using the next model meanwhile"
+            f"Model {model}: failed after its retries, cooling down for "
+            f"{GEMINI_BREAKER_COOLDOWN_SECONDS // 60} min; skipped for the following calls"
         )
 
 
@@ -1239,14 +1242,16 @@ def budget_sleep(seconds, reason):
     return True
 
 
-def gemini_try_model(prompt, model, temperature, label):
+def gemini_try_model(prompt, model, temperature, label, last_in_chain=True):
     """
     One model, with retries. Returns the parsed JSON dict or raises GeminiUnavailable.
-    - transient (5xx, timeouts): same model, same key, backoff ~5/15/40 s with jitter
+    - transient (5xx, timeouts): same model, same key; one retry after ~5 s when another model
+      is still available (last_in_chain=False), full backoff ~5/15/40 s for the last model left
     - 429: rotate key; wait once if the retry delay is short, otherwise mark the model exhausted
     - 404: remove the model for this run
     """
     health = model_health(model)
+    backoff = GEMINI_TRANSIENT_BACKOFF if last_in_chain else GEMINI_TRANSIENT_BACKOFF_FAST
     transient_retries = 0
     rate_limit_waited = False
     auth_rotations = 0
@@ -1298,14 +1303,15 @@ def gemini_try_model(prompt, model, temperature, label):
 
             if kind == "transient":
                 transient_retries += 1
-                if transient_retries > len(GEMINI_TRANSIENT_BACKOFF):
+                if transient_retries > len(backoff):
                     record_model_failure(model)
-                    raise GeminiUnavailable(f"still unavailable after {len(GEMINI_TRANSIENT_BACKOFF)} retries")
-                base = GEMINI_TRANSIENT_BACKOFF[transient_retries - 1]
+                    raise GeminiUnavailable(f"still unavailable after {len(backoff)} retries")
+                base = backoff[transient_retries - 1]
                 wait = base * random.uniform(0.75, 1.25)
                 log(
                     f"Gemini {model}: temporarily unavailable, waiting {wait:.0f}s "
-                    f"(retry {transient_retries}/{len(GEMINI_TRANSIENT_BACKOFF)}, same model)"
+                    f"(retry {transient_retries}/{len(backoff)}, same model"
+                    f"{'' if last_in_chain else ', then next model'})"
                 )
                 if not budget_sleep(wait, f"{model} retry"):
                     record_model_failure(model)
@@ -1338,13 +1344,30 @@ def gemini_generate_json(prompt, models, temperature, label, accept=None):
     that are missing, exhausted or cooling down. `accept(result, model)` may return False to move
     on to the next model (e.g. unusable rewrite). Returns (result, model) or raises GeminiUnavailable.
     """
+    chain = [m for m in models if model_ready(m)]
+    if not chain:
+        # Every usable model is cooling down: use the one whose cooldown ends first
+        # (models removed by 404 or with exhausted quota are never used again this run).
+        cooling = [
+            m for m in models
+            if not model_health(m)["removed"] and not model_health(m)["exhausted"]
+        ]
+        if cooling:
+            soonest = min(cooling, key=lambda m: model_health(m)["cooldown_until"])
+            log(f"Gemini {label}: all models cooling down, trying {soonest} (its cooldown ends first)")
+            chain = [soonest]
+
     tried = []
-    for model in models:
-        if not model_ready(model):
+    for index, model in enumerate(chain):
+        if model in tried:
+            continue
+        # Re-check: an earlier failure in this walk may have put a later duplicate on cooldown.
+        if index > 0 and not model_ready(model):
             continue
         tried.append(model)
+        last_in_chain = not any(model_ready(m) for m in chain[index + 1:] if m not in tried)
         try:
-            result = gemini_try_model(prompt, model, temperature, label)
+            result = gemini_try_model(prompt, model, temperature, label, last_in_chain=last_in_chain)
         except GeminiUnavailable as e:
             log(f"Gemini {label}: {model} failed ({short_error(e, 120)}), next model")
             continue
@@ -2302,7 +2325,11 @@ REWRITE_PROMPT = """
   выделяй только короткий фрагмент, никогда не целое предложение;
 - сохраняй все числа, даты, суммы, имена и должности точно как в источнике;
 - не добавляй фактов, которых нет в источнике; никаких мнений и оценок;
-- без эмодзи, без ссылок, без упоминания источника или издания;
+- АТРИБУЦИЯ: если утверждение в статье приписано анонимным источникам, сообщению агентства или
+  официальному лицу ("sources say", "according to", "reportedly", "said"), обязательно сохрани эту
+  атрибуцию ("по данным источников", "как сообщается", "по словам ...") и не подавай такое утверждение
+  как установленный факт; никогда не превращай "sources say" или "reportedly" в утверждение без оговорки;
+- без эмодзи, без ссылок; не называй само издание, если только оно не входит в атрибуцию в тексте источника;
 - запрещены фразы: __BANNED__.
 
 Если полного текста нет, опирайся только на заголовок и описание и пиши 2-3 предложения.
@@ -2329,7 +2356,13 @@ FLASH_PROMPT = """
 СТРОГО:
 - используй ТОЛЬКО информацию из заголовка и описания ниже;
 - никаких фактов извне, никакого контекста по памяти, никаких догадок о причинах или последствиях;
-- если чего-то нет в заголовке и описании, этого не должно быть и в тексте.
+- если чего-то нет в заголовке и описании, этого не должно быть и в тексте;
+- АТРИБУЦИЯ: если заголовок или описание приписывают утверждение анонимным источникам, сообщению
+  агентства или официальному лицу ("sources say", "according to", "reportedly", "said"), текст
+  ОБЯЗАН сохранить эту атрибуцию ("по данным источников", "сообщает агентство", "по словам ...")
+  и не подавать утверждение как установленный факт; никогда не превращай "sources say" или
+  "reportedly" в утверждение без оговорки;
+- не называй само издание, если только оно не входит в атрибуцию в заголовке или описании.
 
 ЗАГОЛОВОК (headline): короткий (до 110 символов), передаёт главный факт, без кликбейта.
 
@@ -2337,7 +2370,7 @@ FLASH_PROMPT = """
 - одно или максимум два коротких предложения, всего не больше __POST_CHARS__ символов;
 - выдели ровно один ключевой факт двойными звёздочками: **так** (короткий фрагмент, не целое предложение);
 - сохраняй числа, даты, имена и должности точно как в источнике;
-- без эмодзи, без ссылок, без упоминания источника или издания;
+- без эмодзи, без ссылок;
 - запрещены фразы: __BANNED__.
 
 Верни строго один JSON-объект:
